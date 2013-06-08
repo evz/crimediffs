@@ -1,0 +1,3 @@
+## Tracking changes in Chicago crime reports
+
+The files in this repo represent individual cases of reported through the City of Chicago’s data portal [here](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2). The concept here is to create a commit for each new crime and then, as the crime is updated through the data portal, track the changes using git. For now, you can find changes using the Github API but I’m planning on building a more robust endpoint in the coming weeks.
