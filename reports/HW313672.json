@@ -1,0 +1,33 @@
+{
+    "community_area": "74", 
+    "_id": {
+        "$oid": "51b894133c002ed20d78d57e"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2211", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "CEMETARY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73016460866906, 
+            41.69103021823169
+        ]
+    }, 
+    "case_number": "HW313672", 
+    "date": {
+        "$date": 1370390460000
+    }, 
+    "updated_on": {
+        "$date": 1370997720000
+    }, 
+    "ward": "19", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9168549", 
+    "block": "044XX W 111TH ST", 
+    "description": "OVER $500"
+}
