@@ -1,0 +1,33 @@
+{
+    "community_area": "1", 
+    "_id": {
+        "$oid": "51b894193c002ed20d78d7c7"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2431", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66986531885716, 
+            42.00725656702958
+        ]
+    }, 
+    "case_number": "HW313699", 
+    "date": {
+        "$date": 1370343600000
+    }, 
+    "updated_on": {
+        "$date": 1370997720000
+    }, 
+    "ward": "49", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9168351", 
+    "block": "069XX N ASHLAND BLVD", 
+    "description": "FROM BUILDING"
+}
