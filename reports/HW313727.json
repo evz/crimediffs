@@ -1,0 +1,33 @@
+{
+    "community_area": "61", 
+    "_id": {
+        "$oid": "51b894173c002ed20d78d6cf"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0932", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "VACANT LOT/LAND", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67400157573135, 
+            41.79402856566929
+        ]
+    }, 
+    "case_number": "HW313727", 
+    "date": {
+        "$date": 1370363400000
+    }, 
+    "updated_on": {
+        "$date": 1370997720000
+    }, 
+    "ward": "16", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9168832", 
+    "block": "019XX W GARFIELD BLVD", 
+    "description": "FROM BUILDING"
+}
