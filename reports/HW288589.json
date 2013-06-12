@@ -1,1 +1,38 @@
-{"y_coordinate": "1846564", "year": "2013", "domestic": false, "case_number": "HW288589", "id": "9143758", "primary_type": "CRIMINAL DAMAGE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55251980524775, 41.73382571520017]}, "community_area": "46", "latitude": "41.73382571520017", "type": "quality", "description": "TO PROPERTY", "beat": "0423", "date": {"$date": 1369326600000}, "ward": "10", "_id": {"$oid": "51aa13963c002ed20d78b2af"}, "iucr": "1310", "longitude": "-87.55251980524775", "location_description": "MEDICAL/DENTAL OFFICE", "x_coordinate": "1197368", "updated_on": {"$date": 1369615194000}, "fbi_code": "14", "block": "029XX E 89TH ST"}
+{
+    "y_coordinate": "1846564", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288589", 
+    "id": "9143758", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55251980524775, 
+            41.73382571520017
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.73382571520017", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0423", 
+    "date": {
+        "$date": 1369326600000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b2af"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.55251980524775", 
+    "location_description": "MEDICAL/DENTAL OFFICE", 
+    "x_coordinate": "1197368", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "14", 
+    "block": "029XX E 89TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1896787", "year": "2013", "domestic": false, "case_number": "HW300740", "id": "9155181", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71050598005593, 41.872616864022085]}, "community_area": "27", "latitude": "41.872616864022085", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1134", "date": {"$date": 1370138460000}, "ward": "24", "_id": {"$oid": "51b5f11d3c002ed20d78ceb7"}, "iucr": "1811", "longitude": "-87.71050598005593", "location_description": "SIDEWALK", "x_coordinate": "1153880", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "033XX W FLOURNOY ST"}
+{
+    "y_coordinate": "1896787", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300740", 
+    "id": "9155181", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71050598005593, 
+            41.872616864022085
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.872616864022085", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1134", 
+    "date": {
+        "$date": 1370138460000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78ceb7"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.71050598005593", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1153880", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "033XX W FLOURNOY ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1903763", "year": "2013", "domestic": false, "case_number": "HW293788", "id": "9147924", "primary_type": "THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72341277620217, 41.891830006647034]}, "community_area": "23", "latitude": "41.891830006647034", "type": "property", "description": "FROM BUILDING", "beat": "1122", "date": {"$date": 1369386000000}, "ward": "27", "_id": {"$oid": "51aa13933c002ed20d78b0db"}, "iucr": "890", "longitude": "-87.72341277620217", "location_description": "CHURCH/SYNAGOGUE/PLACE OF WORSHIP", "x_coordinate": "1150315", "updated_on": {"$date": 1369960832000}, "fbi_code": "06", "block": "038XX W OHIO ST"}
+{
+    "y_coordinate": "1903763", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293788", 
+    "id": "9147924", 
+    "primary_type": "THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72341277620217, 
+            41.891830006647034
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.891830006647034", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1122", 
+    "date": {
+        "$date": 1369386000000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b0db"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.72341277620217", 
+    "location_description": "CHURCH/SYNAGOGUE/PLACE OF WORSHIP", 
+    "x_coordinate": "1150315", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "06", 
+    "block": "038XX W OHIO ST"
+}

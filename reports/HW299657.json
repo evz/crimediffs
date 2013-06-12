@@ -1,1 +1,38 @@
-{"y_coordinate": "1899167", "year": "2013", "domestic": true, "case_number": "HW299657", "id": "9154486", "primary_type": "CRIMINAL DAMAGE", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7610372741858, 41.87941111111767]}, "community_area": "25", "latitude": "41.87941111111767", "type": "quality", "description": "TO VEHICLE", "beat": "1522", "date": {"$date": 1370079000000}, "ward": "29", "_id": {"$oid": "51b5f1213c002ed20d78d150"}, "iucr": "1320", "longitude": "-87.7610372741858", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1140101", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "054XX W MONROE ST"}
+{
+    "y_coordinate": "1899167", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW299657", 
+    "id": "9154486", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7610372741858, 
+            41.87941111111767
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.87941111111767", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1522", 
+    "date": {
+        "$date": 1370079000000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d150"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.7610372741858", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1140101", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "054XX W MONROE ST"
+}

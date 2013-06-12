@@ -1,1 +1,38 @@
-{"y_coordinate": "1895701", "year": "2013", "domestic": false, "case_number": "HW286920", "id": "9143177", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65555025010791, 41.86932542148675]}, "community_area": "28", "latitude": "41.86932542148675", "type": "property", "description": "$500 AND UNDER", "beat": "1232", "date": {"$date": 1369263600000}, "ward": "25", "_id": {"$oid": "51a770873c002ed20d78aa6e"}, "iucr": "820", "longitude": "-87.65555025010791", "location_description": "ALLEY", "x_coordinate": "1168857", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "011XX W TAYLOR ST"}
+{
+    "y_coordinate": "1895701", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286920", 
+    "id": "9143177", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65555025010791, 
+            41.86932542148675
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.86932542148675", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1232", 
+    "date": {
+        "$date": 1369263600000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51a770873c002ed20d78aa6e"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.65555025010791", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1168857", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "011XX W TAYLOR ST"
+}

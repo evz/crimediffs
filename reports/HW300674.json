@@ -1,1 +1,38 @@
-{"y_coordinate": "1897571", "year": "2013", "domestic": false, "case_number": "HW300674", "id": "9155080", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70754414624014, 41.87475225566981]}, "community_area": "27", "latitude": "41.87475225566981", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1134", "date": {"$date": 1370132280000}, "ward": "28", "_id": {"$oid": "51b5f11d3c002ed20d78cef6"}, "iucr": "1811", "longitude": "-87.70754414624014", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1154681", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "032XX W CONGRESS PKWY"}
+{
+    "y_coordinate": "1897571", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300674", 
+    "id": "9155080", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70754414624014, 
+            41.87475225566981
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.87475225566981", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1134", 
+    "date": {
+        "$date": 1370132280000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78cef6"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.70754414624014", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1154681", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "032XX W CONGRESS PKWY"
+}

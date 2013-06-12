@@ -1,1 +1,38 @@
-{"y_coordinate": "1832300", "year": "2013", "domestic": false, "case_number": "HW301263", "id": "9155525", "primary_type": "THEFT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6269361564209, 41.69516231749784]}, "community_area": "49", "latitude": "41.69516231749784", "type": "property", "description": "FROM BUILDING", "beat": "0513", "date": {"$date": 1370111400000}, "ward": "34", "_id": {"$oid": "51b5f11f3c002ed20d78cff3"}, "iucr": "890", "longitude": "-87.6269361564209", "location_description": "CONSTRUCTION SITE", "x_coordinate": "1177172", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "001XX W 109TH PL"}
+{
+    "y_coordinate": "1832300", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301263", 
+    "id": "9155525", 
+    "primary_type": "THEFT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6269361564209, 
+            41.69516231749784
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.69516231749784", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0513", 
+    "date": {
+        "$date": 1370111400000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cff3"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.6269361564209", 
+    "location_description": "CONSTRUCTION SITE", 
+    "x_coordinate": "1177172", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "001XX W 109TH PL"
+}

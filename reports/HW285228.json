@@ -1,1 +1,38 @@
-{"y_coordinate": "1900902", "year": "2013", "domestic": false, "case_number": "HW285228", "id": "9139905", "primary_type": "KIDNAPPING", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76138036555263, 41.88417409390791]}, "community_area": "25", "latitude": "41.88417409390791", "type": null, "description": "CHILD ABDUCTION/STRANGER", "beat": "1523", "date": {"$date": 1369169400000}, "ward": "28", "_id": {"$oid": "51a61f093c002ed20d78a74b"}, "iucr": "1792", "longitude": "-87.76138036555263", "location_description": "SIDEWALK", "x_coordinate": "1139996", "updated_on": {"$date": 1369356045000}, "fbi_code": "20", "block": "054XX W WEST END AVE"}
+{
+    "y_coordinate": "1900902", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285228", 
+    "id": "9139905", 
+    "primary_type": "KIDNAPPING", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76138036555263, 
+            41.88417409390791
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.88417409390791", 
+    "type": null, 
+    "description": "CHILD ABDUCTION/STRANGER", 
+    "beat": "1523", 
+    "date": {
+        "$date": 1369169400000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a61f093c002ed20d78a74b"
+    }, 
+    "iucr": "1792", 
+    "longitude": "-87.76138036555263", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1139996", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "20", 
+    "block": "054XX W WEST END AVE"
+}

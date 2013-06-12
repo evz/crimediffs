@@ -1,1 +1,38 @@
-{"y_coordinate": "1909540", "year": "2013", "domestic": true, "case_number": "HW300933", "id": "9155334", "primary_type": "OTHER OFFENSE", "district": "018", "arrest": true, "location": {"type": "Point", "coordinates": [-87.65026306378807, 41.90727163870981]}, "community_area": "8", "latitude": "41.90727163870981", "type": null, "description": "VIOLATE ORDER OF PROTECTION", "beat": "1822", "date": {"$date": 1370161800000}, "ward": "32", "_id": {"$oid": "51b5f11c3c002ed20d78ce2c"}, "iucr": "4387", "longitude": "-87.65026306378807", "location_description": "OTHER", "x_coordinate": "1170187", "updated_on": {"$date": 1370392932000}, "fbi_code": "26", "block": "008XX W EASTMAN ST"}
+{
+    "y_coordinate": "1909540", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300933", 
+    "id": "9155334", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "018", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65026306378807, 
+            41.90727163870981
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.90727163870981", 
+    "type": null, 
+    "description": "VIOLATE ORDER OF PROTECTION", 
+    "beat": "1822", 
+    "date": {
+        "$date": 1370161800000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce2c"
+    }, 
+    "iucr": "4387", 
+    "longitude": "-87.65026306378807", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1170187", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "26", 
+    "block": "008XX W EASTMAN ST"
+}

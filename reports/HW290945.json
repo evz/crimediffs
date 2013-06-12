@@ -1,1 +1,38 @@
-{"y_coordinate": "1852856", "year": "2013", "domestic": false, "case_number": "HW290945", "id": "9145514", "primary_type": "CRIMINAL DAMAGE", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61482250792726, 41.75149937689459]}, "community_area": "69", "latitude": "41.75149937689459", "type": "quality", "description": "TO PROPERTY", "beat": "0624", "date": {"$date": 1369516500000}, "ward": "6", "_id": {"$oid": "51b34a0e3c002ed20d78c90a"}, "iucr": "1310", "longitude": "-87.61482250792726", "location_description": "BARBERSHOP", "x_coordinate": "1180309", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "078XX S DR MARTIN LUTHER KING JR DR"}
+{
+    "y_coordinate": "1852856", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290945", 
+    "id": "9145514", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61482250792726, 
+            41.75149937689459
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.75149937689459", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0624", 
+    "date": {
+        "$date": 1369516500000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c90a"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.61482250792726", 
+    "location_description": "BARBERSHOP", 
+    "x_coordinate": "1180309", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "078XX S DR MARTIN LUTHER KING JR DR"
+}

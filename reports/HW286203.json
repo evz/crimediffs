@@ -1,1 +1,38 @@
-{"y_coordinate": "1902958", "year": "2013", "domestic": true, "case_number": "HW286203", "id": "9141427", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7257731445787, 41.88963340265692]}, "community_area": "23", "latitude": "41.88963340265692", "type": null, "description": "SIMPLE", "beat": "1122", "date": {"$date": 1369232940000}, "ward": "27", "_id": {"$oid": "51a7708b3c002ed20d78ac0a"}, "iucr": "460", "longitude": "-87.7257731445787", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1149678", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "004XX N PULASKI RD"}
+{
+    "y_coordinate": "1902958", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW286203", 
+    "id": "9141427", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7257731445787, 
+            41.88963340265692
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.88963340265692", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1122", 
+    "date": {
+        "$date": 1369232940000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac0a"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.7257731445787", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1149678", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "004XX N PULASKI RD"
+}

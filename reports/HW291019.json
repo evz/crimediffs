@@ -1,1 +1,38 @@
-{"y_coordinate": "1886991", "year": "2013", "domestic": false, "case_number": "HW291019", "id": "9146049", "primary_type": "OTHER OFFENSE", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70736474228794, 41.84571703767771]}, "community_area": "30", "latitude": "41.84571703767771", "type": null, "description": "PROBATION VIOLATION", "beat": "1024", "date": {"$date": 1369522200000}, "ward": "22", "_id": {"$oid": "51b34a0d3c002ed20d78c8c9"}, "iucr": "4510", "longitude": "-87.70736474228794", "location_description": "ALLEY", "x_coordinate": "1154807", "updated_on": {"$date": 1369787985000}, "fbi_code": "26", "block": "025XX S SPAULDING AVE"}
+{
+    "y_coordinate": "1886991", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291019", 
+    "id": "9146049", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70736474228794, 
+            41.84571703767771
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.84571703767771", 
+    "type": null, 
+    "description": "PROBATION VIOLATION", 
+    "beat": "1024", 
+    "date": {
+        "$date": 1369522200000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c8c9"
+    }, 
+    "iucr": "4510", 
+    "longitude": "-87.70736474228794", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1154807", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "26", 
+    "block": "025XX S SPAULDING AVE"
+}

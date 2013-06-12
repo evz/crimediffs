@@ -1,1 +1,38 @@
-{"y_coordinate": "1908625", "year": "2013", "domestic": false, "case_number": "HW300636", "id": "9155134", "primary_type": "BURGLARY", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6760946429363, 41.90491142144277]}, "community_area": "24", "latitude": "41.90491142144277", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "1424", "date": {"$date": 1370120400000}, "ward": "1", "_id": {"$oid": "51b5f11e3c002ed20d78cf92"}, "iucr": "620", "longitude": "-87.6760946429363", "location_description": "RESIDENCE", "x_coordinate": "1163162", "updated_on": {"$date": 1370392932000}, "fbi_code": "05", "block": "019XX W POTOMAC AVE"}
+{
+    "y_coordinate": "1908625", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300636", 
+    "id": "9155134", 
+    "primary_type": "BURGLARY", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6760946429363, 
+            41.90491142144277
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.90491142144277", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "1424", 
+    "date": {
+        "$date": 1370120400000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf92"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.6760946429363", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1163162", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "05", 
+    "block": "019XX W POTOMAC AVE"
+}

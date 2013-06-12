@@ -1,1 +1,38 @@
-{"y_coordinate": "1904014", "year": "2013", "domestic": false, "case_number": "HW290983", "id": "9145574", "primary_type": "OTHER OFFENSE", "district": "018", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62401549151072, 41.89194786826492]}, "community_area": "8", "latitude": "41.89194786826492", "type": null, "description": "TELEPHONE THREAT", "beat": "1834", "date": {"$date": 1369503780000}, "ward": "42", "_id": {"$oid": "51b34a0f3c002ed20d78c9a3"}, "iucr": "2820", "longitude": "-87.62401549151072", "location_description": "APARTMENT", "x_coordinate": "1177378", "updated_on": {"$date": 1370133629000}, "fbi_code": "26", "block": "005XX N MICHIGAN AVE"}
+{
+    "y_coordinate": "1904014", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290983", 
+    "id": "9145574", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "018", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62401549151072, 
+            41.89194786826492
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89194786826492", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "1834", 
+    "date": {
+        "$date": 1369503780000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c9a3"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.62401549151072", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1177378", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "26", 
+    "block": "005XX N MICHIGAN AVE"
+}

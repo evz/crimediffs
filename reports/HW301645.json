@@ -1,1 +1,38 @@
-{"y_coordinate": "1855565", "year": "2013", "domestic": true, "case_number": "HW301645", "id": "9155857", "primary_type": "CRIMINAL DAMAGE", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62169560358953, 41.758976465331024]}, "community_area": "69", "latitude": "41.758976465331024", "type": "quality", "description": "TO VEHICLE", "beat": "0323", "date": {"$date": 1370205000000}, "ward": "6", "_id": {"$oid": "51b5f1173c002ed20d78cc6e"}, "iucr": "1320", "longitude": "-87.62169560358953", "location_description": "STREET", "x_coordinate": "1178411", "updated_on": {"$date": 1370565766000}, "fbi_code": "14", "block": "074XX S MICHIGAN AVE"}
+{
+    "y_coordinate": "1855565", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301645", 
+    "id": "9155857", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62169560358953, 
+            41.758976465331024
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.758976465331024", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0323", 
+    "date": {
+        "$date": 1370205000000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b5f1173c002ed20d78cc6e"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.62169560358953", 
+    "location_description": "STREET", 
+    "x_coordinate": "1178411", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "14", 
+    "block": "074XX S MICHIGAN AVE"
+}

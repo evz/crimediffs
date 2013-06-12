@@ -1,1 +1,38 @@
-{"y_coordinate": "1852101", "year": "2013", "domestic": true, "case_number": "HW289082", "id": "9144983", "primary_type": "CRIMINAL DAMAGE", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60420062638651, 41.74936051233294]}, "community_area": "44", "latitude": "41.74936051233294", "type": "quality", "description": "TO PROPERTY", "beat": "0631", "date": {"$date": 1369396800000}, "ward": "8", "_id": {"$oid": "51aa13923c002ed20d78b066"}, "iucr": "1310", "longitude": "-87.60420062638651", "location_description": "APARTMENT", "x_coordinate": "1183214", "updated_on": {"$date": 1370565766000}, "fbi_code": "14", "block": "008XX E 80TH ST"}
+{
+    "y_coordinate": "1852101", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289082", 
+    "id": "9144983", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60420062638651, 
+            41.74936051233294
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.74936051233294", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0631", 
+    "date": {
+        "$date": 1369396800000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b066"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.60420062638651", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1183214", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "14", 
+    "block": "008XX E 80TH ST"
+}

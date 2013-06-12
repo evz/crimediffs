@@ -1,1 +1,38 @@
-{"y_coordinate": "1925078", "year": "2013", "domestic": false, "case_number": "HW287958", "id": "9142968", "primary_type": "BURGLARY", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65183712306369, 41.94992070366325]}, "community_area": "6", "latitude": "41.94992070366325", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1923", "date": {"$date": 1369299600000}, "ward": "46", "_id": {"$oid": "51aa13983c002ed20d78b3e9"}, "iucr": "610", "longitude": "-87.65183712306369", "location_description": "APARTMENT", "x_coordinate": "1169635", "updated_on": {"$date": 1370651988000}, "fbi_code": "05", "block": "037XX N FREMONT ST"}
+{
+    "y_coordinate": "1925078", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287958", 
+    "id": "9142968", 
+    "primary_type": "BURGLARY", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65183712306369, 
+            41.94992070366325
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.94992070366325", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1923", 
+    "date": {
+        "$date": 1369299600000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3e9"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.65183712306369", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1169635", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "05", 
+    "block": "037XX N FREMONT ST"
+}

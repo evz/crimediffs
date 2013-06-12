@@ -1,1 +1,38 @@
-{"y_coordinate": "1829539", "year": "2013", "domestic": false, "case_number": "HW302686", "id": "9157345", "primary_type": "MOTOR VEHICLE THEFT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70661099546163, 41.688047329568036]}, "community_area": "74", "latitude": "41.688047329568036", "type": "property", "description": "THEFT/RECOVERY: AUTOMOBILE", "beat": "2211", "date": {"$date": 1369512000000}, "ward": "19", "_id": {"$oid": "51b34a0e3c002ed20d78c938"}, "iucr": "930", "longitude": "-87.70661099546163", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1155431", "updated_on": {"$date": 1370479286000}, "fbi_code": "07", "block": "112XX S TRUMBULL AVE"}
+{
+    "y_coordinate": "1829539", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302686", 
+    "id": "9157345", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70661099546163, 
+            41.688047329568036
+        ]
+    }, 
+    "community_area": "74", 
+    "latitude": "41.688047329568036", 
+    "type": "property", 
+    "description": "THEFT/RECOVERY: AUTOMOBILE", 
+    "beat": "2211", 
+    "date": {
+        "$date": 1369512000000
+    }, 
+    "ward": "19", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c938"
+    }, 
+    "iucr": "930", 
+    "longitude": "-87.70661099546163", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1155431", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "07", 
+    "block": "112XX S TRUMBULL AVE"
+}

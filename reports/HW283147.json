@@ -1,1 +1,38 @@
-{"y_coordinate": "1910223", "year": "2013", "domestic": false, "case_number": "HW283147", "id": "9137873", "primary_type": "THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74938913739167, 41.90969282665906]}, "community_area": "25", "latitude": "41.90969282665906", "type": "property", "description": "OVER $500", "beat": "2533", "date": {"$date": 1369053000000}, "ward": "37", "_id": {"$oid": "51a4cd913c002ed20d78a541"}, "iucr": "810", "longitude": "-87.74938913739167", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1143198", "updated_on": {"$date": 1369269615000}, "fbi_code": "06", "block": "049XX W NORTH AVE"}
+{
+    "y_coordinate": "1910223", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283147", 
+    "id": "9137873", 
+    "primary_type": "THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74938913739167, 
+            41.90969282665906
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.90969282665906", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "2533", 
+    "date": {
+        "$date": 1369053000000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a541"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.74938913739167", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1143198", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "06", 
+    "block": "049XX W NORTH AVE"
+}

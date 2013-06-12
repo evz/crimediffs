@@ -1,1 +1,38 @@
-{"y_coordinate": "1930664", "year": "2013", "domestic": false, "case_number": "HW302783", "id": "9157426", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65788748897793, 41.96528560436653]}, "community_area": "3", "latitude": "41.96528560436653", "type": "property", "description": "PURSE-SNATCHING", "beat": "1913", "date": {"$date": 1370275200000}, "ward": "46", "_id": {"$oid": "51b7429b3c002ed20d78d391"}, "iucr": "880", "longitude": "-87.65788748897793", "location_description": "SIDEWALK", "x_coordinate": "1167945", "updated_on": {"$date": 1370565766000}, "fbi_code": "06", "block": "011XX W WILSON AVE"}
+{
+    "y_coordinate": "1930664", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302783", 
+    "id": "9157426", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65788748897793, 
+            41.96528560436653
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.96528560436653", 
+    "type": "property", 
+    "description": "PURSE-SNATCHING", 
+    "beat": "1913", 
+    "date": {
+        "$date": 1370275200000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51b7429b3c002ed20d78d391"
+    }, 
+    "iucr": "880", 
+    "longitude": "-87.65788748897793", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1167945", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "06", 
+    "block": "011XX W WILSON AVE"
+}

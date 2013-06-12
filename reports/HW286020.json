@@ -1,1 +1,38 @@
-{"y_coordinate": "1903941", "year": "2013", "domestic": false, "case_number": "HW286020", "id": "9140998", "primary_type": "THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72369826544848, 41.89231999783693]}, "community_area": "23", "latitude": "41.89231999783693", "type": "property", "description": "FROM BUILDING", "beat": "1122", "date": {"$date": 1369227600000}, "ward": "27", "_id": {"$oid": "51a7708c3c002ed20d78ac5a"}, "iucr": "890", "longitude": "-87.72369826544848", "location_description": "RESIDENCE", "x_coordinate": "1150236", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "006XX N SPRINGFIELD AVE"}
+{
+    "y_coordinate": "1903941", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286020", 
+    "id": "9140998", 
+    "primary_type": "THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72369826544848, 
+            41.89231999783693
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.89231999783693", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1122", 
+    "date": {
+        "$date": 1369227600000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac5a"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.72369826544848", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1150236", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "006XX N SPRINGFIELD AVE"
+}

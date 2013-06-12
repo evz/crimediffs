@@ -1,1 +1,38 @@
-{"y_coordinate": "1863730", "year": "2013", "domestic": true, "case_number": "HW303485", "id": "9157966", "primary_type": "BATTERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64280725246809, 41.78151246440138]}, "community_area": "68", "latitude": "41.78151246440138", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0711", "date": {"$date": 1370309400000}, "ward": "16", "_id": {"$oid": "51b742953c002ed20d78d1ef"}, "iucr": "486", "longitude": "-87.64280725246809", "location_description": "SIDEWALK", "x_coordinate": "1172585", "updated_on": {"$date": 1370479286000}, "fbi_code": "08B", "block": "062XX S UNION AVE"}
+{
+    "y_coordinate": "1863730", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW303485", 
+    "id": "9157966", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64280725246809, 
+            41.78151246440138
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.78151246440138", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0711", 
+    "date": {
+        "$date": 1370309400000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51b742953c002ed20d78d1ef"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.64280725246809", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1172585", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08B", 
+    "block": "062XX S UNION AVE"
+}

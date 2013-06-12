@@ -1,1 +1,38 @@
-{"y_coordinate": "1905707", "year": "2013", "domestic": false, "case_number": "HW290743", "id": "9145367", "primary_type": "THEFT", "district": "018", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62543687110478, 41.8966026306074]}, "community_area": "8", "latitude": "41.8966026306074", "type": "property", "description": "RETAIL THEFT", "beat": "1833", "date": {"$date": 1369503600000}, "ward": "42", "_id": {"$oid": "51b34a0f3c002ed20d78c9a5"}, "iucr": "860", "longitude": "-87.62543687110478", "location_description": "DEPARTMENT STORE", "x_coordinate": "1176977", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "001XX E CHICAGO AVE"}
+{
+    "y_coordinate": "1905707", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290743", 
+    "id": "9145367", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62543687110478, 
+            41.8966026306074
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.8966026306074", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "1833", 
+    "date": {
+        "$date": 1369503600000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c9a5"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.62543687110478", 
+    "location_description": "DEPARTMENT STORE", 
+    "x_coordinate": "1176977", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "001XX E CHICAGO AVE"
+}

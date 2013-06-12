@@ -1,1 +1,38 @@
-{"y_coordinate": "1862930", "year": "2013", "domestic": false, "case_number": "HW288168", "id": "9143040", "primary_type": "BATTERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6700883397322, 41.77947776988423]}, "community_area": "67", "latitude": "41.77947776988423", "type": null, "description": "SIMPLE", "beat": "0714", "date": {"$date": 1369339380000}, "ward": "15", "_id": {"$oid": "51aa13953c002ed20d78b212"}, "iucr": "460", "longitude": "-87.6700883397322", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1165150", "updated_on": {"$date": 1370565766000}, "fbi_code": "08B", "block": "018XX W 63RD ST"}
+{
+    "y_coordinate": "1862930", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288168", 
+    "id": "9143040", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6700883397322, 
+            41.77947776988423
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.77947776988423", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0714", 
+    "date": {
+        "$date": 1369339380000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b212"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.6700883397322", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1165150", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "08B", 
+    "block": "018XX W 63RD ST"
+}

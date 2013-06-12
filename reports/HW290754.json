@@ -1,1 +1,38 @@
-{"y_coordinate": "1913601", "year": "2013", "domestic": false, "case_number": "HW290754", "id": "9145342", "primary_type": "THEFT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64866726749281, 41.91840644745882]}, "community_area": "7", "latitude": "41.91840644745882", "type": "property", "description": "POCKET-PICKING", "beat": "1812", "date": {"$date": 1369443600000}, "ward": "43", "_id": {"$oid": "51aa138b3c002ed20d78aded"}, "iucr": "870", "longitude": "-87.64866726749281", "location_description": "BAR OR TAVERN", "x_coordinate": "1170589", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "020XX N HALSTED ST"}
+{
+    "y_coordinate": "1913601", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290754", 
+    "id": "9145342", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64866726749281, 
+            41.91840644745882
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.91840644745882", 
+    "type": "property", 
+    "description": "POCKET-PICKING", 
+    "beat": "1812", 
+    "date": {
+        "$date": 1369443600000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51aa138b3c002ed20d78aded"
+    }, 
+    "iucr": "870", 
+    "longitude": "-87.64866726749281", 
+    "location_description": "BAR OR TAVERN", 
+    "x_coordinate": "1170589", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "020XX N HALSTED ST"
+}

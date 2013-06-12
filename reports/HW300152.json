@@ -1,1 +1,38 @@
-{"y_coordinate": "1826486", "year": "2013", "domestic": false, "case_number": "HW300152", "id": "9154678", "primary_type": "BATTERY", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6273522503096, 41.67920931742781]}, "community_area": "53", "latitude": "41.67920931742781", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0522", "date": {"$date": 1370102700000}, "ward": "34", "_id": {"$oid": "51b5f11f3c002ed20d78d03e"}, "iucr": "486", "longitude": "-87.6273522503096", "location_description": "APARTMENT", "x_coordinate": "1177106", "updated_on": {"$date": 1370565766000}, "fbi_code": "08B", "block": "118XX S WENTWORTH AVE"}
+{
+    "y_coordinate": "1826486", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300152", 
+    "id": "9154678", 
+    "primary_type": "BATTERY", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6273522503096, 
+            41.67920931742781
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.67920931742781", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0522", 
+    "date": {
+        "$date": 1370102700000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d03e"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.6273522503096", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1177106", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "08B", 
+    "block": "118XX S WENTWORTH AVE"
+}

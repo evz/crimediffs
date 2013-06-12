@@ -1,1 +1,38 @@
-{"y_coordinate": "1934659", "year": "2013", "domestic": true, "case_number": "HW290023", "id": "9144838", "primary_type": "BATTERY", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65059342462217, 41.97620554302241]}, "community_area": "3", "latitude": "41.97620554302241", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "2024", "date": {"$date": 1369453500000}, "ward": "48", "_id": {"$oid": "51aa13893c002ed20d78ad91"}, "iucr": "486", "longitude": "-87.65059342462217", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1169897", "updated_on": {"$date": 1370047283000}, "fbi_code": "08B", "block": "052XX N LAKE SHORE DR SB"}
+{
+    "y_coordinate": "1934659", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290023", 
+    "id": "9144838", 
+    "primary_type": "BATTERY", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65059342462217, 
+            41.97620554302241
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.97620554302241", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "2024", 
+    "date": {
+        "$date": 1369453500000
+    }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51aa13893c002ed20d78ad91"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.65059342462217", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1169897", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "08B", 
+    "block": "052XX N LAKE SHORE DR SB"
+}

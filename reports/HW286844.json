@@ -1,1 +1,38 @@
-{"y_coordinate": "1904793", "year": "2013", "domestic": false, "case_number": "HW286844", "id": "9141635", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72009510892964, 41.89463890730808]}, "community_area": "23", "latitude": "41.89463890730808", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1112", "date": {"$date": 1369259700000}, "ward": "27", "_id": {"$oid": "51a770883c002ed20d78aaad"}, "iucr": "1811", "longitude": "-87.72009510892964", "location_description": "SIDEWALK", "x_coordinate": "1151211", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "007XX N RIDGEWAY AVE"}
+{
+    "y_coordinate": "1904793", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286844", 
+    "id": "9141635", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72009510892964, 
+            41.89463890730808
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.89463890730808", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1112", 
+    "date": {
+        "$date": 1369259700000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aaad"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.72009510892964", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1151211", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "007XX N RIDGEWAY AVE"
+}

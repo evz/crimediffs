@@ -1,1 +1,38 @@
-{"y_coordinate": "1844549", "year": "2013", "domestic": true, "case_number": "HW301877", "id": "9156307", "primary_type": "BATTERY", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66057744423125, 41.728979408493565]}, "community_area": "73", "latitude": "41.728979408493565", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "2221", "date": {"$date": 1370219400000}, "ward": "21", "_id": {"$oid": "51b5f1153c002ed20d78cbcd"}, "iucr": "486", "longitude": "-87.66057744423125", "location_description": "APARTMENT", "x_coordinate": "1167888", "updated_on": {"$date": 1370824784000}, "fbi_code": "08B", "block": "090XX S LAFLIN ST"}
+{
+    "y_coordinate": "1844549", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301877", 
+    "id": "9156307", 
+    "primary_type": "BATTERY", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66057744423125, 
+            41.728979408493565
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.728979408493565", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "2221", 
+    "date": {
+        "$date": 1370219400000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbcd"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.66057744423125", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1167888", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "08B", 
+    "block": "090XX S LAFLIN ST"
+}

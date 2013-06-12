@@ -1,1 +1,38 @@
-{"y_coordinate": "1860175", "year": "2013", "domestic": true, "case_number": "HW290206", "id": "9145033", "primary_type": "BATTERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60684194370754, 41.771534704695746]}, "community_area": "42", "latitude": "41.771534704695746", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0321", "date": {"$date": 1369476000000}, "ward": "20", "_id": {"$oid": "51b34a123c002ed20d78cad4"}, "iucr": "486", "longitude": "-87.60684194370754", "location_description": "APARTMENT", "x_coordinate": "1182425", "updated_on": {"$date": 1369787985000}, "fbi_code": "08B", "block": "067XX S EVANS AVE"}
+{
+    "y_coordinate": "1860175", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290206", 
+    "id": "9145033", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60684194370754, 
+            41.771534704695746
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.771534704695746", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0321", 
+    "date": {
+        "$date": 1369476000000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cad4"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.60684194370754", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1182425", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "08B", 
+    "block": "067XX S EVANS AVE"
+}

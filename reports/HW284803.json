@@ -1,1 +1,38 @@
-{"y_coordinate": "1906241", "year": "2013", "domestic": false, "case_number": "HW284803", "id": "9139623", "primary_type": "BURGLARY", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71505084325736, 41.898585519236825]}, "community_area": "23", "latitude": "41.898585519236825", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1121", "date": {"$date": 1369149300000}, "ward": "27", "_id": {"$oid": "51a61f0c3c002ed20d78a86c"}, "iucr": "610", "longitude": "-87.71505084325736", "location_description": "RESIDENCE", "x_coordinate": "1152574", "updated_on": {"$date": 1369356045000}, "fbi_code": "05", "block": "009XX N DRAKE AVE"}
+{
+    "y_coordinate": "1906241", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284803", 
+    "id": "9139623", 
+    "primary_type": "BURGLARY", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71505084325736, 
+            41.898585519236825
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.898585519236825", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1121", 
+    "date": {
+        "$date": 1369149300000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a61f0c3c002ed20d78a86c"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.71505084325736", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1152574", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "05", 
+    "block": "009XX N DRAKE AVE"
+}

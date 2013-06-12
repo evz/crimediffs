@@ -1,1 +1,38 @@
-{"y_coordinate": "1854132", "year": "2013", "domestic": true, "case_number": "HW283639", "id": "9138169", "primary_type": "CRIMINAL TRESPASS", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60945500116947, 41.754967413809744]}, "community_area": "69", "latitude": "41.754967413809744", "type": null, "description": "TO LAND", "beat": "0624", "date": {"$date": 1369075500000}, "ward": "6", "_id": {"$oid": "51a4cd8f3c002ed20d78a429"}, "iucr": "1330", "longitude": "-87.60945500116947", "location_description": "SIDEWALK", "x_coordinate": "1181763", "updated_on": {"$date": 1370133629000}, "fbi_code": "26", "block": "006XX E 77TH ST"}
+{
+    "y_coordinate": "1854132", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283639", 
+    "id": "9138169", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60945500116947, 
+            41.754967413809744
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.754967413809744", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "0624", 
+    "date": {
+        "$date": 1369075500000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a429"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.60945500116947", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1181763", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "26", 
+    "block": "006XX E 77TH ST"
+}

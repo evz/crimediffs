@@ -1,1 +1,38 @@
-{"y_coordinate": "1893490", "year": "2013", "domestic": false, "case_number": "HW289286", "id": "9144380", "primary_type": "ARSON", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60906769072085, 41.86297415315509]}, "community_area": "33", "latitude": "41.86297415315509", "type": "property", "description": "BY FIRE", "beat": "0132", "date": {"$date": 1369410600000}, "ward": "2", "_id": {"$oid": "51aa13903c002ed20d78afa7"}, "iucr": "1020", "longitude": "-87.60906769072085", "location_description": "BOAT/WATERCRAFT", "x_coordinate": "1181537", "updated_on": {"$date": 1370392932000}, "fbi_code": "09", "block": "015XX S LYNN WHITE DR"}
+{
+    "y_coordinate": "1893490", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289286", 
+    "id": "9144380", 
+    "primary_type": "ARSON", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60906769072085, 
+            41.86297415315509
+        ]
+    }, 
+    "community_area": "33", 
+    "latitude": "41.86297415315509", 
+    "type": "property", 
+    "description": "BY FIRE", 
+    "beat": "0132", 
+    "date": {
+        "$date": 1369410600000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78afa7"
+    }, 
+    "iucr": "1020", 
+    "longitude": "-87.60906769072085", 
+    "location_description": "BOAT/WATERCRAFT", 
+    "x_coordinate": "1181537", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "09", 
+    "block": "015XX S LYNN WHITE DR"
+}

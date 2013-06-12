@@ -1,1 +1,38 @@
-{"y_coordinate": "1899013", "year": "2013", "domestic": false, "case_number": "HW285772", "id": "9140684", "primary_type": "ASSAULT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73565748449352, 41.87885921592648]}, "community_area": "26", "latitude": "41.87885921592648", "type": null, "description": "SIMPLE", "beat": "1113", "date": {"$date": 1369149600000}, "ward": "28", "_id": {"$oid": "51a61f0c3c002ed20d78a865"}, "iucr": "560", "longitude": "-87.73565748449352", "location_description": "SIDEWALK", "x_coordinate": "1147014", "updated_on": {"$date": 1369442383000}, "fbi_code": "08A", "block": "044XX W WILCOX ST"}
+{
+    "y_coordinate": "1899013", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285772", 
+    "id": "9140684", 
+    "primary_type": "ASSAULT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73565748449352, 
+            41.87885921592648
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.87885921592648", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1113", 
+    "date": {
+        "$date": 1369149600000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a61f0c3c002ed20d78a865"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.73565748449352", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1147014", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08A", 
+    "block": "044XX W WILCOX ST"
+}

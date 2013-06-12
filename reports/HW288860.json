@@ -1,1 +1,38 @@
-{"y_coordinate": "1883864", "year": "2013", "domestic": false, "case_number": "HW288860", "id": "9144037", "primary_type": "MOTOR VEHICLE THEFT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71417446201983, 41.83717262807664]}, "community_area": "30", "latitude": "41.83717262807664", "type": "property", "description": "TRUCK, BUS, MOTOR HOME", "beat": "1032", "date": {"$date": 1369396800000}, "ward": "22", "_id": {"$oid": "51aa13923c002ed20d78b06f"}, "iucr": "915", "longitude": "-87.71417446201983", "location_description": "STREET", "x_coordinate": "1152974", "updated_on": {"$date": 1369701613000}, "fbi_code": "07", "block": "035XX W 31ST ST"}
+{
+    "y_coordinate": "1883864", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288860", 
+    "id": "9144037", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71417446201983, 
+            41.83717262807664
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.83717262807664", 
+    "type": "property", 
+    "description": "TRUCK, BUS, MOTOR HOME", 
+    "beat": "1032", 
+    "date": {
+        "$date": 1369396800000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b06f"
+    }, 
+    "iucr": "915", 
+    "longitude": "-87.71417446201983", 
+    "location_description": "STREET", 
+    "x_coordinate": "1152974", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "07", 
+    "block": "035XX W 31ST ST"
+}

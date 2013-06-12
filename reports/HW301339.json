@@ -1,1 +1,38 @@
-{"y_coordinate": "1851971", "year": "2013", "domestic": true, "case_number": "HW301339", "id": "9155573", "primary_type": "THEFT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60283786459853, 41.74899509675297]}, "community_area": "44", "latitude": "41.74899509675297", "type": "property", "description": "OVER $500", "beat": "0631", "date": {"$date": 1370185200000}, "ward": "8", "_id": {"$oid": "51b5f11a3c002ed20d78cd5b"}, "iucr": "810", "longitude": "-87.60283786459853", "location_description": "RESIDENCE", "x_coordinate": "1183587", "updated_on": {"$date": 1370565766000}, "fbi_code": "06", "block": "080XX S DREXEL AVE"}
+{
+    "y_coordinate": "1851971", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301339", 
+    "id": "9155573", 
+    "primary_type": "THEFT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60283786459853, 
+            41.74899509675297
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.74899509675297", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0631", 
+    "date": {
+        "$date": 1370185200000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd5b"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.60283786459853", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1183587", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "06", 
+    "block": "080XX S DREXEL AVE"
+}

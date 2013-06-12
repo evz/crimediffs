@@ -1,1 +1,38 @@
-{"y_coordinate": "1884201", "year": "2013", "domestic": false, "case_number": "HW298195", "id": "9153063", "primary_type": "CRIMINAL TRESPASS", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65772906842002, 41.837779301119085]}, "community_area": "60", "latitude": "41.837779301119085", "type": null, "description": "TO LAND", "beat": "0913", "date": {"$date": 1369504800000}, "ward": "11", "_id": {"$oid": "51b34a0f3c002ed20d78c992"}, "iucr": "1330", "longitude": "-87.65772906842002", "location_description": "APARTMENT", "x_coordinate": "1168354", "updated_on": {"$date": 1370220023000}, "fbi_code": "26", "block": "012XX W 31ST ST"}
+{
+    "y_coordinate": "1884201", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW298195", 
+    "id": "9153063", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65772906842002, 
+            41.837779301119085
+        ]
+    }, 
+    "community_area": "60", 
+    "latitude": "41.837779301119085", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "0913", 
+    "date": {
+        "$date": 1369504800000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c992"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.65772906842002", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1168354", 
+    "updated_on": {
+        "$date": 1370220023000
+    }, 
+    "fbi_code": "26", 
+    "block": "012XX W 31ST ST"
+}

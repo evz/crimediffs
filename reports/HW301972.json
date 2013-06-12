@@ -1,1 +1,33 @@
-{"community_area": "43", "_id": {"$oid": "51b7429f3c002ed20d78d501"}, "primary_type": "CRIMINAL DAMAGE", "beat": "0334", "year": "2013", "domestic": true, "iucr": "1310", "arrest": false, "location_description": "APARTMENT", "location": {"type": "Point", "coordinates": [-87.5603469, 41.761276]}, "case_number": "HW301972", "date": {"$date": 1370241000000}, "updated_on": {"$date": 1370738354000}, "ward": "7", "fbi_code": "14", "type": "quality", "id": "9158011", "block": "074XX S COLES AVE", "description": "TO PROPERTY"}
+{
+    "_id": {
+        "$oid": "51b7429f3c002ed20d78d501"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "year": "2013", 
+    "beat": "0334", 
+    "case_number": "HW301972", 
+    "domestic": true, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5603469, 
+            41.761276
+        ]
+    }, 
+    "community_area": "43", 
+    "date": {
+        "$date": 1370241000000
+    }, 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "ward": "7", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9158011", 
+    "block": "074XX S COLES AVE", 
+    "description": "TO PROPERTY"
+}

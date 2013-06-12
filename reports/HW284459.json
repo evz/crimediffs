@@ -1,1 +1,38 @@
-{"y_coordinate": "1896368", "year": "2013", "domestic": false, "case_number": "HW284459", "id": "9139306", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67798495705897, 41.87128604896937]}, "community_area": "28", "latitude": "41.87128604896937", "type": "property", "description": "OVER $500", "beat": "1225", "date": {"$date": 1369141200000}, "ward": "2", "_id": {"$oid": "51a61f0d3c002ed20d78a8c7"}, "iucr": "810", "longitude": "-87.67798495705897", "location_description": "STREET", "x_coordinate": "1162741", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "020XX W OGDEN AVE"}
+{
+    "y_coordinate": "1896368", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284459", 
+    "id": "9139306", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67798495705897, 
+            41.87128604896937
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.87128604896937", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1225", 
+    "date": {
+        "$date": 1369141200000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a61f0d3c002ed20d78a8c7"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.67798495705897", 
+    "location_description": "STREET", 
+    "x_coordinate": "1162741", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "020XX W OGDEN AVE"
+}

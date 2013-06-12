@@ -1,1 +1,38 @@
-{"y_coordinate": "1894494", "year": "2013", "domestic": true, "case_number": "HW290705", "id": "9145346", "primary_type": "BATTERY", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65733999949593, 41.86602365974904]}, "community_area": "28", "latitude": "41.86602365974904", "type": "violent", "description": "AGGRAVATED DOMESTIC BATTERY: KNIFE/CUTTING INST", "beat": "1233", "date": {"$date": 1369502400000}, "ward": "2", "_id": {"$oid": "51b34a0f3c002ed20d78c9b4"}, "iucr": "496", "longitude": "-87.65733999949593", "location_description": "CHA APARTMENT", "x_coordinate": "1168379", "updated_on": {"$date": 1369787985000}, "fbi_code": "04B", "block": "012XX W WASHBURNE AVE"}
+{
+    "y_coordinate": "1894494", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290705", 
+    "id": "9145346", 
+    "primary_type": "BATTERY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65733999949593, 
+            41.86602365974904
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.86602365974904", 
+    "type": "violent", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: KNIFE/CUTTING INST", 
+    "beat": "1233", 
+    "date": {
+        "$date": 1369502400000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c9b4"
+    }, 
+    "iucr": "496", 
+    "longitude": "-87.65733999949593", 
+    "location_description": "CHA APARTMENT", 
+    "x_coordinate": "1168379", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "04B", 
+    "block": "012XX W WASHBURNE AVE"
+}

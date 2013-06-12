@@ -1,1 +1,38 @@
-{"y_coordinate": "1899459", "year": "2013", "domestic": false, "case_number": "HW291588", "id": "9146066", "primary_type": "THEFT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63297708285891, 41.87950285783049]}, "community_area": "32", "latitude": "41.87950285783049", "type": "property", "description": "OVER $500", "beat": "0122", "date": {"$date": 1369407600000}, "ward": "42", "_id": {"$oid": "51aa13913c002ed20d78afd5"}, "iucr": "810", "longitude": "-87.63297708285891", "location_description": "OTHER", "x_coordinate": "1174975", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "001XX W ADAMS ST"}
+{
+    "y_coordinate": "1899459", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291588", 
+    "id": "9146066", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63297708285891, 
+            41.87950285783049
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.87950285783049", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0122", 
+    "date": {
+        "$date": 1369407600000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78afd5"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.63297708285891", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1174975", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "001XX W ADAMS ST"
+}

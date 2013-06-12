@@ -1,1 +1,38 @@
-{"y_coordinate": "1946048", "year": "2013", "domestic": false, "case_number": "HW291339", "id": "9146016", "primary_type": "BURGLARY", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66517107277448, 42.00754491968667]}, "community_area": "1", "latitude": "42.00754491968667", "type": "property", "description": "FORCIBLE ENTRY", "beat": "2431", "date": {"$date": 1369530000000}, "ward": "49", "_id": {"$oid": "51b34a0d3c002ed20d78c875"}, "iucr": "610", "longitude": "-87.66517107277448", "location_description": "APARTMENT", "x_coordinate": "1165844", "updated_on": {"$date": 1370392932000}, "fbi_code": "05", "block": "069XX N WAYNE AVE"}
+{
+    "y_coordinate": "1946048", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291339", 
+    "id": "9146016", 
+    "primary_type": "BURGLARY", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66517107277448, 
+            42.00754491968667
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "42.00754491968667", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "2431", 
+    "date": {
+        "$date": 1369530000000
+    }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c875"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.66517107277448", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1165844", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "05", 
+    "block": "069XX N WAYNE AVE"
+}

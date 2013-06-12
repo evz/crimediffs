@@ -1,1 +1,38 @@
-{"y_coordinate": "1855522", "year": "2013", "domestic": false, "case_number": "HW299740", "id": "9154425", "primary_type": "ASSAULT", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.60554566885884, 41.758757293089936]}, "community_area": "69", "latitude": "41.758757293089936", "type": null, "description": "SIMPLE", "beat": "0323", "date": {"$date": 1370082900000}, "ward": "6", "_id": {"$oid": "51b5f1203c002ed20d78d12b"}, "iucr": "560", "longitude": "-87.60554566885884", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1182818", "updated_on": {"$date": 1370220023000}, "fbi_code": "08A", "block": "074XX S COTTAGE GROVE AVE"}
+{
+    "y_coordinate": "1855522", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299740", 
+    "id": "9154425", 
+    "primary_type": "ASSAULT", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60554566885884, 
+            41.758757293089936
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.758757293089936", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0323", 
+    "date": {
+        "$date": 1370082900000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d12b"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.60554566885884", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1182818", 
+    "updated_on": {
+        "$date": 1370220023000
+    }, 
+    "fbi_code": "08A", 
+    "block": "074XX S COTTAGE GROVE AVE"
+}

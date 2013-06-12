@@ -1,1 +1,38 @@
-{"y_coordinate": "1923328", "year": "2013", "domestic": false, "case_number": "HW295056", "id": "9149354", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65502354341695, 41.9451372013443]}, "community_area": "6", "latitude": "41.9451372013443", "type": "property", "description": "FROM BUILDING", "beat": "1924", "date": {"$date": 1369535400000}, "ward": "44", "_id": {"$oid": "51b34a0c3c002ed20d78c844"}, "iucr": "890", "longitude": "-87.65502354341695", "location_description": "RESTAURANT", "x_coordinate": "1168782", "updated_on": {"$date": 1370047283000}, "fbi_code": "06", "block": "034XX N CLARK ST"}
+{
+    "y_coordinate": "1923328", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW295056", 
+    "id": "9149354", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65502354341695, 
+            41.9451372013443
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.9451372013443", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1924", 
+    "date": {
+        "$date": 1369535400000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51b34a0c3c002ed20d78c844"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.65502354341695", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1168782", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "06", 
+    "block": "034XX N CLARK ST"
+}

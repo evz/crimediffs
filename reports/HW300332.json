@@ -1,1 +1,38 @@
-{"y_coordinate": "1839894", "year": "2013", "domestic": true, "case_number": "HW300332", "id": "9154795", "primary_type": "BATTERY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56327444745307, 41.715593736862]}, "community_area": "51", "latitude": "41.715593736862", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0431", "date": {"$date": 1370110800000}, "ward": "7", "_id": {"$oid": "51b5f11f3c002ed20d78cff9"}, "iucr": "486", "longitude": "-87.56327444745307", "location_description": "RESIDENCE", "x_coordinate": "1194492", "updated_on": {"$date": 1370306580000}, "fbi_code": "08B", "block": "098XX S BENSLEY AVE"}
+{
+    "y_coordinate": "1839894", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300332", 
+    "id": "9154795", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56327444745307, 
+            41.715593736862
+        ]
+    }, 
+    "community_area": "51", 
+    "latitude": "41.715593736862", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0431", 
+    "date": {
+        "$date": 1370110800000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cff9"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.56327444745307", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1194492", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08B", 
+    "block": "098XX S BENSLEY AVE"
+}

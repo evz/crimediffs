@@ -1,1 +1,38 @@
-{"y_coordinate": "1849162", "year": "2013", "domestic": false, "case_number": "HW288210", "id": "9145263", "primary_type": "BURGLARY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55056122329786, 41.74094209243695]}, "community_area": "46", "latitude": "41.74094209243695", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0424", "date": {"$date": 1369310400000}, "ward": "10", "_id": {"$oid": "51aa13973c002ed20d78b35e"}, "iucr": "610", "longitude": "-87.55056122329786", "location_description": "RESIDENCE", "x_coordinate": "1197879", "updated_on": {"$date": 1370306580000}, "fbi_code": "05", "block": "085XX S BALTIMORE AVE"}
+{
+    "y_coordinate": "1849162", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288210", 
+    "id": "9145263", 
+    "primary_type": "BURGLARY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55056122329786, 
+            41.74094209243695
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.74094209243695", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0424", 
+    "date": {
+        "$date": 1369310400000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b35e"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.55056122329786", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1197879", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "05", 
+    "block": "085XX S BALTIMORE AVE"
+}

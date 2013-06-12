@@ -1,1 +1,38 @@
-{"y_coordinate": "1851219", "year": "2013", "domestic": false, "case_number": "HW294000", "id": "9148172", "primary_type": "BURGLARY", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64864603270622, 41.74721348863126]}, "community_area": "71", "latitude": "41.74721348863126", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "0621", "date": {"$date": 1369436400000}, "ward": "21", "_id": {"$oid": "51aa138c3c002ed20d78ae39"}, "iucr": "620", "longitude": "-87.64864603270622", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1171092", "updated_on": {"$date": 1370306580000}, "fbi_code": "05", "block": "080XX S MORGAN ST"}
+{
+    "y_coordinate": "1851219", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW294000", 
+    "id": "9148172", 
+    "primary_type": "BURGLARY", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64864603270622, 
+            41.74721348863126
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.74721348863126", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "0621", 
+    "date": {
+        "$date": 1369436400000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae39"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.64864603270622", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1171092", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "05", 
+    "block": "080XX S MORGAN ST"
+}

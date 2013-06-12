@@ -1,1 +1,38 @@
-{"y_coordinate": "1902951", "year": "2013", "domestic": false, "case_number": "HW301190", "id": "9155443", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64670255257224, 41.889168635966826]}, "community_area": "24", "latitude": "41.889168635966826", "type": "property", "description": "OVER $500", "beat": "1214", "date": {"$date": 1370120400000}, "ward": "27", "_id": {"$oid": "51b5f11e3c002ed20d78cf91"}, "iucr": "810", "longitude": "-87.64670255257224", "location_description": "STREET", "x_coordinate": "1171209", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "007XX W KINZIE ST"}
+{
+    "y_coordinate": "1902951", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301190", 
+    "id": "9155443", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64670255257224, 
+            41.889168635966826
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.889168635966826", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1214", 
+    "date": {
+        "$date": 1370120400000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf91"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.64670255257224", 
+    "location_description": "STREET", 
+    "x_coordinate": "1171209", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "007XX W KINZIE ST"
+}

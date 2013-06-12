@@ -1,1 +1,33 @@
-{"community_area": "29", "_id": {"$oid": "51b742a23c002ed20d78d51b"}, "primary_type": "DECEPTIVE PRACTICE", "beat": "1132", "year": "2013", "domestic": false, "iucr": "1152", "arrest": false, "location_description": "RESIDENCE", "location": {"type": "Point", "coordinates": [-87.7236439521542, 41.86790138520448]}, "case_number": "HW312474", "date": {"$date": 1370088000000}, "updated_on": {"$date": 1370911182000}, "ward": "24", "fbi_code": "11", "type": null, "id": "9167236", "block": "039XX W FILLMORE ST", "description": "ILLEGAL USE CASH CARD"}
+{
+    "_id": {
+        "$oid": "51b742a23c002ed20d78d51b"
+    }, 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "year": "2013", 
+    "beat": "1132", 
+    "case_number": "HW312474", 
+    "domestic": false, 
+    "iucr": "1152", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7236439521542, 
+            41.86790138520448
+        ]
+    }, 
+    "community_area": "29", 
+    "date": {
+        "$date": 1370088000000
+    }, 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "ward": "24", 
+    "fbi_code": "11", 
+    "type": null, 
+    "id": "9167236", 
+    "block": "039XX W FILLMORE ST", 
+    "description": "ILLEGAL USE CASH CARD"
+}

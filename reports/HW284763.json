@@ -1,1 +1,38 @@
-{"y_coordinate": "1875330", "year": "2013", "domestic": false, "case_number": "HW284763", "id": "9139525", "primary_type": "THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70465022920158, 41.813701262340906]}, "community_area": "58", "latitude": "41.813701262340906", "type": "property", "description": "$500 AND UNDER", "beat": "0821", "date": {"$date": 1369147380000}, "ward": "14", "_id": {"$oid": "51a61f0d3c002ed20d78a88b"}, "iucr": "820", "longitude": "-87.70465022920158", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1155632", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "043XX S ARCHER AVE"}
+{
+    "y_coordinate": "1875330", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284763", 
+    "id": "9139525", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70465022920158, 
+            41.813701262340906
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.813701262340906", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0821", 
+    "date": {
+        "$date": 1369147380000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51a61f0d3c002ed20d78a88b"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.70465022920158", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1155632", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "043XX S ARCHER AVE"
+}

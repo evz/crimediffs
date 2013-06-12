@@ -1,1 +1,38 @@
-{"y_coordinate": "1840794", "year": "2013", "domestic": false, "case_number": "HW283652", "id": "9138235", "primary_type": "PUBLIC PEACE VIOLATION", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.55638502072159, 41.71801724485144]}, "community_area": "51", "latitude": "41.71801724485144", "type": null, "description": "RECKLESS CONDUCT", "beat": "0431", "date": {"$date": 1369080600000}, "ward": "10", "_id": {"$oid": "51a4cd8e3c002ed20d78a3ce"}, "iucr": "470", "longitude": "-87.55638502072159", "location_description": "SIDEWALK", "x_coordinate": "1196365", "updated_on": {"$date": 1369269615000}, "fbi_code": "24", "block": "097XX S MANISTEE AVE"}
+{
+    "y_coordinate": "1840794", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283652", 
+    "id": "9138235", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55638502072159, 
+            41.71801724485144
+        ]
+    }, 
+    "community_area": "51", 
+    "latitude": "41.71801724485144", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "0431", 
+    "date": {
+        "$date": 1369080600000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3ce"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.55638502072159", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1196365", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "24", 
+    "block": "097XX S MANISTEE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1918367", "year": "2013", "domestic": false, "case_number": "HW289808", "id": "9144647", "primary_type": "BATTERY", "district": "014", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71303548280193, 41.931851200266735]}, "community_area": "22", "latitude": "41.931851200266735", "type": null, "description": "SIMPLE", "beat": "1412", "date": {"$date": 1369439460000}, "ward": "35", "_id": {"$oid": "51aa138c3c002ed20d78ae1c"}, "iucr": "460", "longitude": "-87.71303548280193", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1153035", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "034XX W DIVERSEY AVE"}
+{
+    "y_coordinate": "1918367", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289808", 
+    "id": "9144647", 
+    "primary_type": "BATTERY", 
+    "district": "014", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71303548280193, 
+            41.931851200266735
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.931851200266735", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1412", 
+    "date": {
+        "$date": 1369439460000
+    }, 
+    "ward": "35", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae1c"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.71303548280193", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1153035", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "034XX W DIVERSEY AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1910515", "year": "2013", "domestic": false, "case_number": "HW285523", "id": "9140130", "primary_type": "CRIMINAL DAMAGE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77662952577226, 41.91062943935161]}, "community_area": "25", "latitude": "41.91062943935161", "type": "quality", "description": "TO PROPERTY", "beat": "2513", "date": {"$date": 1369198800000}, "ward": "29", "_id": {"$oid": "51a61f043c002ed20d78a65e"}, "iucr": "1310", "longitude": "-87.77662952577226", "location_description": "APARTMENT", "x_coordinate": "1135781", "updated_on": {"$date": 1369356045000}, "fbi_code": "14", "block": "016XX N MC VICKER AVE"}
+{
+    "y_coordinate": "1910515", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285523", 
+    "id": "9140130", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77662952577226, 
+            41.91062943935161
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.91062943935161", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "2513", 
+    "date": {
+        "$date": 1369198800000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51a61f043c002ed20d78a65e"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.77662952577226", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1135781", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "14", 
+    "block": "016XX N MC VICKER AVE"
+}

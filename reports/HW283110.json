@@ -1,1 +1,38 @@
-{"y_coordinate": "1869633", "year": "2013", "domestic": false, "case_number": "HW283110", "id": "9137837", "primary_type": "PUBLIC PEACE VIOLATION", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66180527126498, 41.79782461553169]}, "community_area": "61", "latitude": "41.79782461553169", "type": null, "description": "RECKLESS CONDUCT", "beat": "0934", "date": {"$date": 1369059600000}, "ward": "16", "_id": {"$oid": "51a4cd913c002ed20d78a4f9"}, "iucr": "470", "longitude": "-87.66180527126498", "location_description": "STREET", "x_coordinate": "1167357", "updated_on": {"$date": 1369183512000}, "fbi_code": "24", "block": "014XX W 53RD ST"}
+{
+    "y_coordinate": "1869633", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283110", 
+    "id": "9137837", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66180527126498, 
+            41.79782461553169
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.79782461553169", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "0934", 
+    "date": {
+        "$date": 1369059600000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a4f9"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.66180527126498", 
+    "location_description": "STREET", 
+    "x_coordinate": "1167357", 
+    "updated_on": {
+        "$date": 1369183512000
+    }, 
+    "fbi_code": "24", 
+    "block": "014XX W 53RD ST"
+}

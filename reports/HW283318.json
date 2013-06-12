@@ -1,1 +1,38 @@
-{"y_coordinate": "1864824", "year": "2013", "domestic": true, "case_number": "HW283318", "id": "9141347", "primary_type": "BATTERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61220114219114, 41.78432667305871]}, "community_area": "42", "latitude": "41.78432667305871", "type": null, "description": "SIMPLE", "beat": "0313", "date": {"$date": 1369070100000}, "ward": "20", "_id": {"$oid": "51a4cd903c002ed20d78a479"}, "iucr": "460", "longitude": "-87.61220114219114", "location_description": "SIDEWALK", "x_coordinate": "1180924", "updated_on": {"$date": 1369787985000}, "fbi_code": "08B", "block": "060XX S RHODES AVE"}
+{
+    "y_coordinate": "1864824", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283318", 
+    "id": "9141347", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61220114219114, 
+            41.78432667305871
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.78432667305871", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0313", 
+    "date": {
+        "$date": 1369070100000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a479"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.61220114219114", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1180924", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "08B", 
+    "block": "060XX S RHODES AVE"
+}

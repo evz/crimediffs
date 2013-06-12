@@ -1,1 +1,38 @@
-{"y_coordinate": "1867770", "year": "2013", "domestic": false, "case_number": "HW288335", "id": "9143302", "primary_type": "ROBBERY", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62417438882076, 41.79248587393557]}, "community_area": "40", "latitude": "41.79248587393557", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "0225", "date": {"$date": 1369348500000}, "ward": "20", "_id": {"$oid": "51aa13943c002ed20d78b1ab"}, "iucr": "320", "longitude": "-87.62417438882076", "location_description": "STREET", "x_coordinate": "1177634", "updated_on": {"$date": 1370651988000}, "fbi_code": "03", "block": "056XX S WABASH AVE"}
+{
+    "y_coordinate": "1867770", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288335", 
+    "id": "9143302", 
+    "primary_type": "ROBBERY", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62417438882076, 
+            41.79248587393557
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.79248587393557", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0225", 
+    "date": {
+        "$date": 1369348500000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1ab"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.62417438882076", 
+    "location_description": "STREET", 
+    "x_coordinate": "1177634", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "03", 
+    "block": "056XX S WABASH AVE"
+}

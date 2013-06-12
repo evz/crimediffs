@@ -1,1 +1,38 @@
-{"y_coordinate": "1923164", "year": "2013", "domestic": false, "case_number": "HW284673", "id": "9139465", "primary_type": "PUBLIC PEACE VIOLATION", "district": "017", "arrest": true, "location": {"type": "Point", "coordinates": [-87.73398031727092, 41.945126472495986]}, "community_area": "16", "latitude": "41.945126472495986", "type": null, "description": "RECKLESS CONDUCT", "beat": "1731", "date": {"$date": 1369149240000}, "ward": "30", "_id": {"$oid": "51a61f0c3c002ed20d78a86f"}, "iucr": "470", "longitude": "-87.73398031727092", "location_description": "STREET", "x_coordinate": "1147302", "updated_on": {"$date": 1369356045000}, "fbi_code": "24", "block": "035XX N MILWAUKEE AVE"}
+{
+    "y_coordinate": "1923164", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284673", 
+    "id": "9139465", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "017", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73398031727092, 
+            41.945126472495986
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.945126472495986", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "1731", 
+    "date": {
+        "$date": 1369149240000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51a61f0c3c002ed20d78a86f"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.73398031727092", 
+    "location_description": "STREET", 
+    "x_coordinate": "1147302", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "24", 
+    "block": "035XX N MILWAUKEE AVE"
+}

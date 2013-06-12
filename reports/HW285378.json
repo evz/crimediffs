@@ -1,1 +1,38 @@
-{"y_coordinate": "1894173", "year": "2013", "domestic": true, "case_number": "HW285378", "id": "9139997", "primary_type": "ASSAULT", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.77276390702433, 41.86576414146977]}, "community_area": "25", "latitude": "41.86576414146977", "type": "violent", "description": "AGGRAVATED:KNIFE/CUTTING INSTR", "beat": "1513", "date": {"$date": 1369180800000}, "ward": "29", "_id": {"$oid": "51a61f073c002ed20d78a6cc"}, "iucr": "520", "longitude": "-87.77276390702433", "location_description": "APARTMENT", "x_coordinate": "1136940", "updated_on": {"$date": 1369356045000}, "fbi_code": "04A", "block": "011XX S MASON AVE"}
+{
+    "y_coordinate": "1894173", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285378", 
+    "id": "9139997", 
+    "primary_type": "ASSAULT", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77276390702433, 
+            41.86576414146977
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.86576414146977", 
+    "type": "violent", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
+    "beat": "1513", 
+    "date": {
+        "$date": 1369180800000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51a61f073c002ed20d78a6cc"
+    }, 
+    "iucr": "520", 
+    "longitude": "-87.77276390702433", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1136940", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "04A", 
+    "block": "011XX S MASON AVE"
+}

@@ -1,1 +1,33 @@
-{"community_area": "51", "_id": {"$oid": "51b5f11e3c002ed20d78cf0e"}, "primary_type": "BATTERY", "beat": "0434", "year": "2013", "domestic": false, "iucr": "486", "arrest": false, "location_description": "SIDEWALK", "location": {"type": "Point", "coordinates": [-87.564137290335, 41.70005568990661]}, "case_number": "HW300696", "date": {"$date": 1370130600000}, "updated_on": {"$date": 1370392932000}, "ward": "10", "fbi_code": "08B", "type": null, "id": "9156012", "block": "107XX S YATES AVE", "description": "DOMESTIC BATTERY SIMPLE"}
+{
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf0e"
+    }, 
+    "primary_type": "BATTERY", 
+    "year": "2013", 
+    "beat": "0434", 
+    "case_number": "HW300696", 
+    "domestic": false, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.564137290335, 
+            41.70005568990661
+        ]
+    }, 
+    "community_area": "51", 
+    "date": {
+        "$date": 1370130600000
+    }, 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "ward": "10", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9156012", 
+    "block": "107XX S YATES AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1932090", "year": "2013", "domestic": false, "case_number": "HW289129", "id": "9144128", "primary_type": "ASSAULT", "district": "020", "arrest": true, "location": {"type": "Point", "coordinates": [-87.65497075971886, 41.969181640840354]}, "community_area": "3", "latitude": "41.969181640840354", "type": null, "description": "SIMPLE", "beat": "2024", "date": {"$date": 1369405500000}, "ward": "46", "_id": {"$oid": "51aa13913c002ed20d78aff3"}, "iucr": "560", "longitude": "-87.65497075971886", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1168727", "updated_on": {"$date": 1369701613000}, "fbi_code": "08A", "block": "048XX N SHERIDAN RD"}
+{
+    "y_coordinate": "1932090", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289129", 
+    "id": "9144128", 
+    "primary_type": "ASSAULT", 
+    "district": "020", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65497075971886, 
+            41.969181640840354
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.969181640840354", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2024", 
+    "date": {
+        "$date": 1369405500000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78aff3"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.65497075971886", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1168727", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08A", 
+    "block": "048XX N SHERIDAN RD"
+}

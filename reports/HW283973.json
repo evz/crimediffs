@@ -1,1 +1,38 @@
-{"y_coordinate": "1926346", "year": "2013", "domestic": true, "case_number": "HW283973", "id": "9139001", "primary_type": "BATTERY", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72434054693157, 41.95380784076932]}, "community_area": "16", "latitude": "41.95380784076932", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1723", "date": {"$date": 1369114500000}, "ward": "39", "_id": {"$oid": "51a61f103c002ed20d78a9d1"}, "iucr": "486", "longitude": "-87.72434054693157", "location_description": "APARTMENT", "x_coordinate": "1149902", "updated_on": {"$date": 1369615194000}, "fbi_code": "08B", "block": "038XX W IRVING PARK RD"}
+{
+    "y_coordinate": "1926346", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283973", 
+    "id": "9139001", 
+    "primary_type": "BATTERY", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72434054693157, 
+            41.95380784076932
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.95380784076932", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1723", 
+    "date": {
+        "$date": 1369114500000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51a61f103c002ed20d78a9d1"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.72434054693157", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1149902", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08B", 
+    "block": "038XX W IRVING PARK RD"
+}

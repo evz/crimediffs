@@ -1,1 +1,38 @@
-{"y_coordinate": "1913211", "year": "2013", "domestic": true, "case_number": "HW287588", "id": "9142774", "primary_type": "BATTERY", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.653491635778, 41.9173648642734]}, "community_area": "7", "latitude": "41.9173648642734", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1811", "date": {"$date": 1369314000000}, "ward": "32", "_id": {"$oid": "51aa13973c002ed20d78b334"}, "iucr": "486", "longitude": "-87.653491635778", "location_description": "RESIDENCE", "x_coordinate": "1169279", "updated_on": {"$date": 1369615194000}, "fbi_code": "08B", "block": "019XX N SHEFFIELD AVE"}
+{
+    "y_coordinate": "1913211", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW287588", 
+    "id": "9142774", 
+    "primary_type": "BATTERY", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.653491635778, 
+            41.9173648642734
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.9173648642734", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1811", 
+    "date": {
+        "$date": 1369314000000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b334"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.653491635778", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1169279", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08B", 
+    "block": "019XX N SHEFFIELD AVE"
+}

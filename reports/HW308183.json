@@ -1,1 +1,38 @@
-{"y_coordinate": "1918349", "year": "2013", "domestic": false, "case_number": "HW308183", "id": "9163388", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66851523699431, 41.93155265663852]}, "community_area": "7", "latitude": "41.93155265663852", "type": "property", "description": "FROM BUILDING", "beat": "1931", "date": {"$date": 1369468800000}, "ward": "32", "_id": {"$oid": "51b34a123c002ed20d78cb0b"}, "iucr": "890", "longitude": "-87.66851523699431", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1165150", "updated_on": {"$date": 1370911182000}, "fbi_code": "06", "block": "027XX N ASHLAND AVE"}
+{
+    "y_coordinate": "1918349", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW308183", 
+    "id": "9163388", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66851523699431, 
+            41.93155265663852
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.93155265663852", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1931", 
+    "date": {
+        "$date": 1369468800000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cb0b"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.66851523699431", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1165150", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "06", 
+    "block": "027XX N ASHLAND AVE"
+}

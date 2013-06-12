@@ -1,1 +1,38 @@
-{"y_coordinate": "1866939", "year": "2013", "domestic": true, "case_number": "HW299942", "id": "9154592", "primary_type": "BATTERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.79535070016291, 41.79113452709181]}, "community_area": "56", "latitude": "41.79113452709181", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0811", "date": {"$date": 1370093100000}, "ward": "23", "_id": {"$oid": "51b5f1203c002ed20d78d0bd"}, "iucr": "486", "longitude": "-87.79535070016291", "location_description": "RESIDENCE", "x_coordinate": "1130958", "updated_on": {"$date": 1370479286000}, "fbi_code": "08B", "block": "055XX S NEWLAND AVE"}
+{
+    "y_coordinate": "1866939", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW299942", 
+    "id": "9154592", 
+    "primary_type": "BATTERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.79535070016291, 
+            41.79113452709181
+        ]
+    }, 
+    "community_area": "56", 
+    "latitude": "41.79113452709181", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0811", 
+    "date": {
+        "$date": 1370093100000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0bd"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.79535070016291", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1130958", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08B", 
+    "block": "055XX S NEWLAND AVE"
+}

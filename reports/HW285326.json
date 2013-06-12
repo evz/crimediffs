@@ -1,1 +1,38 @@
-{"y_coordinate": "1896006", "year": "2013", "domestic": true, "case_number": "HW285326", "id": "9140060", "primary_type": "CRIMINAL DAMAGE", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68772410461125, 41.87034779277641]}, "community_area": "28", "latitude": "41.87034779277641", "type": "quality", "description": "TO VEHICLE", "beat": "1135", "date": {"$date": 1369177200000}, "ward": "2", "_id": {"$oid": "51a61f073c002ed20d78a6e1"}, "iucr": "1320", "longitude": "-87.68772410461125", "location_description": "ALLEY", "x_coordinate": "1160091", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "024XX W ARTHINGTON ST"}
+{
+    "y_coordinate": "1896006", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285326", 
+    "id": "9140060", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68772410461125, 
+            41.87034779277641
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.87034779277641", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1135", 
+    "date": {
+        "$date": 1369177200000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a61f073c002ed20d78a6e1"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.68772410461125", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1160091", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "024XX W ARTHINGTON ST"
+}

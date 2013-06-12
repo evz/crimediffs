@@ -1,1 +1,38 @@
-{"y_coordinate": "1853200", "year": "2013", "domestic": true, "case_number": "HW300546", "id": "9154927", "primary_type": "BATTERY", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70383962353893, 41.7529656115419]}, "community_area": "70", "latitude": "41.7529656115419", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0835", "date": {"$date": 1370125140000}, "ward": "18", "_id": {"$oid": "51b5f11e3c002ed20d78cf51"}, "iucr": "486", "longitude": "-87.70383962353893", "location_description": "RESIDENCE", "x_coordinate": "1156015", "updated_on": {"$date": 1370306580000}, "fbi_code": "08B", "block": "077XX S SAWYER AVE"}
+{
+    "y_coordinate": "1853200", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300546", 
+    "id": "9154927", 
+    "primary_type": "BATTERY", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70383962353893, 
+            41.7529656115419
+        ]
+    }, 
+    "community_area": "70", 
+    "latitude": "41.7529656115419", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0835", 
+    "date": {
+        "$date": 1370125140000
+    }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf51"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.70383962353893", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1156015", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08B", 
+    "block": "077XX S SAWYER AVE"
+}

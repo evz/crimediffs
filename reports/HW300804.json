@@ -1,1 +1,33 @@
-{"community_area": "49", "_id": {"$oid": "51b5f11c3c002ed20d78ce78"}, "primary_type": "CRIMINAL DAMAGE", "beat": "0522", "year": "2013", "domestic": true, "iucr": "1320", "arrest": false, "location_description": "STREET", "location": {"type": "Point", "coordinates": [-87.6272192227618, 41.68970283770333]}, "case_number": "HW300804", "date": {"$date": 1370145900000}, "updated_on": {"$date": 1370651988000}, "ward": "34", "fbi_code": "14", "type": "quality", "id": "9155696", "block": "001XX W 112TH PL", "description": "TO VEHICLE"}
+{
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce78"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "year": "2013", 
+    "beat": "0522", 
+    "case_number": "HW300804", 
+    "domestic": true, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6272192227618, 
+            41.68970283770333
+        ]
+    }, 
+    "community_area": "49", 
+    "date": {
+        "$date": 1370145900000
+    }, 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "ward": "34", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9155696", 
+    "block": "001XX W 112TH PL", 
+    "description": "TO VEHICLE"
+}

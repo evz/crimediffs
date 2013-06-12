@@ -1,1 +1,38 @@
-{"y_coordinate": "1868536", "year": "2013", "domestic": false, "case_number": "HW283328", "id": "9137914", "primary_type": "MOTOR VEHICLE THEFT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63228085950622, 41.79463775215047]}, "community_area": "37", "latitude": "41.79463775215047", "type": "property", "description": "AUTOMOBILE", "beat": "0935", "date": {"$date": 1369068300000}, "ward": "3", "_id": {"$oid": "51a4cd903c002ed20d78a48f"}, "iucr": "910", "longitude": "-87.63228085950622", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1175417", "updated_on": {"$date": 1369269615000}, "fbi_code": "07", "block": "002XX W GARFIELD BLVD"}
+{
+    "y_coordinate": "1868536", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283328", 
+    "id": "9137914", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63228085950622, 
+            41.79463775215047
+        ]
+    }, 
+    "community_area": "37", 
+    "latitude": "41.79463775215047", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0935", 
+    "date": {
+        "$date": 1369068300000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a48f"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.63228085950622", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1175417", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "07", 
+    "block": "002XX W GARFIELD BLVD"
+}

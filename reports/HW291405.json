@@ -1,1 +1,38 @@
-{"y_coordinate": "1919124", "year": "2013", "domestic": false, "case_number": "HW291405", "id": "9145894", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64754972434676, 41.93355611860406]}, "community_area": "6", "latitude": "41.93355611860406", "type": "property", "description": "OVER $500", "beat": "1934", "date": {"$date": 1369522800000}, "ward": "44", "_id": {"$oid": "51b34a0d3c002ed20d78c8c0"}, "iucr": "810", "longitude": "-87.64754972434676", "location_description": "STREET", "x_coordinate": "1170849", "updated_on": {"$date": 1369874559000}, "fbi_code": "06", "block": "028XX N BURLING ST"}
+{
+    "y_coordinate": "1919124", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291405", 
+    "id": "9145894", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64754972434676, 
+            41.93355611860406
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.93355611860406", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1934", 
+    "date": {
+        "$date": 1369522800000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c8c0"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.64754972434676", 
+    "location_description": "STREET", 
+    "x_coordinate": "1170849", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "06", 
+    "block": "028XX N BURLING ST"
+}

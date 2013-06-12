@@ -1,1 +1,38 @@
-{"y_coordinate": "1881700", "year": "2013", "domestic": false, "case_number": "HW291752", "id": "9146193", "primary_type": "THEFT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63535039877706, 41.83078208116898]}, "community_area": "34", "latitude": "41.83078208116898", "type": "property", "description": "$500 AND UNDER", "beat": "0915", "date": {"$date": 1369503000000}, "ward": "11", "_id": {"$oid": "51b34a0f3c002ed20d78c9ae"}, "iucr": "820", "longitude": "-87.63535039877706", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1174473", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "003XX W 35TH ST"}
+{
+    "y_coordinate": "1881700", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291752", 
+    "id": "9146193", 
+    "primary_type": "THEFT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63535039877706, 
+            41.83078208116898
+        ]
+    }, 
+    "community_area": "34", 
+    "latitude": "41.83078208116898", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0915", 
+    "date": {
+        "$date": 1369503000000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c9ae"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.63535039877706", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1174473", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "003XX W 35TH ST"
+}

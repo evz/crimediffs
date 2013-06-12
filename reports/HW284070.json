@@ -1,1 +1,38 @@
-{"y_coordinate": "1900200", "year": "2013", "domestic": false, "case_number": "HW284070", "id": "9138811", "primary_type": "WEAPONS VIOLATION", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.76920434774625, 41.88228633101777]}, "community_area": "25", "latitude": "41.88228633101777", "type": null, "description": "UNLAWFUL POSS OTHER FIREARM", "beat": "1512", "date": {"$date": 1369125600000}, "ward": "29", "_id": {"$oid": "51a61f0f3c002ed20d78a981"}, "iucr": "143B", "longitude": "-87.76920434774625", "location_description": "RESIDENCE", "x_coordinate": "1137870", "updated_on": {"$date": 1369269615000}, "fbi_code": "15", "block": "057XX W WASHINGTON BLVD"}
+{
+    "y_coordinate": "1900200", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284070", 
+    "id": "9138811", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76920434774625, 
+            41.88228633101777
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.88228633101777", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OTHER FIREARM", 
+    "beat": "1512", 
+    "date": {
+        "$date": 1369125600000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a981"
+    }, 
+    "iucr": "143B", 
+    "longitude": "-87.76920434774625", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1137870", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "15", 
+    "block": "057XX W WASHINGTON BLVD"
+}

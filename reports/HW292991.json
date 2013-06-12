@@ -1,1 +1,38 @@
-{"y_coordinate": "1870795", "year": "2013", "domestic": false, "case_number": "HW292991", "id": "9147252", "primary_type": "THEFT", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.59681657709734, 41.80061517868725]}, "community_area": "41", "latitude": "41.80061517868725", "type": "property", "description": "$500 AND UNDER", "beat": "0233", "date": {"$date": 1369494000000}, "ward": "4", "_id": {"$oid": "51b34a103c002ed20d78ca2b"}, "iucr": "820", "longitude": "-87.59681657709734", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1185069", "updated_on": {"$date": 1369874559000}, "fbi_code": "06", "block": "052XX S WOODLAWN AVE"}
+{
+    "y_coordinate": "1870795", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW292991", 
+    "id": "9147252", 
+    "primary_type": "THEFT", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59681657709734, 
+            41.80061517868725
+        ]
+    }, 
+    "community_area": "41", 
+    "latitude": "41.80061517868725", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0233", 
+    "date": {
+        "$date": 1369494000000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78ca2b"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.59681657709734", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1185069", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "06", 
+    "block": "052XX S WOODLAWN AVE"
+}

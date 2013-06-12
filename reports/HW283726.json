@@ -1,1 +1,38 @@
-{"y_coordinate": "1917179", "year": "2013", "domestic": false, "case_number": "HW283726", "id": "9138320", "primary_type": "WEAPONS VIOLATION", "district": "025", "arrest": true, "location": {"type": "Point", "coordinates": [-87.73971595403881, 41.928732098471656]}, "community_area": "20", "latitude": "41.928732098471656", "type": null, "description": "UNLAWFUL POSS OF HANDGUN", "beat": "2521", "date": {"$date": 1369083600000}, "ward": "31", "_id": {"$oid": "51a4cd8e3c002ed20d78a3b7"}, "iucr": "143A", "longitude": "-87.73971595403881", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1145783", "updated_on": {"$date": 1369269615000}, "fbi_code": "15", "block": "045XX W WRIGHTWOOD AVE"}
+{
+    "y_coordinate": "1917179", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283726", 
+    "id": "9138320", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "025", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73971595403881, 
+            41.928732098471656
+        ]
+    }, 
+    "community_area": "20", 
+    "latitude": "41.928732098471656", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "2521", 
+    "date": {
+        "$date": 1369083600000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3b7"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.73971595403881", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1145783", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "15", 
+    "block": "045XX W WRIGHTWOOD AVE"
+}

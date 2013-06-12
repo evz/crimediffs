@@ -1,1 +1,38 @@
-{"y_coordinate": "1929804", "year": "2013", "domestic": false, "case_number": "HW290569", "id": "9145391", "primary_type": "OTHER OFFENSE", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.83854888342063, 41.963846335609524]}, "community_area": "76", "latitude": "41.963846335609524", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "1614", "date": {"$date": 1369425600000}, "ward": "36", "_id": {"$oid": "51aa138e3c002ed20d78aed4"}, "iucr": "2825", "longitude": "-87.83854888342063", "location_description": "RESIDENCE", "x_coordinate": "1118815", "updated_on": {"$date": 1369874559000}, "fbi_code": "26", "block": "084XX W WILSON AVE"}
+{
+    "y_coordinate": "1929804", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290569", 
+    "id": "9145391", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.83854888342063, 
+            41.963846335609524
+        ]
+    }, 
+    "community_area": "76", 
+    "latitude": "41.963846335609524", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "1614", 
+    "date": {
+        "$date": 1369425600000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51aa138e3c002ed20d78aed4"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.83854888342063", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1118815", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "26", 
+    "block": "084XX W WILSON AVE"
+}

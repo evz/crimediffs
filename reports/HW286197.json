@@ -1,1 +1,38 @@
-{"y_coordinate": "1909505", "year": "2013", "domestic": false, "case_number": "HW286197", "id": "9141321", "primary_type": "ASSAULT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7459282816506, 41.90770481320546]}, "community_area": "25", "latitude": "41.90770481320546", "type": "violent", "description": "AGGRAVATED: OTHER DANG WEAPON", "beat": "2533", "date": {"$date": 1369234800000}, "ward": "37", "_id": {"$oid": "51a7708b3c002ed20d78abeb"}, "iucr": "530", "longitude": "-87.7459282816506", "location_description": "STREET", "x_coordinate": "1144145", "updated_on": {"$date": 1369442383000}, "fbi_code": "04A", "block": "047XX W LE MOYNE ST"}
+{
+    "y_coordinate": "1909505", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286197", 
+    "id": "9141321", 
+    "primary_type": "ASSAULT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7459282816506, 
+            41.90770481320546
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.90770481320546", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "2533", 
+    "date": {
+        "$date": 1369234800000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78abeb"
+    }, 
+    "iucr": "530", 
+    "longitude": "-87.7459282816506", 
+    "location_description": "STREET", 
+    "x_coordinate": "1144145", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "04A", 
+    "block": "047XX W LE MOYNE ST"
+}

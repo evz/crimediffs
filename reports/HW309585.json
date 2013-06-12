@@ -1,1 +1,38 @@
-{"y_coordinate": "1847533", "year": "2013", "domestic": false, "case_number": "HW309585", "id": "9164565", "primary_type": "DECEPTIVE PRACTICE", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60497257700612, 41.73682941917274]}, "community_area": "44", "latitude": "41.73682941917274", "type": null, "description": "THEFT BY LESSEE,MOTOR VEH", "beat": "0632", "date": {"$date": 1369740180000}, "ward": "6", "_id": {"$oid": "51b5f1293c002ed20d78d1bb"}, "iucr": "1206", "longitude": "-87.60497257700612", "location_description": "OTHER", "x_coordinate": "1183042", "updated_on": {"$date": 1370911182000}, "fbi_code": "11", "block": "086XX S COTTAGE GROVE AVE"}
+{
+    "y_coordinate": "1847533", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW309585", 
+    "id": "9164565", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60497257700612, 
+            41.73682941917274
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.73682941917274", 
+    "type": null, 
+    "description": "THEFT BY LESSEE,MOTOR VEH", 
+    "beat": "0632", 
+    "date": {
+        "$date": 1369740180000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b5f1293c002ed20d78d1bb"
+    }, 
+    "iucr": "1206", 
+    "longitude": "-87.60497257700612", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1183042", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "11", 
+    "block": "086XX S COTTAGE GROVE AVE"
+}

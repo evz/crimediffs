@@ -1,1 +1,38 @@
-{"y_coordinate": "1909234", "year": "2013", "domestic": false, "case_number": "HW291422", "id": "9145844", "primary_type": "THEFT", "district": "018", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64061107920858, 41.906374082390855]}, "community_area": "8", "latitude": "41.906374082390855", "type": "property", "description": "$500 AND UNDER", "beat": "1821", "date": {"$date": 1369530000000}, "ward": "27", "_id": {"$oid": "51b34a0d3c002ed20d78c874"}, "iucr": "820", "longitude": "-87.64061107920858", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1172817", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "004XX W EVERGREEN AVE"}
+{
+    "y_coordinate": "1909234", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291422", 
+    "id": "9145844", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64061107920858, 
+            41.906374082390855
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.906374082390855", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1821", 
+    "date": {
+        "$date": 1369530000000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c874"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.64061107920858", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1172817", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "004XX W EVERGREEN AVE"
+}

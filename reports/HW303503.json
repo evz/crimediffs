@@ -1,1 +1,38 @@
-{"y_coordinate": "1854783", "year": "2013", "domestic": false, "case_number": "HW303503", "id": "9157998", "primary_type": "CRIMINAL DAMAGE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58083873969981, 41.75657009332489]}, "community_area": "43", "latitude": "41.75657009332489", "type": "quality", "description": "TO VEHICLE", "beat": "0414", "date": {"$date": 1370296800000}, "ward": "8", "_id": {"$oid": "51b742973c002ed20d78d25d"}, "iucr": "1320", "longitude": "-87.58083873969981", "location_description": "STREET", "x_coordinate": "1189566", "updated_on": {"$date": 1370479286000}, "fbi_code": "14", "block": "076XX S CREGIER AVE"}
+{
+    "y_coordinate": "1854783", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303503", 
+    "id": "9157998", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58083873969981, 
+            41.75657009332489
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.75657009332489", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0414", 
+    "date": {
+        "$date": 1370296800000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51b742973c002ed20d78d25d"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.58083873969981", 
+    "location_description": "STREET", 
+    "x_coordinate": "1189566", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "14", 
+    "block": "076XX S CREGIER AVE"
+}

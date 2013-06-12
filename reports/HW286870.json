@@ -1,1 +1,38 @@
-{"y_coordinate": "1906530", "year": "2013", "domestic": false, "case_number": "HW286870", "id": "9151620", "primary_type": "WEAPONS VIOLATION", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76784672468756, 41.89965073037513]}, "community_area": "25", "latitude": "41.89965073037513", "type": null, "description": "UNLAWFUL POSS OF HANDGUN", "beat": "1511", "date": {"$date": 1369259880000}, "ward": "29", "_id": {"$oid": "51aa13993c002ed20d78b43f"}, "iucr": "143A", "longitude": "-87.76784672468756", "location_description": "RESIDENCE", "x_coordinate": "1138198", "updated_on": {"$date": 1370047283000}, "fbi_code": "15", "block": "010XX N WALLER AVE"}
+{
+    "y_coordinate": "1906530", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286870", 
+    "id": "9151620", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76784672468756, 
+            41.89965073037513
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.89965073037513", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "1511", 
+    "date": {
+        "$date": 1369259880000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51aa13993c002ed20d78b43f"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.76784672468756", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1138198", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "15", 
+    "block": "010XX N WALLER AVE"
+}

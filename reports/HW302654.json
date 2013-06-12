@@ -1,1 +1,38 @@
-{"y_coordinate": "1862500", "year": "2013", "domestic": false, "case_number": "HW302654", "id": "9157369", "primary_type": "BATTERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61713003831464, 41.7779797799701]}, "community_area": "69", "latitude": "41.7779797799701", "type": null, "description": "SIMPLE", "beat": "0312", "date": {"$date": 1370269200000}, "ward": "20", "_id": {"$oid": "51b7429c3c002ed20d78d3dd"}, "iucr": "460", "longitude": "-87.61713003831464", "location_description": "CHA APARTMENT", "x_coordinate": "1179599", "updated_on": {"$date": 1370479286000}, "fbi_code": "08B", "block": "064XX S CALUMET AVE"}
+{
+    "y_coordinate": "1862500", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302654", 
+    "id": "9157369", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61713003831464, 
+            41.7779797799701
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.7779797799701", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0312", 
+    "date": {
+        "$date": 1370269200000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b7429c3c002ed20d78d3dd"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.61713003831464", 
+    "location_description": "CHA APARTMENT", 
+    "x_coordinate": "1179599", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08B", 
+    "block": "064XX S CALUMET AVE"
+}

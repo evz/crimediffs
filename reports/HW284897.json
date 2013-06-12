@@ -1,1 +1,38 @@
-{"y_coordinate": "1896699", "year": "2013", "domestic": false, "case_number": "HW284897", "id": "9139687", "primary_type": "BATTERY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75465420208795, 41.87260631005499]}, "community_area": "25", "latitude": "41.87260631005499", "type": null, "description": "SIMPLE", "beat": "1533", "date": {"$date": 1369156500000}, "ward": "24", "_id": {"$oid": "51a61f0b3c002ed20d78a7ff"}, "iucr": "460", "longitude": "-87.75465420208795", "location_description": "SIDEWALK", "x_coordinate": "1141856", "updated_on": {"$date": 1369356045000}, "fbi_code": "08B", "block": "006XX S LARAMIE AVE"}
+{
+    "y_coordinate": "1896699", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284897", 
+    "id": "9139687", 
+    "primary_type": "BATTERY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75465420208795, 
+            41.87260631005499
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.87260631005499", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1533", 
+    "date": {
+        "$date": 1369156500000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a7ff"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.75465420208795", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1141856", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08B", 
+    "block": "006XX S LARAMIE AVE"
+}

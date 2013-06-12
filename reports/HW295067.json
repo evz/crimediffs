@@ -1,1 +1,38 @@
-{"y_coordinate": "1924139", "year": "2013", "domestic": false, "case_number": "HW295067", "id": "9149371", "primary_type": "DECEPTIVE PRACTICE", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6564812667852, 41.94737136129785]}, "community_area": "6", "latitude": "41.94737136129785", "type": null, "description": "ILLEGAL USE CASH CARD", "beat": "1923", "date": {"$date": 1369501200000}, "ward": "44", "_id": {"$oid": "51b34a0f3c002ed20d78c9c3"}, "iucr": "1152", "longitude": "-87.6564812667852", "location_description": "STREET", "x_coordinate": "1168379", "updated_on": {"$date": 1369960832000}, "fbi_code": "11", "block": "036XX N CLARK ST"}
+{
+    "y_coordinate": "1924139", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW295067", 
+    "id": "9149371", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6564812667852, 
+            41.94737136129785
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.94737136129785", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "1923", 
+    "date": {
+        "$date": 1369501200000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c9c3"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.6564812667852", 
+    "location_description": "STREET", 
+    "x_coordinate": "1168379", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "11", 
+    "block": "036XX N CLARK ST"
+}

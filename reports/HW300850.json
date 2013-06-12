@@ -1,1 +1,38 @@
-{"y_coordinate": "1856666", "year": "2013", "domestic": true, "case_number": "HW300850", "id": "9155304", "primary_type": "BATTERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58340987473403, 41.76175441522962]}, "community_area": "43", "latitude": "41.76175441522962", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0324", "date": {"$date": 1370142000000}, "ward": "8", "_id": {"$oid": "51b5f11d3c002ed20d78cea3"}, "iucr": "486", "longitude": "-87.58340987473403", "location_description": "APARTMENT", "x_coordinate": "1188848", "updated_on": {"$date": 1370306580000}, "fbi_code": "08B", "block": "073XX S EAST END AVE"}
+{
+    "y_coordinate": "1856666", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300850", 
+    "id": "9155304", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58340987473403, 
+            41.76175441522962
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76175441522962", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0324", 
+    "date": {
+        "$date": 1370142000000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78cea3"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.58340987473403", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1188848", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08B", 
+    "block": "073XX S EAST END AVE"
+}

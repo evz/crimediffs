@@ -1,1 +1,38 @@
-{"y_coordinate": "1919727", "year": "2013", "domestic": false, "case_number": "HW287747", "id": "9143053", "primary_type": "THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77597974413375, 41.93590614282858]}, "community_area": "19", "latitude": "41.93590614282858", "type": "property", "description": "FINANCIAL ID THEFT: OVER $300", "beat": "2514", "date": {"$date": 1369256400000}, "ward": "30", "_id": {"$oid": "51a770883c002ed20d78aac6"}, "iucr": "840", "longitude": "-87.77597974413375", "location_description": "RESIDENCE", "x_coordinate": "1135898", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "030XX N AUSTIN AVE"}
+{
+    "y_coordinate": "1919727", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287747", 
+    "id": "9143053", 
+    "primary_type": "THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77597974413375, 
+            41.93590614282858
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.93590614282858", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "2514", 
+    "date": {
+        "$date": 1369256400000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aac6"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.77597974413375", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1135898", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "030XX N AUSTIN AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1862944", "year": "2013", "domestic": false, "case_number": "HW301863", "id": "9156006", "primary_type": "THEFT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65464624789654, 41.779426002026305]}, "community_area": "67", "latitude": "41.779426002026305", "type": "property", "description": "$500 AND UNDER", "beat": "0724", "date": {"$date": 1370209200000}, "ward": "16", "_id": {"$oid": "51b5f1173c002ed20d78cc3b"}, "iucr": "820", "longitude": "-87.65464624789654", "location_description": "GAS STATION", "x_coordinate": "1169362", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "063XX S RACINE AVE"}
+{
+    "y_coordinate": "1862944", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301863", 
+    "id": "9156006", 
+    "primary_type": "THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65464624789654, 
+            41.779426002026305
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.779426002026305", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0724", 
+    "date": {
+        "$date": 1370209200000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51b5f1173c002ed20d78cc3b"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.65464624789654", 
+    "location_description": "GAS STATION", 
+    "x_coordinate": "1169362", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "063XX S RACINE AVE"
+}

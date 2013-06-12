@@ -1,1 +1,38 @@
-{"y_coordinate": "1877366", "year": "2013", "domestic": false, "case_number": "HW286811", "id": "9141576", "primary_type": "PUBLIC PEACE VIOLATION", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6019473823578, 41.81868058700499]}, "community_area": "36", "latitude": "41.81868058700499", "type": null, "description": "RECKLESS CONDUCT", "beat": "0214", "date": {"$date": 1369253280000}, "ward": "4", "_id": {"$oid": "51a770893c002ed20d78aaf6"}, "iucr": "470", "longitude": "-87.6019473823578", "location_description": "ALLEY", "x_coordinate": "1183614", "updated_on": {"$date": 1369442383000}, "fbi_code": "24", "block": "041XX S ELLIS AVE"}
+{
+    "y_coordinate": "1877366", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286811", 
+    "id": "9141576", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6019473823578, 
+            41.81868058700499
+        ]
+    }, 
+    "community_area": "36", 
+    "latitude": "41.81868058700499", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "0214", 
+    "date": {
+        "$date": 1369253280000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51a770893c002ed20d78aaf6"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.6019473823578", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1183614", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "24", 
+    "block": "041XX S ELLIS AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1891021", "year": "2013", "domestic": true, "case_number": "HW289289", "id": "9144350", "primary_type": "OFFENSE INVOLVING CHILDREN", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.712564551254, 41.856804633693564]}, "community_area": "29", "latitude": "41.856804633693564", "type": null, "description": "ENDANGERING LIFE/HEALTH CHILD", "beat": "1021", "date": {"$date": 1369412460000}, "ward": "24", "_id": {"$oid": "51aa13903c002ed20d78af85"}, "iucr": "1710", "longitude": "-87.712564551254", "location_description": "APARTMENT", "x_coordinate": "1153361", "updated_on": {"$date": 1370133629000}, "fbi_code": "26", "block": "018XX S ST LOUIS AVE"}
+{
+    "y_coordinate": "1891021", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289289", 
+    "id": "9144350", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.712564551254, 
+            41.856804633693564
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.856804633693564", 
+    "type": null, 
+    "description": "ENDANGERING LIFE/HEALTH CHILD", 
+    "beat": "1021", 
+    "date": {
+        "$date": 1369412460000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78af85"
+    }, 
+    "iucr": "1710", 
+    "longitude": "-87.712564551254", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1153361", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "26", 
+    "block": "018XX S ST LOUIS AVE"
+}

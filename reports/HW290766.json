@@ -1,1 +1,38 @@
-{"y_coordinate": "1862856", "year": "2013", "domestic": false, "case_number": "HW290766", "id": "9145382", "primary_type": "CRIMINAL DAMAGE", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61574439803658, 41.77894810052943]}, "community_area": "69", "latitude": "41.77894810052943", "type": "quality", "description": "TO PROPERTY", "beat": "0312", "date": {"$date": 1369502400000}, "ward": "20", "_id": {"$oid": "51b34a0f3c002ed20d78c9b5"}, "iucr": "1310", "longitude": "-87.61574439803658", "location_description": "APARTMENT", "x_coordinate": "1179974", "updated_on": {"$date": 1369787985000}, "fbi_code": "14", "block": "063XX S DR MARTIN LUTHER KING JR DR"}
+{
+    "y_coordinate": "1862856", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290766", 
+    "id": "9145382", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61574439803658, 
+            41.77894810052943
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.77894810052943", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0312", 
+    "date": {
+        "$date": 1369502400000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c9b5"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.61574439803658", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1179974", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "14", 
+    "block": "063XX S DR MARTIN LUTHER KING JR DR"
+}

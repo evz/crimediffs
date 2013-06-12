@@ -1,1 +1,38 @@
-{"y_coordinate": "1888289", "year": "2013", "domestic": false, "case_number": "HW285831", "id": "9140723", "primary_type": "SEX OFFENSE", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68570197642478, 41.8491589833927]}, "community_area": "31", "latitude": "41.8491589833927", "type": null, "description": "OTHER", "beat": "1034", "date": {"$date": 1369219380000}, "ward": "25", "_id": {"$oid": "51a7708d3c002ed20d78acaa"}, "iucr": "1585", "longitude": "-87.68570197642478", "location_description": "SCHOOL, PUBLIC, GROUNDS", "x_coordinate": "1160700", "updated_on": {"$date": 1369356045000}, "fbi_code": "17", "block": "023XX S WESTERN AVE"}
+{
+    "y_coordinate": "1888289", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285831", 
+    "id": "9140723", 
+    "primary_type": "SEX OFFENSE", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68570197642478, 
+            41.8491589833927
+        ]
+    }, 
+    "community_area": "31", 
+    "latitude": "41.8491589833927", 
+    "type": null, 
+    "description": "OTHER", 
+    "beat": "1034", 
+    "date": {
+        "$date": 1369219380000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78acaa"
+    }, 
+    "iucr": "1585", 
+    "longitude": "-87.68570197642478", 
+    "location_description": "SCHOOL, PUBLIC, GROUNDS", 
+    "x_coordinate": "1160700", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "17", 
+    "block": "023XX S WESTERN AVE"
+}

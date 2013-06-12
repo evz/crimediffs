@@ -1,1 +1,38 @@
-{"y_coordinate": "1856131", "year": "2013", "domestic": false, "case_number": "HW290533", "id": "9145354", "primary_type": "BATTERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63103889198639, 41.76058723114793]}, "community_area": "69", "latitude": "41.76058723114793", "type": null, "description": "SIMPLE", "beat": "0731", "date": {"$date": 1369476000000}, "ward": "17", "_id": {"$oid": "51b34a123c002ed20d78cacf"}, "iucr": "460", "longitude": "-87.63103889198639", "location_description": "APARTMENT", "x_coordinate": "1175857", "updated_on": {"$date": 1370047283000}, "fbi_code": "08B", "block": "073XX S YALE AVE"}
+{
+    "y_coordinate": "1856131", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290533", 
+    "id": "9145354", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63103889198639, 
+            41.76058723114793
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.76058723114793", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0731", 
+    "date": {
+        "$date": 1369476000000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cacf"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.63103889198639", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1175857", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "08B", 
+    "block": "073XX S YALE AVE"
+}

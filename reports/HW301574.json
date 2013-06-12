@@ -1,1 +1,38 @@
-{"y_coordinate": "1867011", "year": "2013", "domestic": false, "case_number": "HW301574", "id": "9155777", "primary_type": "NARCOTICS", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66071067810097, 41.79062269505185]}, "community_area": "67", "latitude": "41.79062269505185", "type": "quality", "description": "MANU/DEL:CANNABIS 10GM OR LESS", "beat": "0713", "date": {"$date": 1370196000000}, "ward": "16", "_id": {"$oid": "51b5f1193c002ed20d78cce3"}, "iucr": "1821", "longitude": "-87.66071067810097", "location_description": "SIDEWALK", "x_coordinate": "1167676", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "056XX S BISHOP ST"}
+{
+    "y_coordinate": "1867011", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301574", 
+    "id": "9155777", 
+    "primary_type": "NARCOTICS", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66071067810097, 
+            41.79062269505185
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.79062269505185", 
+    "type": "quality", 
+    "description": "MANU/DEL:CANNABIS 10GM OR LESS", 
+    "beat": "0713", 
+    "date": {
+        "$date": 1370196000000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78cce3"
+    }, 
+    "iucr": "1821", 
+    "longitude": "-87.66071067810097", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1167676", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "056XX S BISHOP ST"
+}

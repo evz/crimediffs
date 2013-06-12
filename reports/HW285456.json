@@ -1,1 +1,38 @@
-{"y_coordinate": "1872785", "year": "2013", "domestic": false, "case_number": "HW285456", "id": "9141869", "primary_type": "CRIMINAL DAMAGE", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61371665933034, 41.80618340458309]}, "community_area": "38", "latitude": "41.80618340458309", "type": "quality", "description": "TO PROPERTY", "beat": "0223", "date": {"$date": 1369140300000}, "ward": "3", "_id": {"$oid": "51a61f0e3c002ed20d78a8d2"}, "iucr": "1310", "longitude": "-87.61371665933034", "location_description": "APARTMENT", "x_coordinate": "1180444", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "048XX S VINCENNES AVE"}
+{
+    "y_coordinate": "1872785", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285456", 
+    "id": "9141869", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61371665933034, 
+            41.80618340458309
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.80618340458309", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0223", 
+    "date": {
+        "$date": 1369140300000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a8d2"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.61371665933034", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1180444", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "048XX S VINCENNES AVE"
+}

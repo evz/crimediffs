@@ -1,1 +1,38 @@
-{"y_coordinate": "1896469", "year": "2013", "domestic": false, "case_number": "HW299900", "id": "9154560", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72056681963574, 41.87179831350408]}, "community_area": "26", "latitude": "41.87179831350408", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "1133", "date": {"$date": 1370088600000}, "ward": "24", "_id": {"$oid": "51b5f1203c002ed20d78d0f0"}, "iucr": "2024", "longitude": "-87.72056681963574", "location_description": "STREET", "x_coordinate": "1151142", "updated_on": {"$date": 1370479286000}, "fbi_code": "18", "block": "038XX W LEXINGTON ST"}
+{
+    "y_coordinate": "1896469", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299900", 
+    "id": "9154560", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72056681963574, 
+            41.87179831350408
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.87179831350408", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "1133", 
+    "date": {
+        "$date": 1370088600000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0f0"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.72056681963574", 
+    "location_description": "STREET", 
+    "x_coordinate": "1151142", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "18", 
+    "block": "038XX W LEXINGTON ST"
+}

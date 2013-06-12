@@ -1,1 +1,38 @@
-{"y_coordinate": "1928515", "year": "2013", "domestic": false, "case_number": "HW283414", "id": "9137970", "primary_type": "DECEPTIVE PRACTICE", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76707834205105, 41.95997878305945]}, "community_area": "15", "latitude": "41.95997878305945", "type": null, "description": "COUNTERFEITING DOCUMENT", "beat": "1624", "date": {"$date": 1369072800000}, "ward": "38", "_id": {"$oid": "51a4cd8f3c002ed20d78a457"}, "iucr": "1121", "longitude": "-87.76707834205105", "location_description": "DRUG STORE", "x_coordinate": "1138262", "updated_on": {"$date": 1369269615000}, "fbi_code": "10", "block": "043XX N CENTRAL AVE"}
+{
+    "y_coordinate": "1928515", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283414", 
+    "id": "9137970", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76707834205105, 
+            41.95997878305945
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.95997878305945", 
+    "type": null, 
+    "description": "COUNTERFEITING DOCUMENT", 
+    "beat": "1624", 
+    "date": {
+        "$date": 1369072800000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a457"
+    }, 
+    "iucr": "1121", 
+    "longitude": "-87.76707834205105", 
+    "location_description": "DRUG STORE", 
+    "x_coordinate": "1138262", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "10", 
+    "block": "043XX N CENTRAL AVE"
+}

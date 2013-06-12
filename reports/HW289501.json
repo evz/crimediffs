@@ -1,1 +1,38 @@
-{"y_coordinate": "1886967", "year": "2013", "domestic": true, "case_number": "HW289501", "id": "9144568", "primary_type": "THEFT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72475354441485, 41.845744628811254]}, "community_area": "30", "latitude": "41.845744628811254", "type": "property", "description": "$500 AND UNDER", "beat": "1013", "date": {"$date": 1369389600000}, "ward": "22", "_id": {"$oid": "51aa13923c002ed20d78b0bb"}, "iucr": "820", "longitude": "-87.72475354441485", "location_description": "APARTMENT", "x_coordinate": "1150069", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "025XX S PULASKI RD"}
+{
+    "y_coordinate": "1886967", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289501", 
+    "id": "9144568", 
+    "primary_type": "THEFT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72475354441485, 
+            41.845744628811254
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.845744628811254", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1013", 
+    "date": {
+        "$date": 1369389600000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b0bb"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.72475354441485", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1150069", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "025XX S PULASKI RD"
+}

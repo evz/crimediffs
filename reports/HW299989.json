@@ -1,1 +1,38 @@
-{"y_coordinate": "1844906", "year": "2013", "domestic": false, "case_number": "HW299989", "id": "9154564", "primary_type": "CRIMINAL TRESPASS", "district": "022", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66182373541413, 41.72996641944743]}, "community_area": "73", "latitude": "41.72996641944743", "type": null, "description": "TO RESIDENCE", "beat": "2221", "date": {"$date": 1370095080000}, "ward": "21", "_id": {"$oid": "51b5f1203c002ed20d78d0a8"}, "iucr": "1365", "longitude": "-87.66182373541413", "location_description": "APARTMENT", "x_coordinate": "1167545", "updated_on": {"$date": 1370306580000}, "fbi_code": "26", "block": "090XX S JUSTINE ST"}
+{
+    "y_coordinate": "1844906", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299989", 
+    "id": "9154564", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "022", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66182373541413, 
+            41.72996641944743
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.72996641944743", 
+    "type": null, 
+    "description": "TO RESIDENCE", 
+    "beat": "2221", 
+    "date": {
+        "$date": 1370095080000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0a8"
+    }, 
+    "iucr": "1365", 
+    "longitude": "-87.66182373541413", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1167545", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "26", 
+    "block": "090XX S JUSTINE ST"
+}

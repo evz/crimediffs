@@ -1,1 +1,38 @@
-{"y_coordinate": "1836140", "year": "2013", "domestic": false, "case_number": "HW286007", "id": "9140919", "primary_type": "PUBLIC PEACE VIOLATION", "district": "022", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6537871532632, 41.70586245340964]}, "community_area": "73", "latitude": "41.70586245340964", "type": null, "description": "FALSE FIRE ALARM", "beat": "2232", "date": {"$date": 1369224060000}, "ward": "21", "_id": {"$oid": "51a7708c3c002ed20d78ac75"}, "iucr": "2840", "longitude": "-87.6537871532632", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1169808", "updated_on": {"$date": 1369442383000}, "fbi_code": "24", "block": "103XX S ELIZABETH ST"}
+{
+    "y_coordinate": "1836140", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286007", 
+    "id": "9140919", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "022", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6537871532632, 
+            41.70586245340964
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.70586245340964", 
+    "type": null, 
+    "description": "FALSE FIRE ALARM", 
+    "beat": "2232", 
+    "date": {
+        "$date": 1369224060000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac75"
+    }, 
+    "iucr": "2840", 
+    "longitude": "-87.6537871532632", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1169808", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "24", 
+    "block": "103XX S ELIZABETH ST"
+}

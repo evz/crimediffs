@@ -1,1 +1,38 @@
-{"y_coordinate": "1935189", "year": "2013", "domestic": false, "case_number": "HW286612", "id": "9141431", "primary_type": "THEFT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.90646388837229, 41.97889653100515]}, "community_area": "76", "latitude": "41.97889653100515", "type": "property", "description": "FROM BUILDING", "beat": "1651", "date": {"$date": 1369213200000}, "ward": "41", "_id": {"$oid": "51a7708d3c002ed20d78acea"}, "iucr": "890", "longitude": "-87.90646388837229", "location_description": "AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA", "x_coordinate": "1100317", "updated_on": {"$date": 1370133629000}, "fbi_code": "06", "block": "0000X W TERMINAL ST"}
+{
+    "y_coordinate": "1935189", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286612", 
+    "id": "9141431", 
+    "primary_type": "THEFT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.90646388837229, 
+            41.97889653100515
+        ]
+    }, 
+    "community_area": "76", 
+    "latitude": "41.97889653100515", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1651", 
+    "date": {
+        "$date": 1369213200000
+    }, 
+    "ward": "41", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78acea"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.90646388837229", 
+    "location_description": "AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA", 
+    "x_coordinate": "1100317", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "06", 
+    "block": "0000X W TERMINAL ST"
+}

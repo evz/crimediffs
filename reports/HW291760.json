@@ -1,1 +1,38 @@
-{"y_coordinate": "1904878", "year": "2013", "domestic": true, "case_number": "HW291760", "id": "9146170", "primary_type": "OTHER OFFENSE", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75520088909882, 41.89505427266037]}, "community_area": "25", "latitude": "41.89505427266037", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "1531", "date": {"$date": 1369497600000}, "ward": "37", "_id": {"$oid": "51b34a103c002ed20d78c9fa"}, "iucr": "2825", "longitude": "-87.75520088909882", "location_description": "OTHER", "x_coordinate": "1141652", "updated_on": {"$date": 1370047283000}, "fbi_code": "26", "block": "051XX W CHICAGO AVE"}
+{
+    "y_coordinate": "1904878", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW291760", 
+    "id": "9146170", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75520088909882, 
+            41.89505427266037
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.89505427266037", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "1531", 
+    "date": {
+        "$date": 1369497600000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78c9fa"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.75520088909882", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1141652", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "26", 
+    "block": "051XX W CHICAGO AVE"
+}

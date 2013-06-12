@@ -1,1 +1,38 @@
-{"y_coordinate": "1868648", "year": "2013", "domestic": false, "case_number": "HW300979", "id": "9155301", "primary_type": "BATTERY", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.61906541482504, 41.794863702169515]}, "community_area": "40", "latitude": "41.794863702169515", "type": null, "description": "SIMPLE", "beat": "0231", "date": {"$date": 1370168400000}, "ward": "3", "_id": {"$oid": "51b5f11b3c002ed20d78ce04"}, "iucr": "460", "longitude": "-87.61906541482504", "location_description": "CTA PLATFORM", "x_coordinate": "1179020", "updated_on": {"$date": 1370392932000}, "fbi_code": "08B", "block": "003XX E GARFIELD BLVD"}
+{
+    "y_coordinate": "1868648", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300979", 
+    "id": "9155301", 
+    "primary_type": "BATTERY", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61906541482504, 
+            41.794863702169515
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.794863702169515", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0231", 
+    "date": {
+        "$date": 1370168400000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78ce04"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.61906541482504", 
+    "location_description": "CTA PLATFORM", 
+    "x_coordinate": "1179020", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "08B", 
+    "block": "003XX E GARFIELD BLVD"
+}

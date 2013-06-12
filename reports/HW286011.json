@@ -1,1 +1,38 @@
-{"y_coordinate": "1897116", "year": "2013", "domestic": false, "case_number": "HW286011", "id": "9140977", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71058533178136, 41.873520152989656]}, "community_area": "27", "latitude": "41.873520152989656", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1134", "date": {"$date": 1369227780000}, "ward": "24", "_id": {"$oid": "51a7708c3c002ed20d78ac51"}, "iucr": "1811", "longitude": "-87.71058533178136", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1153856", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "033XX W HARRISON ST"}
+{
+    "y_coordinate": "1897116", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286011", 
+    "id": "9140977", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71058533178136, 
+            41.873520152989656
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.873520152989656", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1134", 
+    "date": {
+        "$date": 1369227780000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac51"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.71058533178136", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1153856", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "033XX W HARRISON ST"
+}

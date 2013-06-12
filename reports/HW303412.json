@@ -1,1 +1,38 @@
-{"y_coordinate": "1929364", "year": "2013", "domestic": false, "case_number": "HW303412", "id": "9157944", "primary_type": "BATTERY", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72017329975954, 41.96206769102544]}, "community_area": "14", "latitude": "41.96206769102544", "type": "violent", "description": "AGGRAVATED:KNIFE/CUTTING INSTR", "beat": "1723", "date": {"$date": 1370218500000}, "ward": "33", "_id": {"$oid": "51b5f1153c002ed20d78cbd8"}, "iucr": "420", "longitude": "-87.72017329975954", "location_description": "ALLEY", "x_coordinate": "1151014", "updated_on": {"$date": 1370565766000}, "fbi_code": "04B", "block": "036XX W AGATITE AVE"}
+{
+    "y_coordinate": "1929364", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303412", 
+    "id": "9157944", 
+    "primary_type": "BATTERY", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72017329975954, 
+            41.96206769102544
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.96206769102544", 
+    "type": "violent", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
+    "beat": "1723", 
+    "date": {
+        "$date": 1370218500000
+    }, 
+    "ward": "33", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbd8"
+    }, 
+    "iucr": "420", 
+    "longitude": "-87.72017329975954", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1151014", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "04B", 
+    "block": "036XX W AGATITE AVE"
+}

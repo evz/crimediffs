@@ -1,1 +1,33 @@
-{"community_area": "44", "_id": {"$oid": "51aa13933c002ed20d78b139"}, "primary_type": "CRIMINAL DAMAGE", "beat": "0632", "year": "2013", "domestic": false, "iucr": "1310", "arrest": false, "location_description": "BARBERSHOP", "location": {"type": "Point", "coordinates": [-87.62417451328355, 41.7435468534446]}, "case_number": "HW287081", "date": {"$date": 1369373340000}, "updated_on": {"$date": 1370133629000}, "ward": "6", "fbi_code": "14", "type": "quality", "id": "9152110", "block": "0000X E 83RD ST", "description": "TO PROPERTY"}
+{
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b139"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "year": "2013", 
+    "beat": "0632", 
+    "case_number": "HW287081", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "BARBERSHOP", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62417451328355, 
+            41.7435468534446
+        ]
+    }, 
+    "community_area": "44", 
+    "date": {
+        "$date": 1369373340000
+    }, 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "ward": "6", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9152110", 
+    "block": "0000X E 83RD ST", 
+    "description": "TO PROPERTY"
+}

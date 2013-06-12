@@ -1,1 +1,38 @@
-{"y_coordinate": "1905453", "year": "2013", "domestic": false, "case_number": "HW286501", "id": "9141404", "primary_type": "BATTERY", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66743897388619, 41.89615683820305]}, "community_area": "24", "latitude": "41.89615683820305", "type": null, "description": "SIMPLE", "beat": "1213", "date": {"$date": 1369242000000}, "ward": "1", "_id": {"$oid": "51a7708a3c002ed20d78ab85"}, "iucr": "460", "longitude": "-87.66743897388619", "location_description": "STREET", "x_coordinate": "1165543", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "008XX N ASHLAND AVE"}
+{
+    "y_coordinate": "1905453", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286501", 
+    "id": "9141404", 
+    "primary_type": "BATTERY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66743897388619, 
+            41.89615683820305
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.89615683820305", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1213", 
+    "date": {
+        "$date": 1369242000000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab85"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.66743897388619", 
+    "location_description": "STREET", 
+    "x_coordinate": "1165543", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "008XX N ASHLAND AVE"
+}

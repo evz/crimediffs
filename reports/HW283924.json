@@ -1,1 +1,38 @@
-{"y_coordinate": "1907766", "year": "2013", "domestic": false, "case_number": "HW283924", "id": "9138432", "primary_type": "CRIMINAL DAMAGE", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62793829473132, 41.90226840076362]}, "community_area": "8", "latitude": "41.90226840076362", "type": "quality", "description": "TO VEHICLE", "beat": "1824", "date": {"$date": 1369101600000}, "ward": "42", "_id": {"$oid": "51a4cd8a3c002ed20d78a30e"}, "iucr": "1320", "longitude": "-87.62793829473132", "location_description": "ALLEY", "x_coordinate": "1176279", "updated_on": {"$date": 1369269615000}, "fbi_code": "14", "block": "0000X E CEDAR ST"}
+{
+    "y_coordinate": "1907766", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283924", 
+    "id": "9138432", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62793829473132, 
+            41.90226840076362
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.90226840076362", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1824", 
+    "date": {
+        "$date": 1369101600000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a4cd8a3c002ed20d78a30e"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.62793829473132", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1176279", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "14", 
+    "block": "0000X E CEDAR ST"
+}

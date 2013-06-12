@@ -1,1 +1,38 @@
-{"y_coordinate": "1888563", "year": "2013", "domestic": false, "case_number": "HW290629", "id": "9145305", "primary_type": "MOTOR VEHICLE THEFT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67269472418579, 41.84983682943258]}, "community_area": "31", "latitude": "41.84983682943258", "type": "property", "description": "TRUCK, BUS, MOTOR HOME", "beat": "1034", "date": {"$date": 1369491600000}, "ward": "25", "_id": {"$oid": "51b34a103c002ed20d78ca44"}, "iucr": "915", "longitude": "-87.67269472418579", "location_description": "STREET", "x_coordinate": "1164242", "updated_on": {"$date": 1369701613000}, "fbi_code": "07", "block": "023XX S BLUE ISLAND AVE"}
+{
+    "y_coordinate": "1888563", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290629", 
+    "id": "9145305", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67269472418579, 
+            41.84983682943258
+        ]
+    }, 
+    "community_area": "31", 
+    "latitude": "41.84983682943258", 
+    "type": "property", 
+    "description": "TRUCK, BUS, MOTOR HOME", 
+    "beat": "1034", 
+    "date": {
+        "$date": 1369491600000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78ca44"
+    }, 
+    "iucr": "915", 
+    "longitude": "-87.67269472418579", 
+    "location_description": "STREET", 
+    "x_coordinate": "1164242", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "07", 
+    "block": "023XX S BLUE ISLAND AVE"
+}

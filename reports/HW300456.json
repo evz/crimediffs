@@ -1,1 +1,38 @@
-{"y_coordinate": "1934352", "year": "2013", "domestic": true, "case_number": "HW300456", "id": "9154881", "primary_type": "OTHER OFFENSE", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65513288794975, 41.97538998128741]}, "community_area": "3", "latitude": "41.97538998128741", "type": null, "description": "TELEPHONE THREAT", "beat": "2024", "date": {"$date": 1370119200000}, "ward": "48", "_id": {"$oid": "51b5f11e3c002ed20d78cf9c"}, "iucr": "2820", "longitude": "-87.65513288794975", "location_description": "APARTMENT", "x_coordinate": "1168665", "updated_on": {"$date": 1370651988000}, "fbi_code": "26", "block": "051XX N SHERIDAN RD"}
+{
+    "y_coordinate": "1934352", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300456", 
+    "id": "9154881", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65513288794975, 
+            41.97538998128741
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.97538998128741", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "2024", 
+    "date": {
+        "$date": 1370119200000
+    }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf9c"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.65513288794975", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1168665", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "26", 
+    "block": "051XX N SHERIDAN RD"
+}

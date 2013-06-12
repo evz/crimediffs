@@ -1,1 +1,38 @@
-{"y_coordinate": "1864097", "year": "2013", "domestic": false, "case_number": "HW284993", "id": "9139884", "primary_type": "BURGLARY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64835452982545, 41.782552828195826]}, "community_area": "68", "latitude": "41.782552828195826", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0712", "date": {"$date": 1369118700000}, "ward": "16", "_id": {"$oid": "51a61f103c002ed20d78a9bf"}, "iucr": "610", "longitude": "-87.64835452982545", "location_description": "RESIDENCE", "x_coordinate": "1171069", "updated_on": {"$date": 1369528777000}, "fbi_code": "05", "block": "061XX S SANGAMON ST"}
+{
+    "y_coordinate": "1864097", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284993", 
+    "id": "9139884", 
+    "primary_type": "BURGLARY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64835452982545, 
+            41.782552828195826
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.782552828195826", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0712", 
+    "date": {
+        "$date": 1369118700000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a61f103c002ed20d78a9bf"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.64835452982545", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1171069", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "05", 
+    "block": "061XX S SANGAMON ST"
+}

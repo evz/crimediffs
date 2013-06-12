@@ -1,1 +1,38 @@
-{"y_coordinate": "1875476", "year": "2013", "domestic": false, "case_number": "HW290509", "id": "9145215", "primary_type": "NARCOTICS", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.59505918215993, 41.81344984920034]}, "community_area": "39", "latitude": "41.81344984920034", "type": "quality", "description": "MANU/DEL:CANNABIS 10GM OR LESS", "beat": "0222", "date": {"$date": 1369490700000}, "ward": "4", "_id": {"$oid": "51b34a103c002ed20d78ca49"}, "iucr": "1821", "longitude": "-87.59505918215993", "location_description": "PARK PROPERTY", "x_coordinate": "1185508", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "045XX S OAKENWALD AVE"}
+{
+    "y_coordinate": "1875476", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290509", 
+    "id": "9145215", 
+    "primary_type": "NARCOTICS", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59505918215993, 
+            41.81344984920034
+        ]
+    }, 
+    "community_area": "39", 
+    "latitude": "41.81344984920034", 
+    "type": "quality", 
+    "description": "MANU/DEL:CANNABIS 10GM OR LESS", 
+    "beat": "0222", 
+    "date": {
+        "$date": 1369490700000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78ca49"
+    }, 
+    "iucr": "1821", 
+    "longitude": "-87.59505918215993", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1185508", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "045XX S OAKENWALD AVE"
+}

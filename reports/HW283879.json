@@ -1,1 +1,38 @@
-{"y_coordinate": "1823870", "year": "2013", "domestic": true, "case_number": "HW283879", "id": "9138439", "primary_type": "BATTERY", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64430329538122, 41.67213299994782]}, "community_area": "53", "latitude": "41.67213299994782", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0524", "date": {"$date": 1369096200000}, "ward": "34", "_id": {"$oid": "51a4cd8b3c002ed20d78a32a"}, "iucr": "486", "longitude": "-87.64430329538122", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1172496", "updated_on": {"$date": 1370565766000}, "fbi_code": "08B", "block": "122XX S PEORIA ST"}
+{
+    "y_coordinate": "1823870", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283879", 
+    "id": "9138439", 
+    "primary_type": "BATTERY", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64430329538122, 
+            41.67213299994782
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.67213299994782", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0524", 
+    "date": {
+        "$date": 1369096200000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51a4cd8b3c002ed20d78a32a"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.64430329538122", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1172496", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "08B", 
+    "block": "122XX S PEORIA ST"
+}

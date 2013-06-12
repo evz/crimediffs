@@ -1,1 +1,38 @@
-{"y_coordinate": "1862908", "year": "2013", "domestic": false, "case_number": "HW303147", "id": "9157770", "primary_type": "THEFT", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.60575280474998, 41.779027958999244]}, "community_area": "42", "latitude": "41.779027958999244", "type": "property", "description": "RETAIL THEFT", "beat": "0312", "date": {"$date": 1370287800000}, "ward": "20", "_id": {"$oid": "51b742993c002ed20d78d2d3"}, "iucr": "860", "longitude": "-87.60575280474998", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1182699", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "063XX S COTTAGE GROVE AVE"}
+{
+    "y_coordinate": "1862908", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303147", 
+    "id": "9157770", 
+    "primary_type": "THEFT", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60575280474998, 
+            41.779027958999244
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.779027958999244", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0312", 
+    "date": {
+        "$date": 1370287800000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b742993c002ed20d78d2d3"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.60575280474998", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1182699", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "063XX S COTTAGE GROVE AVE"
+}

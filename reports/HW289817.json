@@ -1,1 +1,38 @@
-{"y_coordinate": "1841664", "year": "2013", "domestic": false, "case_number": "HW289817", "id": "9144907", "primary_type": "THEFT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66413968728277, 41.721082850949905]}, "community_area": "73", "latitude": "41.721082850949905", "type": "property", "description": "PURSE-SNATCHING", "beat": "2213", "date": {"$date": 1369440000000}, "ward": "21", "_id": {"$oid": "51aa138c3c002ed20d78ae17"}, "iucr": "880", "longitude": "-87.66413968728277", "location_description": "CTA BUS STOP", "x_coordinate": "1166938", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "016XX W 95TH ST"}
+{
+    "y_coordinate": "1841664", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289817", 
+    "id": "9144907", 
+    "primary_type": "THEFT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66413968728277, 
+            41.721082850949905
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.721082850949905", 
+    "type": "property", 
+    "description": "PURSE-SNATCHING", 
+    "beat": "2213", 
+    "date": {
+        "$date": 1369440000000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae17"
+    }, 
+    "iucr": "880", 
+    "longitude": "-87.66413968728277", 
+    "location_description": "CTA BUS STOP", 
+    "x_coordinate": "1166938", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "016XX W 95TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1934720", "year": "2013", "domestic": false, "case_number": "HW288558", "id": "9143468", "primary_type": "NARCOTICS", "district": "016", "arrest": true, "location": {"type": "Point", "coordinates": [-87.76477251322152, 41.976995203366165]}, "community_area": "11", "latitude": "41.976995203366165", "type": "quality", "description": "FOUND SUSPECT NARCOTICS", "beat": "1623", "date": {"$date": 1369379100000}, "ward": "45", "_id": {"$oid": "51aa13933c002ed20d78b11e"}, "iucr": "2093", "longitude": "-87.76477251322152", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1138848", "updated_on": {"$date": 1369528777000}, "fbi_code": "26", "block": "052XX N LUDLAM AVE"}
+{
+    "y_coordinate": "1934720", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288558", 
+    "id": "9143468", 
+    "primary_type": "NARCOTICS", 
+    "district": "016", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76477251322152, 
+            41.976995203366165
+        ]
+    }, 
+    "community_area": "11", 
+    "latitude": "41.976995203366165", 
+    "type": "quality", 
+    "description": "FOUND SUSPECT NARCOTICS", 
+    "beat": "1623", 
+    "date": {
+        "$date": 1369379100000
+    }, 
+    "ward": "45", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b11e"
+    }, 
+    "iucr": "2093", 
+    "longitude": "-87.76477251322152", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1138848", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "26", 
+    "block": "052XX N LUDLAM AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1929958", "year": "2013", "domestic": false, "case_number": "HW287903", "id": "9142853", "primary_type": "CRIMINAL DAMAGE", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66336041003329, 41.96338026468525]}, "community_area": "3", "latitude": "41.96338026468525", "type": "quality", "description": "CRIMINAL DEFACEMENT", "beat": "1913", "date": {"$date": 1369321200000}, "ward": "46", "_id": {"$oid": "51aa13973c002ed20d78b2f2"}, "iucr": "1305", "longitude": "-87.66336041003329", "location_description": "RESIDENCE", "x_coordinate": "1166462", "updated_on": {"$date": 1369528777000}, "fbi_code": "14", "block": "013XX W SUNNYSIDE AVE"}
+{
+    "y_coordinate": "1929958", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287903", 
+    "id": "9142853", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66336041003329, 
+            41.96338026468525
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.96338026468525", 
+    "type": "quality", 
+    "description": "CRIMINAL DEFACEMENT", 
+    "beat": "1913", 
+    "date": {
+        "$date": 1369321200000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b2f2"
+    }, 
+    "iucr": "1305", 
+    "longitude": "-87.66336041003329", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1166462", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "14", 
+    "block": "013XX W SUNNYSIDE AVE"
+}

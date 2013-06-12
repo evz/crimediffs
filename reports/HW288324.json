@@ -1,1 +1,38 @@
-{"y_coordinate": "1848500", "year": "2013", "domestic": false, "case_number": "HW288324", "id": "9143230", "primary_type": "NARCOTICS", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64846516395302, 41.73975063533827]}, "community_area": "71", "latitude": "41.73975063533827", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0613", "date": {"$date": 1369349400000}, "ward": "21", "_id": {"$oid": "51aa13943c002ed20d78b1a4"}, "iucr": "1811", "longitude": "-87.64846516395302", "location_description": "SIDEWALK", "x_coordinate": "1171163", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "009XX W 85TH ST"}
+{
+    "y_coordinate": "1848500", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288324", 
+    "id": "9143230", 
+    "primary_type": "NARCOTICS", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64846516395302, 
+            41.73975063533827
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.73975063533827", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0613", 
+    "date": {
+        "$date": 1369349400000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1a4"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.64846516395302", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1171163", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "009XX W 85TH ST"
+}

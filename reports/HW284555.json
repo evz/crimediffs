@@ -1,1 +1,38 @@
-{"y_coordinate": "1869629", "year": "2013", "domestic": false, "case_number": "HW284555", "id": "9139344", "primary_type": "OFFENSE INVOLVING CHILDREN", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.730807431824, 41.79819627911591]}, "community_area": "57", "latitude": "41.79819627911591", "type": null, "description": "CHILD ABUSE", "beat": "0815", "date": {"$date": 1369061100000}, "ward": "23", "_id": {"$oid": "51a4cd913c002ed20d78a4e8"}, "iucr": "1750", "longitude": "-87.730807431824", "location_description": "RESIDENCE", "x_coordinate": "1148541", "updated_on": {"$date": 1370392932000}, "fbi_code": "20", "block": "052XX S KILDARE AVE"}
+{
+    "y_coordinate": "1869629", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284555", 
+    "id": "9139344", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.730807431824, 
+            41.79819627911591
+        ]
+    }, 
+    "community_area": "57", 
+    "latitude": "41.79819627911591", 
+    "type": null, 
+    "description": "CHILD ABUSE", 
+    "beat": "0815", 
+    "date": {
+        "$date": 1369061100000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a4e8"
+    }, 
+    "iucr": "1750", 
+    "longitude": "-87.730807431824", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1148541", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "20", 
+    "block": "052XX S KILDARE AVE"
+}

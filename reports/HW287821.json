@@ -1,1 +1,38 @@
-{"y_coordinate": "1912597", "year": "2013", "domestic": true, "case_number": "HW287821", "id": "9143236", "primary_type": "ASSAULT", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7087727317003, 41.91599390216685]}, "community_area": "22", "latitude": "41.91599390216685", "type": "violent", "description": "AGGRAVATED: HANDGUN", "beat": "1422", "date": {"$date": 1369249200000}, "ward": "35", "_id": {"$oid": "51a770893c002ed20d78ab2e"}, "iucr": "051A", "longitude": "-87.7087727317003", "location_description": "APARTMENT", "x_coordinate": "1154237", "updated_on": {"$date": 1370047283000}, "fbi_code": "04A", "block": "019XX N SAWYER AVE"}
+{
+    "y_coordinate": "1912597", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW287821", 
+    "id": "9143236", 
+    "primary_type": "ASSAULT", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7087727317003, 
+            41.91599390216685
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.91599390216685", 
+    "type": "violent", 
+    "description": "AGGRAVATED: HANDGUN", 
+    "beat": "1422", 
+    "date": {
+        "$date": 1369249200000
+    }, 
+    "ward": "35", 
+    "_id": {
+        "$oid": "51a770893c002ed20d78ab2e"
+    }, 
+    "iucr": "051A", 
+    "longitude": "-87.7087727317003", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1154237", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "04A", 
+    "block": "019XX N SAWYER AVE"
+}

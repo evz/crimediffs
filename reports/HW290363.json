@@ -1,1 +1,38 @@
-{"y_coordinate": "1910548", "year": "2013", "domestic": false, "case_number": "HW290363", "id": "9145776", "primary_type": "MOTOR VEHICLE THEFT", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69854873254853, 41.91031490609154]}, "community_area": "24", "latitude": "41.91031490609154", "type": "property", "description": "AUTOMOBILE", "beat": "1421", "date": {"$date": 1369483200000}, "ward": "1", "_id": {"$oid": "51b34a113c002ed20d78ca93"}, "iucr": "910", "longitude": "-87.69854873254853", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1157035", "updated_on": {"$date": 1369787985000}, "fbi_code": "07", "block": "028XX W NORTH AVE"}
+{
+    "y_coordinate": "1910548", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290363", 
+    "id": "9145776", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69854873254853, 
+            41.91031490609154
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.91031490609154", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1421", 
+    "date": {
+        "$date": 1369483200000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca93"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.69854873254853", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1157035", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "07", 
+    "block": "028XX W NORTH AVE"
+}

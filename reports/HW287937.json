@@ -1,1 +1,38 @@
-{"y_coordinate": "1856860", "year": "2013", "domestic": false, "case_number": "HW287937", "id": "9143074", "primary_type": "ASSAULT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6004536691578, 41.762396794588426]}, "community_area": "69", "latitude": "41.762396794588426", "type": "violent", "description": "AGGRAVATED: HANDGUN", "beat": "0324", "date": {"$date": 1369327800000}, "ward": "5", "_id": {"$oid": "51aa13963c002ed20d78b2a5"}, "iucr": "051A", "longitude": "-87.6004536691578", "location_description": "STREET", "x_coordinate": "1184196", "updated_on": {"$date": 1369528777000}, "fbi_code": "04A", "block": "010XX E 73RD ST"}
+{
+    "y_coordinate": "1856860", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287937", 
+    "id": "9143074", 
+    "primary_type": "ASSAULT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6004536691578, 
+            41.762396794588426
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.762396794588426", 
+    "type": "violent", 
+    "description": "AGGRAVATED: HANDGUN", 
+    "beat": "0324", 
+    "date": {
+        "$date": 1369327800000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b2a5"
+    }, 
+    "iucr": "051A", 
+    "longitude": "-87.6004536691578", 
+    "location_description": "STREET", 
+    "x_coordinate": "1184196", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "04A", 
+    "block": "010XX E 73RD ST"
+}

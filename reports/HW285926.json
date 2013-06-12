@@ -1,1 +1,38 @@
-{"y_coordinate": "1834253", "year": "2013", "domestic": false, "case_number": "HW285926", "id": "9140940", "primary_type": "ROBBERY", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66916198928485, 41.70077379362183]}, "community_area": "72", "latitude": "41.70077379362183", "type": "violent", "description": "AGGRAVATED", "beat": "2212", "date": {"$date": 1369220400000}, "ward": "19", "_id": {"$oid": "51a7708d3c002ed20d78aca2"}, "iucr": "330", "longitude": "-87.66916198928485", "location_description": "STREET", "x_coordinate": "1165624", "updated_on": {"$date": 1369528777000}, "fbi_code": "03", "block": "106XX S HALE AVE"}
+{
+    "y_coordinate": "1834253", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285926", 
+    "id": "9140940", 
+    "primary_type": "ROBBERY", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66916198928485, 
+            41.70077379362183
+        ]
+    }, 
+    "community_area": "72", 
+    "latitude": "41.70077379362183", 
+    "type": "violent", 
+    "description": "AGGRAVATED", 
+    "beat": "2212", 
+    "date": {
+        "$date": 1369220400000
+    }, 
+    "ward": "19", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78aca2"
+    }, 
+    "iucr": "330", 
+    "longitude": "-87.66916198928485", 
+    "location_description": "STREET", 
+    "x_coordinate": "1165624", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "03", 
+    "block": "106XX S HALE AVE"
+}

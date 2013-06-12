@@ -1,1 +1,38 @@
-{"y_coordinate": "1934635", "year": "2013", "domestic": false, "case_number": "HW288760", "id": "9151138", "primary_type": "THEFT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.89864076170339, 41.977346883096345]}, "community_area": "76", "latitude": "41.977346883096345", "type": "property", "description": "$500 AND UNDER", "beat": "1653", "date": {"$date": 1369382400000}, "ward": "41", "_id": {"$oid": "51aa13933c002ed20d78b104"}, "iucr": "820", "longitude": "-87.89864076170339", "location_description": "AIRPORT/AIRCRAFT", "x_coordinate": "1102447", "updated_on": {"$date": 1370565766000}, "fbi_code": "06", "block": "0000X W L1A 1B ST"}
+{
+    "y_coordinate": "1934635", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288760", 
+    "id": "9151138", 
+    "primary_type": "THEFT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.89864076170339, 
+            41.977346883096345
+        ]
+    }, 
+    "community_area": "76", 
+    "latitude": "41.977346883096345", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1653", 
+    "date": {
+        "$date": 1369382400000
+    }, 
+    "ward": "41", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b104"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.89864076170339", 
+    "location_description": "AIRPORT/AIRCRAFT", 
+    "x_coordinate": "1102447", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "06", 
+    "block": "0000X W L1A 1B ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1899037", "year": "2013", "domestic": true, "case_number": "HW283635", "id": "9138254", "primary_type": "CRIMINAL DAMAGE", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72052887707675, 41.87884534690268]}, "community_area": "27", "latitude": "41.87884534690268", "type": "quality", "description": "TO VEHICLE", "beat": "1122", "date": {"$date": 1369080000000}, "ward": "28", "_id": {"$oid": "51a4cd8e3c002ed20d78a3db"}, "iucr": "1320", "longitude": "-87.72052887707675", "location_description": "STREET", "x_coordinate": "1151134", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "001XX S HAMLIN BLVD"}
+{
+    "y_coordinate": "1899037", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283635", 
+    "id": "9138254", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72052887707675, 
+            41.87884534690268
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.87884534690268", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1122", 
+    "date": {
+        "$date": 1369080000000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3db"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.72052887707675", 
+    "location_description": "STREET", 
+    "x_coordinate": "1151134", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "001XX S HAMLIN BLVD"
+}

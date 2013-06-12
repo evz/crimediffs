@@ -1,1 +1,38 @@
-{"y_coordinate": "1899000", "year": "2013", "domestic": false, "case_number": "HW286401", "id": "9158133", "primary_type": "NARCOTICS", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72502416961457, 41.87876770896346]}, "community_area": "26", "latitude": "41.87876770896346", "type": "quality", "description": "MANU/DELIVER: HEROIN (WHITE)", "beat": "1122", "date": {"$date": 1369240920000}, "ward": "28", "_id": {"$oid": "51b34a1c3c002ed20d78cb69"}, "iucr": "2014", "longitude": "-87.72502416961457", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1149910", "updated_on": {"$date": 1370479286000}, "fbi_code": "18", "block": "039XX W WILCOX ST"}
+{
+    "y_coordinate": "1899000", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286401", 
+    "id": "9158133", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72502416961457, 
+            41.87876770896346
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.87876770896346", 
+    "type": "quality", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)", 
+    "beat": "1122", 
+    "date": {
+        "$date": 1369240920000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b34a1c3c002ed20d78cb69"
+    }, 
+    "iucr": "2014", 
+    "longitude": "-87.72502416961457", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1149910", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "18", 
+    "block": "039XX W WILCOX ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1906903", "year": "2013", "domestic": false, "case_number": "HW290274", "id": "9145165", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69821438639917, 41.90031031989778]}, "community_area": "24", "latitude": "41.90031031989778", "type": "property", "description": "$500 AND UNDER", "beat": "1211", "date": {"$date": 1369443600000}, "ward": "26", "_id": {"$oid": "51aa138b3c002ed20d78adef"}, "iucr": "820", "longitude": "-87.69821438639917", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1157153", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "010XX N MOZART ST"}
+{
+    "y_coordinate": "1906903", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290274", 
+    "id": "9145165", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69821438639917, 
+            41.90031031989778
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.90031031989778", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1211", 
+    "date": {
+        "$date": 1369443600000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51aa138b3c002ed20d78adef"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.69821438639917", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1157153", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "010XX N MOZART ST"
+}

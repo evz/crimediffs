@@ -1,1 +1,38 @@
-{"y_coordinate": "1931026", "year": "2013", "domestic": false, "case_number": "HW290103", "id": "9145052", "primary_type": "ASSAULT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6590094528331, 41.966285601844696]}, "community_area": "3", "latitude": "41.966285601844696", "type": null, "description": "SIMPLE", "beat": "1913", "date": {"$date": 1369468800000}, "ward": "46", "_id": {"$oid": "51b34a123c002ed20d78cb0a"}, "iucr": "560", "longitude": "-87.6590094528331", "location_description": "RESIDENCE", "x_coordinate": "1167637", "updated_on": {"$date": 1369701613000}, "fbi_code": "08A", "block": "046XX N CLIFTON AVE"}
+{
+    "y_coordinate": "1931026", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290103", 
+    "id": "9145052", 
+    "primary_type": "ASSAULT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6590094528331, 
+            41.966285601844696
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.966285601844696", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1913", 
+    "date": {
+        "$date": 1369468800000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cb0a"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.6590094528331", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1167637", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08A", 
+    "block": "046XX N CLIFTON AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1893559", "year": "2013", "domestic": false, "case_number": "HW290048", "id": "9144900", "primary_type": "MOTOR VEHICLE THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66025236248959, 41.86347488949112]}, "community_area": "28", "latitude": "41.86347488949112", "type": "property", "description": "AUTOMOBILE", "beat": "1233", "date": {"$date": 1369432800000}, "ward": "2", "_id": {"$oid": "51aa138c3c002ed20d78ae6b"}, "iucr": "910", "longitude": "-87.66025236248959", "location_description": "STREET", "x_coordinate": "1167593", "updated_on": {"$date": 1369701613000}, "fbi_code": "07", "block": "013XX W 14TH ST"}
+{
+    "y_coordinate": "1893559", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290048", 
+    "id": "9144900", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66025236248959, 
+            41.86347488949112
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.86347488949112", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1233", 
+    "date": {
+        "$date": 1369432800000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae6b"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.66025236248959", 
+    "location_description": "STREET", 
+    "x_coordinate": "1167593", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "07", 
+    "block": "013XX W 14TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1904012", "year": "2013", "domestic": false, "case_number": "HW284067", "id": "9138779", "primary_type": "BATTERY", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65726299302335, 41.89214293192559]}, "community_area": "24", "latitude": "41.89214293192559", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1214", "date": {"$date": 1369124400000}, "ward": "27", "_id": {"$oid": "51a61f0f3c002ed20d78a98e"}, "iucr": "486", "longitude": "-87.65726299302335", "location_description": "RESIDENCE", "x_coordinate": "1168325", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "005XX N RACINE AVE"}
+{
+    "y_coordinate": "1904012", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284067", 
+    "id": "9138779", 
+    "primary_type": "BATTERY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65726299302335, 
+            41.89214293192559
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.89214293192559", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1214", 
+    "date": {
+        "$date": 1369124400000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a98e"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.65726299302335", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1168325", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "005XX N RACINE AVE"
+}

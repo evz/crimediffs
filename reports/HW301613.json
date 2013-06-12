@@ -1,1 +1,33 @@
-{"community_area": "46", "_id": {"$oid": "51b5f1183c002ed20d78cca5"}, "primary_type": "BATTERY", "beat": "0423", "year": "2013", "domestic": true, "iucr": "497", "arrest": false, "location_description": "RESIDENCE", "location": {"type": "Point", "coordinates": [-87.55983150952217, 41.74002515774472]}, "case_number": "HW301613", "date": {"$date": 1370200200000}, "updated_on": {"$date": 1370911182000}, "ward": "7", "fbi_code": "04B", "type": "violent", "id": "9156413", "block": "085XX S SAGINAW AVE", "description": "AGGRAVATED DOMESTIC BATTERY: OTHER DANG WEAPON"}
+{
+    "_id": {
+        "$oid": "51b5f1183c002ed20d78cca5"
+    }, 
+    "primary_type": "BATTERY", 
+    "year": "2013", 
+    "beat": "0423", 
+    "case_number": "HW301613", 
+    "domestic": true, 
+    "iucr": "497", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55983150952217, 
+            41.74002515774472
+        ]
+    }, 
+    "community_area": "46", 
+    "date": {
+        "$date": 1370200200000
+    }, 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "ward": "7", 
+    "fbi_code": "04B", 
+    "type": "violent", 
+    "id": "9156413", 
+    "block": "085XX S SAGINAW AVE", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: OTHER DANG WEAPON"
+}

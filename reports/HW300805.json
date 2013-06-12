@@ -1,1 +1,38 @@
-{"y_coordinate": "1832253", "year": "2013", "domestic": false, "case_number": "HW300805", "id": "9155157", "primary_type": "OTHER OFFENSE", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61328829468533, 41.69494863248981]}, "community_area": "49", "latitude": "41.69494863248981", "type": null, "description": "HARASSMENT BY ELECTRONIC MEANS", "beat": "0513", "date": {"$date": 1370145600000}, "ward": "9", "_id": {"$oid": "51b5f11d3c002ed20d78ce81"}, "iucr": "2826", "longitude": "-87.61328829468533", "location_description": "RESIDENCE", "x_coordinate": "1180900", "updated_on": {"$date": 1370479286000}, "fbi_code": "26", "block": "109XX S DR MARTIN LUTHER KING JR DR"}
+{
+    "y_coordinate": "1832253", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300805", 
+    "id": "9155157", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61328829468533, 
+            41.69494863248981
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.69494863248981", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "0513", 
+    "date": {
+        "$date": 1370145600000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78ce81"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.61328829468533", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1180900", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "26", 
+    "block": "109XX S DR MARTIN LUTHER KING JR DR"
+}

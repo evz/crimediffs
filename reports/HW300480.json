@@ -1,1 +1,38 @@
-{"y_coordinate": "1900228", "year": "2013", "domestic": false, "case_number": "HW300480", "id": "9154901", "primary_type": "OTHER OFFENSE", "district": "012", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70600787640689, 41.882035342223396]}, "community_area": "27", "latitude": "41.882035342223396", "type": null, "description": "ANIMAL ABUSE/NEGLECT", "beat": "1222", "date": {"$date": 1370120700000}, "ward": "28", "_id": {"$oid": "51b5f11e3c002ed20d78cf87"}, "iucr": "501A", "longitude": "-87.70600787640689", "location_description": "SIDEWALK", "x_coordinate": "1155080", "updated_on": {"$date": 1370306580000}, "fbi_code": "26", "block": "0000X N KEDZIE AVE"}
+{
+    "y_coordinate": "1900228", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300480", 
+    "id": "9154901", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "012", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70600787640689, 
+            41.882035342223396
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.882035342223396", 
+    "type": null, 
+    "description": "ANIMAL ABUSE/NEGLECT", 
+    "beat": "1222", 
+    "date": {
+        "$date": 1370120700000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf87"
+    }, 
+    "iucr": "501A", 
+    "longitude": "-87.70600787640689", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1155080", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "26", 
+    "block": "0000X N KEDZIE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1853340", "year": "2013", "domestic": false, "case_number": "HW290032", "id": "9144805", "primary_type": "CRIMINAL DAMAGE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56883238953726, 41.75253080767838]}, "community_area": "43", "latitude": "41.75253080767838", "type": "quality", "description": "TO VEHICLE", "beat": "0414", "date": {"$date": 1369447800000}, "ward": "7", "_id": {"$oid": "51aa138a3c002ed20d78adb4"}, "iucr": "1320", "longitude": "-87.56883238953726", "location_description": "STREET", "x_coordinate": "1192855", "updated_on": {"$date": 1370479286000}, "fbi_code": "14", "block": "078XX S CRANDON AVE"}
+{
+    "y_coordinate": "1853340", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290032", 
+    "id": "9144805", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56883238953726, 
+            41.75253080767838
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.75253080767838", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0414", 
+    "date": {
+        "$date": 1369447800000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51aa138a3c002ed20d78adb4"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.56883238953726", 
+    "location_description": "STREET", 
+    "x_coordinate": "1192855", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "14", 
+    "block": "078XX S CRANDON AVE"
+}

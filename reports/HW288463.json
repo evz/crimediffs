@@ -1,1 +1,38 @@
-{"y_coordinate": "1891530", "year": "2013", "domestic": false, "case_number": "HW288463", "id": "9143387", "primary_type": "KIDNAPPING", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6546323451241, 41.85787372415074]}, "community_area": "31", "latitude": "41.85787372415074", "type": null, "description": "AGGRAVATED", "beat": "1235", "date": {"$date": 1369272600000}, "ward": "25", "_id": {"$oid": "51a770853c002ed20d78aa17"}, "iucr": "4220", "longitude": "-87.6546323451241", "location_description": "STREET", "x_coordinate": "1169140", "updated_on": {"$date": 1370824784000}, "fbi_code": "26", "block": "011XX W 18TH ST"}
+{
+    "y_coordinate": "1891530", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288463", 
+    "id": "9143387", 
+    "primary_type": "KIDNAPPING", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6546323451241, 
+            41.85787372415074
+        ]
+    }, 
+    "community_area": "31", 
+    "latitude": "41.85787372415074", 
+    "type": null, 
+    "description": "AGGRAVATED", 
+    "beat": "1235", 
+    "date": {
+        "$date": 1369272600000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51a770853c002ed20d78aa17"
+    }, 
+    "iucr": "4220", 
+    "longitude": "-87.6546323451241", 
+    "location_description": "STREET", 
+    "x_coordinate": "1169140", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "26", 
+    "block": "011XX W 18TH ST"
+}

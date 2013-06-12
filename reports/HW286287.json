@@ -1,1 +1,38 @@
-{"y_coordinate": "1859522", "year": "2013", "domestic": false, "case_number": "HW286287", "id": "9141344", "primary_type": "BATTERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62037330665112, 41.76982745039152]}, "community_area": "69", "latitude": "41.76982745039152", "type": "violent", "description": "AGGRAVATED:KNIFE/CUTTING INSTR", "beat": "0322", "date": {"$date": 1369152000000}, "ward": "20", "_id": {"$oid": "51a61f0c3c002ed20d78a842"}, "iucr": "420", "longitude": "-87.62037330665112", "location_description": "SIDEWALK", "x_coordinate": "1178739", "updated_on": {"$date": 1369442383000}, "fbi_code": "04B", "block": "068XX S INDIANA AVE"}
+{
+    "y_coordinate": "1859522", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286287", 
+    "id": "9141344", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62037330665112, 
+            41.76982745039152
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.76982745039152", 
+    "type": "violent", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
+    "beat": "0322", 
+    "date": {
+        "$date": 1369152000000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a61f0c3c002ed20d78a842"
+    }, 
+    "iucr": "420", 
+    "longitude": "-87.62037330665112", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1178739", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "04B", 
+    "block": "068XX S INDIANA AVE"
+}

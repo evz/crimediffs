@@ -1,1 +1,38 @@
-{"y_coordinate": "1910089", "year": "2013", "domestic": false, "case_number": "HW293853", "id": "9147937", "primary_type": "CRIMINAL DAMAGE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75770585704167, 41.90936709113065]}, "community_area": "25", "latitude": "41.90936709113065", "type": "quality", "description": "CRIMINAL DEFACEMENT", "beat": "2532", "date": {"$date": 1369508400000}, "ward": "37", "_id": {"$oid": "51b34a0f3c002ed20d78c963"}, "iucr": "1305", "longitude": "-87.75770585704167", "location_description": "RESIDENCE", "x_coordinate": "1140935", "updated_on": {"$date": 1369960832000}, "fbi_code": "14", "block": "052XX W NORTH AVE"}
+{
+    "y_coordinate": "1910089", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293853", 
+    "id": "9147937", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75770585704167, 
+            41.90936709113065
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.90936709113065", 
+    "type": "quality", 
+    "description": "CRIMINAL DEFACEMENT", 
+    "beat": "2532", 
+    "date": {
+        "$date": 1369508400000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c963"
+    }, 
+    "iucr": "1305", 
+    "longitude": "-87.75770585704167", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1140935", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "14", 
+    "block": "052XX W NORTH AVE"
+}

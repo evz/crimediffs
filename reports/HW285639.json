@@ -1,1 +1,38 @@
-{"y_coordinate": "1896177", "year": "2013", "domestic": false, "case_number": "HW285639", "id": "9140420", "primary_type": "MOTOR VEHICLE THEFT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62566673877929, 41.87045143029516]}, "community_area": "32", "latitude": "41.87045143029516", "type": "property", "description": "ATT: TRUCK, BUS, MOTOR HOME", "beat": "0123", "date": {"$date": 1369166400000}, "ward": "2", "_id": {"$oid": "51a61f0a3c002ed20d78a76f"}, "iucr": "925", "longitude": "-87.62566673877929", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1176993", "updated_on": {"$date": 1369356045000}, "fbi_code": "07", "block": "0000X E 9TH ST"}
+{
+    "y_coordinate": "1896177", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285639", 
+    "id": "9140420", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62566673877929, 
+            41.87045143029516
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.87045143029516", 
+    "type": "property", 
+    "description": "ATT: TRUCK, BUS, MOTOR HOME", 
+    "beat": "0123", 
+    "date": {
+        "$date": 1369166400000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a76f"
+    }, 
+    "iucr": "925", 
+    "longitude": "-87.62566673877929", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1176993", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "07", 
+    "block": "0000X E 9TH ST"
+}

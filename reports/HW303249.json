@@ -1,1 +1,38 @@
-{"y_coordinate": "1890874", "year": "2013", "domestic": false, "case_number": "HW303249", "id": "9157832", "primary_type": "OFFENSE INVOLVING CHILDREN", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69420475653489, 41.85630052547804]}, "community_area": "29", "latitude": "41.85630052547804", "type": "violent", "description": "SEX ASSLT OF CHILD BY FAM MBR", "beat": "1023", "date": {"$date": 1370292600000}, "ward": "28", "_id": {"$oid": "51b742983c002ed20d78d293"}, "iucr": "1753", "longitude": "-87.69420475653489", "location_description": "RESIDENCE", "x_coordinate": "1158364", "updated_on": {"$date": 1370479286000}, "fbi_code": "02", "block": "018XX S FAIRFIELD AVE"}
+{
+    "y_coordinate": "1890874", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303249", 
+    "id": "9157832", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69420475653489, 
+            41.85630052547804
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85630052547804", 
+    "type": "violent", 
+    "description": "SEX ASSLT OF CHILD BY FAM MBR", 
+    "beat": "1023", 
+    "date": {
+        "$date": 1370292600000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b742983c002ed20d78d293"
+    }, 
+    "iucr": "1753", 
+    "longitude": "-87.69420475653489", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1158364", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "02", 
+    "block": "018XX S FAIRFIELD AVE"
+}

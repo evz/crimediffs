@@ -1,1 +1,38 @@
-{"y_coordinate": "1896018", "year": "2013", "domestic": false, "case_number": "HW289141", "id": "9144235", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72793238414141, 41.87059971898467]}, "community_area": "26", "latitude": "41.87059971898467", "type": null, "description": "SIMPLE", "beat": "1132", "date": {"$date": 1369408560000}, "ward": "24", "_id": {"$oid": "51aa13903c002ed20d78afc1"}, "iucr": "460", "longitude": "-87.72793238414141", "location_description": "SIDEWALK", "x_coordinate": "1149139", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "008XX S KARLOV AVE"}
+{
+    "y_coordinate": "1896018", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289141", 
+    "id": "9144235", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72793238414141, 
+            41.87059971898467
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.87059971898467", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1132", 
+    "date": {
+        "$date": 1369408560000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78afc1"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.72793238414141", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1149139", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "008XX S KARLOV AVE"
+}

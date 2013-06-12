@@ -1,1 +1,38 @@
-{"y_coordinate": "1856924", "year": "2013", "domestic": false, "case_number": "HW290717", "id": "9145385", "primary_type": "CRIMINAL DAMAGE", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60808243689837, 41.76262083990998]}, "community_area": "69", "latitude": "41.76262083990998", "type": "quality", "description": "TO PROPERTY", "beat": "0323", "date": {"$date": 1369497600000}, "ward": "6", "_id": {"$oid": "51b34a103c002ed20d78c9f8"}, "iucr": "1310", "longitude": "-87.60808243689837", "location_description": "APARTMENT", "x_coordinate": "1182114", "updated_on": {"$date": 1370047283000}, "fbi_code": "14", "block": "072XX S LANGLEY AVE"}
+{
+    "y_coordinate": "1856924", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290717", 
+    "id": "9145385", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60808243689837, 
+            41.76262083990998
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.76262083990998", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0323", 
+    "date": {
+        "$date": 1369497600000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78c9f8"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.60808243689837", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1182114", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "14", 
+    "block": "072XX S LANGLEY AVE"
+}

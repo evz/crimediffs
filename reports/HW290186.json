@@ -1,1 +1,38 @@
-{"y_coordinate": "1872396", "year": "2013", "domestic": false, "case_number": "HW290186", "id": "9145063", "primary_type": "CRIM SEXUAL ASSAULT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67597107930209, 41.80548900484797]}, "community_area": "61", "latitude": "41.80548900484797", "type": "violent", "description": "ATTEMPT NON-AGGRAVATED", "beat": "0931", "date": {"$date": 1369467900000}, "ward": "12", "_id": {"$oid": "51b34a123c002ed20d78cb0f"}, "iucr": "291", "longitude": "-87.67597107930209", "location_description": "STREET", "x_coordinate": "1163473", "updated_on": {"$date": 1370047283000}, "fbi_code": "02", "block": "048XX S SEELEY AVE"}
+{
+    "y_coordinate": "1872396", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290186", 
+    "id": "9145063", 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67597107930209, 
+            41.80548900484797
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.80548900484797", 
+    "type": "violent", 
+    "description": "ATTEMPT NON-AGGRAVATED", 
+    "beat": "0931", 
+    "date": {
+        "$date": 1369467900000
+    }, 
+    "ward": "12", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cb0f"
+    }, 
+    "iucr": "291", 
+    "longitude": "-87.67597107930209", 
+    "location_description": "STREET", 
+    "x_coordinate": "1163473", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "02", 
+    "block": "048XX S SEELEY AVE"
+}

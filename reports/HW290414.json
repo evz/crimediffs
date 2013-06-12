@@ -1,1 +1,38 @@
-{"y_coordinate": "1901496", "year": "2013", "domestic": false, "case_number": "HW290414", "id": "9145216", "primary_type": "NARCOTICS", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.75385238794597, 41.885766437823406]}, "community_area": "25", "latitude": "41.885766437823406", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1532", "date": {"$date": 1369478100000}, "ward": "28", "_id": {"$oid": "51b34a113c002ed20d78cac5"}, "iucr": "1811", "longitude": "-87.75385238794597", "location_description": "APARTMENT", "x_coordinate": "1142042", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "051XX W FULTON ST"}
+{
+    "y_coordinate": "1901496", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290414", 
+    "id": "9145216", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75385238794597, 
+            41.885766437823406
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.885766437823406", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1532", 
+    "date": {
+        "$date": 1369478100000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78cac5"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.75385238794597", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1142042", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "051XX W FULTON ST"
+}

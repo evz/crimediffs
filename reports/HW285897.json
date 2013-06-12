@@ -1,1 +1,38 @@
-{"y_coordinate": "1899415", "year": "2013", "domestic": false, "case_number": "HW285897", "id": "9140797", "primary_type": "THEFT", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76610948973853, 41.88011684994615]}, "community_area": "25", "latitude": "41.88011684994615", "type": "property", "description": "FROM BUILDING", "beat": "1513", "date": {"$date": 1369062000000}, "ward": "29", "_id": {"$oid": "51a4cd913c002ed20d78a4d7"}, "iucr": "890", "longitude": "-87.76610948973853", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1138718", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "056XX W MADISON ST"}
+{
+    "y_coordinate": "1899415", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285897", 
+    "id": "9140797", 
+    "primary_type": "THEFT", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76610948973853, 
+            41.88011684994615
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.88011684994615", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1513", 
+    "date": {
+        "$date": 1369062000000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a4d7"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.76610948973853", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1138718", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "056XX W MADISON ST"
+}

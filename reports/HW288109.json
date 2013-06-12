@@ -1,1 +1,38 @@
-{"y_coordinate": "1915988", "year": "2013", "domestic": true, "case_number": "HW288109", "id": "9143221", "primary_type": "OTHER OFFENSE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71930862395216, 41.92535640667166]}, "community_area": "22", "latitude": "41.92535640667166", "type": null, "description": "TELEPHONE THREAT", "beat": "2524", "date": {"$date": 1369316400000}, "ward": "35", "_id": {"$oid": "51aa13973c002ed20d78b320"}, "iucr": "2820", "longitude": "-87.71930862395216", "location_description": "RESIDENCE", "x_coordinate": "1151345", "updated_on": {"$date": 1369528777000}, "fbi_code": "26", "block": "024XX N LAWNDALE AVE"}
+{
+    "y_coordinate": "1915988", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW288109", 
+    "id": "9143221", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71930862395216, 
+            41.92535640667166
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.92535640667166", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "2524", 
+    "date": {
+        "$date": 1369316400000
+    }, 
+    "ward": "35", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b320"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.71930862395216", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1151345", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "26", 
+    "block": "024XX N LAWNDALE AVE"
+}

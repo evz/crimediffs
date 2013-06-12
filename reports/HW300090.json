@@ -1,1 +1,38 @@
-{"y_coordinate": "1933034", "year": "2013", "domestic": true, "case_number": "HW300090", "id": "9154718", "primary_type": "OFFENSE INVOLVING CHILDREN", "district": "020", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6506962031427, 41.97174682941448]}, "community_area": "3", "latitude": "41.97174682941448", "type": null, "description": "ENDANGERING LIFE/HEALTH CHILD", "beat": "2024", "date": {"$date": 1370093400000}, "ward": "48", "_id": {"$oid": "51b5f1203c002ed20d78d0b9"}, "iucr": "1710", "longitude": "-87.6506962031427", "location_description": "STREET", "x_coordinate": "1169882", "updated_on": {"$date": 1370392932000}, "fbi_code": "26", "block": "008XX W AINSLIE ST"}
+{
+    "y_coordinate": "1933034", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300090", 
+    "id": "9154718", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "020", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6506962031427, 
+            41.97174682941448
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.97174682941448", 
+    "type": null, 
+    "description": "ENDANGERING LIFE/HEALTH CHILD", 
+    "beat": "2024", 
+    "date": {
+        "$date": 1370093400000
+    }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0b9"
+    }, 
+    "iucr": "1710", 
+    "longitude": "-87.6506962031427", 
+    "location_description": "STREET", 
+    "x_coordinate": "1169882", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "26", 
+    "block": "008XX W AINSLIE ST"
+}

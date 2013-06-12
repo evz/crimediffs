@@ -1,1 +1,38 @@
-{"y_coordinate": "1894234", "year": "2013", "domestic": false, "case_number": "HW286500", "id": "9141422", "primary_type": "THEFT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73019958105097, 41.8657158977139]}, "community_area": "29", "latitude": "41.8657158977139", "type": "property", "description": "OVER $500", "beat": "1011", "date": {"$date": 1369170000000}, "ward": "24", "_id": {"$oid": "51a61f093c002ed20d78a736"}, "iucr": "810", "longitude": "-87.73019958105097", "location_description": "APARTMENT", "x_coordinate": "1148534", "updated_on": {"$date": 1370176735000}, "fbi_code": "06", "block": "012XX S KEELER AVE"}
+{
+    "y_coordinate": "1894234", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286500", 
+    "id": "9141422", 
+    "primary_type": "THEFT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73019958105097, 
+            41.8657158977139
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.8657158977139", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1011", 
+    "date": {
+        "$date": 1369170000000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a61f093c002ed20d78a736"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.73019958105097", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1148534", 
+    "updated_on": {
+        "$date": 1370176735000
+    }, 
+    "fbi_code": "06", 
+    "block": "012XX S KEELER AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1828605", "year": "2013", "domestic": false, "case_number": "HW283677", "id": "9138245", "primary_type": "PUBLIC PEACE VIOLATION", "district": "005", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62547662739419, 41.685013028727916]}, "community_area": "53", "latitude": "41.685013028727916", "type": null, "description": "RECKLESS CONDUCT", "beat": "0522", "date": {"$date": 1369081140000}, "ward": "34", "_id": {"$oid": "51a4cd8e3c002ed20d78a3c8"}, "iucr": "470", "longitude": "-87.62547662739419", "location_description": "STREET", "x_coordinate": "1177601", "updated_on": {"$date": 1369269615000}, "fbi_code": "24", "block": "115XX S PERRY AVE"}
+{
+    "y_coordinate": "1828605", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283677", 
+    "id": "9138245", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "005", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62547662739419, 
+            41.685013028727916
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.685013028727916", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "0522", 
+    "date": {
+        "$date": 1369081140000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3c8"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.62547662739419", 
+    "location_description": "STREET", 
+    "x_coordinate": "1177601", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "24", 
+    "block": "115XX S PERRY AVE"
+}

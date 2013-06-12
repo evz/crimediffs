@@ -1,1 +1,38 @@
-{"y_coordinate": "1923522", "year": "2013", "domestic": false, "case_number": "HW289743", "id": "9144704", "primary_type": "BURGLARY", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65050424207114, 41.94564278989794]}, "community_area": "6", "latitude": "41.94564278989794", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1924", "date": {"$date": 1369387800000}, "ward": "44", "_id": {"$oid": "51aa13933c002ed20d78b0cb"}, "iucr": "610", "longitude": "-87.65050424207114", "location_description": "APARTMENT", "x_coordinate": "1170010", "updated_on": {"$date": 1370220023000}, "fbi_code": "05", "block": "035XX N RETA AVE"}
+{
+    "y_coordinate": "1923522", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289743", 
+    "id": "9144704", 
+    "primary_type": "BURGLARY", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65050424207114, 
+            41.94564278989794
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.94564278989794", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1924", 
+    "date": {
+        "$date": 1369387800000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b0cb"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.65050424207114", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1170010", 
+    "updated_on": {
+        "$date": 1370220023000
+    }, 
+    "fbi_code": "05", 
+    "block": "035XX N RETA AVE"
+}

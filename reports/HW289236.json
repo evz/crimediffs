@@ -1,1 +1,38 @@
-{"y_coordinate": "1909448", "year": "2013", "domestic": false, "case_number": "HW289236", "id": "9144176", "primary_type": "BATTERY", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71593205704781, 41.90739102963434]}, "community_area": "23", "latitude": "41.90739102963434", "type": null, "description": "SIMPLE", "beat": "1422", "date": {"$date": 1369408500000}, "ward": "26", "_id": {"$oid": "51aa13903c002ed20d78afc5"}, "iucr": "460", "longitude": "-87.71593205704781", "location_description": "OTHER", "x_coordinate": "1152311", "updated_on": {"$date": 1370824784000}, "fbi_code": "08B", "block": "035XX W BEACH AVE"}
+{
+    "y_coordinate": "1909448", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289236", 
+    "id": "9144176", 
+    "primary_type": "BATTERY", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71593205704781, 
+            41.90739102963434
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.90739102963434", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1422", 
+    "date": {
+        "$date": 1369408500000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78afc5"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.71593205704781", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1152311", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "08B", 
+    "block": "035XX W BEACH AVE"
+}

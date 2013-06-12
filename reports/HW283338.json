@@ -1,1 +1,38 @@
-{"y_coordinate": "1865250", "year": "2013", "domestic": false, "case_number": "HW283338", "id": "9137933", "primary_type": "CRIMINAL DAMAGE", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7047005476774, 41.786039139359175]}, "community_area": "66", "latitude": "41.786039139359175", "type": "quality", "description": "TO VEHICLE", "beat": "0822", "date": {"$date": 1369072500000}, "ward": "16", "_id": {"$oid": "51a4cd8f3c002ed20d78a45b"}, "iucr": "1320", "longitude": "-87.7047005476774", "location_description": "STREET", "x_coordinate": "1155692", "updated_on": {"$date": 1369269615000}, "fbi_code": "14", "block": "059XX S SAWYER AVE"}
+{
+    "y_coordinate": "1865250", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283338", 
+    "id": "9137933", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7047005476774, 
+            41.786039139359175
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.786039139359175", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0822", 
+    "date": {
+        "$date": 1369072500000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a45b"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.7047005476774", 
+    "location_description": "STREET", 
+    "x_coordinate": "1155692", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "14", 
+    "block": "059XX S SAWYER AVE"
+}

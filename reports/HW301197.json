@@ -1,1 +1,38 @@
-{"y_coordinate": "1920469", "year": "2013", "domestic": false, "case_number": "HW301197", "id": "9155681", "primary_type": "BURGLARY", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7138065083654, 41.93762371806963]}, "community_area": "21", "latitude": "41.93762371806963", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1412", "date": {"$date": 1370176860000}, "ward": "35", "_id": {"$oid": "51b5f11b3c002ed20d78cdbb"}, "iucr": "610", "longitude": "-87.7138065083654", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1152810", "updated_on": {"$date": 1370565766000}, "fbi_code": "05", "block": "031XX N BERNARD ST"}
+{
+    "y_coordinate": "1920469", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301197", 
+    "id": "9155681", 
+    "primary_type": "BURGLARY", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7138065083654, 
+            41.93762371806963
+        ]
+    }, 
+    "community_area": "21", 
+    "latitude": "41.93762371806963", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1412", 
+    "date": {
+        "$date": 1370176860000
+    }, 
+    "ward": "35", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cdbb"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.7138065083654", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1152810", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "05", 
+    "block": "031XX N BERNARD ST"
+}

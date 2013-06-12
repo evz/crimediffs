@@ -1,1 +1,38 @@
-{"y_coordinate": "1827861", "year": "2013", "domestic": false, "case_number": "HW306258", "id": "9161163", "primary_type": "MOTOR VEHICLE THEFT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66138414711061, 41.683186796224916]}, "community_area": "53", "latitude": "41.683186796224916", "type": "property", "description": "AUTOMOBILE", "beat": "0524", "date": {"$date": 1370182500000}, "ward": "34", "_id": {"$oid": "51b5f11a3c002ed20d78cd72"}, "iucr": "910", "longitude": "-87.66138414711061", "location_description": "STREET", "x_coordinate": "1167798", "updated_on": {"$date": 1370738354000}, "fbi_code": "07", "block": "115XX S ASHLAND AVE"}
+{
+    "y_coordinate": "1827861", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW306258", 
+    "id": "9161163", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66138414711061, 
+            41.683186796224916
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.683186796224916", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0524", 
+    "date": {
+        "$date": 1370182500000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd72"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.66138414711061", 
+    "location_description": "STREET", 
+    "x_coordinate": "1167798", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "07", 
+    "block": "115XX S ASHLAND AVE"
+}

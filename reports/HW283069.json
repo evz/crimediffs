@@ -1,1 +1,38 @@
-{"y_coordinate": "1938474", "year": "2013", "domestic": true, "case_number": "HW283069", "id": "9137872", "primary_type": "BURGLARY", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65826050565965, 41.98671999557696]}, "community_area": "77", "latitude": "41.98671999557696", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "2022", "date": {"$date": 1369053000000}, "ward": "48", "_id": {"$oid": "51a4cd913c002ed20d78a53e"}, "iucr": "620", "longitude": "-87.65826050565965", "location_description": "RESIDENCE", "x_coordinate": "1167782", "updated_on": {"$date": 1369528777000}, "fbi_code": "05", "block": "057XX N WINTHROP AVE"}
+{
+    "y_coordinate": "1938474", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283069", 
+    "id": "9137872", 
+    "primary_type": "BURGLARY", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65826050565965, 
+            41.98671999557696
+        ]
+    }, 
+    "community_area": "77", 
+    "latitude": "41.98671999557696", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "2022", 
+    "date": {
+        "$date": 1369053000000
+    }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a53e"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.65826050565965", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1167782", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "05", 
+    "block": "057XX N WINTHROP AVE"
+}

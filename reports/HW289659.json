@@ -1,1 +1,38 @@
-{"y_coordinate": "1909899", "year": "2013", "domestic": false, "case_number": "HW289659", "id": "9144504", "primary_type": "CRIMINAL DAMAGE", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6831449684242, 41.90844771185074]}, "community_area": "24", "latitude": "41.90844771185074", "type": "quality", "description": "TO VEHICLE", "beat": "1424", "date": {"$date": 1369350000000}, "ward": "1", "_id": {"$oid": "51aa13943c002ed20d78b19d"}, "iucr": "1320", "longitude": "-87.6831449684242", "location_description": "STREET", "x_coordinate": "1161233", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "022XX W LE MOYNE ST"}
+{
+    "y_coordinate": "1909899", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289659", 
+    "id": "9144504", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6831449684242, 
+            41.90844771185074
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.90844771185074", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1424", 
+    "date": {
+        "$date": 1369350000000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b19d"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.6831449684242", 
+    "location_description": "STREET", 
+    "x_coordinate": "1161233", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "022XX W LE MOYNE ST"
+}

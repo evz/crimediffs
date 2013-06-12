@@ -1,1 +1,38 @@
-{"y_coordinate": "1858550", "year": "2013", "domestic": false, "case_number": "HW286947", "id": "9141839", "primary_type": "NARCOTICS", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62348909616871, 41.76717928898671]}, "community_area": "69", "latitude": "41.76717928898671", "type": "quality", "description": "POSS: CANNABIS MORE THAN 30GMS", "beat": "0322", "date": {"$date": 1369264620000}, "ward": "6", "_id": {"$oid": "51a770873c002ed20d78aa65"}, "iucr": "1812", "longitude": "-87.62348909616871", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1177897", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "070XX S WABASH AVE"}
+{
+    "y_coordinate": "1858550", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286947", 
+    "id": "9141839", 
+    "primary_type": "NARCOTICS", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62348909616871, 
+            41.76717928898671
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.76717928898671", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS MORE THAN 30GMS", 
+    "beat": "0322", 
+    "date": {
+        "$date": 1369264620000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a770873c002ed20d78aa65"
+    }, 
+    "iucr": "1812", 
+    "longitude": "-87.62348909616871", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1177897", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "070XX S WABASH AVE"
+}

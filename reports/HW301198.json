@@ -1,1 +1,38 @@
-{"y_coordinate": "1863058", "year": "2013", "domestic": false, "case_number": "HW301198", "id": "9155490", "primary_type": "CRIMINAL TRESPASS", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66437653607414, 41.779795922046205]}, "community_area": "67", "latitude": "41.779795922046205", "type": null, "description": "TO LAND", "beat": "0714", "date": {"$date": 1370180700000}, "ward": "16", "_id": {"$oid": "51b5f11a3c002ed20d78cd90"}, "iucr": "1330", "longitude": "-87.66437653607414", "location_description": "RESTAURANT", "x_coordinate": "1166707", "updated_on": {"$date": 1370392932000}, "fbi_code": "26", "block": "062XX S ASHLAND AVE"}
+{
+    "y_coordinate": "1863058", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301198", 
+    "id": "9155490", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66437653607414, 
+            41.779795922046205
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.779795922046205", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "0714", 
+    "date": {
+        "$date": 1370180700000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd90"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.66437653607414", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1166707", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "26", 
+    "block": "062XX S ASHLAND AVE"
+}

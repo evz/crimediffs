@@ -1,1 +1,38 @@
-{"y_coordinate": "1861847", "year": "2013", "domestic": false, "case_number": "HW288746", "id": "9144021", "primary_type": "CRIMINAL DAMAGE", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68860642928904, 41.776611114295825]}, "community_area": "66", "latitude": "41.776611114295825", "type": "quality", "description": "TO PROPERTY", "beat": "0825", "date": {"$date": 1369231200000}, "ward": "15", "_id": {"$oid": "51a7708b3c002ed20d78ac21"}, "iucr": "1310", "longitude": "-87.68860642928904", "location_description": "SIDEWALK", "x_coordinate": "1160107", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "064XX S ROCKWELL ST"}
+{
+    "y_coordinate": "1861847", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288746", 
+    "id": "9144021", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68860642928904, 
+            41.776611114295825
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.776611114295825", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0825", 
+    "date": {
+        "$date": 1369231200000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac21"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.68860642928904", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1160107", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "064XX S ROCKWELL ST"
+}

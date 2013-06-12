@@ -1,1 +1,38 @@
-{"y_coordinate": "1898748", "year": "2013", "domestic": false, "case_number": "HW289502", "id": "9144387", "primary_type": "NARCOTICS", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.76238407906145, 41.87826797349272]}, "community_area": "25", "latitude": "41.87826797349272", "type": "quality", "description": "MANU/DELIVER: HEROIN (WHITE)", "beat": "1522", "date": {"$date": 1369422000000}, "ward": "29", "_id": {"$oid": "51aa138e3c002ed20d78af08"}, "iucr": "2014", "longitude": "-87.76238407906145", "location_description": "ALLEY", "x_coordinate": "1139737", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "055XX W ADAMS ST"}
+{
+    "y_coordinate": "1898748", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289502", 
+    "id": "9144387", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76238407906145, 
+            41.87826797349272
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.87826797349272", 
+    "type": "quality", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)", 
+    "beat": "1522", 
+    "date": {
+        "$date": 1369422000000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51aa138e3c002ed20d78af08"
+    }, 
+    "iucr": "2014", 
+    "longitude": "-87.76238407906145", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1139737", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "055XX W ADAMS ST"
+}

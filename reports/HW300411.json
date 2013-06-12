@@ -1,1 +1,38 @@
-{"y_coordinate": "1925984", "year": "2013", "domestic": false, "case_number": "HW300411", "id": "9154859", "primary_type": "BATTERY", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76931976209318, 41.953044208572244]}, "community_area": "15", "latitude": "41.953044208572244", "type": null, "description": "SIMPLE", "beat": "1633", "date": {"$date": 1370115600000}, "ward": "38", "_id": {"$oid": "51b5f11f3c002ed20d78cfc3"}, "iucr": "460", "longitude": "-87.76931976209318", "location_description": "BAR OR TAVERN", "x_coordinate": "1137669", "updated_on": {"$date": 1370306580000}, "fbi_code": "08B", "block": "056XX W IRVING PARK RD"}
+{
+    "y_coordinate": "1925984", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300411", 
+    "id": "9154859", 
+    "primary_type": "BATTERY", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76931976209318, 
+            41.953044208572244
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.953044208572244", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1633", 
+    "date": {
+        "$date": 1370115600000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cfc3"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.76931976209318", 
+    "location_description": "BAR OR TAVERN", 
+    "x_coordinate": "1137669", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08B", 
+    "block": "056XX W IRVING PARK RD"
+}

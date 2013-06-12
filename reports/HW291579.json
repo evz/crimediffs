@@ -1,1 +1,33 @@
-{"community_area": "12", "_id": {"$oid": "51b34a0d3c002ed20d78c873"}, "primary_type": "OTHER OFFENSE", "beat": "1621", "year": "2013", "domestic": false, "iucr": "2826", "arrest": false, "location_description": "RESIDENCE", "location": {"type": "Point", "coordinates": [-87.74939559241429, 41.996786021709966]}, "case_number": "HW291579", "date": {"$date": 1369530000000}, "updated_on": {"$date": 1370047283000}, "ward": "39", "fbi_code": "26", "type": null, "id": "9148540", "block": "063XX N LA CROSSE AVE", "description": "HARASSMENT BY ELECTRONIC MEANS"}
+{
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c873"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "year": "2013", 
+    "beat": "1621", 
+    "case_number": "HW291579", 
+    "domestic": false, 
+    "iucr": "2826", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74939559241429, 
+            41.996786021709966
+        ]
+    }, 
+    "community_area": "12", 
+    "date": {
+        "$date": 1369530000000
+    }, 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "ward": "39", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9148540", 
+    "block": "063XX N LA CROSSE AVE", 
+    "description": "HARASSMENT BY ELECTRONIC MEANS"
+}

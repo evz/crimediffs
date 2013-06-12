@@ -1,1 +1,38 @@
-{"y_coordinate": "1920522", "year": "2013", "domestic": true, "case_number": "HW283501", "id": "9138068", "primary_type": "BATTERY", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69603550804514, 41.93767189776891]}, "community_area": "21", "latitude": "41.93767189776891", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1411", "date": {"$date": 1369075800000}, "ward": "1", "_id": {"$oid": "51a4cd8f3c002ed20d78a424"}, "iucr": "486", "longitude": "-87.69603550804514", "location_description": "APARTMENT", "x_coordinate": "1157645", "updated_on": {"$date": 1369528777000}, "fbi_code": "08B", "block": "031XX N ELSTON AVE"}
+{
+    "y_coordinate": "1920522", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283501", 
+    "id": "9138068", 
+    "primary_type": "BATTERY", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69603550804514, 
+            41.93767189776891
+        ]
+    }, 
+    "community_area": "21", 
+    "latitude": "41.93767189776891", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1411", 
+    "date": {
+        "$date": 1369075800000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a424"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.69603550804514", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1157645", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "08B", 
+    "block": "031XX N ELSTON AVE"
+}

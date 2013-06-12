@@ -1,1 +1,38 @@
-{"y_coordinate": "1847881", "year": "2013", "domestic": false, "case_number": "HW286929", "id": "9141685", "primary_type": "THEFT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62563246660869, 41.73791354453694]}, "community_area": "44", "latitude": "41.73791354453694", "type": "property", "description": "$500 AND UNDER", "beat": "0622", "date": {"$date": 1369228800000}, "ward": "21", "_id": {"$oid": "51a7708b3c002ed20d78ac4d"}, "iucr": "820", "longitude": "-87.62563246660869", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1177400", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "086XX S LAFAYETTE AVE"}
+{
+    "y_coordinate": "1847881", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286929", 
+    "id": "9141685", 
+    "primary_type": "THEFT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62563246660869, 
+            41.73791354453694
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.73791354453694", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0622", 
+    "date": {
+        "$date": 1369228800000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac4d"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.62563246660869", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1177400", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "086XX S LAFAYETTE AVE"
+}

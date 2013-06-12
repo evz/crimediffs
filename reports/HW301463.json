@@ -1,1 +1,38 @@
-{"y_coordinate": "1861807", "year": "2013", "domestic": false, "case_number": "HW301463", "id": "9155687", "primary_type": "OTHER OFFENSE", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61566651073184, 41.77606885335056]}, "community_area": "69", "latitude": "41.77606885335056", "type": null, "description": "TELEPHONE THREAT", "beat": "0312", "date": {"$date": 1370190600000}, "ward": "20", "_id": {"$oid": "51b5f1193c002ed20d78cd24"}, "iucr": "2820", "longitude": "-87.61566651073184", "location_description": "RESIDENCE", "x_coordinate": "1180004", "updated_on": {"$date": 1370479286000}, "fbi_code": "26", "block": "065XX S DR MARTIN LUTHER KING JR DR"}
+{
+    "y_coordinate": "1861807", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301463", 
+    "id": "9155687", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61566651073184, 
+            41.77606885335056
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.77606885335056", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "0312", 
+    "date": {
+        "$date": 1370190600000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78cd24"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.61566651073184", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1180004", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "26", 
+    "block": "065XX S DR MARTIN LUTHER KING JR DR"
+}

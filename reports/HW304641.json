@@ -1,1 +1,38 @@
-{"y_coordinate": "1849479", "year": "2013", "domestic": false, "case_number": "HW304641", "id": "9159376", "primary_type": "THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.57838166765399, 41.74199820130121]}, "community_area": "45", "latitude": "41.74199820130121", "type": "property", "description": "FROM BUILDING", "beat": "0412", "date": {"$date": 1370080800000}, "ward": "8", "_id": {"$oid": "51b5f1213c002ed20d78d143"}, "iucr": "890", "longitude": "-87.57838166765399", "location_description": "RESIDENCE", "x_coordinate": "1190283", "updated_on": {"$date": 1370565766000}, "fbi_code": "06", "block": "084XX S BENNETT AVE"}
+{
+    "y_coordinate": "1849479", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW304641", 
+    "id": "9159376", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57838166765399, 
+            41.74199820130121
+        ]
+    }, 
+    "community_area": "45", 
+    "latitude": "41.74199820130121", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0412", 
+    "date": {
+        "$date": 1370080800000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d143"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.57838166765399", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1190283", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "06", 
+    "block": "084XX S BENNETT AVE"
+}

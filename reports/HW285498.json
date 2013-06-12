@@ -1,1 +1,38 @@
-{"y_coordinate": "1923990", "year": "2013", "domestic": false, "case_number": "HW285498", "id": "9141740", "primary_type": "DECEPTIVE PRACTICE", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72902987472861, 41.947367247106015]}, "community_area": "16", "latitude": "41.947367247106015", "type": null, "description": "THEFT OF LABOR/SERVICES", "beat": "1732", "date": {"$date": 1369189200000}, "ward": "30", "_id": {"$oid": "51a61f053c002ed20d78a685"}, "iucr": "1210", "longitude": "-87.72902987472861", "location_description": "STREET", "x_coordinate": "1148643", "updated_on": {"$date": 1369442383000}, "fbi_code": "11", "block": "040XX W PATTERSON AVE"}
+{
+    "y_coordinate": "1923990", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285498", 
+    "id": "9141740", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72902987472861, 
+            41.947367247106015
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.947367247106015", 
+    "type": null, 
+    "description": "THEFT OF LABOR/SERVICES", 
+    "beat": "1732", 
+    "date": {
+        "$date": 1369189200000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51a61f053c002ed20d78a685"
+    }, 
+    "iucr": "1210", 
+    "longitude": "-87.72902987472861", 
+    "location_description": "STREET", 
+    "x_coordinate": "1148643", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "11", 
+    "block": "040XX W PATTERSON AVE"
+}

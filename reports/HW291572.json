@@ -1,1 +1,38 @@
-{"y_coordinate": "1846074", "year": "2013", "domestic": false, "case_number": "HW291572", "id": "9146044", "primary_type": "THEFT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61782515699315, 41.73290622351072]}, "community_area": "44", "latitude": "41.73290622351072", "type": "property", "description": "OVER $500", "beat": "0632", "date": {"$date": 1369389600000}, "ward": "6", "_id": {"$oid": "51aa13923c002ed20d78b0ba"}, "iucr": "810", "longitude": "-87.61782515699315", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1179546", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "002XX E 89TH ST"}
+{
+    "y_coordinate": "1846074", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291572", 
+    "id": "9146044", 
+    "primary_type": "THEFT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61782515699315, 
+            41.73290622351072
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.73290622351072", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0632", 
+    "date": {
+        "$date": 1369389600000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b0ba"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.61782515699315", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1179546", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "002XX E 89TH ST"
+}

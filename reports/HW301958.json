@@ -1,1 +1,38 @@
-{"y_coordinate": "1919081", "year": "2013", "domestic": false, "case_number": "HW301958", "id": "9156298", "primary_type": "CRIMINAL DAMAGE", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70781640370367, 41.933782261174635]}, "community_area": "21", "latitude": "41.933782261174635", "type": "quality", "description": "TO VEHICLE", "beat": "1412", "date": {"$date": 1370219400000}, "ward": "35", "_id": {"$oid": "51b5f1153c002ed20d78cbd2"}, "iucr": "1320", "longitude": "-87.70781640370367", "location_description": "STREET", "x_coordinate": "1154450", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "032XX W GEORGE ST"}
+{
+    "y_coordinate": "1919081", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301958", 
+    "id": "9156298", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70781640370367, 
+            41.933782261174635
+        ]
+    }, 
+    "community_area": "21", 
+    "latitude": "41.933782261174635", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1412", 
+    "date": {
+        "$date": 1370219400000
+    }, 
+    "ward": "35", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbd2"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.70781640370367", 
+    "location_description": "STREET", 
+    "x_coordinate": "1154450", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "032XX W GEORGE ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1863657", "year": "2013", "domestic": false, "case_number": "HW283439", "id": "9138010", "primary_type": "KIDNAPPING", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71073027960281, 41.78170031638229]}, "community_area": "66", "latitude": "41.78170031638229", "type": null, "description": "CHILD ABDUCTION/STRANGER", "beat": "0823", "date": {"$date": 1369072200000}, "ward": "15", "_id": {"$oid": "51a4cd8f3c002ed20d78a45c"}, "iucr": "1792", "longitude": "-87.71073027960281", "location_description": "SIDEWALK", "x_coordinate": "1154059", "updated_on": {"$date": 1369269615000}, "fbi_code": "20", "block": "035XX W 61ST PL"}
+{
+    "y_coordinate": "1863657", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283439", 
+    "id": "9138010", 
+    "primary_type": "KIDNAPPING", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71073027960281, 
+            41.78170031638229
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.78170031638229", 
+    "type": null, 
+    "description": "CHILD ABDUCTION/STRANGER", 
+    "beat": "0823", 
+    "date": {
+        "$date": 1369072200000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a45c"
+    }, 
+    "iucr": "1792", 
+    "longitude": "-87.71073027960281", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1154059", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "20", 
+    "block": "035XX W 61ST PL"
+}

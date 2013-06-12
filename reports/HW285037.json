@@ -1,1 +1,38 @@
-{"y_coordinate": "1941627", "year": "2013", "domestic": false, "case_number": "HW285037", "id": "9139624", "primary_type": "OFFENSE INVOLVING CHILDREN", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72657846110386, 41.99575386929167]}, "community_area": "13", "latitude": "41.99575386929167", "type": null, "description": "CHILD ABUSE", "beat": "1711", "date": {"$date": 1369080000000}, "ward": "39", "_id": {"$oid": "51a4cd8e3c002ed20d78a3e1"}, "iucr": "1750", "longitude": "-87.72657846110386", "location_description": "RESIDENCE", "x_coordinate": "1149185", "updated_on": {"$date": 1370220023000}, "fbi_code": "20", "block": "063XX N SPRINGFIELD AVE"}
+{
+    "y_coordinate": "1941627", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285037", 
+    "id": "9139624", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72657846110386, 
+            41.99575386929167
+        ]
+    }, 
+    "community_area": "13", 
+    "latitude": "41.99575386929167", 
+    "type": null, 
+    "description": "CHILD ABUSE", 
+    "beat": "1711", 
+    "date": {
+        "$date": 1369080000000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3e1"
+    }, 
+    "iucr": "1750", 
+    "longitude": "-87.72657846110386", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1149185", 
+    "updated_on": {
+        "$date": 1370220023000
+    }, 
+    "fbi_code": "20", 
+    "block": "063XX N SPRINGFIELD AVE"
+}

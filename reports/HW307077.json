@@ -1,1 +1,38 @@
-{"y_coordinate": "1885702", "year": "2013", "domestic": false, "case_number": "HW307077", "id": "9162425", "primary_type": "LIQUOR LAW VIOLATION", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.63191736757038, 41.841743711756976]}, "community_area": "34", "latitude": "41.841743711756976", "type": null, "description": "LIQUOR LICENSE VIOLATION", "beat": "0914", "date": {"$date": 1369540680000}, "ward": "11", "_id": {"$oid": "51b34a0c3c002ed20d78c829"}, "iucr": "2250", "longitude": "-87.63191736757038", "location_description": "RESTAURANT", "x_coordinate": "1175376", "updated_on": {"$date": 1370738354000}, "fbi_code": "22", "block": "028XX S WENTWORTH AVE"}
+{
+    "y_coordinate": "1885702", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW307077", 
+    "id": "9162425", 
+    "primary_type": "LIQUOR LAW VIOLATION", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63191736757038, 
+            41.841743711756976
+        ]
+    }, 
+    "community_area": "34", 
+    "latitude": "41.841743711756976", 
+    "type": null, 
+    "description": "LIQUOR LICENSE VIOLATION", 
+    "beat": "0914", 
+    "date": {
+        "$date": 1369540680000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51b34a0c3c002ed20d78c829"
+    }, 
+    "iucr": "2250", 
+    "longitude": "-87.63191736757038", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1175376", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "22", 
+    "block": "028XX S WENTWORTH AVE"
+}

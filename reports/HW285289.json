@@ -1,1 +1,38 @@
-{"y_coordinate": "1844118", "year": "2013", "domestic": true, "case_number": "HW285289", "id": "9141621", "primary_type": "BATTERY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58806697206913, 41.72734919240351]}, "community_area": "48", "latitude": "41.72734919240351", "type": "violent", "description": "AGGRAVATED DOMESTIC BATTERY: OTHER DANG WEAPON", "beat": "0413", "date": {"$date": 1369173600000}, "ward": "8", "_id": {"$oid": "51a61f083c002ed20d78a710"}, "iucr": "497", "longitude": "-87.58806697206913", "location_description": "ALLEY", "x_coordinate": "1187686", "updated_on": {"$date": 1370392932000}, "fbi_code": "04B", "block": "092XX S BLACKSTONE AVE"}
+{
+    "y_coordinate": "1844118", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285289", 
+    "id": "9141621", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58806697206913, 
+            41.72734919240351
+        ]
+    }, 
+    "community_area": "48", 
+    "latitude": "41.72734919240351", 
+    "type": "violent", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: OTHER DANG WEAPON", 
+    "beat": "0413", 
+    "date": {
+        "$date": 1369173600000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51a61f083c002ed20d78a710"
+    }, 
+    "iucr": "497", 
+    "longitude": "-87.58806697206913", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1187686", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "04B", 
+    "block": "092XX S BLACKSTONE AVE"
+}

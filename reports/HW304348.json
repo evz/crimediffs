@@ -1,1 +1,38 @@
-{"y_coordinate": "1831129", "year": "2013", "domestic": false, "case_number": "HW304348", "id": "9159132", "primary_type": "THEFT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6546824399864, 41.692115905861606]}, "community_area": "75", "latitude": "41.692115905861606", "type": "property", "description": "$500 AND UNDER", "beat": "2234", "date": {"$date": 1370293200000}, "ward": "34", "_id": {"$oid": "51b742983c002ed20d78d289"}, "iucr": "820", "longitude": "-87.6546824399864", "location_description": "SIDEWALK", "x_coordinate": "1169603", "updated_on": {"$date": 1370565766000}, "fbi_code": "06", "block": "111XX S THROOP ST"}
+{
+    "y_coordinate": "1831129", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW304348", 
+    "id": "9159132", 
+    "primary_type": "THEFT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6546824399864, 
+            41.692115905861606
+        ]
+    }, 
+    "community_area": "75", 
+    "latitude": "41.692115905861606", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2234", 
+    "date": {
+        "$date": 1370293200000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b742983c002ed20d78d289"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.6546824399864", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1169603", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "06", 
+    "block": "111XX S THROOP ST"
+}

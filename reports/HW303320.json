@@ -1,1 +1,38 @@
-{"y_coordinate": "1896611", "year": "2013", "domestic": false, "case_number": "HW303320", "id": "9157805", "primary_type": "MOTOR VEHICLE THEFT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63341485276891, 41.87168991616464]}, "community_area": "32", "latitude": "41.87168991616464", "type": "property", "description": "AUTOMOBILE", "beat": "0123", "date": {"$date": 1370285100000}, "ward": "2", "_id": {"$oid": "51b7429a3c002ed20d78d300"}, "iucr": "910", "longitude": "-87.63341485276891", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1174879", "updated_on": {"$date": 1370479286000}, "fbi_code": "07", "block": "008XX S WELLS ST"}
+{
+    "y_coordinate": "1896611", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303320", 
+    "id": "9157805", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63341485276891, 
+            41.87168991616464
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.87168991616464", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0123", 
+    "date": {
+        "$date": 1370285100000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b7429a3c002ed20d78d300"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.63341485276891", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1174879", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "07", 
+    "block": "008XX S WELLS ST"
+}

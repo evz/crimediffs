@@ -1,1 +1,38 @@
-{"y_coordinate": "1862627", "year": "2013", "domestic": false, "case_number": "HW284116", "id": "9138748", "primary_type": "CRIMINAL TRESPASS", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6555426070658, 41.77856135318814]}, "community_area": "67", "latitude": "41.77856135318814", "type": null, "description": "TO LAND", "beat": "0724", "date": {"$date": 1369128600000}, "ward": "16", "_id": {"$oid": "51a61f0f3c002ed20d78a95f"}, "iucr": "1330", "longitude": "-87.6555426070658", "location_description": "VACANT LOT/LAND", "x_coordinate": "1169120", "updated_on": {"$date": 1369356045000}, "fbi_code": "26", "block": "063XX S ELIZABETH ST"}
+{
+    "y_coordinate": "1862627", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284116", 
+    "id": "9138748", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6555426070658, 
+            41.77856135318814
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.77856135318814", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "0724", 
+    "date": {
+        "$date": 1369128600000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a95f"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.6555426070658", 
+    "location_description": "VACANT LOT/LAND", 
+    "x_coordinate": "1169120", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "26", 
+    "block": "063XX S ELIZABETH ST"
+}

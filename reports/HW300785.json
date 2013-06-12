@@ -1,1 +1,38 @@
-{"y_coordinate": "1915554", "year": "2013", "domestic": false, "case_number": "HW300785", "id": "9155176", "primary_type": "CRIMINAL DAMAGE", "district": "025", "arrest": true, "location": {"type": "Point", "coordinates": [-87.7609332167584, 41.92438045869896]}, "community_area": "19", "latitude": "41.92438045869896", "type": "quality", "description": "TO PROPERTY", "beat": "2515", "date": {"$date": 1370143800000}, "ward": "31", "_id": {"$oid": "51b5f11d3c002ed20d78ce95"}, "iucr": "1310", "longitude": "-87.7609332167584", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1140020", "updated_on": {"$date": 1370306580000}, "fbi_code": "14", "block": "024XX N LONG AVE"}
+{
+    "y_coordinate": "1915554", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300785", 
+    "id": "9155176", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "025", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7609332167584, 
+            41.92438045869896
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.92438045869896", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "2515", 
+    "date": {
+        "$date": 1370143800000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78ce95"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.7609332167584", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1140020", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "14", 
+    "block": "024XX N LONG AVE"
+}

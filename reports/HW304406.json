@@ -1,1 +1,38 @@
-{"y_coordinate": "1852442", "year": "2013", "domestic": false, "case_number": "HW304406", "id": "9159298", "primary_type": "CRIMINAL DAMAGE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.54816166921518, 41.74992702608002]}, "community_area": "46", "latitude": "41.74992702608002", "type": "quality", "description": "TO PROPERTY", "beat": "0422", "date": {"$date": 1370320200000}, "ward": "7", "_id": {"$oid": "51b742943c002ed20d78d1cf"}, "iucr": "1310", "longitude": "-87.54816166921518", "location_description": "RESIDENCE", "x_coordinate": "1198504", "updated_on": {"$date": 1370565766000}, "fbi_code": "14", "block": "080XX S SOUTH SHORE DR"}
+{
+    "y_coordinate": "1852442", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW304406", 
+    "id": "9159298", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.54816166921518, 
+            41.74992702608002
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.74992702608002", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0422", 
+    "date": {
+        "$date": 1370320200000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51b742943c002ed20d78d1cf"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.54816166921518", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1198504", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "14", 
+    "block": "080XX S SOUTH SHORE DR"
+}

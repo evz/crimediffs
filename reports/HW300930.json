@@ -1,1 +1,38 @@
-{"y_coordinate": "1907805", "year": "2013", "domestic": false, "case_number": "HW300930", "id": "9155480", "primary_type": "BURGLARY", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67007169006715, 41.90262651846321]}, "community_area": "24", "latitude": "41.90262651846321", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1213", "date": {"$date": 1369299600000}, "ward": "1", "_id": {"$oid": "51b34a1a3c002ed20d78cb5f"}, "iucr": "610", "longitude": "-87.67007169006715", "location_description": "APARTMENT", "x_coordinate": "1164808", "updated_on": {"$date": 1370392932000}, "fbi_code": "05", "block": "011XX N PAULINA ST"}
+{
+    "y_coordinate": "1907805", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300930", 
+    "id": "9155480", 
+    "primary_type": "BURGLARY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67007169006715, 
+            41.90262651846321
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.90262651846321", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1213", 
+    "date": {
+        "$date": 1369299600000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51b34a1a3c002ed20d78cb5f"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.67007169006715", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1164808", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "05", 
+    "block": "011XX N PAULINA ST"
+}

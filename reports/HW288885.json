@@ -1,1 +1,38 @@
-{"y_coordinate": "1887783", "year": "2013", "domestic": false, "case_number": "HW288885", "id": "9144816", "primary_type": "ROBBERY", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64554035787539, 41.84753690469018]}, "community_area": "60", "latitude": "41.84753690469018", "type": "violent", "description": "ARMED: OTHER DANGEROUS WEAPON", "beat": "0914", "date": {"$date": 1369398900000}, "ward": "11", "_id": {"$oid": "51aa13913c002ed20d78b042"}, "iucr": "313", "longitude": "-87.64554035787539", "location_description": "STREET", "x_coordinate": "1171647", "updated_on": {"$date": 1369701613000}, "fbi_code": "03", "block": "024XX S ARCHER AVE"}
+{
+    "y_coordinate": "1887783", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288885", 
+    "id": "9144816", 
+    "primary_type": "ROBBERY", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64554035787539, 
+            41.84753690469018
+        ]
+    }, 
+    "community_area": "60", 
+    "latitude": "41.84753690469018", 
+    "type": "violent", 
+    "description": "ARMED: OTHER DANGEROUS WEAPON", 
+    "beat": "0914", 
+    "date": {
+        "$date": 1369398900000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b042"
+    }, 
+    "iucr": "313", 
+    "longitude": "-87.64554035787539", 
+    "location_description": "STREET", 
+    "x_coordinate": "1171647", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "03", 
+    "block": "024XX S ARCHER AVE"
+}

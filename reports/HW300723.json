@@ -1,1 +1,38 @@
-{"y_coordinate": "1850846", "year": "2013", "domestic": false, "case_number": "HW300723", "id": "9155100", "primary_type": "CRIMINAL DAMAGE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55749253949851, 41.7456105095965]}, "community_area": "46", "latitude": "41.7456105095965", "type": "quality", "description": "TO PROPERTY", "beat": "0423", "date": {"$date": 1370136300000}, "ward": "7", "_id": {"$oid": "51b5f11d3c002ed20d78cecf"}, "iucr": "1310", "longitude": "-87.55749253949851", "location_description": "RESIDENCE", "x_coordinate": "1195972", "updated_on": {"$date": 1370306580000}, "fbi_code": "14", "block": "082XX S MANISTEE AVE"}
+{
+    "y_coordinate": "1850846", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300723", 
+    "id": "9155100", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55749253949851, 
+            41.7456105095965
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.7456105095965", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0423", 
+    "date": {
+        "$date": 1370136300000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78cecf"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.55749253949851", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1195972", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "14", 
+    "block": "082XX S MANISTEE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1907993", "year": "2013", "domestic": false, "case_number": "HW291471", "id": "9146005", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67246861884533, 41.903156254242525]}, "community_area": "24", "latitude": "41.903156254242525", "type": "property", "description": "FROM BUILDING", "beat": "1212", "date": {"$date": 1369530000000}, "ward": "1", "_id": {"$oid": "51b34a0d3c002ed20d78c87e"}, "iucr": "890", "longitude": "-87.67246861884533", "location_description": "BAR OR TAVERN", "x_coordinate": "1164154", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "018XX W DIVISION ST"}
+{
+    "y_coordinate": "1907993", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291471", 
+    "id": "9146005", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67246861884533, 
+            41.903156254242525
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.903156254242525", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1212", 
+    "date": {
+        "$date": 1369530000000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c87e"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.67246861884533", 
+    "location_description": "BAR OR TAVERN", 
+    "x_coordinate": "1164154", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "018XX W DIVISION ST"
+}

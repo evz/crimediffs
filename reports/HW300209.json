@@ -1,1 +1,38 @@
-{"y_coordinate": "1915291", "year": "2013", "domestic": false, "case_number": "HW300209", "id": "9154762", "primary_type": "THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.78630066878831, 41.923782382116414]}, "community_area": "19", "latitude": "41.923782382116414", "type": "property", "description": "RETAIL THEFT", "beat": "2512", "date": {"$date": 1370102400000}, "ward": "36", "_id": {"$oid": "51b5f11f3c002ed20d78d049"}, "iucr": "860", "longitude": "-87.78630066878831", "location_description": "DEPARTMENT STORE", "x_coordinate": "1133118", "updated_on": {"$date": 1370306580000}, "fbi_code": "06", "block": "064XX W FULLERTON AVE"}
+{
+    "y_coordinate": "1915291", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300209", 
+    "id": "9154762", 
+    "primary_type": "THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78630066878831, 
+            41.923782382116414
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.923782382116414", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "2512", 
+    "date": {
+        "$date": 1370102400000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d049"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.78630066878831", 
+    "location_description": "DEPARTMENT STORE", 
+    "x_coordinate": "1133118", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "06", 
+    "block": "064XX W FULLERTON AVE"
+}

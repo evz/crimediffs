@@ -1,1 +1,38 @@
-{"y_coordinate": "1862746", "year": "2013", "domestic": false, "case_number": "HW289614", "id": "9144550", "primary_type": "CRIMINAL TRESPASS", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66405915214408, 41.778937854171865]}, "community_area": "67", "latitude": "41.778937854171865", "type": null, "description": "TO STATE SUP LAND", "beat": "0725", "date": {"$date": 1369426380000}, "ward": "16", "_id": {"$oid": "51aa138d3c002ed20d78aec8"}, "iucr": "1350", "longitude": "-87.66405915214408", "location_description": "CTA GARAGE / OTHER PROPERTY", "x_coordinate": "1166796", "updated_on": {"$date": 1369615194000}, "fbi_code": "26", "block": "063XX S ASHLAND AVE"}
+{
+    "y_coordinate": "1862746", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289614", 
+    "id": "9144550", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66405915214408, 
+            41.778937854171865
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.778937854171865", 
+    "type": null, 
+    "description": "TO STATE SUP LAND", 
+    "beat": "0725", 
+    "date": {
+        "$date": 1369426380000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78aec8"
+    }, 
+    "iucr": "1350", 
+    "longitude": "-87.66405915214408", 
+    "location_description": "CTA GARAGE / OTHER PROPERTY", 
+    "x_coordinate": "1166796", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "26", 
+    "block": "063XX S ASHLAND AVE"
+}

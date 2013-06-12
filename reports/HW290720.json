@@ -1,1 +1,38 @@
-{"y_coordinate": "1909479", "year": "2013", "domestic": false, "case_number": "HW290720", "id": "9145311", "primary_type": "THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71779001503015, 41.907486075548796]}, "community_area": "23", "latitude": "41.907486075548796", "type": "property", "description": "OVER $500", "beat": "2535", "date": {"$date": 1369434600000}, "ward": "26", "_id": {"$oid": "51aa138c3c002ed20d78ae54"}, "iucr": "810", "longitude": "-87.71779001503015", "location_description": "STREET", "x_coordinate": "1151805", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "014XX N MONTICELLO AVE"}
+{
+    "y_coordinate": "1909479", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290720", 
+    "id": "9145311", 
+    "primary_type": "THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71779001503015, 
+            41.907486075548796
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.907486075548796", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "2535", 
+    "date": {
+        "$date": 1369434600000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae54"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.71779001503015", 
+    "location_description": "STREET", 
+    "x_coordinate": "1151805", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "014XX N MONTICELLO AVE"
+}

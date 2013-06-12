@@ -1,1 +1,38 @@
-{"y_coordinate": "1920882", "year": "2013", "domestic": false, "case_number": "HW310186", "id": "9165016", "primary_type": "THEFT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7471229989265, 41.938932016609904]}, "community_area": "15", "latitude": "41.938932016609904", "type": "property", "description": "$500 AND UNDER", "beat": "1634", "date": {"$date": 1370246400000}, "ward": "30", "_id": {"$oid": "51b7429e3c002ed20d78d4dc"}, "iucr": "820", "longitude": "-87.7471229989265", "location_description": "STREET", "x_coordinate": "1143742", "updated_on": {"$date": 1370911182000}, "fbi_code": "06", "block": "048XX W BELMONT AVE"}
+{
+    "y_coordinate": "1920882", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW310186", 
+    "id": "9165016", 
+    "primary_type": "THEFT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7471229989265, 
+            41.938932016609904
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.938932016609904", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1634", 
+    "date": {
+        "$date": 1370246400000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51b7429e3c002ed20d78d4dc"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.7471229989265", 
+    "location_description": "STREET", 
+    "x_coordinate": "1143742", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "06", 
+    "block": "048XX W BELMONT AVE"
+}

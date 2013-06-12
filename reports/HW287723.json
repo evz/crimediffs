@@ -1,1 +1,38 @@
-{"y_coordinate": "1827162", "year": "2013", "domestic": false, "case_number": "HW287723", "id": "9142825", "primary_type": "OTHER OFFENSE", "district": "022", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66980505226095, 41.681317429811074]}, "community_area": "75", "latitude": "41.681317429811074", "type": null, "description": "OTHER CRIME INVOLVING PROPERTY", "beat": "2212", "date": {"$date": 1369321560000}, "ward": "34", "_id": {"$oid": "51aa13963c002ed20d78b2e8"}, "iucr": "5001", "longitude": "-87.66980505226095", "location_description": "SIDEWALK", "x_coordinate": "1165503", "updated_on": {"$date": 1369528777000}, "fbi_code": "26", "block": "117XX S VINCENNES AVE"}
+{
+    "y_coordinate": "1827162", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287723", 
+    "id": "9142825", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "022", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66980505226095, 
+            41.681317429811074
+        ]
+    }, 
+    "community_area": "75", 
+    "latitude": "41.681317429811074", 
+    "type": null, 
+    "description": "OTHER CRIME INVOLVING PROPERTY", 
+    "beat": "2212", 
+    "date": {
+        "$date": 1369321560000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b2e8"
+    }, 
+    "iucr": "5001", 
+    "longitude": "-87.66980505226095", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1165503", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "26", 
+    "block": "117XX S VINCENNES AVE"
+}

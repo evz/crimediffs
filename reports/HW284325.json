@@ -1,1 +1,38 @@
-{"y_coordinate": "1848407", "year": "2013", "domestic": false, "case_number": "HW284325", "id": "9139138", "primary_type": "BURGLARY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70506726210819, 41.73981884884794]}, "community_area": "70", "latitude": "41.73981884884794", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0834", "date": {"$date": 1369128600000}, "ward": "18", "_id": {"$oid": "51a61f0f3c002ed20d78a959"}, "iucr": "610", "longitude": "-87.70506726210819", "location_description": "RESIDENCE", "x_coordinate": "1155715", "updated_on": {"$date": 1369787985000}, "fbi_code": "05", "block": "033XX W 84TH PL"}
+{
+    "y_coordinate": "1848407", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284325", 
+    "id": "9139138", 
+    "primary_type": "BURGLARY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70506726210819, 
+            41.73981884884794
+        ]
+    }, 
+    "community_area": "70", 
+    "latitude": "41.73981884884794", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0834", 
+    "date": {
+        "$date": 1369128600000
+    }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a959"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.70506726210819", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1155715", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "05", 
+    "block": "033XX W 84TH PL"
+}

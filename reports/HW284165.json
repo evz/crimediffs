@@ -1,1 +1,38 @@
-{"y_coordinate": "1905895", "year": "2013", "domestic": false, "case_number": "HW284165", "id": "9139555", "primary_type": "ASSAULT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70449673327039, 41.897578702229964]}, "community_area": "23", "latitude": "41.897578702229964", "type": null, "description": "SIMPLE", "beat": "1211", "date": {"$date": 1369128900000}, "ward": "26", "_id": {"$oid": "51a61f0f3c002ed20d78a958"}, "iucr": "560", "longitude": "-87.70449673327039", "location_description": "SCHOOL, PRIVATE, GROUNDS", "x_coordinate": "1155450", "updated_on": {"$date": 1369356045000}, "fbi_code": "08A", "block": "031XX W GRAND AVE"}
+{
+    "y_coordinate": "1905895", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284165", 
+    "id": "9139555", 
+    "primary_type": "ASSAULT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70449673327039, 
+            41.897578702229964
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.897578702229964", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1211", 
+    "date": {
+        "$date": 1369128900000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a958"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.70449673327039", 
+    "location_description": "SCHOOL, PRIVATE, GROUNDS", 
+    "x_coordinate": "1155450", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08A", 
+    "block": "031XX W GRAND AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1851301", "year": "2013", "domestic": false, "case_number": "HW291885", "id": "9146384", "primary_type": "THEFT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61790408854702, 41.74725121412536]}, "community_area": "44", "latitude": "41.74725121412536", "type": "property", "description": "OVER $500", "beat": "0631", "date": {"$date": 1369537200000}, "ward": "6", "_id": {"$oid": "51b34a0c3c002ed20d78c83b"}, "iucr": "810", "longitude": "-87.61790408854702", "location_description": "STREET", "x_coordinate": "1179481", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "081XX S PRAIRIE AVE"}
+{
+    "y_coordinate": "1851301", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291885", 
+    "id": "9146384", 
+    "primary_type": "THEFT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61790408854702, 
+            41.74725121412536
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.74725121412536", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0631", 
+    "date": {
+        "$date": 1369537200000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b34a0c3c002ed20d78c83b"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.61790408854702", 
+    "location_description": "STREET", 
+    "x_coordinate": "1179481", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "081XX S PRAIRIE AVE"
+}

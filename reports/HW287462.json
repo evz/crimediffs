@@ -1,1 +1,38 @@
-{"y_coordinate": "1871516", "year": "2013", "domestic": false, "case_number": "HW287462", "id": "9142692", "primary_type": "BATTERY", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6151345697392, 41.80270979004925]}, "community_area": "38", "latitude": "41.80270979004925", "type": "violent", "description": "AGGRAVATED DOMESTIC BATTERY: KNIFE/CUTTING INST", "beat": "0223", "date": {"$date": 1369308900000}, "ward": "3", "_id": {"$oid": "51aa13973c002ed20d78b372"}, "iucr": "496", "longitude": "-87.6151345697392", "location_description": "RESIDENCE", "x_coordinate": "1180068", "updated_on": {"$date": 1369960832000}, "fbi_code": "04B", "block": "050XX S WASHINGTON PARK CT"}
+{
+    "y_coordinate": "1871516", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287462", 
+    "id": "9142692", 
+    "primary_type": "BATTERY", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6151345697392, 
+            41.80270979004925
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.80270979004925", 
+    "type": "violent", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: KNIFE/CUTTING INST", 
+    "beat": "0223", 
+    "date": {
+        "$date": 1369308900000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b372"
+    }, 
+    "iucr": "496", 
+    "longitude": "-87.6151345697392", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1180068", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "04B", 
+    "block": "050XX S WASHINGTON PARK CT"
+}

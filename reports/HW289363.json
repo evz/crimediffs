@@ -1,1 +1,38 @@
-{"y_coordinate": "1906791", "year": "2013", "domestic": false, "case_number": "HW289363", "id": "9144410", "primary_type": "CRIMINAL DAMAGE", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75585509961482, 41.90030729944219]}, "community_area": "25", "latitude": "41.90030729944219", "type": "quality", "description": "TO VEHICLE", "beat": "1524", "date": {"$date": 1369354500000}, "ward": "37", "_id": {"$oid": "51aa13943c002ed20d78b17b"}, "iucr": "1320", "longitude": "-87.75585509961482", "location_description": "STREET", "x_coordinate": "1141461", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "052XX W THOMAS ST"}
+{
+    "y_coordinate": "1906791", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289363", 
+    "id": "9144410", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75585509961482, 
+            41.90030729944219
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.90030729944219", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1524", 
+    "date": {
+        "$date": 1369354500000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b17b"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.75585509961482", 
+    "location_description": "STREET", 
+    "x_coordinate": "1141461", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "052XX W THOMAS ST"
+}

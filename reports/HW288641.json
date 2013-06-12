@@ -1,1 +1,38 @@
-{"y_coordinate": "1875561", "year": "2013", "domestic": true, "case_number": "HW288641", "id": "9147905", "primary_type": "BATTERY", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6587559242564, 41.814074840392436]}, "community_area": "61", "latitude": "41.814074840392436", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0924", "date": {"$date": 1369386900000}, "ward": "11", "_id": {"$oid": "51aa13933c002ed20d78b0d2"}, "iucr": "486", "longitude": "-87.6587559242564", "location_description": "STREET", "x_coordinate": "1168142", "updated_on": {"$date": 1369960832000}, "fbi_code": "08B", "block": "044XX S PACKERS AVE"}
+{
+    "y_coordinate": "1875561", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW288641", 
+    "id": "9147905", 
+    "primary_type": "BATTERY", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6587559242564, 
+            41.814074840392436
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.814074840392436", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0924", 
+    "date": {
+        "$date": 1369386900000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b0d2"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.6587559242564", 
+    "location_description": "STREET", 
+    "x_coordinate": "1168142", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "08B", 
+    "block": "044XX S PACKERS AVE"
+}

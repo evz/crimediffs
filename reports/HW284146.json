@@ -1,1 +1,38 @@
-{"y_coordinate": "1837989", "year": "2013", "domestic": false, "case_number": "HW284146", "id": "9138929", "primary_type": "THEFT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61765375751638, 41.71071735446827]}, "community_area": "49", "latitude": "41.71071735446827", "type": "property", "description": "OVER $500", "beat": "0511", "date": {"$date": 1369080000000}, "ward": "9", "_id": {"$oid": "51a4cd8e3c002ed20d78a3de"}, "iucr": "810", "longitude": "-87.61765375751638", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1179660", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "101XX S PRAIRIE AVE"}
+{
+    "y_coordinate": "1837989", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284146", 
+    "id": "9138929", 
+    "primary_type": "THEFT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61765375751638, 
+            41.71071735446827
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.71071735446827", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0511", 
+    "date": {
+        "$date": 1369080000000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3de"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.61765375751638", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1179660", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "101XX S PRAIRIE AVE"
+}

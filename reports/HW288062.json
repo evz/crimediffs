@@ -1,1 +1,38 @@
-{"y_coordinate": "1928622", "year": "2013", "domestic": false, "case_number": "HW288062", "id": "9143447", "primary_type": "BATTERY", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.78464595279502, 41.96035771648092]}, "community_area": "15", "latitude": "41.96035771648092", "type": null, "description": "SIMPLE", "beat": "1622", "date": {"$date": 1369260000000}, "ward": "38", "_id": {"$oid": "51a770883c002ed20d78aa98"}, "iucr": "460", "longitude": "-87.78464595279502", "location_description": "ALLEY", "x_coordinate": "1133483", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "063XX W MONTROSE AVE"}
+{
+    "y_coordinate": "1928622", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288062", 
+    "id": "9143447", 
+    "primary_type": "BATTERY", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78464595279502, 
+            41.96035771648092
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.96035771648092", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1622", 
+    "date": {
+        "$date": 1369260000000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aa98"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.78464595279502", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1133483", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "063XX W MONTROSE AVE"
+}

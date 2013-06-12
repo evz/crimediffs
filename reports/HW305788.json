@@ -1,1 +1,38 @@
-{"y_coordinate": "1852868", "year": "2013", "domestic": false, "case_number": "HW305788", "id": "9161097", "primary_type": "BURGLARY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55545426957019, 41.7511457023444]}, "community_area": "46", "latitude": "41.7511457023444", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0422", "date": {"$date": 1369483140000}, "ward": "7", "_id": {"$oid": "51b34a113c002ed20d78ca9e"}, "iucr": "610", "longitude": "-87.55545426957019", "location_description": "APARTMENT", "x_coordinate": "1196510", "updated_on": {"$date": 1370651988000}, "fbi_code": "05", "block": "079XX S MUSKEGON AVE"}
+{
+    "y_coordinate": "1852868", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW305788", 
+    "id": "9161097", 
+    "primary_type": "BURGLARY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55545426957019, 
+            41.7511457023444
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.7511457023444", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0422", 
+    "date": {
+        "$date": 1369483140000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca9e"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.55545426957019", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1196510", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "05", 
+    "block": "079XX S MUSKEGON AVE"
+}

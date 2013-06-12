@@ -1,1 +1,38 @@
-{"y_coordinate": "1898070", "year": "2013", "domestic": true, "case_number": "HW302325", "id": "9156925", "primary_type": "BATTERY", "district": "012", "arrest": true, "location": {"type": "Point", "coordinates": [-87.67675497657416, 41.87594973532188]}, "community_area": "28", "latitude": "41.87594973532188", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1225", "date": {"$date": 1370256300000}, "ward": "2", "_id": {"$oid": "51b7429d3c002ed20d78d479"}, "iucr": "486", "longitude": "-87.67675497657416", "location_description": "HIGHWAY/EXPRESSWAY", "x_coordinate": "1163063", "updated_on": {"$date": 1370479286000}, "fbi_code": "08B", "block": "020XX W EISENHOWER EXPY OB"}
+{
+    "y_coordinate": "1898070", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW302325", 
+    "id": "9156925", 
+    "primary_type": "BATTERY", 
+    "district": "012", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67675497657416, 
+            41.87594973532188
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.87594973532188", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1225", 
+    "date": {
+        "$date": 1370256300000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b7429d3c002ed20d78d479"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.67675497657416", 
+    "location_description": "HIGHWAY/EXPRESSWAY", 
+    "x_coordinate": "1163063", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08B", 
+    "block": "020XX W EISENHOWER EXPY OB"
+}

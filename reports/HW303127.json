@@ -1,1 +1,38 @@
-{"y_coordinate": "1847158", "year": "2013", "domestic": false, "case_number": "HW303127", "id": "9157722", "primary_type": "ROBBERY", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6507977292182, 41.7360816489392]}, "community_area": "71", "latitude": "41.7360816489392", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "0613", "date": {"$date": 1370286600000}, "ward": "21", "_id": {"$oid": "51b742993c002ed20d78d2e2"}, "iucr": "320", "longitude": "-87.6507977292182", "location_description": "RESTAURANT", "x_coordinate": "1170537", "updated_on": {"$date": 1370565766000}, "fbi_code": "03", "block": "010XX W 87TH ST"}
+{
+    "y_coordinate": "1847158", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303127", 
+    "id": "9157722", 
+    "primary_type": "ROBBERY", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6507977292182, 
+            41.7360816489392
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.7360816489392", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0613", 
+    "date": {
+        "$date": 1370286600000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b742993c002ed20d78d2e2"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.6507977292182", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1170537", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "03", 
+    "block": "010XX W 87TH ST"
+}

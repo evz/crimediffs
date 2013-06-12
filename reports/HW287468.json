@@ -1,1 +1,38 @@
-{"y_coordinate": "1860220", "year": "2013", "domestic": false, "case_number": "HW287468", "id": "9143892", "primary_type": "THEFT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66416053938929, 41.77200635663318]}, "community_area": "67", "latitude": "41.77200635663318", "type": "property", "description": "OVER $500", "beat": "0725", "date": {"$date": 1369153800000}, "ward": "15", "_id": {"$oid": "51a61f0c3c002ed20d78a827"}, "iucr": "810", "longitude": "-87.66416053938929", "location_description": "CTA BUS", "x_coordinate": "1166788", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "067XX S ASHLAND AVE"}
+{
+    "y_coordinate": "1860220", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287468", 
+    "id": "9143892", 
+    "primary_type": "THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66416053938929, 
+            41.77200635663318
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.77200635663318", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0725", 
+    "date": {
+        "$date": 1369153800000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51a61f0c3c002ed20d78a827"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.66416053938929", 
+    "location_description": "CTA BUS", 
+    "x_coordinate": "1166788", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "067XX S ASHLAND AVE"
+}

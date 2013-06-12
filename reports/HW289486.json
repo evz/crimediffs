@@ -1,1 +1,38 @@
-{"y_coordinate": "1852360", "year": "2013", "domestic": false, "case_number": "HW289486", "id": "9144342", "primary_type": "CRIMINAL DAMAGE", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66514680746636, 41.75044188810015]}, "community_area": "71", "latitude": "41.75044188810015", "type": "quality", "description": "TO VEHICLE", "beat": "0611", "date": {"$date": 1369417500000}, "ward": "17", "_id": {"$oid": "51aa138f3c002ed20d78af40"}, "iucr": "1320", "longitude": "-87.66514680746636", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1166580", "updated_on": {"$date": 1369615194000}, "fbi_code": "14", "block": "016XX W 79TH ST"}
+{
+    "y_coordinate": "1852360", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289486", 
+    "id": "9144342", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66514680746636, 
+            41.75044188810015
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.75044188810015", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0611", 
+    "date": {
+        "$date": 1369417500000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51aa138f3c002ed20d78af40"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.66514680746636", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1166580", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "14", 
+    "block": "016XX W 79TH ST"
+}

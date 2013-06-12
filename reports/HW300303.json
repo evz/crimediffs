@@ -1,1 +1,38 @@
-{"y_coordinate": "1852718", "year": "2013", "domestic": false, "case_number": "HW300303", "id": "9154748", "primary_type": "CRIMINAL TRESPASS", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66482147001774, 41.751422457255764]}, "community_area": "71", "latitude": "41.751422457255764", "type": null, "description": "TO RESIDENCE", "beat": "0611", "date": {"$date": 1370109600000}, "ward": "17", "_id": {"$oid": "51b5f11f3c002ed20d78d007"}, "iucr": "1365", "longitude": "-87.66482147001774", "location_description": "APARTMENT", "x_coordinate": "1166666", "updated_on": {"$date": 1370479286000}, "fbi_code": "26", "block": "078XX S MARSHFIELD AVE"}
+{
+    "y_coordinate": "1852718", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300303", 
+    "id": "9154748", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66482147001774, 
+            41.751422457255764
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.751422457255764", 
+    "type": null, 
+    "description": "TO RESIDENCE", 
+    "beat": "0611", 
+    "date": {
+        "$date": 1370109600000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d007"
+    }, 
+    "iucr": "1365", 
+    "longitude": "-87.66482147001774", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1166666", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "26", 
+    "block": "078XX S MARSHFIELD AVE"
+}

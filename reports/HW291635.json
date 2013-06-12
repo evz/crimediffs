@@ -1,1 +1,38 @@
-{"y_coordinate": "1906962", "year": "2013", "domestic": false, "case_number": "HW291635", "id": "9146069", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66266509952638, 41.900270109105335]}, "community_area": "24", "latitude": "41.900270109105335", "type": "property", "description": "$500 AND UNDER", "beat": "1213", "date": {"$date": 1369501200000}, "ward": "27", "_id": {"$oid": "51b34a0f3c002ed20d78c9ca"}, "iucr": "820", "longitude": "-87.66266509952638", "location_description": "OTHER", "x_coordinate": "1166831", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "010XX N NOBLE ST"}
+{
+    "y_coordinate": "1906962", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291635", 
+    "id": "9146069", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66266509952638, 
+            41.900270109105335
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.900270109105335", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1213", 
+    "date": {
+        "$date": 1369501200000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c9ca"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.66266509952638", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1166831", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "010XX N NOBLE ST"
+}

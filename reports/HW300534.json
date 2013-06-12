@@ -1,1 +1,38 @@
-{"y_coordinate": "1849126", "year": "2013", "domestic": false, "case_number": "HW300534", "id": "9154980", "primary_type": "NARCOTICS", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.65728802566005, 41.741520823754065]}, "community_area": "71", "latitude": "41.741520823754065", "type": "quality", "description": "MANU/DEL:CANNABIS OVER 10 GMS", "beat": "0613", "date": {"$date": 1370119080000}, "ward": "21", "_id": {"$oid": "51b5f11e3c002ed20d78cf9f"}, "iucr": "1822", "longitude": "-87.65728802566005", "location_description": "RESIDENCE", "x_coordinate": "1168750", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "083XX S ADA ST"}
+{
+    "y_coordinate": "1849126", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300534", 
+    "id": "9154980", 
+    "primary_type": "NARCOTICS", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65728802566005, 
+            41.741520823754065
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.741520823754065", 
+    "type": "quality", 
+    "description": "MANU/DEL:CANNABIS OVER 10 GMS", 
+    "beat": "0613", 
+    "date": {
+        "$date": 1370119080000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf9f"
+    }, 
+    "iucr": "1822", 
+    "longitude": "-87.65728802566005", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1168750", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "083XX S ADA ST"
+}

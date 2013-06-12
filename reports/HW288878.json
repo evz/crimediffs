@@ -1,1 +1,38 @@
-{"y_coordinate": "1858708", "year": "2013", "domestic": false, "case_number": "HW288878", "id": "9143903", "primary_type": "BATTERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69174970002423, 41.76801436024024]}, "community_area": "66", "latitude": "41.76801436024024", "type": null, "description": "SIMPLE", "beat": "0831", "date": {"$date": 1369396500000}, "ward": "18", "_id": {"$oid": "51aa13923c002ed20d78b078"}, "iucr": "460", "longitude": "-87.69174970002423", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1159273", "updated_on": {"$date": 1369528777000}, "fbi_code": "08B", "block": "069XX S FAIRFIELD AVE"}
+{
+    "y_coordinate": "1858708", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288878", 
+    "id": "9143903", 
+    "primary_type": "BATTERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69174970002423, 
+            41.76801436024024
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.76801436024024", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0831", 
+    "date": {
+        "$date": 1369396500000
+    }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b078"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.69174970002423", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1159273", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "08B", 
+    "block": "069XX S FAIRFIELD AVE"
+}

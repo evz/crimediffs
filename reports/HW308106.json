@@ -1,1 +1,38 @@
-{"y_coordinate": "1855604", "year": "2013", "domestic": false, "case_number": "HW308106", "id": "9163383", "primary_type": "THEFT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58722230129138, 41.75886479394987]}, "community_area": "43", "latitude": "41.75886479394987", "type": "property", "description": "FROM BUILDING", "beat": "0324", "date": {"$date": 1369947600000}, "ward": "5", "_id": {"$oid": "51b349d93c002ed20d78b94d"}, "iucr": "890", "longitude": "-87.58722230129138", "location_description": "BAR OR TAVERN", "x_coordinate": "1187817", "updated_on": {"$date": 1370738354000}, "fbi_code": "06", "block": "015XX E 75TH ST"}
+{
+    "y_coordinate": "1855604", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW308106", 
+    "id": "9163383", 
+    "primary_type": "THEFT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58722230129138, 
+            41.75886479394987
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.75886479394987", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0324", 
+    "date": {
+        "$date": 1369947600000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51b349d93c002ed20d78b94d"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.58722230129138", 
+    "location_description": "BAR OR TAVERN", 
+    "x_coordinate": "1187817", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "06", 
+    "block": "015XX E 75TH ST"
+}

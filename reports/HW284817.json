@@ -1,1 +1,38 @@
-{"y_coordinate": "1906202", "year": "2013", "domestic": false, "case_number": "HW284817", "id": "9139594", "primary_type": "THEFT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62424288212506, 41.89795365999346]}, "community_area": "8", "latitude": "41.89795365999346", "type": "property", "description": "RETAIL THEFT", "beat": "1833", "date": {"$date": 1369155000000}, "ward": "42", "_id": {"$oid": "51a61f0b3c002ed20d78a815"}, "iucr": "860", "longitude": "-87.62424288212506", "location_description": "DEPARTMENT STORE", "x_coordinate": "1177298", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "008XX N MICHIGAN AVE"}
+{
+    "y_coordinate": "1906202", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284817", 
+    "id": "9139594", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62424288212506, 
+            41.89795365999346
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89795365999346", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "1833", 
+    "date": {
+        "$date": 1369155000000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a815"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.62424288212506", 
+    "location_description": "DEPARTMENT STORE", 
+    "x_coordinate": "1177298", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "008XX N MICHIGAN AVE"
+}

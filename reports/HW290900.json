@@ -1,1 +1,38 @@
-{"y_coordinate": "1896592", "year": "2013", "domestic": false, "case_number": "HW290900", "id": "9145460", "primary_type": "THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68709846766089, 41.871952404937616]}, "community_area": "28", "latitude": "41.871952404937616", "type": "property", "description": "$500 AND UNDER", "beat": "1135", "date": {"$date": 1369483200000}, "ward": "2", "_id": {"$oid": "51b34a113c002ed20d78ca95"}, "iucr": "820", "longitude": "-87.68709846766089", "location_description": "STREET", "x_coordinate": "1160257", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "024XX W LEXINGTON ST"}
+{
+    "y_coordinate": "1896592", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290900", 
+    "id": "9145460", 
+    "primary_type": "THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68709846766089, 
+            41.871952404937616
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.871952404937616", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1135", 
+    "date": {
+        "$date": 1369483200000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca95"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.68709846766089", 
+    "location_description": "STREET", 
+    "x_coordinate": "1160257", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "024XX W LEXINGTON ST"
+}

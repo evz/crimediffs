@@ -1,1 +1,38 @@
-{"y_coordinate": "1909151", "year": "2013", "domestic": false, "case_number": "HW302386", "id": "9157234", "primary_type": "BATTERY", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71027182536291, 41.906545419012716]}, "community_area": "23", "latitude": "41.906545419012716", "type": null, "description": "SIMPLE", "beat": "1422", "date": {"$date": 1370255400000}, "ward": "26", "_id": {"$oid": "51b7429e3c002ed20d78d482"}, "iucr": "460", "longitude": "-87.71027182536291", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1153854", "updated_on": {"$date": 1370479286000}, "fbi_code": "08B", "block": "033XX W HIRSCH ST"}
+{
+    "y_coordinate": "1909151", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302386", 
+    "id": "9157234", 
+    "primary_type": "BATTERY", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71027182536291, 
+            41.906545419012716
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.906545419012716", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1422", 
+    "date": {
+        "$date": 1370255400000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51b7429e3c002ed20d78d482"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.71027182536291", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1153854", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08B", 
+    "block": "033XX W HIRSCH ST"
+}

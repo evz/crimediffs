@@ -1,1 +1,38 @@
-{"y_coordinate": "1900369", "year": "2013", "domestic": false, "case_number": "HW301301", "id": "9155537", "primary_type": "MOTOR VEHICLE THEFT", "district": "012", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68056068400736, 41.88228045322765]}, "community_area": "28", "latitude": "41.88228045322765", "type": "property", "description": "THEFT/RECOVERY: AUTOMOBILE", "beat": "1223", "date": {"$date": 1370183820000}, "ward": "2", "_id": {"$oid": "51b5f11a3c002ed20d78cd69"}, "iucr": "930", "longitude": "-87.68056068400736", "location_description": "VACANT LOT/LAND", "x_coordinate": "1162009", "updated_on": {"$date": 1370392932000}, "fbi_code": "07", "block": "021XX W WARREN BLVD"}
+{
+    "y_coordinate": "1900369", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301301", 
+    "id": "9155537", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "012", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68056068400736, 
+            41.88228045322765
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.88228045322765", 
+    "type": "property", 
+    "description": "THEFT/RECOVERY: AUTOMOBILE", 
+    "beat": "1223", 
+    "date": {
+        "$date": 1370183820000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd69"
+    }, 
+    "iucr": "930", 
+    "longitude": "-87.68056068400736", 
+    "location_description": "VACANT LOT/LAND", 
+    "x_coordinate": "1162009", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "07", 
+    "block": "021XX W WARREN BLVD"
+}

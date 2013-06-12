@@ -1,1 +1,38 @@
-{"y_coordinate": "1903925", "year": "2013", "domestic": false, "case_number": "HW287553", "id": "9142741", "primary_type": "ASSAULT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68316434571848, 41.892053751325406]}, "community_area": "24", "latitude": "41.892053751325406", "type": null, "description": "PRO EMP HANDS NO/MIN INJURY", "beat": "1221", "date": {"$date": 1369301400000}, "ward": "26", "_id": {"$oid": "51aa13983c002ed20d78b3d0"}, "iucr": "545", "longitude": "-87.68316434571848", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1161273", "updated_on": {"$date": 1369874559000}, "fbi_code": "08A", "block": "022XX W OHIO ST"}
+{
+    "y_coordinate": "1903925", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287553", 
+    "id": "9142741", 
+    "primary_type": "ASSAULT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68316434571848, 
+            41.892053751325406
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.892053751325406", 
+    "type": null, 
+    "description": "PRO EMP HANDS NO/MIN INJURY", 
+    "beat": "1221", 
+    "date": {
+        "$date": 1369301400000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3d0"
+    }, 
+    "iucr": "545", 
+    "longitude": "-87.68316434571848", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1161273", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "08A", 
+    "block": "022XX W OHIO ST"
+}

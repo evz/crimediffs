@@ -1,1 +1,38 @@
-{"y_coordinate": "1936723", "year": "2013", "domestic": false, "case_number": "HW285153", "id": "9139859", "primary_type": "SEX OFFENSE", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66265095829252, 41.98194064365856]}, "community_area": "77", "latitude": "41.98194064365856", "type": null, "description": "CRIMINAL SEXUAL ABUSE", "beat": "2013", "date": {"$date": 1369162200000}, "ward": "48", "_id": {"$oid": "51a61f0a3c002ed20d78a7ac"}, "iucr": "1563", "longitude": "-87.66265095829252", "location_description": "STREET", "x_coordinate": "1166602", "updated_on": {"$date": 1369356045000}, "fbi_code": "17", "block": "055XX N LAKEWOOD AVE"}
+{
+    "y_coordinate": "1936723", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285153", 
+    "id": "9139859", 
+    "primary_type": "SEX OFFENSE", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66265095829252, 
+            41.98194064365856
+        ]
+    }, 
+    "community_area": "77", 
+    "latitude": "41.98194064365856", 
+    "type": null, 
+    "description": "CRIMINAL SEXUAL ABUSE", 
+    "beat": "2013", 
+    "date": {
+        "$date": 1369162200000
+    }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a7ac"
+    }, 
+    "iucr": "1563", 
+    "longitude": "-87.66265095829252", 
+    "location_description": "STREET", 
+    "x_coordinate": "1166602", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "17", 
+    "block": "055XX N LAKEWOOD AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1831371", "year": "2013", "domestic": false, "case_number": "HW311642", "id": "9166013", "primary_type": "THEFT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62805141348201, 41.69261968413334]}, "community_area": "49", "latitude": "41.69261968413334", "type": "property", "description": "$500 AND UNDER", "beat": "0513", "date": {"$date": 1369409400000}, "ward": "34", "_id": {"$oid": "51b5f1303c002ed20d78d1c3"}, "iucr": "820", "longitude": "-87.62805141348201", "location_description": "CONVENIENCE STORE", "x_coordinate": "1176875", "updated_on": {"$date": 1370911182000}, "fbi_code": "06", "block": "110XX S WENTWORTH AVE"}
+{
+    "y_coordinate": "1831371", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW311642", 
+    "id": "9166013", 
+    "primary_type": "THEFT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62805141348201, 
+            41.69261968413334
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.69261968413334", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0513", 
+    "date": {
+        "$date": 1369409400000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b5f1303c002ed20d78d1c3"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.62805141348201", 
+    "location_description": "CONVENIENCE STORE", 
+    "x_coordinate": "1176875", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "06", 
+    "block": "110XX S WENTWORTH AVE"
+}

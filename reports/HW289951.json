@@ -1,1 +1,38 @@
-{"y_coordinate": "1914371", "year": "2013", "domestic": true, "case_number": "HW289951", "id": "9144773", "primary_type": "BATTERY", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69411653254615, 41.92078151056774]}, "community_area": "22", "latitude": "41.92078151056774", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1431", "date": {"$date": 1369438200000}, "ward": "1", "_id": {"$oid": "51aa138c3c002ed20d78ae27"}, "iucr": "486", "longitude": "-87.69411653254615", "location_description": "APARTMENT", "x_coordinate": "1158213", "updated_on": {"$date": 1369874559000}, "fbi_code": "08B", "block": "022XX N MILWAUKEE AVE"}
+{
+    "y_coordinate": "1914371", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289951", 
+    "id": "9144773", 
+    "primary_type": "BATTERY", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69411653254615, 
+            41.92078151056774
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.92078151056774", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1431", 
+    "date": {
+        "$date": 1369438200000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae27"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.69411653254615", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1158213", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "08B", 
+    "block": "022XX N MILWAUKEE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1843867", "year": "2013", "domestic": false, "case_number": "HW305237", "id": "9160163", "primary_type": "DECEPTIVE PRACTICE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58556573941289, 41.726644120072066]}, "community_area": "48", "latitude": "41.726644120072066", "type": null, "description": "THEFT BY LESSEE,MOTOR VEH", "beat": "0413", "date": {"$date": 1369386000000}, "ward": "8", "_id": {"$oid": "51b34a173c002ed20d78cb49"}, "iucr": "1206", "longitude": "-87.58556573941289", "location_description": "COMMERCIAL / BUSINESS OFFICE", "x_coordinate": "1188371", "updated_on": {"$date": 1370738354000}, "fbi_code": "11", "block": "092XX S STONY ISLAND AVE"}
+{
+    "y_coordinate": "1843867", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW305237", 
+    "id": "9160163", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58556573941289, 
+            41.726644120072066
+        ]
+    }, 
+    "community_area": "48", 
+    "latitude": "41.726644120072066", 
+    "type": null, 
+    "description": "THEFT BY LESSEE,MOTOR VEH", 
+    "beat": "0413", 
+    "date": {
+        "$date": 1369386000000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51b34a173c002ed20d78cb49"
+    }, 
+    "iucr": "1206", 
+    "longitude": "-87.58556573941289", 
+    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
+    "x_coordinate": "1188371", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "11", 
+    "block": "092XX S STONY ISLAND AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1898386", "year": "2013", "domestic": false, "case_number": "HW300673", "id": "9155032", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.73191364788039, 41.87711902587544]}, "community_area": "26", "latitude": "41.87711902587544", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1115", "date": {"$date": 1370132400000}, "ward": "28", "_id": {"$oid": "51b5f11d3c002ed20d78cef4"}, "iucr": "1811", "longitude": "-87.73191364788039", "location_description": "STREET", "x_coordinate": "1148038", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "042XX W JACKSON BLVD"}
+{
+    "y_coordinate": "1898386", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300673", 
+    "id": "9155032", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73191364788039, 
+            41.87711902587544
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.87711902587544", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1115", 
+    "date": {
+        "$date": 1370132400000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78cef4"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.73191364788039", 
+    "location_description": "STREET", 
+    "x_coordinate": "1148038", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "042XX W JACKSON BLVD"
+}

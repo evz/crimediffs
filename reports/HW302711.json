@@ -1,1 +1,38 @@
-{"y_coordinate": "1848066", "year": "2013", "domestic": false, "case_number": "HW302711", "id": "9157513", "primary_type": "OTHER OFFENSE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.5552359511991, 41.73796608772494]}, "community_area": "46", "latitude": "41.73796608772494", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "0423", "date": {"$date": 1370098800000}, "ward": "10", "_id": {"$oid": "51b5f11f3c002ed20d78d068"}, "iucr": "2825", "longitude": "-87.5552359511991", "location_description": "RESIDENCE", "x_coordinate": "1196613", "updated_on": {"$date": 1370824784000}, "fbi_code": "26", "block": "086XX S MUSKEGON AVE"}
+{
+    "y_coordinate": "1848066", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302711", 
+    "id": "9157513", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5552359511991, 
+            41.73796608772494
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.73796608772494", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "0423", 
+    "date": {
+        "$date": 1370098800000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d068"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.5552359511991", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1196613", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "26", 
+    "block": "086XX S MUSKEGON AVE"
+}

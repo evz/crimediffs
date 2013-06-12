@@ -1,1 +1,38 @@
-{"y_coordinate": "1908334", "year": "2013", "domestic": false, "case_number": "HW289578", "id": "9144418", "primary_type": "THEFT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63890769320865, 41.903893985285336]}, "community_area": "8", "latitude": "41.903893985285336", "type": "property", "description": "$500 AND UNDER", "beat": "1821", "date": {"$date": 1369278000000}, "ward": "27", "_id": {"$oid": "51a770853c002ed20d78a9fd"}, "iucr": "820", "longitude": "-87.63890769320865", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1173288", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "004XX W DIVISION ST"}
+{
+    "y_coordinate": "1908334", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289578", 
+    "id": "9144418", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63890769320865, 
+            41.903893985285336
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.903893985285336", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1821", 
+    "date": {
+        "$date": 1369278000000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a770853c002ed20d78a9fd"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.63890769320865", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1173288", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "004XX W DIVISION ST"
+}

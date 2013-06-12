@@ -1,1 +1,33 @@
-{"community_area": "27", "_id": {"$oid": "51b742a83c002ed20d78d52a"}, "primary_type": "OFFENSE INVOLVING CHILDREN", "beat": "1222", "year": "2013", "domestic": true, "iucr": "1750", "arrest": false, "location_description": "APARTMENT", "location": {"type": "Point", "coordinates": [-87.69483625145345, 41.88211372916979]}, "case_number": "HW312866", "date": {"$date": 1369839600000}, "updated_on": {"$date": 1370911182000}, "ward": "2", "fbi_code": "20", "type": null, "id": "9167372", "block": "027XX W WARREN BLVD", "description": "CHILD ABUSE"}
+{
+    "_id": {
+        "$oid": "51b742a83c002ed20d78d52a"
+    }, 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "year": "2013", 
+    "beat": "1222", 
+    "case_number": "HW312866", 
+    "domestic": true, 
+    "iucr": "1750", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69483625145345, 
+            41.88211372916979
+        ]
+    }, 
+    "community_area": "27", 
+    "date": {
+        "$date": 1369839600000
+    }, 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "ward": "2", 
+    "fbi_code": "20", 
+    "type": null, 
+    "id": "9167372", 
+    "block": "027XX W WARREN BLVD", 
+    "description": "CHILD ABUSE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1818676", "year": "2013", "domestic": true, "case_number": "HW290830", "id": "9145397", "primary_type": "OTHER OFFENSE", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.59753363734075, 41.65758897803014]}, "community_area": "54", "latitude": "41.65758897803014", "type": null, "description": "OTHER VEHICLE OFFENSE", "beat": "0533", "date": {"$date": 1369510680000}, "ward": "9", "_id": {"$oid": "51b34a0f3c002ed20d78c94e"}, "iucr": "5002", "longitude": "-87.59753363734075", "location_description": "STREET", "x_coordinate": "1185319", "updated_on": {"$date": 1370047283000}, "fbi_code": "26", "block": "130XX S ELLIS AVE"}
+{
+    "y_coordinate": "1818676", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290830", 
+    "id": "9145397", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59753363734075, 
+            41.65758897803014
+        ]
+    }, 
+    "community_area": "54", 
+    "latitude": "41.65758897803014", 
+    "type": null, 
+    "description": "OTHER VEHICLE OFFENSE", 
+    "beat": "0533", 
+    "date": {
+        "$date": 1369510680000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c94e"
+    }, 
+    "iucr": "5002", 
+    "longitude": "-87.59753363734075", 
+    "location_description": "STREET", 
+    "x_coordinate": "1185319", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "26", 
+    "block": "130XX S ELLIS AVE"
+}

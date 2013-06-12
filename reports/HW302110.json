@@ -1,1 +1,38 @@
-{"y_coordinate": "1857622", "year": "2013", "domestic": false, "case_number": "HW302110", "id": "9156829", "primary_type": "ARSON", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65999022213501, 41.76485230509927]}, "community_area": "67", "latitude": "41.76485230509927", "type": "property", "description": "BY FIRE", "beat": "0734", "date": {"$date": 1370250000000}, "ward": "17", "_id": {"$oid": "51b7429e3c002ed20d78d4bc"}, "iucr": "1020", "longitude": "-87.65999022213501", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1167946", "updated_on": {"$date": 1370911182000}, "fbi_code": "09", "block": "014XX W 71ST ST"}
+{
+    "y_coordinate": "1857622", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302110", 
+    "id": "9156829", 
+    "primary_type": "ARSON", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65999022213501, 
+            41.76485230509927
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.76485230509927", 
+    "type": "property", 
+    "description": "BY FIRE", 
+    "beat": "0734", 
+    "date": {
+        "$date": 1370250000000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51b7429e3c002ed20d78d4bc"
+    }, 
+    "iucr": "1020", 
+    "longitude": "-87.65999022213501", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1167946", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "09", 
+    "block": "014XX W 71ST ST"
+}

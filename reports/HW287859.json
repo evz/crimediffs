@@ -1,1 +1,38 @@
-{"y_coordinate": "1833943", "year": "2013", "domestic": false, "case_number": "HW287859", "id": "9158181", "primary_type": "NARCOTICS", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62959636905643, 41.69968757139292]}, "community_area": "49", "latitude": "41.69968757139292", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "0513", "date": {"$date": 1369320240000}, "ward": "34", "_id": {"$oid": "51b34a193c002ed20d78cb59"}, "iucr": "2024", "longitude": "-87.62959636905643", "location_description": "RESIDENCE", "x_coordinate": "1176432", "updated_on": {"$date": 1370479286000}, "fbi_code": "18", "block": "002XX W 107TH ST"}
+{
+    "y_coordinate": "1833943", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287859", 
+    "id": "9158181", 
+    "primary_type": "NARCOTICS", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62959636905643, 
+            41.69968757139292
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.69968757139292", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "0513", 
+    "date": {
+        "$date": 1369320240000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b34a193c002ed20d78cb59"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.62959636905643", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1176432", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "18", 
+    "block": "002XX W 107TH ST"
+}

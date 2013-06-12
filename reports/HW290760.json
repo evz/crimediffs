@@ -1,1 +1,38 @@
-{"y_coordinate": "1866912", "year": "2013", "domestic": false, "case_number": "HW290760", "id": "9145344", "primary_type": "OTHER OFFENSE", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70454965242637, 41.79059932522445]}, "community_area": "63", "latitude": "41.79059932522445", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "0822", "date": {"$date": 1369386000000}, "ward": "14", "_id": {"$oid": "51aa13933c002ed20d78b0da"}, "iucr": "2825", "longitude": "-87.70454965242637", "location_description": "RESIDENCE", "x_coordinate": "1155721", "updated_on": {"$date": 1369960832000}, "fbi_code": "26", "block": "056XX S SAWYER AVE"}
+{
+    "y_coordinate": "1866912", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290760", 
+    "id": "9145344", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70454965242637, 
+            41.79059932522445
+        ]
+    }, 
+    "community_area": "63", 
+    "latitude": "41.79059932522445", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "0822", 
+    "date": {
+        "$date": 1369386000000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b0da"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.70454965242637", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1155721", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "26", 
+    "block": "056XX S SAWYER AVE"
+}

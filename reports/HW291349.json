@@ -1,1 +1,38 @@
-{"y_coordinate": "1871621", "year": "2013", "domestic": false, "case_number": "HW291349", "id": "9145884", "primary_type": "MOTOR VEHICLE THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73218289689153, 41.80367010418952]}, "community_area": "57", "latitude": "41.80367010418952", "type": "property", "description": "AUTOMOBILE", "beat": "0815", "date": {"$date": 1369515600000}, "ward": "23", "_id": {"$oid": "51b34a0e3c002ed20d78c911"}, "iucr": "910", "longitude": "-87.73218289689153", "location_description": "STREET", "x_coordinate": "1148152", "updated_on": {"$date": 1369874559000}, "fbi_code": "07", "block": "049XX S KOLIN AVE"}
+{
+    "y_coordinate": "1871621", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291349", 
+    "id": "9145884", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73218289689153, 
+            41.80367010418952
+        ]
+    }, 
+    "community_area": "57", 
+    "latitude": "41.80367010418952", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0815", 
+    "date": {
+        "$date": 1369515600000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c911"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.73218289689153", 
+    "location_description": "STREET", 
+    "x_coordinate": "1148152", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "07", 
+    "block": "049XX S KOLIN AVE"
+}

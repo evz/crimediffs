@@ -1,1 +1,38 @@
-{"y_coordinate": "1860345", "year": "2013", "domestic": false, "case_number": "HW299631", "id": "9154435", "primary_type": "THEFT", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68331039089873, 41.77245933830971]}, "community_area": "66", "latitude": "41.77245933830971", "type": "property", "description": "RETAIL THEFT", "beat": "0832", "date": {"$date": 1370078100000}, "ward": "15", "_id": {"$oid": "51b5f1213c002ed20d78d156"}, "iucr": "860", "longitude": "-87.68331039089873", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1161563", "updated_on": {"$date": 1370220023000}, "fbi_code": "06", "block": "066XX S WESTERN AVE"}
+{
+    "y_coordinate": "1860345", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299631", 
+    "id": "9154435", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68331039089873, 
+            41.77245933830971
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.77245933830971", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0832", 
+    "date": {
+        "$date": 1370078100000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d156"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.68331039089873", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1161563", 
+    "updated_on": {
+        "$date": 1370220023000
+    }, 
+    "fbi_code": "06", 
+    "block": "066XX S WESTERN AVE"
+}

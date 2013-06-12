@@ -1,1 +1,38 @@
-{"y_coordinate": "1868350", "year": "2013", "domestic": false, "case_number": "HW291186", "id": "9145693", "primary_type": "ROBBERY", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6279447774971, 41.794100771969234]}, "community_area": "40", "latitude": "41.794100771969234", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "0225", "date": {"$date": 1369537500000}, "ward": "3", "_id": {"$oid": "51b34a0c3c002ed20d78c838"}, "iucr": "320", "longitude": "-87.6279447774971", "location_description": "SIDEWALK", "x_coordinate": "1176601", "updated_on": {"$date": 1370479286000}, "fbi_code": "03", "block": "055XX S PERRY AVE"}
+{
+    "y_coordinate": "1868350", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291186", 
+    "id": "9145693", 
+    "primary_type": "ROBBERY", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6279447774971, 
+            41.794100771969234
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.794100771969234", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0225", 
+    "date": {
+        "$date": 1369537500000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51b34a0c3c002ed20d78c838"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.6279447774971", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1176601", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "03", 
+    "block": "055XX S PERRY AVE"
+}

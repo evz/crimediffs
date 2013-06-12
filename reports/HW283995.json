@@ -1,1 +1,38 @@
-{"y_coordinate": "1847676", "year": "2013", "domestic": false, "case_number": "HW283995", "id": "9138721", "primary_type": "MOTOR VEHICLE THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58213256627155, 41.73707480202744]}, "community_area": "45", "latitude": "41.73707480202744", "type": "property", "description": "AUTOMOBILE", "beat": "0412", "date": {"$date": 1369072800000}, "ward": "8", "_id": {"$oid": "51a4cd8f3c002ed20d78a450"}, "iucr": "910", "longitude": "-87.58213256627155", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1189275", "updated_on": {"$date": 1369356045000}, "fbi_code": "07", "block": "017XX E 87TH ST"}
+{
+    "y_coordinate": "1847676", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283995", 
+    "id": "9138721", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58213256627155, 
+            41.73707480202744
+        ]
+    }, 
+    "community_area": "45", 
+    "latitude": "41.73707480202744", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0412", 
+    "date": {
+        "$date": 1369072800000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a450"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.58213256627155", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1189275", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "07", 
+    "block": "017XX E 87TH ST"
+}

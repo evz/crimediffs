@@ -1,1 +1,38 @@
-{"y_coordinate": "1857808", "year": "2013", "domestic": false, "case_number": "HW300880", "id": "9155220", "primary_type": "CRIMINAL DAMAGE", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56305710064399, 41.76475374650635]}, "community_area": "43", "latitude": "41.76475374650635", "type": "quality", "description": "TO PROPERTY", "beat": "0334", "date": {"$date": 1370131200000}, "ward": "7", "_id": {"$oid": "51b5f11d3c002ed20d78cf0a"}, "iucr": "1310", "longitude": "-87.56305710064399", "location_description": "RESIDENCE", "x_coordinate": "1194391", "updated_on": {"$date": 1370306580000}, "fbi_code": "14", "block": "072XX S COLES AVE"}
+{
+    "y_coordinate": "1857808", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300880", 
+    "id": "9155220", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56305710064399, 
+            41.76475374650635
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76475374650635", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0334", 
+    "date": {
+        "$date": 1370131200000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78cf0a"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.56305710064399", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1194391", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "14", 
+    "block": "072XX S COLES AVE"
+}

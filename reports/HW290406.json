@@ -1,1 +1,38 @@
-{"y_coordinate": "1924629", "year": "2013", "domestic": false, "case_number": "HW290406", "id": "9145042", "primary_type": "THEFT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77314975685333, 41.94934454491442]}, "community_area": "15", "latitude": "41.94934454491442", "type": "property", "description": "FROM BUILDING", "beat": "1633", "date": {"$date": 1369485900000}, "ward": "38", "_id": {"$oid": "51b34a113c002ed20d78ca77"}, "iucr": "890", "longitude": "-87.77314975685333", "location_description": "BAR OR TAVERN", "x_coordinate": "1136636", "updated_on": {"$date": 1369874559000}, "fbi_code": "06", "block": "058XX W GRACE ST"}
+{
+    "y_coordinate": "1924629", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290406", 
+    "id": "9145042", 
+    "primary_type": "THEFT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77314975685333, 
+            41.94934454491442
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.94934454491442", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1633", 
+    "date": {
+        "$date": 1369485900000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca77"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.77314975685333", 
+    "location_description": "BAR OR TAVERN", 
+    "x_coordinate": "1136636", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "06", 
+    "block": "058XX W GRACE ST"
+}

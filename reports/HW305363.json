@@ -1,1 +1,38 @@
-{"y_coordinate": "1824177", "year": "2013", "domestic": false, "case_number": "HW305363", "id": "9160472", "primary_type": "ASSAULT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65744492084121, 41.67305354775403]}, "community_area": "53", "latitude": "41.67305354775403", "type": null, "description": "SIMPLE", "beat": "0524", "date": {"$date": 1369413000000}, "ward": "34", "_id": {"$oid": "51b34a153c002ed20d78cb3f"}, "iucr": "560", "longitude": "-87.65744492084121", "location_description": "STREET", "x_coordinate": "1168903", "updated_on": {"$date": 1370738354000}, "fbi_code": "08A", "block": "121XX S BISHOP ST"}
+{
+    "y_coordinate": "1824177", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW305363", 
+    "id": "9160472", 
+    "primary_type": "ASSAULT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65744492084121, 
+            41.67305354775403
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.67305354775403", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0524", 
+    "date": {
+        "$date": 1369413000000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b34a153c002ed20d78cb3f"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.65744492084121", 
+    "location_description": "STREET", 
+    "x_coordinate": "1168903", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "08A", 
+    "block": "121XX S BISHOP ST"
+}

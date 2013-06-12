@@ -1,1 +1,38 @@
-{"y_coordinate": "1861013", "year": "2013", "domestic": false, "case_number": "HW284255", "id": "9139137", "primary_type": "NARCOTICS", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70879155876305, 41.77443387429303]}, "community_area": "66", "latitude": "41.77443387429303", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0831", "date": {"$date": 1369130400000}, "ward": "15", "_id": {"$oid": "51a61f0e3c002ed20d78a94a"}, "iucr": "1811", "longitude": "-87.70879155876305", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1154607", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "034XX W 65TH PL"}
+{
+    "y_coordinate": "1861013", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284255", 
+    "id": "9139137", 
+    "primary_type": "NARCOTICS", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70879155876305, 
+            41.77443387429303
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.77443387429303", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0831", 
+    "date": {
+        "$date": 1369130400000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a94a"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.70879155876305", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1154607", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "034XX W 65TH PL"
+}

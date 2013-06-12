@@ -1,1 +1,38 @@
-{"y_coordinate": "1930744", "year": "2013", "domestic": false, "case_number": "HW285883", "id": "9140686", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65770500884011, 41.96550406695831]}, "community_area": "3", "latitude": "41.96550406695831", "type": "property", "description": "POCKET-PICKING", "beat": "1913", "date": {"$date": 1369137600000}, "ward": "46", "_id": {"$oid": "51a61f0e3c002ed20d78a8f5"}, "iucr": "870", "longitude": "-87.65770500884011", "location_description": "CTA BUS", "x_coordinate": "1167994", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "046XX N BROADWAY"}
+{
+    "y_coordinate": "1930744", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285883", 
+    "id": "9140686", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65770500884011, 
+            41.96550406695831
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.96550406695831", 
+    "type": "property", 
+    "description": "POCKET-PICKING", 
+    "beat": "1913", 
+    "date": {
+        "$date": 1369137600000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a8f5"
+    }, 
+    "iucr": "870", 
+    "longitude": "-87.65770500884011", 
+    "location_description": "CTA BUS", 
+    "x_coordinate": "1167994", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "046XX N BROADWAY"
+}

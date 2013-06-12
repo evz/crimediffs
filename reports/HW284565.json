@@ -1,1 +1,38 @@
-{"y_coordinate": "1859040", "year": "2013", "domestic": false, "case_number": "HW284565", "id": "9139534", "primary_type": "BATTERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64464974123158, 41.768652787757404]}, "community_area": "68", "latitude": "41.768652787757404", "type": null, "description": "SIMPLE", "beat": "0733", "date": {"$date": 1369145700000}, "ward": "6", "_id": {"$oid": "51a61f0d3c002ed20d78a89a"}, "iucr": "460", "longitude": "-87.64464974123158", "location_description": "CTA BUS", "x_coordinate": "1172120", "updated_on": {"$date": 1369356045000}, "fbi_code": "08B", "block": "069XX S HALSTED ST"}
+{
+    "y_coordinate": "1859040", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284565", 
+    "id": "9139534", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64464974123158, 
+            41.768652787757404
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.768652787757404", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0733", 
+    "date": {
+        "$date": 1369145700000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a61f0d3c002ed20d78a89a"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.64464974123158", 
+    "location_description": "CTA BUS", 
+    "x_coordinate": "1172120", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08B", 
+    "block": "069XX S HALSTED ST"
+}

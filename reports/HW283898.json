@@ -1,1 +1,38 @@
-{"y_coordinate": "1892241", "year": "2013", "domestic": false, "case_number": "HW283898", "id": "9138452", "primary_type": "OFFENSE INVOLVING CHILDREN", "district": "001", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62411935315423, 41.85964051818002]}, "community_area": "33", "latitude": "41.85964051818002", "type": null, "description": "CHILD ABUSE", "beat": "0131", "date": {"$date": 1369098000000}, "ward": "2", "_id": {"$oid": "51a4cd8b3c002ed20d78a31d"}, "iucr": "1750", "longitude": "-87.62411935315423", "location_description": "APARTMENT", "x_coordinate": "1177447", "updated_on": {"$date": 1369442383000}, "fbi_code": "20", "block": "016XX S MICHIGAN AVE"}
+{
+    "y_coordinate": "1892241", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283898", 
+    "id": "9138452", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62411935315423, 
+            41.85964051818002
+        ]
+    }, 
+    "community_area": "33", 
+    "latitude": "41.85964051818002", 
+    "type": null, 
+    "description": "CHILD ABUSE", 
+    "beat": "0131", 
+    "date": {
+        "$date": 1369098000000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a4cd8b3c002ed20d78a31d"
+    }, 
+    "iucr": "1750", 
+    "longitude": "-87.62411935315423", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1177447", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "20", 
+    "block": "016XX S MICHIGAN AVE"
+}

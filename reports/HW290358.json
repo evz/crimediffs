@@ -1,1 +1,38 @@
-{"y_coordinate": "1815990", "year": "2013", "domestic": false, "case_number": "HW290358", "id": "9145022", "primary_type": "NARCOTICS", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.54578106160209, 41.64987471111994]}, "community_area": "55", "latitude": "41.64987471111994", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0433", "date": {"$date": 1369484520000}, "ward": "10", "_id": {"$oid": "51b34a113c002ed20d78ca84"}, "iucr": "1811", "longitude": "-87.54578106160209", "location_description": "ALLEY", "x_coordinate": "1199487", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "135XX S BRANDON AVE"}
+{
+    "y_coordinate": "1815990", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290358", 
+    "id": "9145022", 
+    "primary_type": "NARCOTICS", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.54578106160209, 
+            41.64987471111994
+        ]
+    }, 
+    "community_area": "55", 
+    "latitude": "41.64987471111994", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0433", 
+    "date": {
+        "$date": 1369484520000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca84"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.54578106160209", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1199487", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "135XX S BRANDON AVE"
+}

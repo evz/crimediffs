@@ -1,1 +1,38 @@
-{"y_coordinate": "1941293", "year": "2013", "domestic": true, "case_number": "HW290675", "id": "9145373", "primary_type": "CRIM SEXUAL ASSAULT", "district": "024", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68255211726047, 41.99459615823093]}, "community_area": "2", "latitude": "41.99459615823093", "type": "violent", "description": "NON-AGGRAVATED", "beat": "2413", "date": {"$date": 1369488600000}, "ward": "50", "_id": {"$oid": "51b34a113c002ed20d78ca5e"}, "iucr": "281", "longitude": "-87.68255211726047", "location_description": "APARTMENT", "x_coordinate": "1161156", "updated_on": {"$date": 1369960832000}, "fbi_code": "02", "block": "062XX N HOYNE AVE"}
+{
+    "y_coordinate": "1941293", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290675", 
+    "id": "9145373", 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "district": "024", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68255211726047, 
+            41.99459615823093
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "41.99459615823093", 
+    "type": "violent", 
+    "description": "NON-AGGRAVATED", 
+    "beat": "2413", 
+    "date": {
+        "$date": 1369488600000
+    }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca5e"
+    }, 
+    "iucr": "281", 
+    "longitude": "-87.68255211726047", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1161156", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "02", 
+    "block": "062XX N HOYNE AVE"
+}

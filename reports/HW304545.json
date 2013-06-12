@@ -1,1 +1,33 @@
-{"community_area": "15", "_id": {"$oid": "51b742933c002ed20d78d1ca"}, "primary_type": "CRIMINAL TRESPASS", "beat": "1634", "year": "2013", "domestic": false, "iucr": "1330", "arrest": false, "location_description": "APARTMENT", "location": {"type": "Point", "coordinates": [-87.74742038100452, 41.95181489838471]}, "case_number": "HW304545", "date": {"$date": 1370322000000}, "updated_on": {"$date": 1370651988000}, "ward": "45", "fbi_code": "26", "type": null, "id": "9161162", "block": "039XX N CICERO AVE", "description": "TO LAND"}
+{
+    "_id": {
+        "$oid": "51b742933c002ed20d78d1ca"
+    }, 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "year": "2013", 
+    "beat": "1634", 
+    "case_number": "HW304545", 
+    "domestic": false, 
+    "iucr": "1330", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74742038100452, 
+            41.95181489838471
+        ]
+    }, 
+    "community_area": "15", 
+    "date": {
+        "$date": 1370322000000
+    }, 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "ward": "45", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9161162", 
+    "block": "039XX N CICERO AVE", 
+    "description": "TO LAND"
+}

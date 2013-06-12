@@ -1,1 +1,38 @@
-{"y_coordinate": "1910399", "year": "2013", "domestic": false, "case_number": "HW289902", "id": "9144692", "primary_type": "CRIM SEXUAL ASSAULT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72277658146841, 41.9100373939635]}, "community_area": "23", "latitude": "41.9100373939635", "type": "violent", "description": "AGGRAVATED: KNIFE/CUT INSTR", "beat": "2535", "date": {"$date": 1369435200000}, "ward": "30", "_id": {"$oid": "51aa138c3c002ed20d78ae50"}, "iucr": "263", "longitude": "-87.72277658146841", "location_description": "SIDEWALK", "x_coordinate": "1150441", "updated_on": {"$date": 1369787985000}, "fbi_code": "02", "block": "038XX W NORTH AVE"}
+{
+    "y_coordinate": "1910399", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289902", 
+    "id": "9144692", 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72277658146841, 
+            41.9100373939635
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.9100373939635", 
+    "type": "violent", 
+    "description": "AGGRAVATED: KNIFE/CUT INSTR", 
+    "beat": "2535", 
+    "date": {
+        "$date": 1369435200000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae50"
+    }, 
+    "iucr": "263", 
+    "longitude": "-87.72277658146841", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1150441", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "02", 
+    "block": "038XX W NORTH AVE"
+}

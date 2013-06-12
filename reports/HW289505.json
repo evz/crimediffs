@@ -1,1 +1,38 @@
-{"y_coordinate": "1921622", "year": "2013", "domestic": false, "case_number": "HW289505", "id": "9144385", "primary_type": "ASSAULT", "district": "017", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72697052937613, 41.940858080200265]}, "community_area": "21", "latitude": "41.940858080200265", "type": "violent", "description": "AGGRAVATED: OTHER DANG WEAPON", "beat": "1732", "date": {"$date": 1369420200000}, "ward": "31", "_id": {"$oid": "51aa138e3c002ed20d78af1d"}, "iucr": "530", "longitude": "-87.72697052937613", "location_description": "STREET", "x_coordinate": "1149220", "updated_on": {"$date": 1370392932000}, "fbi_code": "04A", "block": "033XX N MILWAUKEE AVE"}
+{
+    "y_coordinate": "1921622", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289505", 
+    "id": "9144385", 
+    "primary_type": "ASSAULT", 
+    "district": "017", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72697052937613, 
+            41.940858080200265
+        ]
+    }, 
+    "community_area": "21", 
+    "latitude": "41.940858080200265", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "1732", 
+    "date": {
+        "$date": 1369420200000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51aa138e3c002ed20d78af1d"
+    }, 
+    "iucr": "530", 
+    "longitude": "-87.72697052937613", 
+    "location_description": "STREET", 
+    "x_coordinate": "1149220", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "04A", 
+    "block": "033XX N MILWAUKEE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1915463", "year": "2013", "domestic": false, "case_number": "HW300469", "id": "9154940", "primary_type": "WEAPONS VIOLATION", "district": "025", "arrest": true, "location": {"type": "Point", "coordinates": [-87.7502979076412, 41.924077223520655]}, "community_area": "19", "latitude": "41.924077223520655", "type": null, "description": "UNLAWFUL POSS OF HANDGUN", "beat": "2522", "date": {"$date": 1370120100000}, "ward": "31", "_id": {"$oid": "51b5f11e3c002ed20d78cf95"}, "iucr": "143A", "longitude": "-87.7502979076412", "location_description": "ALLEY", "x_coordinate": "1142915", "updated_on": {"$date": 1370392932000}, "fbi_code": "15", "block": "049XX W FULLERTON AVE"}
+{
+    "y_coordinate": "1915463", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300469", 
+    "id": "9154940", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "025", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7502979076412, 
+            41.924077223520655
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.924077223520655", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "2522", 
+    "date": {
+        "$date": 1370120100000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf95"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.7502979076412", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1142915", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "15", 
+    "block": "049XX W FULLERTON AVE"
+}

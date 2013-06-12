@@ -1,1 +1,38 @@
-{"y_coordinate": "1853445", "year": "2013", "domestic": false, "case_number": "HW285221", "id": "9139987", "primary_type": "ASSAULT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60208107726349, 41.753035383804246]}, "community_area": "69", "latitude": "41.753035383804246", "type": null, "description": "AGG PO HANDS NO/MIN INJURY", "beat": "0624", "date": {"$date": 1369168320000}, "ward": "8", "_id": {"$oid": "51a61f093c002ed20d78a754"}, "iucr": "554", "longitude": "-87.60208107726349", "location_description": "STREET", "x_coordinate": "1183781", "updated_on": {"$date": 1369442383000}, "fbi_code": "08A", "block": "009XX E 78TH ST"}
+{
+    "y_coordinate": "1853445", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285221", 
+    "id": "9139987", 
+    "primary_type": "ASSAULT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60208107726349, 
+            41.753035383804246
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.753035383804246", 
+    "type": null, 
+    "description": "AGG PO HANDS NO/MIN INJURY", 
+    "beat": "0624", 
+    "date": {
+        "$date": 1369168320000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51a61f093c002ed20d78a754"
+    }, 
+    "iucr": "554", 
+    "longitude": "-87.60208107726349", 
+    "location_description": "STREET", 
+    "x_coordinate": "1183781", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08A", 
+    "block": "009XX E 78TH ST"
+}

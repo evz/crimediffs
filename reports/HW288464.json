@@ -1,1 +1,38 @@
-{"y_coordinate": "1867213", "year": "2013", "domestic": false, "case_number": "HW288464", "id": "9143368", "primary_type": "ASSAULT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67437101949338, 41.7912562111979]}, "community_area": "67", "latitude": "41.7912562111979", "type": "violent", "description": "AGGRAVATED: HANDGUN", "beat": "0715", "date": {"$date": 1369371360000}, "ward": "15", "_id": {"$oid": "51aa13933c002ed20d78b13e"}, "iucr": "051A", "longitude": "-87.67437101949338", "location_description": "APARTMENT", "x_coordinate": "1163949", "updated_on": {"$date": 1369615194000}, "fbi_code": "04A", "block": "056XX S DAMEN AVE"}
+{
+    "y_coordinate": "1867213", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288464", 
+    "id": "9143368", 
+    "primary_type": "ASSAULT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67437101949338, 
+            41.7912562111979
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.7912562111979", 
+    "type": "violent", 
+    "description": "AGGRAVATED: HANDGUN", 
+    "beat": "0715", 
+    "date": {
+        "$date": 1369371360000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b13e"
+    }, 
+    "iucr": "051A", 
+    "longitude": "-87.67437101949338", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1163949", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "04A", 
+    "block": "056XX S DAMEN AVE"
+}

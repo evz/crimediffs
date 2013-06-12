@@ -1,1 +1,38 @@
-{"y_coordinate": "1911580", "year": "2013", "domestic": false, "case_number": "HW301158", "id": "9155785", "primary_type": "OTHER OFFENSE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76177645459398, 41.913479080126464]}, "community_area": "25", "latitude": "41.913479080126464", "type": null, "description": "OTHER VEHICLE OFFENSE", "beat": "2532", "date": {"$date": 1369130400000}, "ward": "37", "_id": {"$oid": "51b34a213c002ed20d78cb88"}, "iucr": "5002", "longitude": "-87.76177645459398", "location_description": "STREET", "x_coordinate": "1139817", "updated_on": {"$date": 1370565766000}, "fbi_code": "26", "block": "018XX N LOTUS AVE"}
+{
+    "y_coordinate": "1911580", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301158", 
+    "id": "9155785", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76177645459398, 
+            41.913479080126464
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.913479080126464", 
+    "type": null, 
+    "description": "OTHER VEHICLE OFFENSE", 
+    "beat": "2532", 
+    "date": {
+        "$date": 1369130400000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51b34a213c002ed20d78cb88"
+    }, 
+    "iucr": "5002", 
+    "longitude": "-87.76177645459398", 
+    "location_description": "STREET", 
+    "x_coordinate": "1139817", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "26", 
+    "block": "018XX N LOTUS AVE"
+}

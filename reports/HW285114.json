@@ -1,1 +1,38 @@
-{"y_coordinate": "1932094", "year": "2013", "domestic": false, "case_number": "HW285114", "id": "9139839", "primary_type": "OTHER OFFENSE", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71109640168001, 41.969510540199764]}, "community_area": "14", "latitude": "41.969510540199764", "type": null, "description": "TELEPHONE THREAT", "beat": "1713", "date": {"$date": 1369081020000}, "ward": "39", "_id": {"$oid": "51a4cd8e3c002ed20d78a3c9"}, "iucr": "2820", "longitude": "-87.71109640168001", "location_description": "OTHER", "x_coordinate": "1153463", "updated_on": {"$date": 1370047283000}, "fbi_code": "26", "block": "048XX N SPAULDING AVE"}
+{
+    "y_coordinate": "1932094", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285114", 
+    "id": "9139839", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71109640168001, 
+            41.969510540199764
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.969510540199764", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "1713", 
+    "date": {
+        "$date": 1369081020000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3c9"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.71109640168001", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1153463", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "26", 
+    "block": "048XX N SPAULDING AVE"
+}

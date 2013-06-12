@@ -1,1 +1,38 @@
-{"y_coordinate": "1852909", "year": "2013", "domestic": false, "case_number": "HW288223", "id": "9143095", "primary_type": "NARCOTICS", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.59407989056209, 41.751513235859825]}, "community_area": "45", "latitude": "41.751513235859825", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0411", "date": {"$date": 1369341600000}, "ward": "8", "_id": {"$oid": "51aa13953c002ed20d78b1fc"}, "iucr": "1811", "longitude": "-87.59407989056209", "location_description": "SIDEWALK", "x_coordinate": "1185969", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "012XX E 79TH ST"}
+{
+    "y_coordinate": "1852909", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288223", 
+    "id": "9143095", 
+    "primary_type": "NARCOTICS", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59407989056209, 
+            41.751513235859825
+        ]
+    }, 
+    "community_area": "45", 
+    "latitude": "41.751513235859825", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0411", 
+    "date": {
+        "$date": 1369341600000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b1fc"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.59407989056209", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1185969", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "012XX E 79TH ST"
+}

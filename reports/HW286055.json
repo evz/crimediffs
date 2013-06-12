@@ -1,1 +1,38 @@
-{"y_coordinate": "1929274", "year": "2013", "domestic": false, "case_number": "HW286055", "id": "9141044", "primary_type": "CRIMINAL TRESPASS", "district": "019", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66633233262971, 41.96152053246927]}, "community_area": "6", "latitude": "41.96152053246927", "type": null, "description": "TO LAND", "beat": "1912", "date": {"$date": 1369228860000}, "ward": "47", "_id": {"$oid": "51a7708b3c002ed20d78ac49"}, "iucr": "1330", "longitude": "-87.66633233262971", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1165659", "updated_on": {"$date": 1369442383000}, "fbi_code": "26", "block": "014XX W MONTROSE AVE"}
+{
+    "y_coordinate": "1929274", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286055", 
+    "id": "9141044", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "019", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66633233262971, 
+            41.96152053246927
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.96152053246927", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "1912", 
+    "date": {
+        "$date": 1369228860000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac49"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.66633233262971", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1165659", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "26", 
+    "block": "014XX W MONTROSE AVE"
+}

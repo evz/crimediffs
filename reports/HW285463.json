@@ -1,1 +1,38 @@
-{"y_coordinate": "1840337", "year": "2013", "domestic": false, "case_number": "HW285463", "id": "9140094", "primary_type": "CRIMINAL DAMAGE", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.56969491415249, 41.71685231552859]}, "community_area": "51", "latitude": "41.71685231552859", "type": "quality", "description": "TO PROPERTY", "beat": "0431", "date": {"$date": 1369191300000}, "ward": "7", "_id": {"$oid": "51a61f053c002ed20d78a67d"}, "iucr": "1310", "longitude": "-87.56969491415249", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1192735", "updated_on": {"$date": 1369356045000}, "fbi_code": "14", "block": "097XX S MERRION AVE"}
+{
+    "y_coordinate": "1840337", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285463", 
+    "id": "9140094", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56969491415249, 
+            41.71685231552859
+        ]
+    }, 
+    "community_area": "51", 
+    "latitude": "41.71685231552859", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0431", 
+    "date": {
+        "$date": 1369191300000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51a61f053c002ed20d78a67d"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.56969491415249", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1192735", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "14", 
+    "block": "097XX S MERRION AVE"
+}

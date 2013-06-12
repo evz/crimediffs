@@ -1,1 +1,38 @@
-{"y_coordinate": "1870531", "year": "2013", "domestic": false, "case_number": "HW288434", "id": "9143332", "primary_type": "OTHER OFFENSE", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.744342559972, 41.80074182110701]}, "community_area": "56", "latitude": "41.80074182110701", "type": null, "description": "FALSE/STOLEN/ALTERED TRP", "beat": "0814", "date": {"$date": 1369362180000}, "ward": "23", "_id": {"$oid": "51aa13943c002ed20d78b150"}, "iucr": "502P", "longitude": "-87.744342559972", "location_description": "STREET", "x_coordinate": "1144844", "updated_on": {"$date": 1369528777000}, "fbi_code": "26", "block": "050XX S LA CROSSE AVE"}
+{
+    "y_coordinate": "1870531", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288434", 
+    "id": "9143332", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.744342559972, 
+            41.80074182110701
+        ]
+    }, 
+    "community_area": "56", 
+    "latitude": "41.80074182110701", 
+    "type": null, 
+    "description": "FALSE/STOLEN/ALTERED TRP", 
+    "beat": "0814", 
+    "date": {
+        "$date": 1369362180000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b150"
+    }, 
+    "iucr": "502P", 
+    "longitude": "-87.744342559972", 
+    "location_description": "STREET", 
+    "x_coordinate": "1144844", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "26", 
+    "block": "050XX S LA CROSSE AVE"
+}

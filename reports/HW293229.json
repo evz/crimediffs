@@ -1,1 +1,38 @@
-{"y_coordinate": "1930653", "year": "2013", "domestic": false, "case_number": "HW293229", "id": "9147373", "primary_type": "OTHER OFFENSE", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.8368321204696, 41.96616876175348]}, "community_area": "76", "latitude": "41.96616876175348", "type": null, "description": "OTHER VEHICLE OFFENSE", "beat": "1614", "date": {"$date": 1369476000000}, "ward": "36", "_id": {"$oid": "51b34a123c002ed20d78cad0"}, "iucr": "5002", "longitude": "-87.8368321204696", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1119277", "updated_on": {"$date": 1370824784000}, "fbi_code": "26", "block": "047XX N CUMBERLAND AVE"}
+{
+    "y_coordinate": "1930653", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293229", 
+    "id": "9147373", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.8368321204696, 
+            41.96616876175348
+        ]
+    }, 
+    "community_area": "76", 
+    "latitude": "41.96616876175348", 
+    "type": null, 
+    "description": "OTHER VEHICLE OFFENSE", 
+    "beat": "1614", 
+    "date": {
+        "$date": 1369476000000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cad0"
+    }, 
+    "iucr": "5002", 
+    "longitude": "-87.8368321204696", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1119277", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "26", 
+    "block": "047XX N CUMBERLAND AVE"
+}

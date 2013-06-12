@@ -1,1 +1,38 @@
-{"y_coordinate": "1915417", "year": "2013", "domestic": true, "case_number": "HW288328", "id": "9143309", "primary_type": "BATTERY", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64607502812709, 41.923374473356716]}, "community_area": "7", "latitude": "41.923374473356716", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1812", "date": {"$date": 1369348800000}, "ward": "43", "_id": {"$oid": "51aa13943c002ed20d78b1a9"}, "iucr": "486", "longitude": "-87.64607502812709", "location_description": "BAR OR TAVERN", "x_coordinate": "1171280", "updated_on": {"$date": 1369787985000}, "fbi_code": "08B", "block": "022XX N LINCOLN AVE"}
+{
+    "y_coordinate": "1915417", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW288328", 
+    "id": "9143309", 
+    "primary_type": "BATTERY", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64607502812709, 
+            41.923374473356716
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.923374473356716", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1812", 
+    "date": {
+        "$date": 1369348800000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1a9"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.64607502812709", 
+    "location_description": "BAR OR TAVERN", 
+    "x_coordinate": "1171280", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "08B", 
+    "block": "022XX N LINCOLN AVE"
+}

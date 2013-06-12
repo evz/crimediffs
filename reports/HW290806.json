@@ -1,1 +1,38 @@
-{"y_coordinate": "1932217", "year": "2013", "domestic": false, "case_number": "HW290806", "id": "9145390", "primary_type": "NARCOTICS", "district": "016", "arrest": true, "location": {"type": "Point", "coordinates": [-87.7628994411891, 41.9701171629477]}, "community_area": "11", "latitude": "41.9701171629477", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1623", "date": {"$date": 1369507320000}, "ward": "45", "_id": {"$oid": "51b34a0f3c002ed20d78c977"}, "iucr": "1811", "longitude": "-87.7628994411891", "location_description": "SIDEWALK", "x_coordinate": "1139374", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "049XX N MILWAUKEE AVE"}
+{
+    "y_coordinate": "1932217", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290806", 
+    "id": "9145390", 
+    "primary_type": "NARCOTICS", 
+    "district": "016", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7628994411891, 
+            41.9701171629477
+        ]
+    }, 
+    "community_area": "11", 
+    "latitude": "41.9701171629477", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1623", 
+    "date": {
+        "$date": 1369507320000
+    }, 
+    "ward": "45", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c977"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.7628994411891", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1139374", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "049XX N MILWAUKEE AVE"
+}

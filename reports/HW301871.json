@@ -1,1 +1,38 @@
-{"y_coordinate": "1860928", "year": "2013", "domestic": false, "case_number": "HW301871", "id": "9156043", "primary_type": "CRIMINAL DAMAGE", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71961177028972, 41.77425891976972]}, "community_area": "65", "latitude": "41.77425891976972", "type": "quality", "description": "TO PROPERTY", "beat": "0833", "date": {"$date": 1370220600000}, "ward": "13", "_id": {"$oid": "51b5f1153c002ed20d78cbc9"}, "iucr": "1310", "longitude": "-87.71961177028972", "location_description": "RESIDENCE", "x_coordinate": "1151656", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "038XX W 65TH PL"}
+{
+    "y_coordinate": "1860928", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301871", 
+    "id": "9156043", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71961177028972, 
+            41.77425891976972
+        ]
+    }, 
+    "community_area": "65", 
+    "latitude": "41.77425891976972", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0833", 
+    "date": {
+        "$date": 1370220600000
+    }, 
+    "ward": "13", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbc9"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.71961177028972", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1151656", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "038XX W 65TH PL"
+}

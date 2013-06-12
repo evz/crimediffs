@@ -1,1 +1,38 @@
-{"y_coordinate": "1895152", "year": "2013", "domestic": false, "case_number": "HW290556", "id": "9145186", "primary_type": "DECEPTIVE PRACTICE", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62728001479849, 41.86764850578894]}, "community_area": "32", "latitude": "41.86764850578894", "type": null, "description": "CREDIT CARD FRAUD", "beat": "0123", "date": {"$date": 1369231200000}, "ward": "2", "_id": {"$oid": "51a7708b3c002ed20d78ac1f"}, "iucr": "1150", "longitude": "-87.62728001479849", "location_description": "CTA PLATFORM", "x_coordinate": "1176562", "updated_on": {"$date": 1369701613000}, "fbi_code": "11", "block": "011XX S STATE ST"}
+{
+    "y_coordinate": "1895152", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290556", 
+    "id": "9145186", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62728001479849, 
+            41.86764850578894
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.86764850578894", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "0123", 
+    "date": {
+        "$date": 1369231200000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac1f"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.62728001479849", 
+    "location_description": "CTA PLATFORM", 
+    "x_coordinate": "1176562", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "11", 
+    "block": "011XX S STATE ST"
+}

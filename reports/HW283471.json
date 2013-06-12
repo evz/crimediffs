@@ -1,1 +1,38 @@
-{"y_coordinate": "1921347", "year": "2013", "domestic": false, "case_number": "HW283471", "id": "9138066", "primary_type": "BATTERY", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69799028982771, 41.939946712257296]}, "community_area": "21", "latitude": "41.939946712257296", "type": null, "description": "SIMPLE", "beat": "1733", "date": {"$date": 1369075680000}, "ward": "33", "_id": {"$oid": "51a4cd8f3c002ed20d78a427"}, "iucr": "460", "longitude": "-87.69799028982771", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1157107", "updated_on": {"$date": 1369269615000}, "fbi_code": "08B", "block": "032XX N CALIFORNIA AVE"}
+{
+    "y_coordinate": "1921347", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283471", 
+    "id": "9138066", 
+    "primary_type": "BATTERY", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69799028982771, 
+            41.939946712257296
+        ]
+    }, 
+    "community_area": "21", 
+    "latitude": "41.939946712257296", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1733", 
+    "date": {
+        "$date": 1369075680000
+    }, 
+    "ward": "33", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a427"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.69799028982771", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1157107", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "08B", 
+    "block": "032XX N CALIFORNIA AVE"
+}

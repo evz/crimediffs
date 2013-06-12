@@ -1,1 +1,38 @@
-{"y_coordinate": "1913546", "year": "2013", "domestic": false, "case_number": "HW302884", "id": "9157455", "primary_type": "NARCOTICS", "district": "014", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71013982570135, 41.91860560442373]}, "community_area": "22", "latitude": "41.91860560442373", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1413", "date": {"$date": 1370279400000}, "ward": "35", "_id": {"$oid": "51b7429b3c002ed20d78d35a"}, "iucr": "1811", "longitude": "-87.71013982570135", "location_description": "PARK PROPERTY", "x_coordinate": "1153858", "updated_on": {"$date": 1370738354000}, "fbi_code": "18", "block": "020XX N SPAULDING AVE"}
+{
+    "y_coordinate": "1913546", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302884", 
+    "id": "9157455", 
+    "primary_type": "NARCOTICS", 
+    "district": "014", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71013982570135, 
+            41.91860560442373
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.91860560442373", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1413", 
+    "date": {
+        "$date": 1370279400000
+    }, 
+    "ward": "35", 
+    "_id": {
+        "$oid": "51b7429b3c002ed20d78d35a"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.71013982570135", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1153858", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "18", 
+    "block": "020XX N SPAULDING AVE"
+}

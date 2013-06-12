@@ -1,1 +1,38 @@
-{"y_coordinate": "1911588", "year": "2013", "domestic": false, "case_number": "HW293396", "id": "9147744", "primary_type": "THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.767915264602, 41.91353142599736]}, "community_area": "25", "latitude": "41.91353142599736", "type": "property", "description": "$500 AND UNDER", "beat": "2531", "date": {"$date": 1369422000000}, "ward": "29", "_id": {"$oid": "51aa138e3c002ed20d78af06"}, "iucr": "820", "longitude": "-87.767915264602", "location_description": "VEHICLE-COMMERCIAL", "x_coordinate": "1138146", "updated_on": {"$date": 1369874559000}, "fbi_code": "06", "block": "018XX N MAJOR AVE"}
+{
+    "y_coordinate": "1911588", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293396", 
+    "id": "9147744", 
+    "primary_type": "THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.767915264602, 
+            41.91353142599736
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.91353142599736", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2531", 
+    "date": {
+        "$date": 1369422000000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51aa138e3c002ed20d78af06"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.767915264602", 
+    "location_description": "VEHICLE-COMMERCIAL", 
+    "x_coordinate": "1138146", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "06", 
+    "block": "018XX N MAJOR AVE"
+}

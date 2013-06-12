@@ -1,1 +1,38 @@
-{"y_coordinate": "1916443", "year": "2013", "domestic": false, "case_number": "HW290474", "id": "9145143", "primary_type": "CRIMINAL DAMAGE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76594195735535, 41.92684493823111]}, "community_area": "19", "latitude": "41.92684493823111", "type": "quality", "description": "TO VEHICLE", "beat": "2515", "date": {"$date": 1369440060000}, "ward": "30", "_id": {"$oid": "51aa138c3c002ed20d78ae10"}, "iucr": "1320", "longitude": "-87.76594195735535", "location_description": "STREET", "x_coordinate": "1138651", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "025XX N CENTRAL AVE"}
+{
+    "y_coordinate": "1916443", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290474", 
+    "id": "9145143", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76594195735535, 
+            41.92684493823111
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.92684493823111", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "2515", 
+    "date": {
+        "$date": 1369440060000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae10"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.76594195735535", 
+    "location_description": "STREET", 
+    "x_coordinate": "1138651", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "025XX N CENTRAL AVE"
+}

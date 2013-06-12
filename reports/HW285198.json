@@ -1,1 +1,38 @@
-{"y_coordinate": "1936123", "year": "2013", "domestic": true, "case_number": "HW285198", "id": "9139895", "primary_type": "ASSAULT", "district": "020", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68947448661314, 41.980447701572935]}, "community_area": "4", "latitude": "41.980447701572935", "type": null, "description": "SIMPLE", "beat": "2011", "date": {"$date": 1369168680000}, "ward": "40", "_id": {"$oid": "51a61f093c002ed20d78a751"}, "iucr": "560", "longitude": "-87.68947448661314", "location_description": "SIDEWALK", "x_coordinate": "1159313", "updated_on": {"$date": 1369356045000}, "fbi_code": "08A", "block": "054XX N WESTERN AVE"}
+{
+    "y_coordinate": "1936123", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285198", 
+    "id": "9139895", 
+    "primary_type": "ASSAULT", 
+    "district": "020", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68947448661314, 
+            41.980447701572935
+        ]
+    }, 
+    "community_area": "4", 
+    "latitude": "41.980447701572935", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2011", 
+    "date": {
+        "$date": 1369168680000
+    }, 
+    "ward": "40", 
+    "_id": {
+        "$oid": "51a61f093c002ed20d78a751"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.68947448661314", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1159313", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08A", 
+    "block": "054XX N WESTERN AVE"
+}

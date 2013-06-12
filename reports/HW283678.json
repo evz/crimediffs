@@ -1,1 +1,38 @@
-{"y_coordinate": "1897616", "year": "2013", "domestic": false, "case_number": "HW283678", "id": "9138202", "primary_type": "PUBLIC PEACE VIOLATION", "district": "001", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62935710961676, 41.87442308179879]}, "community_area": "32", "latitude": "41.87442308179879", "type": null, "description": "RECKLESS CONDUCT", "beat": "0123", "date": {"$date": 1369084500000}, "ward": "2", "_id": {"$oid": "51a4cd8e3c002ed20d78a3a4"}, "iucr": "470", "longitude": "-87.62935710961676", "location_description": "STREET", "x_coordinate": "1175976", "updated_on": {"$date": 1369269615000}, "fbi_code": "24", "block": "006XX S DEARBORN ST"}
+{
+    "y_coordinate": "1897616", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283678", 
+    "id": "9138202", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62935710961676, 
+            41.87442308179879
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.87442308179879", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "0123", 
+    "date": {
+        "$date": 1369084500000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3a4"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.62935710961676", 
+    "location_description": "STREET", 
+    "x_coordinate": "1175976", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "24", 
+    "block": "006XX S DEARBORN ST"
+}

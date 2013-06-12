@@ -1,1 +1,38 @@
-{"y_coordinate": "1922581", "year": "2013", "domestic": false, "case_number": "HW285574", "id": "9140339", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68830477724713, 41.94327907230972]}, "community_area": "5", "latitude": "41.94327907230972", "type": "property", "description": "RETAIL THEFT", "beat": "1921", "date": {"$date": 1369208100000}, "ward": "47", "_id": {"$oid": "51a7708d3c002ed20d78ad0a"}, "iucr": "860", "longitude": "-87.68830477724713", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1159733", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "034XX N WESTERN AVE"}
+{
+    "y_coordinate": "1922581", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285574", 
+    "id": "9140339", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68830477724713, 
+            41.94327907230972
+        ]
+    }, 
+    "community_area": "5", 
+    "latitude": "41.94327907230972", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "1921", 
+    "date": {
+        "$date": 1369208100000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad0a"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.68830477724713", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1159733", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "034XX N WESTERN AVE"
+}

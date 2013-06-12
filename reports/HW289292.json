@@ -1,1 +1,38 @@
-{"y_coordinate": "1915402", "year": "2013", "domestic": false, "case_number": "HW289292", "id": "9144206", "primary_type": "THEFT", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67747277519182, 41.92351694625347]}, "community_area": "22", "latitude": "41.92351694625347", "type": "property", "description": "$500 AND UNDER", "beat": "1432", "date": {"$date": 1369267200000}, "ward": "32", "_id": {"$oid": "51a770873c002ed20d78aa51"}, "iucr": "820", "longitude": "-87.67747277519182", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1162735", "updated_on": {"$date": 1369874559000}, "fbi_code": "06", "block": "023XX N LISTER AVE"}
+{
+    "y_coordinate": "1915402", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289292", 
+    "id": "9144206", 
+    "primary_type": "THEFT", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67747277519182, 
+            41.92351694625347
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.92351694625347", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1432", 
+    "date": {
+        "$date": 1369267200000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51a770873c002ed20d78aa51"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.67747277519182", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1162735", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "06", 
+    "block": "023XX N LISTER AVE"
+}

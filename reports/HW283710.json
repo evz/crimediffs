@@ -1,1 +1,38 @@
-{"y_coordinate": "1921467", "year": "2013", "domestic": false, "case_number": "HW283710", "id": "9138204", "primary_type": "OTHER OFFENSE", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64299331557916, 41.93995851402909]}, "community_area": "6", "latitude": "41.93995851402909", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "1934", "date": {"$date": 1369069200000}, "ward": "44", "_id": {"$oid": "51a4cd903c002ed20d78a486"}, "iucr": "2825", "longitude": "-87.64299331557916", "location_description": "APARTMENT", "x_coordinate": "1172070", "updated_on": {"$date": 1369356045000}, "fbi_code": "26", "block": "005XX W BELMONT AVE"}
+{
+    "y_coordinate": "1921467", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283710", 
+    "id": "9138204", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64299331557916, 
+            41.93995851402909
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.93995851402909", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "1934", 
+    "date": {
+        "$date": 1369069200000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a486"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.64299331557916", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1172070", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "26", 
+    "block": "005XX W BELMONT AVE"
+}

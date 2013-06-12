@@ -1,1 +1,38 @@
-{"y_coordinate": "1949307", "year": "2013", "domestic": false, "case_number": "HW301467", "id": "9155739", "primary_type": "CRIMINAL DAMAGE", "district": "024", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68145954561514, 42.01658187171394]}, "community_area": "1", "latitude": "42.01658187171394", "type": "quality", "description": "TO PROPERTY", "beat": "2424", "date": {"$date": 1370193900000}, "ward": "49", "_id": {"$oid": "51b5f1193c002ed20d78ccf8"}, "iucr": "1310", "longitude": "-87.68145954561514", "location_description": "APARTMENT", "x_coordinate": "1161392", "updated_on": {"$date": 1370479286000}, "fbi_code": "14", "block": "020XX W FARGO AVE"}
+{
+    "y_coordinate": "1949307", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301467", 
+    "id": "9155739", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "024", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68145954561514, 
+            42.01658187171394
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "42.01658187171394", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "2424", 
+    "date": {
+        "$date": 1370193900000
+    }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78ccf8"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.68145954561514", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1161392", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "14", 
+    "block": "020XX W FARGO AVE"
+}

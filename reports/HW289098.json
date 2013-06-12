@@ -1,1 +1,38 @@
-{"y_coordinate": "1890723", "year": "2013", "domestic": false, "case_number": "HW289098", "id": "9144291", "primary_type": "BATTERY", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72990470696487, 41.85607925861581]}, "community_area": "29", "latitude": "41.85607925861581", "type": "violent", "description": "AGGRAVATED: OTHER DANG WEAPON", "beat": "1012", "date": {"$date": 1369404000000}, "ward": "24", "_id": {"$oid": "51aa13913c002ed20d78b00a"}, "iucr": "430", "longitude": "-87.72990470696487", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1148639", "updated_on": {"$date": 1369615194000}, "fbi_code": "04B", "block": "018XX S KEELER AVE"}
+{
+    "y_coordinate": "1890723", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289098", 
+    "id": "9144291", 
+    "primary_type": "BATTERY", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72990470696487, 
+            41.85607925861581
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85607925861581", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "1012", 
+    "date": {
+        "$date": 1369404000000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b00a"
+    }, 
+    "iucr": "430", 
+    "longitude": "-87.72990470696487", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1148639", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "04B", 
+    "block": "018XX S KEELER AVE"
+}

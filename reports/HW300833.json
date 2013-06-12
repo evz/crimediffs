@@ -1,1 +1,38 @@
-{"y_coordinate": "1885760", "year": "2013", "domestic": true, "case_number": "HW300833", "id": "9155190", "primary_type": "BATTERY", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.65461988042068, 41.842039277392296]}, "community_area": "60", "latitude": "41.842039277392296", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0913", "date": {"$date": 1370149200000}, "ward": "11", "_id": {"$oid": "51b5f11c3c002ed20d78ce6a"}, "iucr": "486", "longitude": "-87.65461988042068", "location_description": "APARTMENT", "x_coordinate": "1169189", "updated_on": {"$date": 1370306580000}, "fbi_code": "08B", "block": "028XX S KEELEY ST"}
+{
+    "y_coordinate": "1885760", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300833", 
+    "id": "9155190", 
+    "primary_type": "BATTERY", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65461988042068, 
+            41.842039277392296
+        ]
+    }, 
+    "community_area": "60", 
+    "latitude": "41.842039277392296", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0913", 
+    "date": {
+        "$date": 1370149200000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce6a"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.65461988042068", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1169189", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08B", 
+    "block": "028XX S KEELEY ST"
+}

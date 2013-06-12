@@ -1,1 +1,38 @@
-{"y_coordinate": "1869100", "year": "2013", "domestic": false, "case_number": "HW290290", "id": "9145070", "primary_type": "THEFT", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63040479963011, 41.7961740634642]}, "community_area": "37", "latitude": "41.7961740634642", "type": "property", "description": "FINANCIAL ID THEFT: OVER $300", "beat": "0225", "date": {"$date": 1369386000000}, "ward": "3", "_id": {"$oid": "51aa13933c002ed20d78b0e4"}, "iucr": "840", "longitude": "-87.63040479963011", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1175924", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "054XX S WENTWORTH AVE"}
+{
+    "y_coordinate": "1869100", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290290", 
+    "id": "9145070", 
+    "primary_type": "THEFT", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63040479963011, 
+            41.7961740634642
+        ]
+    }, 
+    "community_area": "37", 
+    "latitude": "41.7961740634642", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "0225", 
+    "date": {
+        "$date": 1369386000000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b0e4"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.63040479963011", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1175924", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "054XX S WENTWORTH AVE"
+}

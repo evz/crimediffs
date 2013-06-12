@@ -1,1 +1,38 @@
-{"y_coordinate": "1862213", "year": "2013", "domestic": false, "case_number": "HW285142", "id": "9139744", "primary_type": "PROSTITUTION", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66401936955322, 41.77747491408103]}, "community_area": "67", "latitude": "41.77747491408103", "type": "quality", "description": "SOLICIT ON PUBLIC WAY", "beat": "0725", "date": {"$date": 1369165440000}, "ward": "17", "_id": {"$oid": "51a61f0a3c002ed20d78a77d"}, "iucr": "1506", "longitude": "-87.66401936955322", "location_description": "STREET", "x_coordinate": "1166811", "updated_on": {"$date": 1369528777000}, "fbi_code": "16", "block": "064XX S ASHLAND AVE"}
+{
+    "y_coordinate": "1862213", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285142", 
+    "id": "9139744", 
+    "primary_type": "PROSTITUTION", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66401936955322, 
+            41.77747491408103
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.77747491408103", 
+    "type": "quality", 
+    "description": "SOLICIT ON PUBLIC WAY", 
+    "beat": "0725", 
+    "date": {
+        "$date": 1369165440000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a77d"
+    }, 
+    "iucr": "1506", 
+    "longitude": "-87.66401936955322", 
+    "location_description": "STREET", 
+    "x_coordinate": "1166811", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "16", 
+    "block": "064XX S ASHLAND AVE"
+}

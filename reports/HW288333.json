@@ -1,1 +1,38 @@
-{"y_coordinate": "1823906", "year": "2013", "domestic": false, "case_number": "HW288333", "id": "9143276", "primary_type": "DECEPTIVE PRACTICE", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64313469735161, 41.67222478440283]}, "community_area": "53", "latitude": "41.67222478440283", "type": null, "description": "THEFT OF LOST/MISLAID PROP", "beat": "0524", "date": {"$date": 1369328400000}, "ward": "34", "_id": {"$oid": "51aa13963c002ed20d78b29c"}, "iucr": "1220", "longitude": "-87.64313469735161", "location_description": "STREET", "x_coordinate": "1172815", "updated_on": {"$date": 1369615194000}, "fbi_code": "11", "block": "008XX W 122ND ST"}
+{
+    "y_coordinate": "1823906", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288333", 
+    "id": "9143276", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64313469735161, 
+            41.67222478440283
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.67222478440283", 
+    "type": null, 
+    "description": "THEFT OF LOST/MISLAID PROP", 
+    "beat": "0524", 
+    "date": {
+        "$date": 1369328400000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b29c"
+    }, 
+    "iucr": "1220", 
+    "longitude": "-87.64313469735161", 
+    "location_description": "STREET", 
+    "x_coordinate": "1172815", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "11", 
+    "block": "008XX W 122ND ST"
+}

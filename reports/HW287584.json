@@ -1,1 +1,38 @@
-{"y_coordinate": "1906586", "year": "2013", "domestic": false, "case_number": "HW287584", "id": "9142635", "primary_type": "THEFT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62812084847708, 41.89903132696036]}, "community_area": "8", "latitude": "41.89903132696036", "type": "property", "description": "FROM BUILDING", "beat": "1833", "date": {"$date": 1369227600000}, "ward": "42", "_id": {"$oid": "51a7708c3c002ed20d78ac58"}, "iucr": "890", "longitude": "-87.62812084847708", "location_description": "RESTAURANT", "x_coordinate": "1176239", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "0000X E DELAWARE PL"}
+{
+    "y_coordinate": "1906586", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287584", 
+    "id": "9142635", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62812084847708, 
+            41.89903132696036
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89903132696036", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1833", 
+    "date": {
+        "$date": 1369227600000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac58"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.62812084847708", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1176239", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "0000X E DELAWARE PL"
+}

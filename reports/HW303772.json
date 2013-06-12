@@ -1,1 +1,38 @@
-{"y_coordinate": "1832662", "year": "2013", "domestic": false, "case_number": "HW303772", "id": "9158452", "primary_type": "MOTOR VEHICLE THEFT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6233518037244, 41.696133676502605]}, "community_area": "49", "latitude": "41.696133676502605", "type": "property", "description": "AUTOMOBILE", "beat": "0513", "date": {"$date": 1370142000000}, "ward": "34", "_id": {"$oid": "51b5f11d3c002ed20d78ce9b"}, "iucr": "910", "longitude": "-87.6233518037244", "location_description": "STREET", "x_coordinate": "1178148", "updated_on": {"$date": 1370738354000}, "fbi_code": "07", "block": "109XX S STATE ST"}
+{
+    "y_coordinate": "1832662", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303772", 
+    "id": "9158452", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6233518037244, 
+            41.696133676502605
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.696133676502605", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0513", 
+    "date": {
+        "$date": 1370142000000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78ce9b"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.6233518037244", 
+    "location_description": "STREET", 
+    "x_coordinate": "1178148", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "07", 
+    "block": "109XX S STATE ST"
+}

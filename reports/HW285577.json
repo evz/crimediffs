@@ -1,1 +1,38 @@
-{"y_coordinate": "1847616", "year": "2013", "domestic": false, "case_number": "HW285577", "id": "9140368", "primary_type": "ASSAULT", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.59018350040752, 41.73696249693218]}, "community_area": "45", "latitude": "41.73696249693218", "type": null, "description": "PRO EMP HANDS NO/MIN INJURY", "beat": "0412", "date": {"$date": 1369209060000}, "ward": "8", "_id": {"$oid": "51a7708d3c002ed20d78ad03"}, "iucr": "545", "longitude": "-87.59018350040752", "location_description": "CTA BUS", "x_coordinate": "1187078", "updated_on": {"$date": 1369442383000}, "fbi_code": "08A", "block": "014XX E 87TH ST"}
+{
+    "y_coordinate": "1847616", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285577", 
+    "id": "9140368", 
+    "primary_type": "ASSAULT", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59018350040752, 
+            41.73696249693218
+        ]
+    }, 
+    "community_area": "45", 
+    "latitude": "41.73696249693218", 
+    "type": null, 
+    "description": "PRO EMP HANDS NO/MIN INJURY", 
+    "beat": "0412", 
+    "date": {
+        "$date": 1369209060000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad03"
+    }, 
+    "iucr": "545", 
+    "longitude": "-87.59018350040752", 
+    "location_description": "CTA BUS", 
+    "x_coordinate": "1187078", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08A", 
+    "block": "014XX E 87TH ST"
+}

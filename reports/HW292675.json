@@ -1,1 +1,38 @@
-{"y_coordinate": "1862144", "year": "2013", "domestic": false, "case_number": "HW292675", "id": "9146946", "primary_type": "CRIMINAL DAMAGE", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65337163553951, 41.77722303100059]}, "community_area": "68", "latitude": "41.77722303100059", "type": "quality", "description": "TO PROPERTY", "beat": "0724", "date": {"$date": 1369328400000}, "ward": "16", "_id": {"$oid": "51aa13963c002ed20d78b296"}, "iucr": "1310", "longitude": "-87.65337163553951", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1169716", "updated_on": {"$date": 1369960832000}, "fbi_code": "14", "block": "064XX S MAY ST"}
+{
+    "y_coordinate": "1862144", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW292675", 
+    "id": "9146946", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65337163553951, 
+            41.77722303100059
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.77722303100059", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0724", 
+    "date": {
+        "$date": 1369328400000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b296"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.65337163553951", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1169716", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "14", 
+    "block": "064XX S MAY ST"
+}

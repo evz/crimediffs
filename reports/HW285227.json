@@ -1,1 +1,38 @@
-{"y_coordinate": "1873070", "year": "2013", "domestic": false, "case_number": "HW285227", "id": "9139857", "primary_type": "NARCOTICS", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6210028691547, 41.80701093730854]}, "community_area": "38", "latitude": "41.80701093730854", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0224", "date": {"$date": 1369171620000}, "ward": "3", "_id": {"$oid": "51a61f093c002ed20d78a72d"}, "iucr": "1811", "longitude": "-87.6210028691547", "location_description": "SIDEWALK", "x_coordinate": "1178455", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "048XX S INDIANA AVE"}
+{
+    "y_coordinate": "1873070", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285227", 
+    "id": "9139857", 
+    "primary_type": "NARCOTICS", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6210028691547, 
+            41.80701093730854
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.80701093730854", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0224", 
+    "date": {
+        "$date": 1369171620000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51a61f093c002ed20d78a72d"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.6210028691547", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1178455", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "048XX S INDIANA AVE"
+}

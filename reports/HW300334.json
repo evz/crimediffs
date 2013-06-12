@@ -1,1 +1,38 @@
-{"y_coordinate": "1842333", "year": "2013", "domestic": false, "case_number": "HW300334", "id": "9154922", "primary_type": "THEFT", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.57485321612478, 41.72236413179883]}, "community_area": "51", "latitude": "41.72236413179883", "type": "property", "description": "RETAIL THEFT", "beat": "0431", "date": {"$date": 1370112300000}, "ward": "7", "_id": {"$oid": "51b5f11f3c002ed20d78cfed"}, "iucr": "860", "longitude": "-87.57485321612478", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1191309", "updated_on": {"$date": 1370306580000}, "fbi_code": "06", "block": "020XX E 95TH ST"}
+{
+    "y_coordinate": "1842333", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300334", 
+    "id": "9154922", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57485321612478, 
+            41.72236413179883
+        ]
+    }, 
+    "community_area": "51", 
+    "latitude": "41.72236413179883", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0431", 
+    "date": {
+        "$date": 1370112300000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cfed"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.57485321612478", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1191309", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "06", 
+    "block": "020XX E 95TH ST"
+}

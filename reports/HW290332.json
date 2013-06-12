@@ -1,1 +1,38 @@
-{"y_coordinate": "1873593", "year": "2013", "domestic": false, "case_number": "HW290332", "id": "9145099", "primary_type": "CRIMINAL DAMAGE", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70048250240305, 41.80891156246908]}, "community_area": "58", "latitude": "41.80891156246908", "type": "quality", "description": "CRIMINAL DEFACEMENT", "beat": "0922", "date": {"$date": 1369411200000}, "ward": "14", "_id": {"$oid": "51aa13903c002ed20d78af9f"}, "iucr": "1305", "longitude": "-87.70048250240305", "location_description": "RESIDENCE", "x_coordinate": "1156781", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "046XX S WHIPPLE ST"}
+{
+    "y_coordinate": "1873593", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290332", 
+    "id": "9145099", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70048250240305, 
+            41.80891156246908
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.80891156246908", 
+    "type": "quality", 
+    "description": "CRIMINAL DEFACEMENT", 
+    "beat": "0922", 
+    "date": {
+        "$date": 1369411200000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78af9f"
+    }, 
+    "iucr": "1305", 
+    "longitude": "-87.70048250240305", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1156781", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "046XX S WHIPPLE ST"
+}

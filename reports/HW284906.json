@@ -1,1 +1,38 @@
-{"y_coordinate": "1913405", "year": "2013", "domestic": false, "case_number": "HW284906", "id": "9139572", "primary_type": "THEFT", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69197896151418, 41.91811866650277]}, "community_area": "22", "latitude": "41.91811866650277", "type": "property", "description": "$500 AND UNDER", "beat": "1431", "date": {"$date": 1369052100000}, "ward": "1", "_id": {"$oid": "51a4cd923c002ed20d78a54b"}, "iucr": "820", "longitude": "-87.69197896151418", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1158802", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "020XX N STAVE ST"}
+{
+    "y_coordinate": "1913405", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284906", 
+    "id": "9139572", 
+    "primary_type": "THEFT", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69197896151418, 
+            41.91811866650277
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.91811866650277", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1431", 
+    "date": {
+        "$date": 1369052100000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51a4cd923c002ed20d78a54b"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.69197896151418", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1158802", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "020XX N STAVE ST"
+}

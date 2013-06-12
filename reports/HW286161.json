@@ -1,1 +1,38 @@
-{"y_coordinate": "1898044", "year": "2013", "domestic": false, "case_number": "HW286161", "id": "9141154", "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.73338378015097, 41.87618818164053]}, "community_area": "26", "latitude": "41.87618818164053", "type": null, "description": "OBSTRUCTING IDENTIFICATION", "beat": "1131", "date": {"$date": 1369232400000}, "ward": "28", "_id": {"$oid": "51a7708b3c002ed20d78ac0e"}, "iucr": "3731", "longitude": "-87.73338378015097", "location_description": "SIDEWALK", "x_coordinate": "1147640", "updated_on": {"$date": 1369442383000}, "fbi_code": "24", "block": "043XX W GLADYS AVE"}
+{
+    "y_coordinate": "1898044", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286161", 
+    "id": "9141154", 
+    "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73338378015097, 
+            41.87618818164053
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.87618818164053", 
+    "type": null, 
+    "description": "OBSTRUCTING IDENTIFICATION", 
+    "beat": "1131", 
+    "date": {
+        "$date": 1369232400000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac0e"
+    }, 
+    "iucr": "3731", 
+    "longitude": "-87.73338378015097", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1147640", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "24", 
+    "block": "043XX W GLADYS AVE"
+}

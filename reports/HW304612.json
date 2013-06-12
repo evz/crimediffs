@@ -1,1 +1,33 @@
-{"community_area": "49", "_id": {"$oid": "51b7429a3c002ed20d78d320"}, "primary_type": "CRIMINAL DAMAGE", "beat": "0513", "year": "2013", "domestic": false, "iucr": "1310", "arrest": false, "location_description": "RESIDENCE", "location": {"type": "Point", "coordinates": [-87.62612345034347, 41.69447946951002]}, "case_number": "HW304612", "date": {"$date": 1370282400000}, "updated_on": {"$date": 1370738354000}, "ward": "34", "fbi_code": "14", "type": "quality", "id": "9162303", "block": "001XX W 110TH ST", "description": "TO PROPERTY"}
+{
+    "_id": {
+        "$oid": "51b7429a3c002ed20d78d320"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "year": "2013", 
+    "beat": "0513", 
+    "case_number": "HW304612", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62612345034347, 
+            41.69447946951002
+        ]
+    }, 
+    "community_area": "49", 
+    "date": {
+        "$date": 1370282400000
+    }, 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "ward": "34", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9162303", 
+    "block": "001XX W 110TH ST", 
+    "description": "TO PROPERTY"
+}

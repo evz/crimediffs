@@ -1,1 +1,38 @@
-{"y_coordinate": "1876893", "year": "2013", "domestic": false, "case_number": "HW290055", "id": "9144857", "primary_type": "ASSAULT", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.59767765713794, 41.81735528117026]}, "community_area": "36", "latitude": "41.81735528117026", "type": null, "description": "SIMPLE", "beat": "0214", "date": {"$date": 1369384200000}, "ward": "4", "_id": {"$oid": "51aa13933c002ed20d78b0fa"}, "iucr": "560", "longitude": "-87.59767765713794", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1184782", "updated_on": {"$date": 1369615194000}, "fbi_code": "08A", "block": "042XX S OAKENWALD AVE"}
+{
+    "y_coordinate": "1876893", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290055", 
+    "id": "9144857", 
+    "primary_type": "ASSAULT", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59767765713794, 
+            41.81735528117026
+        ]
+    }, 
+    "community_area": "36", 
+    "latitude": "41.81735528117026", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0214", 
+    "date": {
+        "$date": 1369384200000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b0fa"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.59767765713794", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1184782", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08A", 
+    "block": "042XX S OAKENWALD AVE"
+}

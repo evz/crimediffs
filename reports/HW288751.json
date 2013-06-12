@@ -1,1 +1,38 @@
-{"y_coordinate": "1910059", "year": "2013", "domestic": true, "case_number": "HW288751", "id": "9143810", "primary_type": "BATTERY", "district": "018", "arrest": true, "location": {"type": "Point", "coordinates": [-87.63836782077604, 41.90862451785929]}, "community_area": "8", "latitude": "41.90862451785929", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1821", "date": {"$date": 1369391400000}, "ward": "27", "_id": {"$oid": "51aa13923c002ed20d78b0aa"}, "iucr": "486", "longitude": "-87.63836782077604", "location_description": "STREET", "x_coordinate": "1173421", "updated_on": {"$date": 1369528777000}, "fbi_code": "08B", "block": "014XX N SEDGWICK ST"}
+{
+    "y_coordinate": "1910059", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW288751", 
+    "id": "9143810", 
+    "primary_type": "BATTERY", 
+    "district": "018", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63836782077604, 
+            41.90862451785929
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.90862451785929", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1821", 
+    "date": {
+        "$date": 1369391400000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b0aa"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.63836782077604", 
+    "location_description": "STREET", 
+    "x_coordinate": "1173421", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "08B", 
+    "block": "014XX N SEDGWICK ST"
+}

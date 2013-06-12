@@ -1,1 +1,38 @@
-{"y_coordinate": "1928792", "year": "2013", "domestic": false, "case_number": "HW289274", "id": "9144197", "primary_type": "CRIMINAL DAMAGE", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68607776212869, 41.96031084312268]}, "community_area": "5", "latitude": "41.96031084312268", "type": "quality", "description": "CRIMINAL DEFACEMENT", "beat": "1911", "date": {"$date": 1369342800000}, "ward": "47", "_id": {"$oid": "51aa13953c002ed20d78b1e8"}, "iucr": "1305", "longitude": "-87.68607776212869", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1160292", "updated_on": {"$date": 1369787985000}, "fbi_code": "14", "block": "043XX N OAKLEY AVE"}
+{
+    "y_coordinate": "1928792", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289274", 
+    "id": "9144197", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68607776212869, 
+            41.96031084312268
+        ]
+    }, 
+    "community_area": "5", 
+    "latitude": "41.96031084312268", 
+    "type": "quality", 
+    "description": "CRIMINAL DEFACEMENT", 
+    "beat": "1911", 
+    "date": {
+        "$date": 1369342800000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b1e8"
+    }, 
+    "iucr": "1305", 
+    "longitude": "-87.68607776212869", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1160292", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "14", 
+    "block": "043XX N OAKLEY AVE"
+}

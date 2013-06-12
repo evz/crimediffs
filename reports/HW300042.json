@@ -1,1 +1,38 @@
-{"y_coordinate": "1843704", "year": "2013", "domestic": false, "case_number": "HW300042", "id": "9154580", "primary_type": "CRIMINAL DAMAGE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55406904595917, 41.72598751054003]}, "community_area": "48", "latitude": "41.72598751054003", "type": "quality", "description": "TO VEHICLE", "beat": "0423", "date": {"$date": 1370066400000}, "ward": "10", "_id": {"$oid": "51b5f1213c002ed20d78d19b"}, "iucr": "1320", "longitude": "-87.55406904595917", "location_description": "STREET", "x_coordinate": "1196971", "updated_on": {"$date": 1370306580000}, "fbi_code": "14", "block": "093XX S ESCANABA AVE"}
+{
+    "y_coordinate": "1843704", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300042", 
+    "id": "9154580", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55406904595917, 
+            41.72598751054003
+        ]
+    }, 
+    "community_area": "48", 
+    "latitude": "41.72598751054003", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0423", 
+    "date": {
+        "$date": 1370066400000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d19b"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.55406904595917", 
+    "location_description": "STREET", 
+    "x_coordinate": "1196971", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "14", 
+    "block": "093XX S ESCANABA AVE"
+}

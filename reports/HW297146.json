@@ -1,1 +1,38 @@
-{"y_coordinate": "1899068", "year": "2013", "domestic": false, "case_number": "HW297146", "id": "9151789", "primary_type": "THEFT", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76386704633715, 41.87915349709876]}, "community_area": "25", "latitude": "41.87915349709876", "type": "property", "description": "FROM BUILDING", "beat": "1522", "date": {"$date": 1369229400000}, "ward": "29", "_id": {"$oid": "51aa139a3c002ed20d78b443"}, "iucr": "890", "longitude": "-87.76386704633715", "location_description": "RESIDENCE", "x_coordinate": "1139331", "updated_on": {"$date": 1370133629000}, "fbi_code": "06", "block": "055XX W MONROE ST"}
+{
+    "y_coordinate": "1899068", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW297146", 
+    "id": "9151789", 
+    "primary_type": "THEFT", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76386704633715, 
+            41.87915349709876
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.87915349709876", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1522", 
+    "date": {
+        "$date": 1369229400000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51aa139a3c002ed20d78b443"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.76386704633715", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1139331", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "06", 
+    "block": "055XX W MONROE ST"
+}

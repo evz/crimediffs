@@ -1,1 +1,38 @@
-{"y_coordinate": "1861837", "year": "2013", "domestic": false, "case_number": "HW288060", "id": "9142944", "primary_type": "BURGLARY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69196107241811, 41.7766024483427]}, "community_area": "66", "latitude": "41.7766024483427", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0825", "date": {"$date": 1369285200000}, "ward": "15", "_id": {"$oid": "51a770843c002ed20d78a9e9"}, "iucr": "610", "longitude": "-87.69196107241811", "location_description": "OTHER", "x_coordinate": "1159192", "updated_on": {"$date": 1369528777000}, "fbi_code": "05", "block": "064XX S FAIRFIELD AVE"}
+{
+    "y_coordinate": "1861837", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288060", 
+    "id": "9142944", 
+    "primary_type": "BURGLARY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69196107241811, 
+            41.7766024483427
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.7766024483427", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0825", 
+    "date": {
+        "$date": 1369285200000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51a770843c002ed20d78a9e9"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.69196107241811", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1159192", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "05", 
+    "block": "064XX S FAIRFIELD AVE"
+}

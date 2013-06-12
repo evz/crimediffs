@@ -1,1 +1,38 @@
-{"y_coordinate": "1896798", "year": "2013", "domestic": false, "case_number": "HW287836", "id": "9143124", "primary_type": "DECEPTIVE PRACTICE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6638599161816, 41.872384603981104]}, "community_area": "28", "latitude": "41.872384603981104", "type": null, "description": "CREDIT CARD FRAUD", "beat": "1231", "date": {"$date": 1369278000000}, "ward": "25", "_id": {"$oid": "51a770853c002ed20d78a9fc"}, "iucr": "1150", "longitude": "-87.6638599161816", "location_description": "TAXICAB", "x_coordinate": "1166585", "updated_on": {"$date": 1369701613000}, "fbi_code": "11", "block": "014XX W LEXINGTON ST"}
+{
+    "y_coordinate": "1896798", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287836", 
+    "id": "9143124", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6638599161816, 
+            41.872384603981104
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.872384603981104", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "1231", 
+    "date": {
+        "$date": 1369278000000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51a770853c002ed20d78a9fc"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.6638599161816", 
+    "location_description": "TAXICAB", 
+    "x_coordinate": "1166585", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "11", 
+    "block": "014XX W LEXINGTON ST"
+}

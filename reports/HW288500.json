@@ -1,1 +1,38 @@
-{"y_coordinate": "1868655", "year": "2013", "domestic": false, "case_number": "HW288500", "id": "9143457", "primary_type": "THEFT", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6183061400482, 41.7948781886785]}, "community_area": "40", "latitude": "41.7948781886785", "type": "property", "description": "$500 AND UNDER", "beat": "0231", "date": {"$date": 1369369800000}, "ward": "3", "_id": {"$oid": "51aa13933c002ed20d78b141"}, "iucr": "820", "longitude": "-87.6183061400482", "location_description": "CTA TRAIN", "x_coordinate": "1179227", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "003XX E GARFIELD BLVD"}
+{
+    "y_coordinate": "1868655", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288500", 
+    "id": "9143457", 
+    "primary_type": "THEFT", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6183061400482, 
+            41.7948781886785
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.7948781886785", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0231", 
+    "date": {
+        "$date": 1369369800000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b141"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.6183061400482", 
+    "location_description": "CTA TRAIN", 
+    "x_coordinate": "1179227", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "003XX E GARFIELD BLVD"
+}

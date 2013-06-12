@@ -1,1 +1,38 @@
-{"y_coordinate": "1904491", "year": "2013", "domestic": false, "case_number": "HW288459", "id": "9144162", "primary_type": "THEFT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62286617931626, 41.893249764206466]}, "community_area": "8", "latitude": "41.893249764206466", "type": "property", "description": "FROM BUILDING", "beat": "1834", "date": {"$date": 1369367400000}, "ward": "42", "_id": {"$oid": "51aa13933c002ed20d78b145"}, "iucr": "890", "longitude": "-87.62286617931626", "location_description": "HOTEL/MOTEL", "x_coordinate": "1177687", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "001XX E ONTARIO ST"}
+{
+    "y_coordinate": "1904491", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288459", 
+    "id": "9144162", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62286617931626, 
+            41.893249764206466
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.893249764206466", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1834", 
+    "date": {
+        "$date": 1369367400000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b145"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.62286617931626", 
+    "location_description": "HOTEL/MOTEL", 
+    "x_coordinate": "1177687", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "001XX E ONTARIO ST"
+}

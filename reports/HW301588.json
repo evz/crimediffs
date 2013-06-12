@@ -1,1 +1,38 @@
-{"y_coordinate": "1904163", "year": "2013", "domestic": false, "case_number": "HW301588", "id": "9155787", "primary_type": "DECEPTIVE PRACTICE", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62823071660628, 41.89238271912805]}, "community_area": "8", "latitude": "41.89238271912805", "type": null, "description": "CREDIT CARD FRAUD", "beat": "1831", "date": {"$date": 1370197800000}, "ward": "42", "_id": {"$oid": "51b5f1183c002ed20d78ccc4"}, "iucr": "1150", "longitude": "-87.62823071660628", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1176229", "updated_on": {"$date": 1370392932000}, "fbi_code": "11", "block": "005XX N STATE ST"}
+{
+    "y_coordinate": "1904163", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301588", 
+    "id": "9155787", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62823071660628, 
+            41.89238271912805
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89238271912805", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "1831", 
+    "date": {
+        "$date": 1370197800000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b5f1183c002ed20d78ccc4"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.62823071660628", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1176229", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "11", 
+    "block": "005XX N STATE ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1906594", "year": "2013", "domestic": false, "case_number": "HW287094", "id": "9141917", "primary_type": "ROBBERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73578308974669, 41.89966399062514]}, "community_area": "23", "latitude": "41.89966399062514", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "1111", "date": {"$date": 1369290000000}, "ward": "37", "_id": {"$oid": "51aa13993c002ed20d78b436"}, "iucr": "320", "longitude": "-87.73578308974669", "location_description": "ALLEY", "x_coordinate": "1146927", "updated_on": {"$date": 1369528777000}, "fbi_code": "03", "block": "043XX W CORTEZ ST"}
+{
+    "y_coordinate": "1906594", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287094", 
+    "id": "9141917", 
+    "primary_type": "ROBBERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73578308974669, 
+            41.89966399062514
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.89966399062514", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "1111", 
+    "date": {
+        "$date": 1369290000000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51aa13993c002ed20d78b436"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.73578308974669", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1146927", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "03", 
+    "block": "043XX W CORTEZ ST"
+}

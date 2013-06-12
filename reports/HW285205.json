@@ -1,1 +1,38 @@
-{"y_coordinate": "1931743", "year": "2013", "domestic": false, "case_number": "HW285205", "id": "9139922", "primary_type": "GAMBLING", "district": "019", "arrest": true, "location": {"type": "Point", "coordinates": [-87.69444543617551, 41.96845586813522]}, "community_area": "4", "latitude": "41.96845586813522", "type": null, "description": "GAME/AMUSEMENT DEVICE", "beat": "1911", "date": {"$date": 1369168200000}, "ward": "47", "_id": {"$oid": "51a61f093c002ed20d78a758"}, "iucr": "1670", "longitude": "-87.69444543617551", "location_description": "RESTAURANT", "x_coordinate": "1157994", "updated_on": {"$date": 1369528777000}, "fbi_code": "19", "block": "026XX W LAWRENCE AVE"}
+{
+    "y_coordinate": "1931743", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285205", 
+    "id": "9139922", 
+    "primary_type": "GAMBLING", 
+    "district": "019", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69444543617551, 
+            41.96845586813522
+        ]
+    }, 
+    "community_area": "4", 
+    "latitude": "41.96845586813522", 
+    "type": null, 
+    "description": "GAME/AMUSEMENT DEVICE", 
+    "beat": "1911", 
+    "date": {
+        "$date": 1369168200000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51a61f093c002ed20d78a758"
+    }, 
+    "iucr": "1670", 
+    "longitude": "-87.69444543617551", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1157994", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "19", 
+    "block": "026XX W LAWRENCE AVE"
+}

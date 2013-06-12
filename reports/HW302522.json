@@ -1,1 +1,38 @@
-{"y_coordinate": "1903761", "year": "2013", "domestic": false, "case_number": "HW302522", "id": "9157160", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68090662576964, 41.89159089103225]}, "community_area": "24", "latitude": "41.89159089103225", "type": "property", "description": "$500 AND UNDER", "beat": "1221", "date": {"$date": 1370127600000}, "ward": "26", "_id": {"$oid": "51b5f11e3c002ed20d78cf2e"}, "iucr": "820", "longitude": "-87.68090662576964", "location_description": "APARTMENT", "x_coordinate": "1161889", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "021XX W RACE AVE"}
+{
+    "y_coordinate": "1903761", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302522", 
+    "id": "9157160", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68090662576964, 
+            41.89159089103225
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.89159089103225", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1221", 
+    "date": {
+        "$date": 1370127600000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf2e"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.68090662576964", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1161889", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "021XX W RACE AVE"
+}

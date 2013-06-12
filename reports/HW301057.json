@@ -1,1 +1,38 @@
-{"y_coordinate": "1900190", "year": "2013", "domestic": true, "case_number": "HW301057", "id": "9155417", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72067857493361, 41.882010263905954]}, "community_area": "27", "latitude": "41.882010263905954", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1122", "date": {"$date": 1370116800000}, "ward": "28", "_id": {"$oid": "51b5f11e3c002ed20d78cfb7"}, "iucr": "486", "longitude": "-87.72067857493361", "location_description": "PARK PROPERTY", "x_coordinate": "1151085", "updated_on": {"$date": 1370392932000}, "fbi_code": "08B", "block": "001XX N HAMLIN BLVD"}
+{
+    "y_coordinate": "1900190", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301057", 
+    "id": "9155417", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72067857493361, 
+            41.882010263905954
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.882010263905954", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1122", 
+    "date": {
+        "$date": 1370116800000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cfb7"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.72067857493361", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1151085", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "08B", 
+    "block": "001XX N HAMLIN BLVD"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1895839", "year": "2013", "domestic": false, "case_number": "HW303381", "id": "9157927", "primary_type": "WEAPONS VIOLATION", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.703489641874, 41.8699770477907]}, "community_area": "27", "latitude": "41.8699770477907", "type": null, "description": "UNLAWFUL POSS AMMUNITION", "beat": "1134", "date": {"$date": 1370298060000}, "ward": "24", "_id": {"$oid": "51b742973c002ed20d78d245"}, "iucr": "143C", "longitude": "-87.703489641874", "location_description": "STREET", "x_coordinate": "1155798", "updated_on": {"$date": 1370565766000}, "fbi_code": "15", "block": "009XX S ALBANY AVE"}
+{
+    "y_coordinate": "1895839", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303381", 
+    "id": "9157927", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.703489641874, 
+            41.8699770477907
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.8699770477907", 
+    "type": null, 
+    "description": "UNLAWFUL POSS AMMUNITION", 
+    "beat": "1134", 
+    "date": {
+        "$date": 1370298060000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b742973c002ed20d78d245"
+    }, 
+    "iucr": "143C", 
+    "longitude": "-87.703489641874", 
+    "location_description": "STREET", 
+    "x_coordinate": "1155798", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "15", 
+    "block": "009XX S ALBANY AVE"
+}

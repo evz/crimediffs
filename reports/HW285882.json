@@ -1,1 +1,38 @@
-{"y_coordinate": "1926214", "year": "2013", "domestic": false, "case_number": "HW285882", "id": "9140753", "primary_type": "THEFT", "district": "017", "arrest": true, "location": {"type": "Point", "coordinates": [-87.74505897058002, 41.9535536325945]}, "community_area": "15", "latitude": "41.9535536325945", "type": "property", "description": "RETAIL THEFT", "beat": "1722", "date": {"$date": 1369220700000}, "ward": "45", "_id": {"$oid": "51a7708d3c002ed20d78ac9c"}, "iucr": "860", "longitude": "-87.74505897058002", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1144267", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "046XX W IRVING PARK RD"}
+{
+    "y_coordinate": "1926214", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285882", 
+    "id": "9140753", 
+    "primary_type": "THEFT", 
+    "district": "017", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74505897058002, 
+            41.9535536325945
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.9535536325945", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "1722", 
+    "date": {
+        "$date": 1369220700000
+    }, 
+    "ward": "45", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ac9c"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.74505897058002", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1144267", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "046XX W IRVING PARK RD"
+}

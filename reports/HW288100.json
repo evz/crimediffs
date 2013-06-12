@@ -1,1 +1,38 @@
-{"y_coordinate": "1867438", "year": "2013", "domestic": false, "case_number": "HW288100", "id": "9143045", "primary_type": "BATTERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6339380797203, 41.79163462952135]}, "community_area": "68", "latitude": "41.79163462952135", "type": null, "description": "SIMPLE", "beat": "0711", "date": {"$date": 1369336800000}, "ward": "3", "_id": {"$oid": "51aa13953c002ed20d78b233"}, "iucr": "460", "longitude": "-87.6339380797203", "location_description": "STREET", "x_coordinate": "1174974", "updated_on": {"$date": 1370133629000}, "fbi_code": "08B", "block": "056XX S SHIELDS AVE"}
+{
+    "y_coordinate": "1867438", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288100", 
+    "id": "9143045", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6339380797203, 
+            41.79163462952135
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.79163462952135", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0711", 
+    "date": {
+        "$date": 1369336800000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b233"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.6339380797203", 
+    "location_description": "STREET", 
+    "x_coordinate": "1174974", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "08B", 
+    "block": "056XX S SHIELDS AVE"
+}

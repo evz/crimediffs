@@ -1,1 +1,38 @@
-{"y_coordinate": "1901999", "year": "2013", "domestic": false, "case_number": "HW301326", "id": "9155622", "primary_type": "BATTERY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75666761189703, 41.88716096546072]}, "community_area": "25", "latitude": "41.88716096546072", "type": "violent", "description": "AGGRAVATED DOMESTIC BATTERY: OTHER DANG WEAPON", "beat": "1523", "date": {"$date": 1370186100000}, "ward": "28", "_id": {"$oid": "51b5f11a3c002ed20d78cd54"}, "iucr": "497", "longitude": "-87.75666761189703", "location_description": "APARTMENT", "x_coordinate": "1141272", "updated_on": {"$date": 1370392932000}, "fbi_code": "04B", "block": "052XX W LAKE ST"}
+{
+    "y_coordinate": "1901999", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301326", 
+    "id": "9155622", 
+    "primary_type": "BATTERY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75666761189703, 
+            41.88716096546072
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.88716096546072", 
+    "type": "violent", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: OTHER DANG WEAPON", 
+    "beat": "1523", 
+    "date": {
+        "$date": 1370186100000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd54"
+    }, 
+    "iucr": "497", 
+    "longitude": "-87.75666761189703", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1141272", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "04B", 
+    "block": "052XX W LAKE ST"
+}

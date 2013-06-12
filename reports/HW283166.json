@@ -1,1 +1,38 @@
-{"y_coordinate": "1898341", "year": "2013", "domestic": false, "case_number": "HW283166", "id": "9138095", "primary_type": "CRIMINAL DAMAGE", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7390049375309, 41.87703245209043]}, "community_area": "26", "latitude": "41.87703245209043", "type": "quality", "description": "TO CITY OF CHICAGO PROPERTY", "beat": "1113", "date": {"$date": 1369065000000}, "ward": "28", "_id": {"$oid": "51a4cd903c002ed20d78a4b5"}, "iucr": "1345", "longitude": "-87.7390049375309", "location_description": "STREET", "x_coordinate": "1146107", "updated_on": {"$date": 1369269615000}, "fbi_code": "14", "block": "045XX W JACKSON BLVD"}
+{
+    "y_coordinate": "1898341", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283166", 
+    "id": "9138095", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7390049375309, 
+            41.87703245209043
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.87703245209043", 
+    "type": "quality", 
+    "description": "TO CITY OF CHICAGO PROPERTY", 
+    "beat": "1113", 
+    "date": {
+        "$date": 1369065000000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a4b5"
+    }, 
+    "iucr": "1345", 
+    "longitude": "-87.7390049375309", 
+    "location_description": "STREET", 
+    "x_coordinate": "1146107", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "14", 
+    "block": "045XX W JACKSON BLVD"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1914394", "year": "2013", "domestic": false, "case_number": "HW302585", "id": "9157305", "primary_type": "CRIMINAL DAMAGE", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64844927447456, 41.92058131823815]}, "community_area": "7", "latitude": "41.92058131823815", "type": "quality", "description": "TO PROPERTY", "beat": "1812", "date": {"$date": 1370267880000}, "ward": "43", "_id": {"$oid": "51b7429c3c002ed20d78d3f4"}, "iucr": "1310", "longitude": "-87.64844927447456", "location_description": "APARTMENT", "x_coordinate": "1170642", "updated_on": {"$date": 1370479286000}, "fbi_code": "14", "block": "021XX N HALSTED ST"}
+{
+    "y_coordinate": "1914394", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302585", 
+    "id": "9157305", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64844927447456, 
+            41.92058131823815
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.92058131823815", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1812", 
+    "date": {
+        "$date": 1370267880000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51b7429c3c002ed20d78d3f4"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.64844927447456", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1170642", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "14", 
+    "block": "021XX N HALSTED ST"
+}

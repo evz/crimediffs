@@ -1,1 +1,38 @@
-{"y_coordinate": "1886581", "year": "2013", "domestic": true, "case_number": "HW286936", "id": "9141715", "primary_type": "CRIMINAL DAMAGE", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71128045030743, 41.844613163304395]}, "community_area": "30", "latitude": "41.844613163304395", "type": "quality", "description": "TO VEHICLE", "beat": "1024", "date": {"$date": 1369265100000}, "ward": "22", "_id": {"$oid": "51a770873c002ed20d78aa60"}, "iucr": "1320", "longitude": "-87.71128045030743", "location_description": "STREET", "x_coordinate": "1153743", "updated_on": {"$date": 1369960832000}, "fbi_code": "14", "block": "025XX S TRUMBULL AVE"}
+{
+    "y_coordinate": "1886581", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW286936", 
+    "id": "9141715", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71128045030743, 
+            41.844613163304395
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.844613163304395", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1024", 
+    "date": {
+        "$date": 1369265100000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51a770873c002ed20d78aa60"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.71128045030743", 
+    "location_description": "STREET", 
+    "x_coordinate": "1153743", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "14", 
+    "block": "025XX S TRUMBULL AVE"
+}

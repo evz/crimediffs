@@ -1,1 +1,38 @@
-{"y_coordinate": "1874596", "year": "2013", "domestic": true, "case_number": "HW302893", "id": "9157526", "primary_type": "KIDNAPPING", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66368407847104, 41.81145544856028]}, "community_area": "61", "latitude": "41.81145544856028", "type": null, "description": "UNLAWFUL INTERFERE/VISITATION", "beat": "0924", "date": {"$date": 1370278800000}, "ward": "3", "_id": {"$oid": "51b7429b3c002ed20d78d364"}, "iucr": "4255", "longitude": "-87.66368407847104", "location_description": "APARTMENT", "x_coordinate": "1166806", "updated_on": {"$date": 1370651988000}, "fbi_code": "26", "block": "045XX S JUSTINE ST"}
+{
+    "y_coordinate": "1874596", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW302893", 
+    "id": "9157526", 
+    "primary_type": "KIDNAPPING", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66368407847104, 
+            41.81145544856028
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.81145544856028", 
+    "type": null, 
+    "description": "UNLAWFUL INTERFERE/VISITATION", 
+    "beat": "0924", 
+    "date": {
+        "$date": 1370278800000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51b7429b3c002ed20d78d364"
+    }, 
+    "iucr": "4255", 
+    "longitude": "-87.66368407847104", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1166806", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "26", 
+    "block": "045XX S JUSTINE ST"
+}

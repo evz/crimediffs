@@ -1,1 +1,38 @@
-{"y_coordinate": "1873263", "year": "2013", "domestic": false, "case_number": "HW284456", "id": "9139406", "primary_type": "GAMBLING", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.63439876016675, 41.80762287150917]}, "community_area": "37", "latitude": "41.80762287150917", "type": null, "description": "GAME/DICE", "beat": "0935", "date": {"$date": 1369139820000}, "ward": "3", "_id": {"$oid": "51a61f0e3c002ed20d78a8da"}, "iucr": "1661", "longitude": "-87.63439876016675", "location_description": "SIDEWALK", "x_coordinate": "1174801", "updated_on": {"$date": 1369528777000}, "fbi_code": "19", "block": "047XX S SHIELDS AVE"}
+{
+    "y_coordinate": "1873263", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284456", 
+    "id": "9139406", 
+    "primary_type": "GAMBLING", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63439876016675, 
+            41.80762287150917
+        ]
+    }, 
+    "community_area": "37", 
+    "latitude": "41.80762287150917", 
+    "type": null, 
+    "description": "GAME/DICE", 
+    "beat": "0935", 
+    "date": {
+        "$date": 1369139820000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a8da"
+    }, 
+    "iucr": "1661", 
+    "longitude": "-87.63439876016675", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1174801", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "19", 
+    "block": "047XX S SHIELDS AVE"
+}

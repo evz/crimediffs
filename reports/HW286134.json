@@ -1,1 +1,38 @@
-{"y_coordinate": "1916999", "year": "2013", "domestic": true, "case_number": "HW286134", "id": "9141330", "primary_type": "ASSAULT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77329255177933, 41.928406816998034]}, "community_area": "19", "latitude": "41.928406816998034", "type": "violent", "description": "AGGRAVATED:KNIFE/CUTTING INSTR", "beat": "2514", "date": {"$date": 1369159200000}, "ward": "30", "_id": {"$oid": "51a61f0b3c002ed20d78a7ca"}, "iucr": "520", "longitude": "-87.77329255177933", "location_description": "RESIDENCE", "x_coordinate": "1136647", "updated_on": {"$date": 1370047283000}, "fbi_code": "04A", "block": "026XX N MARMORA AVE"}
+{
+    "y_coordinate": "1916999", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW286134", 
+    "id": "9141330", 
+    "primary_type": "ASSAULT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77329255177933, 
+            41.928406816998034
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.928406816998034", 
+    "type": "violent", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
+    "beat": "2514", 
+    "date": {
+        "$date": 1369159200000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a7ca"
+    }, 
+    "iucr": "520", 
+    "longitude": "-87.77329255177933", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1136647", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "04A", 
+    "block": "026XX N MARMORA AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1889226", "year": "2013", "domestic": false, "case_number": "HW290625", "id": "9145330", "primary_type": "DECEPTIVE PRACTICE", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.69587937757619, 41.851787292863364]}, "community_area": "30", "latitude": "41.851787292863364", "type": null, "description": "FORGERY", "beat": "1033", "date": {"$date": 1369493640000}, "ward": "12", "_id": {"$oid": "51b34a103c002ed20d78ca37"}, "iucr": "1120", "longitude": "-87.69587937757619", "location_description": "CURRENCY EXCHANGE", "x_coordinate": "1157920", "updated_on": {"$date": 1370824784000}, "fbi_code": "10", "block": "028XX W CERMAK RD"}
+{
+    "y_coordinate": "1889226", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290625", 
+    "id": "9145330", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69587937757619, 
+            41.851787292863364
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.851787292863364", 
+    "type": null, 
+    "description": "FORGERY", 
+    "beat": "1033", 
+    "date": {
+        "$date": 1369493640000
+    }, 
+    "ward": "12", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78ca37"
+    }, 
+    "iucr": "1120", 
+    "longitude": "-87.69587937757619", 
+    "location_description": "CURRENCY EXCHANGE", 
+    "x_coordinate": "1157920", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "10", 
+    "block": "028XX W CERMAK RD"
+}

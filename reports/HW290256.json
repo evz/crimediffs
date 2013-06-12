@@ -1,1 +1,38 @@
-{"y_coordinate": "1864696", "year": "2013", "domestic": false, "case_number": "HW290256", "id": "9145021", "primary_type": "CRIMINAL DAMAGE", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61559277544121, 41.783996644274886]}, "community_area": "42", "latitude": "41.783996644274886", "type": "quality", "description": "TO PROPERTY", "beat": "0313", "date": {"$date": 1369465200000}, "ward": "20", "_id": {"$oid": "51b34a123c002ed20d78cb19"}, "iucr": "1310", "longitude": "-87.61559277544121", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1180000", "updated_on": {"$date": 1369615194000}, "fbi_code": "14", "block": "004XX E 61ST ST"}
+{
+    "y_coordinate": "1864696", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290256", 
+    "id": "9145021", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61559277544121, 
+            41.783996644274886
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.783996644274886", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0313", 
+    "date": {
+        "$date": 1369465200000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cb19"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.61559277544121", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1180000", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "14", 
+    "block": "004XX E 61ST ST"
+}

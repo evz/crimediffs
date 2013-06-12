@@ -1,1 +1,38 @@
-{"y_coordinate": "1929962", "year": "2013", "domestic": false, "case_number": "HW287132", "id": "9142115", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69349420742942, 41.963563139318744]}, "community_area": "4", "latitude": "41.963563139318744", "type": "property", "description": "$500 AND UNDER", "beat": "1911", "date": {"$date": 1369260000000}, "ward": "47", "_id": {"$oid": "51a770883c002ed20d78aaa3"}, "iucr": "820", "longitude": "-87.69349420742942", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1158266", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "045XX N ROCKWELL ST"}
+{
+    "y_coordinate": "1929962", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287132", 
+    "id": "9142115", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69349420742942, 
+            41.963563139318744
+        ]
+    }, 
+    "community_area": "4", 
+    "latitude": "41.963563139318744", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1911", 
+    "date": {
+        "$date": 1369260000000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aaa3"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.69349420742942", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1158266", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "045XX N ROCKWELL ST"
+}

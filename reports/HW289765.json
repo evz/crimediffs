@@ -1,1 +1,38 @@
-{"y_coordinate": "1824221", "year": "2013", "domestic": false, "case_number": "HW289765", "id": "9144601", "primary_type": "NARCOTICS", "district": "005", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6223619953708, 41.6729626275813]}, "community_area": "53", "latitude": "41.6729626275813", "type": "quality", "description": "POSS: CRACK", "beat": "0532", "date": {"$date": 1369431600000}, "ward": "9", "_id": {"$oid": "51aa138d3c002ed20d78ae7a"}, "iucr": "2027", "longitude": "-87.6223619953708", "location_description": "SIDEWALK", "x_coordinate": "1178488", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "121XX S STATE ST"}
+{
+    "y_coordinate": "1824221", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289765", 
+    "id": "9144601", 
+    "primary_type": "NARCOTICS", 
+    "district": "005", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6223619953708, 
+            41.6729626275813
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.6729626275813", 
+    "type": "quality", 
+    "description": "POSS: CRACK", 
+    "beat": "0532", 
+    "date": {
+        "$date": 1369431600000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78ae7a"
+    }, 
+    "iucr": "2027", 
+    "longitude": "-87.6223619953708", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1178488", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "121XX S STATE ST"
+}

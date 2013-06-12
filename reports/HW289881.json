@@ -1,1 +1,38 @@
-{"y_coordinate": "1857290", "year": "2013", "domestic": false, "case_number": "HW289881", "id": "9144768", "primary_type": "THEFT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6081041131965, 41.76362538932649]}, "community_area": "69", "latitude": "41.76362538932649", "type": "property", "description": "$500 AND UNDER", "beat": "0323", "date": {"$date": 1369409400000}, "ward": "6", "_id": {"$oid": "51aa13903c002ed20d78afbd"}, "iucr": "820", "longitude": "-87.6081041131965", "location_description": "RESIDENCE", "x_coordinate": "1182105", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "072XX S LANGLEY AVE"}
+{
+    "y_coordinate": "1857290", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289881", 
+    "id": "9144768", 
+    "primary_type": "THEFT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6081041131965, 
+            41.76362538932649
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.76362538932649", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0323", 
+    "date": {
+        "$date": 1369409400000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78afbd"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.6081041131965", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1182105", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "072XX S LANGLEY AVE"
+}

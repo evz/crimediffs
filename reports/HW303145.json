@@ -1,1 +1,38 @@
-{"y_coordinate": "1880861", "year": "2013", "domestic": false, "case_number": "HW303145", "id": "9157782", "primary_type": "GAMBLING", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.60749560636317, 41.828306997539045]}, "community_area": "36", "latitude": "41.828306997539045", "type": null, "description": "GAME/DICE", "beat": "0212", "date": {"$date": 1370286540000}, "ward": "4", "_id": {"$oid": "51b742993c002ed20d78d2e3"}, "iucr": "1661", "longitude": "-87.60749560636317", "location_description": "SCHOOL, PUBLIC, GROUNDS", "x_coordinate": "1182072", "updated_on": {"$date": 1370738354000}, "fbi_code": "19", "block": "036XX S ELLIS AVE"}
+{
+    "y_coordinate": "1880861", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303145", 
+    "id": "9157782", 
+    "primary_type": "GAMBLING", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60749560636317, 
+            41.828306997539045
+        ]
+    }, 
+    "community_area": "36", 
+    "latitude": "41.828306997539045", 
+    "type": null, 
+    "description": "GAME/DICE", 
+    "beat": "0212", 
+    "date": {
+        "$date": 1370286540000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51b742993c002ed20d78d2e3"
+    }, 
+    "iucr": "1661", 
+    "longitude": "-87.60749560636317", 
+    "location_description": "SCHOOL, PUBLIC, GROUNDS", 
+    "x_coordinate": "1182072", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "19", 
+    "block": "036XX S ELLIS AVE"
+}

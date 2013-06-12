@@ -1,1 +1,38 @@
-{"y_coordinate": "1895904", "year": "2013", "domestic": true, "case_number": "HW290370", "id": "9145089", "primary_type": "ASSAULT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70494173648757, 41.87016337871842]}, "community_area": "27", "latitude": "41.87016337871842", "type": null, "description": "SIMPLE", "beat": "1134", "date": {"$date": 1369436400000}, "ward": "24", "_id": {"$oid": "51aa138c3c002ed20d78ae38"}, "iucr": "560", "longitude": "-87.70494173648757", "location_description": "APARTMENT", "x_coordinate": "1155402", "updated_on": {"$date": 1370047283000}, "fbi_code": "08A", "block": "031XX W ARTHINGTON ST"}
+{
+    "y_coordinate": "1895904", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290370", 
+    "id": "9145089", 
+    "primary_type": "ASSAULT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70494173648757, 
+            41.87016337871842
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.87016337871842", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1134", 
+    "date": {
+        "$date": 1369436400000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae38"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.70494173648757", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1155402", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "08A", 
+    "block": "031XX W ARTHINGTON ST"
+}

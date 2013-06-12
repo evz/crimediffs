@@ -1,1 +1,33 @@
-{"community_area": "8", "_id": {"$oid": "51b34a0f3c002ed20d78c961"}, "primary_type": "DECEPTIVE PRACTICE", "beat": "1833", "year": "2013", "domestic": false, "iucr": "1152", "arrest": false, "location_description": "BANK", "location": {"type": "Point", "coordinates": [-87.62586650398174, 41.89694556343253]}, "case_number": "HW295910", "date": {"$date": 1369508400000}, "updated_on": {"$date": 1370392932000}, "ward": "42", "fbi_code": "11", "type": null, "id": "9152264", "block": "008XX N RUSH ST", "description": "ILLEGAL USE CASH CARD"}
+{
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c961"
+    }, 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "year": "2013", 
+    "beat": "1833", 
+    "case_number": "HW295910", 
+    "domestic": false, 
+    "iucr": "1152", 
+    "arrest": false, 
+    "location_description": "BANK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62586650398174, 
+            41.89694556343253
+        ]
+    }, 
+    "community_area": "8", 
+    "date": {
+        "$date": 1369508400000
+    }, 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "ward": "42", 
+    "fbi_code": "11", 
+    "type": null, 
+    "id": "9152264", 
+    "block": "008XX N RUSH ST", 
+    "description": "ILLEGAL USE CASH CARD"
+}

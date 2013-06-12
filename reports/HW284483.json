@@ -1,1 +1,38 @@
-{"y_coordinate": "1846595", "year": "2013", "domestic": false, "case_number": "HW284483", "id": "9139237", "primary_type": "CRIMINAL DAMAGE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.57214754449795, 41.73404249199777]}, "community_area": "48", "latitude": "41.73404249199777", "type": "quality", "description": "TO PROPERTY", "beat": "0412", "date": {"$date": 1369141200000}, "ward": "8", "_id": {"$oid": "51a61f0d3c002ed20d78a8c6"}, "iucr": "1310", "longitude": "-87.57214754449795", "location_description": "RESIDENCE", "x_coordinate": "1192010", "updated_on": {"$date": 1369356045000}, "fbi_code": "14", "block": "088XX S MERRILL AVE"}
+{
+    "y_coordinate": "1846595", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284483", 
+    "id": "9139237", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57214754449795, 
+            41.73404249199777
+        ]
+    }, 
+    "community_area": "48", 
+    "latitude": "41.73404249199777", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0412", 
+    "date": {
+        "$date": 1369141200000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51a61f0d3c002ed20d78a8c6"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.57214754449795", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1192010", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "14", 
+    "block": "088XX S MERRILL AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1901779", "year": "2013", "domestic": false, "case_number": "HW290106", "id": "9145091", "primary_type": "BURGLARY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70691735408334, 41.886296631894005]}, "community_area": "27", "latitude": "41.886296631894005", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1123", "date": {"$date": 1369438200000}, "ward": "28", "_id": {"$oid": "51aa138c3c002ed20d78ae2a"}, "iucr": "610", "longitude": "-87.70691735408334", "location_description": "RESIDENCE", "x_coordinate": "1154821", "updated_on": {"$date": 1369787985000}, "fbi_code": "05", "block": "032XX W FULTON BLVD"}
+{
+    "y_coordinate": "1901779", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290106", 
+    "id": "9145091", 
+    "primary_type": "BURGLARY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70691735408334, 
+            41.886296631894005
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.886296631894005", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1123", 
+    "date": {
+        "$date": 1369438200000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae2a"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.70691735408334", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1154821", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "05", 
+    "block": "032XX W FULTON BLVD"
+}

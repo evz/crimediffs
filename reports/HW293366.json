@@ -1,1 +1,38 @@
-{"y_coordinate": "1922434", "year": "2013", "domestic": false, "case_number": "HW293366", "id": "9147509", "primary_type": "CRIMINAL DAMAGE", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74712809565985, 41.943191073624156]}, "community_area": "15", "latitude": "41.943191073624156", "type": "quality", "description": "TO PROPERTY", "beat": "1634", "date": {"$date": 1369515600000}, "ward": "38", "_id": {"$oid": "51b34a0e3c002ed20d78c90f"}, "iucr": "1310", "longitude": "-87.74712809565985", "location_description": "BARBERSHOP", "x_coordinate": "1143730", "updated_on": {"$date": 1369874559000}, "fbi_code": "14", "block": "034XX N CICERO AVE"}
+{
+    "y_coordinate": "1922434", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293366", 
+    "id": "9147509", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74712809565985, 
+            41.943191073624156
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.943191073624156", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1634", 
+    "date": {
+        "$date": 1369515600000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c90f"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.74712809565985", 
+    "location_description": "BARBERSHOP", 
+    "x_coordinate": "1143730", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "14", 
+    "block": "034XX N CICERO AVE"
+}

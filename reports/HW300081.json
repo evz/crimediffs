@@ -1,1 +1,38 @@
-{"y_coordinate": "1950386", "year": "2013", "domestic": false, "case_number": "HW300081", "id": "9154602", "primary_type": "OTHER OFFENSE", "district": "024", "arrest": true, "location": {"type": "Point", "coordinates": [-87.67269693572558, 42.01949274369031]}, "community_area": "1", "latitude": "42.01949274369031", "type": null, "description": "LICENSE VIOLATION", "beat": "2422", "date": {"$date": 1370098680000}, "ward": "49", "_id": {"$oid": "51b5f1203c002ed20d78d079"}, "iucr": "5011", "longitude": "-87.67269693572558", "location_description": "SIDEWALK", "x_coordinate": "1163765", "updated_on": {"$date": 1370306580000}, "fbi_code": "26", "block": "016XX W HOWARD ST"}
+{
+    "y_coordinate": "1950386", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300081", 
+    "id": "9154602", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "024", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67269693572558, 
+            42.01949274369031
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "42.01949274369031", 
+    "type": null, 
+    "description": "LICENSE VIOLATION", 
+    "beat": "2422", 
+    "date": {
+        "$date": 1370098680000
+    }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d079"
+    }, 
+    "iucr": "5011", 
+    "longitude": "-87.67269693572558", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1163765", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "26", 
+    "block": "016XX W HOWARD ST"
+}

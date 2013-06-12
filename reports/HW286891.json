@@ -1,1 +1,38 @@
-{"y_coordinate": "1838836", "year": "2013", "domestic": false, "case_number": "HW286891", "id": "9141710", "primary_type": "BATTERY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56834835177739, 41.71272413978769]}, "community_area": "51", "latitude": "41.71272413978769", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0431", "date": {"$date": 1369262400000}, "ward": "7", "_id": {"$oid": "51a770873c002ed20d78aa7c"}, "iucr": "486", "longitude": "-87.56834835177739", "location_description": "RESIDENCE", "x_coordinate": "1193116", "updated_on": {"$date": 1370651988000}, "fbi_code": "08B", "block": "100XX S LUELLA AVE"}
+{
+    "y_coordinate": "1838836", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286891", 
+    "id": "9141710", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56834835177739, 
+            41.71272413978769
+        ]
+    }, 
+    "community_area": "51", 
+    "latitude": "41.71272413978769", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0431", 
+    "date": {
+        "$date": 1369262400000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51a770873c002ed20d78aa7c"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.56834835177739", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1193116", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "08B", 
+    "block": "100XX S LUELLA AVE"
+}

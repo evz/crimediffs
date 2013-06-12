@@ -1,1 +1,38 @@
-{"y_coordinate": "1858577", "year": "2013", "domestic": true, "case_number": "HW285264", "id": "9141354", "primary_type": "BATTERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58139517752836, 41.76698559323449]}, "community_area": "43", "latitude": "41.76698559323449", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0332", "date": {"$date": 1369159200000}, "ward": "5", "_id": {"$oid": "51a61f0b3c002ed20d78a7d0"}, "iucr": "486", "longitude": "-87.58139517752836", "location_description": "STREET", "x_coordinate": "1189381", "updated_on": {"$date": 1370306580000}, "fbi_code": "08B", "block": "070XX S CREGIER AVE"}
+{
+    "y_coordinate": "1858577", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285264", 
+    "id": "9141354", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58139517752836, 
+            41.76698559323449
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76698559323449", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0332", 
+    "date": {
+        "$date": 1369159200000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a7d0"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.58139517752836", 
+    "location_description": "STREET", 
+    "x_coordinate": "1189381", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08B", 
+    "block": "070XX S CREGIER AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1909049", "year": "2013", "domestic": false, "case_number": "HW299852", "id": "9154438", "primary_type": "CRIMINAL TRESPASS", "district": "018", "arrest": true, "location": {"type": "Point", "coordinates": [-87.63857419903532, 41.90585409374607]}, "community_area": "8", "latitude": "41.90585409374607", "type": null, "description": "TO LAND", "beat": "1821", "date": {"$date": 1370088900000}, "ward": "27", "_id": {"$oid": "51b5f1203c002ed20d78d0ee"}, "iucr": "1330", "longitude": "-87.63857419903532", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1173373", "updated_on": {"$date": 1370306580000}, "fbi_code": "26", "block": "013XX N SEDGWICK ST"}
+{
+    "y_coordinate": "1909049", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299852", 
+    "id": "9154438", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "018", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63857419903532, 
+            41.90585409374607
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.90585409374607", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "1821", 
+    "date": {
+        "$date": 1370088900000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0ee"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.63857419903532", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1173373", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "26", 
+    "block": "013XX N SEDGWICK ST"
+}

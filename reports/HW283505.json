@@ -1,1 +1,38 @@
-{"y_coordinate": "1820681", "year": "2013", "domestic": false, "case_number": "HW283505", "id": "9138028", "primary_type": "THEFT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63677750353958, 41.6633359232873]}, "community_area": "53", "latitude": "41.6633359232873", "type": "property", "description": "$500 AND UNDER", "beat": "0523", "date": {"$date": 1369065600000}, "ward": "9", "_id": {"$oid": "51a4cd903c002ed20d78a4ae"}, "iucr": "820", "longitude": "-87.63677750353958", "location_description": "SIDEWALK", "x_coordinate": "1174578", "updated_on": {"$date": 1369269615000}, "fbi_code": "06", "block": "006XX W VERMONT ST"}
+{
+    "y_coordinate": "1820681", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283505", 
+    "id": "9138028", 
+    "primary_type": "THEFT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63677750353958, 
+            41.6633359232873
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.6633359232873", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0523", 
+    "date": {
+        "$date": 1369065600000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a4ae"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.63677750353958", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1174578", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "06", 
+    "block": "006XX W VERMONT ST"
+}

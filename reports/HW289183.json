@@ -1,1 +1,38 @@
-{"y_coordinate": "1855872", "year": "2013", "domestic": false, "case_number": "HW289183", "id": "9145179", "primary_type": "CRIMINAL DAMAGE", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66476096666409, 41.760077639885004]}, "community_area": "67", "latitude": "41.760077639885004", "type": "quality", "description": "TO PROPERTY", "beat": "0735", "date": {"$date": 1369407000000}, "ward": "17", "_id": {"$oid": "51aa13913c002ed20d78afdf"}, "iucr": "1310", "longitude": "-87.66476096666409", "location_description": "RESIDENCE", "x_coordinate": "1166658", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "073XX S MARSHFIELD AVE"}
+{
+    "y_coordinate": "1855872", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289183", 
+    "id": "9145179", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66476096666409, 
+            41.760077639885004
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.760077639885004", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0735", 
+    "date": {
+        "$date": 1369407000000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78afdf"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.66476096666409", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1166658", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "073XX S MARSHFIELD AVE"
+}

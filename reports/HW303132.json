@@ -1,1 +1,38 @@
-{"y_coordinate": "1823109", "year": "2013", "domestic": false, "case_number": "HW303132", "id": "9157687", "primary_type": "ASSAULT", "district": "005", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64029968770208, 41.67002048347081]}, "community_area": "53", "latitude": "41.67002048347081", "type": null, "description": "SIMPLE", "beat": "0523", "date": {"$date": 1370287800000}, "ward": "34", "_id": {"$oid": "51b742993c002ed20d78d2d4"}, "iucr": "560", "longitude": "-87.64029968770208", "location_description": "STREET", "x_coordinate": "1173596", "updated_on": {"$date": 1370479286000}, "fbi_code": "08A", "block": "123XX S EMERALD AVE"}
+{
+    "y_coordinate": "1823109", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303132", 
+    "id": "9157687", 
+    "primary_type": "ASSAULT", 
+    "district": "005", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64029968770208, 
+            41.67002048347081
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.67002048347081", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0523", 
+    "date": {
+        "$date": 1370287800000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b742993c002ed20d78d2d4"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.64029968770208", 
+    "location_description": "STREET", 
+    "x_coordinate": "1173596", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08A", 
+    "block": "123XX S EMERALD AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1852965", "year": "2013", "domestic": false, "case_number": "HW308541", "id": "9164030", "primary_type": "DECEPTIVE PRACTICE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58533101819074, 41.75161029178155]}, "community_area": "43", "latitude": "41.75161029178155", "type": null, "description": "ILLEGAL USE CASH CARD", "beat": "0411", "date": {"$date": 1369990800000}, "ward": "8", "_id": {"$oid": "51b349d03c002ed20d78b821"}, "iucr": "1152", "longitude": "-87.58533101819074", "location_description": "ATM (AUTOMATIC TELLER MACHINE)", "x_coordinate": "1188356", "updated_on": {"$date": 1370738354000}, "fbi_code": "11", "block": "016XX E 79TH ST"}
+{
+    "y_coordinate": "1852965", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW308541", 
+    "id": "9164030", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58533101819074, 
+            41.75161029178155
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.75161029178155", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "0411", 
+    "date": {
+        "$date": 1369990800000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51b349d03c002ed20d78b821"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.58533101819074", 
+    "location_description": "ATM (AUTOMATIC TELLER MACHINE)", 
+    "x_coordinate": "1188356", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "11", 
+    "block": "016XX E 79TH ST"
+}

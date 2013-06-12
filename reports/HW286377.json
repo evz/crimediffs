@@ -1,1 +1,38 @@
-{"y_coordinate": "1866637", "year": "2013", "domestic": false, "case_number": "HW286377", "id": "9141311", "primary_type": "CRIMINAL DAMAGE", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62171166598648, 41.78936137034719]}, "community_area": "40", "latitude": "41.78936137034719", "type": "quality", "description": "TO PROPERTY", "beat": "0232", "date": {"$date": 1369203300000}, "ward": "20", "_id": {"$oid": "51a7708d3c002ed20d78ad28"}, "iucr": "1310", "longitude": "-87.62171166598648", "location_description": "CHA APARTMENT", "x_coordinate": "1178315", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "001XX E 58TH ST"}
+{
+    "y_coordinate": "1866637", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286377", 
+    "id": "9141311", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62171166598648, 
+            41.78936137034719
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.78936137034719", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0232", 
+    "date": {
+        "$date": 1369203300000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad28"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.62171166598648", 
+    "location_description": "CHA APARTMENT", 
+    "x_coordinate": "1178315", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "001XX E 58TH ST"
+}

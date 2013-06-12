@@ -1,1 +1,38 @@
-{"y_coordinate": "1906224", "year": "2013", "domestic": false, "case_number": "HW289926", "id": "9144780", "primary_type": "ROBBERY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75706651588666, 41.89875740030566]}, "community_area": "25", "latitude": "41.89875740030566", "type": "violent", "description": "AGGRAVATED VEHICULAR HIJACKING", "beat": "1524", "date": {"$date": 1369447200000}, "ward": "37", "_id": {"$oid": "51aa138a3c002ed20d78adc4"}, "iucr": "326", "longitude": "-87.75706651588666", "location_description": "STREET", "x_coordinate": "1141135", "updated_on": {"$date": 1370738354000}, "fbi_code": "03", "block": "010XX N LATROBE AVE"}
+{
+    "y_coordinate": "1906224", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289926", 
+    "id": "9144780", 
+    "primary_type": "ROBBERY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75706651588666, 
+            41.89875740030566
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.89875740030566", 
+    "type": "violent", 
+    "description": "AGGRAVATED VEHICULAR HIJACKING", 
+    "beat": "1524", 
+    "date": {
+        "$date": 1369447200000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51aa138a3c002ed20d78adc4"
+    }, 
+    "iucr": "326", 
+    "longitude": "-87.75706651588666", 
+    "location_description": "STREET", 
+    "x_coordinate": "1141135", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "03", 
+    "block": "010XX N LATROBE AVE"
+}

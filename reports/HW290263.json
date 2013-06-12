@@ -1,1 +1,38 @@
-{"y_coordinate": "1923035", "year": "2013", "domestic": false, "case_number": "HW290263", "id": "9158251", "primary_type": "THEFT", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74349616245078, 41.944821748640216]}, "community_area": "15", "latitude": "41.944821748640216", "type": "property", "description": "$500 AND UNDER", "beat": "1731", "date": {"$date": 1369479600000}, "ward": "30", "_id": {"$oid": "51b34a113c002ed20d78caba"}, "iucr": "820", "longitude": "-87.74349616245078", "location_description": "STREET", "x_coordinate": "1144714", "updated_on": {"$date": 1370651988000}, "fbi_code": "06", "block": "046XX W CORNELIA AVE"}
+{
+    "y_coordinate": "1923035", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290263", 
+    "id": "9158251", 
+    "primary_type": "THEFT", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74349616245078, 
+            41.944821748640216
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.944821748640216", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1731", 
+    "date": {
+        "$date": 1369479600000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78caba"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.74349616245078", 
+    "location_description": "STREET", 
+    "x_coordinate": "1144714", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "06", 
+    "block": "046XX W CORNELIA AVE"
+}

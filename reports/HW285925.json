@@ -1,1 +1,38 @@
-{"y_coordinate": "1908942", "year": "2013", "domestic": false, "case_number": "HW285925", "id": "9141030", "primary_type": "CRIMINAL TRESPASS", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.638099852687, 41.90555759003037]}, "community_area": "8", "latitude": "41.90555759003037", "type": null, "description": "TO LAND", "beat": "1821", "date": {"$date": 1369223580000}, "ward": "27", "_id": {"$oid": "51a7708c3c002ed20d78ac87"}, "iucr": "1330", "longitude": "-87.638099852687", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1173503", "updated_on": {"$date": 1369528777000}, "fbi_code": "26", "block": "003XX W GOETHE ST"}
+{
+    "y_coordinate": "1908942", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285925", 
+    "id": "9141030", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.638099852687, 
+            41.90555759003037
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.90555759003037", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "1821", 
+    "date": {
+        "$date": 1369223580000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac87"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.638099852687", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1173503", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "26", 
+    "block": "003XX W GOETHE ST"
+}

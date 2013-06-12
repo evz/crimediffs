@@ -1,1 +1,38 @@
-{"y_coordinate": "1926449", "year": "2013", "domestic": false, "case_number": "HW296761", "id": "9151446", "primary_type": "DECEPTIVE PRACTICE", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7098538383143, 41.954012738142225]}, "community_area": "16", "latitude": "41.954012738142225", "type": null, "description": "BOGUS CHECK", "beat": "1724", "date": {"$date": 1369380600000}, "ward": "33", "_id": {"$oid": "51aa13933c002ed20d78b117"}, "iucr": "1110", "longitude": "-87.7098538383143", "location_description": "OTHER", "x_coordinate": "1153842", "updated_on": {"$date": 1370565766000}, "fbi_code": "11", "block": "032XX W IRVING PARK RD"}
+{
+    "y_coordinate": "1926449", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW296761", 
+    "id": "9151446", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7098538383143, 
+            41.954012738142225
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.954012738142225", 
+    "type": null, 
+    "description": "BOGUS CHECK", 
+    "beat": "1724", 
+    "date": {
+        "$date": 1369380600000
+    }, 
+    "ward": "33", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b117"
+    }, 
+    "iucr": "1110", 
+    "longitude": "-87.7098538383143", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1153842", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "11", 
+    "block": "032XX W IRVING PARK RD"
+}

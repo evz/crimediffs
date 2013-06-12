@@ -1,1 +1,38 @@
-{"y_coordinate": "1869694", "year": "2013", "domestic": false, "case_number": "HW299998", "id": "9154587", "primary_type": "THEFT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64510325225596, 41.79789316753021]}, "community_area": "61", "latitude": "41.79789316753021", "type": "property", "description": "$500 AND UNDER", "beat": "0935", "date": {"$date": 1370089800000}, "ward": "3", "_id": {"$oid": "51b5f1203c002ed20d78d0e5"}, "iucr": "820", "longitude": "-87.64510325225596", "location_description": "CTA BUS", "x_coordinate": "1171911", "updated_on": {"$date": 1370911182000}, "fbi_code": "06", "block": "053XX S HALSTED ST"}
+{
+    "y_coordinate": "1869694", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299998", 
+    "id": "9154587", 
+    "primary_type": "THEFT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64510325225596, 
+            41.79789316753021
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.79789316753021", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0935", 
+    "date": {
+        "$date": 1370089800000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0e5"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.64510325225596", 
+    "location_description": "CTA BUS", 
+    "x_coordinate": "1171911", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "06", 
+    "block": "053XX S HALSTED ST"
+}

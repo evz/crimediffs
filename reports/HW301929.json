@@ -1,1 +1,38 @@
-{"y_coordinate": "1910369", "year": "2013", "domestic": false, "case_number": "HW301929", "id": "9156093", "primary_type": "BURGLARY", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71441254383006, 41.909910289684355]}, "community_area": "23", "latitude": "41.909910289684355", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1422", "date": {"$date": 1370226000000}, "ward": "26", "_id": {"$oid": "51b5f1143c002ed20d78cbae"}, "iucr": "610", "longitude": "-87.71441254383006", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1152718", "updated_on": {"$date": 1370392932000}, "fbi_code": "05", "block": "035XX W NORTH AVE"}
+{
+    "y_coordinate": "1910369", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301929", 
+    "id": "9156093", 
+    "primary_type": "BURGLARY", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71441254383006, 
+            41.909910289684355
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.909910289684355", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1422", 
+    "date": {
+        "$date": 1370226000000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51b5f1143c002ed20d78cbae"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.71441254383006", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1152718", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "05", 
+    "block": "035XX W NORTH AVE"
+}

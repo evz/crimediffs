@@ -1,1 +1,38 @@
-{"y_coordinate": "1908335", "year": "2013", "domestic": false, "case_number": "HW287429", "id": "9142407", "primary_type": "ROBBERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73581200994326, 41.90444186103403]}, "community_area": "23", "latitude": "41.90444186103403", "type": "violent", "description": "ARMED: OTHER DANGEROUS WEAPON", "beat": "2534", "date": {"$date": 1369309080000}, "ward": "37", "_id": {"$oid": "51aa13973c002ed20d78b371"}, "iucr": "313", "longitude": "-87.73581200994326", "location_description": "ALLEY", "x_coordinate": "1146907", "updated_on": {"$date": 1370133629000}, "fbi_code": "03", "block": "043XX W POTOMAC AVE"}
+{
+    "y_coordinate": "1908335", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287429", 
+    "id": "9142407", 
+    "primary_type": "ROBBERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73581200994326, 
+            41.90444186103403
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.90444186103403", 
+    "type": "violent", 
+    "description": "ARMED: OTHER DANGEROUS WEAPON", 
+    "beat": "2534", 
+    "date": {
+        "$date": 1369309080000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b371"
+    }, 
+    "iucr": "313", 
+    "longitude": "-87.73581200994326", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1146907", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "03", 
+    "block": "043XX W POTOMAC AVE"
+}

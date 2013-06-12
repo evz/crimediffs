@@ -1,1 +1,38 @@
-{"y_coordinate": "1939274", "year": "2013", "domestic": false, "case_number": "HW299750", "id": "9154353", "primary_type": "THEFT", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69220481927773, 41.989109947894896]}, "community_area": "2", "latitude": "41.989109947894896", "type": "property", "description": "$500 AND UNDER", "beat": "2011", "date": {"$date": 1370084400000}, "ward": "40", "_id": {"$oid": "51b5f1203c002ed20d78d11e"}, "iucr": "820", "longitude": "-87.69220481927773", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1158547", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "059XX N CAMPBELL AVE"}
+{
+    "y_coordinate": "1939274", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299750", 
+    "id": "9154353", 
+    "primary_type": "THEFT", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69220481927773, 
+            41.989109947894896
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "41.989109947894896", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2011", 
+    "date": {
+        "$date": 1370084400000
+    }, 
+    "ward": "40", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d11e"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.69220481927773", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1158547", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "059XX N CAMPBELL AVE"
+}

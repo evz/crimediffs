@@ -1,1 +1,38 @@
-{"y_coordinate": "1934364", "year": "2013", "domestic": false, "case_number": "HW303073", "id": "9157617", "primary_type": "THEFT", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70150031225003, 41.97568747017718]}, "community_area": "4", "latitude": "41.97568747017718", "type": "property", "description": "OVER $500", "beat": "2031", "date": {"$date": 1370214000000}, "ward": "40", "_id": {"$oid": "51b5f1163c002ed20d78cc08"}, "iucr": "810", "longitude": "-87.70150031225003", "location_description": "RESTAURANT", "x_coordinate": "1156056", "updated_on": {"$date": 1370651988000}, "fbi_code": "06", "block": "029XX W FOSTER AVE"}
+{
+    "y_coordinate": "1934364", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303073", 
+    "id": "9157617", 
+    "primary_type": "THEFT", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70150031225003, 
+            41.97568747017718
+        ]
+    }, 
+    "community_area": "4", 
+    "latitude": "41.97568747017718", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "2031", 
+    "date": {
+        "$date": 1370214000000
+    }, 
+    "ward": "40", 
+    "_id": {
+        "$oid": "51b5f1163c002ed20d78cc08"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.70150031225003", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1156056", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "06", 
+    "block": "029XX W FOSTER AVE"
+}

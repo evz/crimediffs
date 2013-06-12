@@ -1,1 +1,38 @@
-{"y_coordinate": "1891324", "year": "2013", "domestic": false, "case_number": "HW289518", "id": "9144375", "primary_type": "DECEPTIVE PRACTICE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65655802339033, 41.85731977117945]}, "community_area": "31", "latitude": "41.85731977117945", "type": null, "description": "CREDIT CARD FRAUD", "beat": "1233", "date": {"$date": 1369362000000}, "ward": "25", "_id": {"$oid": "51aa13943c002ed20d78b151"}, "iucr": "1150", "longitude": "-87.65655802339033", "location_description": "TAXICAB", "x_coordinate": "1168617", "updated_on": {"$date": 1369701613000}, "fbi_code": "11", "block": "018XX S RACINE AVE"}
+{
+    "y_coordinate": "1891324", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289518", 
+    "id": "9144375", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65655802339033, 
+            41.85731977117945
+        ]
+    }, 
+    "community_area": "31", 
+    "latitude": "41.85731977117945", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "1233", 
+    "date": {
+        "$date": 1369362000000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b151"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.65655802339033", 
+    "location_description": "TAXICAB", 
+    "x_coordinate": "1168617", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "11", 
+    "block": "018XX S RACINE AVE"
+}

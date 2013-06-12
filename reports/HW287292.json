@@ -1,1 +1,38 @@
-{"y_coordinate": "1872082", "year": "2013", "domestic": false, "case_number": "HW287292", "id": "9142386", "primary_type": "ASSAULT", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60499128476953, 41.80419918610001]}, "community_area": "39", "latitude": "41.80419918610001", "type": null, "description": "PRO EMP HANDS NO/MIN INJURY", "beat": "0223", "date": {"$date": 1369302000000}, "ward": "4", "_id": {"$oid": "51aa13983c002ed20d78b3c8"}, "iucr": "545", "longitude": "-87.60499128476953", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1182829", "updated_on": {"$date": 1369442383000}, "fbi_code": "08A", "block": "008XX E 50TH ST"}
+{
+    "y_coordinate": "1872082", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287292", 
+    "id": "9142386", 
+    "primary_type": "ASSAULT", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60499128476953, 
+            41.80419918610001
+        ]
+    }, 
+    "community_area": "39", 
+    "latitude": "41.80419918610001", 
+    "type": null, 
+    "description": "PRO EMP HANDS NO/MIN INJURY", 
+    "beat": "0223", 
+    "date": {
+        "$date": 1369302000000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3c8"
+    }, 
+    "iucr": "545", 
+    "longitude": "-87.60499128476953", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1182829", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08A", 
+    "block": "008XX E 50TH ST"
+}

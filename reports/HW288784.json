@@ -1,1 +1,38 @@
-{"y_coordinate": "1875477", "year": "2013", "domestic": false, "case_number": "HW288784", "id": "9143773", "primary_type": "DECEPTIVE PRACTICE", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72367656506275, 41.81420722737827]}, "community_area": "57", "latitude": "41.81420722737827", "type": null, "description": "ILLEGAL USE CASH CARD", "beat": "0821", "date": {"$date": 1369342800000}, "ward": "14", "_id": {"$oid": "51aa13953c002ed20d78b1ec"}, "iucr": "1152", "longitude": "-87.72367656506275", "location_description": "DEPARTMENT STORE", "x_coordinate": "1150444", "updated_on": {"$date": 1369701613000}, "fbi_code": "11", "block": "043XX S PULASKI RD"}
+{
+    "y_coordinate": "1875477", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288784", 
+    "id": "9143773", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72367656506275, 
+            41.81420722737827
+        ]
+    }, 
+    "community_area": "57", 
+    "latitude": "41.81420722737827", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "0821", 
+    "date": {
+        "$date": 1369342800000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b1ec"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.72367656506275", 
+    "location_description": "DEPARTMENT STORE", 
+    "x_coordinate": "1150444", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "11", 
+    "block": "043XX S PULASKI RD"
+}

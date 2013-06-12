@@ -1,1 +1,38 @@
-{"y_coordinate": "1860929", "year": "2013", "domestic": false, "case_number": "HW288067", "id": "9142922", "primary_type": "THEFT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56848983542024, 41.7733549745037]}, "community_area": "43", "latitude": "41.7733549745037", "type": "property", "description": "$500 AND UNDER", "beat": "0331", "date": {"$date": 1369242000000}, "ward": "5", "_id": {"$oid": "51a7708a3c002ed20d78ab81"}, "iucr": "820", "longitude": "-87.56848983542024", "location_description": "APARTMENT", "x_coordinate": "1192881", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "067XX S OGLESBY AVE"}
+{
+    "y_coordinate": "1860929", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288067", 
+    "id": "9142922", 
+    "primary_type": "THEFT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56848983542024, 
+            41.7733549745037
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.7733549745037", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0331", 
+    "date": {
+        "$date": 1369242000000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab81"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.56848983542024", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1192881", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "067XX S OGLESBY AVE"
+}

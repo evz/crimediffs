@@ -1,1 +1,38 @@
-{"y_coordinate": "1931959", "year": "2013", "domestic": false, "case_number": "HW300780", "id": "9155169", "primary_type": "BATTERY", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69366734513707, 41.96904428364412]}, "community_area": "4", "latitude": "41.96904428364412", "type": null, "description": "SIMPLE", "beat": "2031", "date": {"$date": 1370143500000}, "ward": "47", "_id": {"$oid": "51b5f11d3c002ed20d78ce97"}, "iucr": "460", "longitude": "-87.69366734513707", "location_description": "SIDEWALK", "x_coordinate": "1158204", "updated_on": {"$date": 1370306580000}, "fbi_code": "08B", "block": "048XX N ROCKWELL ST"}
+{
+    "y_coordinate": "1931959", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300780", 
+    "id": "9155169", 
+    "primary_type": "BATTERY", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69366734513707, 
+            41.96904428364412
+        ]
+    }, 
+    "community_area": "4", 
+    "latitude": "41.96904428364412", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2031", 
+    "date": {
+        "$date": 1370143500000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78ce97"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.69366734513707", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1158204", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08B", 
+    "block": "048XX N ROCKWELL ST"
+}

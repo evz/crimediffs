@@ -1,1 +1,38 @@
-{"y_coordinate": "1906785", "year": "2013", "domestic": false, "case_number": "HW283085", "id": "9138039", "primary_type": "ASSAULT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7312970623952, 41.90016470906278]}, "community_area": "23", "latitude": "41.90016470906278", "type": null, "description": "PRO EMP HANDS NO/MIN INJURY", "beat": "1111", "date": {"$date": 1369061100000}, "ward": "37", "_id": {"$oid": "51a4cd913c002ed20d78a4e9"}, "iucr": "545", "longitude": "-87.7312970623952", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1148147", "updated_on": {"$date": 1369269615000}, "fbi_code": "08A", "block": "010XX N KEELER AVE"}
+{
+    "y_coordinate": "1906785", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283085", 
+    "id": "9138039", 
+    "primary_type": "ASSAULT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7312970623952, 
+            41.90016470906278
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.90016470906278", 
+    "type": null, 
+    "description": "PRO EMP HANDS NO/MIN INJURY", 
+    "beat": "1111", 
+    "date": {
+        "$date": 1369061100000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a4e9"
+    }, 
+    "iucr": "545", 
+    "longitude": "-87.7312970623952", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1148147", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "08A", 
+    "block": "010XX N KEELER AVE"
+}

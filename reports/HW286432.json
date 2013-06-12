@@ -1,1 +1,38 @@
-{"y_coordinate": "1942365", "year": "2013", "domestic": false, "case_number": "HW286432", "id": "9141479", "primary_type": "THEFT", "district": "024", "arrest": true, "location": {"type": "Point", "coordinates": [-87.7012831781798, 41.99764259396654]}, "community_area": "2", "latitude": "41.99764259396654", "type": "property", "description": "RETAIL THEFT", "beat": "2412", "date": {"$date": 1369241040000}, "ward": "50", "_id": {"$oid": "51a7708a3c002ed20d78ab90"}, "iucr": "860", "longitude": "-87.7012831781798", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1156056", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "028XX W DEVON AVE"}
+{
+    "y_coordinate": "1942365", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286432", 
+    "id": "9141479", 
+    "primary_type": "THEFT", 
+    "district": "024", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7012831781798, 
+            41.99764259396654
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "41.99764259396654", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "2412", 
+    "date": {
+        "$date": 1369241040000
+    }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab90"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.7012831781798", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1156056", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "028XX W DEVON AVE"
+}

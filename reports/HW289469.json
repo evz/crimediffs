@@ -1,1 +1,38 @@
-{"y_coordinate": "1919763", "year": "2013", "domestic": false, "case_number": "HW289469", "id": "9144320", "primary_type": "THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77628024621224, 41.93600639323734]}, "community_area": "19", "latitude": "41.93600639323734", "type": "property", "description": "$500 AND UNDER", "beat": "2511", "date": {"$date": 1369400400000}, "ward": "29", "_id": {"$oid": "51aa13913c002ed20d78b034"}, "iucr": "820", "longitude": "-87.77628024621224", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1135816", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "030XX N AUSTIN AVE"}
+{
+    "y_coordinate": "1919763", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289469", 
+    "id": "9144320", 
+    "primary_type": "THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77628024621224, 
+            41.93600639323734
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.93600639323734", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2511", 
+    "date": {
+        "$date": 1369400400000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b034"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.77628024621224", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1135816", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "030XX N AUSTIN AVE"
+}

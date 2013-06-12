@@ -1,1 +1,38 @@
-{"y_coordinate": "1907068", "year": "2013", "domestic": true, "case_number": "HW301071", "id": "9155604", "primary_type": "ASSAULT", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77032776385738, 41.90113932316422]}, "community_area": "25", "latitude": "41.90113932316422", "type": null, "description": "SIMPLE", "beat": "1511", "date": {"$date": 1370173200000}, "ward": "29", "_id": {"$oid": "51b5f11b3c002ed20d78cddb"}, "iucr": "560", "longitude": "-87.77032776385738", "location_description": "RESIDENCE", "x_coordinate": "1137519", "updated_on": {"$date": 1370651988000}, "fbi_code": "08A", "block": "011XX N MENARD AVE"}
+{
+    "y_coordinate": "1907068", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301071", 
+    "id": "9155604", 
+    "primary_type": "ASSAULT", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77032776385738, 
+            41.90113932316422
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.90113932316422", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1511", 
+    "date": {
+        "$date": 1370173200000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cddb"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.77032776385738", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1137519", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "08A", 
+    "block": "011XX N MENARD AVE"
+}

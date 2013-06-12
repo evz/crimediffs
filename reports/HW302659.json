@@ -1,1 +1,38 @@
-{"y_coordinate": "1938449", "year": "2013", "domestic": false, "case_number": "HW302659", "id": "9157556", "primary_type": "THEFT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7841606634537, 41.98732272161038]}, "community_area": "10", "latitude": "41.98732272161038", "type": "property", "description": "FROM BUILDING", "beat": "1622", "date": {"$date": 1369209600000}, "ward": "45", "_id": {"$oid": "51b34a1e3c002ed20d78cb76"}, "iucr": "890", "longitude": "-87.7841606634537", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1133552", "updated_on": {"$date": 1370824784000}, "fbi_code": "06", "block": "058XX N MERRIMAC AVE"}
+{
+    "y_coordinate": "1938449", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302659", 
+    "id": "9157556", 
+    "primary_type": "THEFT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7841606634537, 
+            41.98732272161038
+        ]
+    }, 
+    "community_area": "10", 
+    "latitude": "41.98732272161038", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1622", 
+    "date": {
+        "$date": 1369209600000
+    }, 
+    "ward": "45", 
+    "_id": {
+        "$oid": "51b34a1e3c002ed20d78cb76"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.7841606634537", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1133552", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "06", 
+    "block": "058XX N MERRIMAC AVE"
+}

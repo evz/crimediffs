@@ -1,1 +1,38 @@
-{"y_coordinate": "1929858", "year": "2013", "domestic": false, "case_number": "HW289266", "id": "9144308", "primary_type": "BURGLARY", "district": "016", "arrest": true, "location": {"type": "Point", "coordinates": [-87.78433006668952, 41.963748053569745]}, "community_area": "15", "latitude": "41.963748053569745", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1622", "date": {"$date": 1369412400000}, "ward": "38", "_id": {"$oid": "51aa13903c002ed20d78af86"}, "iucr": "610", "longitude": "-87.78433006668952", "location_description": "RESIDENCE", "x_coordinate": "1133561", "updated_on": {"$date": 1369960832000}, "fbi_code": "05", "block": "045XX N MOBILE AVE"}
+{
+    "y_coordinate": "1929858", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289266", 
+    "id": "9144308", 
+    "primary_type": "BURGLARY", 
+    "district": "016", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78433006668952, 
+            41.963748053569745
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.963748053569745", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1622", 
+    "date": {
+        "$date": 1369412400000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78af86"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.78433006668952", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1133561", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "05", 
+    "block": "045XX N MOBILE AVE"
+}

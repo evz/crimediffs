@@ -1,1 +1,33 @@
-{"community_area": "45", "_id": {"$oid": "51aa13963c002ed20d78b2ab"}, "primary_type": "ASSAULT", "beat": "0411", "year": "2013", "domestic": true, "iucr": "560", "arrest": false, "location_description": "RESIDENCE", "location": {"type": "Point", "coordinates": [-87.59318624784744, 41.75082689581574]}, "case_number": "HW293977", "date": {"$date": 1369327200000}, "updated_on": {"$date": 1370824784000}, "ward": "8", "fbi_code": "08A", "type": null, "id": "9148652", "block": "079XX S KIMBARK AVE", "description": "SIMPLE"}
+{
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b2ab"
+    }, 
+    "primary_type": "ASSAULT", 
+    "year": "2013", 
+    "beat": "0411", 
+    "case_number": "HW293977", 
+    "domestic": true, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59318624784744, 
+            41.75082689581574
+        ]
+    }, 
+    "community_area": "45", 
+    "date": {
+        "$date": 1369327200000
+    }, 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "ward": "8", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9148652", 
+    "block": "079XX S KIMBARK AVE", 
+    "description": "SIMPLE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1876970", "year": "2013", "domestic": false, "case_number": "HW303602", "id": "9158240", "primary_type": "THEFT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6334444564851, 41.81779008848823]}, "community_area": "37", "latitude": "41.81779008848823", "type": "property", "description": "$500 AND UNDER", "beat": "0925", "date": {"$date": 1370185200000}, "ward": "3", "_id": {"$oid": "51b5f11a3c002ed20d78cd5c"}, "iucr": "820", "longitude": "-87.6334444564851", "location_description": "RESIDENCE", "x_coordinate": "1175031", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "042XX S PRINCETON AVE"}
+{
+    "y_coordinate": "1876970", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303602", 
+    "id": "9158240", 
+    "primary_type": "THEFT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6334444564851, 
+            41.81779008848823
+        ]
+    }, 
+    "community_area": "37", 
+    "latitude": "41.81779008848823", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0925", 
+    "date": {
+        "$date": 1370185200000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd5c"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.6334444564851", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1175031", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "042XX S PRINCETON AVE"
+}

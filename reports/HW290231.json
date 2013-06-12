@@ -1,1 +1,38 @@
-{"y_coordinate": "1888975", "year": "2013", "domestic": false, "case_number": "HW290231", "id": "9144975", "primary_type": "MOTOR VEHICLE THEFT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6840827723206, 41.851032404416586]}, "community_area": "31", "latitude": "41.851032404416586", "type": "property", "description": "TRUCK, BUS, MOTOR HOME", "beat": "1034", "date": {"$date": 1369478400000}, "ward": "25", "_id": {"$oid": "51b34a113c002ed20d78cac4"}, "iucr": "915", "longitude": "-87.6840827723206", "location_description": "STREET", "x_coordinate": "1161136", "updated_on": {"$date": 1369701613000}, "fbi_code": "07", "block": "023XX W 22ND PL"}
+{
+    "y_coordinate": "1888975", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290231", 
+    "id": "9144975", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6840827723206, 
+            41.851032404416586
+        ]
+    }, 
+    "community_area": "31", 
+    "latitude": "41.851032404416586", 
+    "type": "property", 
+    "description": "TRUCK, BUS, MOTOR HOME", 
+    "beat": "1034", 
+    "date": {
+        "$date": 1369478400000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78cac4"
+    }, 
+    "iucr": "915", 
+    "longitude": "-87.6840827723206", 
+    "location_description": "STREET", 
+    "x_coordinate": "1161136", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "07", 
+    "block": "023XX W 22ND PL"
+}

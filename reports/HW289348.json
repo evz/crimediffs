@@ -1,1 +1,38 @@
-{"y_coordinate": "1941653", "year": "2013", "domestic": false, "case_number": "HW289348", "id": "9144305", "primary_type": "THEFT", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68996161817492, 41.995625834105454]}, "community_area": "2", "latitude": "41.995625834105454", "type": "property", "description": "OVER $500", "beat": "2413", "date": {"$date": 1369323000000}, "ward": "50", "_id": {"$oid": "51aa13963c002ed20d78b2d8"}, "iucr": "810", "longitude": "-87.68996161817492", "location_description": "RESTAURANT", "x_coordinate": "1159139", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "062XX N WESTERN AVE"}
+{
+    "y_coordinate": "1941653", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289348", 
+    "id": "9144305", 
+    "primary_type": "THEFT", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68996161817492, 
+            41.995625834105454
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "41.995625834105454", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "2413", 
+    "date": {
+        "$date": 1369323000000
+    }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b2d8"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.68996161817492", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1159139", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "062XX N WESTERN AVE"
+}

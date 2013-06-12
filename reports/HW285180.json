@@ -1,1 +1,38 @@
-{"y_coordinate": "1905932", "year": "2013", "domestic": false, "case_number": "HW285180", "id": "9139786", "primary_type": "THEFT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63437704871694, 41.8972748480972]}, "community_area": "8", "latitude": "41.8972748480972", "type": "property", "description": "OVER $500", "beat": "1823", "date": {"$date": 1369157400000}, "ward": "27", "_id": {"$oid": "51a61f0b3c002ed20d78a7f6"}, "iucr": "810", "longitude": "-87.63437704871694", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1174541", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "008XX N WELLS ST"}
+{
+    "y_coordinate": "1905932", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285180", 
+    "id": "9139786", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63437704871694, 
+            41.8972748480972
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.8972748480972", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1823", 
+    "date": {
+        "$date": 1369157400000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a7f6"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.63437704871694", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1174541", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "008XX N WELLS ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1842223", "year": "2013", "domestic": false, "case_number": "HW286684", "id": "9141605", "primary_type": "ROBBERY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.57184962123218, 41.722042391969005]}, "community_area": "51", "latitude": "41.722042391969005", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "0431", "date": {"$date": 1369251600000}, "ward": "7", "_id": {"$oid": "51a770893c002ed20d78ab18"}, "iucr": "320", "longitude": "-87.57184962123218", "location_description": "ALLEY", "x_coordinate": "1192130", "updated_on": {"$date": 1369442383000}, "fbi_code": "03", "block": "095XX S CLYDE AVE"}
+{
+    "y_coordinate": "1842223", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286684", 
+    "id": "9141605", 
+    "primary_type": "ROBBERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57184962123218, 
+            41.722042391969005
+        ]
+    }, 
+    "community_area": "51", 
+    "latitude": "41.722042391969005", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0431", 
+    "date": {
+        "$date": 1369251600000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51a770893c002ed20d78ab18"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.57184962123218", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1192130", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "03", 
+    "block": "095XX S CLYDE AVE"
+}

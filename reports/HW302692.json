@@ -1,1 +1,38 @@
-{"y_coordinate": "1949269", "year": "2013", "domestic": false, "case_number": "HW302692", "id": "9157567", "primary_type": "THEFT", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67234965010401, 42.016425494872415]}, "community_area": "1", "latitude": "42.016425494872415", "type": "property", "description": "$500 AND UNDER", "beat": "2422", "date": {"$date": 1370196000000}, "ward": "49", "_id": {"$oid": "51b5f1193c002ed20d78ccdb"}, "iucr": "820", "longitude": "-87.67234965010401", "location_description": "APARTMENT", "x_coordinate": "1163868", "updated_on": {"$date": 1370565766000}, "fbi_code": "06", "block": "074XX N PAULINA ST"}
+{
+    "y_coordinate": "1949269", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302692", 
+    "id": "9157567", 
+    "primary_type": "THEFT", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67234965010401, 
+            42.016425494872415
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "42.016425494872415", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2422", 
+    "date": {
+        "$date": 1370196000000
+    }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78ccdb"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.67234965010401", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1163868", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "06", 
+    "block": "074XX N PAULINA ST"
+}

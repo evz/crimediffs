@@ -1,1 +1,38 @@
-{"y_coordinate": "1877348", "year": "2013", "domestic": false, "case_number": "HW289172", "id": "9144324", "primary_type": "BATTERY", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60898376096331, 41.81867577750565]}, "community_area": "38", "latitude": "41.81867577750565", "type": "violent", "description": "AGGRAVATED OF A SENIOR CITIZEN", "beat": "0214", "date": {"$date": 1369404000000}, "ward": "4", "_id": {"$oid": "51aa13913c002ed20d78afff"}, "iucr": "495", "longitude": "-87.60898376096331", "location_description": "STREET", "x_coordinate": "1181696", "updated_on": {"$date": 1370220023000}, "fbi_code": "04B", "block": "007XX E 42ND ST"}
+{
+    "y_coordinate": "1877348", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289172", 
+    "id": "9144324", 
+    "primary_type": "BATTERY", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60898376096331, 
+            41.81867577750565
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.81867577750565", 
+    "type": "violent", 
+    "description": "AGGRAVATED OF A SENIOR CITIZEN", 
+    "beat": "0214", 
+    "date": {
+        "$date": 1369404000000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78afff"
+    }, 
+    "iucr": "495", 
+    "longitude": "-87.60898376096331", 
+    "location_description": "STREET", 
+    "x_coordinate": "1181696", 
+    "updated_on": {
+        "$date": 1370220023000
+    }, 
+    "fbi_code": "04B", 
+    "block": "007XX E 42ND ST"
+}

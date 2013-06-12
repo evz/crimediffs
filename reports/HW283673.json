@@ -1,1 +1,38 @@
-{"y_coordinate": "1941750", "year": "2013", "domestic": false, "case_number": "HW283673", "id": "9138215", "primary_type": "THEFT", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69972913801044, 41.99594634874998]}, "community_area": "2", "latitude": "41.99594634874998", "type": "property", "description": "$500 AND UNDER", "beat": "2413", "date": {"$date": 1369080000000}, "ward": "50", "_id": {"$oid": "51a4cd8e3c002ed20d78a3dd"}, "iucr": "820", "longitude": "-87.69972913801044", "location_description": "HOSPITAL BUILDING/GROUNDS", "x_coordinate": "1156483", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "063XX N CALIFORNIA AVE"}
+{
+    "y_coordinate": "1941750", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283673", 
+    "id": "9138215", 
+    "primary_type": "THEFT", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69972913801044, 
+            41.99594634874998
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "41.99594634874998", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2413", 
+    "date": {
+        "$date": 1369080000000
+    }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3dd"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.69972913801044", 
+    "location_description": "HOSPITAL BUILDING/GROUNDS", 
+    "x_coordinate": "1156483", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "063XX N CALIFORNIA AVE"
+}

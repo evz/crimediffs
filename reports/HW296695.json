@@ -1,1 +1,38 @@
-{"y_coordinate": "1855614", "year": "2013", "domestic": false, "case_number": "HW296695", "id": "9151036", "primary_type": "THEFT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64318899928783, 41.75924205495253]}, "community_area": "68", "latitude": "41.75924205495253", "type": "property", "description": "ATTEMPT FINANCIAL IDENTITY THEFT", "beat": "0732", "date": {"$date": 1369072800000}, "ward": "17", "_id": {"$oid": "51aa139d3c002ed20d78b458"}, "iucr": "843", "longitude": "-87.64318899928783", "location_description": "RESIDENCE", "x_coordinate": "1172546", "updated_on": {"$date": 1370133629000}, "fbi_code": "06", "block": "074XX S EMERALD AVE"}
+{
+    "y_coordinate": "1855614", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW296695", 
+    "id": "9151036", 
+    "primary_type": "THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64318899928783, 
+            41.75924205495253
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.75924205495253", 
+    "type": "property", 
+    "description": "ATTEMPT FINANCIAL IDENTITY THEFT", 
+    "beat": "0732", 
+    "date": {
+        "$date": 1369072800000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51aa139d3c002ed20d78b458"
+    }, 
+    "iucr": "843", 
+    "longitude": "-87.64318899928783", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1172546", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "06", 
+    "block": "074XX S EMERALD AVE"
+}

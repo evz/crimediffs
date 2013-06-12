@@ -1,1 +1,38 @@
-{"y_coordinate": "1854294", "year": "2013", "domestic": false, "case_number": "HW288172", "id": "9143092", "primary_type": "BURGLARY", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63456802009908, 41.75556746867442]}, "community_area": "69", "latitude": "41.75556746867442", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "0621", "date": {"$date": 1369299600000}, "ward": "17", "_id": {"$oid": "51aa13983c002ed20d78b3e2"}, "iucr": "620", "longitude": "-87.63456802009908", "location_description": "APARTMENT", "x_coordinate": "1174909", "updated_on": {"$date": 1369874559000}, "fbi_code": "05", "block": "076XX S STEWART AVE"}
+{
+    "y_coordinate": "1854294", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288172", 
+    "id": "9143092", 
+    "primary_type": "BURGLARY", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63456802009908, 
+            41.75556746867442
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.75556746867442", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "0621", 
+    "date": {
+        "$date": 1369299600000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3e2"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.63456802009908", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1174909", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "05", 
+    "block": "076XX S STEWART AVE"
+}

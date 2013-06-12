@@ -1,1 +1,38 @@
-{"y_coordinate": "1902880", "year": "2013", "domestic": true, "case_number": "HW286951", "id": "9141731", "primary_type": "BATTERY", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64178000540112, 41.88894425642148]}, "community_area": "28", "latitude": "41.88894425642148", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1214", "date": {"$date": 1369261800000}, "ward": "42", "_id": {"$oid": "51a770883c002ed20d78aa80"}, "iucr": "486", "longitude": "-87.64178000540112", "location_description": "SIDEWALK", "x_coordinate": "1172550", "updated_on": {"$date": 1369615194000}, "fbi_code": "08B", "block": "005XX W KINZIE ST"}
+{
+    "y_coordinate": "1902880", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW286951", 
+    "id": "9141731", 
+    "primary_type": "BATTERY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64178000540112, 
+            41.88894425642148
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.88894425642148", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1214", 
+    "date": {
+        "$date": 1369261800000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aa80"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.64178000540112", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1172550", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08B", 
+    "block": "005XX W KINZIE ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1841748", "year": "2013", "domestic": false, "case_number": "HW299950", "id": "9154512", "primary_type": "THEFT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66356223397828, 41.72131000950754]}, "community_area": "73", "latitude": "41.72131000950754", "type": "property", "description": "FINANCIAL ID THEFT: OVER $300", "beat": "2221", "date": {"$date": 1369213200000}, "ward": "21", "_id": {"$oid": "51b34a1d3c002ed20d78cb73"}, "iucr": "840", "longitude": "-87.66356223397828", "location_description": "BANK", "x_coordinate": "1167095", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "016XX W 95TH ST"}
+{
+    "y_coordinate": "1841748", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299950", 
+    "id": "9154512", 
+    "primary_type": "THEFT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66356223397828, 
+            41.72131000950754
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.72131000950754", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "2221", 
+    "date": {
+        "$date": 1369213200000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b34a1d3c002ed20d78cb73"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.66356223397828", 
+    "location_description": "BANK", 
+    "x_coordinate": "1167095", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "016XX W 95TH ST"
+}

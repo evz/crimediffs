@@ -1,1 +1,38 @@
-{"y_coordinate": "1849579", "year": "2013", "domestic": false, "case_number": "HW288026", "id": "9142937", "primary_type": "THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.57960220813435, 41.74228064493159]}, "community_area": "45", "latitude": "41.74228064493159", "type": "property", "description": "$500 AND UNDER", "beat": "0412", "date": {"$date": 1369224000000}, "ward": "8", "_id": {"$oid": "51a7708c3c002ed20d78ac7e"}, "iucr": "820", "longitude": "-87.57960220813435", "location_description": "STREET", "x_coordinate": "1189949", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "084XX S CONSTANCE AVE"}
+{
+    "y_coordinate": "1849579", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288026", 
+    "id": "9142937", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57960220813435, 
+            41.74228064493159
+        ]
+    }, 
+    "community_area": "45", 
+    "latitude": "41.74228064493159", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0412", 
+    "date": {
+        "$date": 1369224000000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac7e"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.57960220813435", 
+    "location_description": "STREET", 
+    "x_coordinate": "1189949", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "084XX S CONSTANCE AVE"
+}

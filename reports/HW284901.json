@@ -1,1 +1,38 @@
-{"y_coordinate": "1896450", "year": "2013", "domestic": false, "case_number": "HW284901", "id": "9139794", "primary_type": "BURGLARY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72357421951487, 41.87176217966023]}, "community_area": "26", "latitude": "41.87176217966023", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "1132", "date": {"$date": 1369137600000}, "ward": "24", "_id": {"$oid": "51a61f0e3c002ed20d78a8f8"}, "iucr": "620", "longitude": "-87.72357421951487", "location_description": "APARTMENT", "x_coordinate": "1150323", "updated_on": {"$date": 1369356045000}, "fbi_code": "05", "block": "039XX W LEXINGTON ST"}
+{
+    "y_coordinate": "1896450", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284901", 
+    "id": "9139794", 
+    "primary_type": "BURGLARY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72357421951487, 
+            41.87176217966023
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.87176217966023", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "1132", 
+    "date": {
+        "$date": 1369137600000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a8f8"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.72357421951487", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1150323", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "05", 
+    "block": "039XX W LEXINGTON ST"
+}

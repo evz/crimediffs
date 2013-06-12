@@ -1,1 +1,38 @@
-{"y_coordinate": "1901507", "year": "2013", "domestic": true, "case_number": "HW287014", "id": "9141807", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71416257871475, 41.88558948964108]}, "community_area": "27", "latitude": "41.88558948964108", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1123", "date": {"$date": 1369270800000}, "ward": "28", "_id": {"$oid": "51a770863c002ed20d78aa31"}, "iucr": "486", "longitude": "-87.71416257871475", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1152850", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "035XX W WALNUT ST"}
+{
+    "y_coordinate": "1901507", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW287014", 
+    "id": "9141807", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71416257871475, 
+            41.88558948964108
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.88558948964108", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1123", 
+    "date": {
+        "$date": 1369270800000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a770863c002ed20d78aa31"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.71416257871475", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1152850", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "035XX W WALNUT ST"
+}

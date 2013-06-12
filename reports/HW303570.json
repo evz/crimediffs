@@ -1,1 +1,38 @@
-{"y_coordinate": "1915748", "year": "2013", "domestic": false, "case_number": "HW303570", "id": "9158320", "primary_type": "CRIMINAL DAMAGE", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70565698638332, 41.92462397688246]}, "community_area": "22", "latitude": "41.92462397688246", "type": "quality", "description": "TO PROPERTY", "beat": "1414", "date": {"$date": 1370302200000}, "ward": "26", "_id": {"$oid": "51b742963c002ed20d78d21e"}, "iucr": "1310", "longitude": "-87.70565698638332", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1155062", "updated_on": {"$date": 1370479286000}, "fbi_code": "14", "block": "031XX W FULLERTON AVE"}
+{
+    "y_coordinate": "1915748", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303570", 
+    "id": "9158320", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70565698638332, 
+            41.92462397688246
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.92462397688246", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1414", 
+    "date": {
+        "$date": 1370302200000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51b742963c002ed20d78d21e"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.70565698638332", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1155062", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "14", 
+    "block": "031XX W FULLERTON AVE"
+}

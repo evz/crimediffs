@@ -1,1 +1,38 @@
-{"y_coordinate": "1922254", "year": "2013", "domestic": false, "case_number": "HW284141", "id": "9138837", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64001131979667, 41.94210024265843]}, "community_area": "6", "latitude": "41.94210024265843", "type": "property", "description": "$500 AND UNDER", "beat": "1925", "date": {"$date": 1369098600000}, "ward": "44", "_id": {"$oid": "51a4cd8b3c002ed20d78a31b"}, "iucr": "820", "longitude": "-87.64001131979667", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1172875", "updated_on": {"$date": 1369269615000}, "fbi_code": "06", "block": "032XX N LAKE SHORE DR"}
+{
+    "y_coordinate": "1922254", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284141", 
+    "id": "9138837", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64001131979667, 
+            41.94210024265843
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.94210024265843", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1925", 
+    "date": {
+        "$date": 1369098600000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51a4cd8b3c002ed20d78a31b"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.64001131979667", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1172875", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "06", 
+    "block": "032XX N LAKE SHORE DR"
+}

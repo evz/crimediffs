@@ -1,1 +1,38 @@
-{"y_coordinate": "1863675", "year": "2013", "domestic": false, "case_number": "HW301792", "id": "9155985", "primary_type": "SEX OFFENSE", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60854829810509, 41.781150498943774]}, "community_area": "42", "latitude": "41.781150498943774", "type": null, "description": "SEXUAL EXPLOITATION OF A CHILD", "beat": "0313", "date": {"$date": 1370208600000}, "ward": "20", "_id": {"$oid": "51b5f1173c002ed20d78cc40"}, "iucr": "1544", "longitude": "-87.60854829810509", "location_description": "APARTMENT", "x_coordinate": "1181930", "updated_on": {"$date": 1370479286000}, "fbi_code": "17", "block": "062XX S LANGLEY AVE"}
+{
+    "y_coordinate": "1863675", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301792", 
+    "id": "9155985", 
+    "primary_type": "SEX OFFENSE", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60854829810509, 
+            41.781150498943774
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.781150498943774", 
+    "type": null, 
+    "description": "SEXUAL EXPLOITATION OF A CHILD", 
+    "beat": "0313", 
+    "date": {
+        "$date": 1370208600000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b5f1173c002ed20d78cc40"
+    }, 
+    "iucr": "1544", 
+    "longitude": "-87.60854829810509", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1181930", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "17", 
+    "block": "062XX S LANGLEY AVE"
+}

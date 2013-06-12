@@ -1,1 +1,38 @@
-{"y_coordinate": "1868619", "year": "2013", "domestic": false, "case_number": "HW286179", "id": "9141373", "primary_type": "BATTERY", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6319373489111, 41.794863430827974]}, "community_area": "37", "latitude": "41.794863430827974", "type": null, "description": "SIMPLE", "beat": "0935", "date": {"$date": 1369231200000}, "ward": "3", "_id": {"$oid": "51a7708b3c002ed20d78ac22"}, "iucr": "460", "longitude": "-87.6319373489111", "location_description": "GAS STATION", "x_coordinate": "1175510", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "054XX S WELLS ST"}
+{
+    "y_coordinate": "1868619", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286179", 
+    "id": "9141373", 
+    "primary_type": "BATTERY", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6319373489111, 
+            41.794863430827974
+        ]
+    }, 
+    "community_area": "37", 
+    "latitude": "41.794863430827974", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0935", 
+    "date": {
+        "$date": 1369231200000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac22"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.6319373489111", 
+    "location_description": "GAS STATION", 
+    "x_coordinate": "1175510", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "054XX S WELLS ST"
+}

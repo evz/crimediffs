@@ -1,1 +1,38 @@
-{"y_coordinate": "1896754", "year": "2013", "domestic": false, "case_number": "HW309131", "id": "9164263", "primary_type": "BATTERY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76473482014406, 41.87280759580087]}, "community_area": "25", "latitude": "41.87280759580087", "type": null, "description": "SIMPLE", "beat": "1513", "date": {"$date": 1369850400000}, "ward": "29", "_id": {"$oid": "51b5f1273c002ed20d78d1b5"}, "iucr": "460", "longitude": "-87.76473482014406", "location_description": "SIDEWALK", "x_coordinate": "1139110", "updated_on": {"$date": 1370824784000}, "fbi_code": "08B", "block": "006XX S CENTRAL AVE"}
+{
+    "y_coordinate": "1896754", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW309131", 
+    "id": "9164263", 
+    "primary_type": "BATTERY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76473482014406, 
+            41.87280759580087
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.87280759580087", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1513", 
+    "date": {
+        "$date": 1369850400000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51b5f1273c002ed20d78d1b5"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.76473482014406", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1139110", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "08B", 
+    "block": "006XX S CENTRAL AVE"
+}

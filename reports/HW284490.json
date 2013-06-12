@@ -1,1 +1,38 @@
-{"y_coordinate": "1860159", "year": "2013", "domestic": false, "case_number": "HW284490", "id": "9139376", "primary_type": "BATTERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63855389195668, 41.7716869517448]}, "community_area": "68", "latitude": "41.7716869517448", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0722", "date": {"$date": 1369141200000}, "ward": "6", "_id": {"$oid": "51a61f0d3c002ed20d78a8ca"}, "iucr": "486", "longitude": "-87.63855389195668", "location_description": "RESIDENCE", "x_coordinate": "1173774", "updated_on": {"$date": 1370133629000}, "fbi_code": "08B", "block": "067XX S PARNELL AVE"}
+{
+    "y_coordinate": "1860159", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284490", 
+    "id": "9139376", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63855389195668, 
+            41.7716869517448
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.7716869517448", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0722", 
+    "date": {
+        "$date": 1369141200000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a61f0d3c002ed20d78a8ca"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.63855389195668", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1173774", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "08B", 
+    "block": "067XX S PARNELL AVE"
+}

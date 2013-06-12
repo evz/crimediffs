@@ -1,1 +1,38 @@
-{"y_coordinate": "1852531", "year": "2013", "domestic": true, "case_number": "HW284717", "id": "9139847", "primary_type": "PUBLIC PEACE VIOLATION", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.5827247959198, 41.75040226838502]}, "community_area": "46", "latitude": "41.75040226838502", "type": null, "description": "ARSON THREAT", "beat": "0414", "date": {"$date": 1369152900000}, "ward": "8", "_id": {"$oid": "51a61f0c3c002ed20d78a833"}, "iucr": "2851", "longitude": "-87.5827247959198", "location_description": "RESIDENCE", "x_coordinate": "1189071", "updated_on": {"$date": 1370306580000}, "fbi_code": "26", "block": "079XX S EAST END AVE"}
+{
+    "y_coordinate": "1852531", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW284717", 
+    "id": "9139847", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5827247959198, 
+            41.75040226838502
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.75040226838502", 
+    "type": null, 
+    "description": "ARSON THREAT", 
+    "beat": "0414", 
+    "date": {
+        "$date": 1369152900000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51a61f0c3c002ed20d78a833"
+    }, 
+    "iucr": "2851", 
+    "longitude": "-87.5827247959198", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1189071", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "26", 
+    "block": "079XX S EAST END AVE"
+}

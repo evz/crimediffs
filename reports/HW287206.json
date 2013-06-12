@@ -1,1 +1,38 @@
-{"y_coordinate": "1853441", "year": "2013", "domestic": false, "case_number": "HW287206", "id": "9142365", "primary_type": "THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56489340136298, 41.752781704385235]}, "community_area": "43", "latitude": "41.752781704385235", "type": "property", "description": "OVER $500", "beat": "0421", "date": {"$date": 1369261800000}, "ward": "7", "_id": {"$oid": "51a770883c002ed20d78aa82"}, "iucr": "810", "longitude": "-87.56489340136298", "location_description": "STREET", "x_coordinate": "1193929", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "078XX S PHILLIPS AVE"}
+{
+    "y_coordinate": "1853441", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287206", 
+    "id": "9142365", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56489340136298, 
+            41.752781704385235
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.752781704385235", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0421", 
+    "date": {
+        "$date": 1369261800000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aa82"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.56489340136298", 
+    "location_description": "STREET", 
+    "x_coordinate": "1193929", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "078XX S PHILLIPS AVE"
+}

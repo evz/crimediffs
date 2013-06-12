@@ -1,1 +1,38 @@
-{"y_coordinate": "1847439", "year": "2013", "domestic": false, "case_number": "HW290380", "id": "9145061", "primary_type": "CRIMINAL DAMAGE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55264459253485, 41.73622783077801]}, "community_area": "46", "latitude": "41.73622783077801", "type": "quality", "description": "TO PROPERTY", "beat": "0423", "date": {"$date": 1369486380000}, "ward": "10", "_id": {"$oid": "51b34a113c002ed20d78ca71"}, "iucr": "1310", "longitude": "-87.55264459253485", "location_description": "SCHOOL, PRIVATE, BUILDING", "x_coordinate": "1197326", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "087XX S EXCHANGE AVE"}
+{
+    "y_coordinate": "1847439", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290380", 
+    "id": "9145061", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55264459253485, 
+            41.73622783077801
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.73622783077801", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0423", 
+    "date": {
+        "$date": 1369486380000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca71"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.55264459253485", 
+    "location_description": "SCHOOL, PRIVATE, BUILDING", 
+    "x_coordinate": "1197326", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "087XX S EXCHANGE AVE"
+}

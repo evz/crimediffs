@@ -1,1 +1,38 @@
-{"y_coordinate": "1917879", "year": "2013", "domestic": false, "case_number": "HW291467", "id": "9146097", "primary_type": "MOTOR VEHICLE THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75378742353897, 41.93072494363294]}, "community_area": "19", "latitude": "41.93072494363294", "type": "property", "description": "AUTOMOBILE", "beat": "2521", "date": {"$date": 1369431000000}, "ward": "31", "_id": {"$oid": "51aa138d3c002ed20d78ae82"}, "iucr": "910", "longitude": "-87.75378742353897", "location_description": "STREET", "x_coordinate": "1141949", "updated_on": {"$date": 1369874559000}, "fbi_code": "07", "block": "027XX N LECLAIRE AVE"}
+{
+    "y_coordinate": "1917879", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291467", 
+    "id": "9146097", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75378742353897, 
+            41.93072494363294
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.93072494363294", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "2521", 
+    "date": {
+        "$date": 1369431000000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78ae82"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.75378742353897", 
+    "location_description": "STREET", 
+    "x_coordinate": "1141949", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "07", 
+    "block": "027XX N LECLAIRE AVE"
+}

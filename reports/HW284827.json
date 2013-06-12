@@ -1,1 +1,38 @@
-{"y_coordinate": "1924692", "year": "2013", "domestic": false, "case_number": "HW284827", "id": "9139570", "primary_type": "BATTERY", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.8011551971985, 41.94965065662149]}, "community_area": "17", "latitude": "41.94965065662149", "type": null, "description": "SIMPLE", "beat": "1632", "date": {"$date": 1369071000000}, "ward": "38", "_id": {"$oid": "51a4cd903c002ed20d78a46c"}, "iucr": "460", "longitude": "-87.8011551971985", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1129017", "updated_on": {"$date": 1369356045000}, "fbi_code": "08B", "block": "038XX N SAYRE AVE"}
+{
+    "y_coordinate": "1924692", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284827", 
+    "id": "9139570", 
+    "primary_type": "BATTERY", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.8011551971985, 
+            41.94965065662149
+        ]
+    }, 
+    "community_area": "17", 
+    "latitude": "41.94965065662149", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1632", 
+    "date": {
+        "$date": 1369071000000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a46c"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.8011551971985", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1129017", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08B", 
+    "block": "038XX N SAYRE AVE"
+}

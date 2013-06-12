@@ -1,1 +1,38 @@
-{"y_coordinate": "1861420", "year": "2013", "domestic": false, "case_number": "HW302243", "id": "9156678", "primary_type": "ASSAULT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70291157415724, 41.77551868824375]}, "community_area": "66", "latitude": "41.77551868824375", "type": null, "description": "SIMPLE", "beat": "0823", "date": {"$date": 1370246400000}, "ward": "15", "_id": {"$oid": "51b7429e3c002ed20d78d4df"}, "iucr": "560", "longitude": "-87.70291157415724", "location_description": "MEDICAL/DENTAL OFFICE", "x_coordinate": "1156208", "updated_on": {"$date": 1370651988000}, "fbi_code": "08A", "block": "064XX S KEDZIE AVE"}
+{
+    "y_coordinate": "1861420", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302243", 
+    "id": "9156678", 
+    "primary_type": "ASSAULT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70291157415724, 
+            41.77551868824375
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.77551868824375", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0823", 
+    "date": {
+        "$date": 1370246400000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b7429e3c002ed20d78d4df"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.70291157415724", 
+    "location_description": "MEDICAL/DENTAL OFFICE", 
+    "x_coordinate": "1156208", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "08A", 
+    "block": "064XX S KEDZIE AVE"
+}

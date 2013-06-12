@@ -1,1 +1,38 @@
-{"y_coordinate": "1885270", "year": "2013", "domestic": false, "case_number": "HW287590", "id": "9142718", "primary_type": "NARCOTICS", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70844928695658, 41.841000063022385]}, "community_area": "30", "latitude": "41.841000063022385", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1032", "date": {"$date": 1369311960000}, "ward": "22", "_id": {"$oid": "51aa13973c002ed20d78b34f"}, "iucr": "1811", "longitude": "-87.70844928695658", "location_description": "STREET", "x_coordinate": "1154524", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "027XX S CHRISTIANA AVE"}
+{
+    "y_coordinate": "1885270", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287590", 
+    "id": "9142718", 
+    "primary_type": "NARCOTICS", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70844928695658, 
+            41.841000063022385
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.841000063022385", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1032", 
+    "date": {
+        "$date": 1369311960000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b34f"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.70844928695658", 
+    "location_description": "STREET", 
+    "x_coordinate": "1154524", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "027XX S CHRISTIANA AVE"
+}

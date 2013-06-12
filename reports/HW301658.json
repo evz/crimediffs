@@ -1,1 +1,38 @@
-{"y_coordinate": "1867882", "year": "2013", "domestic": false, "case_number": "HW301658", "id": "9155986", "primary_type": "ROBBERY", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61931976329066, 41.79276316259871]}, "community_area": "40", "latitude": "41.79276316259871", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "0231", "date": {"$date": 1370196600000}, "ward": "20", "_id": {"$oid": "51b5f1193c002ed20d78ccd2"}, "iucr": "320", "longitude": "-87.61931976329066", "location_description": "SIDEWALK", "x_coordinate": "1178957", "updated_on": {"$date": 1370392932000}, "fbi_code": "03", "block": "056XX S PRAIRIE AVE"}
+{
+    "y_coordinate": "1867882", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301658", 
+    "id": "9155986", 
+    "primary_type": "ROBBERY", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61931976329066, 
+            41.79276316259871
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.79276316259871", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0231", 
+    "date": {
+        "$date": 1370196600000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78ccd2"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.61931976329066", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1178957", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "03", 
+    "block": "056XX S PRAIRIE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1855811", "year": "2013", "domestic": false, "case_number": "HW301583", "id": "9155778", "primary_type": "THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55956036708159, 41.75924989466104]}, "community_area": "43", "latitude": "41.75924989466104", "type": "property", "description": "FROM BUILDING", "beat": "0421", "date": {"$date": 1370181600000}, "ward": "7", "_id": {"$oid": "51b5f11a3c002ed20d78cd84"}, "iucr": "890", "longitude": "-87.55956036708159", "location_description": "NURSING HOME/RETIREMENT HOME", "x_coordinate": "1195363", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "026XX E 75TH ST"}
+{
+    "y_coordinate": "1855811", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301583", 
+    "id": "9155778", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55956036708159, 
+            41.75924989466104
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.75924989466104", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0421", 
+    "date": {
+        "$date": 1370181600000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd84"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.55956036708159", 
+    "location_description": "NURSING HOME/RETIREMENT HOME", 
+    "x_coordinate": "1195363", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "026XX E 75TH ST"
+}

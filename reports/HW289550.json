@@ -1,1 +1,38 @@
-{"y_coordinate": "1907392", "year": "2013", "domestic": false, "case_number": "HW289550", "id": "9144464", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7092645626028, 41.90171283735226]}, "community_area": "23", "latitude": "41.90171283735226", "type": "violent", "description": "AGGRAVATED: HANDGUN", "beat": "1121", "date": {"$date": 1369424100000}, "ward": "26", "_id": {"$oid": "51aa138e3c002ed20d78aeec"}, "iucr": "041A", "longitude": "-87.7092645626028", "location_description": "SIDEWALK", "x_coordinate": "1154141", "updated_on": {"$date": 1370392932000}, "fbi_code": "04B", "block": "011XX N SPAULDING AVE"}
+{
+    "y_coordinate": "1907392", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289550", 
+    "id": "9144464", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7092645626028, 
+            41.90171283735226
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.90171283735226", 
+    "type": "violent", 
+    "description": "AGGRAVATED: HANDGUN", 
+    "beat": "1121", 
+    "date": {
+        "$date": 1369424100000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51aa138e3c002ed20d78aeec"
+    }, 
+    "iucr": "041A", 
+    "longitude": "-87.7092645626028", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1154141", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "04B", 
+    "block": "011XX N SPAULDING AVE"
+}

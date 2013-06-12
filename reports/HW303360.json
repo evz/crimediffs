@@ -1,1 +1,38 @@
-{"y_coordinate": "1935304", "year": "2013", "domestic": false, "case_number": "HW303360", "id": "9157896", "primary_type": "DECEPTIVE PRACTICE", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.8317350640813, 41.97890992710423]}, "community_area": "10", "latitude": "41.97890992710423", "type": null, "description": "CREDIT CARD FRAUD", "beat": "1614", "date": {"$date": 1370217660000}, "ward": "41", "_id": {"$oid": "51b5f1153c002ed20d78cbe0"}, "iucr": "1150", "longitude": "-87.8317350640813", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1120636", "updated_on": {"$date": 1370565766000}, "fbi_code": "11", "block": "054XX N PIONEER AVE"}
+{
+    "y_coordinate": "1935304", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303360", 
+    "id": "9157896", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.8317350640813, 
+            41.97890992710423
+        ]
+    }, 
+    "community_area": "10", 
+    "latitude": "41.97890992710423", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "1614", 
+    "date": {
+        "$date": 1370217660000
+    }, 
+    "ward": "41", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbe0"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.8317350640813", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1120636", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "11", 
+    "block": "054XX N PIONEER AVE"
+}

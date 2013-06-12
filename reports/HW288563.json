@@ -1,1 +1,38 @@
-{"y_coordinate": "1903475", "year": "2013", "domestic": false, "case_number": "HW288563", "id": "9143929", "primary_type": "MOTOR VEHICLE THEFT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6268229028401, 41.89048603096064]}, "community_area": "8", "latitude": "41.89048603096064", "type": "property", "description": "AUTOMOBILE", "beat": "1834", "date": {"$date": 1369359900000}, "ward": "42", "_id": {"$oid": "51aa13943c002ed20d78b15d"}, "iucr": "910", "longitude": "-87.6268229028401", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1176618", "updated_on": {"$date": 1369874559000}, "fbi_code": "07", "block": "004XX N LOWER WABASH AVE"}
+{
+    "y_coordinate": "1903475", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288563", 
+    "id": "9143929", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6268229028401, 
+            41.89048603096064
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89048603096064", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1834", 
+    "date": {
+        "$date": 1369359900000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b15d"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.6268229028401", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1176618", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "07", 
+    "block": "004XX N LOWER WABASH AVE"
+}

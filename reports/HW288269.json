@@ -1,1 +1,38 @@
-{"y_coordinate": "1891264", "year": "2013", "domestic": true, "case_number": "HW288269", "id": "9143235", "primary_type": "BATTERY", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72131618204155, 41.85751845782723]}, "community_area": "29", "latitude": "41.85751845782723", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1014", "date": {"$date": 1369342800000}, "ward": "24", "_id": {"$oid": "51aa13953c002ed20d78b1eb"}, "iucr": "486", "longitude": "-87.72131618204155", "location_description": "APARTMENT", "x_coordinate": "1150975", "updated_on": {"$date": 1369787985000}, "fbi_code": "08B", "block": "016XX S AVERS AVE"}
+{
+    "y_coordinate": "1891264", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW288269", 
+    "id": "9143235", 
+    "primary_type": "BATTERY", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72131618204155, 
+            41.85751845782723
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85751845782723", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1014", 
+    "date": {
+        "$date": 1369342800000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b1eb"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.72131618204155", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1150975", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "08B", 
+    "block": "016XX S AVERS AVE"
+}

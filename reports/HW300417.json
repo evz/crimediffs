@@ -1,1 +1,38 @@
-{"y_coordinate": "1869580", "year": "2013", "domestic": false, "case_number": "HW300417", "id": "9154885", "primary_type": "WEAPONS VIOLATION", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6965019346851, 41.79787675442256]}, "community_area": "63", "latitude": "41.79787675442256", "type": null, "description": "UNLAWFUL POSS OF HANDGUN", "beat": "0923", "date": {"$date": 1370110560000}, "ward": "14", "_id": {"$oid": "51b5f11f3c002ed20d78cffa"}, "iucr": "143A", "longitude": "-87.6965019346851", "location_description": "APARTMENT", "x_coordinate": "1157896", "updated_on": {"$date": 1370306580000}, "fbi_code": "15", "block": "052XX S FRANCISCO AVE"}
+{
+    "y_coordinate": "1869580", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300417", 
+    "id": "9154885", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6965019346851, 
+            41.79787675442256
+        ]
+    }, 
+    "community_area": "63", 
+    "latitude": "41.79787675442256", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "0923", 
+    "date": {
+        "$date": 1370110560000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cffa"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.6965019346851", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1157896", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "15", 
+    "block": "052XX S FRANCISCO AVE"
+}

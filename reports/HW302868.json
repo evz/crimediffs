@@ -1,1 +1,38 @@
-{"y_coordinate": "1874813", "year": "2013", "domestic": false, "case_number": "HW302868", "id": "9157538", "primary_type": "THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72360947901983, 41.812384669187864]}, "community_area": "57", "latitude": "41.812384669187864", "type": "property", "description": "RETAIL THEFT", "beat": "0821", "date": {"$date": 1370271300000}, "ward": "14", "_id": {"$oid": "51b7429c3c002ed20d78d3c6"}, "iucr": "860", "longitude": "-87.72360947901983", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1150467", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "044XX S PULASKI RD"}
+{
+    "y_coordinate": "1874813", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302868", 
+    "id": "9157538", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72360947901983, 
+            41.812384669187864
+        ]
+    }, 
+    "community_area": "57", 
+    "latitude": "41.812384669187864", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0821", 
+    "date": {
+        "$date": 1370271300000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51b7429c3c002ed20d78d3c6"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.72360947901983", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1150467", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "044XX S PULASKI RD"
+}

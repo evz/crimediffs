@@ -1,1 +1,38 @@
-{"y_coordinate": "1917856", "year": "2013", "domestic": false, "case_number": "HW289687", "id": "9144577", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64877760402233, 41.930083775367805]}, "community_area": "7", "latitude": "41.930083775367805", "type": "property", "description": "RETAIL THEFT", "beat": "1935", "date": {"$date": 1369420200000}, "ward": "43", "_id": {"$oid": "51aa138e3c002ed20d78af1a"}, "iucr": "860", "longitude": "-87.64877760402233", "location_description": "DEPARTMENT STORE", "x_coordinate": "1170525", "updated_on": {"$date": 1369874559000}, "fbi_code": "06", "block": "026XX N HALSTED ST"}
+{
+    "y_coordinate": "1917856", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289687", 
+    "id": "9144577", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64877760402233, 
+            41.930083775367805
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.930083775367805", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "1935", 
+    "date": {
+        "$date": 1369420200000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51aa138e3c002ed20d78af1a"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.64877760402233", 
+    "location_description": "DEPARTMENT STORE", 
+    "x_coordinate": "1170525", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "06", 
+    "block": "026XX N HALSTED ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1861678", "year": "2013", "domestic": false, "case_number": "HW283700", "id": "9138402", "primary_type": "ROBBERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6448325812626, 41.775893333439676]}, "community_area": "68", "latitude": "41.775893333439676", "type": "violent", "description": "ARMED:KNIFE/CUTTING INSTRUMENT", "beat": "0723", "date": {"$date": 1369082400000}, "ward": "20", "_id": {"$oid": "51a4cd8e3c002ed20d78a3be"}, "iucr": "312", "longitude": "-87.6448325812626", "location_description": "SIDEWALK", "x_coordinate": "1172049", "updated_on": {"$date": 1369269615000}, "fbi_code": "03", "block": "065XX S HALSTED ST"}
+{
+    "y_coordinate": "1861678", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283700", 
+    "id": "9138402", 
+    "primary_type": "ROBBERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6448325812626, 
+            41.775893333439676
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.775893333439676", 
+    "type": "violent", 
+    "description": "ARMED:KNIFE/CUTTING INSTRUMENT", 
+    "beat": "0723", 
+    "date": {
+        "$date": 1369082400000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3be"
+    }, 
+    "iucr": "312", 
+    "longitude": "-87.6448325812626", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1172049", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "03", 
+    "block": "065XX S HALSTED ST"
+}

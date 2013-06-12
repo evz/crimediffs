@@ -1,1 +1,38 @@
-{"y_coordinate": "1890873", "year": "2013", "domestic": false, "case_number": "HW283231", "id": "9137869", "primary_type": "THEFT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.720129811265, 41.85643912433307]}, "community_area": "29", "latitude": "41.85643912433307", "type": "property", "description": "$500 AND UNDER", "beat": "1014", "date": {"$date": 1369068300000}, "ward": "24", "_id": {"$oid": "51a4cd903c002ed20d78a48e"}, "iucr": "820", "longitude": "-87.720129811265", "location_description": "RESIDENCE", "x_coordinate": "1151301", "updated_on": {"$date": 1369269615000}, "fbi_code": "06", "block": "018XX S HAMLIN AVE"}
+{
+    "y_coordinate": "1890873", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283231", 
+    "id": "9137869", 
+    "primary_type": "THEFT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.720129811265, 
+            41.85643912433307
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85643912433307", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1014", 
+    "date": {
+        "$date": 1369068300000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a48e"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.720129811265", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1151301", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "06", 
+    "block": "018XX S HAMLIN AVE"
+}

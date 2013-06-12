@@ -1,1 +1,38 @@
-{"y_coordinate": "1947381", "year": "2013", "domestic": false, "case_number": "HW285959", "id": "9140939", "primary_type": "OTHER OFFENSE", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69535182161724, 42.01137462969286]}, "community_area": "2", "latitude": "42.01137462969286", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "2411", "date": {"$date": 1369134660000}, "ward": "50", "_id": {"$oid": "51a61f0e3c002ed20d78a91a"}, "iucr": "2825", "longitude": "-87.69535182161724", "location_description": "RESIDENCE", "x_coordinate": "1157631", "updated_on": {"$date": 1369528777000}, "fbi_code": "26", "block": "026XX W FITCH AVE"}
+{
+    "y_coordinate": "1947381", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285959", 
+    "id": "9140939", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69535182161724, 
+            42.01137462969286
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "42.01137462969286", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "2411", 
+    "date": {
+        "$date": 1369134660000
+    }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a91a"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.69535182161724", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1157631", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "26", 
+    "block": "026XX W FITCH AVE"
+}

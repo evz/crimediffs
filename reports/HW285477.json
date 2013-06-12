@@ -1,1 +1,38 @@
-{"y_coordinate": "1872391", "year": "2013", "domestic": true, "case_number": "HW285477", "id": "9141868", "primary_type": "BATTERY", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62287562250022, 41.80515917087888]}, "community_area": "38", "latitude": "41.80515917087888", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0224", "date": {"$date": 1369193400000}, "ward": "3", "_id": {"$oid": "51a61f053c002ed20d78a66e"}, "iucr": "486", "longitude": "-87.62287562250022", "location_description": "RESIDENCE", "x_coordinate": "1177950", "updated_on": {"$date": 1369615194000}, "fbi_code": "08B", "block": "049XX S MICHIGAN AVE"}
+{
+    "y_coordinate": "1872391", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285477", 
+    "id": "9141868", 
+    "primary_type": "BATTERY", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62287562250022, 
+            41.80515917087888
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.80515917087888", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0224", 
+    "date": {
+        "$date": 1369193400000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51a61f053c002ed20d78a66e"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.62287562250022", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1177950", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08B", 
+    "block": "049XX S MICHIGAN AVE"
+}

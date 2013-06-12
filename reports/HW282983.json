@@ -1,1 +1,38 @@
-{"y_coordinate": "1895544", "year": "2013", "domestic": false, "case_number": "HW282983", "id": "9137688", "primary_type": "THEFT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63939046217892, 41.868798066540215]}, "community_area": "28", "latitude": "41.868798066540215", "type": "property", "description": "OVER $500", "beat": "0124", "date": {"$date": 1369059900000}, "ward": "2", "_id": {"$oid": "51a4cd913c002ed20d78a4f7"}, "iucr": "810", "longitude": "-87.63939046217892", "location_description": "STREET", "x_coordinate": "1173260", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "011XX S CANAL ST"}
+{
+    "y_coordinate": "1895544", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW282983", 
+    "id": "9137688", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63939046217892, 
+            41.868798066540215
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.868798066540215", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0124", 
+    "date": {
+        "$date": 1369059900000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a4f7"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.63939046217892", 
+    "location_description": "STREET", 
+    "x_coordinate": "1173260", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "011XX S CANAL ST"
+}

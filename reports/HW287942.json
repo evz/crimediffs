@@ -1,1 +1,38 @@
-{"y_coordinate": "1848815", "year": "2013", "domestic": false, "case_number": "HW287942", "id": "9144068", "primary_type": "BURGLARY", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.5610438962658, 41.74006075617256]}, "community_area": "46", "latitude": "41.74006075617256", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0423", "date": {"$date": 1369290600000}, "ward": "7", "_id": {"$oid": "51aa13993c002ed20d78b430"}, "iucr": "610", "longitude": "-87.5610438962658", "location_description": "RESIDENCE", "x_coordinate": "1195021", "updated_on": {"$date": 1370220023000}, "fbi_code": "05", "block": "085XX S COLFAX AVE"}
+{
+    "y_coordinate": "1848815", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287942", 
+    "id": "9144068", 
+    "primary_type": "BURGLARY", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5610438962658, 
+            41.74006075617256
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.74006075617256", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0423", 
+    "date": {
+        "$date": 1369290600000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51aa13993c002ed20d78b430"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.5610438962658", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1195021", 
+    "updated_on": {
+        "$date": 1370220023000
+    }, 
+    "fbi_code": "05", 
+    "block": "085XX S COLFAX AVE"
+}

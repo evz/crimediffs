@@ -1,1 +1,38 @@
-{"y_coordinate": "1923416", "year": "2013", "domestic": true, "case_number": "HW299620", "id": "9154324", "primary_type": "BATTERY", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65037869994467, 41.94535115657379]}, "community_area": "6", "latitude": "41.94535115657379", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1924", "date": {"$date": 1370067300000}, "ward": "44", "_id": {"$oid": "51b5f1213c002ed20d78d193"}, "iucr": "486", "longitude": "-87.65037869994467", "location_description": "RESIDENCE", "x_coordinate": "1170045", "updated_on": {"$date": 1370565766000}, "fbi_code": "08B", "block": "008XX W CORNELIA AVE"}
+{
+    "y_coordinate": "1923416", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW299620", 
+    "id": "9154324", 
+    "primary_type": "BATTERY", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65037869994467, 
+            41.94535115657379
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.94535115657379", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1924", 
+    "date": {
+        "$date": 1370067300000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d193"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.65037869994467", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1170045", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "08B", 
+    "block": "008XX W CORNELIA AVE"
+}

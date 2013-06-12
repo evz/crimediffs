@@ -1,1 +1,38 @@
-{"y_coordinate": "1927127", "year": "2013", "domestic": false, "case_number": "HW288527", "id": "9143849", "primary_type": "THEFT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75870804345118, 41.95612822565515]}, "community_area": "15", "latitude": "41.95612822565515", "type": "property", "description": "OVER $500", "beat": "1624", "date": {"$date": 1369350000000}, "ward": "38", "_id": {"$oid": "51aa13943c002ed20d78b19c"}, "iucr": "810", "longitude": "-87.75870804345118", "location_description": "STREET", "x_coordinate": "1140548", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "052XX W WARNER AVE"}
+{
+    "y_coordinate": "1927127", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288527", 
+    "id": "9143849", 
+    "primary_type": "THEFT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75870804345118, 
+            41.95612822565515
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.95612822565515", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1624", 
+    "date": {
+        "$date": 1369350000000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b19c"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.75870804345118", 
+    "location_description": "STREET", 
+    "x_coordinate": "1140548", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "052XX W WARNER AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1938474", "year": "2013", "domestic": true, "case_number": "HW303174", "id": "9157699", "primary_type": "OTHER OFFENSE", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65826050565965, 41.98671999557696]}, "community_area": "77", "latitude": "41.98671999557696", "type": null, "description": "TELEPHONE THREAT", "beat": "2022", "date": {"$date": 1370281800000}, "ward": "48", "_id": {"$oid": "51b7429b3c002ed20d78d335"}, "iucr": "2820", "longitude": "-87.65826050565965", "location_description": "APARTMENT", "x_coordinate": "1167782", "updated_on": {"$date": 1370651988000}, "fbi_code": "26", "block": "057XX N WINTHROP AVE"}
+{
+    "y_coordinate": "1938474", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW303174", 
+    "id": "9157699", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65826050565965, 
+            41.98671999557696
+        ]
+    }, 
+    "community_area": "77", 
+    "latitude": "41.98671999557696", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "2022", 
+    "date": {
+        "$date": 1370281800000
+    }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51b7429b3c002ed20d78d335"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.65826050565965", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1167782", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "26", 
+    "block": "057XX N WINTHROP AVE"
+}

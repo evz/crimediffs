@@ -1,1 +1,38 @@
-{"y_coordinate": "1904927", "year": "2013", "domestic": false, "case_number": "HW285684", "id": "9140357", "primary_type": "MOTOR VEHICLE THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66414118786167, 41.89469419857353]}, "community_area": "24", "latitude": "41.89469419857353", "type": "property", "description": "AUTOMOBILE", "beat": "1215", "date": {"$date": 1369180200000}, "ward": "27", "_id": {"$oid": "51a61f073c002ed20d78a6cd"}, "iucr": "910", "longitude": "-87.66414118786167", "location_description": "STREET", "x_coordinate": "1166445", "updated_on": {"$date": 1369356045000}, "fbi_code": "07", "block": "007XX N BISHOP ST"}
+{
+    "y_coordinate": "1904927", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285684", 
+    "id": "9140357", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66414118786167, 
+            41.89469419857353
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.89469419857353", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1215", 
+    "date": {
+        "$date": 1369180200000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a61f073c002ed20d78a6cd"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.66414118786167", 
+    "location_description": "STREET", 
+    "x_coordinate": "1166445", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "07", 
+    "block": "007XX N BISHOP ST"
+}

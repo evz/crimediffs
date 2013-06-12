@@ -1,1 +1,38 @@
-{"y_coordinate": "1871424", "year": "2013", "domestic": false, "case_number": "HW286117", "id": "9141102", "primary_type": "NARCOTICS", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.60442495264125, 41.80238985930731]}, "community_area": "39", "latitude": "41.80238985930731", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "0223", "date": {"$date": 1369230300000}, "ward": "4", "_id": {"$oid": "51a7708b3c002ed20d78ac33"}, "iucr": "2024", "longitude": "-87.60442495264125", "location_description": "SIDEWALK", "x_coordinate": "1182989", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "008XX E HYDE PARK BLVD"}
+{
+    "y_coordinate": "1871424", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286117", 
+    "id": "9141102", 
+    "primary_type": "NARCOTICS", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60442495264125, 
+            41.80238985930731
+        ]
+    }, 
+    "community_area": "39", 
+    "latitude": "41.80238985930731", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "0223", 
+    "date": {
+        "$date": 1369230300000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac33"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.60442495264125", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1182989", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "008XX E HYDE PARK BLVD"
+}

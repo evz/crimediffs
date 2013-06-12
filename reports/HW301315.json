@@ -1,1 +1,33 @@
-{"community_area": "32", "_id": {"$oid": "51b5f11a3c002ed20d78cd83"}, "primary_type": "THEFT", "beat": "0111", "year": "2013", "domestic": false, "iucr": "820", "arrest": false, "location_description": "RESTAURANT", "location": {"type": "Point", "coordinates": [-87.62808233389251, 41.88550474590183]}, "case_number": "HW301315", "date": {"$date": 1370181600000}, "updated_on": {"$date": 1370392932000}, "ward": "42", "fbi_code": "06", "type": "property", "id": "9155897", "block": "001XX N STATE ST", "description": "$500 AND UNDER"}
+{
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd83"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "0111", 
+    "case_number": "HW301315", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "RESTAURANT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62808233389251, 
+            41.88550474590183
+        ]
+    }, 
+    "community_area": "32", 
+    "date": {
+        "$date": 1370181600000
+    }, 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "ward": "42", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9155897", 
+    "block": "001XX N STATE ST", 
+    "description": "$500 AND UNDER"
+}

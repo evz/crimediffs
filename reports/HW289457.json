@@ -1,1 +1,38 @@
-{"y_coordinate": "1905170", "year": "2013", "domestic": false, "case_number": "HW289457", "id": "9144279", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64783464190485, 41.89526486432607]}, "community_area": "24", "latitude": "41.89526486432607", "type": "property", "description": "OVER $500", "beat": "1214", "date": {"$date": 1369404000000}, "ward": "27", "_id": {"$oid": "51aa13913c002ed20d78b007"}, "iucr": "810", "longitude": "-87.64783464190485", "location_description": "SIDEWALK", "x_coordinate": "1170883", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "008XX W HURON ST"}
+{
+    "y_coordinate": "1905170", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289457", 
+    "id": "9144279", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64783464190485, 
+            41.89526486432607
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.89526486432607", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1214", 
+    "date": {
+        "$date": 1369404000000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b007"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.64783464190485", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1170883", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "008XX W HURON ST"
+}

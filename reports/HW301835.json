@@ -1,1 +1,38 @@
-{"y_coordinate": "1920011", "year": "2013", "domestic": false, "case_number": "HW301835", "id": "9156019", "primary_type": "ROBBERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72725496710639, 41.936438641875576]}, "community_area": "21", "latitude": "41.936438641875576", "type": "violent", "description": "ARMED: OTHER DANGEROUS WEAPON", "beat": "2523", "date": {"$date": 1370216100000}, "ward": "31", "_id": {"$oid": "51b5f1153c002ed20d78cbf5"}, "iucr": "313", "longitude": "-87.72725496710639", "location_description": "SIDEWALK", "x_coordinate": "1149154", "updated_on": {"$date": 1370392932000}, "fbi_code": "03", "block": "030XX N PULASKI RD"}
+{
+    "y_coordinate": "1920011", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301835", 
+    "id": "9156019", 
+    "primary_type": "ROBBERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72725496710639, 
+            41.936438641875576
+        ]
+    }, 
+    "community_area": "21", 
+    "latitude": "41.936438641875576", 
+    "type": "violent", 
+    "description": "ARMED: OTHER DANGEROUS WEAPON", 
+    "beat": "2523", 
+    "date": {
+        "$date": 1370216100000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbf5"
+    }, 
+    "iucr": "313", 
+    "longitude": "-87.72725496710639", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1149154", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "03", 
+    "block": "030XX N PULASKI RD"
+}

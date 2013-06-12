@@ -1,1 +1,38 @@
-{"y_coordinate": "1868813", "year": "2013", "domestic": false, "case_number": "HW286895", "id": "9141781", "primary_type": "THEFT", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.59673217128532, 41.79517547553157]}, "community_area": "41", "latitude": "41.79517547553157", "type": "property", "description": "FROM BUILDING", "beat": "0233", "date": {"$date": 1369249200000}, "ward": "4", "_id": {"$oid": "51a770893c002ed20d78ab2f"}, "iucr": "890", "longitude": "-87.59673217128532", "location_description": "BAR OR TAVERN", "x_coordinate": "1185109", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "011XX E 55TH ST"}
+{
+    "y_coordinate": "1868813", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286895", 
+    "id": "9141781", 
+    "primary_type": "THEFT", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59673217128532, 
+            41.79517547553157
+        ]
+    }, 
+    "community_area": "41", 
+    "latitude": "41.79517547553157", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0233", 
+    "date": {
+        "$date": 1369249200000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51a770893c002ed20d78ab2f"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.59673217128532", 
+    "location_description": "BAR OR TAVERN", 
+    "x_coordinate": "1185109", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "011XX E 55TH ST"
+}

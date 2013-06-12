@@ -1,1 +1,38 @@
-{"y_coordinate": "1942845", "year": "2013", "domestic": false, "case_number": "HW283164", "id": "9138275", "primary_type": "OTHER OFFENSE", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.81073568616314, 41.999510276441775]}, "community_area": "9", "latitude": "41.999510276441775", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "1611", "date": {"$date": 1369052460000}, "ward": "41", "_id": {"$oid": "51a4cd923c002ed20d78a549"}, "iucr": "2825", "longitude": "-87.81073568616314", "location_description": "RESIDENCE", "x_coordinate": "1126300", "updated_on": {"$date": 1369615194000}, "fbi_code": "26", "block": "065XX N NORTHWEST HWY"}
+{
+    "y_coordinate": "1942845", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283164", 
+    "id": "9138275", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.81073568616314, 
+            41.999510276441775
+        ]
+    }, 
+    "community_area": "9", 
+    "latitude": "41.999510276441775", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "1611", 
+    "date": {
+        "$date": 1369052460000
+    }, 
+    "ward": "41", 
+    "_id": {
+        "$oid": "51a4cd923c002ed20d78a549"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.81073568616314", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1126300", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "26", 
+    "block": "065XX N NORTHWEST HWY"
+}

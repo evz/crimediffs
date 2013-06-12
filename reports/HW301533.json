@@ -1,1 +1,38 @@
-{"y_coordinate": "1845868", "year": "2013", "domestic": false, "case_number": "HW301533", "id": "9155727", "primary_type": "WEAPONS VIOLATION", "district": "022", "arrest": true, "location": {"type": "Point", "coordinates": [-87.63885577519635, 41.7324699286424]}, "community_area": "71", "latitude": "41.7324699286424", "type": null, "description": "UNLAWFUL USE/SALE AIR RIFLE", "beat": "2223", "date": {"$date": 1370197380000}, "ward": "21", "_id": {"$oid": "51b5f1193c002ed20d78cccb"}, "iucr": "2900", "longitude": "-87.63885577519635", "location_description": "SIDEWALK", "x_coordinate": "1173807", "updated_on": {"$date": 1370392932000}, "fbi_code": "15", "block": "006XX W 89TH ST"}
+{
+    "y_coordinate": "1845868", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301533", 
+    "id": "9155727", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "022", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63885577519635, 
+            41.7324699286424
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.7324699286424", 
+    "type": null, 
+    "description": "UNLAWFUL USE/SALE AIR RIFLE", 
+    "beat": "2223", 
+    "date": {
+        "$date": 1370197380000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78cccb"
+    }, 
+    "iucr": "2900", 
+    "longitude": "-87.63885577519635", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1173807", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "15", 
+    "block": "006XX W 89TH ST"
+}

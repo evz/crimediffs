@@ -1,1 +1,38 @@
-{"y_coordinate": "1847781", "year": "2013", "domestic": true, "case_number": "HW285683", "id": "9140597", "primary_type": "BATTERY", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6086945233401, 41.73753354092049]}, "community_area": "44", "latitude": "41.73753354092049", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0632", "date": {"$date": 1369212600000}, "ward": "6", "_id": {"$oid": "51a7708d3c002ed20d78acf1"}, "iucr": "486", "longitude": "-87.6086945233401", "location_description": "RESIDENCE", "x_coordinate": "1182024", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "086XX S CHAMPLAIN AVE"}
+{
+    "y_coordinate": "1847781", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285683", 
+    "id": "9140597", 
+    "primary_type": "BATTERY", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6086945233401, 
+            41.73753354092049
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.73753354092049", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0632", 
+    "date": {
+        "$date": 1369212600000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78acf1"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.6086945233401", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1182024", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "086XX S CHAMPLAIN AVE"
+}

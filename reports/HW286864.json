@@ -1,1 +1,38 @@
-{"y_coordinate": "1915915", "year": "2013", "domestic": true, "case_number": "HW286864", "id": "9141683", "primary_type": "OFFENSE INVOLVING CHILDREN", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68749695845808, 41.92498155426759]}, "community_area": "22", "latitude": "41.92498155426759", "type": null, "description": "CHILD ABUSE", "beat": "1432", "date": {"$date": 1369242000000}, "ward": "1", "_id": {"$oid": "51a7708a3c002ed20d78ab88"}, "iucr": "1750", "longitude": "-87.68749695845808", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1160003", "updated_on": {"$date": 1370133629000}, "fbi_code": "20", "block": "024XX N WESTERN AVE"}
+{
+    "y_coordinate": "1915915", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW286864", 
+    "id": "9141683", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68749695845808, 
+            41.92498155426759
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.92498155426759", 
+    "type": null, 
+    "description": "CHILD ABUSE", 
+    "beat": "1432", 
+    "date": {
+        "$date": 1369242000000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab88"
+    }, 
+    "iucr": "1750", 
+    "longitude": "-87.68749695845808", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1160003", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "20", 
+    "block": "024XX N WESTERN AVE"
+}

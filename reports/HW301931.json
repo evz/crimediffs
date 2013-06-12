@@ -1,1 +1,38 @@
-{"y_coordinate": "1914848", "year": "2013", "domestic": false, "case_number": "HW301931", "id": "9156100", "primary_type": "LIQUOR LAW VIOLATION", "district": "018", "arrest": true, "location": {"type": "Point", "coordinates": [-87.65307285413296, 41.92185468155786]}, "community_area": "7", "latitude": "41.92185468155786", "type": null, "description": "LIQUOR LICENSE VIOLATION", "beat": "1812", "date": {"$date": 1370230620000}, "ward": "43", "_id": {"$oid": "51b5f1133c002ed20d78cba2"}, "iucr": "2250", "longitude": "-87.65307285413296", "location_description": "BAR OR TAVERN", "x_coordinate": "1169380", "updated_on": {"$date": 1370392932000}, "fbi_code": "22", "block": "009XX W WEBSTER AVE"}
+{
+    "y_coordinate": "1914848", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301931", 
+    "id": "9156100", 
+    "primary_type": "LIQUOR LAW VIOLATION", 
+    "district": "018", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65307285413296, 
+            41.92185468155786
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.92185468155786", 
+    "type": null, 
+    "description": "LIQUOR LICENSE VIOLATION", 
+    "beat": "1812", 
+    "date": {
+        "$date": 1370230620000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51b5f1133c002ed20d78cba2"
+    }, 
+    "iucr": "2250", 
+    "longitude": "-87.65307285413296", 
+    "location_description": "BAR OR TAVERN", 
+    "x_coordinate": "1169380", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "22", 
+    "block": "009XX W WEBSTER AVE"
+}

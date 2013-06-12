@@ -1,1 +1,38 @@
-{"y_coordinate": "1861002", "year": "2013", "domestic": false, "case_number": "HW286736", "id": "9141567", "primary_type": "NARCOTICS", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.58865257955549, 41.77368777140129]}, "community_area": "42", "latitude": "41.77368777140129", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0321", "date": {"$date": 1369255740000}, "ward": "5", "_id": {"$oid": "51a770883c002ed20d78aadc"}, "iucr": "1811", "longitude": "-87.58865257955549", "location_description": "STREET", "x_coordinate": "1187380", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "066XX S BLACKSTONE AVE"}
+{
+    "y_coordinate": "1861002", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286736", 
+    "id": "9141567", 
+    "primary_type": "NARCOTICS", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58865257955549, 
+            41.77368777140129
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.77368777140129", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0321", 
+    "date": {
+        "$date": 1369255740000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aadc"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.58865257955549", 
+    "location_description": "STREET", 
+    "x_coordinate": "1187380", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "066XX S BLACKSTONE AVE"
+}

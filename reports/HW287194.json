@@ -1,1 +1,38 @@
-{"y_coordinate": "1887560", "year": "2013", "domestic": false, "case_number": "HW287194", "id": "9142195", "primary_type": "DECEPTIVE PRACTICE", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61717461177588, 41.846751566065535]}, "community_area": "33", "latitude": "41.846751566065535", "type": null, "description": "COUNTERFEITING DOCUMENT", "beat": "0133", "date": {"$date": 1369296000000}, "ward": "2", "_id": {"$oid": "51aa13983c002ed20d78b406"}, "iucr": "1121", "longitude": "-87.61717461177588", "location_description": "RESTAURANT", "x_coordinate": "1179378", "updated_on": {"$date": 1369701613000}, "fbi_code": "10", "block": "025XX S DR MARTIN LUTHER KING JR DR"}
+{
+    "y_coordinate": "1887560", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287194", 
+    "id": "9142195", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61717461177588, 
+            41.846751566065535
+        ]
+    }, 
+    "community_area": "33", 
+    "latitude": "41.846751566065535", 
+    "type": null, 
+    "description": "COUNTERFEITING DOCUMENT", 
+    "beat": "0133", 
+    "date": {
+        "$date": 1369296000000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b406"
+    }, 
+    "iucr": "1121", 
+    "longitude": "-87.61717461177588", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1179378", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "10", 
+    "block": "025XX S DR MARTIN LUTHER KING JR DR"
+}

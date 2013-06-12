@@ -1,1 +1,38 @@
-{"y_coordinate": "1921697", "year": "2013", "domestic": false, "case_number": "HW283811", "id": "9138322", "primary_type": "ASSAULT", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7249177027442, 41.9410530369673]}, "community_area": "21", "latitude": "41.9410530369673", "type": "violent", "description": "AGGRAVATED: HANDGUN", "beat": "1732", "date": {"$date": 1369087200000}, "ward": "30", "_id": {"$oid": "51a4cd8d3c002ed20d78a384"}, "iucr": "051A", "longitude": "-87.7249177027442", "location_description": "ALLEY", "x_coordinate": "1149778", "updated_on": {"$date": 1370565766000}, "fbi_code": "04A", "block": "039XX W SCHOOL ST"}
+{
+    "y_coordinate": "1921697", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283811", 
+    "id": "9138322", 
+    "primary_type": "ASSAULT", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7249177027442, 
+            41.9410530369673
+        ]
+    }, 
+    "community_area": "21", 
+    "latitude": "41.9410530369673", 
+    "type": "violent", 
+    "description": "AGGRAVATED: HANDGUN", 
+    "beat": "1732", 
+    "date": {
+        "$date": 1369087200000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51a4cd8d3c002ed20d78a384"
+    }, 
+    "iucr": "051A", 
+    "longitude": "-87.7249177027442", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1149778", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "04A", 
+    "block": "039XX W SCHOOL ST"
+}

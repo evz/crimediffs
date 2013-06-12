@@ -1,1 +1,38 @@
-{"y_coordinate": "1868635", "year": "2013", "domestic": false, "case_number": "HW283892", "id": "9138424", "primary_type": "BATTERY", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.620605934936, 41.794837594689454]}, "community_area": "40", "latitude": "41.794837594689454", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0231", "date": {"$date": 1369100400000}, "ward": "3", "_id": {"$oid": "51a4cd8b3c002ed20d78a315"}, "iucr": "486", "longitude": "-87.620605934936", "location_description": "OTHER", "x_coordinate": "1178600", "updated_on": {"$date": 1369269615000}, "fbi_code": "08B", "block": "002XX E GARFIELD BLVD"}
+{
+    "y_coordinate": "1868635", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283892", 
+    "id": "9138424", 
+    "primary_type": "BATTERY", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.620605934936, 
+            41.794837594689454
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.794837594689454", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0231", 
+    "date": {
+        "$date": 1369100400000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51a4cd8b3c002ed20d78a315"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.620605934936", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1178600", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "08B", 
+    "block": "002XX E GARFIELD BLVD"
+}

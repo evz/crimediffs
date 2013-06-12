@@ -1,1 +1,38 @@
-{"y_coordinate": "1895113", "year": "2013", "domestic": false, "case_number": "HW291428", "id": "9145893", "primary_type": "DECEPTIVE PRACTICE", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6263634125463, 41.86753584126747]}, "community_area": "32", "latitude": "41.86753584126747", "type": null, "description": "ILLEGAL USE CASH CARD", "beat": "0123", "date": {"$date": 1369496700000}, "ward": "2", "_id": {"$oid": "51b34a103c002ed20d78ca0e"}, "iucr": "1152", "longitude": "-87.6263634125463", "location_description": "CTA GARAGE / OTHER PROPERTY", "x_coordinate": "1176812", "updated_on": {"$date": 1369701613000}, "fbi_code": "11", "block": "0000X E ROOSEVELT RD"}
+{
+    "y_coordinate": "1895113", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291428", 
+    "id": "9145893", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6263634125463, 
+            41.86753584126747
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.86753584126747", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "0123", 
+    "date": {
+        "$date": 1369496700000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78ca0e"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.6263634125463", 
+    "location_description": "CTA GARAGE / OTHER PROPERTY", 
+    "x_coordinate": "1176812", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "11", 
+    "block": "0000X E ROOSEVELT RD"
+}

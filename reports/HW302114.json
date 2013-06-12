@@ -1,1 +1,38 @@
-{"y_coordinate": "1880950", "year": "2013", "domestic": false, "case_number": "HW302114", "id": "9156602", "primary_type": "MOTOR VEHICLE THEFT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67172816187045, 41.828939177437114]}, "community_area": "59", "latitude": "41.828939177437114", "type": "property", "description": "AUTOMOBILE", "beat": "0912", "date": {"$date": 1370206800000}, "ward": "11", "_id": {"$oid": "51b5f1173c002ed20d78cc53"}, "iucr": "910", "longitude": "-87.67172816187045", "location_description": "STREET", "x_coordinate": "1164564", "updated_on": {"$date": 1370479286000}, "fbi_code": "07", "block": "035XX S HONORE ST"}
+{
+    "y_coordinate": "1880950", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302114", 
+    "id": "9156602", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67172816187045, 
+            41.828939177437114
+        ]
+    }, 
+    "community_area": "59", 
+    "latitude": "41.828939177437114", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0912", 
+    "date": {
+        "$date": 1370206800000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51b5f1173c002ed20d78cc53"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.67172816187045", 
+    "location_description": "STREET", 
+    "x_coordinate": "1164564", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "07", 
+    "block": "035XX S HONORE ST"
+}

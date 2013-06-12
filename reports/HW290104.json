@@ -1,1 +1,38 @@
-{"y_coordinate": "1911651", "year": "2013", "domestic": false, "case_number": "HW290104", "id": "9144934", "primary_type": "CRIMINAL DAMAGE", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70447029798672, 41.913374377060265]}, "community_area": "23", "latitude": "41.913374377060265", "type": "quality", "description": "TO VEHICLE", "beat": "1421", "date": {"$date": 1369422000000}, "ward": "26", "_id": {"$oid": "51aa138e3c002ed20d78af0c"}, "iucr": "1320", "longitude": "-87.70447029798672", "location_description": "STREET", "x_coordinate": "1155415", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "017XX N ALBANY AVE"}
+{
+    "y_coordinate": "1911651", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290104", 
+    "id": "9144934", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70447029798672, 
+            41.913374377060265
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.913374377060265", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1421", 
+    "date": {
+        "$date": 1369422000000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51aa138e3c002ed20d78af0c"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.70447029798672", 
+    "location_description": "STREET", 
+    "x_coordinate": "1155415", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "017XX N ALBANY AVE"
+}

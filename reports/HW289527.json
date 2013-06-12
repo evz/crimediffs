@@ -1,1 +1,38 @@
-{"y_coordinate": "1923922", "year": "2013", "domestic": false, "case_number": "HW289527", "id": "9144351", "primary_type": "THEFT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7472671267621, 41.94727518129787]}, "community_area": "15", "latitude": "41.94727518129787", "type": "property", "description": "FROM BUILDING", "beat": "1634", "date": {"$date": 1369403400000}, "ward": "38", "_id": {"$oid": "51aa13913c002ed20d78b00e"}, "iucr": "890", "longitude": "-87.7472671267621", "location_description": "RESTAURANT", "x_coordinate": "1143682", "updated_on": {"$date": 1369874559000}, "fbi_code": "06", "block": "036XX N CICERO AVE"}
+{
+    "y_coordinate": "1923922", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289527", 
+    "id": "9144351", 
+    "primary_type": "THEFT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7472671267621, 
+            41.94727518129787
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.94727518129787", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1634", 
+    "date": {
+        "$date": 1369403400000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b00e"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.7472671267621", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1143682", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "06", 
+    "block": "036XX N CICERO AVE"
+}

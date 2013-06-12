@@ -1,1 +1,38 @@
-{"y_coordinate": "1861870", "year": "2013", "domestic": false, "case_number": "HW301874", "id": "9156064", "primary_type": "ASSAULT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6105616554628, 41.77620974090741]}, "community_area": "42", "latitude": "41.77620974090741", "type": "violent", "description": "AGGRAVATED PO: OTHER DANG WEAP", "beat": "0321", "date": {"$date": 1370217900000}, "ward": "20", "_id": {"$oid": "51b5f1153c002ed20d78cbde"}, "iucr": "553", "longitude": "-87.6105616554628", "location_description": "STREET", "x_coordinate": "1181396", "updated_on": {"$date": 1370479286000}, "fbi_code": "04A", "block": "065XX S ST LAWRENCE AVE"}
+{
+    "y_coordinate": "1861870", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301874", 
+    "id": "9156064", 
+    "primary_type": "ASSAULT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6105616554628, 
+            41.77620974090741
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.77620974090741", 
+    "type": "violent", 
+    "description": "AGGRAVATED PO: OTHER DANG WEAP", 
+    "beat": "0321", 
+    "date": {
+        "$date": 1370217900000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbde"
+    }, 
+    "iucr": "553", 
+    "longitude": "-87.6105616554628", 
+    "location_description": "STREET", 
+    "x_coordinate": "1181396", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "04A", 
+    "block": "065XX S ST LAWRENCE AVE"
+}

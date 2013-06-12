@@ -1,1 +1,38 @@
-{"y_coordinate": "1891583", "year": "2013", "domestic": true, "case_number": "HW301889", "id": "9156051", "primary_type": "BATTERY", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72602097379534, 41.85841885109335]}, "community_area": "29", "latitude": "41.85841885109335", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1012", "date": {"$date": 1370223000000}, "ward": "24", "_id": {"$oid": "51b5f1143c002ed20d78cbbd"}, "iucr": "486", "longitude": "-87.72602097379534", "location_description": "RESIDENCE", "x_coordinate": "1149691", "updated_on": {"$date": 1370479286000}, "fbi_code": "08B", "block": "016XX S KOMENSKY AVE"}
+{
+    "y_coordinate": "1891583", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301889", 
+    "id": "9156051", 
+    "primary_type": "BATTERY", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72602097379534, 
+            41.85841885109335
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85841885109335", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1012", 
+    "date": {
+        "$date": 1370223000000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b5f1143c002ed20d78cbbd"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.72602097379534", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1149691", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08B", 
+    "block": "016XX S KOMENSKY AVE"
+}

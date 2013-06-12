@@ -1,1 +1,38 @@
-{"y_coordinate": "1884647", "year": "2013", "domestic": false, "case_number": "HW286648", "id": "9141473", "primary_type": "OTHER OFFENSE", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71694629479673, 41.839336298339774]}, "community_area": "30", "latitude": "41.839336298339774", "type": null, "description": "FALSE/STOLEN/ALTERED TRP", "beat": "1032", "date": {"$date": 1369252200000}, "ward": "22", "_id": {"$oid": "51a770893c002ed20d78ab10"}, "iucr": "502P", "longitude": "-87.71694629479673", "location_description": "STREET", "x_coordinate": "1152213", "updated_on": {"$date": 1369442383000}, "fbi_code": "26", "block": "028XX S LAWNDALE AVE"}
+{
+    "y_coordinate": "1884647", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286648", 
+    "id": "9141473", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71694629479673, 
+            41.839336298339774
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.839336298339774", 
+    "type": null, 
+    "description": "FALSE/STOLEN/ALTERED TRP", 
+    "beat": "1032", 
+    "date": {
+        "$date": 1369252200000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51a770893c002ed20d78ab10"
+    }, 
+    "iucr": "502P", 
+    "longitude": "-87.71694629479673", 
+    "location_description": "STREET", 
+    "x_coordinate": "1152213", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "26", 
+    "block": "028XX S LAWNDALE AVE"
+}

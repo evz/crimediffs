@@ -1,1 +1,38 @@
-{"y_coordinate": "1899856", "year": "2013", "domestic": false, "case_number": "HW287534", "id": "9142707", "primary_type": "THEFT", "district": "001", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6312430798596, 41.88058173433725]}, "community_area": "32", "latitude": "41.88058173433725", "type": "property", "description": "$500 AND UNDER", "beat": "0122", "date": {"$date": 1369295100000}, "ward": "42", "_id": {"$oid": "51aa13983c002ed20d78b410"}, "iucr": "820", "longitude": "-87.6312430798596", "location_description": "COMMERCIAL / BUSINESS OFFICE", "x_coordinate": "1175444", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "001XX W MONROE ST"}
+{
+    "y_coordinate": "1899856", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287534", 
+    "id": "9142707", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6312430798596, 
+            41.88058173433725
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88058173433725", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0122", 
+    "date": {
+        "$date": 1369295100000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b410"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.6312430798596", 
+    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
+    "x_coordinate": "1175444", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "001XX W MONROE ST"
+}

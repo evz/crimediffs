@@ -1,1 +1,38 @@
-{"y_coordinate": "1863181", "year": "2013", "domestic": false, "case_number": "HW299536", "id": "9154219", "primary_type": "NARCOTICS", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66044290800644, 41.78011049746425]}, "community_area": "67", "latitude": "41.78011049746425", "type": "quality", "description": "POSS: CRACK", "beat": "0713", "date": {"$date": 1370068020000}, "ward": "16", "_id": {"$oid": "51b5f1213c002ed20d78d190"}, "iucr": "2027", "longitude": "-87.66044290800644", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1167779", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "062XX S BISHOP ST"}
+{
+    "y_coordinate": "1863181", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299536", 
+    "id": "9154219", 
+    "primary_type": "NARCOTICS", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66044290800644, 
+            41.78011049746425
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.78011049746425", 
+    "type": "quality", 
+    "description": "POSS: CRACK", 
+    "beat": "0713", 
+    "date": {
+        "$date": 1370068020000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d190"
+    }, 
+    "iucr": "2027", 
+    "longitude": "-87.66044290800644", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1167779", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "062XX S BISHOP ST"
+}

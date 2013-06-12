@@ -1,1 +1,38 @@
-{"y_coordinate": "1950306", "year": "2013", "domestic": false, "case_number": "HW284837", "id": "9139596", "primary_type": "BATTERY", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67712609315036, 42.01929861607853]}, "community_area": "1", "latitude": "42.01929861607853", "type": null, "description": "SIMPLE", "beat": "2424", "date": {"$date": 1369152000000}, "ward": "49", "_id": {"$oid": "51a61f0c3c002ed20d78a84b"}, "iucr": "460", "longitude": "-87.67712609315036", "location_description": "CTA BUS", "x_coordinate": "1162562", "updated_on": {"$date": 1369356045000}, "fbi_code": "08B", "block": "018XX W HOWARD ST"}
+{
+    "y_coordinate": "1950306", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284837", 
+    "id": "9139596", 
+    "primary_type": "BATTERY", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67712609315036, 
+            42.01929861607853
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "42.01929861607853", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2424", 
+    "date": {
+        "$date": 1369152000000
+    }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51a61f0c3c002ed20d78a84b"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.67712609315036", 
+    "location_description": "CTA BUS", 
+    "x_coordinate": "1162562", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08B", 
+    "block": "018XX W HOWARD ST"
+}

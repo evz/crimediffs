@@ -1,1 +1,38 @@
-{"y_coordinate": "1842994", "year": "2013", "domestic": false, "case_number": "HW300069", "id": "9154730", "primary_type": "ROBBERY", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68203961174271, 41.72483564599663]}, "community_area": "72", "latitude": "41.72483564599663", "type": "violent", "description": "ARMED: HANDGUN", "beat": "2221", "date": {"$date": 1370098200000}, "ward": "19", "_id": {"$oid": "51b5f1203c002ed20d78d07b"}, "iucr": "031A", "longitude": "-87.68203961174271", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1162041", "updated_on": {"$date": 1370565766000}, "fbi_code": "03", "block": "092XX S WESTERN AVE"}
+{
+    "y_coordinate": "1842994", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300069", 
+    "id": "9154730", 
+    "primary_type": "ROBBERY", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68203961174271, 
+            41.72483564599663
+        ]
+    }, 
+    "community_area": "72", 
+    "latitude": "41.72483564599663", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "2221", 
+    "date": {
+        "$date": 1370098200000
+    }, 
+    "ward": "19", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d07b"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.68203961174271", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1162041", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "03", 
+    "block": "092XX S WESTERN AVE"
+}

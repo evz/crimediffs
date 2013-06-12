@@ -1,1 +1,38 @@
-{"y_coordinate": "1914062", "year": "2013", "domestic": false, "case_number": "HW286849", "id": "9141663", "primary_type": "NARCOTICS", "district": "025", "arrest": true, "location": {"type": "Point", "coordinates": [-87.78671527193806, 41.92041169539868]}, "community_area": "19", "latitude": "41.92041169539868", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "2512", "date": {"$date": 1369256280000}, "ward": "36", "_id": {"$oid": "51a770883c002ed20d78aad1"}, "iucr": "1811", "longitude": "-87.78671527193806", "location_description": "STREET", "x_coordinate": "1133013", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "022XX N NAGLE AVE"}
+{
+    "y_coordinate": "1914062", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286849", 
+    "id": "9141663", 
+    "primary_type": "NARCOTICS", 
+    "district": "025", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78671527193806, 
+            41.92041169539868
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.92041169539868", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "2512", 
+    "date": {
+        "$date": 1369256280000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aad1"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.78671527193806", 
+    "location_description": "STREET", 
+    "x_coordinate": "1133013", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "022XX N NAGLE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1889903", "year": "2013", "domestic": false, "case_number": "HW286164", "id": "9141132", "primary_type": "MOTOR VEHICLE THEFT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69414686564983, 41.85363552798556]}, "community_area": "30", "latitude": "41.85363552798556", "type": "property", "description": "AUTOMOBILE", "beat": "1023", "date": {"$date": 1369119600000}, "ward": "28", "_id": {"$oid": "51a61f103c002ed20d78a9b9"}, "iucr": "910", "longitude": "-87.69414686564983", "location_description": "STREET", "x_coordinate": "1158387", "updated_on": {"$date": 1369442383000}, "fbi_code": "07", "block": "027XX W 21ST ST"}
+{
+    "y_coordinate": "1889903", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286164", 
+    "id": "9141132", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69414686564983, 
+            41.85363552798556
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.85363552798556", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1023", 
+    "date": {
+        "$date": 1369119600000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a61f103c002ed20d78a9b9"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.69414686564983", 
+    "location_description": "STREET", 
+    "x_coordinate": "1158387", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "07", 
+    "block": "027XX W 21ST ST"
+}

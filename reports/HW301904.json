@@ -1,1 +1,38 @@
-{"y_coordinate": "1900068", "year": "2013", "domestic": false, "case_number": "HW301904", "id": "9156067", "primary_type": "PROSTITUTION", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.73936861659546, 41.88177365308141]}, "community_area": "26", "latitude": "41.88177365308141", "type": "quality", "description": "SOLICIT ON PUBLIC WAY", "beat": "1113", "date": {"$date": 1370223900000}, "ward": "28", "_id": {"$oid": "51b5f1143c002ed20d78cbbc"}, "iucr": "1506", "longitude": "-87.73936861659546", "location_description": "STREET", "x_coordinate": "1145996", "updated_on": {"$date": 1370392932000}, "fbi_code": "16", "block": "045XX W WASHINGTON BLVD"}
+{
+    "y_coordinate": "1900068", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301904", 
+    "id": "9156067", 
+    "primary_type": "PROSTITUTION", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73936861659546, 
+            41.88177365308141
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.88177365308141", 
+    "type": "quality", 
+    "description": "SOLICIT ON PUBLIC WAY", 
+    "beat": "1113", 
+    "date": {
+        "$date": 1370223900000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f1143c002ed20d78cbbc"
+    }, 
+    "iucr": "1506", 
+    "longitude": "-87.73936861659546", 
+    "location_description": "STREET", 
+    "x_coordinate": "1145996", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "16", 
+    "block": "045XX W WASHINGTON BLVD"
+}

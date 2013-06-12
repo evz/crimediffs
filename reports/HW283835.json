@@ -1,1 +1,38 @@
-{"y_coordinate": "1930918", "year": "2013", "domestic": false, "case_number": "HW283835", "id": "9138327", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68868440903124, 41.96615969379457]}, "community_area": "4", "latitude": "41.96615969379457", "type": "property", "description": "$500 AND UNDER", "beat": "1911", "date": {"$date": 1369090800000}, "ward": "47", "_id": {"$oid": "51a4cd8c3c002ed20d78a355"}, "iucr": "820", "longitude": "-87.68868440903124", "location_description": "CTA TRAIN", "x_coordinate": "1159567", "updated_on": {"$date": 1369269615000}, "fbi_code": "06", "block": "046XX N WESTERN AVE"}
+{
+    "y_coordinate": "1930918", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283835", 
+    "id": "9138327", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68868440903124, 
+            41.96615969379457
+        ]
+    }, 
+    "community_area": "4", 
+    "latitude": "41.96615969379457", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1911", 
+    "date": {
+        "$date": 1369090800000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51a4cd8c3c002ed20d78a355"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.68868440903124", 
+    "location_description": "CTA TRAIN", 
+    "x_coordinate": "1159567", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "06", 
+    "block": "046XX N WESTERN AVE"
+}

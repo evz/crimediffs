@@ -1,1 +1,38 @@
-{"y_coordinate": "1899195", "year": "2013", "domestic": false, "case_number": "HW286567", "id": "9141575", "primary_type": "DECEPTIVE PRACTICE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66795876367642, 41.87898638592131]}, "community_area": "28", "latitude": "41.87898638592131", "type": null, "description": "CREDIT CARD FRAUD", "beat": "1224", "date": {"$date": 1369247400000}, "ward": "2", "_id": {"$oid": "51a7708a3c002ed20d78ab49"}, "iucr": "1150", "longitude": "-87.66795876367642", "location_description": "RESIDENCE", "x_coordinate": "1165450", "updated_on": {"$date": 1369442383000}, "fbi_code": "11", "block": "016XX W ADAMS ST"}
+{
+    "y_coordinate": "1899195", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286567", 
+    "id": "9141575", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66795876367642, 
+            41.87898638592131
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.87898638592131", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "1224", 
+    "date": {
+        "$date": 1369247400000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab49"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.66795876367642", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1165450", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "11", 
+    "block": "016XX W ADAMS ST"
+}

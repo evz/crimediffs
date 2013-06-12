@@ -1,1 +1,38 @@
-{"y_coordinate": "1862388", "year": "2013", "domestic": false, "case_number": "HW304546", "id": "9159332", "primary_type": "BURGLARY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6808928408802, 41.77805223076737]}, "community_area": "66", "latitude": "41.77805223076737", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "0825", "date": {"$date": 1370277000000}, "ward": "15", "_id": {"$oid": "51b7429b3c002ed20d78d376"}, "iucr": "620", "longitude": "-87.6808928408802", "location_description": "RESIDENCE", "x_coordinate": "1162207", "updated_on": {"$date": 1370824784000}, "fbi_code": "05", "block": "063XX S OAKLEY AVE"}
+{
+    "y_coordinate": "1862388", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW304546", 
+    "id": "9159332", 
+    "primary_type": "BURGLARY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6808928408802, 
+            41.77805223076737
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.77805223076737", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "0825", 
+    "date": {
+        "$date": 1370277000000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b7429b3c002ed20d78d376"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.6808928408802", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1162207", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "05", 
+    "block": "063XX S OAKLEY AVE"
+}

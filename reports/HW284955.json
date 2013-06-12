@@ -1,1 +1,38 @@
-{"y_coordinate": "1899739", "year": "2013", "domestic": false, "case_number": "HW284955", "id": "9139700", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72781030737569, 41.88081043318494]}, "community_area": "26", "latitude": "41.88081043318494", "type": null, "description": "SIMPLE", "beat": "1115", "date": {"$date": 1369160760000}, "ward": "28", "_id": {"$oid": "51a61f0a3c002ed20d78a7b9"}, "iucr": "460", "longitude": "-87.72781030737569", "location_description": "SIDEWALK", "x_coordinate": "1149146", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "040XX W MADISON ST"}
+{
+    "y_coordinate": "1899739", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284955", 
+    "id": "9139700", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72781030737569, 
+            41.88081043318494
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.88081043318494", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1115", 
+    "date": {
+        "$date": 1369160760000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a7b9"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.72781030737569", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1149146", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "040XX W MADISON ST"
+}

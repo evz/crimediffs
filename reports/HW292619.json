@@ -1,1 +1,38 @@
-{"y_coordinate": "1907212", "year": "2013", "domestic": false, "case_number": "HW292619", "id": "9146876", "primary_type": "BATTERY", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6326932282354, 41.90077720650467]}, "community_area": "8", "latitude": "41.90077720650467", "type": null, "description": "SIMPLE", "beat": "1824", "date": {"$date": 1369539240000}, "ward": "42", "_id": {"$oid": "51b34a0c3c002ed20d78c830"}, "iucr": "460", "longitude": "-87.6326932282354", "location_description": "APARTMENT", "x_coordinate": "1174989", "updated_on": {"$date": 1369960832000}, "fbi_code": "08B", "block": "010XX N LA SALLE DR"}
+{
+    "y_coordinate": "1907212", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW292619", 
+    "id": "9146876", 
+    "primary_type": "BATTERY", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6326932282354, 
+            41.90077720650467
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.90077720650467", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1824", 
+    "date": {
+        "$date": 1369539240000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b34a0c3c002ed20d78c830"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.6326932282354", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1174989", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "08B", 
+    "block": "010XX N LA SALLE DR"
+}

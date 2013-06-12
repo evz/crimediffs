@@ -1,1 +1,38 @@
-{"y_coordinate": "1930580", "year": "2013", "domestic": false, "case_number": "HW286799", "id": "9141562", "primary_type": "DECEPTIVE PRACTICE", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66226524267273, 41.96508076398935]}, "community_area": "3", "latitude": "41.96508076398935", "type": null, "description": "CREDIT CARD FRAUD", "beat": "1913", "date": {"$date": 1369224000000}, "ward": "46", "_id": {"$oid": "51a7708c3c002ed20d78ac86"}, "iucr": "1150", "longitude": "-87.66226524267273", "location_description": "RESIDENCE", "x_coordinate": "1166755", "updated_on": {"$date": 1369442383000}, "fbi_code": "11", "block": "045XX N MALDEN ST"}
+{
+    "y_coordinate": "1930580", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286799", 
+    "id": "9141562", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66226524267273, 
+            41.96508076398935
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.96508076398935", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "1913", 
+    "date": {
+        "$date": 1369224000000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac86"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.66226524267273", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1166755", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "11", 
+    "block": "045XX N MALDEN ST"
+}

@@ -1,1 +1,33 @@
-{"community_area": "29", "_id": {"$oid": "51b5f1163c002ed20d78cc28"}, "primary_type": "BATTERY", "beat": "1023", "year": "2013", "domestic": true, "iucr": "486", "arrest": false, "location_description": "SIDEWALK", "location": {"type": "Point", "coordinates": [-87.69440171246619, 41.863433944047486]}, "case_number": "HW301750", "date": {"$date": 1370210640000}, "updated_on": {"$date": 1370651988000}, "ward": "28", "fbi_code": "08B", "type": null, "id": "9157544", "block": "013XX S FAIRFIELD AVE", "description": "DOMESTIC BATTERY SIMPLE"}
+{
+    "_id": {
+        "$oid": "51b5f1163c002ed20d78cc28"
+    }, 
+    "primary_type": "BATTERY", 
+    "year": "2013", 
+    "beat": "1023", 
+    "case_number": "HW301750", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69440171246619, 
+            41.863433944047486
+        ]
+    }, 
+    "community_area": "29", 
+    "date": {
+        "$date": 1370210640000
+    }, 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "ward": "28", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9157544", 
+    "block": "013XX S FAIRFIELD AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}

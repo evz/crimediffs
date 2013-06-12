@@ -1,1 +1,38 @@
-{"y_coordinate": "1917685", "year": "2013", "domestic": false, "case_number": "HW301554", "id": "9155816", "primary_type": "THEFT", "district": "014", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68460372352573, 41.92982252067412]}, "community_area": "22", "latitude": "41.92982252067412", "type": "property", "description": "RETAIL THEFT", "beat": "1432", "date": {"$date": 1370196600000}, "ward": "1", "_id": {"$oid": "51b5f1193c002ed20d78ccd3"}, "iucr": "860", "longitude": "-87.68460372352573", "location_description": "DEPARTMENT STORE", "x_coordinate": "1160777", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "026XX N ELSTON AVE"}
+{
+    "y_coordinate": "1917685", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301554", 
+    "id": "9155816", 
+    "primary_type": "THEFT", 
+    "district": "014", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68460372352573, 
+            41.92982252067412
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.92982252067412", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "1432", 
+    "date": {
+        "$date": 1370196600000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78ccd3"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.68460372352573", 
+    "location_description": "DEPARTMENT STORE", 
+    "x_coordinate": "1160777", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "026XX N ELSTON AVE"
+}

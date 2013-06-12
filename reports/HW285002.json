@@ -1,1 +1,38 @@
-{"y_coordinate": "1919332", "year": "2013", "domestic": false, "case_number": "HW285002", "id": "9139813", "primary_type": "MOTOR VEHICLE THEFT", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71306862473895, 41.934499554380665]}, "community_area": "21", "latitude": "41.934499554380665", "type": "property", "description": "AUTOMOBILE", "beat": "1412", "date": {"$date": 1369161000000}, "ward": "35", "_id": {"$oid": "51a61f0a3c002ed20d78a7b6"}, "iucr": "910", "longitude": "-87.71306862473895", "location_description": "STREET", "x_coordinate": "1153019", "updated_on": {"$date": 1370651988000}, "fbi_code": "07", "block": "029XX N WISNER AVE"}
+{
+    "y_coordinate": "1919332", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285002", 
+    "id": "9139813", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71306862473895, 
+            41.934499554380665
+        ]
+    }, 
+    "community_area": "21", 
+    "latitude": "41.934499554380665", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1412", 
+    "date": {
+        "$date": 1369161000000
+    }, 
+    "ward": "35", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a7b6"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.71306862473895", 
+    "location_description": "STREET", 
+    "x_coordinate": "1153019", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "07", 
+    "block": "029XX N WISNER AVE"
+}

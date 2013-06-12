@@ -1,1 +1,38 @@
-{"y_coordinate": "1890508", "year": "2013", "domestic": false, "case_number": "HW290476", "id": "9145118", "primary_type": "NARCOTICS", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71272131357337, 41.855397675823326]}, "community_area": "29", "latitude": "41.855397675823326", "type": "quality", "description": "POSS: PCP", "beat": "1021", "date": {"$date": 1369491000000}, "ward": "24", "_id": {"$oid": "51b34a103c002ed20d78ca47"}, "iucr": "2026", "longitude": "-87.71272131357337", "location_description": "SIDEWALK", "x_coordinate": "1153322", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "018XX S ST LOUIS AVE"}
+{
+    "y_coordinate": "1890508", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290476", 
+    "id": "9145118", 
+    "primary_type": "NARCOTICS", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71272131357337, 
+            41.855397675823326
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.855397675823326", 
+    "type": "quality", 
+    "description": "POSS: PCP", 
+    "beat": "1021", 
+    "date": {
+        "$date": 1369491000000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78ca47"
+    }, 
+    "iucr": "2026", 
+    "longitude": "-87.71272131357337", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1153322", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "018XX S ST LOUIS AVE"
+}

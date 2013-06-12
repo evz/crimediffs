@@ -1,1 +1,38 @@
-{"y_coordinate": "1873976", "year": "2013", "domestic": false, "case_number": "HW289594", "id": "9144456", "primary_type": "ROBBERY", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67511982434768, 41.80982009285508]}, "community_area": "61", "latitude": "41.80982009285508", "type": "violent", "description": "ARMED: HANDGUN", "beat": "0924", "date": {"$date": 1369425600000}, "ward": "12", "_id": {"$oid": "51aa138e3c002ed20d78aee1"}, "iucr": "031A", "longitude": "-87.67511982434768", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1163693", "updated_on": {"$date": 1369615194000}, "fbi_code": "03", "block": "046XX S DAMEN AVE"}
+{
+    "y_coordinate": "1873976", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289594", 
+    "id": "9144456", 
+    "primary_type": "ROBBERY", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67511982434768, 
+            41.80982009285508
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.80982009285508", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0924", 
+    "date": {
+        "$date": 1369425600000
+    }, 
+    "ward": "12", 
+    "_id": {
+        "$oid": "51aa138e3c002ed20d78aee1"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.67511982434768", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1163693", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "03", 
+    "block": "046XX S DAMEN AVE"
+}

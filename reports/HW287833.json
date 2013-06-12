@@ -1,1 +1,38 @@
-{"y_coordinate": "1906395", "year": "2013", "domestic": false, "case_number": "HW287833", "id": "9142959", "primary_type": "THEFT", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75585019818396, 41.89922055533096]}, "community_area": "25", "latitude": "41.89922055533096", "type": "property", "description": "FROM BUILDING", "beat": "1524", "date": {"$date": 1369246500000}, "ward": "37", "_id": {"$oid": "51a7708a3c002ed20d78ab50"}, "iucr": "890", "longitude": "-87.75585019818396", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1141465", "updated_on": {"$date": 1370133629000}, "fbi_code": "06", "block": "010XX N LARAMIE AVE"}
+{
+    "y_coordinate": "1906395", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287833", 
+    "id": "9142959", 
+    "primary_type": "THEFT", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75585019818396, 
+            41.89922055533096
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.89922055533096", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1524", 
+    "date": {
+        "$date": 1369246500000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab50"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.75585019818396", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1141465", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "06", 
+    "block": "010XX N LARAMIE AVE"
+}

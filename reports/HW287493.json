@@ -1,1 +1,38 @@
-{"y_coordinate": "1852864", "year": "2013", "domestic": false, "case_number": "HW287493", "id": "9142492", "primary_type": "NARCOTICS", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64270183917516, 41.75169229532032]}, "community_area": "71", "latitude": "41.75169229532032", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0621", "date": {"$date": 1369311840000}, "ward": "17", "_id": {"$oid": "51aa13973c002ed20d78b352"}, "iucr": "1811", "longitude": "-87.64270183917516", "location_description": "SIDEWALK", "x_coordinate": "1172701", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "078XX S EMERALD AVE"}
+{
+    "y_coordinate": "1852864", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287493", 
+    "id": "9142492", 
+    "primary_type": "NARCOTICS", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64270183917516, 
+            41.75169229532032
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.75169229532032", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0621", 
+    "date": {
+        "$date": 1369311840000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b352"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.64270183917516", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1172701", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "078XX S EMERALD AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1902334", "year": "2013", "domestic": false, "case_number": "HW301368", "id": "9155631", "primary_type": "CRIMINAL TRESPASS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.74324413210928, 41.88801209686702]}, "community_area": "25", "latitude": "41.88801209686702", "type": null, "description": "TO LAND", "beat": "1111", "date": {"$date": 1370187840000}, "ward": "28", "_id": {"$oid": "51b5f11a3c002ed20d78cd45"}, "iucr": "1330", "longitude": "-87.74324413210928", "location_description": "OTHER", "x_coordinate": "1144925", "updated_on": {"$date": 1370479286000}, "fbi_code": "26", "block": "004XX N KILPATRICK AVE"}
+{
+    "y_coordinate": "1902334", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301368", 
+    "id": "9155631", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74324413210928, 
+            41.88801209686702
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.88801209686702", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "1111", 
+    "date": {
+        "$date": 1370187840000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd45"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.74324413210928", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1144925", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "26", 
+    "block": "004XX N KILPATRICK AVE"
+}

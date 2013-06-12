@@ -1,1 +1,38 @@
-{"y_coordinate": "1910584", "year": "2013", "domestic": false, "case_number": "HW288774", "id": "9143816", "primary_type": "BATTERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.78474310130898, 41.91085784063139]}, "community_area": "25", "latitude": "41.91085784063139", "type": null, "description": "SIMPLE", "beat": "2513", "date": {"$date": 1369323900000}, "ward": "29", "_id": {"$oid": "51aa13963c002ed20d78b2ce"}, "iucr": "460", "longitude": "-87.78474310130898", "location_description": "SCHOOL, PUBLIC, GROUNDS", "x_coordinate": "1133572", "updated_on": {"$date": 1370565766000}, "fbi_code": "08B", "block": "063XX W WABANSIA AVE"}
+{
+    "y_coordinate": "1910584", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288774", 
+    "id": "9143816", 
+    "primary_type": "BATTERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78474310130898, 
+            41.91085784063139
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.91085784063139", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2513", 
+    "date": {
+        "$date": 1369323900000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b2ce"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.78474310130898", 
+    "location_description": "SCHOOL, PUBLIC, GROUNDS", 
+    "x_coordinate": "1133572", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "08B", 
+    "block": "063XX W WABANSIA AVE"
+}

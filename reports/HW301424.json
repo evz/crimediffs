@@ -1,1 +1,38 @@
-{"y_coordinate": "1825412", "year": "2013", "domestic": true, "case_number": "HW301424", "id": "9155685", "primary_type": "BATTERY", "district": "005", "arrest": true, "location": {"type": "Point", "coordinates": [-87.61668562620872, 41.67619588065536]}, "community_area": "53", "latitude": "41.67619588065536", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0532", "date": {"$date": 1370191980000}, "ward": "9", "_id": {"$oid": "51b5f1193c002ed20d78cd16"}, "iucr": "486", "longitude": "-87.61668562620872", "location_description": "RESIDENCE", "x_coordinate": "1180029", "updated_on": {"$date": 1370392932000}, "fbi_code": "08B", "block": "120XX S PRAIRIE AVE"}
+{
+    "y_coordinate": "1825412", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301424", 
+    "id": "9155685", 
+    "primary_type": "BATTERY", 
+    "district": "005", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61668562620872, 
+            41.67619588065536
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.67619588065536", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0532", 
+    "date": {
+        "$date": 1370191980000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78cd16"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.61668562620872", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1180029", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "08B", 
+    "block": "120XX S PRAIRIE AVE"
+}

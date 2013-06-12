@@ -1,1 +1,38 @@
-{"y_coordinate": "1853112", "year": "2013", "domestic": false, "case_number": "HW285301", "id": "9140113", "primary_type": "CRIMINAL DAMAGE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.5831716121861, 41.751999625171855]}, "community_area": "43", "latitude": "41.751999625171855", "type": "quality", "description": "TO PROPERTY", "beat": "0414", "date": {"$date": 1369174800000}, "ward": "8", "_id": {"$oid": "51a61f083c002ed20d78a6fa"}, "iucr": "1310", "longitude": "-87.5831716121861", "location_description": "APARTMENT", "x_coordinate": "1188944", "updated_on": {"$date": 1369356045000}, "fbi_code": "14", "block": "078XX S EAST END AVE"}
+{
+    "y_coordinate": "1853112", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285301", 
+    "id": "9140113", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5831716121861, 
+            41.751999625171855
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.751999625171855", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0414", 
+    "date": {
+        "$date": 1369174800000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51a61f083c002ed20d78a6fa"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.5831716121861", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1188944", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "14", 
+    "block": "078XX S EAST END AVE"
+}

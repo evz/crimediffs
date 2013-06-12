@@ -1,1 +1,38 @@
-{"y_coordinate": "1925161", "year": "2013", "domestic": false, "case_number": "HW287193", "id": "9142731", "primary_type": "CRIMINAL DAMAGE", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70777461917126, 41.9504668809891]}, "community_area": "16", "latitude": "41.9504668809891", "type": "quality", "description": "TO PROPERTY", "beat": "1733", "date": {"$date": 1369297800000}, "ward": "33", "_id": {"$oid": "51aa13983c002ed20d78b3f8"}, "iucr": "1310", "longitude": "-87.70777461917126", "location_description": "RESIDENCE", "x_coordinate": "1154417", "updated_on": {"$date": 1369528777000}, "fbi_code": "14", "block": "038XX N KEDZIE AVE"}
+{
+    "y_coordinate": "1925161", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287193", 
+    "id": "9142731", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70777461917126, 
+            41.9504668809891
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.9504668809891", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1733", 
+    "date": {
+        "$date": 1369297800000
+    }, 
+    "ward": "33", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3f8"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.70777461917126", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1154417", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "14", 
+    "block": "038XX N KEDZIE AVE"
+}

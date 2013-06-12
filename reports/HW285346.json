@@ -1,1 +1,38 @@
-{"y_coordinate": "1930652", "year": "2013", "domestic": false, "case_number": "HW285346", "id": "9140015", "primary_type": "BATTERY", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71831571188933, 41.965592295703864]}, "community_area": "14", "latitude": "41.965592295703864", "type": "violent", "description": "AGGRAVATED: HANDGUN", "beat": "1723", "date": {"$date": 1369158000000}, "ward": "33", "_id": {"$oid": "51a61f0b3c002ed20d78a7e6"}, "iucr": "041A", "longitude": "-87.71831571188933", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1151510", "updated_on": {"$date": 1369787985000}, "fbi_code": "04B", "block": "046XX N CENTRAL PARK AVE"}
+{
+    "y_coordinate": "1930652", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285346", 
+    "id": "9140015", 
+    "primary_type": "BATTERY", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71831571188933, 
+            41.965592295703864
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.965592295703864", 
+    "type": "violent", 
+    "description": "AGGRAVATED: HANDGUN", 
+    "beat": "1723", 
+    "date": {
+        "$date": 1369158000000
+    }, 
+    "ward": "33", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a7e6"
+    }, 
+    "iucr": "041A", 
+    "longitude": "-87.71831571188933", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1151510", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "04B", 
+    "block": "046XX N CENTRAL PARK AVE"
+}

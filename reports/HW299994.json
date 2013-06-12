@@ -1,1 +1,38 @@
-{"y_coordinate": "1948004", "year": "2013", "domestic": false, "case_number": "HW299994", "id": "9155464", "primary_type": "THEFT", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66365045970348, 42.012903681272256]}, "community_area": "1", "latitude": "42.012903681272256", "type": "property", "description": "$500 AND UNDER", "beat": "2423", "date": {"$date": 1370093400000}, "ward": "49", "_id": {"$oid": "51b5f1203c002ed20d78d0b4"}, "iucr": "820", "longitude": "-87.66365045970348", "location_description": "PARK PROPERTY", "x_coordinate": "1166242", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "072XX N SHERIDAN RD"}
+{
+    "y_coordinate": "1948004", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299994", 
+    "id": "9155464", 
+    "primary_type": "THEFT", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66365045970348, 
+            42.012903681272256
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "42.012903681272256", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2423", 
+    "date": {
+        "$date": 1370093400000
+    }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0b4"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.66365045970348", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1166242", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "072XX N SHERIDAN RD"
+}

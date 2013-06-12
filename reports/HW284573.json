@@ -1,1 +1,38 @@
-{"y_coordinate": "1912126", "year": "2013", "domestic": false, "case_number": "HW284573", "id": "9140184", "primary_type": "DECEPTIVE PRACTICE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72389236677644, 41.914782612262755]}, "community_area": "20", "latitude": "41.914782612262755", "type": null, "description": "CREDIT CARD FRAUD", "beat": "2535", "date": {"$date": 1369058400000}, "ward": "30", "_id": {"$oid": "51a4cd913c002ed20d78a507"}, "iucr": "1150", "longitude": "-87.72389236677644", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1150125", "updated_on": {"$date": 1369356045000}, "fbi_code": "11", "block": "018XX N SPRINGFIELD AVE"}
+{
+    "y_coordinate": "1912126", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284573", 
+    "id": "9140184", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72389236677644, 
+            41.914782612262755
+        ]
+    }, 
+    "community_area": "20", 
+    "latitude": "41.914782612262755", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "2535", 
+    "date": {
+        "$date": 1369058400000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a507"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.72389236677644", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1150125", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "11", 
+    "block": "018XX N SPRINGFIELD AVE"
+}

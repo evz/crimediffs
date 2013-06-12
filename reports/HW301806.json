@@ -1,1 +1,38 @@
-{"y_coordinate": "1915630", "year": "2013", "domestic": false, "case_number": "HW301806", "id": "9155983", "primary_type": "NARCOTICS", "district": "025", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72458720018211, 41.924402079760966]}, "community_area": "22", "latitude": "41.924402079760966", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "2525", "date": {"$date": 1370215320000}, "ward": "30", "_id": {"$oid": "51b5f1153c002ed20d78cbfd"}, "iucr": "1811", "longitude": "-87.72458720018211", "location_description": "STREET", "x_coordinate": "1149911", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "039XX W FULLERTON AVE"}
+{
+    "y_coordinate": "1915630", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301806", 
+    "id": "9155983", 
+    "primary_type": "NARCOTICS", 
+    "district": "025", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72458720018211, 
+            41.924402079760966
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.924402079760966", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "2525", 
+    "date": {
+        "$date": 1370215320000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbfd"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.72458720018211", 
+    "location_description": "STREET", 
+    "x_coordinate": "1149911", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "039XX W FULLERTON AVE"
+}

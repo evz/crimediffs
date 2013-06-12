@@ -1,1 +1,33 @@
-{"community_area": "77", "_id": {"$oid": "51b7429b3c002ed20d78d392"}, "primary_type": "THEFT", "beat": "2433", "year": "2013", "domestic": false, "iucr": "810", "arrest": false, "location_description": "APARTMENT", "location": {"type": "Point", "coordinates": [-87.6603861, 41.9927377]}, "case_number": "HW303254", "date": {"$date": 1370275200000}, "updated_on": {"$date": 1370565766000}, "ward": "48", "fbi_code": "06", "type": "property", "id": "9159075", "block": "061XX N BROADWAY", "description": "OVER $500"}
+{
+    "_id": {
+        "$oid": "51b7429b3c002ed20d78d392"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "2433", 
+    "case_number": "HW303254", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6603861, 
+            41.9927377
+        ]
+    }, 
+    "community_area": "77", 
+    "date": {
+        "$date": 1370275200000
+    }, 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "ward": "48", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9159075", 
+    "block": "061XX N BROADWAY", 
+    "description": "OVER $500"
+}

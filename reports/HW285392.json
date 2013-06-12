@@ -1,1 +1,38 @@
-{"y_coordinate": "1932409", "year": "2013", "domestic": true, "case_number": "HW285392", "id": "9140041", "primary_type": "ASSAULT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77570588551433, 41.97070696889149]}, "community_area": "11", "latitude": "41.97070696889149", "type": null, "description": "SIMPLE", "beat": "1622", "date": {"$date": 1369180800000}, "ward": "45", "_id": {"$oid": "51a61f073c002ed20d78a6ca"}, "iucr": "560", "longitude": "-87.77570588551433", "location_description": "APARTMENT", "x_coordinate": "1135890", "updated_on": {"$date": 1369356045000}, "fbi_code": "08A", "block": "049XX N MARMORA AVE"}
+{
+    "y_coordinate": "1932409", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285392", 
+    "id": "9140041", 
+    "primary_type": "ASSAULT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77570588551433, 
+            41.97070696889149
+        ]
+    }, 
+    "community_area": "11", 
+    "latitude": "41.97070696889149", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1622", 
+    "date": {
+        "$date": 1369180800000
+    }, 
+    "ward": "45", 
+    "_id": {
+        "$oid": "51a61f073c002ed20d78a6ca"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.77570588551433", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1135890", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08A", 
+    "block": "049XX N MARMORA AVE"
+}

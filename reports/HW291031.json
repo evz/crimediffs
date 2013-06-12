@@ -1,1 +1,38 @@
-{"y_coordinate": "1852085", "year": "2013", "domestic": false, "case_number": "HW291031", "id": "9145678", "primary_type": "WEAPONS VIOLATION", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60255582693857, 41.74930615377417]}, "community_area": "44", "latitude": "41.74930615377417", "type": null, "description": "UNLAWFUL POSS OF HANDGUN", "beat": "0631", "date": {"$date": 1369524600000}, "ward": "8", "_id": {"$oid": "51b34a0d3c002ed20d78c8b6"}, "iucr": "143A", "longitude": "-87.60255582693857", "location_description": "ALLEY", "x_coordinate": "1183663", "updated_on": {"$date": 1369701613000}, "fbi_code": "15", "block": "080XX S DREXEL AVE"}
+{
+    "y_coordinate": "1852085", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291031", 
+    "id": "9145678", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60255582693857, 
+            41.74930615377417
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.74930615377417", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "0631", 
+    "date": {
+        "$date": 1369524600000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c8b6"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.60255582693857", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1183663", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "15", 
+    "block": "080XX S DREXEL AVE"
+}

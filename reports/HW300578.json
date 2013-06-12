@@ -1,1 +1,38 @@
-{"y_coordinate": "1902941", "year": "2013", "domestic": false, "case_number": "HW300578", "id": "9154970", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72210113410254, 41.88956726455105]}, "community_area": "23", "latitude": "41.88956726455105", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1122", "date": {"$date": 1370126400000}, "ward": "27", "_id": {"$oid": "51b5f11e3c002ed20d78cf3d"}, "iucr": "1811", "longitude": "-87.72210113410254", "location_description": "STREET", "x_coordinate": "1150678", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "004XX N AVERS AVE"}
+{
+    "y_coordinate": "1902941", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300578", 
+    "id": "9154970", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72210113410254, 
+            41.88956726455105
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.88956726455105", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1122", 
+    "date": {
+        "$date": 1370126400000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf3d"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.72210113410254", 
+    "location_description": "STREET", 
+    "x_coordinate": "1150678", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "004XX N AVERS AVE"
+}

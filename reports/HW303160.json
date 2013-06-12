@@ -1,1 +1,38 @@
-{"y_coordinate": "1859367", "year": "2013", "domestic": false, "case_number": "HW303160", "id": "9157748", "primary_type": "BATTERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61851593590505, 41.769390543392085]}, "community_area": "69", "latitude": "41.769390543392085", "type": "violent", "description": "AGGRAVATED: HANDGUN", "beat": "0322", "date": {"$date": 1370286000000}, "ward": "20", "_id": {"$oid": "51b742993c002ed20d78d2e9"}, "iucr": "041A", "longitude": "-87.61851593590505", "location_description": "SIDEWALK", "x_coordinate": "1179247", "updated_on": {"$date": 1370911182000}, "fbi_code": "04B", "block": "003XX E 69TH ST"}
+{
+    "y_coordinate": "1859367", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303160", 
+    "id": "9157748", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61851593590505, 
+            41.769390543392085
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.769390543392085", 
+    "type": "violent", 
+    "description": "AGGRAVATED: HANDGUN", 
+    "beat": "0322", 
+    "date": {
+        "$date": 1370286000000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b742993c002ed20d78d2e9"
+    }, 
+    "iucr": "041A", 
+    "longitude": "-87.61851593590505", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1179247", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "04B", 
+    "block": "003XX E 69TH ST"
+}

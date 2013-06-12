@@ -1,1 +1,38 @@
-{"y_coordinate": "1898066", "year": "2013", "domestic": true, "case_number": "HW283157", "id": "9138100", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69872991257633, 41.87606229140595]}, "community_area": "27", "latitude": "41.87606229140595", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1124", "date": {"$date": 1369065780000}, "ward": "2", "_id": {"$oid": "51a4cd903c002ed20d78a4a4"}, "iucr": "486", "longitude": "-87.69872991257633", "location_description": "STREET", "x_coordinate": "1157078", "updated_on": {"$date": 1369787985000}, "fbi_code": "08B", "block": "029XX W VAN BUREN ST"}
+{
+    "y_coordinate": "1898066", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283157", 
+    "id": "9138100", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69872991257633, 
+            41.87606229140595
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.87606229140595", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1124", 
+    "date": {
+        "$date": 1369065780000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a4a4"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.69872991257633", 
+    "location_description": "STREET", 
+    "x_coordinate": "1157078", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "08B", 
+    "block": "029XX W VAN BUREN ST"
+}

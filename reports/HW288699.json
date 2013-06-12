@@ -1,1 +1,38 @@
-{"y_coordinate": "1857255", "year": "2013", "domestic": false, "case_number": "HW288699", "id": "9145036", "primary_type": "ASSAULT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.59715002187997, 41.76345967017141]}, "community_area": "69", "latitude": "41.76345967017141", "type": null, "description": "SIMPLE", "beat": "0324", "date": {"$date": 1369334700000}, "ward": "5", "_id": {"$oid": "51aa13953c002ed20d78b251"}, "iucr": "560", "longitude": "-87.59715002187997", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1185094", "updated_on": {"$date": 1369615194000}, "fbi_code": "08A", "block": "072XX S UNIVERSITY AVE"}
+{
+    "y_coordinate": "1857255", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288699", 
+    "id": "9145036", 
+    "primary_type": "ASSAULT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59715002187997, 
+            41.76345967017141
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.76345967017141", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0324", 
+    "date": {
+        "$date": 1369334700000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b251"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.59715002187997", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1185094", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08A", 
+    "block": "072XX S UNIVERSITY AVE"
+}

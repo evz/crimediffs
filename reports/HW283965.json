@@ -1,1 +1,38 @@
-{"y_coordinate": "1854461", "year": "2013", "domestic": false, "case_number": "HW283965", "id": "9138520", "primary_type": "DECEPTIVE PRACTICE", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.63898275730027, 41.756052532053275]}, "community_area": "69", "latitude": "41.756052532053275", "type": null, "description": "COUNTERFEITING DOCUMENT", "beat": "0621", "date": {"$date": 1369117980000}, "ward": "17", "_id": {"$oid": "51a61f103c002ed20d78a9c0"}, "iucr": "1121", "longitude": "-87.63898275730027", "location_description": "STREET", "x_coordinate": "1173703", "updated_on": {"$date": 1369356045000}, "fbi_code": "10", "block": "005XX W 76TH ST"}
+{
+    "y_coordinate": "1854461", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283965", 
+    "id": "9138520", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63898275730027, 
+            41.756052532053275
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.756052532053275", 
+    "type": null, 
+    "description": "COUNTERFEITING DOCUMENT", 
+    "beat": "0621", 
+    "date": {
+        "$date": 1369117980000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51a61f103c002ed20d78a9c0"
+    }, 
+    "iucr": "1121", 
+    "longitude": "-87.63898275730027", 
+    "location_description": "STREET", 
+    "x_coordinate": "1173703", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "10", 
+    "block": "005XX W 76TH ST"
+}

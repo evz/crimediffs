@@ -1,1 +1,38 @@
-{"y_coordinate": "1894159", "year": "2013", "domestic": true, "case_number": "HW287980", "id": "9142964", "primary_type": "THEFT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70914793596293, 41.865397593938425]}, "community_area": "29", "latitude": "41.865397593938425", "type": "property", "description": "$500 AND UNDER", "beat": "1021", "date": {"$date": 1369303200000}, "ward": "24", "_id": {"$oid": "51aa13983c002ed20d78b3b8"}, "iucr": "820", "longitude": "-87.70914793596293", "location_description": "APARTMENT", "x_coordinate": "1154269", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "012XX S CHRISTIANA AVE"}
+{
+    "y_coordinate": "1894159", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW287980", 
+    "id": "9142964", 
+    "primary_type": "THEFT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70914793596293, 
+            41.865397593938425
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.865397593938425", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1021", 
+    "date": {
+        "$date": 1369303200000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3b8"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.70914793596293", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1154269", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "012XX S CHRISTIANA AVE"
+}

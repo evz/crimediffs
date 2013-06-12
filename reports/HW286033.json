@@ -1,1 +1,38 @@
-{"y_coordinate": "1906199", "year": "2013", "domestic": false, "case_number": "HW286033", "id": "9140931", "primary_type": "NARCOTICS", "district": "012", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70622585266668, 41.898422406707105]}, "community_area": "23", "latitude": "41.898422406707105", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1211", "date": {"$date": 1369228800000}, "ward": "26", "_id": {"$oid": "51a7708b3c002ed20d78ac4a"}, "iucr": "1811", "longitude": "-87.70622585266668", "location_description": "SIDEWALK", "x_coordinate": "1154977", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "031XX W WALTON ST"}
+{
+    "y_coordinate": "1906199", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286033", 
+    "id": "9140931", 
+    "primary_type": "NARCOTICS", 
+    "district": "012", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70622585266668, 
+            41.898422406707105
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.898422406707105", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1211", 
+    "date": {
+        "$date": 1369228800000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac4a"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.70622585266668", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1154977", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "031XX W WALTON ST"
+}

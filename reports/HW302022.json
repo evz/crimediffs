@@ -1,1 +1,38 @@
-{"y_coordinate": "1929783", "year": "2013", "domestic": false, "case_number": "HW302022", "id": "9156236", "primary_type": "CRIMINAL DAMAGE", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68778193804991, 41.963039948283814]}, "community_area": "4", "latitude": "41.963039948283814", "type": "quality", "description": "TO CITY OF CHICAGO PROPERTY", "beat": "1911", "date": {"$date": 1370187000000}, "ward": "47", "_id": {"$oid": "51b5f11a3c002ed20d78cd4a"}, "iucr": "1345", "longitude": "-87.68778193804991", "location_description": "PARK PROPERTY", "x_coordinate": "1159821", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "023XX W SUNNYSIDE AVE"}
+{
+    "y_coordinate": "1929783", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302022", 
+    "id": "9156236", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68778193804991, 
+            41.963039948283814
+        ]
+    }, 
+    "community_area": "4", 
+    "latitude": "41.963039948283814", 
+    "type": "quality", 
+    "description": "TO CITY OF CHICAGO PROPERTY", 
+    "beat": "1911", 
+    "date": {
+        "$date": 1370187000000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd4a"
+    }, 
+    "iucr": "1345", 
+    "longitude": "-87.68778193804991", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1159821", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "023XX W SUNNYSIDE AVE"
+}

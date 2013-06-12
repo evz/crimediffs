@@ -1,1 +1,38 @@
-{"y_coordinate": "1827373", "year": "2013", "domestic": false, "case_number": "HW289321", "id": "9144253", "primary_type": "THEFT", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.53686051600705, 41.681052035084655]}, "community_area": "55", "latitude": "41.681052035084655", "type": "property", "description": "$500 AND UNDER", "beat": "0433", "date": {"$date": 1369409820000}, "ward": "10", "_id": {"$oid": "51aa13903c002ed20d78afae"}, "iucr": "820", "longitude": "-87.53686051600705", "location_description": "DAY CARE CENTER", "x_coordinate": "1201820", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "035XX E 118TH ST"}
+{
+    "y_coordinate": "1827373", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289321", 
+    "id": "9144253", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.53686051600705, 
+            41.681052035084655
+        ]
+    }, 
+    "community_area": "55", 
+    "latitude": "41.681052035084655", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0433", 
+    "date": {
+        "$date": 1369409820000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78afae"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.53686051600705", 
+    "location_description": "DAY CARE CENTER", 
+    "x_coordinate": "1201820", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "035XX E 118TH ST"
+}

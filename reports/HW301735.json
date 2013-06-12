@@ -1,1 +1,38 @@
-{"y_coordinate": "1838217", "year": "2013", "domestic": false, "case_number": "HW301735", "id": "9155941", "primary_type": "NARCOTICS", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.53663611094773, 41.710809918781294]}, "community_area": "52", "latitude": "41.710809918781294", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0432", "date": {"$date": 1370210400000}, "ward": "10", "_id": {"$oid": "51b5f1163c002ed20d78cc33"}, "iucr": "1811", "longitude": "-87.53663611094773", "location_description": "ALLEY", "x_coordinate": "1201781", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "101XX S AVENUE L"}
+{
+    "y_coordinate": "1838217", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301735", 
+    "id": "9155941", 
+    "primary_type": "NARCOTICS", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.53663611094773, 
+            41.710809918781294
+        ]
+    }, 
+    "community_area": "52", 
+    "latitude": "41.710809918781294", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0432", 
+    "date": {
+        "$date": 1370210400000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51b5f1163c002ed20d78cc33"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.53663611094773", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1201781", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "101XX S AVENUE L"
+}

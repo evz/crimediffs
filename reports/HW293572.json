@@ -1,1 +1,38 @@
-{"y_coordinate": "1882026", "year": "2013", "domestic": false, "case_number": "HW293572", "id": "9147829", "primary_type": "BURGLARY", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70482269528965, 41.83207786921951]}, "community_area": "30", "latitude": "41.83207786921951", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1032", "date": {"$date": 1369414800000}, "ward": "22", "_id": {"$oid": "51aa138f3c002ed20d78af5e"}, "iucr": "610", "longitude": "-87.70482269528965", "location_description": "GOVERNMENT BUILDING/PROPERTY", "x_coordinate": "1155536", "updated_on": {"$date": 1369874559000}, "fbi_code": "05", "block": "033XX S KEDZIE AVE"}
+{
+    "y_coordinate": "1882026", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293572", 
+    "id": "9147829", 
+    "primary_type": "BURGLARY", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70482269528965, 
+            41.83207786921951
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.83207786921951", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1032", 
+    "date": {
+        "$date": 1369414800000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51aa138f3c002ed20d78af5e"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.70482269528965", 
+    "location_description": "GOVERNMENT BUILDING/PROPERTY", 
+    "x_coordinate": "1155536", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "05", 
+    "block": "033XX S KEDZIE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1858659", "year": "2013", "domestic": false, "case_number": "HW300628", "id": "9154995", "primary_type": "NARCOTICS", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66647030713335, 41.76773593871478]}, "community_area": "67", "latitude": "41.76773593871478", "type": "quality", "description": "POSS: COCAINE", "beat": "0735", "date": {"$date": 1370127780000}, "ward": "17", "_id": {"$oid": "51b5f11e3c002ed20d78cf28"}, "iucr": "2022", "longitude": "-87.66647030713335", "location_description": "STREET", "x_coordinate": "1166170", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "069XX S PAULINA ST"}
+{
+    "y_coordinate": "1858659", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300628", 
+    "id": "9154995", 
+    "primary_type": "NARCOTICS", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66647030713335, 
+            41.76773593871478
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.76773593871478", 
+    "type": "quality", 
+    "description": "POSS: COCAINE", 
+    "beat": "0735", 
+    "date": {
+        "$date": 1370127780000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf28"
+    }, 
+    "iucr": "2022", 
+    "longitude": "-87.66647030713335", 
+    "location_description": "STREET", 
+    "x_coordinate": "1166170", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "069XX S PAULINA ST"
+}

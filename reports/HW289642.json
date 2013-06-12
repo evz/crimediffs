@@ -1,1 +1,38 @@
-{"y_coordinate": "1886362", "year": "2013", "domestic": false, "case_number": "HW289642", "id": "9144509", "primary_type": "BATTERY", "district": "001", "arrest": true, "location": {"type": "Point", "coordinates": [-87.627057187667, 41.84352514011624]}, "community_area": "35", "latitude": "41.84352514011624", "type": null, "description": "SIMPLE", "beat": "0133", "date": {"$date": 1369428180000}, "ward": "3", "_id": {"$oid": "51aa138d3c002ed20d78aeb4"}, "iucr": "460", "longitude": "-87.627057187667", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1176695", "updated_on": {"$date": 1369615194000}, "fbi_code": "08B", "block": "027XX S STATE ST"}
+{
+    "y_coordinate": "1886362", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289642", 
+    "id": "9144509", 
+    "primary_type": "BATTERY", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.627057187667, 
+            41.84352514011624
+        ]
+    }, 
+    "community_area": "35", 
+    "latitude": "41.84352514011624", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0133", 
+    "date": {
+        "$date": 1369428180000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78aeb4"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.627057187667", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1176695", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08B", 
+    "block": "027XX S STATE ST"
+}

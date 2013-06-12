@@ -1,1 +1,38 @@
-{"y_coordinate": "1899868", "year": "2013", "domestic": false, "case_number": "HW290440", "id": "9145095", "primary_type": "DECEPTIVE PRACTICE", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62601765093427, 41.88058259980965]}, "community_area": "32", "latitude": "41.88058259980965", "type": null, "description": "ILLEGAL USE CASH CARD", "beat": "0112", "date": {"$date": 1369484100000}, "ward": "42", "_id": {"$oid": "51b34a113c002ed20d78ca89"}, "iucr": "1152", "longitude": "-87.62601765093427", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1176867", "updated_on": {"$date": 1369701613000}, "fbi_code": "11", "block": "001XX S WABASH AVE"}
+{
+    "y_coordinate": "1899868", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290440", 
+    "id": "9145095", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62601765093427, 
+            41.88058259980965
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88058259980965", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "0112", 
+    "date": {
+        "$date": 1369484100000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca89"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.62601765093427", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1176867", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "11", 
+    "block": "001XX S WABASH AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1845798", "year": "2013", "domestic": false, "case_number": "HW289043", "id": "9144539", "primary_type": "MOTOR VEHICLE THEFT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61074124123597, 41.73210446341004]}, "community_area": "44", "latitude": "41.73210446341004", "type": "property", "description": "AUTOMOBILE", "beat": "0633", "date": {"$date": 1369399200000}, "ward": "6", "_id": {"$oid": "51aa13913c002ed20d78b03f"}, "iucr": "910", "longitude": "-87.61074124123597", "location_description": "STREET", "x_coordinate": "1181482", "updated_on": {"$date": 1370392932000}, "fbi_code": "07", "block": "005XX E 89TH PL"}
+{
+    "y_coordinate": "1845798", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289043", 
+    "id": "9144539", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61074124123597, 
+            41.73210446341004
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.73210446341004", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0633", 
+    "date": {
+        "$date": 1369399200000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b03f"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.61074124123597", 
+    "location_description": "STREET", 
+    "x_coordinate": "1181482", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "07", 
+    "block": "005XX E 89TH PL"
+}

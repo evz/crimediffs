@@ -1,1 +1,38 @@
-{"y_coordinate": "1854336", "year": "2013", "domestic": false, "case_number": "HW286269", "id": "9141206", "primary_type": "MOTOR VEHICLE THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56280823128297, 41.75522388575677]}, "community_area": "43", "latitude": "41.75522388575677", "type": "property", "description": "AUTOMOBILE", "beat": "0421", "date": {"$date": 1369235700000}, "ward": "7", "_id": {"$oid": "51a7708b3c002ed20d78abd9"}, "iucr": "910", "longitude": "-87.56280823128297", "location_description": "STREET", "x_coordinate": "1194490", "updated_on": {"$date": 1370047283000}, "fbi_code": "07", "block": "077XX S KINGSTON AVE"}
+{
+    "y_coordinate": "1854336", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286269", 
+    "id": "9141206", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56280823128297, 
+            41.75522388575677
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.75522388575677", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0421", 
+    "date": {
+        "$date": 1369235700000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78abd9"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.56280823128297", 
+    "location_description": "STREET", 
+    "x_coordinate": "1194490", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "07", 
+    "block": "077XX S KINGSTON AVE"
+}

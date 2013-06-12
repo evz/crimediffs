@@ -1,1 +1,38 @@
-{"y_coordinate": "1898632", "year": "2013", "domestic": false, "case_number": "HW299877", "id": "9154504", "primary_type": "NARCOTICS", "district": "001", "arrest": true, "location": {"type": "Point", "coordinates": [-87.63939426071563, 41.877272323884426]}, "community_area": "28", "latitude": "41.877272323884426", "type": "quality", "description": "POSSESSION OF DRUG EQUIPMENT", "beat": "0121", "date": {"$date": 1370090100000}, "ward": "2", "_id": {"$oid": "51b5f1203c002ed20d78d0e0"}, "iucr": "2170", "longitude": "-87.63939426071563", "location_description": "SIDEWALK", "x_coordinate": "1173234", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "003XX S CANAL ST"}
+{
+    "y_coordinate": "1898632", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299877", 
+    "id": "9154504", 
+    "primary_type": "NARCOTICS", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63939426071563, 
+            41.877272323884426
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.877272323884426", 
+    "type": "quality", 
+    "description": "POSSESSION OF DRUG EQUIPMENT", 
+    "beat": "0121", 
+    "date": {
+        "$date": 1370090100000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0e0"
+    }, 
+    "iucr": "2170", 
+    "longitude": "-87.63939426071563", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1173234", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "003XX S CANAL ST"
+}

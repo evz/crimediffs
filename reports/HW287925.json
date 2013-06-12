@@ -1,1 +1,38 @@
-{"y_coordinate": "1898160", "year": "2013", "domestic": false, "case_number": "HW287925", "id": "9142938", "primary_type": "BATTERY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75111153442658, 41.87659775790686]}, "community_area": "25", "latitude": "41.87659775790686", "type": "violent", "description": "AGGRAVATED: OTHER DANG WEAPON", "beat": "1533", "date": {"$date": 1369328520000}, "ward": "28", "_id": {"$oid": "51aa13963c002ed20d78b292"}, "iucr": "430", "longitude": "-87.75111153442658", "location_description": "SIDEWALK", "x_coordinate": "1142811", "updated_on": {"$date": 1369787985000}, "fbi_code": "04B", "block": "050XX W JACKSON BLVD"}
+{
+    "y_coordinate": "1898160", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287925", 
+    "id": "9142938", 
+    "primary_type": "BATTERY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75111153442658, 
+            41.87659775790686
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.87659775790686", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "1533", 
+    "date": {
+        "$date": 1369328520000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b292"
+    }, 
+    "iucr": "430", 
+    "longitude": "-87.75111153442658", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1142811", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "04B", 
+    "block": "050XX W JACKSON BLVD"
+}

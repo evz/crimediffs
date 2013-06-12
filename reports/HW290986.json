@@ -1,1 +1,38 @@
-{"y_coordinate": "1927768", "year": "2013", "domestic": false, "case_number": "HW290986", "id": "9146034", "primary_type": "BATTERY", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76281348252994, 41.95790774140663]}, "community_area": "15", "latitude": "41.95790774140663", "type": null, "description": "SIMPLE", "beat": "1624", "date": {"$date": 1369519800000}, "ward": "38", "_id": {"$oid": "51b34a0e3c002ed20d78c8de"}, "iucr": "460", "longitude": "-87.76281348252994", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1139427", "updated_on": {"$date": 1369787985000}, "fbi_code": "08B", "block": "054XX W HUTCHINSON ST"}
+{
+    "y_coordinate": "1927768", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290986", 
+    "id": "9146034", 
+    "primary_type": "BATTERY", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76281348252994, 
+            41.95790774140663
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.95790774140663", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1624", 
+    "date": {
+        "$date": 1369519800000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c8de"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.76281348252994", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1139427", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "08B", 
+    "block": "054XX W HUTCHINSON ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1876594", "year": "2013", "domestic": false, "case_number": "HW297297", "id": "9152012", "primary_type": "CRIM SEXUAL ASSAULT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69707429042226, 41.81712831622961]}, "community_area": "58", "latitude": "41.81712831622961", "type": "violent", "description": "NON-AGGRAVATED", "beat": "0921", "date": {"$date": 1369410000000}, "ward": "14", "_id": {"$oid": "51aa13903c002ed20d78afab"}, "iucr": "281", "longitude": "-87.69707429042226", "location_description": "APARTMENT", "x_coordinate": "1157688", "updated_on": {"$date": 1370133629000}, "fbi_code": "02", "block": "042XX S FRANCISCO AVE"}
+{
+    "y_coordinate": "1876594", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW297297", 
+    "id": "9152012", 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69707429042226, 
+            41.81712831622961
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.81712831622961", 
+    "type": "violent", 
+    "description": "NON-AGGRAVATED", 
+    "beat": "0921", 
+    "date": {
+        "$date": 1369410000000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78afab"
+    }, 
+    "iucr": "281", 
+    "longitude": "-87.69707429042226", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1157688", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "02", 
+    "block": "042XX S FRANCISCO AVE"
+}

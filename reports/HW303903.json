@@ -1,1 +1,38 @@
-{"y_coordinate": "1946606", "year": "2013", "domestic": false, "case_number": "HW303903", "id": "9158615", "primary_type": "CRIMINAL DAMAGE", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66278927595661, 42.00906228570674]}, "community_area": "1", "latitude": "42.00906228570674", "type": "quality", "description": "CRIMINAL DEFACEMENT", "beat": "2431", "date": {"$date": 1369353660000}, "ward": "49", "_id": {"$oid": "51b34a183c002ed20d78cb4c"}, "iucr": "1305", "longitude": "-87.66278927595661", "location_description": "RESIDENCE", "x_coordinate": "1166487", "updated_on": {"$date": 1370565766000}, "fbi_code": "14", "block": "012XX W LUNT AVE"}
+{
+    "y_coordinate": "1946606", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303903", 
+    "id": "9158615", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66278927595661, 
+            42.00906228570674
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "42.00906228570674", 
+    "type": "quality", 
+    "description": "CRIMINAL DEFACEMENT", 
+    "beat": "2431", 
+    "date": {
+        "$date": 1369353660000
+    }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51b34a183c002ed20d78cb4c"
+    }, 
+    "iucr": "1305", 
+    "longitude": "-87.66278927595661", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1166487", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "14", 
+    "block": "012XX W LUNT AVE"
+}

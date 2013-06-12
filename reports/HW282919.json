@@ -1,1 +1,38 @@
-{"y_coordinate": "1898218", "year": "2013", "domestic": false, "case_number": "HW282919", "id": "9137681", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70122987621664, 41.87649320452153]}, "community_area": "27", "latitude": "41.87649320452153", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1124", "date": {"$date": 1369055400000}, "ward": "28", "_id": {"$oid": "51a4cd913c002ed20d78a528"}, "iucr": "1811", "longitude": "-87.70122987621664", "location_description": "ALLEY", "x_coordinate": "1156396", "updated_on": {"$date": 1369183512000}, "fbi_code": "18", "block": "003XX S SACRAMENTO BLVD"}
+{
+    "y_coordinate": "1898218", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW282919", 
+    "id": "9137681", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70122987621664, 
+            41.87649320452153
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.87649320452153", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1124", 
+    "date": {
+        "$date": 1369055400000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a528"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.70122987621664", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1156396", 
+    "updated_on": {
+        "$date": 1369183512000
+    }, 
+    "fbi_code": "18", 
+    "block": "003XX S SACRAMENTO BLVD"
+}

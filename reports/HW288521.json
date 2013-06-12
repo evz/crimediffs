@@ -1,1 +1,38 @@
-{"y_coordinate": "1865581", "year": "2013", "domestic": false, "case_number": "HW288521", "id": "9143538", "primary_type": "THEFT", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62048610793798, 41.7864558061777]}, "community_area": "40", "latitude": "41.7864558061777", "type": "property", "description": "OVER $500", "beat": "0232", "date": {"$date": 1369342800000}, "ward": "20", "_id": {"$oid": "51aa13953c002ed20d78b1ed"}, "iucr": "810", "longitude": "-87.62048610793798", "location_description": "STREET", "x_coordinate": "1178658", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "059XX S INDIANA AVE"}
+{
+    "y_coordinate": "1865581", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288521", 
+    "id": "9143538", 
+    "primary_type": "THEFT", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62048610793798, 
+            41.7864558061777
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.7864558061777", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0232", 
+    "date": {
+        "$date": 1369342800000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b1ed"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.62048610793798", 
+    "location_description": "STREET", 
+    "x_coordinate": "1178658", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "059XX S INDIANA AVE"
+}

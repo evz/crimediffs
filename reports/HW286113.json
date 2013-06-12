@@ -1,1 +1,38 @@
-{"y_coordinate": "1836232", "year": "2013", "domestic": false, "case_number": "HW286113", "id": "9141032", "primary_type": "THEFT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61143439865498, 41.70585667691657]}, "community_area": "49", "latitude": "41.70585667691657", "type": "property", "description": "OVER $500", "beat": "0512", "date": {"$date": 1369207800000}, "ward": "9", "_id": {"$oid": "51a7708d3c002ed20d78ad0c"}, "iucr": "810", "longitude": "-87.61143439865498", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1181373", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "103XX S EBERHART AVE"}
+{
+    "y_coordinate": "1836232", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286113", 
+    "id": "9141032", 
+    "primary_type": "THEFT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61143439865498, 
+            41.70585667691657
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.70585667691657", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0512", 
+    "date": {
+        "$date": 1369207800000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad0c"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.61143439865498", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1181373", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "103XX S EBERHART AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1866673", "year": "2013", "domestic": false, "case_number": "HW290462", "id": "9145309", "primary_type": "DECEPTIVE PRACTICE", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66947646725443, 41.78974611555471]}, "community_area": "67", "latitude": "41.78974611555471", "type": null, "description": "CREDIT CARD FRAUD", "beat": "0715", "date": {"$date": 1369353600000}, "ward": "15", "_id": {"$oid": "51aa13943c002ed20d78b18b"}, "iucr": "1150", "longitude": "-87.66947646725443", "location_description": "RESIDENCE", "x_coordinate": "1165288", "updated_on": {"$date": 1369701613000}, "fbi_code": "11", "block": "057XX S WOOD ST"}
+{
+    "y_coordinate": "1866673", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290462", 
+    "id": "9145309", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66947646725443, 
+            41.78974611555471
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.78974611555471", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "0715", 
+    "date": {
+        "$date": 1369353600000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b18b"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.66947646725443", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1165288", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "11", 
+    "block": "057XX S WOOD ST"
+}

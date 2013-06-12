@@ -1,1 +1,38 @@
-{"y_coordinate": "1907526", "year": "2013", "domestic": false, "case_number": "HW286405", "id": "9141364", "primary_type": "ASSAULT", "district": "018", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62807042779109, 41.901610596572624]}, "community_area": "8", "latitude": "41.901610596572624", "type": "violent", "description": "AGGRAVATED:KNIFE/CUTTING INSTR", "beat": "1824", "date": {"$date": 1369240200000}, "ward": "42", "_id": {"$oid": "51a7708a3c002ed20d78ab99"}, "iucr": "520", "longitude": "-87.62807042779109", "location_description": "SIDEWALK", "x_coordinate": "1176245", "updated_on": {"$date": 1369442383000}, "fbi_code": "04A", "block": "010XX N RUSH ST"}
+{
+    "y_coordinate": "1907526", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286405", 
+    "id": "9141364", 
+    "primary_type": "ASSAULT", 
+    "district": "018", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62807042779109, 
+            41.901610596572624
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.901610596572624", 
+    "type": "violent", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
+    "beat": "1824", 
+    "date": {
+        "$date": 1369240200000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab99"
+    }, 
+    "iucr": "520", 
+    "longitude": "-87.62807042779109", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1176245", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "04A", 
+    "block": "010XX N RUSH ST"
+}

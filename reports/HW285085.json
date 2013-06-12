@@ -1,1 +1,38 @@
-{"y_coordinate": "1853356", "year": "2013", "domestic": false, "case_number": "HW285085", "id": "9139747", "primary_type": "NARCOTICS", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.69897609747571, 41.75336697417953]}, "community_area": "70", "latitude": "41.75336697417953", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0835", "date": {"$date": 1369164660000}, "ward": "18", "_id": {"$oid": "51a61f0a3c002ed20d78a783"}, "iucr": "1811", "longitude": "-87.69897609747571", "location_description": "STREET", "x_coordinate": "1157341", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "077XX S WHIPPLE ST"}
+{
+    "y_coordinate": "1853356", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285085", 
+    "id": "9139747", 
+    "primary_type": "NARCOTICS", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69897609747571, 
+            41.75336697417953
+        ]
+    }, 
+    "community_area": "70", 
+    "latitude": "41.75336697417953", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0835", 
+    "date": {
+        "$date": 1369164660000
+    }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a783"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.69897609747571", 
+    "location_description": "STREET", 
+    "x_coordinate": "1157341", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "077XX S WHIPPLE ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1894634", "year": "2013", "domestic": true, "case_number": "HW285570", "id": "9140699", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69549335326732, 41.86662609103704]}, "community_area": "29", "latitude": "41.86662609103704", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1135", "date": {"$date": 1369173600000}, "ward": "28", "_id": {"$oid": "51a61f083c002ed20d78a70c"}, "iucr": "486", "longitude": "-87.69549335326732", "location_description": "RESIDENCE", "x_coordinate": "1157985", "updated_on": {"$date": 1369528777000}, "fbi_code": "08B", "block": "027XX W ROOSEVELT RD"}
+{
+    "y_coordinate": "1894634", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285570", 
+    "id": "9140699", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69549335326732, 
+            41.86662609103704
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.86662609103704", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1135", 
+    "date": {
+        "$date": 1369173600000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a61f083c002ed20d78a70c"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.69549335326732", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1157985", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "08B", 
+    "block": "027XX W ROOSEVELT RD"
+}

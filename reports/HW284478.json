@@ -1,1 +1,38 @@
-{"y_coordinate": "1860728", "year": "2013", "domestic": false, "case_number": "HW284478", "id": "9139299", "primary_type": "NARCOTICS", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66546572919744, 41.77340805381312]}, "community_area": "67", "latitude": "41.77340805381312", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0725", "date": {"$date": 1369142100000}, "ward": "15", "_id": {"$oid": "51a61f0d3c002ed20d78a8bb"}, "iucr": "1811", "longitude": "-87.66546572919744", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1166428", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "066XX S MARSHFIELD AVE"}
+{
+    "y_coordinate": "1860728", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284478", 
+    "id": "9139299", 
+    "primary_type": "NARCOTICS", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66546572919744, 
+            41.77340805381312
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.77340805381312", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0725", 
+    "date": {
+        "$date": 1369142100000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51a61f0d3c002ed20d78a8bb"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.66546572919744", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1166428", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "066XX S MARSHFIELD AVE"
+}

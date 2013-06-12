@@ -1,1 +1,38 @@
-{"y_coordinate": "1849459", "year": "2013", "domestic": false, "case_number": "HW288220", "id": "9143200", "primary_type": "BATTERY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56107035144272, 41.74182826559596]}, "community_area": "46", "latitude": "41.74182826559596", "type": null, "description": "SIMPLE", "beat": "0423", "date": {"$date": 1369342320000}, "ward": "7", "_id": {"$oid": "51aa13953c002ed20d78b1f7"}, "iucr": "460", "longitude": "-87.56107035144272", "location_description": "SIDEWALK", "x_coordinate": "1195008", "updated_on": {"$date": 1369874559000}, "fbi_code": "08B", "block": "084XX S COLFAX AVE"}
+{
+    "y_coordinate": "1849459", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288220", 
+    "id": "9143200", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56107035144272, 
+            41.74182826559596
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.74182826559596", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0423", 
+    "date": {
+        "$date": 1369342320000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b1f7"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.56107035144272", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1195008", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "08B", 
+    "block": "084XX S COLFAX AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1908418", "year": "2013", "domestic": false, "case_number": "HW300513", "id": "9154913", "primary_type": "NARCOTICS", "district": "025", "arrest": true, "location": {"type": "Point", "coordinates": [-87.73634986511904, 41.90467243022954]}, "community_area": "23", "latitude": "41.90467243022954", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "2533", "date": {"$date": 1370122500000}, "ward": "37", "_id": {"$oid": "51b5f11e3c002ed20d78cf7b"}, "iucr": "1811", "longitude": "-87.73634986511904", "location_description": "STREET", "x_coordinate": "1146760", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "013XX N KOSTNER AVE"}
+{
+    "y_coordinate": "1908418", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300513", 
+    "id": "9154913", 
+    "primary_type": "NARCOTICS", 
+    "district": "025", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73634986511904, 
+            41.90467243022954
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.90467243022954", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "2533", 
+    "date": {
+        "$date": 1370122500000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf7b"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.73634986511904", 
+    "location_description": "STREET", 
+    "x_coordinate": "1146760", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "013XX N KOSTNER AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1832194", "year": "2013", "domestic": false, "case_number": "HW300363", "id": "9154814", "primary_type": "ASSAULT", "district": "022", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64231310858908, 41.694964909041396]}, "community_area": "49", "latitude": "41.694964909041396", "type": null, "description": "SIMPLE", "beat": "2233", "date": {"$date": 1370077200000}, "ward": "34", "_id": {"$oid": "51b5f1213c002ed20d78d163"}, "iucr": "560", "longitude": "-87.64231310858908", "location_description": "NURSING HOME/RETIREMENT HOME", "x_coordinate": "1172973", "updated_on": {"$date": 1370306580000}, "fbi_code": "08A", "block": "109XX S HALSTED ST"}
+{
+    "y_coordinate": "1832194", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300363", 
+    "id": "9154814", 
+    "primary_type": "ASSAULT", 
+    "district": "022", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64231310858908, 
+            41.694964909041396
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.694964909041396", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2233", 
+    "date": {
+        "$date": 1370077200000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d163"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.64231310858908", 
+    "location_description": "NURSING HOME/RETIREMENT HOME", 
+    "x_coordinate": "1172973", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08A", 
+    "block": "109XX S HALSTED ST"
+}

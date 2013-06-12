@@ -1,1 +1,38 @@
-{"y_coordinate": "1907449", "year": "2013", "domestic": false, "case_number": "HW287419", "id": "9142418", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71537883380797, 41.901902324975595]}, "community_area": "23", "latitude": "41.901902324975595", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "1121", "date": {"$date": 1369308540000}, "ward": "26", "_id": {"$oid": "51aa13973c002ed20d78b37a"}, "iucr": "2024", "longitude": "-87.71537883380797", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1152476", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "035XX W GRAND AVE"}
+{
+    "y_coordinate": "1907449", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287419", 
+    "id": "9142418", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71537883380797, 
+            41.901902324975595
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.901902324975595", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "1121", 
+    "date": {
+        "$date": 1369308540000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b37a"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.71537883380797", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1152476", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "035XX W GRAND AVE"
+}

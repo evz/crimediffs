@@ -1,1 +1,38 @@
-{"y_coordinate": "1858867", "year": "2013", "domestic": true, "case_number": "HW300621", "id": "9155078", "primary_type": "ASSAULT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.57404411831789, 41.76773309025443]}, "community_area": "43", "latitude": "41.76773309025443", "type": null, "description": "SIMPLE", "beat": "0331", "date": {"$date": 1370130000000}, "ward": "5", "_id": {"$oid": "51b5f11e3c002ed20d78cf13"}, "iucr": "560", "longitude": "-87.57404411831789", "location_description": "APARTMENT", "x_coordinate": "1191384", "updated_on": {"$date": 1370651988000}, "fbi_code": "08A", "block": "070XX S CLYDE AVE"}
+{
+    "y_coordinate": "1858867", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300621", 
+    "id": "9155078", 
+    "primary_type": "ASSAULT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57404411831789, 
+            41.76773309025443
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76773309025443", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0331", 
+    "date": {
+        "$date": 1370130000000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf13"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.57404411831789", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1191384", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "08A", 
+    "block": "070XX S CLYDE AVE"
+}

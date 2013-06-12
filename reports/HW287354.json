@@ -1,1 +1,38 @@
-{"y_coordinate": "1916879", "year": "2013", "domestic": false, "case_number": "HW287354", "id": "9142298", "primary_type": "THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7360121805629, 41.9278896224819]}, "community_area": "20", "latitude": "41.9278896224819", "type": "property", "description": "$500 AND UNDER", "beat": "2524", "date": {"$date": 1369149240000}, "ward": "31", "_id": {"$oid": "51a61f0c3c002ed20d78a86e"}, "iucr": "820", "longitude": "-87.7360121805629", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1146793", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "043XX W WRIGHTWOOD AVE"}
+{
+    "y_coordinate": "1916879", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287354", 
+    "id": "9142298", 
+    "primary_type": "THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7360121805629, 
+            41.9278896224819
+        ]
+    }, 
+    "community_area": "20", 
+    "latitude": "41.9278896224819", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2524", 
+    "date": {
+        "$date": 1369149240000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51a61f0c3c002ed20d78a86e"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.7360121805629", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1146793", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "043XX W WRIGHTWOOD AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1856239", "year": "2013", "domestic": true, "case_number": "HW300372", "id": "9155150", "primary_type": "BATTERY", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.57508203112044, 41.76052794086821]}, "community_area": "43", "latitude": "41.76052794086821", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0333", "date": {"$date": 1370112600000}, "ward": "5", "_id": {"$oid": "51b5f11f3c002ed20d78cfe7"}, "iucr": "486", "longitude": "-87.57508203112044", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1191124", "updated_on": {"$date": 1370306580000}, "fbi_code": "08B", "block": "074XX S CHAPPEL AVE"}
+{
+    "y_coordinate": "1856239", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300372", 
+    "id": "9155150", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57508203112044, 
+            41.76052794086821
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76052794086821", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0333", 
+    "date": {
+        "$date": 1370112600000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cfe7"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.57508203112044", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1191124", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08B", 
+    "block": "074XX S CHAPPEL AVE"
+}

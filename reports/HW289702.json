@@ -1,1 +1,38 @@
-{"y_coordinate": "1942872", "year": "2013", "domestic": false, "case_number": "HW289702", "id": "9144579", "primary_type": "OTHER OFFENSE", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69860969486326, 41.99901914740553]}, "community_area": "2", "latitude": "41.99901914740553", "type": null, "description": "TELEPHONE THREAT", "beat": "2412", "date": {"$date": 1369432200000}, "ward": "50", "_id": {"$oid": "51aa138d3c002ed20d78ae73"}, "iucr": "2820", "longitude": "-87.69860969486326", "location_description": "APARTMENT", "x_coordinate": "1156779", "updated_on": {"$date": 1369874559000}, "fbi_code": "26", "block": "064XX N FAIRFIELD AVE"}
+{
+    "y_coordinate": "1942872", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289702", 
+    "id": "9144579", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69860969486326, 
+            41.99901914740553
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "41.99901914740553", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "2412", 
+    "date": {
+        "$date": 1369432200000
+    }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78ae73"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.69860969486326", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1156779", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "26", 
+    "block": "064XX N FAIRFIELD AVE"
+}

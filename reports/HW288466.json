@@ -1,1 +1,38 @@
-{"y_coordinate": "1867213", "year": "2013", "domestic": false, "case_number": "HW288466", "id": "9143367", "primary_type": "ARSON", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67437101949338, 41.7912562111979]}, "community_area": "67", "latitude": "41.7912562111979", "type": "property", "description": "BY FIRE", "beat": "0715", "date": {"$date": 1369371360000}, "ward": "15", "_id": {"$oid": "51aa13933c002ed20d78b13f"}, "iucr": "1020", "longitude": "-87.67437101949338", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1163949", "updated_on": {"$date": 1369528777000}, "fbi_code": "09", "block": "056XX S DAMEN AVE"}
+{
+    "y_coordinate": "1867213", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288466", 
+    "id": "9143367", 
+    "primary_type": "ARSON", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67437101949338, 
+            41.7912562111979
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.7912562111979", 
+    "type": "property", 
+    "description": "BY FIRE", 
+    "beat": "0715", 
+    "date": {
+        "$date": 1369371360000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b13f"
+    }, 
+    "iucr": "1020", 
+    "longitude": "-87.67437101949338", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1163949", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "09", 
+    "block": "056XX S DAMEN AVE"
+}

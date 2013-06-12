@@ -1,1 +1,38 @@
-{"y_coordinate": "1918048", "year": "2013", "domestic": false, "case_number": "HW285014", "id": "9139725", "primary_type": "BURGLARY", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64908799933151, 41.930612515859686]}, "community_area": "7", "latitude": "41.930612515859686", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1935", "date": {"$date": 1369121400000}, "ward": "43", "_id": {"$oid": "51a61f103c002ed20d78a9ad"}, "iucr": "610", "longitude": "-87.64908799933151", "location_description": "APARTMENT", "x_coordinate": "1170439", "updated_on": {"$date": 1370306580000}, "fbi_code": "05", "block": "026XX N HALSTED ST"}
+{
+    "y_coordinate": "1918048", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285014", 
+    "id": "9139725", 
+    "primary_type": "BURGLARY", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64908799933151, 
+            41.930612515859686
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.930612515859686", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1935", 
+    "date": {
+        "$date": 1369121400000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51a61f103c002ed20d78a9ad"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.64908799933151", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1170439", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "05", 
+    "block": "026XX N HALSTED ST"
+}

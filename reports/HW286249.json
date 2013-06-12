@@ -1,1 +1,38 @@
-{"y_coordinate": "1864993", "year": "2013", "domestic": false, "case_number": "HW286249", "id": "9141231", "primary_type": "NARCOTICS", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6863933942299, 41.78523222069018]}, "community_area": "66", "latitude": "41.78523222069018", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0824", "date": {"$date": 1369235100000}, "ward": "16", "_id": {"$oid": "51a7708b3c002ed20d78abe1"}, "iucr": "1811", "longitude": "-87.6863933942299", "location_description": "SIDEWALK", "x_coordinate": "1160687", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "059XX S CAMPBELL AVE"}
+{
+    "y_coordinate": "1864993", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286249", 
+    "id": "9141231", 
+    "primary_type": "NARCOTICS", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6863933942299, 
+            41.78523222069018
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.78523222069018", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0824", 
+    "date": {
+        "$date": 1369235100000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78abe1"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.6863933942299", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1160687", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "059XX S CAMPBELL AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1929827", "year": "2013", "domestic": false, "case_number": "HW284593", "id": "9139499", "primary_type": "THEFT", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73351485328331, 41.96340873963158]}, "community_area": "16", "latitude": "41.96340873963158", "type": "property", "description": "OVER $500", "beat": "1722", "date": {"$date": 1369099800000}, "ward": "45", "_id": {"$oid": "51a4cd8b3c002ed20d78a316"}, "iucr": "810", "longitude": "-87.73351485328331", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1147382", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "045XX N ELSTON AVE"}
+{
+    "y_coordinate": "1929827", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284593", 
+    "id": "9139499", 
+    "primary_type": "THEFT", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73351485328331, 
+            41.96340873963158
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.96340873963158", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1722", 
+    "date": {
+        "$date": 1369099800000
+    }, 
+    "ward": "45", 
+    "_id": {
+        "$oid": "51a4cd8b3c002ed20d78a316"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.73351485328331", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1147382", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "045XX N ELSTON AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1844563", "year": "2013", "domestic": false, "case_number": "HW283718", "id": "9139154", "primary_type": "THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55286836026548, 41.728336723429884]}, "community_area": "46", "latitude": "41.728336723429884", "type": "property", "description": "RETAIL THEFT", "beat": "0423", "date": {"$date": 1369084500000}, "ward": "7", "_id": {"$oid": "51a4cd8e3c002ed20d78a39e"}, "iucr": "860", "longitude": "-87.55286836026548", "location_description": "DRUG STORE", "x_coordinate": "1197291", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "029XX E 92ND ST"}
+{
+    "y_coordinate": "1844563", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283718", 
+    "id": "9139154", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55286836026548, 
+            41.728336723429884
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.728336723429884", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0423", 
+    "date": {
+        "$date": 1369084500000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a39e"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.55286836026548", 
+    "location_description": "DRUG STORE", 
+    "x_coordinate": "1197291", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "029XX E 92ND ST"
+}

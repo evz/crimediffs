@@ -1,1 +1,38 @@
-{"y_coordinate": "1847634", "year": "2013", "domestic": false, "case_number": "HW288992", "id": "9144077", "primary_type": "BURGLARY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.54597036633926, 41.73671742861311]}, "community_area": "46", "latitude": "41.73671742861311", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0424", "date": {"$date": 1369403400000}, "ward": "7", "_id": {"$oid": "51aa13913c002ed20d78b00d"}, "iucr": "610", "longitude": "-87.54597036633926", "location_description": "CHA APARTMENT", "x_coordinate": "1199146", "updated_on": {"$date": 1370047283000}, "fbi_code": "05", "block": "087XX S BURLEY AVE"}
+{
+    "y_coordinate": "1847634", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288992", 
+    "id": "9144077", 
+    "primary_type": "BURGLARY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.54597036633926, 
+            41.73671742861311
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.73671742861311", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0424", 
+    "date": {
+        "$date": 1369403400000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b00d"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.54597036633926", 
+    "location_description": "CHA APARTMENT", 
+    "x_coordinate": "1199146", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "05", 
+    "block": "087XX S BURLEY AVE"
+}

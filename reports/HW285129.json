@@ -1,1 +1,38 @@
-{"y_coordinate": "1893280", "year": "2013", "domestic": false, "case_number": "HW285129", "id": "9139732", "primary_type": "NARCOTICS", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71183281464288, 41.86299995408995]}, "community_area": "29", "latitude": "41.86299995408995", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1021", "date": {"$date": 1369168200000}, "ward": "24", "_id": {"$oid": "51a61f093c002ed20d78a756"}, "iucr": "1811", "longitude": "-87.71183281464288", "location_description": "SIDEWALK", "x_coordinate": "1153544", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "034XX W DOUGLAS BLVD"}
+{
+    "y_coordinate": "1893280", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285129", 
+    "id": "9139732", 
+    "primary_type": "NARCOTICS", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71183281464288, 
+            41.86299995408995
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.86299995408995", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1021", 
+    "date": {
+        "$date": 1369168200000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a61f093c002ed20d78a756"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.71183281464288", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1153544", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "034XX W DOUGLAS BLVD"
+}

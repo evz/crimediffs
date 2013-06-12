@@ -1,1 +1,38 @@
-{"y_coordinate": "1904475", "year": "2013", "domestic": false, "case_number": "HW282975", "id": "9137860", "primary_type": "MOTOR VEHICLE THEFT", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.74907374573264, 41.89391733234573]}, "community_area": "25", "latitude": "41.89391733234573", "type": "property", "description": "THEFT/RECOVERY: AUTOMOBILE", "beat": "1531", "date": {"$date": 1369056660000}, "ward": "37", "_id": {"$oid": "51a4cd913c002ed20d78a517"}, "iucr": "930", "longitude": "-87.74907374573264", "location_description": "STREET", "x_coordinate": "1143323", "updated_on": {"$date": 1369960832000}, "fbi_code": "07", "block": "049XX W SUPERIOR ST"}
+{
+    "y_coordinate": "1904475", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW282975", 
+    "id": "9137860", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74907374573264, 
+            41.89391733234573
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.89391733234573", 
+    "type": "property", 
+    "description": "THEFT/RECOVERY: AUTOMOBILE", 
+    "beat": "1531", 
+    "date": {
+        "$date": 1369056660000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a517"
+    }, 
+    "iucr": "930", 
+    "longitude": "-87.74907374573264", 
+    "location_description": "STREET", 
+    "x_coordinate": "1143323", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "07", 
+    "block": "049XX W SUPERIOR ST"
+}

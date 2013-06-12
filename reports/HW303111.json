@@ -1,1 +1,38 @@
-{"y_coordinate": "1933290", "year": "2013", "domestic": false, "case_number": "HW303111", "id": "9157605", "primary_type": "OTHER OFFENSE", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66256593711294, 41.972519311519704]}, "community_area": "3", "latitude": "41.972519311519704", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "2033", "date": {"$date": 1370286600000}, "ward": "46", "_id": {"$oid": "51b742993c002ed20d78d2e1"}, "iucr": "2825", "longitude": "-87.66256593711294", "location_description": "APARTMENT", "x_coordinate": "1166652", "updated_on": {"$date": 1370651988000}, "fbi_code": "26", "block": "013XX W ARGYLE ST"}
+{
+    "y_coordinate": "1933290", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303111", 
+    "id": "9157605", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66256593711294, 
+            41.972519311519704
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.972519311519704", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "2033", 
+    "date": {
+        "$date": 1370286600000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51b742993c002ed20d78d2e1"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.66256593711294", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1166652", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "26", 
+    "block": "013XX W ARGYLE ST"
+}

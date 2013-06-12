@@ -1,1 +1,38 @@
-{"y_coordinate": "1891754", "year": "2013", "domestic": false, "case_number": "HW288606", "id": "9143532", "primary_type": "MOTOR VEHICLE THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66789884567147, 41.85856606928726]}, "community_area": "31", "latitude": "41.85856606928726", "type": "property", "description": "TRUCK, BUS, MOTOR HOME", "beat": "1234", "date": {"$date": 1369328400000}, "ward": "25", "_id": {"$oid": "51aa13963c002ed20d78b29a"}, "iucr": "915", "longitude": "-87.66789884567147", "location_description": "STREET", "x_coordinate": "1165524", "updated_on": {"$date": 1369701613000}, "fbi_code": "07", "block": "016XX W 17TH ST"}
+{
+    "y_coordinate": "1891754", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288606", 
+    "id": "9143532", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66789884567147, 
+            41.85856606928726
+        ]
+    }, 
+    "community_area": "31", 
+    "latitude": "41.85856606928726", 
+    "type": "property", 
+    "description": "TRUCK, BUS, MOTOR HOME", 
+    "beat": "1234", 
+    "date": {
+        "$date": 1369328400000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b29a"
+    }, 
+    "iucr": "915", 
+    "longitude": "-87.66789884567147", 
+    "location_description": "STREET", 
+    "x_coordinate": "1165524", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "07", 
+    "block": "016XX W 17TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1928587", "year": "2013", "domestic": false, "case_number": "HW290929", "id": "9145673", "primary_type": "BATTERY", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71569740001782, 41.95991144781328]}, "community_area": "16", "latitude": "41.95991144781328", "type": null, "description": "SIMPLE", "beat": "1723", "date": {"$date": 1369514820000}, "ward": "33", "_id": {"$oid": "51b34a0e3c002ed20d78c91d"}, "iucr": "460", "longitude": "-87.71569740001782", "location_description": "APARTMENT", "x_coordinate": "1152237", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "043XX N ST LOUIS AVE"}
+{
+    "y_coordinate": "1928587", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290929", 
+    "id": "9145673", 
+    "primary_type": "BATTERY", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71569740001782, 
+            41.95991144781328
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.95991144781328", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1723", 
+    "date": {
+        "$date": 1369514820000
+    }, 
+    "ward": "33", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c91d"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.71569740001782", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1152237", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "043XX N ST LOUIS AVE"
+}

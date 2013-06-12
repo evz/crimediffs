@@ -1,1 +1,38 @@
-{"y_coordinate": "1820685", "year": "2013", "domestic": false, "case_number": "HW285078", "id": "9139876", "primary_type": "CRIMINAL DAMAGE", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6403710217812, 41.66336862272753]}, "community_area": "53", "latitude": "41.66336862272753", "type": "quality", "description": "TO CITY OF CHICAGO PROPERTY", "beat": "0523", "date": {"$date": 1369164300000}, "ward": "34", "_id": {"$oid": "51a61f0a3c002ed20d78a78d"}, "iucr": "1345", "longitude": "-87.6403710217812", "location_description": "STREET", "x_coordinate": "1173596", "updated_on": {"$date": 1369356045000}, "fbi_code": "14", "block": "007XX W 127TH ST"}
+{
+    "y_coordinate": "1820685", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285078", 
+    "id": "9139876", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6403710217812, 
+            41.66336862272753
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.66336862272753", 
+    "type": "quality", 
+    "description": "TO CITY OF CHICAGO PROPERTY", 
+    "beat": "0523", 
+    "date": {
+        "$date": 1369164300000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a78d"
+    }, 
+    "iucr": "1345", 
+    "longitude": "-87.6403710217812", 
+    "location_description": "STREET", 
+    "x_coordinate": "1173596", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "14", 
+    "block": "007XX W 127TH ST"
+}

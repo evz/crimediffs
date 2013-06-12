@@ -1,1 +1,38 @@
-{"y_coordinate": "1870736", "year": "2013", "domestic": false, "case_number": "HW297625", "id": "9152144", "primary_type": "THEFT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68712606869052, 41.800996788494054]}, "community_area": "63", "latitude": "41.800996788494054", "type": "property", "description": "$500 AND UNDER", "beat": "0923", "date": {"$date": 1369389600000}, "ward": "14", "_id": {"$oid": "51aa13923c002ed20d78b0b5"}, "iucr": "820", "longitude": "-87.68712606869052", "location_description": "RESIDENCE", "x_coordinate": "1160444", "updated_on": {"$date": 1370306580000}, "fbi_code": "06", "block": "025XX W 51ST ST"}
+{
+    "y_coordinate": "1870736", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW297625", 
+    "id": "9152144", 
+    "primary_type": "THEFT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68712606869052, 
+            41.800996788494054
+        ]
+    }, 
+    "community_area": "63", 
+    "latitude": "41.800996788494054", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0923", 
+    "date": {
+        "$date": 1369389600000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b0b5"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.68712606869052", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1160444", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "06", 
+    "block": "025XX W 51ST ST"
+}

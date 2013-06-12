@@ -1,1 +1,38 @@
-{"y_coordinate": "1905591", "year": "2013", "domestic": false, "case_number": "HW300843", "id": "9155210", "primary_type": "CRIMINAL TRESPASS", "district": "018", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62669279914327, 41.89629203476959]}, "community_area": "8", "latitude": "41.89629203476959", "type": null, "description": "TO LAND", "beat": "1833", "date": {"$date": 1370151360000}, "ward": "42", "_id": {"$oid": "51b5f11c3c002ed20d78ce5b"}, "iucr": "1330", "longitude": "-87.62669279914327", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1176636", "updated_on": {"$date": 1370306580000}, "fbi_code": "26", "block": "007XX N WABASH AVE"}
+{
+    "y_coordinate": "1905591", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300843", 
+    "id": "9155210", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "018", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62669279914327, 
+            41.89629203476959
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89629203476959", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "1833", 
+    "date": {
+        "$date": 1370151360000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce5b"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.62669279914327", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1176636", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "26", 
+    "block": "007XX N WABASH AVE"
+}

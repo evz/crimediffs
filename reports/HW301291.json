@@ -1,1 +1,38 @@
-{"y_coordinate": "1865895", "year": "2013", "domestic": false, "case_number": "HW301291", "id": "9155511", "primary_type": "MOTOR VEHICLE THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70721689539357, 41.78782294952285]}, "community_area": "63", "latitude": "41.78782294952285", "type": "property", "description": "TRUCK, BUS, MOTOR HOME", "beat": "0822", "date": {"$date": 1370102400000}, "ward": "14", "_id": {"$oid": "51b5f11f3c002ed20d78d043"}, "iucr": "915", "longitude": "-87.70721689539357", "location_description": "STREET", "x_coordinate": "1155001", "updated_on": {"$date": 1370392932000}, "fbi_code": "07", "block": "058XX S CHRISTIANA AVE"}
+{
+    "y_coordinate": "1865895", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301291", 
+    "id": "9155511", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70721689539357, 
+            41.78782294952285
+        ]
+    }, 
+    "community_area": "63", 
+    "latitude": "41.78782294952285", 
+    "type": "property", 
+    "description": "TRUCK, BUS, MOTOR HOME", 
+    "beat": "0822", 
+    "date": {
+        "$date": 1370102400000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d043"
+    }, 
+    "iucr": "915", 
+    "longitude": "-87.70721689539357", 
+    "location_description": "STREET", 
+    "x_coordinate": "1155001", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "07", 
+    "block": "058XX S CHRISTIANA AVE"
+}

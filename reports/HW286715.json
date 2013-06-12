@@ -1,1 +1,38 @@
-{"y_coordinate": "1926150", "year": "2013", "domestic": false, "case_number": "HW286715", "id": "9141526", "primary_type": "NARCOTICS", "district": "019", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64989792811653, 41.9528509702342]}, "community_area": "6", "latitude": "41.9528509702342", "type": "quality", "description": "POSSESSION OF DRUG EQUIPMENT", "beat": "1923", "date": {"$date": 1369253580000}, "ward": "46", "_id": {"$oid": "51a770893c002ed20d78aaf4"}, "iucr": "2170", "longitude": "-87.64989792811653", "location_description": "SIDEWALK", "x_coordinate": "1170154", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "008XX W SHERIDAN RD"}
+{
+    "y_coordinate": "1926150", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286715", 
+    "id": "9141526", 
+    "primary_type": "NARCOTICS", 
+    "district": "019", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64989792811653, 
+            41.9528509702342
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.9528509702342", 
+    "type": "quality", 
+    "description": "POSSESSION OF DRUG EQUIPMENT", 
+    "beat": "1923", 
+    "date": {
+        "$date": 1369253580000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51a770893c002ed20d78aaf4"
+    }, 
+    "iucr": "2170", 
+    "longitude": "-87.64989792811653", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1170154", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "008XX W SHERIDAN RD"
+}

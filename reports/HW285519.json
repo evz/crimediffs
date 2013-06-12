@@ -1,1 +1,38 @@
-{"y_coordinate": "1860877", "year": "2013", "domestic": false, "case_number": "HW285519", "id": "9140132", "primary_type": "ROBBERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.57663303442608, 41.773266196049754]}, "community_area": "43", "latitude": "41.773266196049754", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "0332", "date": {"$date": 1369201800000}, "ward": "5", "_id": {"$oid": "51a7708d3c002ed20d78ad32"}, "iucr": "320", "longitude": "-87.57663303442608", "location_description": "GAS STATION", "x_coordinate": "1190660", "updated_on": {"$date": 1370651988000}, "fbi_code": "03", "block": "067XX S JEFFERY BLVD"}
+{
+    "y_coordinate": "1860877", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285519", 
+    "id": "9140132", 
+    "primary_type": "ROBBERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57663303442608, 
+            41.773266196049754
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.773266196049754", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0332", 
+    "date": {
+        "$date": 1369201800000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad32"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.57663303442608", 
+    "location_description": "GAS STATION", 
+    "x_coordinate": "1190660", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "03", 
+    "block": "067XX S JEFFERY BLVD"
+}

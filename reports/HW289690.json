@@ -1,1 +1,38 @@
-{"y_coordinate": "1892853", "year": "2013", "domestic": false, "case_number": "HW289690", "id": "9144606", "primary_type": "BATTERY", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62554340530339, 41.86132878536698]}, "community_area": "33", "latitude": "41.86132878536698", "type": null, "description": "SIMPLE", "beat": "0131", "date": {"$date": 1369429200000}, "ward": "2", "_id": {"$oid": "51aa138d3c002ed20d78aea4"}, "iucr": "460", "longitude": "-87.62554340530339", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1177054", "updated_on": {"$date": 1369615194000}, "fbi_code": "08B", "block": "015XX S WABASH AVE"}
+{
+    "y_coordinate": "1892853", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289690", 
+    "id": "9144606", 
+    "primary_type": "BATTERY", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62554340530339, 
+            41.86132878536698
+        ]
+    }, 
+    "community_area": "33", 
+    "latitude": "41.86132878536698", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0131", 
+    "date": {
+        "$date": 1369429200000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78aea4"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.62554340530339", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1177054", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08B", 
+    "block": "015XX S WABASH AVE"
+}

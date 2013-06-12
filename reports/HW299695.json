@@ -1,1 +1,38 @@
-{"y_coordinate": "1899280", "year": "2013", "domestic": true, "case_number": "HW299695", "id": "9154351", "primary_type": "OFFENSE INVOLVING CHILDREN", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7121616588685, 41.87946724623613]}, "community_area": "27", "latitude": "41.87946724623613", "type": null, "description": "OTHER OFFENSE", "beat": "1123", "date": {"$date": 1370080800000}, "ward": "28", "_id": {"$oid": "51b5f1213c002ed20d78d145"}, "iucr": "1780", "longitude": "-87.7121616588685", "location_description": "RESIDENCE", "x_coordinate": "1153411", "updated_on": {"$date": 1370479286000}, "fbi_code": "26", "block": "034XX W MONROE ST"}
+{
+    "y_coordinate": "1899280", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW299695", 
+    "id": "9154351", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7121616588685, 
+            41.87946724623613
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.87946724623613", 
+    "type": null, 
+    "description": "OTHER OFFENSE", 
+    "beat": "1123", 
+    "date": {
+        "$date": 1370080800000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d145"
+    }, 
+    "iucr": "1780", 
+    "longitude": "-87.7121616588685", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1153411", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "26", 
+    "block": "034XX W MONROE ST"
+}

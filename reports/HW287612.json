@@ -1,1 +1,38 @@
-{"y_coordinate": "1852400", "year": "2013", "domestic": false, "case_number": "HW287612", "id": "9142666", "primary_type": "CRIMINAL DAMAGE", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6380836243613, 41.75039108538098]}, "community_area": "44", "latitude": "41.75039108538098", "type": "quality", "description": "TO PROPERTY", "beat": "0621", "date": {"$date": 1369296000000}, "ward": "17", "_id": {"$oid": "51aa13983c002ed20d78b407"}, "iucr": "1310", "longitude": "-87.6380836243613", "location_description": "RESIDENCE", "x_coordinate": "1173965", "updated_on": {"$date": 1369528777000}, "fbi_code": "14", "block": "079XX S PARNELL AVE"}
+{
+    "y_coordinate": "1852400", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287612", 
+    "id": "9142666", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6380836243613, 
+            41.75039108538098
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.75039108538098", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0621", 
+    "date": {
+        "$date": 1369296000000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b407"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.6380836243613", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1173965", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "14", 
+    "block": "079XX S PARNELL AVE"
+}

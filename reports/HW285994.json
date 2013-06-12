@@ -1,1 +1,38 @@
-{"y_coordinate": "1920975", "year": "2013", "domestic": false, "case_number": "HW285994", "id": "9140920", "primary_type": "CRIMINAL DAMAGE", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.79681120514879, 41.93943016652526]}, "community_area": "17", "latitude": "41.93943016652526", "type": "quality", "description": "TO PROPERTY", "beat": "1632", "date": {"$date": 1369174500000}, "ward": "36", "_id": {"$oid": "51a61f083c002ed20d78a6ff"}, "iucr": "1310", "longitude": "-87.79681120514879", "location_description": "RESIDENCE", "x_coordinate": "1130222", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "032XX N NEWCASTLE AVE"}
+{
+    "y_coordinate": "1920975", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285994", 
+    "id": "9140920", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.79681120514879, 
+            41.93943016652526
+        ]
+    }, 
+    "community_area": "17", 
+    "latitude": "41.93943016652526", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1632", 
+    "date": {
+        "$date": 1369174500000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51a61f083c002ed20d78a6ff"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.79681120514879", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1130222", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "032XX N NEWCASTLE AVE"
+}

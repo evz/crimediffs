@@ -1,1 +1,38 @@
-{"y_coordinate": "1934828", "year": "2013", "domestic": false, "case_number": "HW290503", "id": "9145131", "primary_type": "THEFT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.84632323643838, 41.97766649691341]}, "community_area": "76", "latitude": "41.97766649691341", "type": "property", "description": "$500 AND UNDER", "beat": "1614", "date": {"$date": 1369492740000}, "ward": "41", "_id": {"$oid": "51b34a103c002ed20d78ca3a"}, "iucr": "820", "longitude": "-87.84632323643838", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1116672", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "054XX N EAST RIVER RD"}
+{
+    "y_coordinate": "1934828", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290503", 
+    "id": "9145131", 
+    "primary_type": "THEFT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.84632323643838, 
+            41.97766649691341
+        ]
+    }, 
+    "community_area": "76", 
+    "latitude": "41.97766649691341", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1614", 
+    "date": {
+        "$date": 1369492740000
+    }, 
+    "ward": "41", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78ca3a"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.84632323643838", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1116672", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "054XX N EAST RIVER RD"
+}

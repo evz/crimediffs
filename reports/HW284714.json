@@ -1,1 +1,38 @@
-{"y_coordinate": "1901108", "year": "2013", "domestic": true, "case_number": "HW284714", "id": "9139492", "primary_type": "BATTERY", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.76681752831617, 41.88476635992409]}, "community_area": "25", "latitude": "41.88476635992409", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1512", "date": {"$date": 1369085400000}, "ward": "29", "_id": {"$oid": "51a4cd8d3c002ed20d78a395"}, "iucr": "486", "longitude": "-87.76681752831617", "location_description": "RESIDENCE", "x_coordinate": "1138514", "updated_on": {"$date": 1369356045000}, "fbi_code": "08B", "block": "002XX N PARKSIDE AVE"}
+{
+    "y_coordinate": "1901108", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW284714", 
+    "id": "9139492", 
+    "primary_type": "BATTERY", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76681752831617, 
+            41.88476635992409
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.88476635992409", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1512", 
+    "date": {
+        "$date": 1369085400000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51a4cd8d3c002ed20d78a395"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.76681752831617", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1138514", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08B", 
+    "block": "002XX N PARKSIDE AVE"
+}

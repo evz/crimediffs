@@ -1,1 +1,38 @@
-{"y_coordinate": "1904120", "year": "2013", "domestic": true, "case_number": "HW287982", "id": "9142995", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7200429945681, 41.892791754148035]}, "community_area": "23", "latitude": "41.892791754148035", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1122", "date": {"$date": 1369260000000}, "ward": "27", "_id": {"$oid": "51a770883c002ed20d78aaa0"}, "iucr": "486", "longitude": "-87.7200429945681", "location_description": "STREET", "x_coordinate": "1151230", "updated_on": {"$date": 1369528777000}, "fbi_code": "08B", "block": "006XX N RIDGEWAY AVE"}
+{
+    "y_coordinate": "1904120", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW287982", 
+    "id": "9142995", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7200429945681, 
+            41.892791754148035
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.892791754148035", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1122", 
+    "date": {
+        "$date": 1369260000000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aaa0"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.7200429945681", 
+    "location_description": "STREET", 
+    "x_coordinate": "1151230", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "08B", 
+    "block": "006XX N RIDGEWAY AVE"
+}

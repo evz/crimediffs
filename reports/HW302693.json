@@ -1,1 +1,38 @@
-{"y_coordinate": "1902618", "year": "2013", "domestic": true, "case_number": "HW302693", "id": "9157562", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.719928178623, 41.88866928734499]}, "community_area": "23", "latitude": "41.88866928734499", "type": "violent", "description": "AGGRAVATED DOMESTIC BATTERY: OTHER DANG WEAPON", "beat": "1122", "date": {"$date": 1370271600000}, "ward": "27", "_id": {"$oid": "51b7429c3c002ed20d78d3b5"}, "iucr": "497", "longitude": "-87.719928178623", "location_description": "APARTMENT", "x_coordinate": "1151272", "updated_on": {"$date": 1370651988000}, "fbi_code": "04B", "block": "004XX N RIDGEWAY AVE"}
+{
+    "y_coordinate": "1902618", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW302693", 
+    "id": "9157562", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.719928178623, 
+            41.88866928734499
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.88866928734499", 
+    "type": "violent", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: OTHER DANG WEAPON", 
+    "beat": "1122", 
+    "date": {
+        "$date": 1370271600000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b7429c3c002ed20d78d3b5"
+    }, 
+    "iucr": "497", 
+    "longitude": "-87.719928178623", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1151272", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "04B", 
+    "block": "004XX N RIDGEWAY AVE"
+}

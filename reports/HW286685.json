@@ -1,1 +1,38 @@
-{"y_coordinate": "1831695", "year": "2013", "domestic": false, "case_number": "HW286685", "id": "9141474", "primary_type": "ASSAULT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67140899424767, 41.693766756849385]}, "community_area": "75", "latitude": "41.693766756849385", "type": null, "description": "SIMPLE", "beat": "2212", "date": {"$date": 1369249200000}, "ward": "19", "_id": {"$oid": "51a770893c002ed20d78ab33"}, "iucr": "560", "longitude": "-87.67140899424767", "location_description": "APARTMENT", "x_coordinate": "1165030", "updated_on": {"$date": 1369528777000}, "fbi_code": "08A", "block": "110XX S LONGWOOD DR"}
+{
+    "y_coordinate": "1831695", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286685", 
+    "id": "9141474", 
+    "primary_type": "ASSAULT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67140899424767, 
+            41.693766756849385
+        ]
+    }, 
+    "community_area": "75", 
+    "latitude": "41.693766756849385", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2212", 
+    "date": {
+        "$date": 1369249200000
+    }, 
+    "ward": "19", 
+    "_id": {
+        "$oid": "51a770893c002ed20d78ab33"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.67140899424767", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1165030", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "08A", 
+    "block": "110XX S LONGWOOD DR"
+}

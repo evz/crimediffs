@@ -1,1 +1,38 @@
-{"y_coordinate": "1944268", "year": "2013", "domestic": false, "case_number": "HW288756", "id": "9149373", "primary_type": "BATTERY", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66915493150893, 42.00268338857119]}, "community_area": "1", "latitude": "42.00268338857119", "type": null, "description": "SIMPLE", "beat": "2432", "date": {"$date": 1369390200000}, "ward": "40", "_id": {"$oid": "51aa13923c002ed20d78b0b1"}, "iucr": "460", "longitude": "-87.66915493150893", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1164775", "updated_on": {"$date": 1369960832000}, "fbi_code": "08B", "block": "066XX N BOSWORTH AVE"}
+{
+    "y_coordinate": "1944268", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288756", 
+    "id": "9149373", 
+    "primary_type": "BATTERY", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66915493150893, 
+            42.00268338857119
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "42.00268338857119", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2432", 
+    "date": {
+        "$date": 1369390200000
+    }, 
+    "ward": "40", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b0b1"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.66915493150893", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1164775", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "08B", 
+    "block": "066XX N BOSWORTH AVE"
+}

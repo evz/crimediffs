@@ -1,1 +1,38 @@
-{"y_coordinate": "1900693", "year": "2013", "domestic": true, "case_number": "HW301294", "id": "9155626", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72898636778841, 41.883434640760605]}, "community_area": "26", "latitude": "41.883434640760605", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1114", "date": {"$date": 1370141400000}, "ward": "28", "_id": {"$oid": "51b5f11d3c002ed20d78cea9"}, "iucr": "486", "longitude": "-87.72898636778841", "location_description": "RESIDENCE", "x_coordinate": "1148819", "updated_on": {"$date": 1370479286000}, "fbi_code": "08B", "block": "041XX W WEST END AVE"}
+{
+    "y_coordinate": "1900693", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301294", 
+    "id": "9155626", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72898636778841, 
+            41.883434640760605
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.883434640760605", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1114", 
+    "date": {
+        "$date": 1370141400000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78cea9"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.72898636778841", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1148819", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08B", 
+    "block": "041XX W WEST END AVE"
+}

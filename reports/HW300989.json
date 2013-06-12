@@ -1,1 +1,38 @@
-{"y_coordinate": "1860861", "year": "2013", "domestic": false, "case_number": "HW300989", "id": "9155383", "primary_type": "BURGLARY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70042649603602, 41.773970962690335]}, "community_area": "66", "latitude": "41.773970962690335", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0831", "date": {"$date": 1370166300000}, "ward": "15", "_id": {"$oid": "51b5f11c3c002ed20d78ce16"}, "iucr": "610", "longitude": "-87.70042649603602", "location_description": "RESIDENCE", "x_coordinate": "1156890", "updated_on": {"$date": 1370479286000}, "fbi_code": "05", "block": "065XX S ALBANY AVE"}
+{
+    "y_coordinate": "1860861", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300989", 
+    "id": "9155383", 
+    "primary_type": "BURGLARY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70042649603602, 
+            41.773970962690335
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.773970962690335", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0831", 
+    "date": {
+        "$date": 1370166300000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce16"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.70042649603602", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1156890", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "05", 
+    "block": "065XX S ALBANY AVE"
+}

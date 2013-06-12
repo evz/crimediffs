@@ -1,1 +1,38 @@
-{"y_coordinate": "1937401", "year": "2013", "domestic": false, "case_number": "HW283458", "id": "9138022", "primary_type": "PUBLIC PEACE VIOLATION", "district": "016", "arrest": true, "location": {"type": "Point", "coordinates": [-87.81667273490746, 41.98459772560871]}, "community_area": "10", "latitude": "41.98459772560871", "type": null, "description": "RECKLESS CONDUCT", "beat": "1612", "date": {"$date": 1369073880000}, "ward": "41", "_id": {"$oid": "51a4cd8f3c002ed20d78a438"}, "iucr": "470", "longitude": "-87.81667273490746", "location_description": "STREET", "x_coordinate": "1124719", "updated_on": {"$date": 1369269615000}, "fbi_code": "24", "block": "057XX N ORIOLE AVE"}
+{
+    "y_coordinate": "1937401", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283458", 
+    "id": "9138022", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "016", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.81667273490746, 
+            41.98459772560871
+        ]
+    }, 
+    "community_area": "10", 
+    "latitude": "41.98459772560871", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "1612", 
+    "date": {
+        "$date": 1369073880000
+    }, 
+    "ward": "41", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a438"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.81667273490746", 
+    "location_description": "STREET", 
+    "x_coordinate": "1124719", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "24", 
+    "block": "057XX N ORIOLE AVE"
+}

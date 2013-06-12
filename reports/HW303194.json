@@ -1,1 +1,38 @@
-{"y_coordinate": "1858098", "year": "2013", "domestic": false, "case_number": "HW303194", "id": "9157676", "primary_type": "WEAPONS VIOLATION", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66764084036511, 41.76620317537093]}, "community_area": "67", "latitude": "41.76620317537093", "type": null, "description": "UNLAWFUL POSS AMMUNITION", "beat": "0735", "date": {"$date": 1370279580000}, "ward": "17", "_id": {"$oid": "51b7429b3c002ed20d78d359"}, "iucr": "143C", "longitude": "-87.66764084036511", "location_description": "STREET", "x_coordinate": "1165855", "updated_on": {"$date": 1370479286000}, "fbi_code": "15", "block": "070XX S HERMITAGE AVE"}
+{
+    "y_coordinate": "1858098", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303194", 
+    "id": "9157676", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66764084036511, 
+            41.76620317537093
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.76620317537093", 
+    "type": null, 
+    "description": "UNLAWFUL POSS AMMUNITION", 
+    "beat": "0735", 
+    "date": {
+        "$date": 1370279580000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51b7429b3c002ed20d78d359"
+    }, 
+    "iucr": "143C", 
+    "longitude": "-87.66764084036511", 
+    "location_description": "STREET", 
+    "x_coordinate": "1165855", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "15", 
+    "block": "070XX S HERMITAGE AVE"
+}

@@ -1,1 +1,33 @@
-{"community_area": "2", "_id": {"$oid": "51b5f11d3c002ed20d78ced5"}, "primary_type": "THEFT", "beat": "2411", "year": "2013", "domestic": false, "iucr": "820", "arrest": false, "location_description": "TAXICAB", "location": {"type": "Point", "coordinates": [-87.6875446, 42.0140744]}, "case_number": "HW300870", "date": {"$date": 1370134800000}, "updated_on": {"$date": 1370738354000}, "ward": "49", "fbi_code": "06", "type": "property", "id": "9161429", "block": "073XX N OAKLEY AVE", "description": "$500 AND UNDER"}
+{
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78ced5"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "2411", 
+    "case_number": "HW300870", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "TAXICAB", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6875446, 
+            42.0140744
+        ]
+    }, 
+    "community_area": "2", 
+    "date": {
+        "$date": 1370134800000
+    }, 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "ward": "49", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9161429", 
+    "block": "073XX N OAKLEY AVE", 
+    "description": "$500 AND UNDER"
+}

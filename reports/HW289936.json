@@ -1,1 +1,38 @@
-{"y_coordinate": "1905194", "year": "2013", "domestic": false, "case_number": "HW289936", "id": "9144702", "primary_type": "BATTERY", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70635934351783, 41.89566517481546]}, "community_area": "23", "latitude": "41.89566517481546", "type": null, "description": "SIMPLE", "beat": "1211", "date": {"$date": 1369446600000}, "ward": "27", "_id": {"$oid": "51aa138a3c002ed20d78adca"}, "iucr": "460", "longitude": "-87.70635934351783", "location_description": "SIDEWALK", "x_coordinate": "1154948", "updated_on": {"$date": 1369615194000}, "fbi_code": "08B", "block": "031XX W CHICAGO AVE"}
+{
+    "y_coordinate": "1905194", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289936", 
+    "id": "9144702", 
+    "primary_type": "BATTERY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70635934351783, 
+            41.89566517481546
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.89566517481546", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1211", 
+    "date": {
+        "$date": 1369446600000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa138a3c002ed20d78adca"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.70635934351783", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1154948", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08B", 
+    "block": "031XX W CHICAGO AVE"
+}

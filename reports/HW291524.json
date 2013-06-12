@@ -1,1 +1,38 @@
-{"y_coordinate": "1895268", "year": "2013", "domestic": false, "case_number": "HW291524", "id": "9146027", "primary_type": "MOTOR VEHICLE THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70044322107313, 41.86839333176523]}, "community_area": "29", "latitude": "41.86839333176523", "type": "property", "description": "AUTOMOBILE", "beat": "1135", "date": {"$date": 1369521000000}, "ward": "28", "_id": {"$oid": "51b34a0e3c002ed20d78c8d1"}, "iucr": "910", "longitude": "-87.70044322107313", "location_description": "VACANT LOT/LAND", "x_coordinate": "1156632", "updated_on": {"$date": 1369787985000}, "fbi_code": "07", "block": "029XX W FILLMORE ST"}
+{
+    "y_coordinate": "1895268", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291524", 
+    "id": "9146027", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70044322107313, 
+            41.86839333176523
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.86839333176523", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1135", 
+    "date": {
+        "$date": 1369521000000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c8d1"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.70044322107313", 
+    "location_description": "VACANT LOT/LAND", 
+    "x_coordinate": "1156632", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "07", 
+    "block": "029XX W FILLMORE ST"
+}

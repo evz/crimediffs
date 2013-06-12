@@ -1,1 +1,38 @@
-{"y_coordinate": "1901339", "year": "2013", "domestic": true, "case_number": "HW283825", "id": "9138344", "primary_type": "BATTERY", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.76351058449431, 41.885383920208334]}, "community_area": "25", "latitude": "41.885383920208334", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1523", "date": {"$date": 1369091160000}, "ward": "28", "_id": {"$oid": "51a4cd8c3c002ed20d78a34c"}, "iucr": "486", "longitude": "-87.76351058449431", "location_description": "ALLEY", "x_coordinate": "1139413", "updated_on": {"$date": 1369269615000}, "fbi_code": "08B", "block": "002XX N PINE AVE"}
+{
+    "y_coordinate": "1901339", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283825", 
+    "id": "9138344", 
+    "primary_type": "BATTERY", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76351058449431, 
+            41.885383920208334
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.885383920208334", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1523", 
+    "date": {
+        "$date": 1369091160000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a4cd8c3c002ed20d78a34c"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.76351058449431", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1139413", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "08B", 
+    "block": "002XX N PINE AVE"
+}

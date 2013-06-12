@@ -1,1 +1,38 @@
-{"y_coordinate": "1950501", "year": "2013", "domestic": false, "case_number": "HW303308", "id": "9157798", "primary_type": "NARCOTICS", "district": "024", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6720607266227, 42.01980466084089]}, "community_area": "1", "latitude": "42.01980466084089", "type": "quality", "description": "POSSESSION OF DRUG EQUIPMENT", "beat": "2422", "date": {"$date": 1370295900000}, "ward": "49", "_id": {"$oid": "51b742973c002ed20d78d261"}, "iucr": "2170", "longitude": "-87.6720607266227", "location_description": "SIDEWALK", "x_coordinate": "1163937", "updated_on": {"$date": 1370738354000}, "fbi_code": "18", "block": "076XX N MARSHFIELD AVE"}
+{
+    "y_coordinate": "1950501", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303308", 
+    "id": "9157798", 
+    "primary_type": "NARCOTICS", 
+    "district": "024", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6720607266227, 
+            42.01980466084089
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "42.01980466084089", 
+    "type": "quality", 
+    "description": "POSSESSION OF DRUG EQUIPMENT", 
+    "beat": "2422", 
+    "date": {
+        "$date": 1370295900000
+    }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51b742973c002ed20d78d261"
+    }, 
+    "iucr": "2170", 
+    "longitude": "-87.6720607266227", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1163937", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "18", 
+    "block": "076XX N MARSHFIELD AVE"
+}

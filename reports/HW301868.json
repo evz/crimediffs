@@ -1,1 +1,38 @@
-{"y_coordinate": "1908233", "year": "2013", "domestic": false, "case_number": "HW301868", "id": "9156053", "primary_type": "ASSAULT", "district": "025", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72895290861227, 41.90412605269455]}, "community_area": "23", "latitude": "41.90412605269455", "type": "violent", "description": "AGGRAVATED:KNIFE/CUTTING INSTR", "beat": "2534", "date": {"$date": 1370219940000}, "ward": "37", "_id": {"$oid": "51b5f1153c002ed20d78cbcb"}, "iucr": "520", "longitude": "-87.72895290861227", "location_description": "APARTMENT", "x_coordinate": "1148775", "updated_on": {"$date": 1370392932000}, "fbi_code": "04A", "block": "012XX N KARLOV AVE"}
+{
+    "y_coordinate": "1908233", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301868", 
+    "id": "9156053", 
+    "primary_type": "ASSAULT", 
+    "district": "025", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72895290861227, 
+            41.90412605269455
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.90412605269455", 
+    "type": "violent", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
+    "beat": "2534", 
+    "date": {
+        "$date": 1370219940000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbcb"
+    }, 
+    "iucr": "520", 
+    "longitude": "-87.72895290861227", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1148775", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "04A", 
+    "block": "012XX N KARLOV AVE"
+}

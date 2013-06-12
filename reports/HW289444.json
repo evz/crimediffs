@@ -1,1 +1,38 @@
-{"y_coordinate": "1864236", "year": "2013", "domestic": false, "case_number": "HW289444", "id": "9144272", "primary_type": "THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72425851252196, 41.783361781950006]}, "community_area": "65", "latitude": "41.783361781950006", "type": "property", "description": "$500 AND UNDER", "beat": "0813", "date": {"$date": 1369402200000}, "ward": "13", "_id": {"$oid": "51aa13913c002ed20d78b01d"}, "iucr": "820", "longitude": "-87.72425851252196", "location_description": "RESIDENCE", "x_coordinate": "1150365", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "060XX S KOMENSKY AVE"}
+{
+    "y_coordinate": "1864236", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289444", 
+    "id": "9144272", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72425851252196, 
+            41.783361781950006
+        ]
+    }, 
+    "community_area": "65", 
+    "latitude": "41.783361781950006", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0813", 
+    "date": {
+        "$date": 1369402200000
+    }, 
+    "ward": "13", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b01d"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.72425851252196", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1150365", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "060XX S KOMENSKY AVE"
+}

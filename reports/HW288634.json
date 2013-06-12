@@ -1,1 +1,38 @@
-{"y_coordinate": "1906294", "year": "2013", "domestic": false, "case_number": "HW288634", "id": "9144833", "primary_type": "THEFT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62733999574445, 41.89822521253811]}, "community_area": "8", "latitude": "41.89822521253811", "type": "property", "description": "FINANCIAL ID THEFT: OVER $300", "beat": "1833", "date": {"$date": 1369220400000}, "ward": "42", "_id": {"$oid": "51a7708d3c002ed20d78ac9d"}, "iucr": "840", "longitude": "-87.62733999574445", "location_description": "RESIDENCE", "x_coordinate": "1176454", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "0000X E CHESTNUT ST"}
+{
+    "y_coordinate": "1906294", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288634", 
+    "id": "9144833", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62733999574445, 
+            41.89822521253811
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89822521253811", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "1833", 
+    "date": {
+        "$date": 1369220400000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ac9d"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.62733999574445", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1176454", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "0000X E CHESTNUT ST"
+}

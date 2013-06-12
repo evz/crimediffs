@@ -1,1 +1,38 @@
-{"y_coordinate": "1856231", "year": "2013", "domestic": false, "case_number": "HW300093", "id": "9154652", "primary_type": "BATTERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60925099894997, 41.76072641245534]}, "community_area": "69", "latitude": "41.76072641245534", "type": null, "description": "SIMPLE", "beat": "0323", "date": {"$date": 1370101260000}, "ward": "6", "_id": {"$oid": "51b5f11f3c002ed20d78d053"}, "iucr": "460", "longitude": "-87.60925099894997", "location_description": "SIDEWALK", "x_coordinate": "1181801", "updated_on": {"$date": 1370392932000}, "fbi_code": "08B", "block": "073XX S CHAMPLAIN AVE"}
+{
+    "y_coordinate": "1856231", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300093", 
+    "id": "9154652", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60925099894997, 
+            41.76072641245534
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.76072641245534", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0323", 
+    "date": {
+        "$date": 1370101260000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d053"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.60925099894997", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1181801", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "08B", 
+    "block": "073XX S CHAMPLAIN AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1944875", "year": "2013", "domestic": false, "case_number": "HW288666", "id": "9143759", "primary_type": "BATTERY", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70822358900878, 42.00456851632759]}, "community_area": "2", "latitude": "42.00456851632759", "type": null, "description": "SIMPLE", "beat": "2412", "date": {"$date": 1369387500000}, "ward": "50", "_id": {"$oid": "51aa13933c002ed20d78b0cc"}, "iucr": "460", "longitude": "-87.70822358900878", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1154151", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "031XX W PRATT BLVD"}
+{
+    "y_coordinate": "1944875", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288666", 
+    "id": "9143759", 
+    "primary_type": "BATTERY", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70822358900878, 
+            42.00456851632759
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "42.00456851632759", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2412", 
+    "date": {
+        "$date": 1369387500000
+    }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b0cc"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.70822358900878", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1154151", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "031XX W PRATT BLVD"
+}

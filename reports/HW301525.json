@@ -1,1 +1,38 @@
-{"y_coordinate": "1886541", "year": "2013", "domestic": false, "case_number": "HW301525", "id": "9155749", "primary_type": "CRIMINAL DAMAGE", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62858942155638, 41.84402577456234]}, "community_area": "35", "latitude": "41.84402577456234", "type": "quality", "description": "TO PROPERTY", "beat": "0133", "date": {"$date": 1370193300000}, "ward": "3", "_id": {"$oid": "51b5f1193c002ed20d78ccfa"}, "iucr": "1310", "longitude": "-87.62858942155638", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1176276", "updated_on": {"$date": 1370651988000}, "fbi_code": "14", "block": "027XX S DEARBORN ST"}
+{
+    "y_coordinate": "1886541", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301525", 
+    "id": "9155749", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62858942155638, 
+            41.84402577456234
+        ]
+    }, 
+    "community_area": "35", 
+    "latitude": "41.84402577456234", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0133", 
+    "date": {
+        "$date": 1370193300000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78ccfa"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.62858942155638", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1176276", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "14", 
+    "block": "027XX S DEARBORN ST"
+}

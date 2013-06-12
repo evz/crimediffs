@@ -1,1 +1,38 @@
-{"y_coordinate": "1872291", "year": "2013", "domestic": false, "case_number": "HW289227", "id": "9144186", "primary_type": "BATTERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72581700736576, 41.80547528495402]}, "community_area": "57", "latitude": "41.80547528495402", "type": null, "description": "SIMPLE", "beat": "0815", "date": {"$date": 1369409100000}, "ward": "14", "_id": {"$oid": "51aa13903c002ed20d78afbf"}, "iucr": "460", "longitude": "-87.72581700736576", "location_description": "SCHOOL, PUBLIC, GROUNDS", "x_coordinate": "1149883", "updated_on": {"$date": 1369615194000}, "fbi_code": "08B", "block": "048XX S KARLOV AVE"}
+{
+    "y_coordinate": "1872291", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289227", 
+    "id": "9144186", 
+    "primary_type": "BATTERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72581700736576, 
+            41.80547528495402
+        ]
+    }, 
+    "community_area": "57", 
+    "latitude": "41.80547528495402", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0815", 
+    "date": {
+        "$date": 1369409100000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78afbf"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.72581700736576", 
+    "location_description": "SCHOOL, PUBLIC, GROUNDS", 
+    "x_coordinate": "1149883", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08B", 
+    "block": "048XX S KARLOV AVE"
+}

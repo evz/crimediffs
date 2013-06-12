@@ -1,1 +1,38 @@
-{"y_coordinate": "1875330", "year": "2013", "domestic": false, "case_number": "HW286329", "id": "9141256", "primary_type": "CRIMINAL TRESPASS", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70465022920158, 41.813701262340906]}, "community_area": "58", "latitude": "41.813701262340906", "type": null, "description": "TO LAND", "beat": "0821", "date": {"$date": 1369239300000}, "ward": "14", "_id": {"$oid": "51a7708a3c002ed20d78aba0"}, "iucr": "1330", "longitude": "-87.70465022920158", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1155632", "updated_on": {"$date": 1369442383000}, "fbi_code": "26", "block": "043XX S ARCHER AVE"}
+{
+    "y_coordinate": "1875330", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286329", 
+    "id": "9141256", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70465022920158, 
+            41.813701262340906
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.813701262340906", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "0821", 
+    "date": {
+        "$date": 1369239300000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78aba0"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.70465022920158", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1155632", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "26", 
+    "block": "043XX S ARCHER AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1889182", "year": "2013", "domestic": false, "case_number": "HW289221", "id": "9144258", "primary_type": "CRIMINAL DAMAGE", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71512015008139, 41.8517717234361]}, "community_area": "29", "latitude": "41.8517717234361", "type": "quality", "description": "TO VEHICLE", "beat": "1014", "date": {"$date": 1369405800000}, "ward": "24", "_id": {"$oid": "51aa13913c002ed20d78afef"}, "iucr": "1320", "longitude": "-87.71512015008139", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1152678", "updated_on": {"$date": 1369615194000}, "fbi_code": "14", "block": "036XX W CERMAK RD"}
+{
+    "y_coordinate": "1889182", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289221", 
+    "id": "9144258", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71512015008139, 
+            41.8517717234361
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.8517717234361", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1014", 
+    "date": {
+        "$date": 1369405800000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78afef"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.71512015008139", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1152678", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "14", 
+    "block": "036XX W CERMAK RD"
+}

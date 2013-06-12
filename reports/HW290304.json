@@ -1,1 +1,38 @@
-{"y_coordinate": "1899937", "year": "2013", "domestic": false, "case_number": "HW290304", "id": "9145002", "primary_type": "NARCOTICS", "district": "012", "arrest": true, "location": {"type": "Point", "coordinates": [-87.69643187774243, 41.881184057354496]}, "community_area": "27", "latitude": "41.881184057354496", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1222", "date": {"$date": 1369483200000}, "ward": "2", "_id": {"$oid": "51b34a113c002ed20d78ca96"}, "iucr": "1811", "longitude": "-87.69643187774243", "location_description": "STREET", "x_coordinate": "1157690", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "028XX W MADISON ST"}
+{
+    "y_coordinate": "1899937", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290304", 
+    "id": "9145002", 
+    "primary_type": "NARCOTICS", 
+    "district": "012", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69643187774243, 
+            41.881184057354496
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.881184057354496", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1222", 
+    "date": {
+        "$date": 1369483200000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca96"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.69643187774243", 
+    "location_description": "STREET", 
+    "x_coordinate": "1157690", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "028XX W MADISON ST"
+}

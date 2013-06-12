@@ -1,1 +1,38 @@
-{"y_coordinate": "1923864", "year": "2013", "domestic": true, "case_number": "HW287365", "id": "9142495", "primary_type": "BATTERY", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66507196245392, 41.94666702605652]}, "community_area": "6", "latitude": "41.94666702605652", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1922", "date": {"$date": 1369303200000}, "ward": "44", "_id": {"$oid": "51aa13983c002ed20d78b3bd"}, "iucr": "486", "longitude": "-87.66507196245392", "location_description": "APARTMENT", "x_coordinate": "1166044", "updated_on": {"$date": 1369528777000}, "fbi_code": "08B", "block": "035XX N JANSSEN AVE"}
+{
+    "y_coordinate": "1923864", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW287365", 
+    "id": "9142495", 
+    "primary_type": "BATTERY", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66507196245392, 
+            41.94666702605652
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.94666702605652", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1922", 
+    "date": {
+        "$date": 1369303200000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3bd"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.66507196245392", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1166044", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "08B", 
+    "block": "035XX N JANSSEN AVE"
+}

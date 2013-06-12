@@ -1,1 +1,38 @@
-{"y_coordinate": "1901978", "year": "2013", "domestic": false, "case_number": "HW283366", "id": "9138034", "primary_type": "THEFT", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75544891590609, 41.887097210080334]}, "community_area": "25", "latitude": "41.887097210080334", "type": "property", "description": "$500 AND UNDER", "beat": "1523", "date": {"$date": 1369072800000}, "ward": "28", "_id": {"$oid": "51a4cd8f3c002ed20d78a454"}, "iucr": "820", "longitude": "-87.75544891590609", "location_description": "SIDEWALK", "x_coordinate": "1141604", "updated_on": {"$date": 1369269615000}, "fbi_code": "06", "block": "052XX W LAKE ST"}
+{
+    "y_coordinate": "1901978", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283366", 
+    "id": "9138034", 
+    "primary_type": "THEFT", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75544891590609, 
+            41.887097210080334
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.887097210080334", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1523", 
+    "date": {
+        "$date": 1369072800000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a454"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.75544891590609", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1141604", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "06", 
+    "block": "052XX W LAKE ST"
+}

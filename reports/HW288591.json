@@ -1,1 +1,38 @@
-{"y_coordinate": "1851756", "year": "2013", "domestic": false, "case_number": "HW288591", "id": "9144977", "primary_type": "THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69489320068493, 41.748953466469516]}, "community_area": "70", "latitude": "41.748953466469516", "type": "property", "description": "FINANCIAL ID THEFT: OVER $300", "beat": "0835", "date": {"$date": 1369303200000}, "ward": "18", "_id": {"$oid": "51aa13983c002ed20d78b3ba"}, "iucr": "840", "longitude": "-87.69489320068493", "location_description": "RESIDENCE", "x_coordinate": "1158467", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "079XX S FRANCISCO AVE"}
+{
+    "y_coordinate": "1851756", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288591", 
+    "id": "9144977", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69489320068493, 
+            41.748953466469516
+        ]
+    }, 
+    "community_area": "70", 
+    "latitude": "41.748953466469516", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "0835", 
+    "date": {
+        "$date": 1369303200000
+    }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3ba"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.69489320068493", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1158467", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "079XX S FRANCISCO AVE"
+}

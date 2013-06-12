@@ -1,1 +1,38 @@
-{"y_coordinate": "1826865", "year": "2013", "domestic": false, "case_number": "HW300865", "id": "9155265", "primary_type": "CRIMINAL DAMAGE", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64579329242265, 41.6803612221498]}, "community_area": "53", "latitude": "41.6803612221498", "type": "quality", "description": "TO PROPERTY", "beat": "0524", "date": {"$date": 1370066700000}, "ward": "34", "_id": {"$oid": "51b5f1213c002ed20d78d195"}, "iucr": "1310", "longitude": "-87.64579329242265", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1172065", "updated_on": {"$date": 1370911182000}, "fbi_code": "14", "block": "117XX S SANGAMON ST"}
+{
+    "y_coordinate": "1826865", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300865", 
+    "id": "9155265", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64579329242265, 
+            41.6803612221498
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.6803612221498", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0524", 
+    "date": {
+        "$date": 1370066700000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d195"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.64579329242265", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1172065", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "14", 
+    "block": "117XX S SANGAMON ST"
+}

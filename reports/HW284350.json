@@ -1,1 +1,38 @@
-{"y_coordinate": "1899783", "year": "2013", "domestic": true, "case_number": "HW284350", "id": "9139155", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72100503162669, 41.88089509616665]}, "community_area": "26", "latitude": "41.88089509616665", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1122", "date": {"$date": 1369137600000}, "ward": "28", "_id": {"$oid": "51a61f0e3c002ed20d78a8ed"}, "iucr": "486", "longitude": "-87.72100503162669", "location_description": "MEDICAL/DENTAL OFFICE", "x_coordinate": "1150999", "updated_on": {"$date": 1369787985000}, "fbi_code": "08B", "block": "038XX W MADISON ST"}
+{
+    "y_coordinate": "1899783", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW284350", 
+    "id": "9139155", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72100503162669, 
+            41.88089509616665
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.88089509616665", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1122", 
+    "date": {
+        "$date": 1369137600000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a8ed"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.72100503162669", 
+    "location_description": "MEDICAL/DENTAL OFFICE", 
+    "x_coordinate": "1150999", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "08B", 
+    "block": "038XX W MADISON ST"
+}

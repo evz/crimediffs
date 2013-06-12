@@ -1,1 +1,38 @@
-{"y_coordinate": "1924400", "year": "2013", "domestic": false, "case_number": "HW303368", "id": "9157924", "primary_type": "BATTERY", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65178342409163, 41.948059809325954]}, "community_area": "6", "latitude": "41.948059809325954", "type": "violent", "description": "AGG: HANDS/FIST/FEET SERIOUS INJURY", "beat": "1923", "date": {"$date": 1370298300000}, "ward": "44", "_id": {"$oid": "51b742973c002ed20d78d243"}, "iucr": "479", "longitude": "-87.65178342409163", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1169655", "updated_on": {"$date": 1370651988000}, "fbi_code": "04B", "block": "036XX N FREMONT ST"}
+{
+    "y_coordinate": "1924400", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303368", 
+    "id": "9157924", 
+    "primary_type": "BATTERY", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65178342409163, 
+            41.948059809325954
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.948059809325954", 
+    "type": "violent", 
+    "description": "AGG: HANDS/FIST/FEET SERIOUS INJURY", 
+    "beat": "1923", 
+    "date": {
+        "$date": 1370298300000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51b742973c002ed20d78d243"
+    }, 
+    "iucr": "479", 
+    "longitude": "-87.65178342409163", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1169655", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "04B", 
+    "block": "036XX N FREMONT ST"
+}

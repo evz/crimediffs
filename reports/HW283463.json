@@ -1,1 +1,38 @@
-{"y_coordinate": "1932643", "year": "2013", "domestic": false, "case_number": "HW283463", "id": "9138131", "primary_type": "CRIMINAL TRESPASS", "district": "017", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70869529108377, 41.97100406959669]}, "community_area": "14", "latitude": "41.97100406959669", "type": null, "description": "TO RESIDENCE", "beat": "1713", "date": {"$date": 1369073700000}, "ward": "39", "_id": {"$oid": "51a4cd8f3c002ed20d78a43b"}, "iucr": "1365", "longitude": "-87.70869529108377", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1154112", "updated_on": {"$date": 1369269615000}, "fbi_code": "26", "block": "049XX N KEDZIE AVE"}
+{
+    "y_coordinate": "1932643", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283463", 
+    "id": "9138131", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "017", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70869529108377, 
+            41.97100406959669
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.97100406959669", 
+    "type": null, 
+    "description": "TO RESIDENCE", 
+    "beat": "1713", 
+    "date": {
+        "$date": 1369073700000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a43b"
+    }, 
+    "iucr": "1365", 
+    "longitude": "-87.70869529108377", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1154112", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "26", 
+    "block": "049XX N KEDZIE AVE"
+}

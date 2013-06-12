@@ -1,1 +1,38 @@
-{"y_coordinate": "1840878", "year": "2013", "domestic": true, "case_number": "HW282916", "id": "9137878", "primary_type": "BATTERY", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6429955157912, 41.71880073396864]}, "community_area": "73", "latitude": "41.71880073396864", "type": "violent", "description": "AGGRAVATED: HANDGUN", "beat": "2223", "date": {"$date": 1369056660000}, "ward": "21", "_id": {"$oid": "51a4cd913c002ed20d78a518"}, "iucr": "041A", "longitude": "-87.6429955157912", "location_description": "APARTMENT", "x_coordinate": "1172717", "updated_on": {"$date": 1370565766000}, "fbi_code": "04B", "block": "096XX S HALSTED ST"}
+{
+    "y_coordinate": "1840878", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW282916", 
+    "id": "9137878", 
+    "primary_type": "BATTERY", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6429955157912, 
+            41.71880073396864
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.71880073396864", 
+    "type": "violent", 
+    "description": "AGGRAVATED: HANDGUN", 
+    "beat": "2223", 
+    "date": {
+        "$date": 1369056660000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a518"
+    }, 
+    "iucr": "041A", 
+    "longitude": "-87.6429955157912", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1172717", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "04B", 
+    "block": "096XX S HALSTED ST"
+}

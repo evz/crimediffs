@@ -1,1 +1,38 @@
-{"y_coordinate": "1852219", "year": "2013", "domestic": false, "case_number": "HW283450", "id": "9137983", "primary_type": "NARCOTICS", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6138233002456, 41.74974500288765]}, "community_area": "44", "latitude": "41.74974500288765", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0624", "date": {"$date": 1369072500000}, "ward": "6", "_id": {"$oid": "51a4cd8f3c002ed20d78a458"}, "iucr": "1811", "longitude": "-87.6138233002456", "location_description": "SIDEWALK", "x_coordinate": "1180587", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "079XX S VERNON AVE"}
+{
+    "y_coordinate": "1852219", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283450", 
+    "id": "9137983", 
+    "primary_type": "NARCOTICS", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6138233002456, 
+            41.74974500288765
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.74974500288765", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0624", 
+    "date": {
+        "$date": 1369072500000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a458"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.6138233002456", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1180587", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "079XX S VERNON AVE"
+}

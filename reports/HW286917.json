@@ -1,1 +1,38 @@
-{"y_coordinate": "1864839", "year": "2013", "domestic": true, "case_number": "HW286917", "id": "9141817", "primary_type": "BATTERY", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6145764827989, 41.78438272336185]}, "community_area": "42", "latitude": "41.78438272336185", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0313", "date": {"$date": 1369263600000}, "ward": "20", "_id": {"$oid": "51a770873c002ed20d78aa6b"}, "iucr": "486", "longitude": "-87.6145764827989", "location_description": "RESIDENCE", "x_coordinate": "1180276", "updated_on": {"$date": 1370479286000}, "fbi_code": "08B", "block": "060XX S VERNON AVE"}
+{
+    "y_coordinate": "1864839", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW286917", 
+    "id": "9141817", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6145764827989, 
+            41.78438272336185
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.78438272336185", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0313", 
+    "date": {
+        "$date": 1369263600000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a770873c002ed20d78aa6b"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.6145764827989", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1180276", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08B", 
+    "block": "060XX S VERNON AVE"
+}

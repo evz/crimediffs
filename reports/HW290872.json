@@ -1,1 +1,38 @@
-{"y_coordinate": "1898674", "year": "2013", "domestic": false, "case_number": "HW290872", "id": "9145431", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74251772539998, 41.87796441314598]}, "community_area": "25", "latitude": "41.87796441314598", "type": "violent", "description": "AGGRAVATED: OTHER DANG WEAPON", "beat": "1113", "date": {"$date": 1369396800000}, "ward": "28", "_id": {"$oid": "51aa13923c002ed20d78b06d"}, "iucr": "430", "longitude": "-87.74251772539998", "location_description": "SIDEWALK", "x_coordinate": "1145148", "updated_on": {"$date": 1369787985000}, "fbi_code": "04B", "block": "046XX W ADAMS ST"}
+{
+    "y_coordinate": "1898674", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290872", 
+    "id": "9145431", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74251772539998, 
+            41.87796441314598
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.87796441314598", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "1113", 
+    "date": {
+        "$date": 1369396800000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b06d"
+    }, 
+    "iucr": "430", 
+    "longitude": "-87.74251772539998", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1145148", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "04B", 
+    "block": "046XX W ADAMS ST"
+}

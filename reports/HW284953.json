@@ -1,1 +1,38 @@
-{"y_coordinate": "1914713", "year": "2013", "domestic": false, "case_number": "HW284953", "id": "9139645", "primary_type": "MOTOR VEHICLE THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75101844122644, 41.922022707592035]}, "community_area": "19", "latitude": "41.922022707592035", "type": "property", "description": "AUTOMOBILE", "beat": "2522", "date": {"$date": 1369119600000}, "ward": "31", "_id": {"$oid": "51a61f103c002ed20d78a9b6"}, "iucr": "910", "longitude": "-87.75101844122644", "location_description": "STREET", "x_coordinate": "1142724", "updated_on": {"$date": 1369874559000}, "fbi_code": "07", "block": "022XX N LAVERGNE AVE"}
+{
+    "y_coordinate": "1914713", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284953", 
+    "id": "9139645", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75101844122644, 
+            41.922022707592035
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.922022707592035", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "2522", 
+    "date": {
+        "$date": 1369119600000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51a61f103c002ed20d78a9b6"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.75101844122644", 
+    "location_description": "STREET", 
+    "x_coordinate": "1142724", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "07", 
+    "block": "022XX N LAVERGNE AVE"
+}

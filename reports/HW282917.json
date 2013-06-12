@@ -1,1 +1,38 @@
-{"y_coordinate": "1894451", "year": "2013", "domestic": false, "case_number": "HW282917", "id": "9137649", "primary_type": "NARCOTICS", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.69604533730768, 41.86612695695143]}, "community_area": "29", "latitude": "41.86612695695143", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1022", "date": {"$date": 1369055700000}, "ward": "24", "_id": {"$oid": "51a4cd913c002ed20d78a527"}, "iucr": "1811", "longitude": "-87.69604533730768", "location_description": "PARK PROPERTY", "x_coordinate": "1157836", "updated_on": {"$date": 1369183512000}, "fbi_code": "18", "block": "012XX S CALIFORNIA BLVD"}
+{
+    "y_coordinate": "1894451", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW282917", 
+    "id": "9137649", 
+    "primary_type": "NARCOTICS", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69604533730768, 
+            41.86612695695143
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.86612695695143", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1022", 
+    "date": {
+        "$date": 1369055700000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a527"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.69604533730768", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1157836", 
+    "updated_on": {
+        "$date": 1369183512000
+    }, 
+    "fbi_code": "18", 
+    "block": "012XX S CALIFORNIA BLVD"
+}

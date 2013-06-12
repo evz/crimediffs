@@ -1,1 +1,38 @@
-{"y_coordinate": "1906173", "year": "2013", "domestic": true, "case_number": "HW289326", "id": "9144286", "primary_type": "BATTERY", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69662181785496, 41.898298206874976]}, "community_area": "24", "latitude": "41.898298206874976", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1211", "date": {"$date": 1369414200000}, "ward": "26", "_id": {"$oid": "51aa13903c002ed20d78af6b"}, "iucr": "486", "longitude": "-87.69662181785496", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1157592", "updated_on": {"$date": 1370392932000}, "fbi_code": "08B", "block": "009XX N CALIFORNIA AVE"}
+{
+    "y_coordinate": "1906173", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289326", 
+    "id": "9144286", 
+    "primary_type": "BATTERY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69662181785496, 
+            41.898298206874976
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.898298206874976", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1211", 
+    "date": {
+        "$date": 1369414200000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78af6b"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.69662181785496", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1157592", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "08B", 
+    "block": "009XX N CALIFORNIA AVE"
+}

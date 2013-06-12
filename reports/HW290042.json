@@ -1,1 +1,38 @@
-{"y_coordinate": "1891402", "year": "2013", "domestic": false, "case_number": "HW290042", "id": "9144813", "primary_type": "WEAPONS VIOLATION", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66628279167824, 41.85759071654808]}, "community_area": "31", "latitude": "41.85759071654808", "type": null, "description": "RECKLESS FIREARM DISCHARGE", "beat": "1234", "date": {"$date": 1369461000000}, "ward": "25", "_id": {"$oid": "51b34a123c002ed20d78cb28"}, "iucr": "1477", "longitude": "-87.66628279167824", "location_description": "STREET", "x_coordinate": "1165967", "updated_on": {"$date": 1369615194000}, "fbi_code": "15", "block": "018XX S ASHLAND AVE"}
+{
+    "y_coordinate": "1891402", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290042", 
+    "id": "9144813", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66628279167824, 
+            41.85759071654808
+        ]
+    }, 
+    "community_area": "31", 
+    "latitude": "41.85759071654808", 
+    "type": null, 
+    "description": "RECKLESS FIREARM DISCHARGE", 
+    "beat": "1234", 
+    "date": {
+        "$date": 1369461000000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cb28"
+    }, 
+    "iucr": "1477", 
+    "longitude": "-87.66628279167824", 
+    "location_description": "STREET", 
+    "x_coordinate": "1165967", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "15", 
+    "block": "018XX S ASHLAND AVE"
+}

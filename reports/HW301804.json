@@ -1,1 +1,38 @@
-{"y_coordinate": "1900166", "year": "2013", "domestic": true, "case_number": "HW301804", "id": "9156003", "primary_type": "CRIMINAL DAMAGE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70085038639314, 41.88183690979097]}, "community_area": "27", "latitude": "41.88183690979097", "type": "quality", "description": "TO VEHICLE", "beat": "1222", "date": {"$date": 1370212200000}, "ward": "2", "_id": {"$oid": "51b5f1163c002ed20d78cc1a"}, "iucr": "1320", "longitude": "-87.70085038639314", "location_description": "OTHER", "x_coordinate": "1156485", "updated_on": {"$date": 1370479286000}, "fbi_code": "14", "block": "029XX W WARREN BLVD"}
+{
+    "y_coordinate": "1900166", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301804", 
+    "id": "9156003", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70085038639314, 
+            41.88183690979097
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.88183690979097", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1222", 
+    "date": {
+        "$date": 1370212200000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b5f1163c002ed20d78cc1a"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.70085038639314", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1156485", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "14", 
+    "block": "029XX W WARREN BLVD"
+}

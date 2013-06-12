@@ -1,1 +1,38 @@
-{"y_coordinate": "1846752", "year": "2013", "domestic": false, "case_number": "HW290331", "id": "9145023", "primary_type": "MOTOR VEHICLE THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56822619209888, 41.73444730379581]}, "community_area": "48", "latitude": "41.73444730379581", "type": "property", "description": "AUTOMOBILE", "beat": "0412", "date": {"$date": 1369468800000}, "ward": "8", "_id": {"$oid": "51b34a123c002ed20d78cb05"}, "iucr": "910", "longitude": "-87.56822619209888", "location_description": "STREET", "x_coordinate": "1193079", "updated_on": {"$date": 1370392932000}, "fbi_code": "07", "block": "088XX S CRANDON AVE"}
+{
+    "y_coordinate": "1846752", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290331", 
+    "id": "9145023", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56822619209888, 
+            41.73444730379581
+        ]
+    }, 
+    "community_area": "48", 
+    "latitude": "41.73444730379581", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0412", 
+    "date": {
+        "$date": 1369468800000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cb05"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.56822619209888", 
+    "location_description": "STREET", 
+    "x_coordinate": "1193079", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "07", 
+    "block": "088XX S CRANDON AVE"
+}

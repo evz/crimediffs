@@ -1,1 +1,38 @@
-{"y_coordinate": "1851451", "year": "2013", "domestic": false, "case_number": "HW286300", "id": "9141279", "primary_type": "OTHER OFFENSE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.5834408665814, 41.74744309847884]}, "community_area": "45", "latitude": "41.74744309847884", "type": null, "description": "HARASSMENT BY ELECTRONIC MEANS", "beat": "0414", "date": {"$date": 1369177200000}, "ward": "8", "_id": {"$oid": "51a61f073c002ed20d78a6df"}, "iucr": "2826", "longitude": "-87.5834408665814", "location_description": "RESIDENCE", "x_coordinate": "1188885", "updated_on": {"$date": 1369528777000}, "fbi_code": "26", "block": "081XX S ANTHONY AVE"}
+{
+    "y_coordinate": "1851451", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286300", 
+    "id": "9141279", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5834408665814, 
+            41.74744309847884
+        ]
+    }, 
+    "community_area": "45", 
+    "latitude": "41.74744309847884", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "0414", 
+    "date": {
+        "$date": 1369177200000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51a61f073c002ed20d78a6df"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.5834408665814", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1188885", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "26", 
+    "block": "081XX S ANTHONY AVE"
+}

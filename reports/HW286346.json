@@ -1,1 +1,38 @@
-{"y_coordinate": "1894485", "year": "2013", "domestic": false, "case_number": "HW286346", "id": "9141432", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.720064472308, 41.866351032817306]}, "community_area": "29", "latitude": "41.866351032817306", "type": null, "description": "SIMPLE", "beat": "1133", "date": {"$date": 1369240260000}, "ward": "24", "_id": {"$oid": "51a7708a3c002ed20d78ab95"}, "iucr": "460", "longitude": "-87.720064472308", "location_description": "SIDEWALK", "x_coordinate": "1151293", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "037XX W ROOSEVELT RD"}
+{
+    "y_coordinate": "1894485", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286346", 
+    "id": "9141432", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.720064472308, 
+            41.866351032817306
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.866351032817306", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1133", 
+    "date": {
+        "$date": 1369240260000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab95"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.720064472308", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1151293", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "037XX W ROOSEVELT RD"
+}

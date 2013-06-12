@@ -1,1 +1,38 @@
-{"y_coordinate": "1861569", "year": "2013", "domestic": false, "case_number": "HW289774", "id": "9144596", "primary_type": "NARCOTICS", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.69467752757828, 41.77588211006099]}, "community_area": "66", "latitude": "41.77588211006099", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0823", "date": {"$date": 1369435200000}, "ward": "15", "_id": {"$oid": "51aa138c3c002ed20d78ae51"}, "iucr": "1811", "longitude": "-87.69467752757828", "location_description": "STREET", "x_coordinate": "1158453", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "064XX S MOZART ST"}
+{
+    "y_coordinate": "1861569", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289774", 
+    "id": "9144596", 
+    "primary_type": "NARCOTICS", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69467752757828, 
+            41.77588211006099
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.77588211006099", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0823", 
+    "date": {
+        "$date": 1369435200000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae51"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.69467752757828", 
+    "location_description": "STREET", 
+    "x_coordinate": "1158453", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "064XX S MOZART ST"
+}

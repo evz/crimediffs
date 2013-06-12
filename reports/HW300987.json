@@ -1,1 +1,38 @@
-{"y_coordinate": "1858605", "year": "2013", "domestic": false, "case_number": "HW300987", "id": "9155367", "primary_type": "WEAPONS VIOLATION", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66646817630898, 41.76758773423114]}, "community_area": "67", "latitude": "41.76758773423114", "type": null, "description": "UNLAWFUL POSS AMMUNITION", "beat": "0735", "date": {"$date": 1370165520000}, "ward": "17", "_id": {"$oid": "51b5f11c3c002ed20d78ce19"}, "iucr": "143C", "longitude": "-87.66646817630898", "location_description": "RESIDENCE", "x_coordinate": "1166171", "updated_on": {"$date": 1370911182000}, "fbi_code": "15", "block": "069XX S PAULINA ST"}
+{
+    "y_coordinate": "1858605", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300987", 
+    "id": "9155367", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66646817630898, 
+            41.76758773423114
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.76758773423114", 
+    "type": null, 
+    "description": "UNLAWFUL POSS AMMUNITION", 
+    "beat": "0735", 
+    "date": {
+        "$date": 1370165520000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce19"
+    }, 
+    "iucr": "143C", 
+    "longitude": "-87.66646817630898", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1166171", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "15", 
+    "block": "069XX S PAULINA ST"
+}

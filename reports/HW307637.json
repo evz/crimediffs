@@ -1,1 +1,38 @@
-{"y_coordinate": "1862417", "year": "2013", "domestic": false, "case_number": "HW307637", "id": "9162802", "primary_type": "THEFT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61541689122372, 41.77774131105888]}, "community_area": "42", "latitude": "41.77774131105888", "type": "property", "description": "OVER $500", "beat": "0312", "date": {"$date": 1370070540000}, "ward": "20", "_id": {"$oid": "51b5f1213c002ed20d78d181"}, "iucr": "810", "longitude": "-87.61541689122372", "location_description": "CONVENIENCE STORE", "x_coordinate": "1180067", "updated_on": {"$date": 1370738354000}, "fbi_code": "06", "block": "064XX S DR MARTIN LUTHER KING JR DR"}
+{
+    "y_coordinate": "1862417", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW307637", 
+    "id": "9162802", 
+    "primary_type": "THEFT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61541689122372, 
+            41.77774131105888
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.77774131105888", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0312", 
+    "date": {
+        "$date": 1370070540000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d181"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.61541689122372", 
+    "location_description": "CONVENIENCE STORE", 
+    "x_coordinate": "1180067", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "06", 
+    "block": "064XX S DR MARTIN LUTHER KING JR DR"
+}

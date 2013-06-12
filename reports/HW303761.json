@@ -1,1 +1,38 @@
-{"y_coordinate": "1862384", "year": "2013", "domestic": false, "case_number": "HW303761", "id": "9158722", "primary_type": "THEFT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64096254824267, 41.777807545756566]}, "community_area": "68", "latitude": "41.777807545756566", "type": "property", "description": "$500 AND UNDER", "beat": "0723", "date": {"$date": 1370271600000}, "ward": "20", "_id": {"$oid": "51b7429c3c002ed20d78d3b6"}, "iucr": "820", "longitude": "-87.64096254824267", "location_description": "SIDEWALK", "x_coordinate": "1173099", "updated_on": {"$date": 1370565766000}, "fbi_code": "06", "block": "064XX S LOWE AVE"}
+{
+    "y_coordinate": "1862384", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303761", 
+    "id": "9158722", 
+    "primary_type": "THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64096254824267, 
+            41.777807545756566
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.777807545756566", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0723", 
+    "date": {
+        "$date": 1370271600000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b7429c3c002ed20d78d3b6"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.64096254824267", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1173099", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "06", 
+    "block": "064XX S LOWE AVE"
+}

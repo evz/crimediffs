@@ -1,1 +1,38 @@
-{"y_coordinate": "1858767", "year": "2013", "domestic": true, "case_number": "HW290544", "id": "9145206", "primary_type": "BATTERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58423342071485, 41.76752555009666]}, "community_area": "43", "latitude": "41.76752555009666", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0332", "date": {"$date": 1369488600000}, "ward": "5", "_id": {"$oid": "51b34a113c002ed20d78ca5d"}, "iucr": "486", "longitude": "-87.58423342071485", "location_description": "APARTMENT", "x_coordinate": "1188605", "updated_on": {"$date": 1370651988000}, "fbi_code": "08B", "block": "070XX S CORNELL AVE"}
+{
+    "y_coordinate": "1858767", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290544", 
+    "id": "9145206", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58423342071485, 
+            41.76752555009666
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76752555009666", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0332", 
+    "date": {
+        "$date": 1369488600000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca5d"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.58423342071485", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1188605", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "08B", 
+    "block": "070XX S CORNELL AVE"
+}

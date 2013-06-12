@@ -1,1 +1,38 @@
-{"y_coordinate": "1840261", "year": "2013", "domestic": false, "case_number": "HW300693", "id": "9155083", "primary_type": "NARCOTICS", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.53542416399985, 41.716410888963885]}, "community_area": "52", "latitude": "41.716410888963885", "type": "quality", "description": "POSS: COCAINE", "beat": "0432", "date": {"$date": 1370133720000}, "ward": "10", "_id": {"$oid": "51b5f11d3c002ed20d78cee5"}, "iucr": "2022", "longitude": "-87.53542416399985", "location_description": "STREET", "x_coordinate": "1202093", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "098XX S EWING AVE"}
+{
+    "y_coordinate": "1840261", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300693", 
+    "id": "9155083", 
+    "primary_type": "NARCOTICS", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.53542416399985, 
+            41.716410888963885
+        ]
+    }, 
+    "community_area": "52", 
+    "latitude": "41.716410888963885", 
+    "type": "quality", 
+    "description": "POSS: COCAINE", 
+    "beat": "0432", 
+    "date": {
+        "$date": 1370133720000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78cee5"
+    }, 
+    "iucr": "2022", 
+    "longitude": "-87.53542416399985", 
+    "location_description": "STREET", 
+    "x_coordinate": "1202093", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "098XX S EWING AVE"
+}

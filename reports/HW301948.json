@@ -1,1 +1,38 @@
-{"y_coordinate": "1867375", "year": "2013", "domestic": false, "case_number": "HW301948", "id": "9156120", "primary_type": "THEFT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64615402934444, 41.79153546267515]}, "community_area": "68", "latitude": "41.79153546267515", "type": "property", "description": "$500 AND UNDER", "beat": "0712", "date": {"$date": 1370221200000}, "ward": "20", "_id": {"$oid": "51b5f1143c002ed20d78cbc4"}, "iucr": "820", "longitude": "-87.64615402934444", "location_description": "STREET", "x_coordinate": "1171643", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "056XX S GREEN ST"}
+{
+    "y_coordinate": "1867375", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301948", 
+    "id": "9156120", 
+    "primary_type": "THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64615402934444, 
+            41.79153546267515
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.79153546267515", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0712", 
+    "date": {
+        "$date": 1370221200000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b5f1143c002ed20d78cbc4"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.64615402934444", 
+    "location_description": "STREET", 
+    "x_coordinate": "1171643", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "056XX S GREEN ST"
+}

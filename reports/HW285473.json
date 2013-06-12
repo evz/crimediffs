@@ -1,1 +1,38 @@
-{"y_coordinate": "1864911", "year": "2013", "domestic": false, "case_number": "HW285473", "id": "9140108", "primary_type": "THEFT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64173855283771, 41.7847470416969]}, "community_area": "68", "latitude": "41.7847470416969", "type": "property", "description": "$500 AND UNDER", "beat": "0711", "date": {"$date": 1369193100000}, "ward": "20", "_id": {"$oid": "51a61f053c002ed20d78a674"}, "iucr": "820", "longitude": "-87.64173855283771", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1172867", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "006XX W 60TH ST"}
+{
+    "y_coordinate": "1864911", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285473", 
+    "id": "9140108", 
+    "primary_type": "THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64173855283771, 
+            41.7847470416969
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.7847470416969", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0711", 
+    "date": {
+        "$date": 1369193100000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a61f053c002ed20d78a674"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.64173855283771", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1172867", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "006XX W 60TH ST"
+}

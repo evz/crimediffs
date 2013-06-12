@@ -1,1 +1,38 @@
-{"y_coordinate": "1886692", "year": "2013", "domestic": true, "case_number": "HW283740", "id": "9138295", "primary_type": "BATTERY", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69387859882755, 41.84482221090778]}, "community_area": "30", "latitude": "41.84482221090778", "type": "violent", "description": "AGGRAVATED DOMESTIC BATTERY: KNIFE/CUTTING INST", "beat": "1034", "date": {"$date": 1369089240000}, "ward": "12", "_id": {"$oid": "51a4cd8d3c002ed20d78a361"}, "iucr": "496", "longitude": "-87.69387859882755", "location_description": "APARTMENT", "x_coordinate": "1158484", "updated_on": {"$date": 1370306580000}, "fbi_code": "04B", "block": "027XX W 26TH ST"}
+{
+    "y_coordinate": "1886692", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283740", 
+    "id": "9138295", 
+    "primary_type": "BATTERY", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69387859882755, 
+            41.84482221090778
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.84482221090778", 
+    "type": "violent", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: KNIFE/CUTTING INST", 
+    "beat": "1034", 
+    "date": {
+        "$date": 1369089240000
+    }, 
+    "ward": "12", 
+    "_id": {
+        "$oid": "51a4cd8d3c002ed20d78a361"
+    }, 
+    "iucr": "496", 
+    "longitude": "-87.69387859882755", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1158484", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "04B", 
+    "block": "027XX W 26TH ST"
+}

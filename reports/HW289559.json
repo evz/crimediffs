@@ -1,1 +1,38 @@
-{"y_coordinate": "1929062", "year": "2013", "domestic": false, "case_number": "HW289559", "id": "9144462", "primary_type": "NARCOTICS", "district": "017", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72035404336842, 41.96123990484662]}, "community_area": "14", "latitude": "41.96123990484662", "type": "quality", "description": "MANU/DELIVER:CRACK", "beat": "1723", "date": {"$date": 1369424400000}, "ward": "33", "_id": {"$oid": "51aa138e3c002ed20d78aee8"}, "iucr": "2017", "longitude": "-87.72035404336842", "location_description": "SIDEWALK", "x_coordinate": "1150967", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "044XX N LAWNDALE AVE"}
+{
+    "y_coordinate": "1929062", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289559", 
+    "id": "9144462", 
+    "primary_type": "NARCOTICS", 
+    "district": "017", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72035404336842, 
+            41.96123990484662
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.96123990484662", 
+    "type": "quality", 
+    "description": "MANU/DELIVER:CRACK", 
+    "beat": "1723", 
+    "date": {
+        "$date": 1369424400000
+    }, 
+    "ward": "33", 
+    "_id": {
+        "$oid": "51aa138e3c002ed20d78aee8"
+    }, 
+    "iucr": "2017", 
+    "longitude": "-87.72035404336842", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1150967", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "044XX N LAWNDALE AVE"
+}

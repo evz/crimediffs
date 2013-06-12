@@ -1,1 +1,38 @@
-{"y_coordinate": "1900845", "year": "2013", "domestic": true, "case_number": "HW289357", "id": "9144514", "primary_type": "ASSAULT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63665164250072, 41.88332872894791]}, "community_area": "32", "latitude": "41.88332872894791", "type": null, "description": "SIMPLE", "beat": "0122", "date": {"$date": 1369378800000}, "ward": "42", "_id": {"$oid": "51aa13933c002ed20d78b123"}, "iucr": "560", "longitude": "-87.63665164250072", "location_description": "OTHER", "x_coordinate": "1173963", "updated_on": {"$date": 1369615194000}, "fbi_code": "08A", "block": "001XX N WACKER DR"}
+{
+    "y_coordinate": "1900845", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289357", 
+    "id": "9144514", 
+    "primary_type": "ASSAULT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63665164250072, 
+            41.88332872894791
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88332872894791", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0122", 
+    "date": {
+        "$date": 1369378800000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b123"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.63665164250072", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1173963", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08A", 
+    "block": "001XX N WACKER DR"
+}

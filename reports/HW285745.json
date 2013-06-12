@@ -1,1 +1,38 @@
-{"y_coordinate": "1871686", "year": "2013", "domestic": false, "case_number": "HW285745", "id": "9141143", "primary_type": "BATTERY", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65314620427635, 41.803407681820055]}, "community_area": "61", "latitude": "41.803407681820055", "type": null, "description": "SIMPLE", "beat": "0933", "date": {"$date": 1369217100000}, "ward": "16", "_id": {"$oid": "51a7708d3c002ed20d78acbe"}, "iucr": "460", "longitude": "-87.65314620427635", "location_description": "CHA PARKING LOT/GROUNDS", "x_coordinate": "1169702", "updated_on": {"$date": 1370565766000}, "fbi_code": "08B", "block": "011XX W 50TH ST"}
+{
+    "y_coordinate": "1871686", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285745", 
+    "id": "9141143", 
+    "primary_type": "BATTERY", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65314620427635, 
+            41.803407681820055
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.803407681820055", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0933", 
+    "date": {
+        "$date": 1369217100000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78acbe"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.65314620427635", 
+    "location_description": "CHA PARKING LOT/GROUNDS", 
+    "x_coordinate": "1169702", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "08B", 
+    "block": "011XX W 50TH ST"
+}

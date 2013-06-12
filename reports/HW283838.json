@@ -1,1 +1,38 @@
-{"y_coordinate": "1863866", "year": "2013", "domestic": false, "case_number": "HW283838", "id": "9138361", "primary_type": "MOTOR VEHICLE THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69089369188546, 41.782164657876486]}, "community_area": "66", "latitude": "41.782164657876486", "type": "property", "description": "THEFT/RECOVERY: AUTOMOBILE", "beat": "0825", "date": {"$date": 1369092000000}, "ward": "15", "_id": {"$oid": "51a4cd8c3c002ed20d78a34a"}, "iucr": "930", "longitude": "-87.69089369188546", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1159468", "updated_on": {"$date": 1369269615000}, "fbi_code": "07", "block": "061XX S WASHTENAW AVE"}
+{
+    "y_coordinate": "1863866", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283838", 
+    "id": "9138361", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69089369188546, 
+            41.782164657876486
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.782164657876486", 
+    "type": "property", 
+    "description": "THEFT/RECOVERY: AUTOMOBILE", 
+    "beat": "0825", 
+    "date": {
+        "$date": 1369092000000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51a4cd8c3c002ed20d78a34a"
+    }, 
+    "iucr": "930", 
+    "longitude": "-87.69089369188546", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1159468", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "07", 
+    "block": "061XX S WASHTENAW AVE"
+}

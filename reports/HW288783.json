@@ -1,1 +1,38 @@
-{"y_coordinate": "1919464", "year": "2013", "domestic": true, "case_number": "HW288783", "id": "9143944", "primary_type": "BATTERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74658899664374, 41.93503798087202]}, "community_area": "19", "latitude": "41.93503798087202", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "2521", "date": {"$date": 1369393800000}, "ward": "31", "_id": {"$oid": "51aa13923c002ed20d78b090"}, "iucr": "486", "longitude": "-87.74658899664374", "location_description": "RESIDENCE", "x_coordinate": "1143897", "updated_on": {"$date": 1370047283000}, "fbi_code": "08B", "block": "029XX N CICERO AVE"}
+{
+    "y_coordinate": "1919464", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW288783", 
+    "id": "9143944", 
+    "primary_type": "BATTERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74658899664374, 
+            41.93503798087202
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.93503798087202", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "2521", 
+    "date": {
+        "$date": 1369393800000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b090"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.74658899664374", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1143897", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "08B", 
+    "block": "029XX N CICERO AVE"
+}

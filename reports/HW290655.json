@@ -1,1 +1,38 @@
-{"y_coordinate": "1910250", "year": "2013", "domestic": false, "case_number": "HW290655", "id": "9157366", "primary_type": "DECEPTIVE PRACTICE", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63029144124678, 41.909099501380005]}, "community_area": "8", "latitude": "41.909099501380005", "type": null, "description": "CREDIT CARD FRAUD", "beat": "1824", "date": {"$date": 1369501320000}, "ward": "42", "_id": {"$oid": "51b34a0f3c002ed20d78c9bf"}, "iucr": "1150", "longitude": "-87.63029144124678", "location_description": "APARTMENT", "x_coordinate": "1175618", "updated_on": {"$date": 1370565766000}, "fbi_code": "11", "block": "014XX N DEARBORN ST"}
+{
+    "y_coordinate": "1910250", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290655", 
+    "id": "9157366", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63029144124678, 
+            41.909099501380005
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.909099501380005", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "1824", 
+    "date": {
+        "$date": 1369501320000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c9bf"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.63029144124678", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1175618", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "11", 
+    "block": "014XX N DEARBORN ST"
+}

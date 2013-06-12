@@ -1,1 +1,38 @@
-{"y_coordinate": "1898187", "year": "2013", "domestic": false, "case_number": "HW286836", "id": "9141618", "primary_type": "NARCOTICS", "district": "012", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64937592439595, 41.87611101597725]}, "community_area": "28", "latitude": "41.87611101597725", "type": "quality", "description": "FOUND SUSPECT NARCOTICS", "beat": "1232", "date": {"$date": 1369255620000}, "ward": "2", "_id": {"$oid": "51a770883c002ed20d78aadd"}, "iucr": "2093", "longitude": "-87.64937592439595", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1170519", "updated_on": {"$date": 1369528777000}, "fbi_code": "26", "block": "004XX S PEORIA ST"}
+{
+    "y_coordinate": "1898187", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286836", 
+    "id": "9141618", 
+    "primary_type": "NARCOTICS", 
+    "district": "012", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64937592439595, 
+            41.87611101597725
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.87611101597725", 
+    "type": "quality", 
+    "description": "FOUND SUSPECT NARCOTICS", 
+    "beat": "1232", 
+    "date": {
+        "$date": 1369255620000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aadd"
+    }, 
+    "iucr": "2093", 
+    "longitude": "-87.64937592439595", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1170519", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "26", 
+    "block": "004XX S PEORIA ST"
+}

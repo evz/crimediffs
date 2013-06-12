@@ -1,1 +1,38 @@
-{"y_coordinate": "1889510", "year": "2013", "domestic": false, "case_number": "HW287948", "id": "9142888", "primary_type": "THEFT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71250554625361, 41.85265773786571]}, "community_area": "29", "latitude": "41.85265773786571", "type": "property", "description": "OVER $500", "beat": "1024", "date": {"$date": 1369310400000}, "ward": "24", "_id": {"$oid": "51aa13973c002ed20d78b36b"}, "iucr": "810", "longitude": "-87.71250554625361", "location_description": "SCHOOL, PUBLIC, GROUNDS", "x_coordinate": "1153388", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "021XX S ST LOUIS AVE"}
+{
+    "y_coordinate": "1889510", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287948", 
+    "id": "9142888", 
+    "primary_type": "THEFT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71250554625361, 
+            41.85265773786571
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85265773786571", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1024", 
+    "date": {
+        "$date": 1369310400000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b36b"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.71250554625361", 
+    "location_description": "SCHOOL, PUBLIC, GROUNDS", 
+    "x_coordinate": "1153388", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "021XX S ST LOUIS AVE"
+}

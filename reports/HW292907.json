@@ -1,1 +1,38 @@
-{"y_coordinate": "1846430", "year": "2013", "domestic": false, "case_number": "HW292907", "id": "9147109", "primary_type": "MOTOR VEHICLE THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56079259325227, 41.73351389773781]}, "community_area": "48", "latitude": "41.73351389773781", "type": "property", "description": "AUTOMOBILE", "beat": "0423", "date": {"$date": 1369438200000}, "ward": "7", "_id": {"$oid": "51aa138c3c002ed20d78ae25"}, "iucr": "910", "longitude": "-87.56079259325227", "location_description": "STREET", "x_coordinate": "1195111", "updated_on": {"$date": 1370047283000}, "fbi_code": "07", "block": "089XX S SOUTH CHICAGO AVE"}
+{
+    "y_coordinate": "1846430", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW292907", 
+    "id": "9147109", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56079259325227, 
+            41.73351389773781
+        ]
+    }, 
+    "community_area": "48", 
+    "latitude": "41.73351389773781", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0423", 
+    "date": {
+        "$date": 1369438200000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae25"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.56079259325227", 
+    "location_description": "STREET", 
+    "x_coordinate": "1195111", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "07", 
+    "block": "089XX S SOUTH CHICAGO AVE"
+}

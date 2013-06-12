@@ -1,1 +1,38 @@
-{"y_coordinate": "1835725", "year": "2013", "domestic": true, "case_number": "HW290883", "id": "9145445", "primary_type": "ASSAULT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61232513598439, 41.70447089664669]}, "community_area": "49", "latitude": "41.70447089664669", "type": null, "description": "SIMPLE", "beat": "0512", "date": {"$date": 1369513500000}, "ward": "9", "_id": {"$oid": "51b34a0e3c002ed20d78c92d"}, "iucr": "560", "longitude": "-87.61232513598439", "location_description": "RESIDENCE", "x_coordinate": "1181134", "updated_on": {"$date": 1370565766000}, "fbi_code": "08A", "block": "104XX S VERNON AVE"}
+{
+    "y_coordinate": "1835725", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290883", 
+    "id": "9145445", 
+    "primary_type": "ASSAULT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61232513598439, 
+            41.70447089664669
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.70447089664669", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0512", 
+    "date": {
+        "$date": 1369513500000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c92d"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.61232513598439", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1181134", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "08A", 
+    "block": "104XX S VERNON AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1881335", "year": "2013", "domestic": false, "case_number": "HW286216", "id": "9141228", "primary_type": "GAMBLING", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62821413774141, 41.829736836814476]}, "community_area": "35", "latitude": "41.829736836814476", "type": null, "description": "GAME/DICE", "beat": "0213", "date": {"$date": 1369234500000}, "ward": "3", "_id": {"$oid": "51a7708b3c002ed20d78abf3"}, "iucr": "1661", "longitude": "-87.62821413774141", "location_description": "PARK PROPERTY", "x_coordinate": "1176421", "updated_on": {"$date": 1369528777000}, "fbi_code": "19", "block": "035XX S DEARBORN ST"}
+{
+    "y_coordinate": "1881335", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286216", 
+    "id": "9141228", 
+    "primary_type": "GAMBLING", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62821413774141, 
+            41.829736836814476
+        ]
+    }, 
+    "community_area": "35", 
+    "latitude": "41.829736836814476", 
+    "type": null, 
+    "description": "GAME/DICE", 
+    "beat": "0213", 
+    "date": {
+        "$date": 1369234500000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78abf3"
+    }, 
+    "iucr": "1661", 
+    "longitude": "-87.62821413774141", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1176421", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "19", 
+    "block": "035XX S DEARBORN ST"
+}

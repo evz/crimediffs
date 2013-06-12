@@ -1,1 +1,38 @@
-{"y_coordinate": "1894001", "year": "2013", "domestic": false, "case_number": "HW283521", "id": "9138098", "primary_type": "BATTERY", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71645384605935, 41.865003476281736]}, "community_area": "29", "latitude": "41.865003476281736", "type": null, "description": "SIMPLE", "beat": "1011", "date": {"$date": 1369077900000}, "ward": "24", "_id": {"$oid": "51a4cd8f3c002ed20d78a401"}, "iucr": "460", "longitude": "-87.71645384605935", "location_description": "STREET", "x_coordinate": "1152280", "updated_on": {"$date": 1369269615000}, "fbi_code": "08B", "block": "012XX S MILLARD AVE"}
+{
+    "y_coordinate": "1894001", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283521", 
+    "id": "9138098", 
+    "primary_type": "BATTERY", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71645384605935, 
+            41.865003476281736
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.865003476281736", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1011", 
+    "date": {
+        "$date": 1369077900000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a401"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.71645384605935", 
+    "location_description": "STREET", 
+    "x_coordinate": "1152280", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "08B", 
+    "block": "012XX S MILLARD AVE"
+}

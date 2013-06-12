@@ -1,1 +1,38 @@
-{"y_coordinate": "1861474", "year": "2013", "domestic": false, "case_number": "HW301673", "id": "9155912", "primary_type": "BATTERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6642567421372, 41.775448263399]}, "community_area": "67", "latitude": "41.775448263399", "type": null, "description": "SIMPLE", "beat": "0725", "date": {"$date": 1370205000000}, "ward": "15", "_id": {"$oid": "51b5f1183c002ed20d78cc74"}, "iucr": "460", "longitude": "-87.6642567421372", "location_description": "CHURCH/SYNAGOGUE/PLACE OF WORSHIP", "x_coordinate": "1166752", "updated_on": {"$date": 1370392932000}, "fbi_code": "08B", "block": "065XX S ASHLAND AVE"}
+{
+    "y_coordinate": "1861474", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301673", 
+    "id": "9155912", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6642567421372, 
+            41.775448263399
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.775448263399", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0725", 
+    "date": {
+        "$date": 1370205000000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f1183c002ed20d78cc74"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.6642567421372", 
+    "location_description": "CHURCH/SYNAGOGUE/PLACE OF WORSHIP", 
+    "x_coordinate": "1166752", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "08B", 
+    "block": "065XX S ASHLAND AVE"
+}

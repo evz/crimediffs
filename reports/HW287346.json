@@ -1,1 +1,38 @@
-{"y_coordinate": "1873588", "year": "2013", "domestic": false, "case_number": "HW287346", "id": "9142435", "primary_type": "THEFT", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66562013592696, 41.808700486224275]}, "community_area": "61", "latitude": "41.808700486224275", "type": "property", "description": "RETAIL THEFT", "beat": "0924", "date": {"$date": 1369305060000}, "ward": "3", "_id": {"$oid": "51aa13983c002ed20d78b39e"}, "iucr": "860", "longitude": "-87.66562013592696", "location_description": "DRUG STORE", "x_coordinate": "1166286", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "016XX W 47TH ST"}
+{
+    "y_coordinate": "1873588", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287346", 
+    "id": "9142435", 
+    "primary_type": "THEFT", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66562013592696, 
+            41.808700486224275
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.808700486224275", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0924", 
+    "date": {
+        "$date": 1369305060000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b39e"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.66562013592696", 
+    "location_description": "DRUG STORE", 
+    "x_coordinate": "1166286", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "016XX W 47TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1874311", "year": "2013", "domestic": true, "case_number": "HW301705", "id": "9155958", "primary_type": "KIDNAPPING", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.69810095803838, 41.810868810678336]}, "community_area": "58", "latitude": "41.810868810678336", "type": null, "description": "UNLAWFUL INTERFERE/VISITATION", "beat": "0922", "date": {"$date": 1370206800000}, "ward": "14", "_id": {"$oid": "51b5f1173c002ed20d78cc59"}, "iucr": "4255", "longitude": "-87.69810095803838", "location_description": "RESIDENCE", "x_coordinate": "1157425", "updated_on": {"$date": 1370392932000}, "fbi_code": "26", "block": "045XX S RICHMOND ST"}
+{
+    "y_coordinate": "1874311", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301705", 
+    "id": "9155958", 
+    "primary_type": "KIDNAPPING", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69810095803838, 
+            41.810868810678336
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.810868810678336", 
+    "type": null, 
+    "description": "UNLAWFUL INTERFERE/VISITATION", 
+    "beat": "0922", 
+    "date": {
+        "$date": 1370206800000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51b5f1173c002ed20d78cc59"
+    }, 
+    "iucr": "4255", 
+    "longitude": "-87.69810095803838", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1157425", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "26", 
+    "block": "045XX S RICHMOND ST"
+}

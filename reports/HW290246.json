@@ -1,1 +1,38 @@
-{"y_coordinate": "1827330", "year": "2013", "domestic": true, "case_number": "HW290246", "id": "9144990", "primary_type": "OTHER OFFENSE", "district": "005", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62596887936702, 41.681517031704495]}, "community_area": "53", "latitude": "41.681517031704495", "type": null, "description": "VIOLATE ORDER OF PROTECTION", "beat": "0522", "date": {"$date": 1369476000000}, "ward": "34", "_id": {"$oid": "51b34a123c002ed20d78cad5"}, "iucr": "4387", "longitude": "-87.62596887936702", "location_description": "RESIDENCE", "x_coordinate": "1177477", "updated_on": {"$date": 1369701613000}, "fbi_code": "26", "block": "001XX W 117TH ST"}
+{
+    "y_coordinate": "1827330", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290246", 
+    "id": "9144990", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "005", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62596887936702, 
+            41.681517031704495
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.681517031704495", 
+    "type": null, 
+    "description": "VIOLATE ORDER OF PROTECTION", 
+    "beat": "0522", 
+    "date": {
+        "$date": 1369476000000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cad5"
+    }, 
+    "iucr": "4387", 
+    "longitude": "-87.62596887936702", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1177477", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "26", 
+    "block": "001XX W 117TH ST"
+}

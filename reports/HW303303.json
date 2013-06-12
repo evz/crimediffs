@@ -1,1 +1,38 @@
-{"y_coordinate": "1867254", "year": "2013", "domestic": false, "case_number": "HW303303", "id": "9157812", "primary_type": "OTHER OFFENSE", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72572019711389, 41.79165179726786]}, "community_area": "62", "latitude": "41.79165179726786", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "0813", "date": {"$date": 1370205000000}, "ward": "13", "_id": {"$oid": "51b5f1173c002ed20d78cc6a"}, "iucr": "2825", "longitude": "-87.72572019711389", "location_description": "RESIDENCE", "x_coordinate": "1149945", "updated_on": {"$date": 1370911182000}, "fbi_code": "26", "block": "055XX S KARLOV AVE"}
+{
+    "y_coordinate": "1867254", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303303", 
+    "id": "9157812", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72572019711389, 
+            41.79165179726786
+        ]
+    }, 
+    "community_area": "62", 
+    "latitude": "41.79165179726786", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "0813", 
+    "date": {
+        "$date": 1370205000000
+    }, 
+    "ward": "13", 
+    "_id": {
+        "$oid": "51b5f1173c002ed20d78cc6a"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.72572019711389", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1149945", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "26", 
+    "block": "055XX S KARLOV AVE"
+}

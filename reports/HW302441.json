@@ -1,1 +1,38 @@
-{"y_coordinate": "1885291", "year": "2013", "domestic": false, "case_number": "HW302441", "id": "9157130", "primary_type": "OFFENSE INVOLVING CHILDREN", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.69417375276637, 41.84097913915985]}, "community_area": "30", "latitude": "41.84097913915985", "type": null, "description": "ENDANGERING LIFE/HEALTH CHILD", "beat": "1034", "date": {"$date": 1370248320000}, "ward": "12", "_id": {"$oid": "51b7429e3c002ed20d78d4d2"}, "iucr": "1710", "longitude": "-87.69417375276637", "location_description": "STREET", "x_coordinate": "1158414", "updated_on": {"$date": 1370651988000}, "fbi_code": "26", "block": "028XX S CALIFORNIA BLVD"}
+{
+    "y_coordinate": "1885291", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302441", 
+    "id": "9157130", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69417375276637, 
+            41.84097913915985
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.84097913915985", 
+    "type": null, 
+    "description": "ENDANGERING LIFE/HEALTH CHILD", 
+    "beat": "1034", 
+    "date": {
+        "$date": 1370248320000
+    }, 
+    "ward": "12", 
+    "_id": {
+        "$oid": "51b7429e3c002ed20d78d4d2"
+    }, 
+    "iucr": "1710", 
+    "longitude": "-87.69417375276637", 
+    "location_description": "STREET", 
+    "x_coordinate": "1158414", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "26", 
+    "block": "028XX S CALIFORNIA BLVD"
+}

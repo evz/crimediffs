@@ -1,1 +1,38 @@
-{"y_coordinate": "1908049", "year": "2013", "domestic": true, "case_number": "HW291074", "id": "9145593", "primary_type": "OTHER OFFENSE", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63999240534662, 41.90311843362315]}, "community_area": "8", "latitude": "41.90311843362315", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "1823", "date": {"$date": 1369524600000}, "ward": "27", "_id": {"$oid": "51b34a0d3c002ed20d78c8ae"}, "iucr": "2825", "longitude": "-87.63999240534662", "location_description": "RESIDENCE", "x_coordinate": "1172995", "updated_on": {"$date": 1369960832000}, "fbi_code": "26", "block": "011XX N HUDSON AVE"}
+{
+    "y_coordinate": "1908049", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW291074", 
+    "id": "9145593", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63999240534662, 
+            41.90311843362315
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.90311843362315", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "1823", 
+    "date": {
+        "$date": 1369524600000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c8ae"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.63999240534662", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1172995", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "26", 
+    "block": "011XX N HUDSON AVE"
+}

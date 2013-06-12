@@ -1,1 +1,38 @@
-{"y_coordinate": "1853147", "year": "2013", "domestic": false, "case_number": "HW301526", "id": "9155757", "primary_type": "DECEPTIVE PRACTICE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55912415056824, 41.75193614955861]}, "community_area": "43", "latitude": "41.75193614955861", "type": null, "description": "COUNTERFEITING DOCUMENT", "beat": "0421", "date": {"$date": 1370195100000}, "ward": "7", "_id": {"$oid": "51b5f1193c002ed20d78cceb"}, "iucr": "1121", "longitude": "-87.55912415056824", "location_description": "RESTAURANT", "x_coordinate": "1195506", "updated_on": {"$date": 1370392932000}, "fbi_code": "10", "block": "026XX E 79TH ST"}
+{
+    "y_coordinate": "1853147", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301526", 
+    "id": "9155757", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55912415056824, 
+            41.75193614955861
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.75193614955861", 
+    "type": null, 
+    "description": "COUNTERFEITING DOCUMENT", 
+    "beat": "0421", 
+    "date": {
+        "$date": 1370195100000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78cceb"
+    }, 
+    "iucr": "1121", 
+    "longitude": "-87.55912415056824", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1195506", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "10", 
+    "block": "026XX E 79TH ST"
+}

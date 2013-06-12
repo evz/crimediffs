@@ -1,1 +1,38 @@
-{"y_coordinate": "1935612", "year": "2013", "domestic": false, "case_number": "HW283295", "id": "9137993", "primary_type": "CRIMINAL DAMAGE", "district": "017", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71348480020534, 41.97917756800067]}, "community_area": "13", "latitude": "41.97917756800067", "type": "quality", "description": "TO CITY OF CHICAGO PROPERTY", "beat": "1712", "date": {"$date": 1369070160000}, "ward": "39", "_id": {"$oid": "51a4cd903c002ed20d78a478"}, "iucr": "1345", "longitude": "-87.71348480020534", "location_description": "CTA BUS", "x_coordinate": "1152788", "updated_on": {"$date": 1369269615000}, "fbi_code": "14", "block": "053XX N KIMBALL AVE"}
+{
+    "y_coordinate": "1935612", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283295", 
+    "id": "9137993", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "017", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71348480020534, 
+            41.97917756800067
+        ]
+    }, 
+    "community_area": "13", 
+    "latitude": "41.97917756800067", 
+    "type": "quality", 
+    "description": "TO CITY OF CHICAGO PROPERTY", 
+    "beat": "1712", 
+    "date": {
+        "$date": 1369070160000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a478"
+    }, 
+    "iucr": "1345", 
+    "longitude": "-87.71348480020534", 
+    "location_description": "CTA BUS", 
+    "x_coordinate": "1152788", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "14", 
+    "block": "053XX N KIMBALL AVE"
+}

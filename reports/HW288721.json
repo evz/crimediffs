@@ -1,1 +1,38 @@
-{"y_coordinate": "1885989", "year": "2013", "domestic": false, "case_number": "HW288721", "id": "9143742", "primary_type": "BURGLARY", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72952769079448, 41.8430859340579]}, "community_area": "30", "latitude": "41.8430859340579", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "1031", "date": {"$date": 1369342800000}, "ward": "22", "_id": {"$oid": "51aa13953c002ed20d78b1ea"}, "iucr": "620", "longitude": "-87.72952769079448", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1148775", "updated_on": {"$date": 1369787985000}, "fbi_code": "05", "block": "026XX S KEELER AVE"}
+{
+    "y_coordinate": "1885989", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288721", 
+    "id": "9143742", 
+    "primary_type": "BURGLARY", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72952769079448, 
+            41.8430859340579
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.8430859340579", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "1031", 
+    "date": {
+        "$date": 1369342800000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b1ea"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.72952769079448", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1148775", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "05", 
+    "block": "026XX S KEELER AVE"
+}

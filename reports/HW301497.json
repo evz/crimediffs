@@ -1,1 +1,38 @@
-{"y_coordinate": "1844077", "year": "2013", "domestic": true, "case_number": "HW301497", "id": "9155955", "primary_type": "CRIMINAL DAMAGE", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60445331647924, 41.72734178736933]}, "community_area": "44", "latitude": "41.72734178736933", "type": "quality", "description": "TO PROPERTY", "beat": "0633", "date": {"$date": 1370196000000}, "ward": "8", "_id": {"$oid": "51b5f1193c002ed20d78cce1"}, "iucr": "1310", "longitude": "-87.60445331647924", "location_description": "APARTMENT", "x_coordinate": "1183213", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "092XX S COTTAGE GROVE AVE"}
+{
+    "y_coordinate": "1844077", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301497", 
+    "id": "9155955", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60445331647924, 
+            41.72734178736933
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.72734178736933", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0633", 
+    "date": {
+        "$date": 1370196000000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78cce1"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.60445331647924", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1183213", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "092XX S COTTAGE GROVE AVE"
+}

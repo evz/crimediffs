@@ -1,1 +1,38 @@
-{"y_coordinate": "1902658", "year": "2013", "domestic": true, "case_number": "HW284918", "id": "9141358", "primary_type": "CRIMINAL DAMAGE", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76204249288209, 41.888996288559056]}, "community_area": "25", "latitude": "41.888996288559056", "type": "quality", "description": "TO VEHICLE", "beat": "1523", "date": {"$date": 1369157400000}, "ward": "37", "_id": {"$oid": "51a61f0b3c002ed20d78a7f3"}, "iucr": "1320", "longitude": "-87.76204249288209", "location_description": "STREET", "x_coordinate": "1139804", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "054XX W FERDINAND ST"}
+{
+    "y_coordinate": "1902658", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW284918", 
+    "id": "9141358", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76204249288209, 
+            41.888996288559056
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.888996288559056", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1523", 
+    "date": {
+        "$date": 1369157400000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a7f3"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.76204249288209", 
+    "location_description": "STREET", 
+    "x_coordinate": "1139804", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "054XX W FERDINAND ST"
+}

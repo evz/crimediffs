@@ -1,1 +1,38 @@
-{"y_coordinate": "1869293", "year": "2013", "domestic": false, "case_number": "HW289893", "id": "9144725", "primary_type": "CRIMINAL DAMAGE", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66359356109017, 41.79690199878711]}, "community_area": "61", "latitude": "41.79690199878711", "type": "quality", "description": "TO PROPERTY", "beat": "0934", "date": {"$date": 1369443900000}, "ward": "16", "_id": {"$oid": "51aa138b3c002ed20d78ade5"}, "iucr": "1310", "longitude": "-87.66359356109017", "location_description": "APARTMENT", "x_coordinate": "1166872", "updated_on": {"$date": 1369615194000}, "fbi_code": "14", "block": "053XX S JUSTINE ST"}
+{
+    "y_coordinate": "1869293", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289893", 
+    "id": "9144725", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66359356109017, 
+            41.79690199878711
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.79690199878711", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0934", 
+    "date": {
+        "$date": 1369443900000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51aa138b3c002ed20d78ade5"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.66359356109017", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1166872", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "14", 
+    "block": "053XX S JUSTINE ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1929310", "year": "2013", "domestic": false, "case_number": "HW288712", "id": "9143844", "primary_type": "ASSAULT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6788168722689, 41.96169117782375]}, "community_area": "4", "latitude": "41.96169117782375", "type": null, "description": "SIMPLE", "beat": "1912", "date": {"$date": 1369161000000}, "ward": "47", "_id": {"$oid": "51a61f0a3c002ed20d78a7b2"}, "iucr": "560", "longitude": "-87.6788168722689", "location_description": "BAR OR TAVERN", "x_coordinate": "1162263", "updated_on": {"$date": 1369701613000}, "fbi_code": "08A", "block": "044XX N DAMEN AVE"}
+{
+    "y_coordinate": "1929310", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288712", 
+    "id": "9143844", 
+    "primary_type": "ASSAULT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6788168722689, 
+            41.96169117782375
+        ]
+    }, 
+    "community_area": "4", 
+    "latitude": "41.96169117782375", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1912", 
+    "date": {
+        "$date": 1369161000000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a7b2"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.6788168722689", 
+    "location_description": "BAR OR TAVERN", 
+    "x_coordinate": "1162263", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08A", 
+    "block": "044XX N DAMEN AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1851191", "year": "2013", "domestic": false, "case_number": "HW283928", "id": "9138494", "primary_type": "CRIMINAL TRESPASS", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.58432857600961, 41.74673537018161]}, "community_area": "45", "latitude": "41.74673537018161", "type": null, "description": "TO VEHICLE", "beat": "0411", "date": {"$date": 1369105620000}, "ward": "8", "_id": {"$oid": "51a4cd8a3c002ed20d78a2fa"}, "iucr": "1360", "longitude": "-87.58432857600961", "location_description": "STREET", "x_coordinate": "1188645", "updated_on": {"$date": 1369356045000}, "fbi_code": "26", "block": "081XX S CORNELL AVE"}
+{
+    "y_coordinate": "1851191", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283928", 
+    "id": "9138494", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58432857600961, 
+            41.74673537018161
+        ]
+    }, 
+    "community_area": "45", 
+    "latitude": "41.74673537018161", 
+    "type": null, 
+    "description": "TO VEHICLE", 
+    "beat": "0411", 
+    "date": {
+        "$date": 1369105620000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51a4cd8a3c002ed20d78a2fa"
+    }, 
+    "iucr": "1360", 
+    "longitude": "-87.58432857600961", 
+    "location_description": "STREET", 
+    "x_coordinate": "1188645", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "26", 
+    "block": "081XX S CORNELL AVE"
+}

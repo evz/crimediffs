@@ -1,1 +1,38 @@
-{"y_coordinate": "1899464", "year": "2013", "domestic": false, "case_number": "HW303596", "id": "9158190", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68233743809145, 41.87980699651386]}, "community_area": "28", "latitude": "41.87980699651386", "type": "property", "description": "OVER $500", "beat": "1223", "date": {"$date": 1370282400000}, "ward": "2", "_id": {"$oid": "51b7429a3c002ed20d78d327"}, "iucr": "810", "longitude": "-87.68233743809145", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1161532", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "022XX W MONROE ST"}
+{
+    "y_coordinate": "1899464", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303596", 
+    "id": "9158190", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68233743809145, 
+            41.87980699651386
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.87980699651386", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1223", 
+    "date": {
+        "$date": 1370282400000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b7429a3c002ed20d78d327"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.68233743809145", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1161532", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "022XX W MONROE ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1865948", "year": "2013", "domestic": false, "case_number": "HW289821", "id": "9144728", "primary_type": "WEAPONS VIOLATION", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62456681541494, 41.787488208274866]}, "community_area": "40", "latitude": "41.787488208274866", "type": null, "description": "UNLAWFUL POSS OF HANDGUN", "beat": "0232", "date": {"$date": 1369438800000}, "ward": "20", "_id": {"$oid": "51aa138c3c002ed20d78ae24"}, "iucr": "143A", "longitude": "-87.62456681541494", "location_description": "STREET", "x_coordinate": "1177542", "updated_on": {"$date": 1370824784000}, "fbi_code": "15", "block": "0000X E 59TH ST"}
+{
+    "y_coordinate": "1865948", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289821", 
+    "id": "9144728", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62456681541494, 
+            41.787488208274866
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.787488208274866", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "0232", 
+    "date": {
+        "$date": 1369438800000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae24"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.62456681541494", 
+    "location_description": "STREET", 
+    "x_coordinate": "1177542", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "15", 
+    "block": "0000X E 59TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1901310", "year": "2013", "domestic": false, "case_number": "HW291007", "id": "9145541", "primary_type": "LIQUOR LAW VIOLATION", "district": "001", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62805975699398, 41.8845523557983]}, "community_area": "32", "latitude": "41.8845523557983", "type": null, "description": "ILLEGAL CONSUMPTION BY MINOR", "beat": "0111", "date": {"$date": 1369514940000}, "ward": "42", "_id": {"$oid": "51b34a0e3c002ed20d78c91c"}, "iucr": "2230", "longitude": "-87.62805975699398", "location_description": "DEPARTMENT STORE", "x_coordinate": "1176299", "updated_on": {"$date": 1369787985000}, "fbi_code": "22", "block": "001XX N STATE ST"}
+{
+    "y_coordinate": "1901310", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291007", 
+    "id": "9145541", 
+    "primary_type": "LIQUOR LAW VIOLATION", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62805975699398, 
+            41.8845523557983
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.8845523557983", 
+    "type": null, 
+    "description": "ILLEGAL CONSUMPTION BY MINOR", 
+    "beat": "0111", 
+    "date": {
+        "$date": 1369514940000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c91c"
+    }, 
+    "iucr": "2230", 
+    "longitude": "-87.62805975699398", 
+    "location_description": "DEPARTMENT STORE", 
+    "x_coordinate": "1176299", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "22", 
+    "block": "001XX N STATE ST"
+}

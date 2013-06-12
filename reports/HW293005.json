@@ -1,1 +1,38 @@
-{"y_coordinate": "1847675", "year": "2013", "domestic": false, "case_number": "HW293005", "id": "9147254", "primary_type": "MOTOR VEHICLE THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.5529481560898, 41.73687754895228]}, "community_area": "46", "latitude": "41.73687754895228", "type": "property", "description": "AUTOMOBILE", "beat": "0423", "date": {"$date": 1369468800000}, "ward": "10", "_id": {"$oid": "51b34a123c002ed20d78cb07"}, "iucr": "910", "longitude": "-87.5529481560898", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1197241", "updated_on": {"$date": 1370047283000}, "fbi_code": "07", "block": "087XX S EXCHANGE AVE"}
+{
+    "y_coordinate": "1847675", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293005", 
+    "id": "9147254", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5529481560898, 
+            41.73687754895228
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.73687754895228", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0423", 
+    "date": {
+        "$date": 1369468800000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cb07"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.5529481560898", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1197241", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "07", 
+    "block": "087XX S EXCHANGE AVE"
+}

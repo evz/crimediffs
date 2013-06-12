@@ -1,1 +1,33 @@
-{"community_area": "2", "_id": {"$oid": "51b5f11c3c002ed20d78ce72"}, "primary_type": "BATTERY", "beat": "2412", "year": "2013", "domestic": true, "iucr": "486", "arrest": false, "location_description": "APARTMENT", "location": {"type": "Point", "coordinates": [-87.69996086213239, 42.004111594113]}, "case_number": "HW300815", "date": {"$date": 1370147100000}, "updated_on": {"$date": 1370565766000}, "ward": "50", "fbi_code": "08B", "type": null, "id": "9155674", "block": "067XX N CALIFORNIA AVE", "description": "DOMESTIC BATTERY SIMPLE"}
+{
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce72"
+    }, 
+    "primary_type": "BATTERY", 
+    "year": "2013", 
+    "beat": "2412", 
+    "case_number": "HW300815", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69996086213239, 
+            42.004111594113
+        ]
+    }, 
+    "community_area": "2", 
+    "date": {
+        "$date": 1370147100000
+    }, 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "ward": "50", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9155674", 
+    "block": "067XX N CALIFORNIA AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}

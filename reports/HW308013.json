@@ -1,1 +1,38 @@
-{"y_coordinate": "1850468", "year": "2013", "domestic": false, "case_number": "HW308013", "id": "9164932", "primary_type": "THEFT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64256345007577, 41.74511610626955]}, "community_area": "71", "latitude": "41.74511610626955", "type": "property", "description": "FROM BUILDING", "beat": "0622", "date": {"$date": 1369310400000}, "ward": "21", "_id": {"$oid": "51b5f1333c002ed20d78d1c7"}, "iucr": "890", "longitude": "-87.64256345007577", "location_description": "ABANDONED BUILDING", "x_coordinate": "1172758", "updated_on": {"$date": 1370911182000}, "fbi_code": "06", "block": "007XX W 82ND ST"}
+{
+    "y_coordinate": "1850468", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW308013", 
+    "id": "9164932", 
+    "primary_type": "THEFT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64256345007577, 
+            41.74511610626955
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.74511610626955", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0622", 
+    "date": {
+        "$date": 1369310400000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b5f1333c002ed20d78d1c7"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.64256345007577", 
+    "location_description": "ABANDONED BUILDING", 
+    "x_coordinate": "1172758", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "06", 
+    "block": "007XX W 82ND ST"
+}

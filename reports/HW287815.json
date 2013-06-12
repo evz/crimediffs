@@ -1,1 +1,38 @@
-{"y_coordinate": "1852210", "year": "2013", "domestic": false, "case_number": "HW287815", "id": "9142958", "primary_type": "MOTOR VEHICLE THEFT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66114950328027, 41.75000692607596]}, "community_area": "71", "latitude": "41.75000692607596", "type": "property", "description": "AUTOMOBILE", "beat": "0612", "date": {"$date": 1369278000000}, "ward": "21", "_id": {"$oid": "51a770853c002ed20d78a9ff"}, "iucr": "910", "longitude": "-87.66114950328027", "location_description": "STREET", "x_coordinate": "1167672", "updated_on": {"$date": 1370047283000}, "fbi_code": "07", "block": "079XX S LAFLIN ST"}
+{
+    "y_coordinate": "1852210", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287815", 
+    "id": "9142958", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66114950328027, 
+            41.75000692607596
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.75000692607596", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0612", 
+    "date": {
+        "$date": 1369278000000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51a770853c002ed20d78a9ff"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.66114950328027", 
+    "location_description": "STREET", 
+    "x_coordinate": "1167672", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "07", 
+    "block": "079XX S LAFLIN ST"
+}

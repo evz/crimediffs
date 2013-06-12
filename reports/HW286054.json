@@ -1,1 +1,38 @@
-{"y_coordinate": "1881656", "year": "2013", "domestic": false, "case_number": "HW286054", "id": "9141027", "primary_type": "ASSAULT", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61917871838429, 41.83056192335535]}, "community_area": "35", "latitude": "41.83056192335535", "type": null, "description": "PRO EMP HANDS NO/MIN INJURY", "beat": "0212", "date": {"$date": 1369224900000}, "ward": "2", "_id": {"$oid": "51a7708c3c002ed20d78ac6e"}, "iucr": "545", "longitude": "-87.61917871838429", "location_description": "SCHOOL, PUBLIC, GROUNDS", "x_coordinate": "1178881", "updated_on": {"$date": 1369442383000}, "fbi_code": "08A", "block": "035XX S GILES AVE"}
+{
+    "y_coordinate": "1881656", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286054", 
+    "id": "9141027", 
+    "primary_type": "ASSAULT", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61917871838429, 
+            41.83056192335535
+        ]
+    }, 
+    "community_area": "35", 
+    "latitude": "41.83056192335535", 
+    "type": null, 
+    "description": "PRO EMP HANDS NO/MIN INJURY", 
+    "beat": "0212", 
+    "date": {
+        "$date": 1369224900000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac6e"
+    }, 
+    "iucr": "545", 
+    "longitude": "-87.61917871838429", 
+    "location_description": "SCHOOL, PUBLIC, GROUNDS", 
+    "x_coordinate": "1178881", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08A", 
+    "block": "035XX S GILES AVE"
+}

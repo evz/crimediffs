@@ -1,1 +1,38 @@
-{"y_coordinate": "1868406", "year": "2013", "domestic": false, "case_number": "HW293131", "id": "9147451", "primary_type": "ROBBERY", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6239131330126, 41.794229625163055]}, "community_area": "40", "latitude": "41.794229625163055", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "0225", "date": {"$date": 1369454400000}, "ward": "20", "_id": {"$oid": "51aa13893c002ed20d78ad8a"}, "iucr": "320", "longitude": "-87.6239131330126", "location_description": "STREET", "x_coordinate": "1177700", "updated_on": {"$date": 1370911182000}, "fbi_code": "03", "block": "0000X E GARFIELD BLVD"}
+{
+    "y_coordinate": "1868406", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293131", 
+    "id": "9147451", 
+    "primary_type": "ROBBERY", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6239131330126, 
+            41.794229625163055
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.794229625163055", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0225", 
+    "date": {
+        "$date": 1369454400000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51aa13893c002ed20d78ad8a"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.6239131330126", 
+    "location_description": "STREET", 
+    "x_coordinate": "1177700", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "03", 
+    "block": "0000X E GARFIELD BLVD"
+}

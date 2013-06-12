@@ -1,1 +1,38 @@
-{"y_coordinate": "1871312", "year": "2013", "domestic": false, "case_number": "HW286902", "id": "9141689", "primary_type": "CRIMINAL DAMAGE", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66860426003012, 41.802471810647376]}, "community_area": "61", "latitude": "41.802471810647376", "type": "quality", "description": "TO VEHICLE", "beat": "0931", "date": {"$date": 1369231200000}, "ward": "16", "_id": {"$oid": "51a7708b3c002ed20d78ac2b"}, "iucr": "1320", "longitude": "-87.66860426003012", "location_description": "STREET", "x_coordinate": "1165490", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "050XX S HERMITAGE AVE"}
+{
+    "y_coordinate": "1871312", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286902", 
+    "id": "9141689", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66860426003012, 
+            41.802471810647376
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.802471810647376", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0931", 
+    "date": {
+        "$date": 1369231200000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac2b"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.66860426003012", 
+    "location_description": "STREET", 
+    "x_coordinate": "1165490", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "050XX S HERMITAGE AVE"
+}

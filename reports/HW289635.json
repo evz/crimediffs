@@ -1,1 +1,38 @@
-{"y_coordinate": "1855301", "year": "2013", "domestic": false, "case_number": "HW289635", "id": "9144625", "primary_type": "BATTERY", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61160687811088, 41.75818903810806]}, "community_area": "69", "latitude": "41.75818903810806", "type": "violent", "description": "AGGRAVATED: HANDGUN", "beat": "0624", "date": {"$date": 1369428300000}, "ward": "6", "_id": {"$oid": "51aa138d3c002ed20d78aeae"}, "iucr": "041A", "longitude": "-87.61160687811088", "location_description": "SIDEWALK", "x_coordinate": "1181166", "updated_on": {"$date": 1369787985000}, "fbi_code": "04B", "block": "075XX S RHODES AVE"}
+{
+    "y_coordinate": "1855301", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289635", 
+    "id": "9144625", 
+    "primary_type": "BATTERY", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61160687811088, 
+            41.75818903810806
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.75818903810806", 
+    "type": "violent", 
+    "description": "AGGRAVATED: HANDGUN", 
+    "beat": "0624", 
+    "date": {
+        "$date": 1369428300000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78aeae"
+    }, 
+    "iucr": "041A", 
+    "longitude": "-87.61160687811088", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1181166", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "04B", 
+    "block": "075XX S RHODES AVE"
+}

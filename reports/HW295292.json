@@ -1,1 +1,38 @@
-{"y_coordinate": "1914260", "year": "2013", "domestic": false, "case_number": "HW295292", "id": "9149488", "primary_type": "THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73012693978286, 41.920671722241664]}, "community_area": "20", "latitude": "41.920671722241664", "type": "property", "description": "FROM BUILDING", "beat": "2525", "date": {"$date": 1369396800000}, "ward": "30", "_id": {"$oid": "51aa13923c002ed20d78b065"}, "iucr": "890", "longitude": "-87.73012693978286", "location_description": "RESIDENCE", "x_coordinate": "1148413", "updated_on": {"$date": 1370047283000}, "fbi_code": "06", "block": "041XX W PALMER ST"}
+{
+    "y_coordinate": "1914260", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW295292", 
+    "id": "9149488", 
+    "primary_type": "THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73012693978286, 
+            41.920671722241664
+        ]
+    }, 
+    "community_area": "20", 
+    "latitude": "41.920671722241664", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "2525", 
+    "date": {
+        "$date": 1369396800000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b065"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.73012693978286", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1148413", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "06", 
+    "block": "041XX W PALMER ST"
+}

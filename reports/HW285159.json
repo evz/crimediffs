@@ -1,1 +1,38 @@
-{"y_coordinate": "1894173", "year": "2013", "domestic": false, "case_number": "HW285159", "id": "9139852", "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.77276390702433, 41.86576414146977]}, "community_area": "25", "latitude": "41.86576414146977", "type": null, "description": "RESIST/OBSTRUCT/DISARM OFFICER", "beat": "1513", "date": {"$date": 1369166880000}, "ward": "29", "_id": {"$oid": "51a61f0a3c002ed20d78a763"}, "iucr": "3710", "longitude": "-87.77276390702433", "location_description": "APARTMENT", "x_coordinate": "1136940", "updated_on": {"$date": 1369356045000}, "fbi_code": "24", "block": "011XX S MASON AVE"}
+{
+    "y_coordinate": "1894173", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285159", 
+    "id": "9139852", 
+    "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77276390702433, 
+            41.86576414146977
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.86576414146977", 
+    "type": null, 
+    "description": "RESIST/OBSTRUCT/DISARM OFFICER", 
+    "beat": "1513", 
+    "date": {
+        "$date": 1369166880000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a763"
+    }, 
+    "iucr": "3710", 
+    "longitude": "-87.77276390702433", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1136940", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "24", 
+    "block": "011XX S MASON AVE"
+}

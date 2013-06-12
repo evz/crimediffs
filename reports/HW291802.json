@@ -1,1 +1,38 @@
-{"y_coordinate": "1869658", "year": "2013", "domestic": false, "case_number": "HW291802", "id": "9146187", "primary_type": "THEFT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66454026421019, 41.7979091780189]}, "community_area": "61", "latitude": "41.7979091780189", "type": "property", "description": "FROM BUILDING", "beat": "0934", "date": {"$date": 1369180860000}, "ward": "16", "_id": {"$oid": "51a61f073c002ed20d78a6be"}, "iucr": "890", "longitude": "-87.66454026421019", "location_description": "RESTAURANT", "x_coordinate": "1166611", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "052XX S ASHLAND AVE"}
+{
+    "y_coordinate": "1869658", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291802", 
+    "id": "9146187", 
+    "primary_type": "THEFT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66454026421019, 
+            41.7979091780189
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.7979091780189", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0934", 
+    "date": {
+        "$date": 1369180860000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a61f073c002ed20d78a6be"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.66454026421019", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1166611", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "052XX S ASHLAND AVE"
+}

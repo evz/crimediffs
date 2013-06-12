@@ -1,1 +1,38 @@
-{"y_coordinate": "1864448", "year": "2013", "domestic": false, "case_number": "HW283498", "id": "9138085", "primary_type": "CRIMINAL TRESPASS", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62393388135817, 41.78336787068177]}, "community_area": "40", "latitude": "41.78336787068177", "type": null, "description": "TO LAND", "beat": "0311", "date": {"$date": 1369073520000}, "ward": "20", "_id": {"$oid": "51a4cd8f3c002ed20d78a43e"}, "iucr": "1330", "longitude": "-87.62393388135817", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1177727", "updated_on": {"$date": 1369356045000}, "fbi_code": "26", "block": "061XX S WABASH AVE"}
+{
+    "y_coordinate": "1864448", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283498", 
+    "id": "9138085", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62393388135817, 
+            41.78336787068177
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.78336787068177", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "0311", 
+    "date": {
+        "$date": 1369073520000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a43e"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.62393388135817", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1177727", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "26", 
+    "block": "061XX S WABASH AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1931640", "year": "2013", "domestic": false, "case_number": "HW283512", "id": "9138060", "primary_type": "THEFT", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7143111588043, 41.96828204970602]}, "community_area": "14", "latitude": "41.96828204970602", "type": "property", "description": "FROM BUILDING", "beat": "1723", "date": {"$date": 1369076580000}, "ward": "33", "_id": {"$oid": "51a4cd8f3c002ed20d78a40e"}, "iucr": "890", "longitude": "-87.7143111588043", "location_description": "CURRENCY EXCHANGE", "x_coordinate": "1152592", "updated_on": {"$date": 1369269615000}, "fbi_code": "06", "block": "034XX W LAWRENCE AVE"}
+{
+    "y_coordinate": "1931640", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283512", 
+    "id": "9138060", 
+    "primary_type": "THEFT", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7143111588043, 
+            41.96828204970602
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.96828204970602", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1723", 
+    "date": {
+        "$date": 1369076580000
+    }, 
+    "ward": "33", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a40e"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.7143111588043", 
+    "location_description": "CURRENCY EXCHANGE", 
+    "x_coordinate": "1152592", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "06", 
+    "block": "034XX W LAWRENCE AVE"
+}

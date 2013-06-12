@@ -1,1 +1,38 @@
-{"y_coordinate": "1916921", "year": "2013", "domestic": false, "case_number": "HW303033", "id": "9157649", "primary_type": "OTHER OFFENSE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.79401610285787, 41.92829197589344]}, "community_area": "18", "latitude": "41.92829197589344", "type": null, "description": "TELEPHONE THREAT", "beat": "2512", "date": {"$date": 1370169960000}, "ward": "36", "_id": {"$oid": "51b5f11b3c002ed20d78cdf7"}, "iucr": "2820", "longitude": "-87.79401610285787", "location_description": "RESIDENCE", "x_coordinate": "1131008", "updated_on": {"$date": 1370651988000}, "fbi_code": "26", "block": "026XX N RUTHERFORD AVE"}
+{
+    "y_coordinate": "1916921", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303033", 
+    "id": "9157649", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.79401610285787, 
+            41.92829197589344
+        ]
+    }, 
+    "community_area": "18", 
+    "latitude": "41.92829197589344", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "2512", 
+    "date": {
+        "$date": 1370169960000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cdf7"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.79401610285787", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1131008", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "26", 
+    "block": "026XX N RUTHERFORD AVE"
+}

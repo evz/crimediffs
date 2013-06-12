@@ -1,1 +1,38 @@
-{"y_coordinate": "1859691", "year": "2013", "domestic": false, "case_number": "HW283399", "id": "9137959", "primary_type": "CRIMINAL DAMAGE", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64157353143321, 41.77042084323308]}, "community_area": "68", "latitude": "41.77042084323308", "type": "quality", "description": "TO VEHICLE", "beat": "0723", "date": {"$date": 1369072800000}, "ward": "6", "_id": {"$oid": "51a4cd8f3c002ed20d78a456"}, "iucr": "1320", "longitude": "-87.64157353143321", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1172954", "updated_on": {"$date": 1369269615000}, "fbi_code": "14", "block": "068XX S UNION AVE"}
+{
+    "y_coordinate": "1859691", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283399", 
+    "id": "9137959", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64157353143321, 
+            41.77042084323308
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.77042084323308", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0723", 
+    "date": {
+        "$date": 1369072800000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a456"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.64157353143321", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1172954", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "14", 
+    "block": "068XX S UNION AVE"
+}

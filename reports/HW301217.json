@@ -1,1 +1,38 @@
-{"y_coordinate": "1870262", "year": "2013", "domestic": true, "case_number": "HW301217", "id": "9155828", "primary_type": "OTHER OFFENSE", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60406136422307, 41.79919869985877]}, "community_area": "41", "latitude": "41.79919869985877", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "0233", "date": {"$date": 1370112960000}, "ward": "5", "_id": {"$oid": "51b5f11f3c002ed20d78cfe5"}, "iucr": "2825", "longitude": "-87.60406136422307", "location_description": "OTHER", "x_coordinate": "1183098", "updated_on": {"$date": 1370738354000}, "fbi_code": "26", "block": "052XX S DREXEL AVE"}
+{
+    "y_coordinate": "1870262", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301217", 
+    "id": "9155828", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60406136422307, 
+            41.79919869985877
+        ]
+    }, 
+    "community_area": "41", 
+    "latitude": "41.79919869985877", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "0233", 
+    "date": {
+        "$date": 1370112960000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cfe5"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.60406136422307", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1183098", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "26", 
+    "block": "052XX S DREXEL AVE"
+}

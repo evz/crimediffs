@@ -1,1 +1,38 @@
-{"y_coordinate": "1908533", "year": "2013", "domestic": false, "case_number": "HW293866", "id": "9148032", "primary_type": "CRIMINAL DAMAGE", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66178247937465, 41.90457614306795]}, "community_area": "24", "latitude": "41.90457614306795", "type": "quality", "description": "TO VEHICLE", "beat": "1433", "date": {"$date": 1369375200000}, "ward": "32", "_id": {"$oid": "51aa13933c002ed20d78b12e"}, "iucr": "1320", "longitude": "-87.66178247937465", "location_description": "SPORTS ARENA/STADIUM", "x_coordinate": "1167059", "updated_on": {"$date": 1369960832000}, "fbi_code": "14", "block": "012XX N ADA ST"}
+{
+    "y_coordinate": "1908533", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293866", 
+    "id": "9148032", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66178247937465, 
+            41.90457614306795
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.90457614306795", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1433", 
+    "date": {
+        "$date": 1369375200000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b12e"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.66178247937465", 
+    "location_description": "SPORTS ARENA/STADIUM", 
+    "x_coordinate": "1167059", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "14", 
+    "block": "012XX N ADA ST"
+}

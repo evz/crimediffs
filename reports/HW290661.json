@@ -1,1 +1,38 @@
-{"y_coordinate": "1858330", "year": "2013", "domestic": true, "case_number": "HW290661", "id": "9145419", "primary_type": "OFFENSE INVOLVING CHILDREN", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60574814989612, 41.76646456083701]}, "community_area": "42", "latitude": "41.76646456083701", "type": null, "description": "OTHER OFFENSE", "beat": "0321", "date": {"$date": 1369500000000}, "ward": "6", "_id": {"$oid": "51b34a103c002ed20d78c9de"}, "iucr": "1780", "longitude": "-87.60574814989612", "location_description": "POLICE FACILITY/VEH PARKING LOT", "x_coordinate": "1182739", "updated_on": {"$date": 1369787985000}, "fbi_code": "26", "block": "070XX S COTTAGE GROVE AVE"}
+{
+    "y_coordinate": "1858330", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290661", 
+    "id": "9145419", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60574814989612, 
+            41.76646456083701
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.76646456083701", 
+    "type": null, 
+    "description": "OTHER OFFENSE", 
+    "beat": "0321", 
+    "date": {
+        "$date": 1369500000000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78c9de"
+    }, 
+    "iucr": "1780", 
+    "longitude": "-87.60574814989612", 
+    "location_description": "POLICE FACILITY/VEH PARKING LOT", 
+    "x_coordinate": "1182739", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "26", 
+    "block": "070XX S COTTAGE GROVE AVE"
+}

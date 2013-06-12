@@ -1,1 +1,38 @@
-{"y_coordinate": "1910628", "year": "2013", "domestic": false, "case_number": "HW289340", "id": "9144864", "primary_type": "BATTERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74605065010816, 41.91078721618478]}, "community_area": "25", "latitude": "41.91078721618478", "type": null, "description": "SIMPLE", "beat": "2533", "date": {"$date": 1369415100000}, "ward": "37", "_id": {"$oid": "51aa138f3c002ed20d78af55"}, "iucr": "460", "longitude": "-87.74605065010816", "location_description": "CONVENIENCE STORE", "x_coordinate": "1144104", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "016XX N CICERO AVE"}
+{
+    "y_coordinate": "1910628", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289340", 
+    "id": "9144864", 
+    "primary_type": "BATTERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74605065010816, 
+            41.91078721618478
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.91078721618478", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2533", 
+    "date": {
+        "$date": 1369415100000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51aa138f3c002ed20d78af55"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.74605065010816", 
+    "location_description": "CONVENIENCE STORE", 
+    "x_coordinate": "1144104", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "016XX N CICERO AVE"
+}

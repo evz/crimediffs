@@ -1,1 +1,38 @@
-{"y_coordinate": "1907902", "year": "2013", "domestic": false, "case_number": "HW302393", "id": "9157128", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68353850174167, 41.90296970382404]}, "community_area": "24", "latitude": "41.90296970382404", "type": "property", "description": "FROM BUILDING", "beat": "1212", "date": {"$date": 1370259000000}, "ward": "32", "_id": {"$oid": "51b7429d3c002ed20d78d463"}, "iucr": "890", "longitude": "-87.68353850174167", "location_description": "HOSPITAL BUILDING/GROUNDS", "x_coordinate": "1161141", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "022XX W DIVISION ST"}
+{
+    "y_coordinate": "1907902", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302393", 
+    "id": "9157128", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68353850174167, 
+            41.90296970382404
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.90296970382404", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1212", 
+    "date": {
+        "$date": 1370259000000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51b7429d3c002ed20d78d463"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.68353850174167", 
+    "location_description": "HOSPITAL BUILDING/GROUNDS", 
+    "x_coordinate": "1161141", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "022XX W DIVISION ST"
+}

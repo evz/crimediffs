@@ -1,1 +1,38 @@
-{"y_coordinate": "1905098", "year": "2013", "domestic": false, "case_number": "HW284880", "id": "9139762", "primary_type": "THEFT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62083141661748, 41.89490290838143]}, "community_area": "8", "latitude": "41.89490290838143", "type": "property", "description": "FROM BUILDING", "beat": "1834", "date": {"$date": 1369119600000}, "ward": "42", "_id": {"$oid": "51a61f103c002ed20d78a9bb"}, "iucr": "890", "longitude": "-87.62083141661748", "location_description": "HOSPITAL BUILDING/GROUNDS", "x_coordinate": "1178236", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "002XX E HURON ST"}
+{
+    "y_coordinate": "1905098", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284880", 
+    "id": "9139762", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62083141661748, 
+            41.89490290838143
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89490290838143", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1834", 
+    "date": {
+        "$date": 1369119600000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a61f103c002ed20d78a9bb"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.62083141661748", 
+    "location_description": "HOSPITAL BUILDING/GROUNDS", 
+    "x_coordinate": "1178236", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "002XX E HURON ST"
+}

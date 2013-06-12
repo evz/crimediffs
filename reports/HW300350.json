@@ -1,1 +1,38 @@
-{"y_coordinate": "1930590", "year": "2013", "domestic": false, "case_number": "HW300350", "id": "9154820", "primary_type": "BATTERY", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.83682978588489, 41.96599586620683]}, "community_area": "76", "latitude": "41.96599586620683", "type": null, "description": "SIMPLE", "beat": "1614", "date": {"$date": 1370110500000}, "ward": "36", "_id": {"$oid": "51b5f11f3c002ed20d78cffc"}, "iucr": "460", "longitude": "-87.83682978588489", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1119278", "updated_on": {"$date": 1370565766000}, "fbi_code": "08B", "block": "047XX N CUMBERLAND AVE"}
+{
+    "y_coordinate": "1930590", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300350", 
+    "id": "9154820", 
+    "primary_type": "BATTERY", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.83682978588489, 
+            41.96599586620683
+        ]
+    }, 
+    "community_area": "76", 
+    "latitude": "41.96599586620683", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1614", 
+    "date": {
+        "$date": 1370110500000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cffc"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.83682978588489", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1119278", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "08B", 
+    "block": "047XX N CUMBERLAND AVE"
+}

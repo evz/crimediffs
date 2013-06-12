@@ -1,1 +1,38 @@
-{"y_coordinate": "1908483", "year": "2013", "domestic": false, "case_number": "HW283557", "id": "9138072", "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", "district": "025", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72325278313411, 41.904781969473106]}, "community_area": "23", "latitude": "41.904781969473106", "type": null, "description": "OBSTRUCTING JUSTICE", "beat": "2535", "date": {"$date": 1369078800000}, "ward": "27", "_id": {"$oid": "51a4cd8e3c002ed20d78a3f5"}, "iucr": "3730", "longitude": "-87.72325278313411", "location_description": "APARTMENT", "x_coordinate": "1150325", "updated_on": {"$date": 1369269615000}, "fbi_code": "24", "block": "038XX W GRAND AVE"}
+{
+    "y_coordinate": "1908483", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283557", 
+    "id": "9138072", 
+    "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", 
+    "district": "025", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72325278313411, 
+            41.904781969473106
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.904781969473106", 
+    "type": null, 
+    "description": "OBSTRUCTING JUSTICE", 
+    "beat": "2535", 
+    "date": {
+        "$date": 1369078800000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3f5"
+    }, 
+    "iucr": "3730", 
+    "longitude": "-87.72325278313411", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1150325", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "24", 
+    "block": "038XX W GRAND AVE"
+}

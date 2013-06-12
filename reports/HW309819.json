@@ -1,1 +1,38 @@
-{"y_coordinate": "1905570", "year": "2013", "domestic": false, "case_number": "HW309819", "id": "9164660", "primary_type": "THEFT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63583862513235, 41.896290321818626]}, "community_area": "8", "latitude": "41.896290321818626", "type": "property", "description": "POCKET-PICKING", "beat": "1831", "date": {"$date": 1369926000000}, "ward": "42", "_id": {"$oid": "51b5f1253c002ed20d78d1b2"}, "iucr": "870", "longitude": "-87.63583862513235", "location_description": "RESTAURANT", "x_coordinate": "1174146", "updated_on": {"$date": 1370824784000}, "fbi_code": "06", "block": "007XX N FRANKLIN ST"}
+{
+    "y_coordinate": "1905570", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW309819", 
+    "id": "9164660", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63583862513235, 
+            41.896290321818626
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.896290321818626", 
+    "type": "property", 
+    "description": "POCKET-PICKING", 
+    "beat": "1831", 
+    "date": {
+        "$date": 1369926000000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b5f1253c002ed20d78d1b2"
+    }, 
+    "iucr": "870", 
+    "longitude": "-87.63583862513235", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1174146", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "06", 
+    "block": "007XX N FRANKLIN ST"
+}

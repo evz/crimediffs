@@ -1,1 +1,38 @@
-{"y_coordinate": "1867707", "year": "2013", "domestic": true, "case_number": "HW284559", "id": "9139388", "primary_type": "BATTERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.80015517710875, 41.793264544034045]}, "community_area": "56", "latitude": "41.793264544034045", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0811", "date": {"$date": 1369112400000}, "ward": "23", "_id": {"$oid": "51a4cd893c002ed20d78a2e8"}, "iucr": "486", "longitude": "-87.80015517710875", "location_description": "APARTMENT", "x_coordinate": "1129643", "updated_on": {"$date": 1369615194000}, "fbi_code": "08B", "block": "054XX S NEVA AVE"}
+{
+    "y_coordinate": "1867707", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW284559", 
+    "id": "9139388", 
+    "primary_type": "BATTERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.80015517710875, 
+            41.793264544034045
+        ]
+    }, 
+    "community_area": "56", 
+    "latitude": "41.793264544034045", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0811", 
+    "date": {
+        "$date": 1369112400000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51a4cd893c002ed20d78a2e8"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.80015517710875", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1129643", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08B", 
+    "block": "054XX S NEVA AVE"
+}

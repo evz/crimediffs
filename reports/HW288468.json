@@ -1,1 +1,38 @@
-{"y_coordinate": "1917459", "year": "2013", "domestic": false, "case_number": "HW288468", "id": "9143561", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6474663749079, 41.92898649464985]}, "community_area": "7", "latitude": "41.92898649464985", "type": "property", "description": "OVER $500", "beat": "1935", "date": {"$date": 1369256400000}, "ward": "43", "_id": {"$oid": "51a770883c002ed20d78aac7"}, "iucr": "810", "longitude": "-87.6474663749079", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1170885", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "007XX W WRIGHTWOOD AVE"}
+{
+    "y_coordinate": "1917459", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288468", 
+    "id": "9143561", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6474663749079, 
+            41.92898649464985
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.92898649464985", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1935", 
+    "date": {
+        "$date": 1369256400000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aac7"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.6474663749079", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1170885", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "007XX W WRIGHTWOOD AVE"
+}

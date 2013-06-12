@@ -1,1 +1,38 @@
-{"y_coordinate": "1853491", "year": "2013", "domestic": false, "case_number": "HW285005", "id": "9139841", "primary_type": "SEX OFFENSE", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70730961017243, 41.75378316410472]}, "community_area": "70", "latitude": "41.75378316410472", "type": null, "description": "CRIMINAL SEXUAL ABUSE", "beat": "0835", "date": {"$date": 1369130400000}, "ward": "18", "_id": {"$oid": "51a61f0e3c002ed20d78a945"}, "iucr": "1563", "longitude": "-87.70730961017243", "location_description": "SCHOOL, PUBLIC, GROUNDS", "x_coordinate": "1155066", "updated_on": {"$date": 1369787985000}, "fbi_code": "17", "block": "076XX S HOMAN AVE"}
+{
+    "y_coordinate": "1853491", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285005", 
+    "id": "9139841", 
+    "primary_type": "SEX OFFENSE", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70730961017243, 
+            41.75378316410472
+        ]
+    }, 
+    "community_area": "70", 
+    "latitude": "41.75378316410472", 
+    "type": null, 
+    "description": "CRIMINAL SEXUAL ABUSE", 
+    "beat": "0835", 
+    "date": {
+        "$date": 1369130400000
+    }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a945"
+    }, 
+    "iucr": "1563", 
+    "longitude": "-87.70730961017243", 
+    "location_description": "SCHOOL, PUBLIC, GROUNDS", 
+    "x_coordinate": "1155066", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "17", 
+    "block": "076XX S HOMAN AVE"
+}

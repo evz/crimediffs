@@ -1,1 +1,38 @@
-{"y_coordinate": "1899007", "year": "2013", "domestic": false, "case_number": "HW288919", "id": "9144019", "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", "district": "012", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68159744883445, 41.87854867865457]}, "community_area": "28", "latitude": "41.87854867865457", "type": null, "description": "OBSTRUCTING IDENTIFICATION", "beat": "1225", "date": {"$date": 1369397400000}, "ward": "2", "_id": {"$oid": "51aa13913c002ed20d78b05a"}, "iucr": "3731", "longitude": "-87.68159744883445", "location_description": "STREET", "x_coordinate": "1161737", "updated_on": {"$date": 1369615194000}, "fbi_code": "24", "block": "022XX W ADAMS ST"}
+{
+    "y_coordinate": "1899007", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288919", 
+    "id": "9144019", 
+    "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", 
+    "district": "012", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68159744883445, 
+            41.87854867865457
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.87854867865457", 
+    "type": null, 
+    "description": "OBSTRUCTING IDENTIFICATION", 
+    "beat": "1225", 
+    "date": {
+        "$date": 1369397400000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b05a"
+    }, 
+    "iucr": "3731", 
+    "longitude": "-87.68159744883445", 
+    "location_description": "STREET", 
+    "x_coordinate": "1161737", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "24", 
+    "block": "022XX W ADAMS ST"
+}

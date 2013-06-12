@@ -1,1 +1,38 @@
-{"y_coordinate": "1930780", "year": "2013", "domestic": false, "case_number": "HW295053", "id": "9149365", "primary_type": "NARCOTICS", "district": "019", "arrest": true, "location": {"type": "Point", "coordinates": [-87.65264105994015, 41.96557294504679]}, "community_area": "3", "latitude": "41.96557294504679", "type": "quality", "description": "FOUND SUSPECT NARCOTICS", "beat": "1914", "date": {"$date": 1369409700000}, "ward": "46", "_id": {"$oid": "51aa13903c002ed20d78afaf"}, "iucr": "2093", "longitude": "-87.65264105994015", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1169371", "updated_on": {"$date": 1370133629000}, "fbi_code": "26", "block": "009XX W WILSON AVE"}
+{
+    "y_coordinate": "1930780", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW295053", 
+    "id": "9149365", 
+    "primary_type": "NARCOTICS", 
+    "district": "019", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65264105994015, 
+            41.96557294504679
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.96557294504679", 
+    "type": "quality", 
+    "description": "FOUND SUSPECT NARCOTICS", 
+    "beat": "1914", 
+    "date": {
+        "$date": 1369409700000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78afaf"
+    }, 
+    "iucr": "2093", 
+    "longitude": "-87.65264105994015", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1169371", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "26", 
+    "block": "009XX W WILSON AVE"
+}

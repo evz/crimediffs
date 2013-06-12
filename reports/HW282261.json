@@ -1,1 +1,38 @@
-{"y_coordinate": "1932570", "year": "2013", "domestic": false, "case_number": "HW282261", "id": "20887", "primary_type": "HOMICIDE", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7050238232868, 41.97078370762465]}, "community_area": "14", "latitude": "41.97078370762465", "type": "violent", "description": "FIRST DEGREE MURDER", "beat": "1713", "date": {"$date": 1369227660000}, "ward": "33", "_id": {"$oid": "51a7708c3c002ed20d78ac53"}, "iucr": "110", "longitude": "-87.7050238232868", "location_description": "STREET", "x_coordinate": "1155111", "updated_on": {"$date": 1369289551000}, "fbi_code": "01A", "block": "049XX N WHIPPLE ST"}
+{
+    "y_coordinate": "1932570", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW282261", 
+    "id": "20887", 
+    "primary_type": "HOMICIDE", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7050238232868, 
+            41.97078370762465
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.97078370762465", 
+    "type": "violent", 
+    "description": "FIRST DEGREE MURDER", 
+    "beat": "1713", 
+    "date": {
+        "$date": 1369227660000
+    }, 
+    "ward": "33", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac53"
+    }, 
+    "iucr": "110", 
+    "longitude": "-87.7050238232868", 
+    "location_description": "STREET", 
+    "x_coordinate": "1155111", 
+    "updated_on": {
+        "$date": 1369289551000
+    }, 
+    "fbi_code": "01A", 
+    "block": "049XX N WHIPPLE ST"
+}

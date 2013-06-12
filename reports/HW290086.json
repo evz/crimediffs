@@ -1,1 +1,38 @@
-{"y_coordinate": "1847744", "year": "2013", "domestic": false, "case_number": "HW290086", "id": "9144926", "primary_type": "THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.5731837610892, 41.73720256079324]}, "community_area": "45", "latitude": "41.73720256079324", "type": "property", "description": "FROM BUILDING", "beat": "0412", "date": {"$date": 1369391400000}, "ward": "8", "_id": {"$oid": "51aa13923c002ed20d78b0a6"}, "iucr": "890", "longitude": "-87.5731837610892", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1191717", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "021XX E 87TH ST"}
+{
+    "y_coordinate": "1847744", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290086", 
+    "id": "9144926", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5731837610892, 
+            41.73720256079324
+        ]
+    }, 
+    "community_area": "45", 
+    "latitude": "41.73720256079324", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0412", 
+    "date": {
+        "$date": 1369391400000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b0a6"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.5731837610892", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1191717", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "021XX E 87TH ST"
+}

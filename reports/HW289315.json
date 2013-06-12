@@ -1,1 +1,38 @@
-{"y_coordinate": "1861069", "year": "2013", "domestic": false, "case_number": "HW289315", "id": "9144327", "primary_type": "BURGLARY", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.69069168760039, 41.77448773521416]}, "community_area": "66", "latitude": "41.77448773521416", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0831", "date": {"$date": 1369373400000}, "ward": "15", "_id": {"$oid": "51aa13933c002ed20d78b137"}, "iucr": "610", "longitude": "-87.69069168760039", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1159544", "updated_on": {"$date": 1370392932000}, "fbi_code": "05", "block": "065XX S WASHTENAW AVE"}
+{
+    "y_coordinate": "1861069", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289315", 
+    "id": "9144327", 
+    "primary_type": "BURGLARY", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69069168760039, 
+            41.77448773521416
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.77448773521416", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0831", 
+    "date": {
+        "$date": 1369373400000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b137"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.69069168760039", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1159544", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "05", 
+    "block": "065XX S WASHTENAW AVE"
+}

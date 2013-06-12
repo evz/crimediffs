@@ -1,1 +1,38 @@
-{"y_coordinate": "1933985", "year": "2013", "domestic": false, "case_number": "HW286831", "id": "9141634", "primary_type": "THEFT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.80721294642301, 41.975180555046684]}, "community_area": "10", "latitude": "41.975180555046684", "type": "property", "description": "OVER $500", "beat": "1613", "date": {"$date": 1369258200000}, "ward": "41", "_id": {"$oid": "51a770883c002ed20d78aab8"}, "iucr": "810", "longitude": "-87.80721294642301", "location_description": "RESTAURANT", "x_coordinate": "1127312", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "052XX N HARLEM AVE"}
+{
+    "y_coordinate": "1933985", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286831", 
+    "id": "9141634", 
+    "primary_type": "THEFT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.80721294642301, 
+            41.975180555046684
+        ]
+    }, 
+    "community_area": "10", 
+    "latitude": "41.975180555046684", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1613", 
+    "date": {
+        "$date": 1369258200000
+    }, 
+    "ward": "41", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aab8"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.80721294642301", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1127312", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "052XX N HARLEM AVE"
+}

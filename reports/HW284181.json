@@ -1,1 +1,38 @@
-{"y_coordinate": "1886558", "year": "2013", "domestic": false, "case_number": "HW284181", "id": "9139068", "primary_type": "BURGLARY", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.63615967268017, 41.84411862812158]}, "community_area": "34", "latitude": "41.84411862812158", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "0914", "date": {"$date": 1369130280000}, "ward": "11", "_id": {"$oid": "51a61f0f3c002ed20d78a951"}, "iucr": "620", "longitude": "-87.63615967268017", "location_description": "RESIDENCE", "x_coordinate": "1174213", "updated_on": {"$date": 1370651988000}, "fbi_code": "05", "block": "003XX W 27TH ST"}
+{
+    "y_coordinate": "1886558", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284181", 
+    "id": "9139068", 
+    "primary_type": "BURGLARY", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63615967268017, 
+            41.84411862812158
+        ]
+    }, 
+    "community_area": "34", 
+    "latitude": "41.84411862812158", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "0914", 
+    "date": {
+        "$date": 1369130280000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a951"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.63615967268017", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1174213", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "05", 
+    "block": "003XX W 27TH ST"
+}

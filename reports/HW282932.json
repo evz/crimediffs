@@ -1,1 +1,38 @@
-{"y_coordinate": "1898688", "year": "2013", "domestic": false, "case_number": "HW282932", "id": "9137892", "primary_type": "BATTERY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77309993263042, 41.87815609322719]}, "community_area": "25", "latitude": "41.87815609322719", "type": null, "description": "SIMPLE", "beat": "1513", "date": {"$date": 1369056600000}, "ward": "29", "_id": {"$oid": "51a4cd913c002ed20d78a51e"}, "iucr": "460", "longitude": "-87.77309993263042", "location_description": "SIDEWALK", "x_coordinate": "1136819", "updated_on": {"$date": 1369269615000}, "fbi_code": "08B", "block": "001XX S MASON AVE"}
+{
+    "y_coordinate": "1898688", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW282932", 
+    "id": "9137892", 
+    "primary_type": "BATTERY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77309993263042, 
+            41.87815609322719
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.87815609322719", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1513", 
+    "date": {
+        "$date": 1369056600000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a51e"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.77309993263042", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1136819", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "08B", 
+    "block": "001XX S MASON AVE"
+}

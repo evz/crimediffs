@@ -1,1 +1,38 @@
-{"y_coordinate": "1902915", "year": "2013", "domestic": true, "case_number": "HW287377", "id": "9142320", "primary_type": "OTHER OFFENSE", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76790117177342, 41.889730556025384]}, "community_area": "25", "latitude": "41.889730556025384", "type": null, "description": "TELEPHONE THREAT", "beat": "1512", "date": {"$date": 1369307100000}, "ward": "29", "_id": {"$oid": "51aa13973c002ed20d78b386"}, "iucr": "2820", "longitude": "-87.76790117177342", "location_description": "APARTMENT", "x_coordinate": "1138207", "updated_on": {"$date": 1369528777000}, "fbi_code": "26", "block": "005XX N WALLER AVE"}
+{
+    "y_coordinate": "1902915", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW287377", 
+    "id": "9142320", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76790117177342, 
+            41.889730556025384
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.889730556025384", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "1512", 
+    "date": {
+        "$date": 1369307100000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b386"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.76790117177342", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1138207", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "26", 
+    "block": "005XX N WALLER AVE"
+}

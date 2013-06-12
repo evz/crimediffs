@@ -1,1 +1,38 @@
-{"y_coordinate": "1858519", "year": "2013", "domestic": false, "case_number": "HW303300", "id": "9157936", "primary_type": "BATTERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.57372549915756, 41.76677597034481]}, "community_area": "43", "latitude": "41.76677597034481", "type": "violent", "description": "AGGRAVATED: HANDGUN", "beat": "0331", "date": {"$date": 1370296920000}, "ward": "5", "_id": {"$oid": "51b742973c002ed20d78d24f"}, "iucr": "041A", "longitude": "-87.57372549915756", "location_description": "SIDEWALK", "x_coordinate": "1191474", "updated_on": {"$date": 1370479286000}, "fbi_code": "04B", "block": "070XX S CLYDE AVE"}
+{
+    "y_coordinate": "1858519", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303300", 
+    "id": "9157936", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57372549915756, 
+            41.76677597034481
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76677597034481", 
+    "type": "violent", 
+    "description": "AGGRAVATED: HANDGUN", 
+    "beat": "0331", 
+    "date": {
+        "$date": 1370296920000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51b742973c002ed20d78d24f"
+    }, 
+    "iucr": "041A", 
+    "longitude": "-87.57372549915756", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1191474", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "04B", 
+    "block": "070XX S CLYDE AVE"
+}

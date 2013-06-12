@@ -1,1 +1,38 @@
-{"y_coordinate": "1868403", "year": "2013", "domestic": false, "case_number": "HW301287", "id": "9155517", "primary_type": "THEFT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69367730962935, 41.794631035661055]}, "community_area": "63", "latitude": "41.794631035661055", "type": "property", "description": "OVER $500", "beat": "0923", "date": {"$date": 1370133000000}, "ward": "14", "_id": {"$oid": "51b5f11d3c002ed20d78ceeb"}, "iucr": "810", "longitude": "-87.69367730962935", "location_description": "RESIDENCE", "x_coordinate": "1158675", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "054XX S CALIFORNIA AVE"}
+{
+    "y_coordinate": "1868403", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301287", 
+    "id": "9155517", 
+    "primary_type": "THEFT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69367730962935, 
+            41.794631035661055
+        ]
+    }, 
+    "community_area": "63", 
+    "latitude": "41.794631035661055", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0923", 
+    "date": {
+        "$date": 1370133000000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78ceeb"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.69367730962935", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1158675", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "054XX S CALIFORNIA AVE"
+}

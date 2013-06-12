@@ -1,1 +1,38 @@
-{"y_coordinate": "1856864", "year": "2013", "domestic": false, "case_number": "HW298255", "id": "9153043", "primary_type": "THEFT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58637592886964, 41.76231710783698]}, "community_area": "43", "latitude": "41.76231710783698", "type": "property", "description": "POCKET-PICKING", "beat": "0324", "date": {"$date": 1369200600000}, "ward": "5", "_id": {"$oid": "51b34a1e3c002ed20d78cb78"}, "iucr": "870", "longitude": "-87.58637592886964", "location_description": "BANK", "x_coordinate": "1188037", "updated_on": {"$date": 1370306580000}, "fbi_code": "06", "block": "073XX S STONY ISLAND AVE"}
+{
+    "y_coordinate": "1856864", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW298255", 
+    "id": "9153043", 
+    "primary_type": "THEFT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58637592886964, 
+            41.76231710783698
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76231710783698", 
+    "type": "property", 
+    "description": "POCKET-PICKING", 
+    "beat": "0324", 
+    "date": {
+        "$date": 1369200600000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51b34a1e3c002ed20d78cb78"
+    }, 
+    "iucr": "870", 
+    "longitude": "-87.58637592886964", 
+    "location_description": "BANK", 
+    "x_coordinate": "1188037", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "06", 
+    "block": "073XX S STONY ISLAND AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1902003", "year": "2013", "domestic": false, "case_number": "HW286801", "id": "9141587", "primary_type": "NARCOTICS", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.7569172320758, 41.887173195654476]}, "community_area": "25", "latitude": "41.887173195654476", "type": "quality", "description": "POSS: CRACK", "beat": "1523", "date": {"$date": 1369258800000}, "ward": "28", "_id": {"$oid": "51a770883c002ed20d78aab3"}, "iucr": "2027", "longitude": "-87.7569172320758", "location_description": "ALLEY", "x_coordinate": "1141204", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "052XX W LAKE ST"}
+{
+    "y_coordinate": "1902003", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286801", 
+    "id": "9141587", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7569172320758, 
+            41.887173195654476
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.887173195654476", 
+    "type": "quality", 
+    "description": "POSS: CRACK", 
+    "beat": "1523", 
+    "date": {
+        "$date": 1369258800000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aab3"
+    }, 
+    "iucr": "2027", 
+    "longitude": "-87.7569172320758", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1141204", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "052XX W LAKE ST"
+}

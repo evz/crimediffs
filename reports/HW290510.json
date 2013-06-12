@@ -1,1 +1,38 @@
-{"y_coordinate": "1893023", "year": "2013", "domestic": false, "case_number": "HW290510", "id": "9145304", "primary_type": "MOTOR VEHICLE THEFT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71379989604748, 41.86230530821898]}, "community_area": "29", "latitude": "41.86230530821898", "type": "property", "description": "TRUCK, BUS, MOTOR HOME", "beat": "1021", "date": {"$date": 1369436400000}, "ward": "24", "_id": {"$oid": "51aa138c3c002ed20d78ae40"}, "iucr": "915", "longitude": "-87.71379989604748", "location_description": "DRIVEWAY - RESIDENTIAL", "x_coordinate": "1153010", "updated_on": {"$date": 1369701613000}, "fbi_code": "07", "block": "035XX W DOUGLAS BLVD"}
+{
+    "y_coordinate": "1893023", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290510", 
+    "id": "9145304", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71379989604748, 
+            41.86230530821898
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.86230530821898", 
+    "type": "property", 
+    "description": "TRUCK, BUS, MOTOR HOME", 
+    "beat": "1021", 
+    "date": {
+        "$date": 1369436400000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae40"
+    }, 
+    "iucr": "915", 
+    "longitude": "-87.71379989604748", 
+    "location_description": "DRIVEWAY - RESIDENTIAL", 
+    "x_coordinate": "1153010", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "07", 
+    "block": "035XX W DOUGLAS BLVD"
+}

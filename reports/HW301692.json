@@ -1,1 +1,38 @@
-{"y_coordinate": "1828120", "year": "2013", "domestic": false, "case_number": "HW301692", "id": "9155920", "primary_type": "NARCOTICS", "district": "005", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64712206083973, 41.68381330735016]}, "community_area": "53", "latitude": "41.68381330735016", "type": "quality", "description": "POSS: CRACK", "beat": "0524", "date": {"$date": 1370206200000}, "ward": "34", "_id": {"$oid": "51b5f1173c002ed20d78cc5f"}, "iucr": "2027", "longitude": "-87.64712206083973", "location_description": "SIDEWALK", "x_coordinate": "1171692", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "115XX S MORGAN ST"}
+{
+    "y_coordinate": "1828120", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301692", 
+    "id": "9155920", 
+    "primary_type": "NARCOTICS", 
+    "district": "005", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64712206083973, 
+            41.68381330735016
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.68381330735016", 
+    "type": "quality", 
+    "description": "POSS: CRACK", 
+    "beat": "0524", 
+    "date": {
+        "$date": 1370206200000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b5f1173c002ed20d78cc5f"
+    }, 
+    "iucr": "2027", 
+    "longitude": "-87.64712206083973", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1171692", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "115XX S MORGAN ST"
+}

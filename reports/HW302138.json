@@ -1,1 +1,38 @@
-{"y_coordinate": "1876576", "year": "2013", "domestic": false, "case_number": "HW302138", "id": "9156391", "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.61055561046285, 41.81656710160763]}, "community_area": "38", "latitude": "41.81656710160763", "type": null, "description": "OBSTRUCTING IDENTIFICATION", "beat": "0221", "date": {"$date": 1370177100000}, "ward": "4", "_id": {"$oid": "51b5f11b3c002ed20d78cdb7"}, "iucr": "3731", "longitude": "-87.61055561046285", "location_description": "SIDEWALK", "x_coordinate": "1181274", "updated_on": {"$date": 1370392932000}, "fbi_code": "24", "block": "043XX S CHAMPLAIN AVE"}
+{
+    "y_coordinate": "1876576", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302138", 
+    "id": "9156391", 
+    "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61055561046285, 
+            41.81656710160763
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.81656710160763", 
+    "type": null, 
+    "description": "OBSTRUCTING IDENTIFICATION", 
+    "beat": "0221", 
+    "date": {
+        "$date": 1370177100000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cdb7"
+    }, 
+    "iucr": "3731", 
+    "longitude": "-87.61055561046285", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1181274", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "24", 
+    "block": "043XX S CHAMPLAIN AVE"
+}

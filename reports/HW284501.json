@@ -1,1 +1,38 @@
-{"y_coordinate": "1857856", "year": "2013", "domestic": false, "case_number": "HW284501", "id": "9139372", "primary_type": "BATTERY", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.65305605641453, 41.76545362224005]}, "community_area": "68", "latitude": "41.76545362224005", "type": "violent", "description": "AGGRAVATED: OTHER DANG WEAPON", "beat": "0733", "date": {"$date": 1369140300000}, "ward": "17", "_id": {"$oid": "51a61f0e3c002ed20d78a8d5"}, "iucr": "430", "longitude": "-87.65305605641453", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1169836", "updated_on": {"$date": 1369356045000}, "fbi_code": "04B", "block": "070XX S MAY ST"}
+{
+    "y_coordinate": "1857856", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284501", 
+    "id": "9139372", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65305605641453, 
+            41.76545362224005
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.76545362224005", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "0733", 
+    "date": {
+        "$date": 1369140300000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a8d5"
+    }, 
+    "iucr": "430", 
+    "longitude": "-87.65305605641453", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1169836", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "04B", 
+    "block": "070XX S MAY ST"
+}

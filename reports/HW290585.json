@@ -1,1 +1,38 @@
-{"y_coordinate": "1862728", "year": "2013", "domestic": false, "case_number": "HW290585", "id": "9145268", "primary_type": "WEAPONS VIOLATION", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.61573364973046, 41.778596764294534]}, "community_area": "69", "latitude": "41.778596764294534", "type": null, "description": "UNLAWFUL POSS OF HANDGUN", "beat": "0312", "date": {"$date": 1369494900000}, "ward": "20", "_id": {"$oid": "51b34a103c002ed20d78ca1d"}, "iucr": "143A", "longitude": "-87.61573364973046", "location_description": "APARTMENT", "x_coordinate": "1179978", "updated_on": {"$date": 1370047283000}, "fbi_code": "15", "block": "063XX S DR MARTIN LUTHER KING JR DR"}
+{
+    "y_coordinate": "1862728", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290585", 
+    "id": "9145268", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61573364973046, 
+            41.778596764294534
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.778596764294534", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "0312", 
+    "date": {
+        "$date": 1369494900000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78ca1d"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.61573364973046", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1179978", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "15", 
+    "block": "063XX S DR MARTIN LUTHER KING JR DR"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1920015", "year": "2013", "domestic": false, "case_number": "HW283245", "id": "9137966", "primary_type": "BURGLARY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.78573417544595, 41.93674341551558]}, "community_area": "19", "latitude": "41.93674341551558", "type": "property", "description": "FORCIBLE ENTRY", "beat": "2511", "date": {"$date": 1369067640000}, "ward": "36", "_id": {"$oid": "51a4cd903c002ed20d78a491"}, "iucr": "610", "longitude": "-87.78573417544595", "location_description": "RESIDENCE", "x_coordinate": "1133242", "updated_on": {"$date": 1370651988000}, "fbi_code": "05", "block": "031XX N NARRAGANSETT AVE"}
+{
+    "y_coordinate": "1920015", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283245", 
+    "id": "9137966", 
+    "primary_type": "BURGLARY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78573417544595, 
+            41.93674341551558
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.93674341551558", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "2511", 
+    "date": {
+        "$date": 1369067640000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a491"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.78573417544595", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1133242", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "05", 
+    "block": "031XX N NARRAGANSETT AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1874336", "year": "2013", "domestic": false, "case_number": "HW302598", "id": "9157342", "primary_type": "ROBBERY", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60767210138162, 41.810401750139576]}, "community_area": "38", "latitude": "41.810401750139576", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "0221", "date": {"$date": 1370266920000}, "ward": "4", "_id": {"$oid": "51b7429d3c002ed20d78d3fb"}, "iucr": "320", "longitude": "-87.60767210138162", "location_description": "STREET", "x_coordinate": "1182079", "updated_on": {"$date": 1370911182000}, "fbi_code": "03", "block": "046XX S EVANS AVE"}
+{
+    "y_coordinate": "1874336", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302598", 
+    "id": "9157342", 
+    "primary_type": "ROBBERY", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60767210138162, 
+            41.810401750139576
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.810401750139576", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0221", 
+    "date": {
+        "$date": 1370266920000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51b7429d3c002ed20d78d3fb"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.60767210138162", 
+    "location_description": "STREET", 
+    "x_coordinate": "1182079", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "03", 
+    "block": "046XX S EVANS AVE"
+}

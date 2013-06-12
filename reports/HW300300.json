@@ -1,1 +1,33 @@
-{"community_area": "43", "_id": {"$oid": "51b5f11f3c002ed20d78d01d"}, "primary_type": "BATTERY", "beat": "0333", "year": "2013", "domestic": true, "iucr": "486", "arrest": false, "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "location": {"type": "Point", "coordinates": [-87.57614526752204, 41.76580125399895]}, "case_number": "HW300300", "date": {"$date": 1370107200000}, "updated_on": {"$date": 1370651988000}, "ward": "5", "fbi_code": "08B", "type": null, "id": "9155769", "block": "071XX S JEFFERY BLVD", "description": "DOMESTIC BATTERY SIMPLE"}
+{
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d01d"
+    }, 
+    "primary_type": "BATTERY", 
+    "year": "2013", 
+    "beat": "0333", 
+    "case_number": "HW300300", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57614526752204, 
+            41.76580125399895
+        ]
+    }, 
+    "community_area": "43", 
+    "date": {
+        "$date": 1370107200000
+    }, 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "ward": "5", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9155769", 
+    "block": "071XX S JEFFERY BLVD", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1897354", "year": "2013", "domestic": false, "case_number": "HW285985", "id": "9140793", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67409854426705, 41.87396963549088]}, "community_area": "28", "latitude": "41.87396963549088", "type": "property", "description": "FROM BUILDING", "beat": "1231", "date": {"$date": 1369224000000}, "ward": "2", "_id": {"$oid": "51a7708c3c002ed20d78ac82"}, "iucr": "890", "longitude": "-87.67409854426705", "location_description": "HOSPITAL BUILDING/GROUNDS", "x_coordinate": "1163792", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "019XX W HARRISON ST"}
+{
+    "y_coordinate": "1897354", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285985", 
+    "id": "9140793", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67409854426705, 
+            41.87396963549088
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.87396963549088", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1231", 
+    "date": {
+        "$date": 1369224000000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac82"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.67409854426705", 
+    "location_description": "HOSPITAL BUILDING/GROUNDS", 
+    "x_coordinate": "1163792", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "019XX W HARRISON ST"
+}

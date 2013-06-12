@@ -1,1 +1,38 @@
-{"y_coordinate": "1917215", "year": "2013", "domestic": false, "case_number": "HW283801", "id": "9138302", "primary_type": "MOTOR VEHICLE THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74980581523704, 41.92888261134053]}, "community_area": "19", "latitude": "41.92888261134053", "type": "property", "description": "AUTOMOBILE", "beat": "2521", "date": {"$date": 1369072800000}, "ward": "31", "_id": {"$oid": "51a4cd8f3c002ed20d78a44b"}, "iucr": "910", "longitude": "-87.74980581523704", "location_description": "STREET", "x_coordinate": "1143037", "updated_on": {"$date": 1370133629000}, "fbi_code": "07", "block": "049XX W DRUMMOND PL"}
+{
+    "y_coordinate": "1917215", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283801", 
+    "id": "9138302", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74980581523704, 
+            41.92888261134053
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.92888261134053", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "2521", 
+    "date": {
+        "$date": 1369072800000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a44b"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.74980581523704", 
+    "location_description": "STREET", 
+    "x_coordinate": "1143037", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "07", 
+    "block": "049XX W DRUMMOND PL"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1905922", "year": "2013", "domestic": false, "case_number": "HW290101", "id": "9144971", "primary_type": "MOTOR VEHICLE THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71287390480029, 41.8976983651734]}, "community_area": "23", "latitude": "41.8976983651734", "type": "property", "description": "THEFT/RECOVERY: AUTOMOBILE", "beat": "1121", "date": {"$date": 1369429200000}, "ward": "27", "_id": {"$oid": "51aa138d3c002ed20d78ae96"}, "iucr": "930", "longitude": "-87.71287390480029", "location_description": "STREET", "x_coordinate": "1153169", "updated_on": {"$date": 1370047283000}, "fbi_code": "07", "block": "009XX N TRUMBULL AVE"}
+{
+    "y_coordinate": "1905922", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290101", 
+    "id": "9144971", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71287390480029, 
+            41.8976983651734
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.8976983651734", 
+    "type": "property", 
+    "description": "THEFT/RECOVERY: AUTOMOBILE", 
+    "beat": "1121", 
+    "date": {
+        "$date": 1369429200000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78ae96"
+    }, 
+    "iucr": "930", 
+    "longitude": "-87.71287390480029", 
+    "location_description": "STREET", 
+    "x_coordinate": "1153169", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "07", 
+    "block": "009XX N TRUMBULL AVE"
+}

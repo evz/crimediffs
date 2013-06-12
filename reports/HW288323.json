@@ -1,1 +1,38 @@
-{"y_coordinate": "1841821", "year": "2013", "domestic": false, "case_number": "HW288323", "id": "9143331", "primary_type": "CRIM SEXUAL ASSAULT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62043067856877, 41.72125084891287]}, "community_area": "49", "latitude": "41.72125084891287", "type": "violent", "description": "ATTEMPT AGG: KNIFE/CUT INSTR", "beat": "0511", "date": {"$date": 1369321500000}, "ward": "6", "_id": {"$oid": "51aa13963c002ed20d78b2ea"}, "iucr": "273", "longitude": "-87.62043067856877", "location_description": "SIDEWALK", "x_coordinate": "1178870", "updated_on": {"$date": 1370479286000}, "fbi_code": "02", "block": "095XX S MICHIGAN AVE"}
+{
+    "y_coordinate": "1841821", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288323", 
+    "id": "9143331", 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62043067856877, 
+            41.72125084891287
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.72125084891287", 
+    "type": "violent", 
+    "description": "ATTEMPT AGG: KNIFE/CUT INSTR", 
+    "beat": "0511", 
+    "date": {
+        "$date": 1369321500000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b2ea"
+    }, 
+    "iucr": "273", 
+    "longitude": "-87.62043067856877", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1178870", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "02", 
+    "block": "095XX S MICHIGAN AVE"
+}

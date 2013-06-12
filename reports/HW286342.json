@@ -1,1 +1,38 @@
-{"y_coordinate": "1829485", "year": "2013", "domestic": false, "case_number": "HW286342", "id": "9141294", "primary_type": "ASSAULT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66375030971487, 41.68765740977703]}, "community_area": "75", "latitude": "41.68765740977703", "type": null, "description": "SIMPLE", "beat": "2234", "date": {"$date": 1369236900000}, "ward": "34", "_id": {"$oid": "51a7708a3c002ed20d78abbe"}, "iucr": "560", "longitude": "-87.66375030971487", "location_description": "SIDEWALK", "x_coordinate": "1167139", "updated_on": {"$date": 1369442383000}, "fbi_code": "08A", "block": "016XX W MONTVALE AVE"}
+{
+    "y_coordinate": "1829485", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286342", 
+    "id": "9141294", 
+    "primary_type": "ASSAULT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66375030971487, 
+            41.68765740977703
+        ]
+    }, 
+    "community_area": "75", 
+    "latitude": "41.68765740977703", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2234", 
+    "date": {
+        "$date": 1369236900000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78abbe"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.66375030971487", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1167139", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08A", 
+    "block": "016XX W MONTVALE AVE"
+}

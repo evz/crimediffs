@@ -1,1 +1,38 @@
-{"y_coordinate": "1873776", "year": "2013", "domestic": false, "case_number": "HW301870", "id": "9156041", "primary_type": "PUBLIC PEACE VIOLATION", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72256544474114, 41.80953330301398]}, "community_area": "57", "latitude": "41.80953330301398", "type": null, "description": "MOB ACTION", "beat": "0821", "date": {"$date": 1370218560000}, "ward": "14", "_id": {"$oid": "51b5f1153c002ed20d78cbd7"}, "iucr": "3100", "longitude": "-87.72256544474114", "location_description": "STREET", "x_coordinate": "1150759", "updated_on": {"$date": 1370392932000}, "fbi_code": "24", "block": "046XX S HARDING AVE"}
+{
+    "y_coordinate": "1873776", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301870", 
+    "id": "9156041", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72256544474114, 
+            41.80953330301398
+        ]
+    }, 
+    "community_area": "57", 
+    "latitude": "41.80953330301398", 
+    "type": null, 
+    "description": "MOB ACTION", 
+    "beat": "0821", 
+    "date": {
+        "$date": 1370218560000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbd7"
+    }, 
+    "iucr": "3100", 
+    "longitude": "-87.72256544474114", 
+    "location_description": "STREET", 
+    "x_coordinate": "1150759", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "24", 
+    "block": "046XX S HARDING AVE"
+}

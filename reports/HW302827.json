@@ -1,1 +1,38 @@
-{"y_coordinate": "1871065", "year": "2013", "domestic": false, "case_number": "HW302827", "id": "9157422", "primary_type": "CRIMINAL TRESPASS", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62086577293779, 41.80150780938851]}, "community_area": "40", "latitude": "41.80150780938851", "type": null, "description": "TO RESIDENCE", "beat": "0231", "date": {"$date": 1370275020000}, "ward": "3", "_id": {"$oid": "51b7429c3c002ed20d78d398"}, "iucr": "1365", "longitude": "-87.62086577293779", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1178509", "updated_on": {"$date": 1370479286000}, "fbi_code": "26", "block": "051XX S INDIANA AVE"}
+{
+    "y_coordinate": "1871065", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302827", 
+    "id": "9157422", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62086577293779, 
+            41.80150780938851
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.80150780938851", 
+    "type": null, 
+    "description": "TO RESIDENCE", 
+    "beat": "0231", 
+    "date": {
+        "$date": 1370275020000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51b7429c3c002ed20d78d398"
+    }, 
+    "iucr": "1365", 
+    "longitude": "-87.62086577293779", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1178509", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "26", 
+    "block": "051XX S INDIANA AVE"
+}

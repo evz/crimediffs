@@ -1,1 +1,38 @@
-{"y_coordinate": "1897103", "year": "2013", "domestic": false, "case_number": "HW284214", "id": "9138963", "primary_type": "OTHER OFFENSE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66321601749183, 41.87321784439901]}, "community_area": "28", "latitude": "41.87321784439901", "type": null, "description": "TELEPHONE THREAT", "beat": "1231", "date": {"$date": 1369105200000}, "ward": "25", "_id": {"$oid": "51a4cd8a3c002ed20d78a2fe"}, "iucr": "2820", "longitude": "-87.66321601749183", "location_description": "RESIDENCE", "x_coordinate": "1166758", "updated_on": {"$date": 1369356045000}, "fbi_code": "26", "block": "014XX W FLOURNOY ST"}
+{
+    "y_coordinate": "1897103", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284214", 
+    "id": "9138963", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66321601749183, 
+            41.87321784439901
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.87321784439901", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "1231", 
+    "date": {
+        "$date": 1369105200000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51a4cd8a3c002ed20d78a2fe"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.66321601749183", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1166758", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "26", 
+    "block": "014XX W FLOURNOY ST"
+}

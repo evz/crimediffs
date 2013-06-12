@@ -1,1 +1,38 @@
-{"y_coordinate": "1875941", "year": "2013", "domestic": false, "case_number": "HW284829", "id": "20886", "primary_type": "HOMICIDE", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66742750193285, 41.81516826281829]}, "community_area": "61", "latitude": "41.81516826281829", "type": "violent", "description": "FIRST DEGREE MURDER", "beat": "0924", "date": {"$date": 1369157700000}, "ward": "12", "_id": {"$oid": "51a61f0b3c002ed20d78a7ea"}, "iucr": "110", "longitude": "-87.66742750193285", "location_description": "GANGWAY", "x_coordinate": "1165775", "updated_on": {"$date": 1369289802000}, "fbi_code": "01A", "block": "043XX S PAULINA ST"}
+{
+    "y_coordinate": "1875941", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284829", 
+    "id": "20886", 
+    "primary_type": "HOMICIDE", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66742750193285, 
+            41.81516826281829
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.81516826281829", 
+    "type": "violent", 
+    "description": "FIRST DEGREE MURDER", 
+    "beat": "0924", 
+    "date": {
+        "$date": 1369157700000
+    }, 
+    "ward": "12", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a7ea"
+    }, 
+    "iucr": "110", 
+    "longitude": "-87.66742750193285", 
+    "location_description": "GANGWAY", 
+    "x_coordinate": "1165775", 
+    "updated_on": {
+        "$date": 1369289802000
+    }, 
+    "fbi_code": "01A", 
+    "block": "043XX S PAULINA ST"
+}

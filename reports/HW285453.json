@@ -1,1 +1,38 @@
-{"y_coordinate": "1878741", "year": "2013", "domestic": true, "case_number": "HW285453", "id": "9140335", "primary_type": "BATTERY", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.61632177321306, 41.82254458530908]}, "community_area": "38", "latitude": "41.82254458530908", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0214", "date": {"$date": 1369188900000}, "ward": "3", "_id": {"$oid": "51a61f053c002ed20d78a687"}, "iucr": "486", "longitude": "-87.61632177321306", "location_description": "APARTMENT", "x_coordinate": "1179684", "updated_on": {"$date": 1369615194000}, "fbi_code": "08B", "block": "004XX E OAKWOOD BLVD"}
+{
+    "y_coordinate": "1878741", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285453", 
+    "id": "9140335", 
+    "primary_type": "BATTERY", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61632177321306, 
+            41.82254458530908
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.82254458530908", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0214", 
+    "date": {
+        "$date": 1369188900000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51a61f053c002ed20d78a687"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.61632177321306", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1179684", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08B", 
+    "block": "004XX E OAKWOOD BLVD"
+}

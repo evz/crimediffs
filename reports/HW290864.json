@@ -1,1 +1,38 @@
-{"y_coordinate": "1904357", "year": "2013", "domestic": false, "case_number": "HW290864", "id": "9145407", "primary_type": "PUBLIC PEACE VIOLATION", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72250480889825, 41.89345526075384]}, "community_area": "23", "latitude": "41.89345526075384", "type": null, "description": "RECKLESS CONDUCT", "beat": "1122", "date": {"$date": 1369511400000}, "ward": "27", "_id": {"$oid": "51b34a0f3c002ed20d78c948"}, "iucr": "470", "longitude": "-87.72250480889825", "location_description": "STREET", "x_coordinate": "1150558", "updated_on": {"$date": 1369701613000}, "fbi_code": "24", "block": "038XX W HURON ST"}
+{
+    "y_coordinate": "1904357", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290864", 
+    "id": "9145407", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72250480889825, 
+            41.89345526075384
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.89345526075384", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "1122", 
+    "date": {
+        "$date": 1369511400000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c948"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.72250480889825", 
+    "location_description": "STREET", 
+    "x_coordinate": "1150558", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "24", 
+    "block": "038XX W HURON ST"
+}

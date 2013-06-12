@@ -1,1 +1,38 @@
-{"y_coordinate": "1894708", "year": "2013", "domestic": false, "case_number": "HW290459", "id": "9145190", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72401980266298, 41.86698405457467]}, "community_area": "29", "latitude": "41.86698405457467", "type": "quality", "description": "MANU/DEL:CANNABIS OVER 10 GMS", "beat": "1132", "date": {"$date": 1369485000000}, "ward": "24", "_id": {"$oid": "51b34a113c002ed20d78ca81"}, "iucr": "1822", "longitude": "-87.72401980266298", "location_description": "STREET", "x_coordinate": "1150214", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "039XX W GRENSHAW ST"}
+{
+    "y_coordinate": "1894708", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290459", 
+    "id": "9145190", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72401980266298, 
+            41.86698405457467
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.86698405457467", 
+    "type": "quality", 
+    "description": "MANU/DEL:CANNABIS OVER 10 GMS", 
+    "beat": "1132", 
+    "date": {
+        "$date": 1369485000000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca81"
+    }, 
+    "iucr": "1822", 
+    "longitude": "-87.72401980266298", 
+    "location_description": "STREET", 
+    "x_coordinate": "1150214", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "039XX W GRENSHAW ST"
+}

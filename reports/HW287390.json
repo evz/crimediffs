@@ -1,1 +1,38 @@
-{"y_coordinate": "1858665", "year": "2013", "domestic": false, "case_number": "HW287390", "id": "9142410", "primary_type": "MOTOR VEHICLE THEFT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6226902240126, 41.76748994433936]}, "community_area": "69", "latitude": "41.76748994433936", "type": "property", "description": "AUTOMOBILE", "beat": "0322", "date": {"$date": 1369263600000}, "ward": "6", "_id": {"$oid": "51a770873c002ed20d78aa6f"}, "iucr": "910", "longitude": "-87.6226902240126", "location_description": "STREET", "x_coordinate": "1178114", "updated_on": {"$date": 1370651988000}, "fbi_code": "07", "block": "0000X E 70TH ST"}
+{
+    "y_coordinate": "1858665", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287390", 
+    "id": "9142410", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6226902240126, 
+            41.76748994433936
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.76748994433936", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0322", 
+    "date": {
+        "$date": 1369263600000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a770873c002ed20d78aa6f"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.6226902240126", 
+    "location_description": "STREET", 
+    "x_coordinate": "1178114", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "07", 
+    "block": "0000X E 70TH ST"
+}

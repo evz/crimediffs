@@ -1,1 +1,38 @@
-{"y_coordinate": "1910685", "year": "2013", "domestic": false, "case_number": "HW292414", "id": "9146727", "primary_type": "THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.78521463901076, 41.91113726037708]}, "community_area": "25", "latitude": "41.91113726037708", "type": "property", "description": "FROM BUILDING", "beat": "2513", "date": {"$date": 1369431000000}, "ward": "36", "_id": {"$oid": "51aa138d3c002ed20d78ae83"}, "iucr": "890", "longitude": "-87.78521463901076", "location_description": "ATHLETIC CLUB", "x_coordinate": "1133443", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "017XX N NARRAGANSETT AVE"}
+{
+    "y_coordinate": "1910685", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW292414", 
+    "id": "9146727", 
+    "primary_type": "THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78521463901076, 
+            41.91113726037708
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.91113726037708", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "2513", 
+    "date": {
+        "$date": 1369431000000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78ae83"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.78521463901076", 
+    "location_description": "ATHLETIC CLUB", 
+    "x_coordinate": "1133443", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "017XX N NARRAGANSETT AVE"
+}

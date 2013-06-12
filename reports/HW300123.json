@@ -1,1 +1,38 @@
-{"y_coordinate": "1918042", "year": "2013", "domestic": false, "case_number": "HW300123", "id": "9154714", "primary_type": "THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72343652260675, 41.931015046751924]}, "community_area": "22", "latitude": "41.931015046751924", "type": "property", "description": "OVER $500", "beat": "2524", "date": {"$date": 1370101860000}, "ward": "30", "_id": {"$oid": "51b5f11f3c002ed20d78d04b"}, "iucr": "810", "longitude": "-87.72343652260675", "location_description": "PARK PROPERTY", "x_coordinate": "1150207", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "027XX N AVERS AVE"}
+{
+    "y_coordinate": "1918042", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300123", 
+    "id": "9154714", 
+    "primary_type": "THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72343652260675, 
+            41.931015046751924
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.931015046751924", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "2524", 
+    "date": {
+        "$date": 1370101860000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d04b"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.72343652260675", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1150207", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "027XX N AVERS AVE"
+}

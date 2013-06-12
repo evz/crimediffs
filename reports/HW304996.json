@@ -1,1 +1,38 @@
-{"y_coordinate": "1923151", "year": "2013", "domestic": false, "case_number": "HW304996", "id": "9159922", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65043791853071, 41.94462429221903]}, "community_area": "6", "latitude": "41.94462429221903", "type": "property", "description": "$500 AND UNDER", "beat": "1924", "date": {"$date": 1370214000000}, "ward": "44", "_id": {"$oid": "51b5f1163c002ed20d78cc07"}, "iucr": "820", "longitude": "-87.65043791853071", "location_description": "STREET", "x_coordinate": "1170031", "updated_on": {"$date": 1370651988000}, "fbi_code": "06", "block": "008XX W NEWPORT AVE"}
+{
+    "y_coordinate": "1923151", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW304996", 
+    "id": "9159922", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65043791853071, 
+            41.94462429221903
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.94462429221903", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1924", 
+    "date": {
+        "$date": 1370214000000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51b5f1163c002ed20d78cc07"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.65043791853071", 
+    "location_description": "STREET", 
+    "x_coordinate": "1170031", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "06", 
+    "block": "008XX W NEWPORT AVE"
+}

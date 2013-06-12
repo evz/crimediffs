@@ -1,1 +1,38 @@
-{"y_coordinate": "1866804", "year": "2013", "domestic": false, "case_number": "HW286758", "id": "9141660", "primary_type": "WEAPONS VIOLATION", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62411193909037, 41.78983450952995]}, "community_area": "40", "latitude": "41.78983450952995", "type": null, "description": "UNLAWFUL POSS OF HANDGUN", "beat": "0232", "date": {"$date": 1369252320000}, "ward": "20", "_id": {"$oid": "51a770893c002ed20d78ab0d"}, "iucr": "143A", "longitude": "-87.62411193909037", "location_description": "STREET", "x_coordinate": "1177659", "updated_on": {"$date": 1369442383000}, "fbi_code": "15", "block": "057XX S WABASH AVE"}
+{
+    "y_coordinate": "1866804", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286758", 
+    "id": "9141660", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62411193909037, 
+            41.78983450952995
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.78983450952995", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "0232", 
+    "date": {
+        "$date": 1369252320000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a770893c002ed20d78ab0d"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.62411193909037", 
+    "location_description": "STREET", 
+    "x_coordinate": "1177659", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "15", 
+    "block": "057XX S WABASH AVE"
+}

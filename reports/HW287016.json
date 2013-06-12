@@ -1,1 +1,38 @@
-{"y_coordinate": "1899877", "year": "2013", "domestic": false, "case_number": "HW287016", "id": "9141821", "primary_type": "PROSTITUTION", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.73996466039506, 41.88125258278729]}, "community_area": "26", "latitude": "41.88125258278729", "type": "quality", "description": "SOLICIT ON PUBLIC WAY", "beat": "1113", "date": {"$date": 1369272600000}, "ward": "28", "_id": {"$oid": "51a770853c002ed20d78aa1b"}, "iucr": "1506", "longitude": "-87.73996466039506", "location_description": "SIDEWALK", "x_coordinate": "1145835", "updated_on": {"$date": 1369528777000}, "fbi_code": "16", "block": "0000X N KENTON AVE"}
+{
+    "y_coordinate": "1899877", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287016", 
+    "id": "9141821", 
+    "primary_type": "PROSTITUTION", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73996466039506, 
+            41.88125258278729
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.88125258278729", 
+    "type": "quality", 
+    "description": "SOLICIT ON PUBLIC WAY", 
+    "beat": "1113", 
+    "date": {
+        "$date": 1369272600000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a770853c002ed20d78aa1b"
+    }, 
+    "iucr": "1506", 
+    "longitude": "-87.73996466039506", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1145835", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "16", 
+    "block": "0000X N KENTON AVE"
+}

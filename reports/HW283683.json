@@ -1,1 +1,38 @@
-{"y_coordinate": "1867780", "year": "2013", "domestic": true, "case_number": "HW283683", "id": "9138321", "primary_type": "CRIMINAL DAMAGE", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61606672840382, 41.792462980539774]}, "community_area": "40", "latitude": "41.792462980539774", "type": "quality", "description": "TO VEHICLE", "beat": "0231", "date": {"$date": 1369081560000}, "ward": "20", "_id": {"$oid": "51a4cd8e3c002ed20d78a3c6"}, "iucr": "1320", "longitude": "-87.61606672840382", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1179845", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "056XX S DR MARTIN LUTHER KING JR DR"}
+{
+    "y_coordinate": "1867780", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283683", 
+    "id": "9138321", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61606672840382, 
+            41.792462980539774
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.792462980539774", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0231", 
+    "date": {
+        "$date": 1369081560000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3c6"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.61606672840382", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1179845", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "056XX S DR MARTIN LUTHER KING JR DR"
+}

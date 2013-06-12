@@ -1,1 +1,33 @@
-{"community_area": "77", "_id": {"$oid": "51b5f11c3c002ed20d78ce44"}, "primary_type": "BURGLARY", "beat": "2433", "year": "2013", "domestic": false, "iucr": "610", "arrest": false, "location_description": "APARTMENT", "location": {"type": "Point", "coordinates": [-87.6568551391751, 41.996127045278016]}, "case_number": "HW301664", "date": {"$date": 1370158200000}, "updated_on": {"$date": 1370911182000}, "ward": "48", "fbi_code": "05", "type": "property", "id": "9157734", "block": "062XX N KENMORE AVE", "description": "FORCIBLE ENTRY"}
+{
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce44"
+    }, 
+    "primary_type": "BURGLARY", 
+    "year": "2013", 
+    "beat": "2433", 
+    "case_number": "HW301664", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6568551391751, 
+            41.996127045278016
+        ]
+    }, 
+    "community_area": "77", 
+    "date": {
+        "$date": 1370158200000
+    }, 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "ward": "48", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9157734", 
+    "block": "062XX N KENMORE AVE", 
+    "description": "FORCIBLE ENTRY"
+}

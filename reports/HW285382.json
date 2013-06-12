@@ -1,1 +1,38 @@
-{"y_coordinate": "1873548", "year": "2013", "domestic": false, "case_number": "HW285382", "id": "9141687", "primary_type": "CRIMINAL DAMAGE", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70170510154566, 41.8087947988735]}, "community_area": "58", "latitude": "41.8087947988735", "type": "quality", "description": "TO PROPERTY", "beat": "0922", "date": {"$date": 1369181040000}, "ward": "14", "_id": {"$oid": "51a61f073c002ed20d78a6bb"}, "iucr": "1310", "longitude": "-87.70170510154566", "location_description": "RESIDENCE", "x_coordinate": "1156448", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "046XX S ALBANY AVE"}
+{
+    "y_coordinate": "1873548", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285382", 
+    "id": "9141687", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70170510154566, 
+            41.8087947988735
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.8087947988735", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0922", 
+    "date": {
+        "$date": 1369181040000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51a61f073c002ed20d78a6bb"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.70170510154566", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1156448", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "046XX S ALBANY AVE"
+}

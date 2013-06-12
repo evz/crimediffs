@@ -1,1 +1,38 @@
-{"y_coordinate": "1841660", "year": "2013", "domestic": false, "case_number": "HW283758", "id": "9138358", "primary_type": "BATTERY", "district": "022", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66469654677883, 41.72107511527726]}, "community_area": "72", "latitude": "41.72107511527726", "type": null, "description": "SIMPLE", "beat": "2213", "date": {"$date": 1369085400000}, "ward": "19", "_id": {"$oid": "51a4cd8d3c002ed20d78a398"}, "iucr": "460", "longitude": "-87.66469654677883", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1166786", "updated_on": {"$date": 1369269615000}, "fbi_code": "08B", "block": "016XX W 95TH ST"}
+{
+    "y_coordinate": "1841660", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283758", 
+    "id": "9138358", 
+    "primary_type": "BATTERY", 
+    "district": "022", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66469654677883, 
+            41.72107511527726
+        ]
+    }, 
+    "community_area": "72", 
+    "latitude": "41.72107511527726", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2213", 
+    "date": {
+        "$date": 1369085400000
+    }, 
+    "ward": "19", 
+    "_id": {
+        "$oid": "51a4cd8d3c002ed20d78a398"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.66469654677883", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1166786", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "08B", 
+    "block": "016XX W 95TH ST"
+}

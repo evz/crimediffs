@@ -1,1 +1,38 @@
-{"y_coordinate": "1825921", "year": "2013", "domestic": false, "case_number": "HW300938", "id": "9155313", "primary_type": "MOTOR VEHICLE THEFT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68057953527779, 41.67797340352595]}, "community_area": "75", "latitude": "41.67797340352595", "type": "property", "description": "AUTOMOBILE", "beat": "2212", "date": {"$date": 1370154600000}, "ward": "19", "_id": {"$oid": "51b5f11c3c002ed20d78ce53"}, "iucr": "910", "longitude": "-87.68057953527779", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1162569", "updated_on": {"$date": 1370392932000}, "fbi_code": "07", "block": "118XX S WESTERN AVE"}
+{
+    "y_coordinate": "1825921", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300938", 
+    "id": "9155313", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68057953527779, 
+            41.67797340352595
+        ]
+    }, 
+    "community_area": "75", 
+    "latitude": "41.67797340352595", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "2212", 
+    "date": {
+        "$date": 1370154600000
+    }, 
+    "ward": "19", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce53"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.68057953527779", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1162569", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "07", 
+    "block": "118XX S WESTERN AVE"
+}

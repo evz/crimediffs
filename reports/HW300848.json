@@ -1,1 +1,38 @@
-{"y_coordinate": "1924039", "year": "2013", "domestic": true, "case_number": "HW300848", "id": "9155208", "primary_type": "BATTERY", "district": "017", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70064435206895, 41.947348800799766]}, "community_area": "16", "latitude": "41.947348800799766", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1733", "date": {"$date": 1370152200000}, "ward": "33", "_id": {"$oid": "51b5f11c3c002ed20d78ce58"}, "iucr": "486", "longitude": "-87.70064435206895", "location_description": "RESIDENCE", "x_coordinate": "1156365", "updated_on": {"$date": 1370392932000}, "fbi_code": "08B", "block": "036XX N FRANCISCO AVE"}
+{
+    "y_coordinate": "1924039", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300848", 
+    "id": "9155208", 
+    "primary_type": "BATTERY", 
+    "district": "017", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70064435206895, 
+            41.947348800799766
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.947348800799766", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1733", 
+    "date": {
+        "$date": 1370152200000
+    }, 
+    "ward": "33", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce58"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.70064435206895", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1156365", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "08B", 
+    "block": "036XX N FRANCISCO AVE"
+}

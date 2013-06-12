@@ -1,1 +1,38 @@
-{"y_coordinate": "1854340", "year": "2013", "domestic": false, "case_number": "HW290543", "id": "9145242", "primary_type": "BURGLARY", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.61810832343946, 41.755592422148325]}, "community_area": "69", "latitude": "41.755592422148325", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "0623", "date": {"$date": 1369492080000}, "ward": "6", "_id": {"$oid": "51b34a103c002ed20d78ca42"}, "iucr": "620", "longitude": "-87.61810832343946", "location_description": "STREET", "x_coordinate": "1179400", "updated_on": {"$date": 1369787985000}, "fbi_code": "05", "block": "076XX S PRAIRIE AVE"}
+{
+    "y_coordinate": "1854340", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290543", 
+    "id": "9145242", 
+    "primary_type": "BURGLARY", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61810832343946, 
+            41.755592422148325
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.755592422148325", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "0623", 
+    "date": {
+        "$date": 1369492080000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78ca42"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.61810832343946", 
+    "location_description": "STREET", 
+    "x_coordinate": "1179400", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "05", 
+    "block": "076XX S PRAIRIE AVE"
+}

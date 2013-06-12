@@ -1,1 +1,38 @@
-{"y_coordinate": "1896066", "year": "2013", "domestic": false, "case_number": "HW296406", "id": "9150666", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67160899294868, 41.87042072457394]}, "community_area": "28", "latitude": "41.87042072457394", "type": "property", "description": "FROM BUILDING", "beat": "1231", "date": {"$date": 1369166340000}, "ward": "2", "_id": {"$oid": "51aa139b3c002ed20d78b447"}, "iucr": "890", "longitude": "-87.67160899294868", "location_description": "HOSPITAL BUILDING/GROUNDS", "x_coordinate": "1164480", "updated_on": {"$date": 1370651988000}, "fbi_code": "06", "block": "008XX S WOOD ST"}
+{
+    "y_coordinate": "1896066", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW296406", 
+    "id": "9150666", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67160899294868, 
+            41.87042072457394
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.87042072457394", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1231", 
+    "date": {
+        "$date": 1369166340000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51aa139b3c002ed20d78b447"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.67160899294868", 
+    "location_description": "HOSPITAL BUILDING/GROUNDS", 
+    "x_coordinate": "1164480", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "06", 
+    "block": "008XX S WOOD ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1831308", "year": "2013", "domestic": false, "case_number": "HW290214", "id": "9144945", "primary_type": "BURGLARY", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6082575377989, 41.69232361033403]}, "community_area": "50", "latitude": "41.69232361033403", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0531", "date": {"$date": 1369335600000}, "ward": "9", "_id": {"$oid": "51aa13953c002ed20d78b23b"}, "iucr": "610", "longitude": "-87.6082575377989", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1182282", "updated_on": {"$date": 1370133629000}, "fbi_code": "05", "block": "111XX S ST LAWRENCE AVE"}
+{
+    "y_coordinate": "1831308", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290214", 
+    "id": "9144945", 
+    "primary_type": "BURGLARY", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6082575377989, 
+            41.69232361033403
+        ]
+    }, 
+    "community_area": "50", 
+    "latitude": "41.69232361033403", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0531", 
+    "date": {
+        "$date": 1369335600000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b23b"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.6082575377989", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1182282", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "05", 
+    "block": "111XX S ST LAWRENCE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1857154", "year": "2013", "domestic": false, "case_number": "HW290480", "id": "9145144", "primary_type": "CRIMINAL DAMAGE", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72249608353198, 41.763917298805936]}, "community_area": "65", "latitude": "41.763917298805936", "type": "quality", "description": "TO VEHICLE", "beat": "0833", "date": {"$date": 1369126800000}, "ward": "13", "_id": {"$oid": "51a61f0f3c002ed20d78a96e"}, "iucr": "1320", "longitude": "-87.72249608353198", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1150896", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "071XX S PULASKI RD"}
+{
+    "y_coordinate": "1857154", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290480", 
+    "id": "9145144", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72249608353198, 
+            41.763917298805936
+        ]
+    }, 
+    "community_area": "65", 
+    "latitude": "41.763917298805936", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0833", 
+    "date": {
+        "$date": 1369126800000
+    }, 
+    "ward": "13", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a96e"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.72249608353198", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1150896", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "071XX S PULASKI RD"
+}

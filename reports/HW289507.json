@@ -1,1 +1,38 @@
-{"y_coordinate": "1846506", "year": "2013", "domestic": true, "case_number": "HW289507", "id": "9144543", "primary_type": "BATTERY", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.60534878589506, 41.73401339743361]}, "community_area": "44", "latitude": "41.73401339743361", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0632", "date": {"$date": 1369422000000}, "ward": "6", "_id": {"$oid": "51aa138e3c002ed20d78af0f"}, "iucr": "486", "longitude": "-87.60534878589506", "location_description": "APARTMENT", "x_coordinate": "1182948", "updated_on": {"$date": 1369615194000}, "fbi_code": "08B", "block": "007XX E 88TH PL"}
+{
+    "y_coordinate": "1846506", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289507", 
+    "id": "9144543", 
+    "primary_type": "BATTERY", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60534878589506, 
+            41.73401339743361
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.73401339743361", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0632", 
+    "date": {
+        "$date": 1369422000000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51aa138e3c002ed20d78af0f"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.60534878589506", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1182948", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08B", 
+    "block": "007XX E 88TH PL"
+}

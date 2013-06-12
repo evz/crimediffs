@@ -1,1 +1,38 @@
-{"y_coordinate": "1929473", "year": "2013", "domestic": false, "case_number": "HW289158", "id": "9144389", "primary_type": "BURGLARY", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70965529464156, 41.962310153343886]}, "community_area": "14", "latitude": "41.962310153343886", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1724", "date": {"$date": 1369375200000}, "ward": "33", "_id": {"$oid": "51aa13933c002ed20d78b12f"}, "iucr": "610", "longitude": "-87.70965529464156", "location_description": "APARTMENT", "x_coordinate": "1153874", "updated_on": {"$date": 1370738354000}, "fbi_code": "05", "block": "044XX N SAWYER AVE"}
+{
+    "y_coordinate": "1929473", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289158", 
+    "id": "9144389", 
+    "primary_type": "BURGLARY", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70965529464156, 
+            41.962310153343886
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.962310153343886", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1724", 
+    "date": {
+        "$date": 1369375200000
+    }, 
+    "ward": "33", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b12f"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.70965529464156", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1153874", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "05", 
+    "block": "044XX N SAWYER AVE"
+}

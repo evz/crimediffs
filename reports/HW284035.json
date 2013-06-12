@@ -1,1 +1,38 @@
-{"y_coordinate": "1891694", "year": "2013", "domestic": false, "case_number": "HW284035", "id": "9138701", "primary_type": "ASSAULT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7080280928147, 41.8586269104069]}, "community_area": "29", "latitude": "41.8586269104069", "type": null, "description": "PRO EMP HANDS NO/MIN INJURY", "beat": "1021", "date": {"$date": 1369058400000}, "ward": "24", "_id": {"$oid": "51a4cd913c002ed20d78a509"}, "iucr": "545", "longitude": "-87.7080280928147", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1154592", "updated_on": {"$date": 1369269615000}, "fbi_code": "08A", "block": "016XX S SPAULDING AVE"}
+{
+    "y_coordinate": "1891694", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284035", 
+    "id": "9138701", 
+    "primary_type": "ASSAULT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7080280928147, 
+            41.8586269104069
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.8586269104069", 
+    "type": null, 
+    "description": "PRO EMP HANDS NO/MIN INJURY", 
+    "beat": "1021", 
+    "date": {
+        "$date": 1369058400000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a509"
+    }, 
+    "iucr": "545", 
+    "longitude": "-87.7080280928147", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1154592", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "08A", 
+    "block": "016XX S SPAULDING AVE"
+}

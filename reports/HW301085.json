@@ -1,1 +1,38 @@
-{"y_coordinate": "1904225", "year": "2013", "domestic": false, "case_number": "HW301085", "id": "9155395", "primary_type": "MOTOR VEHICLE THEFT", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7578430191023, 41.89327555272918]}, "community_area": "25", "latitude": "41.89327555272918", "type": "property", "description": "AUTOMOBILE", "beat": "1524", "date": {"$date": 1370142720000}, "ward": "28", "_id": {"$oid": "51b5f11d3c002ed20d78ce99"}, "iucr": "910", "longitude": "-87.7578430191023", "location_description": "STREET", "x_coordinate": "1140937", "updated_on": {"$date": 1370306580000}, "fbi_code": "07", "block": "007XX N LOCKWOOD AVE"}
+{
+    "y_coordinate": "1904225", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301085", 
+    "id": "9155395", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7578430191023, 
+            41.89327555272918
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.89327555272918", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1524", 
+    "date": {
+        "$date": 1370142720000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78ce99"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.7578430191023", 
+    "location_description": "STREET", 
+    "x_coordinate": "1140937", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "07", 
+    "block": "007XX N LOCKWOOD AVE"
+}

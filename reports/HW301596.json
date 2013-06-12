@@ -1,1 +1,33 @@
-{"community_area": "49", "_id": {"$oid": "51b34a1b3c002ed20d78cb61"}, "primary_type": "MOTOR VEHICLE THEFT", "beat": "0512", "year": "2013", "domestic": false, "iucr": "910", "arrest": false, "location_description": "VACANT LOT/LAND", "location": {"type": "Point", "coordinates": [-87.62706778697074, 41.700868585930984]}, "case_number": "HW301596", "date": {"$date": 1369270800000}, "updated_on": {"$date": 1370738354000}, "ward": "34", "fbi_code": "07", "type": "property", "id": "9162312", "block": "106XX S LA SALLE ST", "description": "AUTOMOBILE"}
+{
+    "_id": {
+        "$oid": "51b34a1b3c002ed20d78cb61"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "year": "2013", 
+    "beat": "0512", 
+    "case_number": "HW301596", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "VACANT LOT/LAND", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62706778697074, 
+            41.700868585930984
+        ]
+    }, 
+    "community_area": "49", 
+    "date": {
+        "$date": 1369270800000
+    }, 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "ward": "34", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9162312", 
+    "block": "106XX S LA SALLE ST", 
+    "description": "AUTOMOBILE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1851757", "year": "2013", "domestic": false, "case_number": "HW294449", "id": "9148514", "primary_type": "MOTOR VEHICLE THEFT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.59889440361762, 41.74838267621578]}, "community_area": "44", "latitude": "41.74838267621578", "type": "property", "description": "AUTOMOBILE", "beat": "0631", "date": {"$date": 1369382400000}, "ward": "8", "_id": {"$oid": "51aa13933c002ed20d78b106"}, "iucr": "910", "longitude": "-87.59889440361762", "location_description": "STREET", "x_coordinate": "1184665", "updated_on": {"$date": 1370047283000}, "fbi_code": "07", "block": "080XX S DOBSON AVE"}
+{
+    "y_coordinate": "1851757", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW294449", 
+    "id": "9148514", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59889440361762, 
+            41.74838267621578
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.74838267621578", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0631", 
+    "date": {
+        "$date": 1369382400000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b106"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.59889440361762", 
+    "location_description": "STREET", 
+    "x_coordinate": "1184665", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "07", 
+    "block": "080XX S DOBSON AVE"
+}

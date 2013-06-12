@@ -1,1 +1,38 @@
-{"y_coordinate": "1906754", "year": "2013", "domestic": false, "case_number": "HW289629", "id": "9144444", "primary_type": "CRIMINAL TRESPASS", "district": "018", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6420179216064, 41.89957686316714]}, "community_area": "8", "latitude": "41.89957686316714", "type": null, "description": "TO STATE SUP LAND", "beat": "1823", "date": {"$date": 1369428300000}, "ward": "27", "_id": {"$oid": "51aa138d3c002ed20d78aeb1"}, "iucr": "1350", "longitude": "-87.6420179216064", "location_description": "CHA PARKING LOT/GROUNDS", "x_coordinate": "1172454", "updated_on": {"$date": 1369615194000}, "fbi_code": "26", "block": "009XX N CAMBRIDGE AVE"}
+{
+    "y_coordinate": "1906754", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289629", 
+    "id": "9144444", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "018", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6420179216064, 
+            41.89957686316714
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89957686316714", 
+    "type": null, 
+    "description": "TO STATE SUP LAND", 
+    "beat": "1823", 
+    "date": {
+        "$date": 1369428300000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78aeb1"
+    }, 
+    "iucr": "1350", 
+    "longitude": "-87.6420179216064", 
+    "location_description": "CHA PARKING LOT/GROUNDS", 
+    "x_coordinate": "1172454", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "26", 
+    "block": "009XX N CAMBRIDGE AVE"
+}

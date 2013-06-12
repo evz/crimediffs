@@ -1,1 +1,38 @@
-{"y_coordinate": "1944230", "year": "2013", "domestic": false, "case_number": "HW291377", "id": "9145878", "primary_type": "THEFT", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69259807334329, 42.002712358991936]}, "community_area": "2", "latitude": "42.002712358991936", "type": "property", "description": "FROM BUILDING", "beat": "2412", "date": {"$date": 1369519200000}, "ward": "50", "_id": {"$oid": "51b34a0e3c002ed20d78c8e8"}, "iucr": "890", "longitude": "-87.69259807334329", "location_description": "RESIDENCE", "x_coordinate": "1158403", "updated_on": {"$date": 1369960832000}, "fbi_code": "06", "block": "066XX N CAMPBELL AVE"}
+{
+    "y_coordinate": "1944230", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291377", 
+    "id": "9145878", 
+    "primary_type": "THEFT", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69259807334329, 
+            42.002712358991936
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "42.002712358991936", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "2412", 
+    "date": {
+        "$date": 1369519200000
+    }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c8e8"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.69259807334329", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1158403", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "06", 
+    "block": "066XX N CAMPBELL AVE"
+}

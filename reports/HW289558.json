@@ -1,1 +1,38 @@
-{"y_coordinate": "1841739", "year": "2013", "domestic": false, "case_number": "HW289558", "id": "9144485", "primary_type": "THEFT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64951930062708, 41.72120260062163]}, "community_area": "73", "latitude": "41.72120260062163", "type": "property", "description": "$500 AND UNDER", "beat": "2223", "date": {"$date": 1369424400000}, "ward": "21", "_id": {"$oid": "51aa138e3c002ed20d78aeea"}, "iucr": "820", "longitude": "-87.64951930062708", "location_description": "PARK PROPERTY", "x_coordinate": "1170929", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "095XX S GENOA AVE"}
+{
+    "y_coordinate": "1841739", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289558", 
+    "id": "9144485", 
+    "primary_type": "THEFT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64951930062708, 
+            41.72120260062163
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.72120260062163", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2223", 
+    "date": {
+        "$date": 1369424400000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51aa138e3c002ed20d78aeea"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.64951930062708", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1170929", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "095XX S GENOA AVE"
+}

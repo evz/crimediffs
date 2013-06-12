@@ -1,1 +1,38 @@
-{"y_coordinate": "1861358", "year": "2013", "domestic": false, "case_number": "HW300626", "id": "9155013", "primary_type": "BATTERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60595117671016, 41.774775565612885]}, "community_area": "42", "latitude": "41.774775565612885", "type": null, "description": "SIMPLE", "beat": "0321", "date": {"$date": 1370129400000}, "ward": "20", "_id": {"$oid": "51b5f11e3c002ed20d78cf1e"}, "iucr": "460", "longitude": "-87.60595117671016", "location_description": "SIDEWALK", "x_coordinate": "1182658", "updated_on": {"$date": 1370306580000}, "fbi_code": "08B", "block": "066XX S COTTAGE GROVE AVE"}
+{
+    "y_coordinate": "1861358", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300626", 
+    "id": "9155013", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60595117671016, 
+            41.774775565612885
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.774775565612885", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0321", 
+    "date": {
+        "$date": 1370129400000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf1e"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.60595117671016", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1182658", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08B", 
+    "block": "066XX S COTTAGE GROVE AVE"
+}

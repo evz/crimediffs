@@ -1,1 +1,38 @@
-{"y_coordinate": "1869749", "year": "2013", "domestic": false, "case_number": "HW286461", "id": "9141371", "primary_type": "BATTERY", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67213975320936, 41.798202899908034]}, "community_area": "61", "latitude": "41.798202899908034", "type": null, "description": "SIMPLE", "beat": "0932", "date": {"$date": 1369243140000}, "ward": "16", "_id": {"$oid": "51a7708a3c002ed20d78ab72"}, "iucr": "460", "longitude": "-87.67213975320936", "location_description": "STREET", "x_coordinate": "1164538", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "052XX S WOLCOTT AVE"}
+{
+    "y_coordinate": "1869749", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286461", 
+    "id": "9141371", 
+    "primary_type": "BATTERY", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67213975320936, 
+            41.798202899908034
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.798202899908034", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0932", 
+    "date": {
+        "$date": 1369243140000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab72"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.67213975320936", 
+    "location_description": "STREET", 
+    "x_coordinate": "1164538", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "052XX S WOLCOTT AVE"
+}

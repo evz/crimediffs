@@ -1,1 +1,38 @@
-{"y_coordinate": "1876846", "year": "2013", "domestic": false, "case_number": "HW288291", "id": "9143187", "primary_type": "OTHER OFFENSE", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62453062728147, 41.817395140289065]}, "community_area": "38", "latitude": "41.817395140289065", "type": null, "description": "HARASSMENT BY ELECTRONIC MEANS", "beat": "0213", "date": {"$date": 1369142280000}, "ward": "3", "_id": {"$oid": "51a61f0d3c002ed20d78a8b9"}, "iucr": "2826", "longitude": "-87.62453062728147", "location_description": "APARTMENT", "x_coordinate": "1177462", "updated_on": {"$date": 1369874559000}, "fbi_code": "26", "block": "042XX S WABASH AVE"}
+{
+    "y_coordinate": "1876846", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288291", 
+    "id": "9143187", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62453062728147, 
+            41.817395140289065
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.817395140289065", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "0213", 
+    "date": {
+        "$date": 1369142280000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51a61f0d3c002ed20d78a8b9"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.62453062728147", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1177462", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "26", 
+    "block": "042XX S WABASH AVE"
+}

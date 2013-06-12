@@ -1,1 +1,38 @@
-{"y_coordinate": "1890600", "year": "2013", "domestic": false, "case_number": "HW301018", "id": "9155336", "primary_type": "CRIMINAL DAMAGE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65327924138033, 41.85531356237735]}, "community_area": "31", "latitude": "41.85531356237735", "type": "quality", "description": "TO PROPERTY", "beat": "1235", "date": {"$date": 1370124720000}, "ward": "25", "_id": {"$oid": "51b5f11e3c002ed20d78cf57"}, "iucr": "1310", "longitude": "-87.65327924138033", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1169516", "updated_on": {"$date": 1370306580000}, "fbi_code": "14", "block": "019XX S CARPENTER ST"}
+{
+    "y_coordinate": "1890600", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301018", 
+    "id": "9155336", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65327924138033, 
+            41.85531356237735
+        ]
+    }, 
+    "community_area": "31", 
+    "latitude": "41.85531356237735", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1235", 
+    "date": {
+        "$date": 1370124720000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf57"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.65327924138033", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1169516", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "14", 
+    "block": "019XX S CARPENTER ST"
+}

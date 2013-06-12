@@ -1,1 +1,38 @@
-{"y_coordinate": "1913423", "year": "2013", "domestic": true, "case_number": "HW286619", "id": "9141430", "primary_type": "OTHER OFFENSE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77446590843302, 41.91859916484186]}, "community_area": "19", "latitude": "41.91859916484186", "type": null, "description": "TELEPHONE THREAT", "beat": "2515", "date": {"$date": 1369243740000}, "ward": "29", "_id": {"$oid": "51a7708a3c002ed20d78ab6f"}, "iucr": "2820", "longitude": "-87.77446590843302", "location_description": "RESIDENCE", "x_coordinate": "1136351", "updated_on": {"$date": 1369442383000}, "fbi_code": "26", "block": "021XX N MASON AVE"}
+{
+    "y_coordinate": "1913423", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW286619", 
+    "id": "9141430", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77446590843302, 
+            41.91859916484186
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.91859916484186", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "2515", 
+    "date": {
+        "$date": 1369243740000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab6f"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.77446590843302", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1136351", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "26", 
+    "block": "021XX N MASON AVE"
+}

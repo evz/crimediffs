@@ -1,1 +1,38 @@
-{"y_coordinate": "1878763", "year": "2013", "domestic": false, "case_number": "HW301211", "id": "9155449", "primary_type": "ASSAULT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68781078284682, 41.82302896398536]}, "community_area": "58", "latitude": "41.82302896398536", "type": null, "description": "SIMPLE", "beat": "0911", "date": {"$date": 1370180100000}, "ward": "12", "_id": {"$oid": "51b5f11b3c002ed20d78cd94"}, "iucr": "560", "longitude": "-87.68781078284682", "location_description": "STREET", "x_coordinate": "1160197", "updated_on": {"$date": 1370392932000}, "fbi_code": "08A", "block": "025XX W PERSHING RD"}
+{
+    "y_coordinate": "1878763", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301211", 
+    "id": "9155449", 
+    "primary_type": "ASSAULT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68781078284682, 
+            41.82302896398536
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.82302896398536", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0911", 
+    "date": {
+        "$date": 1370180100000
+    }, 
+    "ward": "12", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cd94"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.68781078284682", 
+    "location_description": "STREET", 
+    "x_coordinate": "1160197", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "08A", 
+    "block": "025XX W PERSHING RD"
+}

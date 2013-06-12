@@ -1,1 +1,38 @@
-{"y_coordinate": "1865565", "year": "2013", "domestic": false, "case_number": "HW289119", "id": "9144161", "primary_type": "NARCOTICS", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66240209388754, 41.78666434514404]}, "community_area": "67", "latitude": "41.78666434514404", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "0713", "date": {"$date": 1369406040000}, "ward": "15", "_id": {"$oid": "51aa13913c002ed20d78afe6"}, "iucr": "2024", "longitude": "-87.66240209388754", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1167226", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "015XX W 59TH ST"}
+{
+    "y_coordinate": "1865565", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289119", 
+    "id": "9144161", 
+    "primary_type": "NARCOTICS", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66240209388754, 
+            41.78666434514404
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.78666434514404", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "0713", 
+    "date": {
+        "$date": 1369406040000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78afe6"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.66240209388754", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1167226", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "015XX W 59TH ST"
+}

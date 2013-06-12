@@ -1,1 +1,38 @@
-{"y_coordinate": "1843254", "year": "2013", "domestic": false, "case_number": "HW286202", "id": "9141346", "primary_type": "CRIMINAL DAMAGE", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62368024746162, 41.72520356918947]}, "community_area": "49", "latitude": "41.72520356918947", "type": "quality", "description": "TO STATE SUP PROP", "beat": "0634", "date": {"$date": 1369231200000}, "ward": "6", "_id": {"$oid": "51a7708b3c002ed20d78ac28"}, "iucr": "1340", "longitude": "-87.62368024746162", "location_description": "SCHOOL, PRIVATE, BUILDING", "x_coordinate": "1177971", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "093XX S STATE ST"}
+{
+    "y_coordinate": "1843254", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286202", 
+    "id": "9141346", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62368024746162, 
+            41.72520356918947
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.72520356918947", 
+    "type": "quality", 
+    "description": "TO STATE SUP PROP", 
+    "beat": "0634", 
+    "date": {
+        "$date": 1369231200000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac28"
+    }, 
+    "iucr": "1340", 
+    "longitude": "-87.62368024746162", 
+    "location_description": "SCHOOL, PRIVATE, BUILDING", 
+    "x_coordinate": "1177971", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "093XX S STATE ST"
+}

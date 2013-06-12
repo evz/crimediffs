@@ -1,1 +1,38 @@
-{"y_coordinate": "1909161", "year": "2013", "domestic": true, "case_number": "HW285497", "id": "9143183", "primary_type": "ASSAULT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75851485490047, 41.906824491539545]}, "community_area": "25", "latitude": "41.906824491539545", "type": "violent", "description": "AGGRAVATED: OTHER DANG WEAPON", "beat": "2532", "date": {"$date": 1369195800000}, "ward": "37", "_id": {"$oid": "51a61f043c002ed20d78a664"}, "iucr": "530", "longitude": "-87.75851485490047", "location_description": "APARTMENT", "x_coordinate": "1140721", "updated_on": {"$date": 1369528777000}, "fbi_code": "04A", "block": "014XX N LOCKWOOD AVE"}
+{
+    "y_coordinate": "1909161", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285497", 
+    "id": "9143183", 
+    "primary_type": "ASSAULT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75851485490047, 
+            41.906824491539545
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.906824491539545", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "2532", 
+    "date": {
+        "$date": 1369195800000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a61f043c002ed20d78a664"
+    }, 
+    "iucr": "530", 
+    "longitude": "-87.75851485490047", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1140721", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "04A", 
+    "block": "014XX N LOCKWOOD AVE"
+}

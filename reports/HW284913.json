@@ -1,1 +1,38 @@
-{"y_coordinate": "1906395", "year": "2013", "domestic": false, "case_number": "HW284913", "id": "9139748", "primary_type": "ASSAULT", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75585019818396, 41.89922055533096]}, "community_area": "25", "latitude": "41.89922055533096", "type": null, "description": "SIMPLE", "beat": "1524", "date": {"$date": 1369142100000}, "ward": "37", "_id": {"$oid": "51a61f0d3c002ed20d78a8bc"}, "iucr": "560", "longitude": "-87.75585019818396", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1141465", "updated_on": {"$date": 1369356045000}, "fbi_code": "08A", "block": "010XX N LARAMIE AVE"}
+{
+    "y_coordinate": "1906395", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284913", 
+    "id": "9139748", 
+    "primary_type": "ASSAULT", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75585019818396, 
+            41.89922055533096
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.89922055533096", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1524", 
+    "date": {
+        "$date": 1369142100000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a61f0d3c002ed20d78a8bc"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.75585019818396", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1141465", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08A", 
+    "block": "010XX N LARAMIE AVE"
+}

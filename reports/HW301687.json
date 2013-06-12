@@ -1,1 +1,33 @@
-{"community_area": "44", "_id": {"$oid": "51b5f1173c002ed20d78cc61"}, "primary_type": "OTHER OFFENSE", "beat": "0632", "year": "2013", "domestic": true, "iucr": "4387", "arrest": false, "location_description": "RESIDENCE", "location": {"type": "Point", "coordinates": [-87.62237275728437, 41.733151252215364]}, "case_number": "HW301687", "date": {"$date": 1370205900000}, "updated_on": {"$date": 1370479286000}, "ward": "6", "fbi_code": "26", "type": null, "id": "9157415", "block": "088XX S WABASH AVE", "description": "VIOLATE ORDER OF PROTECTION"}
+{
+    "_id": {
+        "$oid": "51b5f1173c002ed20d78cc61"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "year": "2013", 
+    "beat": "0632", 
+    "case_number": "HW301687", 
+    "domestic": true, 
+    "iucr": "4387", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62237275728437, 
+            41.733151252215364
+        ]
+    }, 
+    "community_area": "44", 
+    "date": {
+        "$date": 1370205900000
+    }, 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "ward": "6", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9157415", 
+    "block": "088XX S WABASH AVE", 
+    "description": "VIOLATE ORDER OF PROTECTION"
+}

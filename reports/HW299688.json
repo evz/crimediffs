@@ -1,1 +1,38 @@
-{"y_coordinate": "1868820", "year": "2013", "domestic": false, "case_number": "HW299688", "id": "9154332", "primary_type": "CRIMINAL DAMAGE", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65991803460544, 41.79558246468539]}, "community_area": "61", "latitude": "41.79558246468539", "type": "quality", "description": "TO PROPERTY", "beat": "0934", "date": {"$date": 1370082300000}, "ward": "16", "_id": {"$oid": "51b5f1213c002ed20d78d135"}, "iucr": "1310", "longitude": "-87.65991803460544", "location_description": "APARTMENT", "x_coordinate": "1167878", "updated_on": {"$date": 1370220023000}, "fbi_code": "14", "block": "054XX S LOOMIS BLVD"}
+{
+    "y_coordinate": "1868820", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299688", 
+    "id": "9154332", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65991803460544, 
+            41.79558246468539
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.79558246468539", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0934", 
+    "date": {
+        "$date": 1370082300000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d135"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.65991803460544", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1167878", 
+    "updated_on": {
+        "$date": 1370220023000
+    }, 
+    "fbi_code": "14", 
+    "block": "054XX S LOOMIS BLVD"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1921469", "year": "2013", "domestic": false, "case_number": "HW300803", "id": "9155165", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65356706293424, 41.94002709175019]}, "community_area": "6", "latitude": "41.94002709175019", "type": "property", "description": "POCKET-PICKING", "beat": "1924", "date": {"$date": 1370144700000}, "ward": "44", "_id": {"$oid": "51b5f11d3c002ed20d78ce8d"}, "iucr": "870", "longitude": "-87.65356706293424", "location_description": "SIDEWALK", "x_coordinate": "1169193", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "009XX W BELMONT AVE"}
+{
+    "y_coordinate": "1921469", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300803", 
+    "id": "9155165", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65356706293424, 
+            41.94002709175019
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.94002709175019", 
+    "type": "property", 
+    "description": "POCKET-PICKING", 
+    "beat": "1924", 
+    "date": {
+        "$date": 1370144700000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78ce8d"
+    }, 
+    "iucr": "870", 
+    "longitude": "-87.65356706293424", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1169193", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "009XX W BELMONT AVE"
+}

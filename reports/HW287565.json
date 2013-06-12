@@ -1,1 +1,38 @@
-{"y_coordinate": "1907555", "year": "2013", "domestic": true, "case_number": "HW287565", "id": "9142779", "primary_type": "BATTERY", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72521279007066, 41.9022457135073]}, "community_area": "23", "latitude": "41.9022457135073", "type": "violent", "description": "AGGRAVATED DOMESTIC BATTERY: KNIFE/CUTTING INST", "beat": "1112", "date": {"$date": 1369314000000}, "ward": "27", "_id": {"$oid": "51aa13973c002ed20d78b333"}, "iucr": "496", "longitude": "-87.72521279007066", "location_description": "APARTMENT", "x_coordinate": "1149798", "updated_on": {"$date": 1370565766000}, "fbi_code": "04B", "block": "011XX N HARDING AVE"}
+{
+    "y_coordinate": "1907555", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW287565", 
+    "id": "9142779", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72521279007066, 
+            41.9022457135073
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.9022457135073", 
+    "type": "violent", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: KNIFE/CUTTING INST", 
+    "beat": "1112", 
+    "date": {
+        "$date": 1369314000000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b333"
+    }, 
+    "iucr": "496", 
+    "longitude": "-87.72521279007066", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1149798", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "04B", 
+    "block": "011XX N HARDING AVE"
+}

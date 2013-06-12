@@ -1,1 +1,38 @@
-{"y_coordinate": "1888278", "year": "2013", "domestic": false, "case_number": "HW288661", "id": "9143841", "primary_type": "BURGLARY", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71263732976999, 41.849277519585414]}, "community_area": "30", "latitude": "41.849277519585414", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1024", "date": {"$date": 1369346400000}, "ward": "22", "_id": {"$oid": "51aa13943c002ed20d78b1bf"}, "iucr": "610", "longitude": "-87.71263732976999", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1153361", "updated_on": {"$date": 1369787985000}, "fbi_code": "05", "block": "023XX S ST LOUIS AVE"}
+{
+    "y_coordinate": "1888278", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288661", 
+    "id": "9143841", 
+    "primary_type": "BURGLARY", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71263732976999, 
+            41.849277519585414
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.849277519585414", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1024", 
+    "date": {
+        "$date": 1369346400000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1bf"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.71263732976999", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1153361", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "05", 
+    "block": "023XX S ST LOUIS AVE"
+}

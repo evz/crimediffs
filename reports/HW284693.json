@@ -1,1 +1,38 @@
-{"y_coordinate": "1917334", "year": "2013", "domestic": false, "case_number": "HW284693", "id": "9139683", "primary_type": "CRIMINAL DAMAGE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75618954612987, 41.92924143946357]}, "community_area": "19", "latitude": "41.92924143946357", "type": "quality", "description": "TO PROPERTY", "beat": "2521", "date": {"$date": 1369076400000}, "ward": "31", "_id": {"$oid": "51a4cd8f3c002ed20d78a417"}, "iucr": "1310", "longitude": "-87.75618954612987", "location_description": "MEDICAL/DENTAL OFFICE", "x_coordinate": "1141299", "updated_on": {"$date": 1369356045000}, "fbi_code": "14", "block": "026XX N LARAMIE AVE"}
+{
+    "y_coordinate": "1917334", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284693", 
+    "id": "9139683", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75618954612987, 
+            41.92924143946357
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.92924143946357", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "2521", 
+    "date": {
+        "$date": 1369076400000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a417"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.75618954612987", 
+    "location_description": "MEDICAL/DENTAL OFFICE", 
+    "x_coordinate": "1141299", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "14", 
+    "block": "026XX N LARAMIE AVE"
+}

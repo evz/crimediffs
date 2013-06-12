@@ -1,1 +1,38 @@
-{"y_coordinate": "1919168", "year": "2013", "domestic": true, "case_number": "HW283277", "id": "9138035", "primary_type": "OFFENSE INVOLVING CHILDREN", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.78079272457443, 41.9343953831511]}, "community_area": "19", "latitude": "41.9343953831511", "type": null, "description": "CHILD ABDUCTION", "beat": "2511", "date": {"$date": 1369067400000}, "ward": "29", "_id": {"$oid": "51a4cd903c002ed20d78a492"}, "iucr": "1790", "longitude": "-87.78079272457443", "location_description": "RESIDENCE", "x_coordinate": "1134592", "updated_on": {"$date": 1369701613000}, "fbi_code": "20", "block": "029XX N MELVINA AVE"}
+{
+    "y_coordinate": "1919168", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283277", 
+    "id": "9138035", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78079272457443, 
+            41.9343953831511
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.9343953831511", 
+    "type": null, 
+    "description": "CHILD ABDUCTION", 
+    "beat": "2511", 
+    "date": {
+        "$date": 1369067400000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a492"
+    }, 
+    "iucr": "1790", 
+    "longitude": "-87.78079272457443", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1134592", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "20", 
+    "block": "029XX N MELVINA AVE"
+}

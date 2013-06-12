@@ -1,1 +1,38 @@
-{"y_coordinate": "1899678", "year": "2013", "domestic": false, "case_number": "HW291466", "id": "9145923", "primary_type": "CRIMINAL DAMAGE", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72552059563925, 41.880630938201485]}, "community_area": "26", "latitude": "41.880630938201485", "type": "quality", "description": "TO PROPERTY", "beat": "1122", "date": {"$date": 1369512000000}, "ward": "28", "_id": {"$oid": "51b34a0e3c002ed20d78c940"}, "iucr": "1310", "longitude": "-87.72552059563925", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1149770", "updated_on": {"$date": 1369787985000}, "fbi_code": "14", "block": "0000X S PULASKI RD"}
+{
+    "y_coordinate": "1899678", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291466", 
+    "id": "9145923", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72552059563925, 
+            41.880630938201485
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.880630938201485", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1122", 
+    "date": {
+        "$date": 1369512000000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c940"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.72552059563925", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1149770", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "14", 
+    "block": "0000X S PULASKI RD"
+}

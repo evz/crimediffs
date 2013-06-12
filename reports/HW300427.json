@@ -1,1 +1,38 @@
-{"y_coordinate": "1901053", "year": "2013", "domestic": false, "case_number": "HW300427", "id": "9154869", "primary_type": "ROBBERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71862525125253, 41.884367576445776]}, "community_area": "27", "latitude": "41.884367576445776", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "1122", "date": {"$date": 1370114400000}, "ward": "28", "_id": {"$oid": "51b5f11f3c002ed20d78cfca"}, "iucr": "320", "longitude": "-87.71862525125253", "location_description": "PARK PROPERTY", "x_coordinate": "1151638", "updated_on": {"$date": 1370392932000}, "fbi_code": "03", "block": "037XX W SCHRAEDER DR"}
+{
+    "y_coordinate": "1901053", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300427", 
+    "id": "9154869", 
+    "primary_type": "ROBBERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71862525125253, 
+            41.884367576445776
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.884367576445776", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "1122", 
+    "date": {
+        "$date": 1370114400000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cfca"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.71862525125253", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1151638", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "03", 
+    "block": "037XX W SCHRAEDER DR"
+}

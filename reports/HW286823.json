@@ -1,1 +1,38 @@
-{"y_coordinate": "1933078", "year": "2013", "domestic": false, "case_number": "HW286823", "id": "9141595", "primary_type": "NARCOTICS", "district": "020", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66879743702151, 41.971973781299496]}, "community_area": "3", "latitude": "41.971973781299496", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "2032", "date": {"$date": 1369258620000}, "ward": "46", "_id": {"$oid": "51a770883c002ed20d78aab4"}, "iucr": "1811", "longitude": "-87.66879743702151", "location_description": "STREET", "x_coordinate": "1164959", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "015XX W AINSLIE ST"}
+{
+    "y_coordinate": "1933078", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286823", 
+    "id": "9141595", 
+    "primary_type": "NARCOTICS", 
+    "district": "020", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66879743702151, 
+            41.971973781299496
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.971973781299496", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "2032", 
+    "date": {
+        "$date": 1369258620000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aab4"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.66879743702151", 
+    "location_description": "STREET", 
+    "x_coordinate": "1164959", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "015XX W AINSLIE ST"
+}

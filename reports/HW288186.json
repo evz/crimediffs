@@ -1,1 +1,38 @@
-{"y_coordinate": "1858560", "year": "2013", "domestic": false, "case_number": "HW288186", "id": "9143190", "primary_type": "BURGLARY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58139572226807, 41.76693894381911]}, "community_area": "43", "latitude": "41.76693894381911", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0332", "date": {"$date": 1369288800000}, "ward": "5", "_id": {"$oid": "51aa13993c002ed20d78b43c"}, "iucr": "610", "longitude": "-87.58139572226807", "location_description": "APARTMENT", "x_coordinate": "1189381", "updated_on": {"$date": 1369528777000}, "fbi_code": "05", "block": "070XX S CREGIER AVE"}
+{
+    "y_coordinate": "1858560", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288186", 
+    "id": "9143190", 
+    "primary_type": "BURGLARY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58139572226807, 
+            41.76693894381911
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76693894381911", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0332", 
+    "date": {
+        "$date": 1369288800000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51aa13993c002ed20d78b43c"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.58139572226807", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1189381", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "05", 
+    "block": "070XX S CREGIER AVE"
+}

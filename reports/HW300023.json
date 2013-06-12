@@ -1,1 +1,38 @@
-{"y_coordinate": "1849601", "year": "2013", "domestic": false, "case_number": "HW300023", "id": "9154585", "primary_type": "BATTERY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55409325444305, 41.742170849840235]}, "community_area": "46", "latitude": "41.742170849840235", "type": null, "description": "SIMPLE", "beat": "0423", "date": {"$date": 1370096700000}, "ward": "10", "_id": {"$oid": "51b5f1203c002ed20d78d087"}, "iucr": "460", "longitude": "-87.55409325444305", "location_description": "STREET", "x_coordinate": "1196911", "updated_on": {"$date": 1370565766000}, "fbi_code": "08B", "block": "084XX S ESCANABA AVE"}
+{
+    "y_coordinate": "1849601", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300023", 
+    "id": "9154585", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55409325444305, 
+            41.742170849840235
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.742170849840235", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0423", 
+    "date": {
+        "$date": 1370096700000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d087"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.55409325444305", 
+    "location_description": "STREET", 
+    "x_coordinate": "1196911", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "08B", 
+    "block": "084XX S ESCANABA AVE"
+}

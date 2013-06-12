@@ -1,1 +1,38 @@
-{"y_coordinate": "1856707", "year": "2013", "domestic": false, "case_number": "HW288320", "id": "9143324", "primary_type": "ROBBERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69312020241105, 41.762530658697145]}, "community_area": "66", "latitude": "41.762530658697145", "type": "violent", "description": "ARMED: HANDGUN", "beat": "0831", "date": {"$date": 1369347600000}, "ward": "18", "_id": {"$oid": "51aa13943c002ed20d78b1b7"}, "iucr": "031A", "longitude": "-87.69312020241105", "location_description": "SIDEWALK", "x_coordinate": "1158914", "updated_on": {"$date": 1370047283000}, "fbi_code": "03", "block": "072XX S CALIFORNIA AVE"}
+{
+    "y_coordinate": "1856707", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288320", 
+    "id": "9143324", 
+    "primary_type": "ROBBERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69312020241105, 
+            41.762530658697145
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.762530658697145", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0831", 
+    "date": {
+        "$date": 1369347600000
+    }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1b7"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.69312020241105", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1158914", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "03", 
+    "block": "072XX S CALIFORNIA AVE"
+}

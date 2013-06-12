@@ -1,1 +1,38 @@
-{"y_coordinate": "1926849", "year": "2013", "domestic": false, "case_number": "HW286513", "id": "9141522", "primary_type": "BURGLARY", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.80341466670272, 41.95558038642129]}, "community_area": "17", "latitude": "41.95558038642129", "type": "property", "description": "ATTEMPT FORCIBLE ENTRY", "beat": "1632", "date": {"$date": 1369243800000}, "ward": "38", "_id": {"$oid": "51a7708a3c002ed20d78ab6a"}, "iucr": "630", "longitude": "-87.80341466670272", "location_description": "GOVERNMENT BUILDING/PROPERTY", "x_coordinate": "1128389", "updated_on": {"$date": 1369528777000}, "fbi_code": "05", "block": "070XX W FOREST PRESERVE AVE"}
+{
+    "y_coordinate": "1926849", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286513", 
+    "id": "9141522", 
+    "primary_type": "BURGLARY", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.80341466670272, 
+            41.95558038642129
+        ]
+    }, 
+    "community_area": "17", 
+    "latitude": "41.95558038642129", 
+    "type": "property", 
+    "description": "ATTEMPT FORCIBLE ENTRY", 
+    "beat": "1632", 
+    "date": {
+        "$date": 1369243800000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab6a"
+    }, 
+    "iucr": "630", 
+    "longitude": "-87.80341466670272", 
+    "location_description": "GOVERNMENT BUILDING/PROPERTY", 
+    "x_coordinate": "1128389", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "05", 
+    "block": "070XX W FOREST PRESERVE AVE"
+}

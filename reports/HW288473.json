@@ -1,1 +1,38 @@
-{"y_coordinate": "1927796", "year": "2013", "domestic": false, "case_number": "HW288473", "id": "9143452", "primary_type": "DECEPTIVE PRACTICE", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66431589577286, 41.957452860867754]}, "community_area": "6", "latitude": "41.957452860867754", "type": null, "description": "THEFT OF LABOR/SERVICES", "beat": "1912", "date": {"$date": 1369373400000}, "ward": "47", "_id": {"$oid": "51aa13933c002ed20d78b138"}, "iucr": "1210", "longitude": "-87.66431589577286", "location_description": "TAXICAB", "x_coordinate": "1166219", "updated_on": {"$date": 1369528777000}, "fbi_code": "11", "block": "041XX N CLARK ST"}
+{
+    "y_coordinate": "1927796", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288473", 
+    "id": "9143452", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66431589577286, 
+            41.957452860867754
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.957452860867754", 
+    "type": null, 
+    "description": "THEFT OF LABOR/SERVICES", 
+    "beat": "1912", 
+    "date": {
+        "$date": 1369373400000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b138"
+    }, 
+    "iucr": "1210", 
+    "longitude": "-87.66431589577286", 
+    "location_description": "TAXICAB", 
+    "x_coordinate": "1166219", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "11", 
+    "block": "041XX N CLARK ST"
+}

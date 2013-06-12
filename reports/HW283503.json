@@ -1,1 +1,38 @@
-{"y_coordinate": "1843865", "year": "2013", "domestic": false, "case_number": "HW283503", "id": "9138047", "primary_type": "NARCOTICS", "district": "022", "arrest": true, "location": {"type": "Point", "coordinates": [-87.65537339401065, 41.72707170930541]}, "community_area": "73", "latitude": "41.72707170930541", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "2222", "date": {"$date": 1369076220000}, "ward": "21", "_id": {"$oid": "51a4cd8f3c002ed20d78a41f"}, "iucr": "1811", "longitude": "-87.65537339401065", "location_description": "PARK PROPERTY", "x_coordinate": "1169314", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "091XX S THROOP ST"}
+{
+    "y_coordinate": "1843865", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283503", 
+    "id": "9138047", 
+    "primary_type": "NARCOTICS", 
+    "district": "022", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65537339401065, 
+            41.72707170930541
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.72707170930541", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "2222", 
+    "date": {
+        "$date": 1369076220000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a41f"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.65537339401065", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1169314", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "091XX S THROOP ST"
+}

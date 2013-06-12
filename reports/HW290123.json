@@ -1,1 +1,38 @@
-{"y_coordinate": "1854188", "year": "2013", "domestic": true, "case_number": "HW290123", "id": "9144947", "primary_type": "THEFT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60243539641422, 41.75507665366226]}, "community_area": "69", "latitude": "41.75507665366226", "type": "property", "description": "AGG: FINANCIAL ID THEFT", "beat": "0624", "date": {"$date": 1369472400000}, "ward": "8", "_id": {"$oid": "51b34a123c002ed20d78caee"}, "iucr": "842", "longitude": "-87.60243539641422", "location_description": "APARTMENT", "x_coordinate": "1183678", "updated_on": {"$date": 1369960832000}, "fbi_code": "06", "block": "009XX E 77TH ST"}
+{
+    "y_coordinate": "1854188", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290123", 
+    "id": "9144947", 
+    "primary_type": "THEFT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60243539641422, 
+            41.75507665366226
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.75507665366226", 
+    "type": "property", 
+    "description": "AGG: FINANCIAL ID THEFT", 
+    "beat": "0624", 
+    "date": {
+        "$date": 1369472400000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78caee"
+    }, 
+    "iucr": "842", 
+    "longitude": "-87.60243539641422", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1183678", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "06", 
+    "block": "009XX E 77TH ST"
+}

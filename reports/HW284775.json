@@ -1,1 +1,38 @@
-{"y_coordinate": "1855711", "year": "2013", "domestic": false, "case_number": "HW284775", "id": "9139508", "primary_type": "OTHER OFFENSE", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.5603662701669, 41.7589808899622]}, "community_area": "43", "latitude": "41.7589808899622", "type": null, "description": "LICENSE VIOLATION", "beat": "0421", "date": {"$date": 1369155000000}, "ward": "7", "_id": {"$oid": "51a61f0b3c002ed20d78a812"}, "iucr": "5011", "longitude": "-87.5603662701669", "location_description": "STREET", "x_coordinate": "1195144", "updated_on": {"$date": 1369356045000}, "fbi_code": "26", "block": "075XX S EXCHANGE AVE"}
+{
+    "y_coordinate": "1855711", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284775", 
+    "id": "9139508", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5603662701669, 
+            41.7589808899622
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.7589808899622", 
+    "type": null, 
+    "description": "LICENSE VIOLATION", 
+    "beat": "0421", 
+    "date": {
+        "$date": 1369155000000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a812"
+    }, 
+    "iucr": "5011", 
+    "longitude": "-87.5603662701669", 
+    "location_description": "STREET", 
+    "x_coordinate": "1195144", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "26", 
+    "block": "075XX S EXCHANGE AVE"
+}

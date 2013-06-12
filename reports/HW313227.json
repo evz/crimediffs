@@ -1,1 +1,33 @@
-{"community_area": "25", "_id": {"$oid": "51b742a83c002ed20d78d52c"}, "primary_type": "THEFT", "beat": "1513", "year": "2013", "domestic": false, "iucr": "820", "arrest": false, "location_description": "RESIDENCE", "location": {"type": "Point", "coordinates": [-87.77276669119883, 41.86586569260806]}, "case_number": "HW313227", "date": {"$date": 1369818000000}, "updated_on": {"$date": 1370911182000}, "ward": "29", "fbi_code": "06", "type": "property", "id": "9167701", "block": "011XX S MASON AVE", "description": "$500 AND UNDER"}
+{
+    "_id": {
+        "$oid": "51b742a83c002ed20d78d52c"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "1513", 
+    "case_number": "HW313227", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77276669119883, 
+            41.86586569260806
+        ]
+    }, 
+    "community_area": "25", 
+    "date": {
+        "$date": 1369818000000
+    }, 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "ward": "29", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9167701", 
+    "block": "011XX S MASON AVE", 
+    "description": "$500 AND UNDER"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1928146", "year": "2013", "domestic": false, "case_number": "HW289258", "id": "9144187", "primary_type": "OTHER OFFENSE", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7354514759008, 41.95880582294599]}, "community_area": "16", "latitude": "41.95880582294599", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "1722", "date": {"$date": 1369410120000}, "ward": "38", "_id": {"$oid": "51aa13903c002ed20d78afaa"}, "iucr": "2825", "longitude": "-87.7354514759008", "location_description": "RESIDENCE", "x_coordinate": "1146867", "updated_on": {"$date": 1369874559000}, "fbi_code": "26", "block": "042XX N KILDARE AVE"}
+{
+    "y_coordinate": "1928146", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289258", 
+    "id": "9144187", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7354514759008, 
+            41.95880582294599
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.95880582294599", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "1722", 
+    "date": {
+        "$date": 1369410120000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78afaa"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.7354514759008", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1146867", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "26", 
+    "block": "042XX N KILDARE AVE"
+}

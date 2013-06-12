@@ -1,1 +1,38 @@
-{"y_coordinate": "1908294", "year": "2013", "domestic": true, "case_number": "HW286928", "id": "9142879", "primary_type": "OFFENSE INVOLVING CHILDREN", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7304830959897, 41.904301494701095]}, "community_area": "23", "latitude": "41.904301494701095", "type": null, "description": "CHILD ABUSE", "beat": "2534", "date": {"$date": 1369237500000}, "ward": "37", "_id": {"$oid": "51a7708a3c002ed20d78abb6"}, "iucr": "1750", "longitude": "-87.7304830959897", "location_description": "RESIDENCE", "x_coordinate": "1148358", "updated_on": {"$date": 1369442383000}, "fbi_code": "20", "block": "041XX W POTOMAC AVE"}
+{
+    "y_coordinate": "1908294", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW286928", 
+    "id": "9142879", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7304830959897, 
+            41.904301494701095
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.904301494701095", 
+    "type": null, 
+    "description": "CHILD ABUSE", 
+    "beat": "2534", 
+    "date": {
+        "$date": 1369237500000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78abb6"
+    }, 
+    "iucr": "1750", 
+    "longitude": "-87.7304830959897", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1148358", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "20", 
+    "block": "041XX W POTOMAC AVE"
+}

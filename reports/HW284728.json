@@ -1,1 +1,38 @@
-{"y_coordinate": "1889080", "year": "2013", "domestic": true, "case_number": "HW284728", "id": "9139708", "primary_type": "BATTERY", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62209015032329, 41.85095338212979]}, "community_area": "33", "latitude": "41.85095338212979", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0132", "date": {"$date": 1369143000000}, "ward": "2", "_id": {"$oid": "51a61f0d3c002ed20d78a8b2"}, "iucr": "486", "longitude": "-87.62209015032329", "location_description": "RESTAURANT", "x_coordinate": "1178026", "updated_on": {"$date": 1369615194000}, "fbi_code": "08B", "block": "023XX S INDIANA AVE"}
+{
+    "y_coordinate": "1889080", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW284728", 
+    "id": "9139708", 
+    "primary_type": "BATTERY", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62209015032329, 
+            41.85095338212979
+        ]
+    }, 
+    "community_area": "33", 
+    "latitude": "41.85095338212979", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0132", 
+    "date": {
+        "$date": 1369143000000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a61f0d3c002ed20d78a8b2"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.62209015032329", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1178026", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08B", 
+    "block": "023XX S INDIANA AVE"
+}

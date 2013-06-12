@@ -1,1 +1,38 @@
-{"y_coordinate": "1868920", "year": "2013", "domestic": true, "case_number": "HW300886", "id": "9155237", "primary_type": "BATTERY", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.65142594858278, 41.79580679791653]}, "community_area": "61", "latitude": "41.79580679791653", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0934", "date": {"$date": 1370161020000}, "ward": "16", "_id": {"$oid": "51b5f11c3c002ed20d78ce30"}, "iucr": "486", "longitude": "-87.65142594858278", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1170193", "updated_on": {"$date": 1370306580000}, "fbi_code": "08B", "block": "054XX S CARPENTER ST"}
+{
+    "y_coordinate": "1868920", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300886", 
+    "id": "9155237", 
+    "primary_type": "BATTERY", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65142594858278, 
+            41.79580679791653
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.79580679791653", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0934", 
+    "date": {
+        "$date": 1370161020000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce30"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.65142594858278", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1170193", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08B", 
+    "block": "054XX S CARPENTER ST"
+}

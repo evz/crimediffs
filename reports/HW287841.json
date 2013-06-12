@@ -1,1 +1,38 @@
-{"y_coordinate": "1856846", "year": "2013", "domestic": false, "case_number": "HW287841", "id": "9143089", "primary_type": "THEFT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66754807249907, 41.762766774212324]}, "community_area": "67", "latitude": "41.762766774212324", "type": "property", "description": "$500 AND UNDER", "beat": "0735", "date": {"$date": 1369260000000}, "ward": "17", "_id": {"$oid": "51a770883c002ed20d78aa9b"}, "iucr": "820", "longitude": "-87.66754807249907", "location_description": "APARTMENT", "x_coordinate": "1165890", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "072XX S HERMITAGE AVE"}
+{
+    "y_coordinate": "1856846", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287841", 
+    "id": "9143089", 
+    "primary_type": "THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66754807249907, 
+            41.762766774212324
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.762766774212324", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0735", 
+    "date": {
+        "$date": 1369260000000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aa9b"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.66754807249907", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1165890", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "072XX S HERMITAGE AVE"
+}

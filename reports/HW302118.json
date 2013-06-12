@@ -1,1 +1,38 @@
-{"y_coordinate": "1850459", "year": "2013", "domestic": false, "case_number": "HW302118", "id": "9156417", "primary_type": "MOTOR VEHICLE THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.59518662810335, 41.74479680954038]}, "community_area": "45", "latitude": "41.74479680954038", "type": "property", "description": "AUTOMOBILE", "beat": "0411", "date": {"$date": 1370250000000}, "ward": "8", "_id": {"$oid": "51b7429e3c002ed20d78d4c9"}, "iucr": "910", "longitude": "-87.59518662810335", "location_description": "STREET", "x_coordinate": "1185688", "updated_on": {"$date": 1370479286000}, "fbi_code": "07", "block": "082XX S WOODLAWN AVE"}
+{
+    "y_coordinate": "1850459", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302118", 
+    "id": "9156417", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59518662810335, 
+            41.74479680954038
+        ]
+    }, 
+    "community_area": "45", 
+    "latitude": "41.74479680954038", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0411", 
+    "date": {
+        "$date": 1370250000000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51b7429e3c002ed20d78d4c9"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.59518662810335", 
+    "location_description": "STREET", 
+    "x_coordinate": "1185688", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "07", 
+    "block": "082XX S WOODLAWN AVE"
+}

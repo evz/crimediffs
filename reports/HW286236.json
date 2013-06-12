@@ -1,1 +1,38 @@
-{"y_coordinate": "1858274", "year": "2013", "domestic": false, "case_number": "HW286236", "id": "9141281", "primary_type": "PUBLIC PEACE VIOLATION", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63209635977124, 41.766474721133854]}, "community_area": "69", "latitude": "41.766474721133854", "type": null, "description": "RECKLESS CONDUCT", "beat": "0731", "date": {"$date": 1369233600000}, "ward": "6", "_id": {"$oid": "51a7708b3c002ed20d78abfe"}, "iucr": "470", "longitude": "-87.63209635977124", "location_description": "SCHOOL, PUBLIC, GROUNDS", "x_coordinate": "1175551", "updated_on": {"$date": 1369442383000}, "fbi_code": "24", "block": "070XX S PRINCETON AVE"}
+{
+    "y_coordinate": "1858274", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286236", 
+    "id": "9141281", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63209635977124, 
+            41.766474721133854
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.766474721133854", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "0731", 
+    "date": {
+        "$date": 1369233600000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78abfe"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.63209635977124", 
+    "location_description": "SCHOOL, PUBLIC, GROUNDS", 
+    "x_coordinate": "1175551", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "24", 
+    "block": "070XX S PRINCETON AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1830727", "year": "2013", "domestic": false, "case_number": "HW288192", "id": "9143099", "primary_type": "BATTERY", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62638297090483, 41.69084208311289]}, "community_area": "49", "latitude": "41.69084208311289", "type": null, "description": "SIMPLE", "beat": "0522", "date": {"$date": 1369340340000}, "ward": "34", "_id": {"$oid": "51aa13953c002ed20d78b209"}, "iucr": "460", "longitude": "-87.62638297090483", "location_description": "SIDEWALK", "x_coordinate": "1177336", "updated_on": {"$date": 1369528777000}, "fbi_code": "08B", "block": "001XX W 112TH ST"}
+{
+    "y_coordinate": "1830727", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288192", 
+    "id": "9143099", 
+    "primary_type": "BATTERY", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62638297090483, 
+            41.69084208311289
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.69084208311289", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0522", 
+    "date": {
+        "$date": 1369340340000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b209"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.62638297090483", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1177336", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "08B", 
+    "block": "001XX W 112TH ST"
+}

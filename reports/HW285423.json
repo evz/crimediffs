@@ -1,1 +1,38 @@
-{"y_coordinate": "1893976", "year": "2013", "domestic": false, "case_number": "HW285423", "id": "9140051", "primary_type": "THEFT", "district": "001", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6393048378162, 41.86449456528135]}, "community_area": "28", "latitude": "41.86449456528135", "type": "property", "description": "RETAIL THEFT", "beat": "0124", "date": {"$date": 1369181220000}, "ward": "2", "_id": {"$oid": "51a61f073c002ed20d78a6b9"}, "iucr": "860", "longitude": "-87.6393048378162", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1173296", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "013XX S CANAL ST"}
+{
+    "y_coordinate": "1893976", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285423", 
+    "id": "9140051", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6393048378162, 
+            41.86449456528135
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.86449456528135", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0124", 
+    "date": {
+        "$date": 1369181220000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a61f073c002ed20d78a6b9"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.6393048378162", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1173296", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "013XX S CANAL ST"
+}

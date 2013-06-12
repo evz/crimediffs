@@ -1,1 +1,38 @@
-{"y_coordinate": "1829883", "year": "2013", "domestic": true, "case_number": "HW287877", "id": "9142894", "primary_type": "OTHER OFFENSE", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66330699045285, 41.68874707166482]}, "community_area": "75", "latitude": "41.68874707166482", "type": null, "description": "TELEPHONE THREAT", "beat": "2234", "date": {"$date": 1369081920000}, "ward": "34", "_id": {"$oid": "51a4cd8e3c002ed20d78a3c0"}, "iucr": "2820", "longitude": "-87.66330699045285", "location_description": "RESIDENCE", "x_coordinate": "1167257", "updated_on": {"$date": 1370479286000}, "fbi_code": "26", "block": "016XX W WASECA PL"}
+{
+    "y_coordinate": "1829883", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW287877", 
+    "id": "9142894", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66330699045285, 
+            41.68874707166482
+        ]
+    }, 
+    "community_area": "75", 
+    "latitude": "41.68874707166482", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "2234", 
+    "date": {
+        "$date": 1369081920000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3c0"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.66330699045285", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1167257", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "26", 
+    "block": "016XX W WASECA PL"
+}

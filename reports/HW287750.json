@@ -1,1 +1,33 @@
-{"community_area": "68", "_id": {"$oid": "51b34a193c002ed20d78cb5a"}, "primary_type": "THEFT", "beat": "0732", "year": "2013", "domestic": false, "iucr": "820", "arrest": false, "location_description": "RESIDENCE", "location": {"type": "Point", "coordinates": [-87.64018474987813, 41.763216925648166]}, "case_number": "HW287750", "date": {"$date": 1369317180000}, "updated_on": {"$date": 1370651988000}, "ward": "17", "fbi_code": "06", "type": "property", "id": "9154635", "block": "072XX S LOWE AVE", "description": "$500 AND UNDER"}
+{
+    "_id": {
+        "$oid": "51b34a193c002ed20d78cb5a"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "0732", 
+    "case_number": "HW287750", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64018474987813, 
+            41.763216925648166
+        ]
+    }, 
+    "community_area": "68", 
+    "date": {
+        "$date": 1369317180000
+    }, 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "ward": "17", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9154635", 
+    "block": "072XX S LOWE AVE", 
+    "description": "$500 AND UNDER"
+}

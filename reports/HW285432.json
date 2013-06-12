@@ -1,1 +1,38 @@
-{"y_coordinate": "1863005", "year": "2013", "domestic": false, "case_number": "HW285432", "id": "9140067", "primary_type": "BATTERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66092088752164, 41.779630300628774]}, "community_area": "67", "latitude": "41.779630300628774", "type": null, "description": "AGG PO HANDS NO/MIN INJURY", "beat": "0713", "date": {"$date": 1369187100000}, "ward": "16", "_id": {"$oid": "51a61f053c002ed20d78a695"}, "iucr": "454", "longitude": "-87.66092088752164", "location_description": "POLICE FACILITY/VEH PARKING LOT", "x_coordinate": "1167650", "updated_on": {"$date": 1369356045000}, "fbi_code": "08B", "block": "014XX W 63RD ST"}
+{
+    "y_coordinate": "1863005", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285432", 
+    "id": "9140067", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66092088752164, 
+            41.779630300628774
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.779630300628774", 
+    "type": null, 
+    "description": "AGG PO HANDS NO/MIN INJURY", 
+    "beat": "0713", 
+    "date": {
+        "$date": 1369187100000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a61f053c002ed20d78a695"
+    }, 
+    "iucr": "454", 
+    "longitude": "-87.66092088752164", 
+    "location_description": "POLICE FACILITY/VEH PARKING LOT", 
+    "x_coordinate": "1167650", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08B", 
+    "block": "014XX W 63RD ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1851539", "year": "2013", "domestic": false, "case_number": "HW288790", "id": "9143990", "primary_type": "CRIMINAL DAMAGE", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60892667130511, 41.747848108116436]}, "community_area": "44", "latitude": "41.747848108116436", "type": "quality", "description": "TO VEHICLE", "beat": "0631", "date": {"$date": 1369394700000}, "ward": "6", "_id": {"$oid": "51aa13923c002ed20d78b08b"}, "iucr": "1320", "longitude": "-87.60892667130511", "location_description": "STREET", "x_coordinate": "1181929", "updated_on": {"$date": 1369615194000}, "fbi_code": "14", "block": "080XX S CHAMPLAIN AVE"}
+{
+    "y_coordinate": "1851539", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288790", 
+    "id": "9143990", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60892667130511, 
+            41.747848108116436
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.747848108116436", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0631", 
+    "date": {
+        "$date": 1369394700000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b08b"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.60892667130511", 
+    "location_description": "STREET", 
+    "x_coordinate": "1181929", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "14", 
+    "block": "080XX S CHAMPLAIN AVE"
+}

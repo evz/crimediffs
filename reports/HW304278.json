@@ -1,1 +1,38 @@
-{"y_coordinate": "1867997", "year": "2013", "domestic": false, "case_number": "HW304278", "id": "9159241", "primary_type": "DECEPTIVE PRACTICE", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67442232201965, 41.793408026684666]}, "community_area": "67", "latitude": "41.793408026684666", "type": null, "description": "ILLEGAL USE CASH CARD", "beat": "0715", "date": {"$date": 1370080800000}, "ward": "15", "_id": {"$oid": "51b5f1213c002ed20d78d142"}, "iucr": "1152", "longitude": "-87.67442232201965", "location_description": "GAS STATION", "x_coordinate": "1163929", "updated_on": {"$date": 1370565766000}, "fbi_code": "11", "block": "055XX S DAMEN AVE"}
+{
+    "y_coordinate": "1867997", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW304278", 
+    "id": "9159241", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67442232201965, 
+            41.793408026684666
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.793408026684666", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "0715", 
+    "date": {
+        "$date": 1370080800000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d142"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.67442232201965", 
+    "location_description": "GAS STATION", 
+    "x_coordinate": "1163929", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "11", 
+    "block": "055XX S DAMEN AVE"
+}

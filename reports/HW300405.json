@@ -1,1 +1,33 @@
-{"community_area": "19", "_id": {"$oid": "51b34a0f3c002ed20d78c9c0"}, "primary_type": "BATTERY", "beat": "2515", "year": "2013", "domestic": false, "iucr": "460", "arrest": false, "location_description": "BARBERSHOP", "location": {"type": "Point", "coordinates": [-87.75950564233113, 41.92417300450381]}, "case_number": "HW300405", "date": {"$date": 1369501200000}, "updated_on": {"$date": 1370565766000}, "ward": "37", "fbi_code": "08B", "type": null, "id": "9155792", "block": "053XX W FULLERTON AVE", "description": "SIMPLE"}
+{
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c9c0"
+    }, 
+    "primary_type": "BATTERY", 
+    "year": "2013", 
+    "beat": "2515", 
+    "case_number": "HW300405", 
+    "domestic": false, 
+    "iucr": "460", 
+    "arrest": false, 
+    "location_description": "BARBERSHOP", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75950564233113, 
+            41.92417300450381
+        ]
+    }, 
+    "community_area": "19", 
+    "date": {
+        "$date": 1369501200000
+    }, 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "ward": "37", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9155792", 
+    "block": "053XX W FULLERTON AVE", 
+    "description": "SIMPLE"
+}

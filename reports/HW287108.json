@@ -1,1 +1,38 @@
-{"y_coordinate": "1849575", "year": "2013", "domestic": false, "case_number": "HW287108", "id": "9142094", "primary_type": "THEFT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6113065468539, 41.742473272473745]}, "community_area": "44", "latitude": "41.742473272473745", "type": "property", "description": "$500 AND UNDER", "beat": "0632", "date": {"$date": 1369260000000}, "ward": "6", "_id": {"$oid": "51a770883c002ed20d78aaa1"}, "iucr": "820", "longitude": "-87.6113065468539", "location_description": "STREET", "x_coordinate": "1181296", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "083XX S RHODES AVE"}
+{
+    "y_coordinate": "1849575", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287108", 
+    "id": "9142094", 
+    "primary_type": "THEFT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6113065468539, 
+            41.742473272473745
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.742473272473745", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0632", 
+    "date": {
+        "$date": 1369260000000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aaa1"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.6113065468539", 
+    "location_description": "STREET", 
+    "x_coordinate": "1181296", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "083XX S RHODES AVE"
+}

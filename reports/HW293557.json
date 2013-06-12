@@ -1,1 +1,33 @@
-{"community_area": "69", "_id": {"$oid": "51aa13943c002ed20d78b185"}, "primary_type": "OTHER OFFENSE", "beat": "0312", "year": "2013", "domestic": true, "iucr": "2825", "arrest": false, "location_description": "APARTMENT", "location": {"type": "Point", "coordinates": [-87.61573364973046, 41.778596764294534]}, "case_number": "HW293557", "date": {"$date": 1369353660000}, "updated_on": {"$date": 1370651988000}, "ward": "20", "fbi_code": "26", "type": null, "id": "9148152", "block": "063XX S DR MARTIN LUTHER KING JR DR", "description": "HARASSMENT BY TELEPHONE"}
+{
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b185"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "year": "2013", 
+    "beat": "0312", 
+    "case_number": "HW293557", 
+    "domestic": true, 
+    "iucr": "2825", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61573364973046, 
+            41.778596764294534
+        ]
+    }, 
+    "community_area": "69", 
+    "date": {
+        "$date": 1369353660000
+    }, 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "ward": "20", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9148152", 
+    "block": "063XX S DR MARTIN LUTHER KING JR DR", 
+    "description": "HARASSMENT BY TELEPHONE"
+}

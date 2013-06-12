@@ -1,1 +1,38 @@
-{"y_coordinate": "1828801", "year": "2013", "domestic": false, "case_number": "HW288739", "id": "9143794", "primary_type": "NARCOTICS", "district": "022", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6640919221089, 41.68578227340268]}, "community_area": "75", "latitude": "41.68578227340268", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "2234", "date": {"$date": 1369390200000}, "ward": "34", "_id": {"$oid": "51aa13923c002ed20d78b0b3"}, "iucr": "1811", "longitude": "-87.6640919221089", "location_description": "STREET", "x_coordinate": "1167051", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "017XX W EDMAIRE ST"}
+{
+    "y_coordinate": "1828801", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288739", 
+    "id": "9143794", 
+    "primary_type": "NARCOTICS", 
+    "district": "022", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6640919221089, 
+            41.68578227340268
+        ]
+    }, 
+    "community_area": "75", 
+    "latitude": "41.68578227340268", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "2234", 
+    "date": {
+        "$date": 1369390200000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b0b3"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.6640919221089", 
+    "location_description": "STREET", 
+    "x_coordinate": "1167051", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "017XX W EDMAIRE ST"
+}

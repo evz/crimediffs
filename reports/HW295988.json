@@ -1,1 +1,38 @@
-{"y_coordinate": "1917537", "year": "2013", "domestic": false, "case_number": "HW295988", "id": "9150228", "primary_type": "OTHER OFFENSE", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65146212408906, 41.92922434276221]}, "community_area": "7", "latitude": "41.92922434276221", "type": null, "description": "OTHER VEHICLE OFFENSE", "beat": "1935", "date": {"$date": 1369845000000}, "ward": "43", "_id": {"$oid": "51b349ed3c002ed20d78bdb1"}, "iucr": "5002", "longitude": "-87.65146212408906", "location_description": "STREET", "x_coordinate": "1169797", "updated_on": {"$date": 1370824784000}, "fbi_code": "26", "block": "026XX N MILDRED AVE"}
+{
+    "y_coordinate": "1917537", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW295988", 
+    "id": "9150228", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65146212408906, 
+            41.92922434276221
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.92922434276221", 
+    "type": null, 
+    "description": "OTHER VEHICLE OFFENSE", 
+    "beat": "1935", 
+    "date": {
+        "$date": 1369845000000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51b349ed3c002ed20d78bdb1"
+    }, 
+    "iucr": "5002", 
+    "longitude": "-87.65146212408906", 
+    "location_description": "STREET", 
+    "x_coordinate": "1169797", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "26", 
+    "block": "026XX N MILDRED AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1869096", "year": "2013", "domestic": false, "case_number": "HW291290", "id": "9145769", "primary_type": "CRIMINAL DAMAGE", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6696572159487, 41.79639656639029]}, "community_area": "61", "latitude": "41.79639656639029", "type": "quality", "description": "TO VEHICLE", "beat": "0932", "date": {"$date": 1369537200000}, "ward": "16", "_id": {"$oid": "51b34a0c3c002ed20d78c83e"}, "iucr": "1320", "longitude": "-87.6696572159487", "location_description": "STREET", "x_coordinate": "1165220", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "053XX S WOOD ST"}
+{
+    "y_coordinate": "1869096", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291290", 
+    "id": "9145769", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6696572159487, 
+            41.79639656639029
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.79639656639029", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0932", 
+    "date": {
+        "$date": 1369537200000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51b34a0c3c002ed20d78c83e"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.6696572159487", 
+    "location_description": "STREET", 
+    "x_coordinate": "1165220", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "053XX S WOOD ST"
+}

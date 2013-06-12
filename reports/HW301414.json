@@ -1,1 +1,38 @@
-{"y_coordinate": "1905913", "year": "2013", "domestic": false, "case_number": "HW301414", "id": "9155736", "primary_type": "MOTOR VEHICLE THEFT", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74610309755097, 41.89784840043249]}, "community_area": "25", "latitude": "41.89784840043249", "type": "property", "description": "AUTOMOBILE", "beat": "1531", "date": {"$date": 1370176200000}, "ward": "37", "_id": {"$oid": "51b5f11b3c002ed20d78cdbf"}, "iucr": "910", "longitude": "-87.74610309755097", "location_description": "RESIDENCE", "x_coordinate": "1144122", "updated_on": {"$date": 1370479286000}, "fbi_code": "07", "block": "048XX W WALTON ST"}
+{
+    "y_coordinate": "1905913", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301414", 
+    "id": "9155736", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74610309755097, 
+            41.89784840043249
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.89784840043249", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1531", 
+    "date": {
+        "$date": 1370176200000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cdbf"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.74610309755097", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1144122", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "07", 
+    "block": "048XX W WALTON ST"
+}

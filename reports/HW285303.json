@@ -1,1 +1,38 @@
-{"y_coordinate": "1833613", "year": "2013", "domestic": false, "case_number": "HW285303", "id": "9139952", "primary_type": "ROBBERY", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62916686110269, 41.698779312040955]}, "community_area": "49", "latitude": "41.698779312040955", "type": "violent", "description": "ARMED: HANDGUN", "beat": "0513", "date": {"$date": 1369174500000}, "ward": "34", "_id": {"$oid": "51a61f083c002ed20d78a701"}, "iucr": "031A", "longitude": "-87.62916686110269", "location_description": "STREET", "x_coordinate": "1176552", "updated_on": {"$date": 1369356045000}, "fbi_code": "03", "block": "002XX W 107TH PL"}
+{
+    "y_coordinate": "1833613", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285303", 
+    "id": "9139952", 
+    "primary_type": "ROBBERY", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62916686110269, 
+            41.698779312040955
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.698779312040955", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0513", 
+    "date": {
+        "$date": 1369174500000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51a61f083c002ed20d78a701"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.62916686110269", 
+    "location_description": "STREET", 
+    "x_coordinate": "1176552", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "03", 
+    "block": "002XX W 107TH PL"
+}

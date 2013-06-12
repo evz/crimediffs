@@ -1,1 +1,38 @@
-{"y_coordinate": "1913842", "year": "2013", "domestic": false, "case_number": "HW300088", "id": "9154723", "primary_type": "BATTERY", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71669029240991, 41.91945326126743]}, "community_area": "22", "latitude": "41.91945326126743", "type": null, "description": "PRO EMP HANDS NO/MIN INJURY", "beat": "1413", "date": {"$date": 1370100000000}, "ward": "26", "_id": {"$oid": "51b5f11f3c002ed20d78d05c"}, "iucr": "484", "longitude": "-87.71669029240991", "location_description": "SIDEWALK", "x_coordinate": "1152073", "updated_on": {"$date": 1370651988000}, "fbi_code": "08B", "block": "021XX N CENTRAL PARK AVE"}
+{
+    "y_coordinate": "1913842", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300088", 
+    "id": "9154723", 
+    "primary_type": "BATTERY", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71669029240991, 
+            41.91945326126743
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.91945326126743", 
+    "type": null, 
+    "description": "PRO EMP HANDS NO/MIN INJURY", 
+    "beat": "1413", 
+    "date": {
+        "$date": 1370100000000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d05c"
+    }, 
+    "iucr": "484", 
+    "longitude": "-87.71669029240991", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1152073", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "08B", 
+    "block": "021XX N CENTRAL PARK AVE"
+}

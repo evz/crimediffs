@@ -1,1 +1,38 @@
-{"y_coordinate": "1911290", "year": "2013", "domestic": false, "case_number": "HW286640", "id": "9141561", "primary_type": "THEFT", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68058605792768, 41.91225042056223]}, "community_area": "24", "latitude": "41.91225042056223", "type": "property", "description": "RETAIL THEFT", "beat": "1434", "date": {"$date": 1369248600000}, "ward": "32", "_id": {"$oid": "51a770893c002ed20d78ab3d"}, "iucr": "860", "longitude": "-87.68058605792768", "location_description": "DEPARTMENT STORE", "x_coordinate": "1161919", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "017XX N MILWAUKEE AVE"}
+{
+    "y_coordinate": "1911290", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286640", 
+    "id": "9141561", 
+    "primary_type": "THEFT", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68058605792768, 
+            41.91225042056223
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.91225042056223", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "1434", 
+    "date": {
+        "$date": 1369248600000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51a770893c002ed20d78ab3d"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.68058605792768", 
+    "location_description": "DEPARTMENT STORE", 
+    "x_coordinate": "1161919", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "017XX N MILWAUKEE AVE"
+}

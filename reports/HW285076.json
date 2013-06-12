@@ -1,1 +1,38 @@
-{"y_coordinate": "1850805", "year": "2013", "domestic": false, "case_number": "HW285076", "id": "9139902", "primary_type": "ASSAULT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.54563688566924, 41.745417326228754]}, "community_area": "46", "latitude": "41.745417326228754", "type": null, "description": "SIMPLE", "beat": "0424", "date": {"$date": 1369161000000}, "ward": "7", "_id": {"$oid": "51a61f0a3c002ed20d78a7b3"}, "iucr": "560", "longitude": "-87.54563688566924", "location_description": "SIDEWALK", "x_coordinate": "1199208", "updated_on": {"$date": 1369528777000}, "fbi_code": "08A", "block": "082XX S BURLEY AVE"}
+{
+    "y_coordinate": "1850805", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285076", 
+    "id": "9139902", 
+    "primary_type": "ASSAULT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.54563688566924, 
+            41.745417326228754
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.745417326228754", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0424", 
+    "date": {
+        "$date": 1369161000000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a7b3"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.54563688566924", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1199208", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "08A", 
+    "block": "082XX S BURLEY AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1869923", "year": "2013", "domestic": true, "case_number": "HW285278", "id": "9140043", "primary_type": "ASSAULT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6633445263131, 41.79862944553687]}, "community_area": "61", "latitude": "41.79862944553687", "type": null, "description": "SIMPLE", "beat": "0934", "date": {"$date": 1369170000000}, "ward": "16", "_id": {"$oid": "51a61f093c002ed20d78a73d"}, "iucr": "560", "longitude": "-87.6633445263131", "location_description": "APARTMENT", "x_coordinate": "1166935", "updated_on": {"$date": 1369442383000}, "fbi_code": "08A", "block": "052XX S JUSTINE ST"}
+{
+    "y_coordinate": "1869923", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285278", 
+    "id": "9140043", 
+    "primary_type": "ASSAULT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6633445263131, 
+            41.79862944553687
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.79862944553687", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0934", 
+    "date": {
+        "$date": 1369170000000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a61f093c002ed20d78a73d"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.6633445263131", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1166935", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08A", 
+    "block": "052XX S JUSTINE ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1907845", "year": "2013", "domestic": false, "case_number": "HW286074", "id": "9141323", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69182679689872, 41.902859884346505]}, "community_area": "24", "latitude": "41.902859884346505", "type": "property", "description": "$500 AND UNDER", "beat": "1211", "date": {"$date": 1369166400000}, "ward": "26", "_id": {"$oid": "51a61f0a3c002ed20d78a76d"}, "iucr": "820", "longitude": "-87.69182679689872", "location_description": "STREET", "x_coordinate": "1158885", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "025XX W DIVISION ST"}
+{
+    "y_coordinate": "1907845", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286074", 
+    "id": "9141323", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69182679689872, 
+            41.902859884346505
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.902859884346505", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1211", 
+    "date": {
+        "$date": 1369166400000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a76d"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.69182679689872", 
+    "location_description": "STREET", 
+    "x_coordinate": "1158885", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "025XX W DIVISION ST"
+}

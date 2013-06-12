@@ -1,1 +1,38 @@
-{"y_coordinate": "1924942", "year": "2013", "domestic": true, "case_number": "HW300544", "id": "9154954", "primary_type": "BATTERY", "district": "019", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64695958568811, 41.94951843511334]}, "community_area": "6", "latitude": "41.94951843511334", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1925", "date": {"$date": 1370123100000}, "ward": "46", "_id": {"$oid": "51b5f11e3c002ed20d78cf72"}, "iucr": "486", "longitude": "-87.64695958568811", "location_description": "APARTMENT", "x_coordinate": "1170963", "updated_on": {"$date": 1370392932000}, "fbi_code": "08B", "block": "007XX W WAVELAND AVE"}
+{
+    "y_coordinate": "1924942", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300544", 
+    "id": "9154954", 
+    "primary_type": "BATTERY", 
+    "district": "019", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64695958568811, 
+            41.94951843511334
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.94951843511334", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1925", 
+    "date": {
+        "$date": 1370123100000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf72"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.64695958568811", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1170963", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "08B", 
+    "block": "007XX W WAVELAND AVE"
+}

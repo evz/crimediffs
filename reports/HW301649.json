@@ -1,1 +1,38 @@
-{"y_coordinate": "1886464", "year": "2013", "domestic": false, "case_number": "HW301649", "id": "9155829", "primary_type": "ROBBERY", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72482534302587, 41.84436464377114]}, "community_area": "30", "latitude": "41.84436464377114", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "1013", "date": {"$date": 1370113200000}, "ward": "22", "_id": {"$oid": "51b5f11f3c002ed20d78cfd3"}, "iucr": "320", "longitude": "-87.72482534302587", "location_description": "SIDEWALK", "x_coordinate": "1150053", "updated_on": {"$date": 1370824784000}, "fbi_code": "03", "block": "040XX W 26TH ST"}
+{
+    "y_coordinate": "1886464", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301649", 
+    "id": "9155829", 
+    "primary_type": "ROBBERY", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72482534302587, 
+            41.84436464377114
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.84436464377114", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "1013", 
+    "date": {
+        "$date": 1370113200000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cfd3"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.72482534302587", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1150053", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "03", 
+    "block": "040XX W 26TH ST"
+}

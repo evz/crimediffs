@@ -1,1 +1,38 @@
-{"y_coordinate": "1926213", "year": "2013", "domestic": true, "case_number": "HW299493", "id": "9154187", "primary_type": "ASSAULT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77572177293418, 41.95370390579038]}, "community_area": "15", "latitude": "41.95370390579038", "type": null, "description": "SIMPLE", "beat": "1624", "date": {"$date": 1370065260000}, "ward": "38", "_id": {"$oid": "51b5f1213c002ed20d78d1a2"}, "iucr": "560", "longitude": "-87.77572177293418", "location_description": "APARTMENT", "x_coordinate": "1135926", "updated_on": {"$date": 1370479286000}, "fbi_code": "08A", "block": "040XX N MASON AVE"}
+{
+    "y_coordinate": "1926213", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW299493", 
+    "id": "9154187", 
+    "primary_type": "ASSAULT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77572177293418, 
+            41.95370390579038
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.95370390579038", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1624", 
+    "date": {
+        "$date": 1370065260000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d1a2"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.77572177293418", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1135926", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08A", 
+    "block": "040XX N MASON AVE"
+}

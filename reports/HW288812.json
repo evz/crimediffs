@@ -1,1 +1,38 @@
-{"y_coordinate": "1909538", "year": "2013", "domestic": false, "case_number": "HW288812", "id": "9143828", "primary_type": "NARCOTICS", "district": "025", "arrest": true, "location": {"type": "Point", "coordinates": [-87.7530026405802, 41.9078313435996]}, "community_area": "25", "latitude": "41.9078313435996", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "2533", "date": {"$date": 1369395900000}, "ward": "37", "_id": {"$oid": "51aa13923c002ed20d78b07e"}, "iucr": "1811", "longitude": "-87.7530026405802", "location_description": "STREET", "x_coordinate": "1142219", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "050XX W LE MOYNE ST"}
+{
+    "y_coordinate": "1909538", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288812", 
+    "id": "9143828", 
+    "primary_type": "NARCOTICS", 
+    "district": "025", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7530026405802, 
+            41.9078313435996
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.9078313435996", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "2533", 
+    "date": {
+        "$date": 1369395900000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b07e"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.7530026405802", 
+    "location_description": "STREET", 
+    "x_coordinate": "1142219", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "050XX W LE MOYNE ST"
+}

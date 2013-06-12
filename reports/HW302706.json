@@ -1,1 +1,38 @@
-{"y_coordinate": "1856150", "year": "2013", "domestic": false, "case_number": "HW302706", "id": "9157698", "primary_type": "BATTERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56492932611977, 41.76021624443319]}, "community_area": "43", "latitude": "41.76021624443319", "type": null, "description": "SIMPLE", "beat": "0334", "date": {"$date": 1370270700000}, "ward": "7", "_id": {"$oid": "51b7429c3c002ed20d78d3ce"}, "iucr": "460", "longitude": "-87.56492932611977", "location_description": "SIDEWALK", "x_coordinate": "1193895", "updated_on": {"$date": 1370565766000}, "fbi_code": "08B", "block": "074XX S PHILLIPS AVE"}
+{
+    "y_coordinate": "1856150", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302706", 
+    "id": "9157698", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56492932611977, 
+            41.76021624443319
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76021624443319", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0334", 
+    "date": {
+        "$date": 1370270700000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51b7429c3c002ed20d78d3ce"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.56492932611977", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1193895", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "08B", 
+    "block": "074XX S PHILLIPS AVE"
+}

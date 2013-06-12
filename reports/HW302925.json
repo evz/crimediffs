@@ -1,1 +1,38 @@
-{"y_coordinate": "1899874", "year": "2013", "domestic": true, "case_number": "HW302925", "id": "9157480", "primary_type": "OTHER OFFENSE", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62899168233116, 41.880617344334524]}, "community_area": "32", "latitude": "41.880617344334524", "type": null, "description": "VIOLATE ORDER OF PROTECTION", "beat": "0112", "date": {"$date": 1370250000000}, "ward": "42", "_id": {"$oid": "51b7429e3c002ed20d78d4c6"}, "iucr": "4387", "longitude": "-87.62899168233116", "location_description": "OTHER", "x_coordinate": "1176057", "updated_on": {"$date": 1370479286000}, "fbi_code": "26", "block": "0000X W MONROE ST"}
+{
+    "y_coordinate": "1899874", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW302925", 
+    "id": "9157480", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62899168233116, 
+            41.880617344334524
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.880617344334524", 
+    "type": null, 
+    "description": "VIOLATE ORDER OF PROTECTION", 
+    "beat": "0112", 
+    "date": {
+        "$date": 1370250000000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b7429e3c002ed20d78d4c6"
+    }, 
+    "iucr": "4387", 
+    "longitude": "-87.62899168233116", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1176057", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "26", 
+    "block": "0000X W MONROE ST"
+}

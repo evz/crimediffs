@@ -1,1 +1,38 @@
-{"y_coordinate": "1893293", "year": "2013", "domestic": true, "case_number": "HW285438", "id": "9140064", "primary_type": "BATTERY", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70987219573462, 41.86302500279777]}, "community_area": "29", "latitude": "41.86302500279777", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1021", "date": {"$date": 1369188000000}, "ward": "24", "_id": {"$oid": "51a61f053c002ed20d78a68c"}, "iucr": "486", "longitude": "-87.70987219573462", "location_description": "APARTMENT", "x_coordinate": "1154078", "updated_on": {"$date": 1369356045000}, "fbi_code": "08B", "block": "033XX W DOUGLAS BLVD"}
+{
+    "y_coordinate": "1893293", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285438", 
+    "id": "9140064", 
+    "primary_type": "BATTERY", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70987219573462, 
+            41.86302500279777
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.86302500279777", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1021", 
+    "date": {
+        "$date": 1369188000000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a61f053c002ed20d78a68c"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.70987219573462", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1154078", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08B", 
+    "block": "033XX W DOUGLAS BLVD"
+}

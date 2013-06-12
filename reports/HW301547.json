@@ -1,1 +1,38 @@
-{"y_coordinate": "1878128", "year": "2013", "domestic": false, "case_number": "HW301547", "id": "9155809", "primary_type": "BATTERY", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70216856829383, 41.82136614048274]}, "community_area": "58", "latitude": "41.82136614048274", "type": null, "description": "AGG PO HANDS NO/MIN INJURY", "beat": "0921", "date": {"$date": 1370197680000}, "ward": "14", "_id": {"$oid": "51b5f1183c002ed20d78ccc9"}, "iucr": "454", "longitude": "-87.70216856829383", "location_description": "STREET", "x_coordinate": "1156288", "updated_on": {"$date": 1370824784000}, "fbi_code": "08B", "block": "039XX S ALBANY AVE"}
+{
+    "y_coordinate": "1878128", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301547", 
+    "id": "9155809", 
+    "primary_type": "BATTERY", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70216856829383, 
+            41.82136614048274
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.82136614048274", 
+    "type": null, 
+    "description": "AGG PO HANDS NO/MIN INJURY", 
+    "beat": "0921", 
+    "date": {
+        "$date": 1370197680000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51b5f1183c002ed20d78ccc9"
+    }, 
+    "iucr": "454", 
+    "longitude": "-87.70216856829383", 
+    "location_description": "STREET", 
+    "x_coordinate": "1156288", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "08B", 
+    "block": "039XX S ALBANY AVE"
+}

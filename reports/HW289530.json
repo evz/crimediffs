@@ -1,1 +1,38 @@
-{"y_coordinate": "1846010", "year": "2013", "domestic": true, "case_number": "HW289530", "id": "9146189", "primary_type": "ASSAULT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64245641459337, 41.73288132691019]}, "community_area": "71", "latitude": "41.73288132691019", "type": "violent", "description": "AGGRAVATED: OTHER DANG WEAPON", "beat": "2223", "date": {"$date": 1369416600000}, "ward": "21", "_id": {"$oid": "51aa138f3c002ed20d78af45"}, "iucr": "530", "longitude": "-87.64245641459337", "location_description": "RESIDENCE", "x_coordinate": "1172823", "updated_on": {"$date": 1370651988000}, "fbi_code": "04A", "block": "088XX S EMERALD AVE"}
+{
+    "y_coordinate": "1846010", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289530", 
+    "id": "9146189", 
+    "primary_type": "ASSAULT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64245641459337, 
+            41.73288132691019
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.73288132691019", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "2223", 
+    "date": {
+        "$date": 1369416600000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51aa138f3c002ed20d78af45"
+    }, 
+    "iucr": "530", 
+    "longitude": "-87.64245641459337", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1172823", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "04A", 
+    "block": "088XX S EMERALD AVE"
+}

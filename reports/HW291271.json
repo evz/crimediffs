@@ -1,1 +1,38 @@
-{"y_coordinate": "1923488", "year": "2013", "domestic": false, "case_number": "HW291271", "id": "9145772", "primary_type": "CRIMINAL TRESPASS", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7556072006485, 41.946126459507]}, "community_area": "15", "latitude": "41.946126459507", "type": null, "description": "TO RESIDENCE", "beat": "1634", "date": {"$date": 1369245600000}, "ward": "38", "_id": {"$oid": "51a7708a3c002ed20d78ab54"}, "iucr": "1365", "longitude": "-87.7556072006485", "location_description": "RESIDENCE", "x_coordinate": "1141416", "updated_on": {"$date": 1369874559000}, "fbi_code": "26", "block": "051XX W ADDISON ST"}
+{
+    "y_coordinate": "1923488", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291271", 
+    "id": "9145772", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7556072006485, 
+            41.946126459507
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.946126459507", 
+    "type": null, 
+    "description": "TO RESIDENCE", 
+    "beat": "1634", 
+    "date": {
+        "$date": 1369245600000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab54"
+    }, 
+    "iucr": "1365", 
+    "longitude": "-87.7556072006485", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1141416", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "26", 
+    "block": "051XX W ADDISON ST"
+}

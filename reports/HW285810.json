@@ -1,1 +1,38 @@
-{"y_coordinate": "1848465", "year": "2013", "domestic": false, "case_number": "HW285810", "id": "9141348", "primary_type": "ASSAULT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58076639546123, 41.73923111997925]}, "community_area": "45", "latitude": "41.73923111997925", "type": null, "description": "SIMPLE", "beat": "0412", "date": {"$date": 1369227600000}, "ward": "8", "_id": {"$oid": "51a7708c3c002ed20d78ac56"}, "iucr": "560", "longitude": "-87.58076639546123", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1189641", "updated_on": {"$date": 1369744888000}, "fbi_code": "08A", "block": "085XX S CREGIER AVE"}
+{
+    "y_coordinate": "1848465", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285810", 
+    "id": "9141348", 
+    "primary_type": "ASSAULT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58076639546123, 
+            41.73923111997925
+        ]
+    }, 
+    "community_area": "45", 
+    "latitude": "41.73923111997925", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0412", 
+    "date": {
+        "$date": 1369227600000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac56"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.58076639546123", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1189641", 
+    "updated_on": {
+        "$date": 1369744888000
+    }, 
+    "fbi_code": "08A", 
+    "block": "085XX S CREGIER AVE"
+}

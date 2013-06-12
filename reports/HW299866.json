@@ -1,1 +1,38 @@
-{"y_coordinate": "1846135", "year": "2013", "domestic": true, "case_number": "HW299866", "id": "9154540", "primary_type": "ASSAULT", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.61022898553864, 41.7330260737487]}, "community_area": "44", "latitude": "41.7330260737487", "type": "violent", "description": "AGGRAVATED:KNIFE/CUTTING INSTR", "beat": "0632", "date": {"$date": 1370088000000}, "ward": "6", "_id": {"$oid": "51b5f1203c002ed20d78d105"}, "iucr": "520", "longitude": "-87.61022898553864", "location_description": "APARTMENT", "x_coordinate": "1181619", "updated_on": {"$date": 1370306580000}, "fbi_code": "04A", "block": "005XX E 89TH ST"}
+{
+    "y_coordinate": "1846135", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW299866", 
+    "id": "9154540", 
+    "primary_type": "ASSAULT", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61022898553864, 
+            41.7330260737487
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.7330260737487", 
+    "type": "violent", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
+    "beat": "0632", 
+    "date": {
+        "$date": 1370088000000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d105"
+    }, 
+    "iucr": "520", 
+    "longitude": "-87.61022898553864", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1181619", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "04A", 
+    "block": "005XX E 89TH ST"
+}

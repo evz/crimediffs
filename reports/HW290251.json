@@ -1,1 +1,38 @@
-{"y_coordinate": "1824467", "year": "2013", "domestic": false, "case_number": "HW290251", "id": "9145170", "primary_type": "MOTOR VEHICLE THEFT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63590420065455, 41.67372071090545]}, "community_area": "53", "latitude": "41.67372071090545", "type": "property", "description": "AUTOMOBILE", "beat": "0523", "date": {"$date": 1369445400000}, "ward": "34", "_id": {"$oid": "51aa138b3c002ed20d78add5"}, "iucr": "910", "longitude": "-87.63590420065455", "location_description": "STREET", "x_coordinate": "1174786", "updated_on": {"$date": 1370392932000}, "fbi_code": "07", "block": "121XX S PARNELL AVE"}
+{
+    "y_coordinate": "1824467", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290251", 
+    "id": "9145170", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63590420065455, 
+            41.67372071090545
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.67372071090545", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0523", 
+    "date": {
+        "$date": 1369445400000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51aa138b3c002ed20d78add5"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.63590420065455", 
+    "location_description": "STREET", 
+    "x_coordinate": "1174786", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "07", 
+    "block": "121XX S PARNELL AVE"
+}

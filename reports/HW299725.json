@@ -1,1 +1,38 @@
-{"y_coordinate": "1900708", "year": "2013", "domestic": false, "case_number": "HW299725", "id": "9163364", "primary_type": "CRIMINAL DAMAGE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64819320000156, 41.8830222060302]}, "community_area": "28", "latitude": "41.8830222060302", "type": "quality", "description": "TO VEHICLE", "beat": "1224", "date": {"$date": 1370080800000}, "ward": "27", "_id": {"$oid": "51b5f1213c002ed20d78d141"}, "iucr": "1320", "longitude": "-87.64819320000156", "location_description": "STREET", "x_coordinate": "1170821", "updated_on": {"$date": 1370738354000}, "fbi_code": "14", "block": "008XX W WASHINGTON BLVD"}
+{
+    "y_coordinate": "1900708", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299725", 
+    "id": "9163364", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64819320000156, 
+            41.8830222060302
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.8830222060302", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1224", 
+    "date": {
+        "$date": 1370080800000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d141"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.64819320000156", 
+    "location_description": "STREET", 
+    "x_coordinate": "1170821", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "14", 
+    "block": "008XX W WASHINGTON BLVD"
+}

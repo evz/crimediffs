@@ -1,1 +1,38 @@
-{"y_coordinate": "1845937", "year": "2013", "domestic": false, "case_number": "HW301770", "id": "9155936", "primary_type": "NARCOTICS", "district": "022", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66798919140174, 41.73283167449373]}, "community_area": "71", "latitude": "41.73283167449373", "type": "quality", "description": "POSSESSION OF DRUG EQUIPMENT", "beat": "2221", "date": {"$date": 1370210100000}, "ward": "21", "_id": {"$oid": "51b5f1163c002ed20d78cc34"}, "iucr": "2170", "longitude": "-87.66798919140174", "location_description": "ABANDONED BUILDING", "x_coordinate": "1165854", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "088XX S WOOD ST"}
+{
+    "y_coordinate": "1845937", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301770", 
+    "id": "9155936", 
+    "primary_type": "NARCOTICS", 
+    "district": "022", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66798919140174, 
+            41.73283167449373
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.73283167449373", 
+    "type": "quality", 
+    "description": "POSSESSION OF DRUG EQUIPMENT", 
+    "beat": "2221", 
+    "date": {
+        "$date": 1370210100000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b5f1163c002ed20d78cc34"
+    }, 
+    "iucr": "2170", 
+    "longitude": "-87.66798919140174", 
+    "location_description": "ABANDONED BUILDING", 
+    "x_coordinate": "1165854", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "088XX S WOOD ST"
+}

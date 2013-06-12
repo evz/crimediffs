@@ -1,1 +1,38 @@
-{"y_coordinate": "1906110", "year": "2013", "domestic": false, "case_number": "HW283460", "id": "9138130", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72387305483781, 41.89827318529959]}, "community_area": "23", "latitude": "41.89827318529959", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "1112", "date": {"$date": 1369066980000}, "ward": "27", "_id": {"$oid": "51a4cd903c002ed20d78a49b"}, "iucr": "2024", "longitude": "-87.72387305483781", "location_description": "RESIDENCE", "x_coordinate": "1150173", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "009XX N SPRINGFIELD AVE"}
+{
+    "y_coordinate": "1906110", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283460", 
+    "id": "9138130", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72387305483781, 
+            41.89827318529959
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.89827318529959", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "1112", 
+    "date": {
+        "$date": 1369066980000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a49b"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.72387305483781", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1150173", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "009XX N SPRINGFIELD AVE"
+}

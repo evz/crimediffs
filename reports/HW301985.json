@@ -1,1 +1,38 @@
-{"y_coordinate": "1844278", "year": "2013", "domestic": false, "case_number": "HW301985", "id": "9156199", "primary_type": "CRIMINAL DAMAGE", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62898289261182, 41.72804637427624]}, "community_area": "49", "latitude": "41.72804637427624", "type": "quality", "description": "TO VEHICLE", "beat": "0634", "date": {"$date": 1370170800000}, "ward": "21", "_id": {"$oid": "51b5f11b3c002ed20d78cdf1"}, "iucr": "1320", "longitude": "-87.62898289261182", "location_description": "OTHER", "x_coordinate": "1176515", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "091XX S WENTWORTH AVE"}
+{
+    "y_coordinate": "1844278", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301985", 
+    "id": "9156199", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62898289261182, 
+            41.72804637427624
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.72804637427624", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0634", 
+    "date": {
+        "$date": 1370170800000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cdf1"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.62898289261182", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1176515", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "091XX S WENTWORTH AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1854873", "year": "2013", "domestic": false, "case_number": "HW285816", "id": "9140631", "primary_type": "THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58623405864817, 41.7568522904404]}, "community_area": "43", "latitude": "41.7568522904404", "type": "property", "description": "OVER $500", "beat": "0411", "date": {"$date": 1369218600000}, "ward": "5", "_id": {"$oid": "51a7708d3c002ed20d78acb1"}, "iucr": "810", "longitude": "-87.58623405864817", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1188093", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "076XX S STONY ISLAND AVE"}
+{
+    "y_coordinate": "1854873", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285816", 
+    "id": "9140631", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58623405864817, 
+            41.7568522904404
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.7568522904404", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0411", 
+    "date": {
+        "$date": 1369218600000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78acb1"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.58623405864817", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1188093", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "076XX S STONY ISLAND AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1947848", "year": "2013", "domestic": true, "case_number": "HW299770", "id": "9154469", "primary_type": "ASSAULT", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67407154667637, 42.01253591474123]}, "community_area": "1", "latitude": "42.01253591474123", "type": null, "description": "SIMPLE", "beat": "2423", "date": {"$date": 1370082600000}, "ward": "49", "_id": {"$oid": "51b5f1213c002ed20d78d12d"}, "iucr": "560", "longitude": "-87.67407154667637", "location_description": "APARTMENT", "x_coordinate": "1163411", "updated_on": {"$date": 1370479286000}, "fbi_code": "08A", "block": "017XX W TOUHY AVE"}
+{
+    "y_coordinate": "1947848", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW299770", 
+    "id": "9154469", 
+    "primary_type": "ASSAULT", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67407154667637, 
+            42.01253591474123
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "42.01253591474123", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2423", 
+    "date": {
+        "$date": 1370082600000
+    }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d12d"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.67407154667637", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1163411", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08A", 
+    "block": "017XX W TOUHY AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1850447", "year": "2013", "domestic": false, "case_number": "HW288465", "id": "9143780", "primary_type": "BURGLARY", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60122177019372, 41.74480249138114]}, "community_area": "44", "latitude": "41.74480249138114", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0631", "date": {"$date": 1369344600000}, "ward": "8", "_id": {"$oid": "51aa13943c002ed20d78b1d7"}, "iucr": "610", "longitude": "-87.60122177019372", "location_description": "APARTMENT", "x_coordinate": "1184041", "updated_on": {"$date": 1369787985000}, "fbi_code": "05", "block": "082XX S INGLESIDE AVE"}
+{
+    "y_coordinate": "1850447", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288465", 
+    "id": "9143780", 
+    "primary_type": "BURGLARY", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60122177019372, 
+            41.74480249138114
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.74480249138114", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0631", 
+    "date": {
+        "$date": 1369344600000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1d7"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.60122177019372", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1184041", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "05", 
+    "block": "082XX S INGLESIDE AVE"
+}

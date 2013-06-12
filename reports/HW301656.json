@@ -1,1 +1,38 @@
-{"y_coordinate": "1860436", "year": "2013", "domestic": false, "case_number": "HW301656", "id": "9155852", "primary_type": "ROBBERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7028500373332, 41.772817961700184]}, "community_area": "66", "latitude": "41.772817961700184", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "0831", "date": {"$date": 1370203200000}, "ward": "15", "_id": {"$oid": "51b5f1183c002ed20d78cc89"}, "iucr": "320", "longitude": "-87.7028500373332", "location_description": "SIDEWALK", "x_coordinate": "1156232", "updated_on": {"$date": 1370392932000}, "fbi_code": "03", "block": "066XX S KEDZIE AVE"}
+{
+    "y_coordinate": "1860436", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301656", 
+    "id": "9155852", 
+    "primary_type": "ROBBERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7028500373332, 
+            41.772817961700184
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.772817961700184", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0831", 
+    "date": {
+        "$date": 1370203200000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f1183c002ed20d78cc89"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.7028500373332", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1156232", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "03", 
+    "block": "066XX S KEDZIE AVE"
+}

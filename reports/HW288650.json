@@ -1,1 +1,38 @@
-{"y_coordinate": "1862597", "year": "2013", "domestic": false, "case_number": "HW288650", "id": "9143745", "primary_type": "MOTOR VEHICLE THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73971717947994, 41.7789447972371]}, "community_area": "64", "latitude": "41.7789447972371", "type": "property", "description": "AUTOMOBILE", "beat": "0813", "date": {"$date": 1369349700000}, "ward": "13", "_id": {"$oid": "51aa13943c002ed20d78b1a3"}, "iucr": "910", "longitude": "-87.73971717947994", "location_description": "STREET", "x_coordinate": "1146160", "updated_on": {"$date": 1369528777000}, "fbi_code": "07", "block": "062XX S KILPATRICK AVE"}
+{
+    "y_coordinate": "1862597", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288650", 
+    "id": "9143745", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73971717947994, 
+            41.7789447972371
+        ]
+    }, 
+    "community_area": "64", 
+    "latitude": "41.7789447972371", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0813", 
+    "date": {
+        "$date": 1369349700000
+    }, 
+    "ward": "13", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1a3"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.73971717947994", 
+    "location_description": "STREET", 
+    "x_coordinate": "1146160", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "07", 
+    "block": "062XX S KILPATRICK AVE"
+}

@@ -1,1 +1,33 @@
-{"community_area": "67", "_id": {"$oid": "51b7429d3c002ed20d78d455"}, "primary_type": "BATTERY", "beat": "0713", "year": "2013", "domestic": true, "iucr": "497", "arrest": false, "location_description": "VEHICLE NON-COMMERCIAL", "location": {"type": "Point", "coordinates": [-87.66056702198952, 41.78507290247472]}, "case_number": "HW302353", "date": {"$date": 1370259900000}, "updated_on": {"$date": 1370824784000}, "ward": "16", "fbi_code": "04B", "type": "violent", "id": "9163655", "block": "059XX S BISHOP ST", "description": "AGGRAVATED DOMESTIC BATTERY: OTHER DANG WEAPON"}
+{
+    "_id": {
+        "$oid": "51b7429d3c002ed20d78d455"
+    }, 
+    "primary_type": "BATTERY", 
+    "year": "2013", 
+    "beat": "0713", 
+    "case_number": "HW302353", 
+    "domestic": true, 
+    "iucr": "497", 
+    "arrest": false, 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66056702198952, 
+            41.78507290247472
+        ]
+    }, 
+    "community_area": "67", 
+    "date": {
+        "$date": 1370259900000
+    }, 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "ward": "16", 
+    "fbi_code": "04B", 
+    "type": "violent", 
+    "id": "9163655", 
+    "block": "059XX S BISHOP ST", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: OTHER DANG WEAPON"
+}

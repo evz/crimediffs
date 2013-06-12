@@ -1,1 +1,38 @@
-{"y_coordinate": "1858420", "year": "2013", "domestic": false, "case_number": "HW303778", "id": "9158628", "primary_type": "BURGLARY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6588750323817, 41.767035714234005]}, "community_area": "67", "latitude": "41.767035714234005", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0734", "date": {"$date": 1370178000000}, "ward": "17", "_id": {"$oid": "51b5f11b3c002ed20d78cda4"}, "iucr": "610", "longitude": "-87.6588750323817", "location_description": "VACANT LOT/LAND", "x_coordinate": "1168244", "updated_on": {"$date": 1370911182000}, "fbi_code": "05", "block": "069XX S LOOMIS BLVD"}
+{
+    "y_coordinate": "1858420", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303778", 
+    "id": "9158628", 
+    "primary_type": "BURGLARY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6588750323817, 
+            41.767035714234005
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.767035714234005", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0734", 
+    "date": {
+        "$date": 1370178000000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cda4"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.6588750323817", 
+    "location_description": "VACANT LOT/LAND", 
+    "x_coordinate": "1168244", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "05", 
+    "block": "069XX S LOOMIS BLVD"
+}

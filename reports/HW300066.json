@@ -1,1 +1,38 @@
-{"y_coordinate": "1897149", "year": "2013", "domestic": false, "case_number": "HW300066", "id": "9154595", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70540025720936, 41.87358247976587]}, "community_area": "27", "latitude": "41.87358247976587", "type": null, "description": "AGG PO HANDS NO/MIN INJURY", "beat": "1134", "date": {"$date": 1370089200000}, "ward": "24", "_id": {"$oid": "51b5f1203c002ed20d78d0ec"}, "iucr": "454", "longitude": "-87.70540025720936", "location_description": "POLICE FACILITY/VEH PARKING LOT", "x_coordinate": "1155268", "updated_on": {"$date": 1370392932000}, "fbi_code": "08B", "block": "031XX W HARRISON ST"}
+{
+    "y_coordinate": "1897149", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300066", 
+    "id": "9154595", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70540025720936, 
+            41.87358247976587
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.87358247976587", 
+    "type": null, 
+    "description": "AGG PO HANDS NO/MIN INJURY", 
+    "beat": "1134", 
+    "date": {
+        "$date": 1370089200000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0ec"
+    }, 
+    "iucr": "454", 
+    "longitude": "-87.70540025720936", 
+    "location_description": "POLICE FACILITY/VEH PARKING LOT", 
+    "x_coordinate": "1155268", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "08B", 
+    "block": "031XX W HARRISON ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1925610", "year": "2013", "domestic": false, "case_number": "HW284767", "id": "9139512", "primary_type": "BURGLARY", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67843184873726, 41.9515354059925]}, "community_area": "5", "latitude": "41.9515354059925", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1922", "date": {"$date": 1369155146000}, "ward": "47", "_id": {"$oid": "51a61f0b3c002ed20d78a810"}, "iucr": "610", "longitude": "-87.67843184873726", "location_description": "RESIDENCE", "x_coordinate": "1162396", "updated_on": {"$date": 1370651988000}, "fbi_code": "05", "block": "019XX W BERENICE AVE"}
+{
+    "y_coordinate": "1925610", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284767", 
+    "id": "9139512", 
+    "primary_type": "BURGLARY", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67843184873726, 
+            41.9515354059925
+        ]
+    }, 
+    "community_area": "5", 
+    "latitude": "41.9515354059925", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1922", 
+    "date": {
+        "$date": 1369155146000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a810"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.67843184873726", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1162396", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "05", 
+    "block": "019XX W BERENICE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1851823", "year": "2013", "domestic": false, "case_number": "HW289583", "id": "9144454", "primary_type": "NARCOTICS", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.63488340603404, 41.748788211978024]}, "community_area": "44", "latitude": "41.748788211978024", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0621", "date": {"$date": 1369425720000}, "ward": "21", "_id": {"$oid": "51aa138e3c002ed20d78aece"}, "iucr": "1811", "longitude": "-87.63488340603404", "location_description": "SIDEWALK", "x_coordinate": "1174843", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "080XX S VINCENNES AVE"}
+{
+    "y_coordinate": "1851823", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289583", 
+    "id": "9144454", 
+    "primary_type": "NARCOTICS", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63488340603404, 
+            41.748788211978024
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.748788211978024", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0621", 
+    "date": {
+        "$date": 1369425720000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51aa138e3c002ed20d78aece"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.63488340603404", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1174843", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "080XX S VINCENNES AVE"
+}

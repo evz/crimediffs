@@ -1,1 +1,38 @@
-{"y_coordinate": "1858274", "year": "2013", "domestic": false, "case_number": "HW287227", "id": "9142643", "primary_type": "BATTERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63209635977124, 41.766474721133854]}, "community_area": "69", "latitude": "41.766474721133854", "type": null, "description": "SIMPLE", "beat": "0731", "date": {"$date": 1369233000000}, "ward": "6", "_id": {"$oid": "51a7708b3c002ed20d78ac02"}, "iucr": "460", "longitude": "-87.63209635977124", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1175551", "updated_on": {"$date": 1369528777000}, "fbi_code": "08B", "block": "070XX S PRINCETON AVE"}
+{
+    "y_coordinate": "1858274", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287227", 
+    "id": "9142643", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63209635977124, 
+            41.766474721133854
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.766474721133854", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0731", 
+    "date": {
+        "$date": 1369233000000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac02"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.63209635977124", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1175551", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "08B", 
+    "block": "070XX S PRINCETON AVE"
+}

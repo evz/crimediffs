@@ -1,1 +1,38 @@
-{"y_coordinate": "1896483", "year": "2013", "domestic": true, "case_number": "HW300690", "id": "9155088", "primary_type": "OTHER OFFENSE", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70642778531807, 41.871760422134344]}, "community_area": "27", "latitude": "41.871760422134344", "type": null, "description": "TELEPHONE THREAT", "beat": "1134", "date": {"$date": 1370126400000}, "ward": "24", "_id": {"$oid": "51b5f11e3c002ed20d78cf3b"}, "iucr": "2820", "longitude": "-87.70642778531807", "location_description": "APARTMENT", "x_coordinate": "1154993", "updated_on": {"$date": 1370651988000}, "fbi_code": "26", "block": "032XX W LEXINGTON ST"}
+{
+    "y_coordinate": "1896483", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300690", 
+    "id": "9155088", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70642778531807, 
+            41.871760422134344
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.871760422134344", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "1134", 
+    "date": {
+        "$date": 1370126400000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf3b"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.70642778531807", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1154993", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "26", 
+    "block": "032XX W LEXINGTON ST"
+}

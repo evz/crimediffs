@@ -1,1 +1,38 @@
-{"y_coordinate": "1860963", "year": "2013", "domestic": false, "case_number": "HW290799", "id": "9145362", "primary_type": "CRIMINAL TRESPASS", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64448698604316, 41.77392909187046]}, "community_area": "68", "latitude": "41.77392909187046", "type": null, "description": "TO LAND", "beat": "0723", "date": {"$date": 1369506000000}, "ward": "6", "_id": {"$oid": "51b34a0f3c002ed20d78c986"}, "iucr": "1330", "longitude": "-87.64448698604316", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1172149", "updated_on": {"$date": 1369701613000}, "fbi_code": "26", "block": "066XX S HALSTED ST"}
+{
+    "y_coordinate": "1860963", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290799", 
+    "id": "9145362", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64448698604316, 
+            41.77392909187046
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.77392909187046", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "0723", 
+    "date": {
+        "$date": 1369506000000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c986"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.64448698604316", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1172149", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "26", 
+    "block": "066XX S HALSTED ST"
+}

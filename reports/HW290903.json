@@ -1,1 +1,38 @@
-{"y_coordinate": "1914352", "year": "2013", "domestic": false, "case_number": "HW290903", "id": "9145560", "primary_type": "ASSAULT", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71575090975561, 41.92084776953488]}, "community_area": "22", "latitude": "41.92084776953488", "type": null, "description": "SIMPLE", "beat": "1413", "date": {"$date": 1369514700000}, "ward": "26", "_id": {"$oid": "51b34a0e3c002ed20d78c922"}, "iucr": "560", "longitude": "-87.71575090975561", "location_description": "APARTMENT", "x_coordinate": "1152325", "updated_on": {"$date": 1369701613000}, "fbi_code": "08A", "block": "035XX W PALMER ST"}
+{
+    "y_coordinate": "1914352", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290903", 
+    "id": "9145560", 
+    "primary_type": "ASSAULT", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71575090975561, 
+            41.92084776953488
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.92084776953488", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1413", 
+    "date": {
+        "$date": 1369514700000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c922"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.71575090975561", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1152325", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08A", 
+    "block": "035XX W PALMER ST"
+}

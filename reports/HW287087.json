@@ -1,1 +1,38 @@
-{"y_coordinate": "1933562", "year": "2013", "domestic": false, "case_number": "HW287087", "id": "9141875", "primary_type": "THEFT", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65409317447893, 41.97321591635464]}, "community_area": "3", "latitude": "41.97321591635464", "type": "property", "description": "$500 AND UNDER", "beat": "2024", "date": {"$date": 1369290600000}, "ward": "48", "_id": {"$oid": "51aa13993c002ed20d78b434"}, "iucr": "820", "longitude": "-87.65409317447893", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1168954", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "009XX W ARGYLE ST"}
+{
+    "y_coordinate": "1933562", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287087", 
+    "id": "9141875", 
+    "primary_type": "THEFT", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65409317447893, 
+            41.97321591635464
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.97321591635464", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2024", 
+    "date": {
+        "$date": 1369290600000
+    }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51aa13993c002ed20d78b434"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.65409317447893", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1168954", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "009XX W ARGYLE ST"
+}

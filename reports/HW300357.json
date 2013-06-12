@@ -1,1 +1,38 @@
-{"y_coordinate": "1905928", "year": "2013", "domestic": false, "case_number": "HW300357", "id": "9154786", "primary_type": "NARCOTICS", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.75062778960924, 41.89791261300138]}, "community_area": "25", "latitude": "41.89791261300138", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "1531", "date": {"$date": 1370112900000}, "ward": "37", "_id": {"$oid": "51b5f11f3c002ed20d78cfe6"}, "iucr": "2024", "longitude": "-87.75062778960924", "location_description": "STREET", "x_coordinate": "1142890", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "009XX N LAVERGNE AVE"}
+{
+    "y_coordinate": "1905928", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300357", 
+    "id": "9154786", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75062778960924, 
+            41.89791261300138
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.89791261300138", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "1531", 
+    "date": {
+        "$date": 1370112900000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cfe6"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.75062778960924", 
+    "location_description": "STREET", 
+    "x_coordinate": "1142890", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "009XX N LAVERGNE AVE"
+}

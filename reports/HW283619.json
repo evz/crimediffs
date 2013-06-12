@@ -1,1 +1,38 @@
-{"y_coordinate": "1867770", "year": "2013", "domestic": true, "case_number": "HW283619", "id": "9138324", "primary_type": "BATTERY", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62417438882076, 41.79248587393557]}, "community_area": "40", "latitude": "41.79248587393557", "type": "violent", "description": "AGGRAVATED DOMESTIC BATTERY: KNIFE/CUTTING INST", "beat": "0225", "date": {"$date": 1369080000000}, "ward": "20", "_id": {"$oid": "51a4cd8e3c002ed20d78a3e5"}, "iucr": "496", "longitude": "-87.62417438882076", "location_description": "APARTMENT", "x_coordinate": "1177634", "updated_on": {"$date": 1369269615000}, "fbi_code": "04B", "block": "056XX S WABASH AVE"}
+{
+    "y_coordinate": "1867770", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283619", 
+    "id": "9138324", 
+    "primary_type": "BATTERY", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62417438882076, 
+            41.79248587393557
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.79248587393557", 
+    "type": "violent", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: KNIFE/CUTTING INST", 
+    "beat": "0225", 
+    "date": {
+        "$date": 1369080000000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3e5"
+    }, 
+    "iucr": "496", 
+    "longitude": "-87.62417438882076", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1177634", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "04B", 
+    "block": "056XX S WABASH AVE"
+}

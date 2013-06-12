@@ -1,1 +1,38 @@
-{"y_coordinate": "1840443", "year": "2013", "domestic": false, "case_number": "HW288894", "id": "9144067", "primary_type": "BATTERY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55994557150703, 41.71707800960686]}, "community_area": "51", "latitude": "41.71707800960686", "type": null, "description": "SIMPLE", "beat": "0431", "date": {"$date": 1369398000000}, "ward": "7", "_id": {"$oid": "51aa13913c002ed20d78b055"}, "iucr": "460", "longitude": "-87.55994557150703", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1195396", "updated_on": {"$date": 1369615194000}, "fbi_code": "08B", "block": "098XX S TORRENCE AVE"}
+{
+    "y_coordinate": "1840443", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288894", 
+    "id": "9144067", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55994557150703, 
+            41.71707800960686
+        ]
+    }, 
+    "community_area": "51", 
+    "latitude": "41.71707800960686", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0431", 
+    "date": {
+        "$date": 1369398000000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b055"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.55994557150703", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1195396", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08B", 
+    "block": "098XX S TORRENCE AVE"
+}

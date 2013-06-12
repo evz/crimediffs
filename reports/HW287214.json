@@ -1,1 +1,38 @@
-{"y_coordinate": "1910868", "year": "2013", "domestic": false, "case_number": "HW287214", "id": "9142017", "primary_type": "ROBBERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7571025278859, 41.91150182501193]}, "community_area": "25", "latitude": "41.91150182501193", "type": "violent", "description": "AGGRAVATED", "beat": "2532", "date": {"$date": 1369297200000}, "ward": "37", "_id": {"$oid": "51aa13983c002ed20d78b3fc"}, "iucr": "330", "longitude": "-87.7571025278859", "location_description": "SIDEWALK", "x_coordinate": "1141094", "updated_on": {"$date": 1370392932000}, "fbi_code": "03", "block": "017XX N LATROBE AVE"}
+{
+    "y_coordinate": "1910868", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287214", 
+    "id": "9142017", 
+    "primary_type": "ROBBERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7571025278859, 
+            41.91150182501193
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.91150182501193", 
+    "type": "violent", 
+    "description": "AGGRAVATED", 
+    "beat": "2532", 
+    "date": {
+        "$date": 1369297200000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3fc"
+    }, 
+    "iucr": "330", 
+    "longitude": "-87.7571025278859", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1141094", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "03", 
+    "block": "017XX N LATROBE AVE"
+}

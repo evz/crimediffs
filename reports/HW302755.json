@@ -1,1 +1,38 @@
-{"y_coordinate": "1932525", "year": "2013", "domestic": true, "case_number": "HW302755", "id": "9157694", "primary_type": "OTHER OFFENSE", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69786574378406, 41.97062081949334]}, "community_area": "4", "latitude": "41.97062081949334", "type": null, "description": "HARASSMENT BY ELECTRONIC MEANS", "beat": "2031", "date": {"$date": 1370271480000}, "ward": "40", "_id": {"$oid": "51b7429c3c002ed20d78d3c4"}, "iucr": "2826", "longitude": "-87.69786574378406", "location_description": "RESIDENCE", "x_coordinate": "1157058", "updated_on": {"$date": 1370911182000}, "fbi_code": "26", "block": "027XX W AINSLIE ST"}
+{
+    "y_coordinate": "1932525", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW302755", 
+    "id": "9157694", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69786574378406, 
+            41.97062081949334
+        ]
+    }, 
+    "community_area": "4", 
+    "latitude": "41.97062081949334", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "2031", 
+    "date": {
+        "$date": 1370271480000
+    }, 
+    "ward": "40", 
+    "_id": {
+        "$oid": "51b7429c3c002ed20d78d3c4"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.69786574378406", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1157058", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "26", 
+    "block": "027XX W AINSLIE ST"
+}

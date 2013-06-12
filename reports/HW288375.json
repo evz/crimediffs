@@ -1,1 +1,38 @@
-{"y_coordinate": "1920428", "year": "2013", "domestic": false, "case_number": "HW288375", "id": "9143301", "primary_type": "ARSON", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77512503671934, 41.937825692045024]}, "community_area": "19", "latitude": "41.937825692045024", "type": "property", "description": "BY FIRE", "beat": "2514", "date": {"$date": 1369353000000}, "ward": "30", "_id": {"$oid": "51aa13943c002ed20d78b18e"}, "iucr": "1020", "longitude": "-87.77512503671934", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1136126", "updated_on": {"$date": 1369528777000}, "fbi_code": "09", "block": "031XX N MASON AVE"}
+{
+    "y_coordinate": "1920428", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288375", 
+    "id": "9143301", 
+    "primary_type": "ARSON", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77512503671934, 
+            41.937825692045024
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.937825692045024", 
+    "type": "property", 
+    "description": "BY FIRE", 
+    "beat": "2514", 
+    "date": {
+        "$date": 1369353000000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b18e"
+    }, 
+    "iucr": "1020", 
+    "longitude": "-87.77512503671934", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1136126", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "09", 
+    "block": "031XX N MASON AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1918413", "year": "2013", "domestic": false, "case_number": "HW309052", "id": "9164044", "primary_type": "OTHER OFFENSE", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70464452726821, 41.93193179666549]}, "community_area": "22", "latitude": "41.93193179666549", "type": null, "description": "TELEPHONE THREAT", "beat": "1411", "date": {"$date": 1370304060000}, "ward": "35", "_id": {"$oid": "51b742963c002ed20d78d207"}, "iucr": "2820", "longitude": "-87.70464452726821", "location_description": "RESIDENCE", "x_coordinate": "1155318", "updated_on": {"$date": 1370911182000}, "fbi_code": "26", "block": "030XX W DIVERSEY AVE"}
+{
+    "y_coordinate": "1918413", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW309052", 
+    "id": "9164044", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70464452726821, 
+            41.93193179666549
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.93193179666549", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "1411", 
+    "date": {
+        "$date": 1370304060000
+    }, 
+    "ward": "35", 
+    "_id": {
+        "$oid": "51b742963c002ed20d78d207"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.70464452726821", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1155318", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "26", 
+    "block": "030XX W DIVERSEY AVE"
+}

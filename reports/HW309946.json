@@ -1,1 +1,38 @@
-{"y_coordinate": "1901526", "year": "2013", "domestic": false, "case_number": "HW309946", "id": "9164743", "primary_type": "OFFENSE INVOLVING CHILDREN", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70081357859307, 41.885568881099466]}, "community_area": "27", "latitude": "41.885568881099466", "type": "violent", "description": "AGG SEX ASSLT OF CHILD FAM MBR", "beat": "1222", "date": {"$date": 1369958400000}, "ward": "27", "_id": {"$oid": "51b5f1243c002ed20d78d1b0"}, "iucr": "1754", "longitude": "-87.70081357859307", "location_description": "RESIDENCE", "x_coordinate": "1156485", "updated_on": {"$date": 1370911182000}, "fbi_code": "02", "block": "029XX W WALNUT ST"}
+{
+    "y_coordinate": "1901526", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW309946", 
+    "id": "9164743", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70081357859307, 
+            41.885568881099466
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.885568881099466", 
+    "type": "violent", 
+    "description": "AGG SEX ASSLT OF CHILD FAM MBR", 
+    "beat": "1222", 
+    "date": {
+        "$date": 1369958400000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b5f1243c002ed20d78d1b0"
+    }, 
+    "iucr": "1754", 
+    "longitude": "-87.70081357859307", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1156485", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "02", 
+    "block": "029XX W WALNUT ST"
+}

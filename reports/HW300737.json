@@ -1,1 +1,38 @@
-{"y_coordinate": "1914182", "year": "2013", "domestic": false, "case_number": "HW300737", "id": "9155114", "primary_type": "BATTERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77569331185407, 41.92068800476625]}, "community_area": "19", "latitude": "41.92068800476625", "type": "violent", "description": "AGGRAVATED: OTHER DANG WEAPON", "beat": "2512", "date": {"$date": 1370138400000}, "ward": "37", "_id": {"$oid": "51b5f11d3c002ed20d78cebf"}, "iucr": "430", "longitude": "-87.77569331185407", "location_description": "SIDEWALK", "x_coordinate": "1136012", "updated_on": {"$date": 1370392932000}, "fbi_code": "04B", "block": "060XX W GRAND AVE"}
+{
+    "y_coordinate": "1914182", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300737", 
+    "id": "9155114", 
+    "primary_type": "BATTERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77569331185407, 
+            41.92068800476625
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.92068800476625", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "2512", 
+    "date": {
+        "$date": 1370138400000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78cebf"
+    }, 
+    "iucr": "430", 
+    "longitude": "-87.77569331185407", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1136012", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "04B", 
+    "block": "060XX W GRAND AVE"
+}

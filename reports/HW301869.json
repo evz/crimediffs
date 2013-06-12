@@ -1,1 +1,38 @@
-{"y_coordinate": "1870161", "year": "2013", "domestic": false, "case_number": "HW301869", "id": "9156042", "primary_type": "NARCOTICS", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68585837546375, 41.79941168686086]}, "community_area": "63", "latitude": "41.79941168686086", "type": "quality", "description": "POSS: COCAINE", "beat": "0923", "date": {"$date": 1370219880000}, "ward": "14", "_id": {"$oid": "51b5f1153c002ed20d78cbcc"}, "iucr": "2022", "longitude": "-87.68585837546375", "location_description": "STREET", "x_coordinate": "1160794", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "024XX W 52ND ST"}
+{
+    "y_coordinate": "1870161", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301869", 
+    "id": "9156042", 
+    "primary_type": "NARCOTICS", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68585837546375, 
+            41.79941168686086
+        ]
+    }, 
+    "community_area": "63", 
+    "latitude": "41.79941168686086", 
+    "type": "quality", 
+    "description": "POSS: COCAINE", 
+    "beat": "0923", 
+    "date": {
+        "$date": 1370219880000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbcc"
+    }, 
+    "iucr": "2022", 
+    "longitude": "-87.68585837546375", 
+    "location_description": "STREET", 
+    "x_coordinate": "1160794", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "024XX W 52ND ST"
+}

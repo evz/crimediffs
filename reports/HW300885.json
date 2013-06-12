@@ -1,1 +1,38 @@
-{"y_coordinate": "1918469", "year": "2013", "domestic": false, "case_number": "HW300885", "id": "9155250", "primary_type": "ASSAULT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66096738238949, 41.93183801168962]}, "community_area": "7", "latitude": "41.93183801168962", "type": null, "description": "SIMPLE", "beat": "1932", "date": {"$date": 1370104200000}, "ward": "32", "_id": {"$oid": "51b5f11f3c002ed20d78d038"}, "iucr": "560", "longitude": "-87.66096738238949", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1167203", "updated_on": {"$date": 1370306580000}, "fbi_code": "08A", "block": "027XX N LAKEWOOD AVE"}
+{
+    "y_coordinate": "1918469", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300885", 
+    "id": "9155250", 
+    "primary_type": "ASSAULT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66096738238949, 
+            41.93183801168962
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.93183801168962", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1932", 
+    "date": {
+        "$date": 1370104200000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d038"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.66096738238949", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1167203", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08A", 
+    "block": "027XX N LAKEWOOD AVE"
+}

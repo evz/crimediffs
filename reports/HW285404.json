@@ -1,1 +1,38 @@
-{"y_coordinate": "1908957", "year": "2013", "domestic": true, "case_number": "HW285404", "id": "9140044", "primary_type": "BATTERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75326687276633, 41.90623827670718]}, "community_area": "25", "latitude": "41.90623827670718", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "2533", "date": {"$date": 1369182300000}, "ward": "37", "_id": {"$oid": "51a61f073c002ed20d78a6b3"}, "iucr": "486", "longitude": "-87.75326687276633", "location_description": "APARTMENT", "x_coordinate": "1142151", "updated_on": {"$date": 1369787985000}, "fbi_code": "08B", "block": "014XX N LECLAIRE AVE"}
+{
+    "y_coordinate": "1908957", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285404", 
+    "id": "9140044", 
+    "primary_type": "BATTERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75326687276633, 
+            41.90623827670718
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.90623827670718", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "2533", 
+    "date": {
+        "$date": 1369182300000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a61f073c002ed20d78a6b3"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.75326687276633", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1142151", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "08B", 
+    "block": "014XX N LECLAIRE AVE"
+}

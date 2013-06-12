@@ -1,1 +1,38 @@
-{"y_coordinate": "1923681", "year": "2013", "domestic": false, "case_number": "HW300721", "id": "9155121", "primary_type": "ROBBERY", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65580721483039, 41.9461105359782]}, "community_area": "6", "latitude": "41.9461105359782", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "1924", "date": {"$date": 1370137500000}, "ward": "44", "_id": {"$oid": "51b5f11d3c002ed20d78cec2"}, "iucr": "320", "longitude": "-87.65580721483039", "location_description": "ALLEY", "x_coordinate": "1168566", "updated_on": {"$date": 1370824784000}, "fbi_code": "03", "block": "035XX N CLARK ST"}
+{
+    "y_coordinate": "1923681", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300721", 
+    "id": "9155121", 
+    "primary_type": "ROBBERY", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65580721483039, 
+            41.9461105359782
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.9461105359782", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "1924", 
+    "date": {
+        "$date": 1370137500000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78cec2"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.65580721483039", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1168566", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "03", 
+    "block": "035XX N CLARK ST"
+}

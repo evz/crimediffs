@@ -1,1 +1,38 @@
-{"y_coordinate": "1854958", "year": "2013", "domestic": false, "case_number": "HW283357", "id": "9138054", "primary_type": "BATTERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68686794091278, 41.757695862461816]}, "community_area": "66", "latitude": "41.757695862461816", "type": "violent", "description": "AGGRAVATED PO: OTHER DANG WEAP", "beat": "0835", "date": {"$date": 1369066920000}, "ward": "18", "_id": {"$oid": "51a4cd903c002ed20d78a49c"}, "iucr": "453", "longitude": "-87.68686794091278", "location_description": "RESIDENCE", "x_coordinate": "1160633", "updated_on": {"$date": 1369269615000}, "fbi_code": "04B", "block": "074XX S MAPLEWOOD AVE"}
+{
+    "y_coordinate": "1854958", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283357", 
+    "id": "9138054", 
+    "primary_type": "BATTERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68686794091278, 
+            41.757695862461816
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.757695862461816", 
+    "type": "violent", 
+    "description": "AGGRAVATED PO: OTHER DANG WEAP", 
+    "beat": "0835", 
+    "date": {
+        "$date": 1369066920000
+    }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a49c"
+    }, 
+    "iucr": "453", 
+    "longitude": "-87.68686794091278", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1160633", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "04B", 
+    "block": "074XX S MAPLEWOOD AVE"
+}

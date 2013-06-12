@@ -1,1 +1,38 @@
-{"y_coordinate": "1893533", "year": "2013", "domestic": true, "case_number": "HW298966", "id": "9153793", "primary_type": "THEFT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62420498400684, 41.86318661973117]}, "community_area": "33", "latitude": "41.86318661973117", "type": "property", "description": "OVER $500", "beat": "0131", "date": {"$date": 1369224000000}, "ward": "2", "_id": {"$oid": "51aa139a3c002ed20d78b444"}, "iucr": "810", "longitude": "-87.62420498400684", "location_description": "APARTMENT", "x_coordinate": "1177413", "updated_on": {"$date": 1370306580000}, "fbi_code": "06", "block": "014XX S MICHIGAN AVE"}
+{
+    "y_coordinate": "1893533", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW298966", 
+    "id": "9153793", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62420498400684, 
+            41.86318661973117
+        ]
+    }, 
+    "community_area": "33", 
+    "latitude": "41.86318661973117", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0131", 
+    "date": {
+        "$date": 1369224000000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51aa139a3c002ed20d78b444"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.62420498400684", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1177413", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "06", 
+    "block": "014XX S MICHIGAN AVE"
+}

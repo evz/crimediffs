@@ -1,1 +1,38 @@
-{"y_coordinate": "1921201", "year": "2013", "domestic": false, "case_number": "HW284307", "id": "9139082", "primary_type": "THEFT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75413122852889, 41.939842990951554]}, "community_area": "15", "latitude": "41.939842990951554", "type": "property", "description": "$500 AND UNDER", "beat": "1634", "date": {"$date": 1369135200000}, "ward": "30", "_id": {"$oid": "51a61f0e3c002ed20d78a915"}, "iucr": "820", "longitude": "-87.75413122852889", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1141833", "updated_on": {"$date": 1370047283000}, "fbi_code": "06", "block": "032XX N LECLAIRE AVE"}
+{
+    "y_coordinate": "1921201", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284307", 
+    "id": "9139082", 
+    "primary_type": "THEFT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75413122852889, 
+            41.939842990951554
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.939842990951554", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1634", 
+    "date": {
+        "$date": 1369135200000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a915"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.75413122852889", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1141833", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "06", 
+    "block": "032XX N LECLAIRE AVE"
+}

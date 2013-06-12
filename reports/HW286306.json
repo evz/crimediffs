@@ -1,1 +1,38 @@
-{"y_coordinate": "1869986", "year": "2013", "domestic": true, "case_number": "HW286306", "id": "9141341", "primary_type": "CRIMINAL DAMAGE", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6052727782483, 41.7984489628899]}, "community_area": "41", "latitude": "41.7984489628899", "type": "quality", "description": "TO PROPERTY", "beat": "0233", "date": {"$date": 1369236600000}, "ward": "5", "_id": {"$oid": "51a7708a3c002ed20d78abc1"}, "iucr": "1310", "longitude": "-87.6052727782483", "location_description": "OTHER", "x_coordinate": "1182770", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "053XX S MARYLAND AVE"}
+{
+    "y_coordinate": "1869986", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW286306", 
+    "id": "9141341", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6052727782483, 
+            41.7984489628899
+        ]
+    }, 
+    "community_area": "41", 
+    "latitude": "41.7984489628899", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0233", 
+    "date": {
+        "$date": 1369236600000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78abc1"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.6052727782483", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1182770", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "053XX S MARYLAND AVE"
+}

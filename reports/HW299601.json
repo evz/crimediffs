@@ -1,1 +1,38 @@
-{"y_coordinate": "1859127", "year": "2013", "domestic": false, "case_number": "HW299601", "id": "9154266", "primary_type": "OTHER OFFENSE", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72481635767035, 41.76934412026278]}, "community_area": "65", "latitude": "41.76934412026278", "type": null, "description": "FALSE/STOLEN/ALTERED TRP", "beat": "0833", "date": {"$date": 1370076900000}, "ward": "13", "_id": {"$oid": "51b5f1213c002ed20d78d166"}, "iucr": "502P", "longitude": "-87.72481635767035", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1150249", "updated_on": {"$date": 1370392932000}, "fbi_code": "26", "block": "068XX S KARLOV AVE"}
+{
+    "y_coordinate": "1859127", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299601", 
+    "id": "9154266", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72481635767035, 
+            41.76934412026278
+        ]
+    }, 
+    "community_area": "65", 
+    "latitude": "41.76934412026278", 
+    "type": null, 
+    "description": "FALSE/STOLEN/ALTERED TRP", 
+    "beat": "0833", 
+    "date": {
+        "$date": 1370076900000
+    }, 
+    "ward": "13", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d166"
+    }, 
+    "iucr": "502P", 
+    "longitude": "-87.72481635767035", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1150249", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "26", 
+    "block": "068XX S KARLOV AVE"
+}

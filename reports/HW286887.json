@@ -1,1 +1,38 @@
-{"y_coordinate": "1862584", "year": "2013", "domestic": false, "case_number": "HW286887", "id": "9141671", "primary_type": "THEFT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.59817791091393, 41.77809058610469]}, "community_area": "42", "latitude": "41.77809058610469", "type": "property", "description": "$500 AND UNDER", "beat": "0314", "date": {"$date": 1369233000000}, "ward": "20", "_id": {"$oid": "51a7708b3c002ed20d78ac09"}, "iucr": "820", "longitude": "-87.59817791091393", "location_description": "STREET", "x_coordinate": "1184768", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "064XX S UNIVERSITY AVE"}
+{
+    "y_coordinate": "1862584", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286887", 
+    "id": "9141671", 
+    "primary_type": "THEFT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59817791091393, 
+            41.77809058610469
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.77809058610469", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0314", 
+    "date": {
+        "$date": 1369233000000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac09"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.59817791091393", 
+    "location_description": "STREET", 
+    "x_coordinate": "1184768", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "064XX S UNIVERSITY AVE"
+}

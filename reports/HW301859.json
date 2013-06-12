@@ -1,1 +1,38 @@
-{"y_coordinate": "1831572", "year": "2013", "domestic": true, "case_number": "HW301859", "id": "9156038", "primary_type": "BATTERY", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66978686624472, 41.69341984926912]}, "community_area": "75", "latitude": "41.69341984926912", "type": null, "description": "SIMPLE", "beat": "2212", "date": {"$date": 1370218740000}, "ward": "19", "_id": {"$oid": "51b5f1153c002ed20d78cbd6"}, "iucr": "460", "longitude": "-87.66978686624472", "location_description": "APARTMENT", "x_coordinate": "1165474", "updated_on": {"$date": 1370651988000}, "fbi_code": "08B", "block": "019XX W PRYOR AVE"}
+{
+    "y_coordinate": "1831572", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301859", 
+    "id": "9156038", 
+    "primary_type": "BATTERY", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66978686624472, 
+            41.69341984926912
+        ]
+    }, 
+    "community_area": "75", 
+    "latitude": "41.69341984926912", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2212", 
+    "date": {
+        "$date": 1370218740000
+    }, 
+    "ward": "19", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbd6"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.66978686624472", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1165474", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "08B", 
+    "block": "019XX W PRYOR AVE"
+}

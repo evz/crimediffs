@@ -1,1 +1,38 @@
-{"y_coordinate": "1867388", "year": "2013", "domestic": true, "case_number": "HW285737", "id": "9140537", "primary_type": "CRIMINAL DAMAGE", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77901885988321, 41.79228907227745]}, "community_area": "56", "latitude": "41.79228907227745", "type": "quality", "description": "TO PROPERTY", "beat": "0811", "date": {"$date": 1369216620000}, "ward": "23", "_id": {"$oid": "51a7708d3c002ed20d78acc8"}, "iucr": "1310", "longitude": "-87.77901885988321", "location_description": "APARTMENT", "x_coordinate": "1135409", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "062XX W 55TH ST"}
+{
+    "y_coordinate": "1867388", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285737", 
+    "id": "9140537", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77901885988321, 
+            41.79228907227745
+        ]
+    }, 
+    "community_area": "56", 
+    "latitude": "41.79228907227745", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0811", 
+    "date": {
+        "$date": 1369216620000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78acc8"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.77901885988321", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1135409", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "062XX W 55TH ST"
+}

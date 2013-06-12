@@ -1,1 +1,33 @@
-{"community_area": "43", "_id": {"$oid": "51b5f1163c002ed20d78cc2e"}, "primary_type": "BATTERY", "beat": "0334", "year": "2013", "domestic": false, "iucr": "460", "arrest": false, "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "location": {"type": "Point", "coordinates": [-87.56123099499386, 41.76450547959404]}, "case_number": "HW301848", "date": {"$date": 1370210400000}, "updated_on": {"$date": 1370479286000}, "ward": "7", "fbi_code": "08B", "type": null, "id": "9158025", "block": "072XX S SOUTH SHORE DR", "description": "SIMPLE"}
+{
+    "_id": {
+        "$oid": "51b5f1163c002ed20d78cc2e"
+    }, 
+    "primary_type": "BATTERY", 
+    "year": "2013", 
+    "beat": "0334", 
+    "case_number": "HW301848", 
+    "domestic": false, 
+    "iucr": "460", 
+    "arrest": false, 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56123099499386, 
+            41.76450547959404
+        ]
+    }, 
+    "community_area": "43", 
+    "date": {
+        "$date": 1370210400000
+    }, 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "ward": "7", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9158025", 
+    "block": "072XX S SOUTH SHORE DR", 
+    "description": "SIMPLE"
+}

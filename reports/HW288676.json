@@ -1,1 +1,38 @@
-{"y_coordinate": "1851740", "year": "2013", "domestic": true, "case_number": "HW288676", "id": "9143988", "primary_type": "OFFENSE INVOLVING CHILDREN", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65918786393168, 41.74870560896635]}, "community_area": "71", "latitude": "41.74870560896635", "type": null, "description": "CHILD ABUSE", "beat": "0612", "date": {"$date": 1369384200000}, "ward": "21", "_id": {"$oid": "51aa13933c002ed20d78b0f7"}, "iucr": "1750", "longitude": "-87.65918786393168", "location_description": "STREET", "x_coordinate": "1168211", "updated_on": {"$date": 1370651988000}, "fbi_code": "20", "block": "014XX W 80TH ST"}
+{
+    "y_coordinate": "1851740", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW288676", 
+    "id": "9143988", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65918786393168, 
+            41.74870560896635
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.74870560896635", 
+    "type": null, 
+    "description": "CHILD ABUSE", 
+    "beat": "0612", 
+    "date": {
+        "$date": 1369384200000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b0f7"
+    }, 
+    "iucr": "1750", 
+    "longitude": "-87.65918786393168", 
+    "location_description": "STREET", 
+    "x_coordinate": "1168211", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "20", 
+    "block": "014XX W 80TH ST"
+}

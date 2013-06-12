@@ -1,1 +1,38 @@
-{"y_coordinate": "1872929", "year": "2013", "domestic": false, "case_number": "HW299912", "id": "9154583", "primary_type": "ASSAULT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66993377583935, 41.80691699894299]}, "community_area": "61", "latitude": "41.80691699894299", "type": "violent", "description": "AGGRAVATED: HANDGUN", "beat": "0931", "date": {"$date": 1370091900000}, "ward": "20", "_id": {"$oid": "51b5f1203c002ed20d78d0c6"}, "iucr": "051A", "longitude": "-87.66993377583935", "location_description": "SIDEWALK", "x_coordinate": "1165115", "updated_on": {"$date": 1370306580000}, "fbi_code": "04A", "block": "047XX S WOOD ST"}
+{
+    "y_coordinate": "1872929", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299912", 
+    "id": "9154583", 
+    "primary_type": "ASSAULT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66993377583935, 
+            41.80691699894299
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.80691699894299", 
+    "type": "violent", 
+    "description": "AGGRAVATED: HANDGUN", 
+    "beat": "0931", 
+    "date": {
+        "$date": 1370091900000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0c6"
+    }, 
+    "iucr": "051A", 
+    "longitude": "-87.66993377583935", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1165115", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "04A", 
+    "block": "047XX S WOOD ST"
+}

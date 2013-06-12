@@ -1,1 +1,38 @@
-{"y_coordinate": "1913126", "year": "2013", "domestic": false, "case_number": "HW284158", "id": "9140165", "primary_type": "ROBBERY", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71121283685775, 41.917458846441974]}, "community_area": "22", "latitude": "41.917458846441974", "type": "violent", "description": "AGGRAVATED", "beat": "1413", "date": {"$date": 1369125000000}, "ward": "35", "_id": {"$oid": "51a61f0f3c002ed20d78a986"}, "iucr": "330", "longitude": "-87.71121283685775", "location_description": "STREET", "x_coordinate": "1153569", "updated_on": {"$date": 1369442383000}, "fbi_code": "03", "block": "033XX W ARMITAGE AVE"}
+{
+    "y_coordinate": "1913126", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284158", 
+    "id": "9140165", 
+    "primary_type": "ROBBERY", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71121283685775, 
+            41.917458846441974
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.917458846441974", 
+    "type": "violent", 
+    "description": "AGGRAVATED", 
+    "beat": "1413", 
+    "date": {
+        "$date": 1369125000000
+    }, 
+    "ward": "35", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a986"
+    }, 
+    "iucr": "330", 
+    "longitude": "-87.71121283685775", 
+    "location_description": "STREET", 
+    "x_coordinate": "1153569", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "03", 
+    "block": "033XX W ARMITAGE AVE"
+}

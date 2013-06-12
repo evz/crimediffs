@@ -1,1 +1,38 @@
-{"y_coordinate": "1861627", "year": "2013", "domestic": false, "case_number": "HW301431", "id": "9155854", "primary_type": "BATTERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68370378321062, 41.77597975142941]}, "community_area": "66", "latitude": "41.77597975142941", "type": "violent", "description": "AGGRAVATED:KNIFE/CUTTING INSTR", "beat": "0825", "date": {"$date": 1370192700000}, "ward": "15", "_id": {"$oid": "51b5f1193c002ed20d78ccfe"}, "iucr": "420", "longitude": "-87.68370378321062", "location_description": "STREET", "x_coordinate": "1161446", "updated_on": {"$date": 1370651988000}, "fbi_code": "04B", "block": "064XX S WESTERN AVE"}
+{
+    "y_coordinate": "1861627", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301431", 
+    "id": "9155854", 
+    "primary_type": "BATTERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68370378321062, 
+            41.77597975142941
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.77597975142941", 
+    "type": "violent", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
+    "beat": "0825", 
+    "date": {
+        "$date": 1370192700000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78ccfe"
+    }, 
+    "iucr": "420", 
+    "longitude": "-87.68370378321062", 
+    "location_description": "STREET", 
+    "x_coordinate": "1161446", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "04B", 
+    "block": "064XX S WESTERN AVE"
+}

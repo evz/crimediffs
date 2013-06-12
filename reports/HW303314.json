@@ -1,1 +1,38 @@
-{"y_coordinate": "1913627", "year": "2013", "domestic": false, "case_number": "HW303314", "id": "9157977", "primary_type": "ROBBERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.724826822618, 41.91890665922567]}, "community_area": "22", "latitude": "41.91890665922567", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "2525", "date": {"$date": 1370292000000}, "ward": "30", "_id": {"$oid": "51b742983c002ed20d78d29a"}, "iucr": "320", "longitude": "-87.724826822618", "location_description": "PARK PROPERTY", "x_coordinate": "1149860", "updated_on": {"$date": 1370479286000}, "fbi_code": "03", "block": "039XX W DICKENS AVE"}
+{
+    "y_coordinate": "1913627", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303314", 
+    "id": "9157977", 
+    "primary_type": "ROBBERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.724826822618, 
+            41.91890665922567
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.91890665922567", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "2525", 
+    "date": {
+        "$date": 1370292000000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51b742983c002ed20d78d29a"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.724826822618", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1149860", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "03", 
+    "block": "039XX W DICKENS AVE"
+}

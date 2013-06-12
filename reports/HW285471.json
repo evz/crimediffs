@@ -1,1 +1,38 @@
-{"y_coordinate": "1942870", "year": "2013", "domestic": false, "case_number": "HW285471", "id": "9140074", "primary_type": "CRIMINAL DAMAGE", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.80153439146457, 41.99953662327282]}, "community_area": "10", "latitude": "41.99953662327282", "type": "quality", "description": "TO VEHICLE", "beat": "1611", "date": {"$date": 1369193100000}, "ward": "41", "_id": {"$oid": "51a61f053c002ed20d78a673"}, "iucr": "1320", "longitude": "-87.80153439146457", "location_description": "STREET", "x_coordinate": "1128801", "updated_on": {"$date": 1369356045000}, "fbi_code": "14", "block": "064XX N SAYRE AVE"}
+{
+    "y_coordinate": "1942870", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285471", 
+    "id": "9140074", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.80153439146457, 
+            41.99953662327282
+        ]
+    }, 
+    "community_area": "10", 
+    "latitude": "41.99953662327282", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1611", 
+    "date": {
+        "$date": 1369193100000
+    }, 
+    "ward": "41", 
+    "_id": {
+        "$oid": "51a61f053c002ed20d78a673"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.80153439146457", 
+    "location_description": "STREET", 
+    "x_coordinate": "1128801", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "14", 
+    "block": "064XX N SAYRE AVE"
+}

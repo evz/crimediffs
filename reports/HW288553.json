@@ -1,1 +1,38 @@
-{"y_coordinate": "1909185", "year": "2013", "domestic": false, "case_number": "HW288553", "id": "9144009", "primary_type": "CRIMINAL DAMAGE", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68360565627778, 41.90649093685417]}, "community_area": "24", "latitude": "41.90649093685417", "type": "quality", "description": "TO VEHICLE", "beat": "1424", "date": {"$date": 1369346400000}, "ward": "1", "_id": {"$oid": "51aa13943c002ed20d78b1c1"}, "iucr": "1320", "longitude": "-87.68360565627778", "location_description": "STREET", "x_coordinate": "1161113", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "013XX N BELL AVE"}
+{
+    "y_coordinate": "1909185", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288553", 
+    "id": "9144009", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68360565627778, 
+            41.90649093685417
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.90649093685417", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1424", 
+    "date": {
+        "$date": 1369346400000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1c1"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.68360565627778", 
+    "location_description": "STREET", 
+    "x_coordinate": "1161113", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "013XX N BELL AVE"
+}

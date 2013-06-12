@@ -1,1 +1,33 @@
-{"community_area": "66", "_id": {"$oid": "51b5f1203c002ed20d78d0e6"}, "primary_type": "CRIMINAL DAMAGE", "beat": "0832", "year": "2013", "domestic": false, "iucr": "1310", "arrest": false, "location_description": "RESIDENCE-GARAGE", "location": {"type": "Point", "coordinates": [-87.68668817798532, 41.76172897695711]}, "case_number": "HW300040", "date": {"$date": 1370089800000}, "updated_on": {"$date": 1370306580000}, "ward": "18", "fbi_code": "14", "type": "quality", "id": "9155234", "block": "072XX S MAPLEWOOD AVE", "description": "TO PROPERTY"}
+{
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0e6"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "year": "2013", 
+    "beat": "0832", 
+    "case_number": "HW300040", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "RESIDENCE-GARAGE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68668817798532, 
+            41.76172897695711
+        ]
+    }, 
+    "community_area": "66", 
+    "date": {
+        "$date": 1370089800000
+    }, 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "ward": "18", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9155234", 
+    "block": "072XX S MAPLEWOOD AVE", 
+    "description": "TO PROPERTY"
+}

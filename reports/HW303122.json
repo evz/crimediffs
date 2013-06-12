@@ -1,1 +1,38 @@
-{"y_coordinate": "1859758", "year": "2013", "domestic": false, "case_number": "HW303122", "id": "9157627", "primary_type": "ROBBERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73003093051247, 41.771103275215076]}, "community_area": "65", "latitude": "41.771103275215076", "type": "violent", "description": "AGGRAVATED VEHICULAR HIJACKING", "beat": "0833", "date": {"$date": 1370283600000}, "ward": "13", "_id": {"$oid": "51b7429a3c002ed20d78d310"}, "iucr": "326", "longitude": "-87.73003093051247", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1148822", "updated_on": {"$date": 1370479286000}, "fbi_code": "03", "block": "067XX S KILDARE AVE"}
+{
+    "y_coordinate": "1859758", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303122", 
+    "id": "9157627", 
+    "primary_type": "ROBBERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73003093051247, 
+            41.771103275215076
+        ]
+    }, 
+    "community_area": "65", 
+    "latitude": "41.771103275215076", 
+    "type": "violent", 
+    "description": "AGGRAVATED VEHICULAR HIJACKING", 
+    "beat": "0833", 
+    "date": {
+        "$date": 1370283600000
+    }, 
+    "ward": "13", 
+    "_id": {
+        "$oid": "51b7429a3c002ed20d78d310"
+    }, 
+    "iucr": "326", 
+    "longitude": "-87.73003093051247", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1148822", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "03", 
+    "block": "067XX S KILDARE AVE"
+}

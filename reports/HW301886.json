@@ -1,1 +1,33 @@
-{"community_area": "53", "_id": {"$oid": "51b5f1183c002ed20d78cca9"}, "primary_type": "OTHER OFFENSE", "beat": "0522", "year": "2013", "domestic": false, "iucr": "5011", "arrest": false, "location_description": "RESIDENCE", "location": {"type": "Point", "coordinates": [-87.6238188028528, 41.680293525625615]}, "case_number": "HW301886", "date": {"$date": 1370199720000}, "updated_on": {"$date": 1370565766000}, "ward": "34", "fbi_code": "26", "type": null, "id": "9158449", "block": "117XX S LAFAYETTE AVE", "description": "LICENSE VIOLATION"}
+{
+    "_id": {
+        "$oid": "51b5f1183c002ed20d78cca9"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "year": "2013", 
+    "beat": "0522", 
+    "case_number": "HW301886", 
+    "domestic": false, 
+    "iucr": "5011", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6238188028528, 
+            41.680293525625615
+        ]
+    }, 
+    "community_area": "53", 
+    "date": {
+        "$date": 1370199720000
+    }, 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "ward": "34", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9158449", 
+    "block": "117XX S LAFAYETTE AVE", 
+    "description": "LICENSE VIOLATION"
+}

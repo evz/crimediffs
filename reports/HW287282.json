@@ -1,1 +1,38 @@
-{"y_coordinate": "1879235", "year": "2013", "domestic": false, "case_number": "HW287282", "id": "9142321", "primary_type": "NARCOTICS", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.618951723056, 41.823916640947665]}, "community_area": "35", "latitude": "41.823916640947665", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "0212", "date": {"$date": 1369301760000}, "ward": "3", "_id": {"$oid": "51aa13983c002ed20d78b3ca"}, "iucr": "2024", "longitude": "-87.618951723056", "location_description": "BARBERSHOP", "x_coordinate": "1178963", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "003XX E PERSHING RD"}
+{
+    "y_coordinate": "1879235", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287282", 
+    "id": "9142321", 
+    "primary_type": "NARCOTICS", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.618951723056, 
+            41.823916640947665
+        ]
+    }, 
+    "community_area": "35", 
+    "latitude": "41.823916640947665", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "0212", 
+    "date": {
+        "$date": 1369301760000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3ca"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.618951723056", 
+    "location_description": "BARBERSHOP", 
+    "x_coordinate": "1178963", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "003XX E PERSHING RD"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1837568", "year": "2013", "domestic": true, "case_number": "HW300458", "id": "9154895", "primary_type": "BATTERY", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62463923747083, 41.70960528771846]}, "community_area": "49", "latitude": "41.70960528771846", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0511", "date": {"$date": 1370117700000}, "ward": "9", "_id": {"$oid": "51b5f11e3c002ed20d78cfad"}, "iucr": "486", "longitude": "-87.62463923747083", "location_description": "RESIDENCE", "x_coordinate": "1177756", "updated_on": {"$date": 1370392932000}, "fbi_code": "08B", "block": "101XX S LAFAYETTE AVE"}
+{
+    "y_coordinate": "1837568", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300458", 
+    "id": "9154895", 
+    "primary_type": "BATTERY", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62463923747083, 
+            41.70960528771846
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.70960528771846", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0511", 
+    "date": {
+        "$date": 1370117700000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cfad"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.62463923747083", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1177756", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "08B", 
+    "block": "101XX S LAFAYETTE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1867382", "year": "2013", "domestic": true, "case_number": "HW300050", "id": "9154648", "primary_type": "BATTERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64522979177701, 41.791549140339654]}, "community_area": "68", "latitude": "41.791549140339654", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0712", "date": {"$date": 1370097900000}, "ward": "20", "_id": {"$oid": "51b5f1203c002ed20d78d07d"}, "iucr": "486", "longitude": "-87.64522979177701", "location_description": "APARTMENT", "x_coordinate": "1171895", "updated_on": {"$date": 1370565766000}, "fbi_code": "08B", "block": "056XX S HALSTED ST"}
+{
+    "y_coordinate": "1867382", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300050", 
+    "id": "9154648", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64522979177701, 
+            41.791549140339654
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.791549140339654", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0712", 
+    "date": {
+        "$date": 1370097900000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d07d"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.64522979177701", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1171895", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "08B", 
+    "block": "056XX S HALSTED ST"
+}

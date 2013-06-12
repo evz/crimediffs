@@ -1,1 +1,38 @@
-{"y_coordinate": "1879235", "year": "2013", "domestic": false, "case_number": "HW287319", "id": "9142314", "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.618951723056, 41.823916640947665]}, "community_area": "35", "latitude": "41.823916640947665", "type": null, "description": "OBSTRUCTING IDENTIFICATION", "beat": "0212", "date": {"$date": 1369301700000}, "ward": "3", "_id": {"$oid": "51aa13983c002ed20d78b3cc"}, "iucr": "3731", "longitude": "-87.618951723056", "location_description": "BARBERSHOP", "x_coordinate": "1178963", "updated_on": {"$date": 1369442383000}, "fbi_code": "24", "block": "003XX E PERSHING RD"}
+{
+    "y_coordinate": "1879235", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287319", 
+    "id": "9142314", 
+    "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.618951723056, 
+            41.823916640947665
+        ]
+    }, 
+    "community_area": "35", 
+    "latitude": "41.823916640947665", 
+    "type": null, 
+    "description": "OBSTRUCTING IDENTIFICATION", 
+    "beat": "0212", 
+    "date": {
+        "$date": 1369301700000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3cc"
+    }, 
+    "iucr": "3731", 
+    "longitude": "-87.618951723056", 
+    "location_description": "BARBERSHOP", 
+    "x_coordinate": "1178963", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "24", 
+    "block": "003XX E PERSHING RD"
+}

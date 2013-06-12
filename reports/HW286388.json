@@ -1,1 +1,38 @@
-{"y_coordinate": "1899454", "year": "2013", "domestic": false, "case_number": "HW286388", "id": "9149805", "primary_type": "NARCOTICS", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72305522873856, 41.88000315174291]}, "community_area": "26", "latitude": "41.88000315174291", "type": "quality", "description": "MANU/DELIVER:CRACK", "beat": "1122", "date": {"$date": 1369239720000}, "ward": "28", "_id": {"$oid": "51a7708a3c002ed20d78ab9d"}, "iucr": "2017", "longitude": "-87.72305522873856", "location_description": "SIDEWALK", "x_coordinate": "1150443", "updated_on": {"$date": 1369960832000}, "fbi_code": "18", "block": "0000X S SPRINGFIELD AVE"}
+{
+    "y_coordinate": "1899454", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286388", 
+    "id": "9149805", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72305522873856, 
+            41.88000315174291
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.88000315174291", 
+    "type": "quality", 
+    "description": "MANU/DELIVER:CRACK", 
+    "beat": "1122", 
+    "date": {
+        "$date": 1369239720000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab9d"
+    }, 
+    "iucr": "2017", 
+    "longitude": "-87.72305522873856", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1150443", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "18", 
+    "block": "0000X S SPRINGFIELD AVE"
+}

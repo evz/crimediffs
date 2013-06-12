@@ -1,1 +1,38 @@
-{"y_coordinate": "1831493", "year": "2013", "domestic": true, "case_number": "HW288319", "id": "9144323", "primary_type": "ASSAULT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63530055498893, 41.69299875237777]}, "community_area": "49", "latitude": "41.69299875237777", "type": "violent", "description": "AGGRAVATED:KNIFE/CUTTING INSTR", "beat": "2233", "date": {"$date": 1369347900000}, "ward": "34", "_id": {"$oid": "51aa13943c002ed20d78b1b5"}, "iucr": "520", "longitude": "-87.63530055498893", "location_description": "SIDEWALK", "x_coordinate": "1174894", "updated_on": {"$date": 1370133629000}, "fbi_code": "04A", "block": "110XX S NORMAL AVE"}
+{
+    "y_coordinate": "1831493", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW288319", 
+    "id": "9144323", 
+    "primary_type": "ASSAULT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63530055498893, 
+            41.69299875237777
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.69299875237777", 
+    "type": "violent", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
+    "beat": "2233", 
+    "date": {
+        "$date": 1369347900000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1b5"
+    }, 
+    "iucr": "520", 
+    "longitude": "-87.63530055498893", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1174894", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "04A", 
+    "block": "110XX S NORMAL AVE"
+}

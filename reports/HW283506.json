@@ -1,1 +1,38 @@
-{"y_coordinate": "1873559", "year": "2013", "domestic": false, "case_number": "HW283506", "id": "9138181", "primary_type": "THEFT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67124001135245, 41.80865343144711]}, "community_area": "61", "latitude": "41.80865343144711", "type": "property", "description": "RETAIL THEFT", "beat": "0924", "date": {"$date": 1369075800000}, "ward": "20", "_id": {"$oid": "51a4cd8f3c002ed20d78a425"}, "iucr": "860", "longitude": "-87.67124001135245", "location_description": "CONVENIENCE STORE", "x_coordinate": "1164754", "updated_on": {"$date": 1369269615000}, "fbi_code": "06", "block": "018XX W 47TH ST"}
+{
+    "y_coordinate": "1873559", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283506", 
+    "id": "9138181", 
+    "primary_type": "THEFT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67124001135245, 
+            41.80865343144711
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.80865343144711", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0924", 
+    "date": {
+        "$date": 1369075800000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a425"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.67124001135245", 
+    "location_description": "CONVENIENCE STORE", 
+    "x_coordinate": "1164754", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "06", 
+    "block": "018XX W 47TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1853188", "year": "2013", "domestic": false, "case_number": "HW299101", "id": "9153910", "primary_type": "OTHER OFFENSE", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64666837379782, 41.752605224137305]}, "community_area": "71", "latitude": "41.752605224137305", "type": null, "description": "TELEPHONE THREAT", "beat": "0621", "date": {"$date": 1369483200000}, "ward": "17", "_id": {"$oid": "51b34a113c002ed20d78ca8c"}, "iucr": "2820", "longitude": "-87.64666837379782", "location_description": "RESIDENCE", "x_coordinate": "1171616", "updated_on": {"$date": 1370651988000}, "fbi_code": "26", "block": "077XX S PEORIA ST"}
+{
+    "y_coordinate": "1853188", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299101", 
+    "id": "9153910", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64666837379782, 
+            41.752605224137305
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.752605224137305", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "0621", 
+    "date": {
+        "$date": 1369483200000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca8c"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.64666837379782", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1171616", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "26", 
+    "block": "077XX S PEORIA ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1835308", "year": "2013", "domestic": true, "case_number": "HW295114", "id": "9149595", "primary_type": "KIDNAPPING", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71977181011994, 41.70395041829923]}, "community_area": "74", "latitude": "41.70395041829923", "type": null, "description": "UNLAWFUL INTERFERE/VISITATION", "beat": "2211", "date": {"$date": 1369180860000}, "ward": "19", "_id": {"$oid": "51a7708e3c002ed20d78ad3d"}, "iucr": "4255", "longitude": "-87.71977181011994", "location_description": "RESIDENCE", "x_coordinate": "1151795", "updated_on": {"$date": 1370047283000}, "fbi_code": "26", "block": "039XX W 104TH ST"}
+{
+    "y_coordinate": "1835308", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW295114", 
+    "id": "9149595", 
+    "primary_type": "KIDNAPPING", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71977181011994, 
+            41.70395041829923
+        ]
+    }, 
+    "community_area": "74", 
+    "latitude": "41.70395041829923", 
+    "type": null, 
+    "description": "UNLAWFUL INTERFERE/VISITATION", 
+    "beat": "2211", 
+    "date": {
+        "$date": 1369180860000
+    }, 
+    "ward": "19", 
+    "_id": {
+        "$oid": "51a7708e3c002ed20d78ad3d"
+    }, 
+    "iucr": "4255", 
+    "longitude": "-87.71977181011994", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1151795", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "26", 
+    "block": "039XX W 104TH ST"
+}

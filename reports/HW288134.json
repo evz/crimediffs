@@ -1,1 +1,38 @@
-{"y_coordinate": "1887758", "year": "2013", "domestic": false, "case_number": "HW288134", "id": "9143134", "primary_type": "ASSAULT", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70772223979208, 41.847823835616246]}, "community_area": "30", "latitude": "41.847823835616246", "type": "violent", "description": "AGGRAVATED: OTHER DANG WEAPON", "beat": "1024", "date": {"$date": 1369332600000}, "ward": "22", "_id": {"$oid": "51aa13953c002ed20d78b260"}, "iucr": "530", "longitude": "-87.70772223979208", "location_description": "APARTMENT", "x_coordinate": "1154704", "updated_on": {"$date": 1369874559000}, "fbi_code": "04A", "block": "024XX S SPAULDING AVE"}
+{
+    "y_coordinate": "1887758", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288134", 
+    "id": "9143134", 
+    "primary_type": "ASSAULT", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70772223979208, 
+            41.847823835616246
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.847823835616246", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "1024", 
+    "date": {
+        "$date": 1369332600000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b260"
+    }, 
+    "iucr": "530", 
+    "longitude": "-87.70772223979208", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1154704", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "04A", 
+    "block": "024XX S SPAULDING AVE"
+}

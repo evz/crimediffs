@@ -1,1 +1,38 @@
-{"y_coordinate": "1915235", "year": "2013", "domestic": false, "case_number": "HW306787", "id": "9162089", "primary_type": "DECEPTIVE PRACTICE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74887425774313, 41.92344430155422]}, "community_area": "19", "latitude": "41.92344430155422", "type": null, "description": "FRAUD OR CONFIDENCE GAME", "beat": "2522", "date": {"$date": 1369323000000}, "ward": "31", "_id": {"$oid": "51b34a193c002ed20d78cb56"}, "iucr": "1130", "longitude": "-87.74887425774313", "location_description": "SIDEWALK", "x_coordinate": "1143304", "updated_on": {"$date": 1370651988000}, "fbi_code": "11", "block": "023XX N LAMON AVE"}
+{
+    "y_coordinate": "1915235", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW306787", 
+    "id": "9162089", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74887425774313, 
+            41.92344430155422
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.92344430155422", 
+    "type": null, 
+    "description": "FRAUD OR CONFIDENCE GAME", 
+    "beat": "2522", 
+    "date": {
+        "$date": 1369323000000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51b34a193c002ed20d78cb56"
+    }, 
+    "iucr": "1130", 
+    "longitude": "-87.74887425774313", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1143304", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "11", 
+    "block": "023XX N LAMON AVE"
+}

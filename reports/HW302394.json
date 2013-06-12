@@ -1,1 +1,38 @@
-{"y_coordinate": "1830833", "year": "2013", "domestic": false, "case_number": "HW302394", "id": "9157333", "primary_type": "ROBBERY", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68099976947113, 41.69145598068015]}, "community_area": "75", "latitude": "41.69145598068015", "type": "violent", "description": "ARMED: HANDGUN", "beat": "2212", "date": {"$date": 1370260500000}, "ward": "19", "_id": {"$oid": "51b7429d3c002ed20d78d451"}, "iucr": "031A", "longitude": "-87.68099976947113", "location_description": "OTHER", "x_coordinate": "1162417", "updated_on": {"$date": 1370824784000}, "fbi_code": "03", "block": "111XX S WESTERN AVE"}
+{
+    "y_coordinate": "1830833", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302394", 
+    "id": "9157333", 
+    "primary_type": "ROBBERY", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68099976947113, 
+            41.69145598068015
+        ]
+    }, 
+    "community_area": "75", 
+    "latitude": "41.69145598068015", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "2212", 
+    "date": {
+        "$date": 1370260500000
+    }, 
+    "ward": "19", 
+    "_id": {
+        "$oid": "51b7429d3c002ed20d78d451"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.68099976947113", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1162417", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "03", 
+    "block": "111XX S WESTERN AVE"
+}

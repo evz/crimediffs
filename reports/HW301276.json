@@ -1,1 +1,38 @@
-{"y_coordinate": "1860741", "year": "2013", "domestic": false, "case_number": "HW301276", "id": "9155668", "primary_type": "BATTERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67482043926097, 41.773497730422946]}, "community_area": "67", "latitude": "41.773497730422946", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0726", "date": {"$date": 1370149200000}, "ward": "15", "_id": {"$oid": "51b5f11c3c002ed20d78ce67"}, "iucr": "486", "longitude": "-87.67482043926097", "location_description": "RESIDENCE", "x_coordinate": "1163876", "updated_on": {"$date": 1370392932000}, "fbi_code": "08B", "block": "066XX S SEELEY AVE"}
+{
+    "y_coordinate": "1860741", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301276", 
+    "id": "9155668", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67482043926097, 
+            41.773497730422946
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.773497730422946", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0726", 
+    "date": {
+        "$date": 1370149200000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce67"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.67482043926097", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1163876", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "08B", 
+    "block": "066XX S SEELEY AVE"
+}

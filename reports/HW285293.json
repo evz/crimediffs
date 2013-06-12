@@ -1,1 +1,38 @@
-{"y_coordinate": "1904773", "year": "2013", "domestic": false, "case_number": "HW285293", "id": "9139940", "primary_type": "NARCOTICS", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.75959612370028, 41.89478817058118]}, "community_area": "25", "latitude": "41.89478817058118", "type": "quality", "description": "POSSESSION OF DRUG EQUIPMENT", "beat": "1524", "date": {"$date": 1369176000000}, "ward": "37", "_id": {"$oid": "51a61f083c002ed20d78a6e7"}, "iucr": "2170", "longitude": "-87.75959612370028", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1140456", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "053XX W CHICAGO AVE"}
+{
+    "y_coordinate": "1904773", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285293", 
+    "id": "9139940", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75959612370028, 
+            41.89478817058118
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.89478817058118", 
+    "type": "quality", 
+    "description": "POSSESSION OF DRUG EQUIPMENT", 
+    "beat": "1524", 
+    "date": {
+        "$date": 1369176000000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a61f083c002ed20d78a6e7"
+    }, 
+    "iucr": "2170", 
+    "longitude": "-87.75959612370028", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1140456", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "053XX W CHICAGO AVE"
+}

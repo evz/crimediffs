@@ -1,1 +1,38 @@
-{"y_coordinate": "1932810", "year": "2013", "domestic": true, "case_number": "HW287402", "id": "9142398", "primary_type": "ASSAULT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75479510301415, 41.97170392320934]}, "community_area": "11", "latitude": "41.97170392320934", "type": null, "description": "SIMPLE", "beat": "1623", "date": {"$date": 1369308180000}, "ward": "45", "_id": {"$oid": "51aa13973c002ed20d78b37c"}, "iucr": "560", "longitude": "-87.75479510301415", "location_description": "RESIDENCE", "x_coordinate": "1141574", "updated_on": {"$date": 1369528777000}, "fbi_code": "08A", "block": "050XX W ARGYLE ST"}
+{
+    "y_coordinate": "1932810", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW287402", 
+    "id": "9142398", 
+    "primary_type": "ASSAULT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75479510301415, 
+            41.97170392320934
+        ]
+    }, 
+    "community_area": "11", 
+    "latitude": "41.97170392320934", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1623", 
+    "date": {
+        "$date": 1369308180000
+    }, 
+    "ward": "45", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b37c"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.75479510301415", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1141574", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "08A", 
+    "block": "050XX W ARGYLE ST"
+}

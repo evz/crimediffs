@@ -1,1 +1,38 @@
-{"y_coordinate": "1924566", "year": "2013", "domestic": false, "case_number": "HW291085", "id": "9145696", "primary_type": "BATTERY", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68845938976716, 41.948727208356544]}, "community_area": "5", "latitude": "41.948727208356544", "type": null, "description": "SIMPLE", "beat": "1921", "date": {"$date": 1369528500000}, "ward": "47", "_id": {"$oid": "51b34a0d3c002ed20d78c887"}, "iucr": "460", "longitude": "-87.68845938976716", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1159676", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "037XX N WESTERN AVE"}
+{
+    "y_coordinate": "1924566", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291085", 
+    "id": "9145696", 
+    "primary_type": "BATTERY", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68845938976716, 
+            41.948727208356544
+        ]
+    }, 
+    "community_area": "5", 
+    "latitude": "41.948727208356544", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1921", 
+    "date": {
+        "$date": 1369528500000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c887"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.68845938976716", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1159676", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "037XX N WESTERN AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1843794", "year": "2013", "domestic": true, "case_number": "HW290517", "id": "9146260", "primary_type": "ASSAULT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65645972694284, 41.72688326712303]}, "community_area": "73", "latitude": "41.72688326712303", "type": "violent", "description": "AGGRAVATED:KNIFE/CUTTING INSTR", "beat": "2222", "date": {"$date": 1369492200000}, "ward": "21", "_id": {"$oid": "51b34a103c002ed20d78ca3d"}, "iucr": "520", "longitude": "-87.65645972694284", "location_description": "RESIDENCE", "x_coordinate": "1169018", "updated_on": {"$date": 1370392932000}, "fbi_code": "04A", "block": "013XX W 92ND ST"}
+{
+    "y_coordinate": "1843794", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290517", 
+    "id": "9146260", 
+    "primary_type": "ASSAULT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65645972694284, 
+            41.72688326712303
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.72688326712303", 
+    "type": "violent", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
+    "beat": "2222", 
+    "date": {
+        "$date": 1369492200000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78ca3d"
+    }, 
+    "iucr": "520", 
+    "longitude": "-87.65645972694284", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1169018", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "04A", 
+    "block": "013XX W 92ND ST"
+}

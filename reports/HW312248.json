@@ -1,1 +1,33 @@
-{"community_area": "13", "_id": {"$oid": "51b742aa3c002ed20d78d52e"}, "primary_type": "THEFT", "beat": "1713", "year": "2013", "domestic": false, "iucr": "890", "arrest": false, "location_description": "SCHOOL, PUBLIC, BUILDING", "location": {"type": "Point", "coordinates": [-87.71335142933188, 41.973210951574636]}, "case_number": "HW312248", "date": {"$date": 1369742400000}, "updated_on": {"$date": 1370911182000}, "ward": "39", "fbi_code": "06", "type": "property", "id": "9166761", "block": "050XX N KIMBALL AVE", "description": "FROM BUILDING"}
+{
+    "_id": {
+        "$oid": "51b742aa3c002ed20d78d52e"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "1713", 
+    "case_number": "HW312248", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71335142933188, 
+            41.973210951574636
+        ]
+    }, 
+    "community_area": "13", 
+    "date": {
+        "$date": 1369742400000
+    }, 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "ward": "39", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9166761", 
+    "block": "050XX N KIMBALL AVE", 
+    "description": "FROM BUILDING"
+}

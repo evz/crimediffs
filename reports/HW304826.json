@@ -1,1 +1,33 @@
-{"community_area": "69", "_id": {"$oid": "51b5f1133c002ed20d78cba7"}, "primary_type": "BATTERY", "beat": "0322", "year": "2013", "domestic": true, "iucr": "486", "arrest": false, "location_description": "RESIDENCE", "location": {"type": "Point", "coordinates": [-87.62379220039435, 41.773270750627034]}, "case_number": "HW304826", "date": {"$date": 1370228400000}, "updated_on": {"$date": 1370651988000}, "ward": "20", "fbi_code": "08B", "type": null, "id": "9161141", "block": "066XX S WABASH AVE", "description": "DOMESTIC BATTERY SIMPLE"}
+{
+    "_id": {
+        "$oid": "51b5f1133c002ed20d78cba7"
+    }, 
+    "primary_type": "BATTERY", 
+    "year": "2013", 
+    "beat": "0322", 
+    "case_number": "HW304826", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62379220039435, 
+            41.773270750627034
+        ]
+    }, 
+    "community_area": "69", 
+    "date": {
+        "$date": 1370228400000
+    }, 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "ward": "20", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9161141", 
+    "block": "066XX S WABASH AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}

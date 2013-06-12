@@ -1,1 +1,38 @@
-{"y_coordinate": "1862326", "year": "2013", "domestic": true, "case_number": "HW284577", "id": "9139448", "primary_type": "CRIM SEXUAL ASSAULT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64852355987215, 41.777693695865835]}, "community_area": "68", "latitude": "41.777693695865835", "type": "violent", "description": "NON-AGGRAVATED", "beat": "0723", "date": {"$date": 1369133100000}, "ward": "16", "_id": {"$oid": "51a61f0e3c002ed20d78a931"}, "iucr": "281", "longitude": "-87.64852355987215", "location_description": "APARTMENT", "x_coordinate": "1171037", "updated_on": {"$date": 1370392932000}, "fbi_code": "02", "block": "064XX S SANGAMON ST"}
+{
+    "y_coordinate": "1862326", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW284577", 
+    "id": "9139448", 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64852355987215, 
+            41.777693695865835
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.777693695865835", 
+    "type": "violent", 
+    "description": "NON-AGGRAVATED", 
+    "beat": "0723", 
+    "date": {
+        "$date": 1369133100000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a931"
+    }, 
+    "iucr": "281", 
+    "longitude": "-87.64852355987215", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1171037", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "02", 
+    "block": "064XX S SANGAMON ST"
+}

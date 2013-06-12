@@ -1,1 +1,38 @@
-{"y_coordinate": "1929436", "year": "2013", "domestic": false, "case_number": "HW286037", "id": "9141071", "primary_type": "CRIMINAL DAMAGE", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65430902690059, 41.96189461112396]}, "community_area": "3", "latitude": "41.96189461112396", "type": "quality", "description": "TO PROPERTY", "beat": "1914", "date": {"$date": 1369228800000}, "ward": "46", "_id": {"$oid": "51a7708b3c002ed20d78ac4b"}, "iucr": "1310", "longitude": "-87.65430902690059", "location_description": "OTHER", "x_coordinate": "1168928", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "009XX W MONTROSE AVE"}
+{
+    "y_coordinate": "1929436", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286037", 
+    "id": "9141071", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65430902690059, 
+            41.96189461112396
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.96189461112396", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1914", 
+    "date": {
+        "$date": 1369228800000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac4b"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.65430902690059", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1168928", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "009XX W MONTROSE AVE"
+}

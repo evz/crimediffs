@@ -1,1 +1,38 @@
-{"y_coordinate": "1845873", "year": "2013", "domestic": false, "case_number": "HW300934", "id": "9155461", "primary_type": "THEFT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6628291916985, 41.73262604393194]}, "community_area": "71", "latitude": "41.73262604393194", "type": "property", "description": "RETAIL THEFT", "beat": "2221", "date": {"$date": 1370165400000}, "ward": "21", "_id": {"$oid": "51b5f11c3c002ed20d78ce1a"}, "iucr": "860", "longitude": "-87.6628291916985", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1167263", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "088XX S ASHLAND AVE"}
+{
+    "y_coordinate": "1845873", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300934", 
+    "id": "9155461", 
+    "primary_type": "THEFT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6628291916985, 
+            41.73262604393194
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.73262604393194", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "2221", 
+    "date": {
+        "$date": 1370165400000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce1a"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.6628291916985", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1167263", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "088XX S ASHLAND AVE"
+}

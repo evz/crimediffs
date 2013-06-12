@@ -1,1 +1,38 @@
-{"y_coordinate": "1899033", "year": "2013", "domestic": true, "case_number": "HW288704", "id": "9143675", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73244777764377, 41.87889735164905]}, "community_area": "26", "latitude": "41.87889735164905", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1115", "date": {"$date": 1369390800000}, "ward": "28", "_id": {"$oid": "51aa13923c002ed20d78b0ad"}, "iucr": "486", "longitude": "-87.73244777764377", "location_description": "APARTMENT", "x_coordinate": "1147888", "updated_on": {"$date": 1370047283000}, "fbi_code": "08B", "block": "042XX W WILCOX ST"}
+{
+    "y_coordinate": "1899033", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW288704", 
+    "id": "9143675", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73244777764377, 
+            41.87889735164905
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.87889735164905", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1115", 
+    "date": {
+        "$date": 1369390800000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b0ad"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.73244777764377", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1147888", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "08B", 
+    "block": "042XX W WILCOX ST"
+}

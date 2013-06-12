@@ -1,1 +1,38 @@
-{"y_coordinate": "1844095", "year": "2013", "domestic": false, "case_number": "HW292933", "id": "9147137", "primary_type": "THEFT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66175533238233, 41.72774037901576]}, "community_area": "73", "latitude": "41.72774037901576", "type": "property", "description": "$500 AND UNDER", "beat": "2221", "date": {"$date": 1369068600000}, "ward": "21", "_id": {"$oid": "51a4cd903c002ed20d78a48b"}, "iucr": "820", "longitude": "-87.66175533238233", "location_description": "ALLEY", "x_coordinate": "1167570", "updated_on": {"$date": 1369874559000}, "fbi_code": "06", "block": "091XX S JUSTINE ST"}
+{
+    "y_coordinate": "1844095", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW292933", 
+    "id": "9147137", 
+    "primary_type": "THEFT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66175533238233, 
+            41.72774037901576
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.72774037901576", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2221", 
+    "date": {
+        "$date": 1369068600000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a48b"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.66175533238233", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1167570", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "06", 
+    "block": "091XX S JUSTINE ST"
+}

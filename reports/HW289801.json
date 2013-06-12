@@ -1,1 +1,38 @@
-{"y_coordinate": "1929475", "year": "2013", "domestic": false, "case_number": "HW289801", "id": "9144651", "primary_type": "BURGLARY", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75555072764132, 41.962555791373475]}, "community_area": "15", "latitude": "41.962555791373475", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1623", "date": {"$date": 1369404000000}, "ward": "45", "_id": {"$oid": "51aa13913c002ed20d78affe"}, "iucr": "610", "longitude": "-87.75555072764132", "location_description": "APARTMENT", "x_coordinate": "1141391", "updated_on": {"$date": 1370133629000}, "fbi_code": "05", "block": "051XX W SUNNYSIDE AVE"}
+{
+    "y_coordinate": "1929475", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289801", 
+    "id": "9144651", 
+    "primary_type": "BURGLARY", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75555072764132, 
+            41.962555791373475
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.962555791373475", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1623", 
+    "date": {
+        "$date": 1369404000000
+    }, 
+    "ward": "45", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78affe"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.75555072764132", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1141391", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "05", 
+    "block": "051XX W SUNNYSIDE AVE"
+}

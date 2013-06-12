@@ -1,1 +1,33 @@
-{"community_area": "19", "_id": {"$oid": "51b742953c002ed20d78d202"}, "primary_type": "MOTOR VEHICLE THEFT", "beat": "2514", "year": "2013", "domestic": false, "iucr": "930", "arrest": false, "location_description": "STREET", "location": {"type": "Point", "coordinates": [-87.77209730333004, 41.92893061699784]}, "case_number": "HW303430", "date": {"$date": 1370304480000}, "updated_on": {"$date": 1370651988000}, "ward": "30", "fbi_code": "07", "type": "property", "id": "9159615", "block": "026XX N MONITOR AVE", "description": "THEFT/RECOVERY: AUTOMOBILE"}
+{
+    "_id": {
+        "$oid": "51b742953c002ed20d78d202"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "year": "2013", 
+    "beat": "2514", 
+    "case_number": "HW303430", 
+    "domestic": false, 
+    "iucr": "930", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77209730333004, 
+            41.92893061699784
+        ]
+    }, 
+    "community_area": "19", 
+    "date": {
+        "$date": 1370304480000
+    }, 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "ward": "30", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9159615", 
+    "block": "026XX N MONITOR AVE", 
+    "description": "THEFT/RECOVERY: AUTOMOBILE"
+}

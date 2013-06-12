@@ -1,1 +1,38 @@
-{"y_coordinate": "1906361", "year": "2013", "domestic": false, "case_number": "HW287577", "id": "9142633", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71657562739804, 41.89892302755703]}, "community_area": "23", "latitude": "41.89892302755703", "type": "quality", "description": "POSS: CRACK", "beat": "1112", "date": {"$date": 1369313820000}, "ward": "27", "_id": {"$oid": "51aa13973c002ed20d78b33b"}, "iucr": "2027", "longitude": "-87.71657562739804", "location_description": "APARTMENT", "x_coordinate": "1152158", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "009XX N CENTRAL PARK AVE"}
+{
+    "y_coordinate": "1906361", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287577", 
+    "id": "9142633", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71657562739804, 
+            41.89892302755703
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.89892302755703", 
+    "type": "quality", 
+    "description": "POSS: CRACK", 
+    "beat": "1112", 
+    "date": {
+        "$date": 1369313820000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b33b"
+    }, 
+    "iucr": "2027", 
+    "longitude": "-87.71657562739804", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1152158", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "009XX N CENTRAL PARK AVE"
+}

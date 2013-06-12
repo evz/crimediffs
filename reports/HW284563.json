@@ -1,1 +1,38 @@
-{"y_coordinate": "1873086", "year": "2013", "domestic": false, "case_number": "HW284563", "id": "9139417", "primary_type": "NARCOTICS", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62129946323401, 41.80705668457667]}, "community_area": "38", "latitude": "41.80705668457667", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "0224", "date": {"$date": 1369144680000}, "ward": "3", "_id": {"$oid": "51a61f0d3c002ed20d78a8ac"}, "iucr": "2024", "longitude": "-87.62129946323401", "location_description": "STREET", "x_coordinate": "1178374", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "048XX S INDIANA AVE"}
+{
+    "y_coordinate": "1873086", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284563", 
+    "id": "9139417", 
+    "primary_type": "NARCOTICS", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62129946323401, 
+            41.80705668457667
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.80705668457667", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "0224", 
+    "date": {
+        "$date": 1369144680000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51a61f0d3c002ed20d78a8ac"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.62129946323401", 
+    "location_description": "STREET", 
+    "x_coordinate": "1178374", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "048XX S INDIANA AVE"
+}

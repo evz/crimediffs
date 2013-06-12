@@ -1,1 +1,38 @@
-{"y_coordinate": "1854678", "year": "2013", "domestic": true, "case_number": "HW290285", "id": "9145066", "primary_type": "MOTOR VEHICLE THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56403567899703, 41.756170660632456]}, "community_area": "43", "latitude": "41.756170660632456", "type": "property", "description": "AUTOMOBILE", "beat": "0421", "date": {"$date": 1369450800000}, "ward": "7", "_id": {"$oid": "51aa13893c002ed20d78ada0"}, "iucr": "910", "longitude": "-87.56403567899703", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1194152", "updated_on": {"$date": 1370133629000}, "fbi_code": "07", "block": "076XX S ESSEX AVE"}
+{
+    "y_coordinate": "1854678", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290285", 
+    "id": "9145066", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56403567899703, 
+            41.756170660632456
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.756170660632456", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0421", 
+    "date": {
+        "$date": 1369450800000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51aa13893c002ed20d78ada0"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.56403567899703", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1194152", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "07", 
+    "block": "076XX S ESSEX AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1860777", "year": "2013", "domestic": false, "case_number": "HW289247", "id": "9144356", "primary_type": "OFFENSE INVOLVING CHILDREN", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62823117025827, 41.77332003455449]}, "community_area": "69", "latitude": "41.77332003455449", "type": null, "description": "OTHER OFFENSE", "beat": "0722", "date": {"$date": 1369409400000}, "ward": "6", "_id": {"$oid": "51aa13903c002ed20d78afb7"}, "iucr": "1780", "longitude": "-87.62823117025827", "location_description": "RESIDENCE", "x_coordinate": "1176585", "updated_on": {"$date": 1370565766000}, "fbi_code": "26", "block": "066XX S PERRY AVE"}
+{
+    "y_coordinate": "1860777", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289247", 
+    "id": "9144356", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62823117025827, 
+            41.77332003455449
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.77332003455449", 
+    "type": null, 
+    "description": "OTHER OFFENSE", 
+    "beat": "0722", 
+    "date": {
+        "$date": 1369409400000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78afb7"
+    }, 
+    "iucr": "1780", 
+    "longitude": "-87.62823117025827", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1176585", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "26", 
+    "block": "066XX S PERRY AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1872402", "year": "2013", "domestic": true, "case_number": "HW284114", "id": "9138798", "primary_type": "BATTERY", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63461148600999, 41.80526134225983]}, "community_area": "37", "latitude": "41.80526134225983", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0935", "date": {"$date": 1369128600000}, "ward": "3", "_id": {"$oid": "51a61f0f3c002ed20d78a95b"}, "iucr": "486", "longitude": "-87.63461148600999", "location_description": "STREET", "x_coordinate": "1174750", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "049XX S SHIELDS AVE"}
+{
+    "y_coordinate": "1872402", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW284114", 
+    "id": "9138798", 
+    "primary_type": "BATTERY", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63461148600999, 
+            41.80526134225983
+        ]
+    }, 
+    "community_area": "37", 
+    "latitude": "41.80526134225983", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0935", 
+    "date": {
+        "$date": 1369128600000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a95b"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.63461148600999", 
+    "location_description": "STREET", 
+    "x_coordinate": "1174750", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "049XX S SHIELDS AVE"
+}

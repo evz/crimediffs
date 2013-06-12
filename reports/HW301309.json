@@ -1,1 +1,38 @@
-{"y_coordinate": "1920548", "year": "2013", "domestic": false, "case_number": "HW301309", "id": "9155589", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64416715735612, 41.937443631278626]}, "community_area": "6", "latitude": "41.937443631278626", "type": "property", "description": "RETAIL THEFT", "beat": "1934", "date": {"$date": 1370184120000}, "ward": "44", "_id": {"$oid": "51b5f11a3c002ed20d78cd66"}, "iucr": "860", "longitude": "-87.64416715735612", "location_description": "DRUG STORE", "x_coordinate": "1171758", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "030XX N BROADWAY"}
+{
+    "y_coordinate": "1920548", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301309", 
+    "id": "9155589", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64416715735612, 
+            41.937443631278626
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.937443631278626", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "1934", 
+    "date": {
+        "$date": 1370184120000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd66"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.64416715735612", 
+    "location_description": "DRUG STORE", 
+    "x_coordinate": "1171758", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "030XX N BROADWAY"
+}

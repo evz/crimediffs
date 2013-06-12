@@ -1,1 +1,38 @@
-{"y_coordinate": "1906059", "year": "2013", "domestic": false, "case_number": "HW284546", "id": "9139679", "primary_type": "THEFT", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75957188307328, 41.898317145694506]}, "community_area": "25", "latitude": "41.898317145694506", "type": "property", "description": "$500 AND UNDER", "beat": "1524", "date": {"$date": 1369137600000}, "ward": "37", "_id": {"$oid": "51a61f0e3c002ed20d78a8f9"}, "iucr": "820", "longitude": "-87.75957188307328", "location_description": "STREET", "x_coordinate": "1140454", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "009XX N LOREL AVE"}
+{
+    "y_coordinate": "1906059", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284546", 
+    "id": "9139679", 
+    "primary_type": "THEFT", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75957188307328, 
+            41.898317145694506
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.898317145694506", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1524", 
+    "date": {
+        "$date": 1369137600000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a8f9"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.75957188307328", 
+    "location_description": "STREET", 
+    "x_coordinate": "1140454", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "009XX N LOREL AVE"
+}

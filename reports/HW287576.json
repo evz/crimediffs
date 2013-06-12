@@ -1,1 +1,38 @@
-{"y_coordinate": "1853880", "year": "2013", "domestic": false, "case_number": "HW287576", "id": "9142667", "primary_type": "ASSAULT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55361776689877, 41.75391048313801]}, "community_area": "43", "latitude": "41.75391048313801", "type": null, "description": "SIMPLE", "beat": "0421", "date": {"$date": 1369312200000}, "ward": "7", "_id": {"$oid": "51aa13973c002ed20d78b34a"}, "iucr": "560", "longitude": "-87.55361776689877", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1197002", "updated_on": {"$date": 1369615194000}, "fbi_code": "08A", "block": "029XX E 78TH ST"}
+{
+    "y_coordinate": "1853880", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287576", 
+    "id": "9142667", 
+    "primary_type": "ASSAULT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55361776689877, 
+            41.75391048313801
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.75391048313801", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0421", 
+    "date": {
+        "$date": 1369312200000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b34a"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.55361776689877", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1197002", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08A", 
+    "block": "029XX E 78TH ST"
+}

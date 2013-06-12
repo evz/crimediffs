@@ -1,1 +1,38 @@
-{"y_coordinate": "1911166", "year": "2013", "domestic": false, "case_number": "HW285533", "id": "9141202", "primary_type": "BURGLARY", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63967575488017, 41.91167028825965]}, "community_area": "7", "latitude": "41.91167028825965", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1813", "date": {"$date": 1369202160000}, "ward": "43", "_id": {"$oid": "51a7708d3c002ed20d78ad31"}, "iucr": "610", "longitude": "-87.63967575488017", "location_description": "APARTMENT", "x_coordinate": "1173056", "updated_on": {"$date": 1369744888000}, "fbi_code": "05", "block": "016XX N HUDSON AVE"}
+{
+    "y_coordinate": "1911166", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285533", 
+    "id": "9141202", 
+    "primary_type": "BURGLARY", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63967575488017, 
+            41.91167028825965
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.91167028825965", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1813", 
+    "date": {
+        "$date": 1369202160000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad31"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.63967575488017", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1173056", 
+    "updated_on": {
+        "$date": 1369744888000
+    }, 
+    "fbi_code": "05", 
+    "block": "016XX N HUDSON AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1846614", "year": "2013", "domestic": false, "case_number": "HW301009", "id": "9155343", "primary_type": "CRIMINAL DAMAGE", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72765384387336, 41.73501956940947]}, "community_area": "70", "latitude": "41.73501956940947", "type": "quality", "description": "CRIMINAL DEFACEMENT", "beat": "0834", "date": {"$date": 1370120400000}, "ward": "18", "_id": {"$oid": "51b5f11e3c002ed20d78cf94"}, "iucr": "1305", "longitude": "-87.72765384387336", "location_description": "STREET", "x_coordinate": "1149563", "updated_on": {"$date": 1370306580000}, "fbi_code": "14", "block": "086XX S TRIPP AVE"}
+{
+    "y_coordinate": "1846614", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301009", 
+    "id": "9155343", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72765384387336, 
+            41.73501956940947
+        ]
+    }, 
+    "community_area": "70", 
+    "latitude": "41.73501956940947", 
+    "type": "quality", 
+    "description": "CRIMINAL DEFACEMENT", 
+    "beat": "0834", 
+    "date": {
+        "$date": 1370120400000
+    }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf94"
+    }, 
+    "iucr": "1305", 
+    "longitude": "-87.72765384387336", 
+    "location_description": "STREET", 
+    "x_coordinate": "1149563", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "14", 
+    "block": "086XX S TRIPP AVE"
+}

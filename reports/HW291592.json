@@ -1,1 +1,38 @@
-{"y_coordinate": "1907179", "year": "2013", "domestic": false, "case_number": "HW291592", "id": "9146040", "primary_type": "THEFT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63150048623753, 41.900679363102135]}, "community_area": "8", "latitude": "41.900679363102135", "type": "property", "description": "OVER $500", "beat": "1824", "date": {"$date": 1369473300000}, "ward": "42", "_id": {"$oid": "51b34a123c002ed20d78cae3"}, "iucr": "810", "longitude": "-87.63150048623753", "location_description": "SIDEWALK", "x_coordinate": "1175314", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "010XX N CLARK ST"}
+{
+    "y_coordinate": "1907179", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291592", 
+    "id": "9146040", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63150048623753, 
+            41.900679363102135
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.900679363102135", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1824", 
+    "date": {
+        "$date": 1369473300000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cae3"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.63150048623753", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1175314", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "010XX N CLARK ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1873482", "year": "2013", "domestic": false, "case_number": "HW291361", "id": "9146041", "primary_type": "MOTOR VEHICLE THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7445618153879, 41.80884133163481]}, "community_area": "56", "latitude": "41.80884133163481", "type": "property", "description": "AUTOMOBILE", "beat": "0814", "date": {"$date": 1369515600000}, "ward": "23", "_id": {"$oid": "51b34a0e3c002ed20d78c913"}, "iucr": "910", "longitude": "-87.7445618153879", "location_description": "STREET", "x_coordinate": "1144764", "updated_on": {"$date": 1369874559000}, "fbi_code": "07", "block": "046XX S LA CROSSE AVE"}
+{
+    "y_coordinate": "1873482", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291361", 
+    "id": "9146041", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7445618153879, 
+            41.80884133163481
+        ]
+    }, 
+    "community_area": "56", 
+    "latitude": "41.80884133163481", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0814", 
+    "date": {
+        "$date": 1369515600000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c913"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.7445618153879", 
+    "location_description": "STREET", 
+    "x_coordinate": "1144764", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "07", 
+    "block": "046XX S LA CROSSE AVE"
+}

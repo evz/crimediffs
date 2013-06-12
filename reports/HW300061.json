@@ -1,1 +1,38 @@
-{"y_coordinate": "1922610", "year": "2013", "domestic": false, "case_number": "HW300061", "id": "9154612", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65527230650268, 41.9431683249153]}, "community_area": "6", "latitude": "41.9431683249153", "type": "property", "description": "FROM BUILDING", "beat": "1924", "date": {"$date": 1370093400000}, "ward": "44", "_id": {"$oid": "51b5f1203c002ed20d78d0b6"}, "iucr": "890", "longitude": "-87.65527230650268", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1168720", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "033XX N KENMORE AVE"}
+{
+    "y_coordinate": "1922610", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300061", 
+    "id": "9154612", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65527230650268, 
+            41.9431683249153
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.9431683249153", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1924", 
+    "date": {
+        "$date": 1370093400000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0b6"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.65527230650268", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1168720", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "033XX N KENMORE AVE"
+}

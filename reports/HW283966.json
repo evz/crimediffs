@@ -1,1 +1,38 @@
-{"y_coordinate": "1903697", "year": "2013", "domestic": false, "case_number": "HW283966", "id": "9138622", "primary_type": "BURGLARY", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62258550964462, 41.89106910339473]}, "community_area": "8", "latitude": "41.89106910339473", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1834", "date": {"$date": 1369067400000}, "ward": "42", "_id": {"$oid": "51a4cd903c002ed20d78a496"}, "iucr": "610", "longitude": "-87.62258550964462", "location_description": "CONSTRUCTION SITE", "x_coordinate": "1177770", "updated_on": {"$date": 1370479286000}, "fbi_code": "05", "block": "002XX E LOWER ILLINOIS ST"}
+{
+    "y_coordinate": "1903697", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283966", 
+    "id": "9138622", 
+    "primary_type": "BURGLARY", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62258550964462, 
+            41.89106910339473
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89106910339473", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1834", 
+    "date": {
+        "$date": 1369067400000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a496"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.62258550964462", 
+    "location_description": "CONSTRUCTION SITE", 
+    "x_coordinate": "1177770", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "05", 
+    "block": "002XX E LOWER ILLINOIS ST"
+}

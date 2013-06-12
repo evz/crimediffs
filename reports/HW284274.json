@@ -1,1 +1,38 @@
-{"y_coordinate": "1819511", "year": "2013", "domestic": false, "case_number": "HW284274", "id": "9138936", "primary_type": "THEFT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64239257726159, 41.660158929982764]}, "community_area": "53", "latitude": "41.660158929982764", "type": "property", "description": "FROM BUILDING", "beat": "0523", "date": {"$date": 1369101600000}, "ward": "34", "_id": {"$oid": "51a4cd8a3c002ed20d78a30a"}, "iucr": "890", "longitude": "-87.64239257726159", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1173053", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "128XX S GREEN ST"}
+{
+    "y_coordinate": "1819511", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284274", 
+    "id": "9138936", 
+    "primary_type": "THEFT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64239257726159, 
+            41.660158929982764
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.660158929982764", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0523", 
+    "date": {
+        "$date": 1369101600000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51a4cd8a3c002ed20d78a30a"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.64239257726159", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1173053", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "128XX S GREEN ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1873515", "year": "2013", "domestic": false, "case_number": "HW286325", "id": "9141291", "primary_type": "BURGLARY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.750678976198, 41.808963083366635]}, "community_area": "56", "latitude": "41.808963083366635", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0814", "date": {"$date": 1369229400000}, "ward": "23", "_id": {"$oid": "51a7708b3c002ed20d78ac44"}, "iucr": "610", "longitude": "-87.750678976198", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1143096", "updated_on": {"$date": 1370651988000}, "fbi_code": "05", "block": "046XX S LECLAIRE AVE"}
+{
+    "y_coordinate": "1873515", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286325", 
+    "id": "9141291", 
+    "primary_type": "BURGLARY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.750678976198, 
+            41.808963083366635
+        ]
+    }, 
+    "community_area": "56", 
+    "latitude": "41.808963083366635", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0814", 
+    "date": {
+        "$date": 1369229400000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac44"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.750678976198", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1143096", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "05", 
+    "block": "046XX S LECLAIRE AVE"
+}

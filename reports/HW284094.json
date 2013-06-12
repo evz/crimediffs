@@ -1,1 +1,38 @@
-{"y_coordinate": "1903789", "year": "2013", "domestic": true, "case_number": "HW284094", "id": "9138723", "primary_type": "BATTERY", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7021405449657, 41.89178640490641]}, "community_area": "23", "latitude": "41.89178640490641", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1221", "date": {"$date": 1369125000000}, "ward": "27", "_id": {"$oid": "51a61f0f3c002ed20d78a987"}, "iucr": "486", "longitude": "-87.7021405449657", "location_description": "OTHER", "x_coordinate": "1156107", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "005XX N SACRAMENTO BLVD"}
+{
+    "y_coordinate": "1903789", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW284094", 
+    "id": "9138723", 
+    "primary_type": "BATTERY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7021405449657, 
+            41.89178640490641
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.89178640490641", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1221", 
+    "date": {
+        "$date": 1369125000000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a987"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.7021405449657", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1156107", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "005XX N SACRAMENTO BLVD"
+}

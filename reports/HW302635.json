@@ -1,1 +1,38 @@
-{"y_coordinate": "1884103", "year": "2013", "domestic": true, "case_number": "HW302635", "id": "9157315", "primary_type": "OTHER OFFENSE", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62075529159235, 41.83728692933201]}, "community_area": "35", "latitude": "41.83728692933201", "type": null, "description": "TELEPHONE THREAT", "beat": "0211", "date": {"$date": 1370203200000}, "ward": "3", "_id": {"$oid": "51b5f1183c002ed20d78cc7d"}, "iucr": "2820", "longitude": "-87.62075529159235", "location_description": "RESIDENCE", "x_coordinate": "1178431", "updated_on": {"$date": 1370824784000}, "fbi_code": "26", "block": "031XX S PRAIRIE AVE"}
+{
+    "y_coordinate": "1884103", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW302635", 
+    "id": "9157315", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62075529159235, 
+            41.83728692933201
+        ]
+    }, 
+    "community_area": "35", 
+    "latitude": "41.83728692933201", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "0211", 
+    "date": {
+        "$date": 1370203200000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51b5f1183c002ed20d78cc7d"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.62075529159235", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1178431", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "26", 
+    "block": "031XX S PRAIRIE AVE"
+}

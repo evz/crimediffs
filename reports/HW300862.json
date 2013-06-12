@@ -1,1 +1,33 @@
-{"community_area": "69", "_id": {"$oid": "51b5f11c3c002ed20d78ce4d"}, "primary_type": "ROBBERY", "beat": "0323", "year": "2013", "domestic": false, "iucr": "312", "arrest": false, "location_description": "GAS STATION", "location": {"type": "Point", "coordinates": [-87.62461409727935, 41.758217868440994]}, "case_number": "HW300862", "date": {"$date": 1370155200000}, "updated_on": {"$date": 1370392932000}, "ward": "6", "fbi_code": "03", "type": "violent", "id": "9155714", "block": "074XX S STATE ST", "description": "ARMED:KNIFE/CUTTING INSTRUMENT"}
+{
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce4d"
+    }, 
+    "primary_type": "ROBBERY", 
+    "year": "2013", 
+    "beat": "0323", 
+    "case_number": "HW300862", 
+    "domestic": false, 
+    "iucr": "312", 
+    "arrest": false, 
+    "location_description": "GAS STATION", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62461409727935, 
+            41.758217868440994
+        ]
+    }, 
+    "community_area": "69", 
+    "date": {
+        "$date": 1370155200000
+    }, 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "ward": "6", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9155714", 
+    "block": "074XX S STATE ST", 
+    "description": "ARMED:KNIFE/CUTTING INSTRUMENT"
+}

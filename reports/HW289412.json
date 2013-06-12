@@ -1,1 +1,38 @@
-{"y_coordinate": "1921445", "year": "2013", "domestic": false, "case_number": "HW289412", "id": "9144407", "primary_type": "BURGLARY", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75065192363844, 41.94049497661763]}, "community_area": "15", "latitude": "41.94049497661763", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1634", "date": {"$date": 1369357200000}, "ward": "30", "_id": {"$oid": "51aa13943c002ed20d78b166"}, "iucr": "610", "longitude": "-87.75065192363844", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1142778", "updated_on": {"$date": 1369960832000}, "fbi_code": "05", "block": "049XX W SCHOOL ST"}
+{
+    "y_coordinate": "1921445", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289412", 
+    "id": "9144407", 
+    "primary_type": "BURGLARY", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75065192363844, 
+            41.94049497661763
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.94049497661763", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1634", 
+    "date": {
+        "$date": 1369357200000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b166"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.75065192363844", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1142778", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "05", 
+    "block": "049XX W SCHOOL ST"
+}

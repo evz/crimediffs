@@ -1,1 +1,38 @@
-{"y_coordinate": "1893383", "year": "2013", "domestic": false, "case_number": "HW286771", "id": "9141555", "primary_type": "NARCOTICS", "district": "012", "arrest": true, "location": {"type": "Point", "coordinates": [-87.65697565809096, 41.862972650607745]}, "community_area": "28", "latitude": "41.862972650607745", "type": "quality", "description": "FOUND SUSPECT NARCOTICS", "beat": "1233", "date": {"$date": 1369257600000}, "ward": "2", "_id": {"$oid": "51a770883c002ed20d78aabc"}, "iucr": "2093", "longitude": "-87.65697565809096", "location_description": "POLICE FACILITY/VEH PARKING LOT", "x_coordinate": "1168487", "updated_on": {"$date": 1369528777000}, "fbi_code": "26", "block": "014XX S BLUE ISLAND AVE"}
+{
+    "y_coordinate": "1893383", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286771", 
+    "id": "9141555", 
+    "primary_type": "NARCOTICS", 
+    "district": "012", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65697565809096, 
+            41.862972650607745
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.862972650607745", 
+    "type": "quality", 
+    "description": "FOUND SUSPECT NARCOTICS", 
+    "beat": "1233", 
+    "date": {
+        "$date": 1369257600000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aabc"
+    }, 
+    "iucr": "2093", 
+    "longitude": "-87.65697565809096", 
+    "location_description": "POLICE FACILITY/VEH PARKING LOT", 
+    "x_coordinate": "1168487", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "26", 
+    "block": "014XX S BLUE ISLAND AVE"
+}

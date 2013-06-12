@@ -1,1 +1,38 @@
-{"y_coordinate": "1894327", "year": "2013", "domestic": false, "case_number": "HW300710", "id": "9155082", "primary_type": "CRIMINAL TRESPASS", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70672053667262, 41.86584541031187]}, "community_area": "29", "latitude": "41.86584541031187", "type": null, "description": "TO LAND", "beat": "1022", "date": {"$date": 1370134800000}, "ward": "24", "_id": {"$oid": "51b5f11d3c002ed20d78ced9"}, "iucr": "1330", "longitude": "-87.70672053667262", "location_description": "OTHER", "x_coordinate": "1154929", "updated_on": {"$date": 1370306580000}, "fbi_code": "26", "block": "012XX S SAWYER AVE"}
+{
+    "y_coordinate": "1894327", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300710", 
+    "id": "9155082", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70672053667262, 
+            41.86584541031187
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.86584541031187", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "1022", 
+    "date": {
+        "$date": 1370134800000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78ced9"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.70672053667262", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1154929", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "26", 
+    "block": "012XX S SAWYER AVE"
+}

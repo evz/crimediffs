@@ -1,1 +1,38 @@
-{"y_coordinate": "1855855", "year": "2013", "domestic": false, "case_number": "HW291022", "id": "9145576", "primary_type": "ROBBERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61376682789052, 41.75972292778229]}, "community_area": "69", "latitude": "41.75972292778229", "type": "violent", "description": "ARMED: OTHER DANGEROUS WEAPON", "beat": "0323", "date": {"$date": 1369519260000}, "ward": "6", "_id": {"$oid": "51b34a0e3c002ed20d78c8e3"}, "iucr": "313", "longitude": "-87.61376682789052", "location_description": "STREET", "x_coordinate": "1180572", "updated_on": {"$date": 1369701613000}, "fbi_code": "03", "block": "074XX S VERNON AVE"}
+{
+    "y_coordinate": "1855855", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291022", 
+    "id": "9145576", 
+    "primary_type": "ROBBERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61376682789052, 
+            41.75972292778229
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.75972292778229", 
+    "type": "violent", 
+    "description": "ARMED: OTHER DANGEROUS WEAPON", 
+    "beat": "0323", 
+    "date": {
+        "$date": 1369519260000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c8e3"
+    }, 
+    "iucr": "313", 
+    "longitude": "-87.61376682789052", 
+    "location_description": "STREET", 
+    "x_coordinate": "1180572", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "03", 
+    "block": "074XX S VERNON AVE"
+}

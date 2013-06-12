@@ -1,1 +1,38 @@
-{"y_coordinate": "1861810", "year": "2013", "domestic": false, "case_number": "HW292006", "id": "9146403", "primary_type": "THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6870824028869, 41.77650101253924]}, "community_area": "66", "latitude": "41.77650101253924", "type": "property", "description": "OVER $500", "beat": "0825", "date": {"$date": 1369526400000}, "ward": "15", "_id": {"$oid": "51b34a0d3c002ed20d78c8a2"}, "iucr": "810", "longitude": "-87.6870824028869", "location_description": "STREET", "x_coordinate": "1160523", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "064XX S MAPLEWOOD AVE"}
+{
+    "y_coordinate": "1861810", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW292006", 
+    "id": "9146403", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6870824028869, 
+            41.77650101253924
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.77650101253924", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0825", 
+    "date": {
+        "$date": 1369526400000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c8a2"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.6870824028869", 
+    "location_description": "STREET", 
+    "x_coordinate": "1160523", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "064XX S MAPLEWOOD AVE"
+}

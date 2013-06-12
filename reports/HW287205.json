@@ -1,1 +1,38 @@
-{"y_coordinate": "1871995", "year": "2013", "domestic": false, "case_number": "HW287205", "id": "9142074", "primary_type": "ROBBERY", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.645167713309, 41.80420814492036]}, "community_area": "61", "latitude": "41.80420814492036", "type": "violent", "description": "ATTEMPT: AGGRAVATED", "beat": "0935", "date": {"$date": 1369296120000}, "ward": "3", "_id": {"$oid": "51aa13983c002ed20d78b401"}, "iucr": "331", "longitude": "-87.645167713309", "location_description": "STREET", "x_coordinate": "1171875", "updated_on": {"$date": 1369787985000}, "fbi_code": "03", "block": "007XX W 49TH PL"}
+{
+    "y_coordinate": "1871995", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287205", 
+    "id": "9142074", 
+    "primary_type": "ROBBERY", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.645167713309, 
+            41.80420814492036
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.80420814492036", 
+    "type": "violent", 
+    "description": "ATTEMPT: AGGRAVATED", 
+    "beat": "0935", 
+    "date": {
+        "$date": 1369296120000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b401"
+    }, 
+    "iucr": "331", 
+    "longitude": "-87.645167713309", 
+    "location_description": "STREET", 
+    "x_coordinate": "1171875", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "03", 
+    "block": "007XX W 49TH PL"
+}

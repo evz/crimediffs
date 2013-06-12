@@ -1,1 +1,38 @@
-{"y_coordinate": "1857285", "year": "2013", "domestic": false, "case_number": "HW285367", "id": "9140019", "primary_type": "ROBBERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.616970336967, 41.76366729280703]}, "community_area": "69", "latitude": "41.76366729280703", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "0323", "date": {"$date": 1369178160000}, "ward": "6", "_id": {"$oid": "51a61f073c002ed20d78a6da"}, "iucr": "320", "longitude": "-87.616970336967", "location_description": "SIDEWALK", "x_coordinate": "1179686", "updated_on": {"$date": 1370133629000}, "fbi_code": "03", "block": "072XX S CALUMET AVE"}
+{
+    "y_coordinate": "1857285", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285367", 
+    "id": "9140019", 
+    "primary_type": "ROBBERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.616970336967, 
+            41.76366729280703
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.76366729280703", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0323", 
+    "date": {
+        "$date": 1369178160000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a61f073c002ed20d78a6da"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.616970336967", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1179686", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "03", 
+    "block": "072XX S CALUMET AVE"
+}

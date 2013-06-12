@@ -1,1 +1,38 @@
-{"y_coordinate": "1937810", "year": "2013", "domestic": false, "case_number": "HW287314", "id": "9142337", "primary_type": "BURGLARY", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69160149181798, 41.98508907364829]}, "community_area": "2", "latitude": "41.98508907364829", "type": "property", "description": "ATTEMPT FORCIBLE ENTRY", "beat": "2011", "date": {"$date": 1369144800000}, "ward": "40", "_id": {"$oid": "51a61f0d3c002ed20d78a89f"}, "iucr": "630", "longitude": "-87.69160149181798", "location_description": "RESIDENCE", "x_coordinate": "1158722", "updated_on": {"$date": 1369787985000}, "fbi_code": "05", "block": "024XX W HOLLYWOOD AVE"}
+{
+    "y_coordinate": "1937810", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287314", 
+    "id": "9142337", 
+    "primary_type": "BURGLARY", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69160149181798, 
+            41.98508907364829
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "41.98508907364829", 
+    "type": "property", 
+    "description": "ATTEMPT FORCIBLE ENTRY", 
+    "beat": "2011", 
+    "date": {
+        "$date": 1369144800000
+    }, 
+    "ward": "40", 
+    "_id": {
+        "$oid": "51a61f0d3c002ed20d78a89f"
+    }, 
+    "iucr": "630", 
+    "longitude": "-87.69160149181798", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1158722", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "05", 
+    "block": "024XX W HOLLYWOOD AVE"
+}

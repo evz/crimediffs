@@ -1,1 +1,38 @@
-{"y_coordinate": "1897149", "year": "2013", "domestic": false, "case_number": "HW283187", "id": "9137855", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70540025720936, 41.87358247976587]}, "community_area": "27", "latitude": "41.87358247976587", "type": "quality", "description": "FOUND SUSPECT NARCOTICS", "beat": "1134", "date": {"$date": 1369065600000}, "ward": "24", "_id": {"$oid": "51a4cd903c002ed20d78a4a6"}, "iucr": "2093", "longitude": "-87.70540025720936", "location_description": "POLICE FACILITY/VEH PARKING LOT", "x_coordinate": "1155268", "updated_on": {"$date": 1369528777000}, "fbi_code": "26", "block": "031XX W HARRISON ST"}
+{
+    "y_coordinate": "1897149", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283187", 
+    "id": "9137855", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70540025720936, 
+            41.87358247976587
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.87358247976587", 
+    "type": "quality", 
+    "description": "FOUND SUSPECT NARCOTICS", 
+    "beat": "1134", 
+    "date": {
+        "$date": 1369065600000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a4a6"
+    }, 
+    "iucr": "2093", 
+    "longitude": "-87.70540025720936", 
+    "location_description": "POLICE FACILITY/VEH PARKING LOT", 
+    "x_coordinate": "1155268", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "26", 
+    "block": "031XX W HARRISON ST"
+}

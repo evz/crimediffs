@@ -1,1 +1,38 @@
-{"y_coordinate": "1900356", "year": "2013", "domestic": false, "case_number": "HW283687", "id": "9138242", "primary_type": "THEFT", "district": "001", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62763322499843, 41.88193172926229]}, "community_area": "32", "latitude": "41.88193172926229", "type": "property", "description": "RETAIL THEFT", "beat": "0112", "date": {"$date": 1369084500000}, "ward": "42", "_id": {"$oid": "51a4cd8e3c002ed20d78a39f"}, "iucr": "860", "longitude": "-87.62763322499843", "location_description": "DEPARTMENT STORE", "x_coordinate": "1176423", "updated_on": {"$date": 1369269615000}, "fbi_code": "06", "block": "0000X S STATE ST"}
+{
+    "y_coordinate": "1900356", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283687", 
+    "id": "9138242", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62763322499843, 
+            41.88193172926229
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88193172926229", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0112", 
+    "date": {
+        "$date": 1369084500000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a39f"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.62763322499843", 
+    "location_description": "DEPARTMENT STORE", 
+    "x_coordinate": "1176423", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "06", 
+    "block": "0000X S STATE ST"
+}

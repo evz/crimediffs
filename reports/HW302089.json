@@ -1,1 +1,38 @@
-{"y_coordinate": "1923939", "year": "2013", "domestic": false, "case_number": "HW302089", "id": "9156334", "primary_type": "MOTOR VEHICLE THEFT", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72076073933412, 41.94718347067672]}, "community_area": "16", "latitude": "41.94718347067672", "type": "property", "description": "AUTOMOBILE", "beat": "1732", "date": {"$date": 1369123200000}, "ward": "30", "_id": {"$oid": "51b34a213c002ed20d78cb8c"}, "iucr": "910", "longitude": "-87.72076073933412", "location_description": "STREET", "x_coordinate": "1150893", "updated_on": {"$date": 1370479286000}, "fbi_code": "07", "block": "036XX N AVONDALE AVE"}
+{
+    "y_coordinate": "1923939", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302089", 
+    "id": "9156334", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72076073933412, 
+            41.94718347067672
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.94718347067672", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1732", 
+    "date": {
+        "$date": 1369123200000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51b34a213c002ed20d78cb8c"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.72076073933412", 
+    "location_description": "STREET", 
+    "x_coordinate": "1150893", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "07", 
+    "block": "036XX N AVONDALE AVE"
+}

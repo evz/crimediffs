@@ -1,1 +1,38 @@
-{"y_coordinate": "1924786", "year": "2013", "domestic": false, "case_number": "HW289622", "id": "9144800", "primary_type": "ASSAULT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75964428732652, 41.94970869804183]}, "community_area": "15", "latitude": "41.94970869804183", "type": null, "description": "SIMPLE", "beat": "1634", "date": {"$date": 1369425600000}, "ward": "38", "_id": {"$oid": "51aa138e3c002ed20d78aedc"}, "iucr": "560", "longitude": "-87.75964428732652", "location_description": "SCHOOL, PUBLIC, GROUNDS", "x_coordinate": "1140309", "updated_on": {"$date": 1369701613000}, "fbi_code": "08A", "block": "038XX N LOCKWOOD AVE"}
+{
+    "y_coordinate": "1924786", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289622", 
+    "id": "9144800", 
+    "primary_type": "ASSAULT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75964428732652, 
+            41.94970869804183
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.94970869804183", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1634", 
+    "date": {
+        "$date": 1369425600000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51aa138e3c002ed20d78aedc"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.75964428732652", 
+    "location_description": "SCHOOL, PUBLIC, GROUNDS", 
+    "x_coordinate": "1140309", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08A", 
+    "block": "038XX N LOCKWOOD AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1919460", "year": "2013", "domestic": false, "case_number": "HW288185", "id": "9143098", "primary_type": "CRIMINAL TRESPASS", "district": "019", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64043980950659, 41.93443548950787]}, "community_area": "6", "latitude": "41.93443548950787", "type": null, "description": "TO LAND", "beat": "1934", "date": {"$date": 1369337100000}, "ward": "44", "_id": {"$oid": "51aa13953c002ed20d78b232"}, "iucr": "1330", "longitude": "-87.64043980950659", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1172781", "updated_on": {"$date": 1369528777000}, "fbi_code": "26", "block": "004XX W SURF ST"}
+{
+    "y_coordinate": "1919460", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288185", 
+    "id": "9143098", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "019", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64043980950659, 
+            41.93443548950787
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.93443548950787", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "1934", 
+    "date": {
+        "$date": 1369337100000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b232"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.64043980950659", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1172781", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "26", 
+    "block": "004XX W SURF ST"
+}

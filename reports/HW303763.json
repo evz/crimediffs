@@ -1,1 +1,33 @@
-{"community_area": "29", "_id": {"$oid": "51b5f1193c002ed20d78ccee"}, "primary_type": "ASSAULT", "beat": "1014", "year": "2013", "domestic": false, "iucr": "560", "arrest": false, "location_description": "SIDEWALK", "location": {"type": "Point", "coordinates": [-87.7161820058055, 41.85547669761943]}, "case_number": "HW303763", "date": {"$date": 1370194200000}, "updated_on": {"$date": 1370911182000}, "ward": "24", "fbi_code": "08A", "type": null, "id": "9159691", "block": "018XX S MILLARD AVE", "description": "SIMPLE"}
+{
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78ccee"
+    }, 
+    "primary_type": "ASSAULT", 
+    "year": "2013", 
+    "beat": "1014", 
+    "case_number": "HW303763", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7161820058055, 
+            41.85547669761943
+        ]
+    }, 
+    "community_area": "29", 
+    "date": {
+        "$date": 1370194200000
+    }, 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "ward": "24", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9159691", 
+    "block": "018XX S MILLARD AVE", 
+    "description": "SIMPLE"
+}

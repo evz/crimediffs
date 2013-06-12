@@ -1,1 +1,38 @@
-{"y_coordinate": "1896219", "year": "2013", "domestic": false, "case_number": "HW288258", "id": "9143210", "primary_type": "CRIMINAL DAMAGE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65848698082495, 41.870764237004316]}, "community_area": "28", "latitude": "41.870764237004316", "type": "quality", "description": "TO VEHICLE", "beat": "1231", "date": {"$date": 1369157400000}, "ward": "2", "_id": {"$oid": "51a61f0b3c002ed20d78a7f0"}, "iucr": "1320", "longitude": "-87.65848698082495", "location_description": "STREET", "x_coordinate": "1168053", "updated_on": {"$date": 1369528777000}, "fbi_code": "14", "block": "008XX S LYTLE ST"}
+{
+    "y_coordinate": "1896219", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288258", 
+    "id": "9143210", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65848698082495, 
+            41.870764237004316
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.870764237004316", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1231", 
+    "date": {
+        "$date": 1369157400000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a7f0"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.65848698082495", 
+    "location_description": "STREET", 
+    "x_coordinate": "1168053", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "14", 
+    "block": "008XX S LYTLE ST"
+}

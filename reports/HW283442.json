@@ -1,1 +1,38 @@
-{"y_coordinate": "1897426", "year": "2013", "domestic": false, "case_number": "HW283442", "id": "9138086", "primary_type": "MOTOR VEHICLE THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72636854201542, 41.87445537196341]}, "community_area": "26", "latitude": "41.87445537196341", "type": "property", "description": "AUTOMOBILE", "beat": "1132", "date": {"$date": 1369071000000}, "ward": "24", "_id": {"$oid": "51a4cd903c002ed20d78a471"}, "iucr": "910", "longitude": "-87.72636854201542", "location_description": "STREET", "x_coordinate": "1149555", "updated_on": {"$date": 1369269615000}, "fbi_code": "07", "block": "040XX W CONGRESS PKWY"}
+{
+    "y_coordinate": "1897426", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283442", 
+    "id": "9138086", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72636854201542, 
+            41.87445537196341
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.87445537196341", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1132", 
+    "date": {
+        "$date": 1369071000000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a471"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.72636854201542", 
+    "location_description": "STREET", 
+    "x_coordinate": "1149555", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "07", 
+    "block": "040XX W CONGRESS PKWY"
+}

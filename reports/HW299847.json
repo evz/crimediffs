@@ -1,1 +1,38 @@
-{"y_coordinate": "1899260", "year": "2013", "domestic": false, "case_number": "HW299847", "id": "9154596", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71110469417587, 41.87940663932328]}, "community_area": "27", "latitude": "41.87940663932328", "type": "quality", "description": "POSS: CRACK", "beat": "1123", "date": {"$date": 1370087700000}, "ward": "28", "_id": {"$oid": "51b5f1203c002ed20d78d108"}, "iucr": "2027", "longitude": "-87.71110469417587", "location_description": "STREET", "x_coordinate": "1153699", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "001XX S HOMAN AVE"}
+{
+    "y_coordinate": "1899260", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299847", 
+    "id": "9154596", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71110469417587, 
+            41.87940663932328
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.87940663932328", 
+    "type": "quality", 
+    "description": "POSS: CRACK", 
+    "beat": "1123", 
+    "date": {
+        "$date": 1370087700000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d108"
+    }, 
+    "iucr": "2027", 
+    "longitude": "-87.71110469417587", 
+    "location_description": "STREET", 
+    "x_coordinate": "1153699", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "001XX S HOMAN AVE"
+}

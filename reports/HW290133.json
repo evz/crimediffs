@@ -1,1 +1,38 @@
-{"y_coordinate": "1929070", "year": "2013", "domestic": false, "case_number": "HW290133", "id": "9145130", "primary_type": "THEFT", "district": "016", "arrest": true, "location": {"type": "Point", "coordinates": [-87.78577515946735, 41.961592515249244]}, "community_area": "15", "latitude": "41.961592515249244", "type": "property", "description": "OVER $500", "beat": "1622", "date": {"$date": 1369407600000}, "ward": "38", "_id": {"$oid": "51aa13913c002ed20d78afce"}, "iucr": "810", "longitude": "-87.78577515946735", "location_description": "RESIDENCE", "x_coordinate": "1133173", "updated_on": {"$date": 1370133629000}, "fbi_code": "06", "block": "044XX N MULLIGAN AVE"}
+{
+    "y_coordinate": "1929070", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290133", 
+    "id": "9145130", 
+    "primary_type": "THEFT", 
+    "district": "016", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78577515946735, 
+            41.961592515249244
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.961592515249244", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1622", 
+    "date": {
+        "$date": 1369407600000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78afce"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.78577515946735", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1133173", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "06", 
+    "block": "044XX N MULLIGAN AVE"
+}

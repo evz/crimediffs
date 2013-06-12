@@ -1,1 +1,38 @@
-{"y_coordinate": "1881828", "year": "2013", "domestic": false, "case_number": "HW286319", "id": "9141242", "primary_type": "NARCOTICS", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.61746370606137, 41.8310232609831]}, "community_area": "35", "latitude": "41.8310232609831", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0212", "date": {"$date": 1369236960000}, "ward": "4", "_id": {"$oid": "51a7708a3c002ed20d78abbc"}, "iucr": "1811", "longitude": "-87.61746370606137", "location_description": "SIDEWALK", "x_coordinate": "1179347", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "035XX S DR MARTIN LUTHER KING JR DR"}
+{
+    "y_coordinate": "1881828", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286319", 
+    "id": "9141242", 
+    "primary_type": "NARCOTICS", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61746370606137, 
+            41.8310232609831
+        ]
+    }, 
+    "community_area": "35", 
+    "latitude": "41.8310232609831", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0212", 
+    "date": {
+        "$date": 1369236960000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78abbc"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.61746370606137", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1179347", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "035XX S DR MARTIN LUTHER KING JR DR"
+}

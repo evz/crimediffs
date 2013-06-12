@@ -1,1 +1,38 @@
-{"y_coordinate": "1864375", "year": "2013", "domestic": false, "case_number": "HW288418", "id": "9143342", "primary_type": "ROBBERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62201861487358, 41.78315569478497]}, "community_area": "40", "latitude": "41.78315569478497", "type": "violent", "description": "ARMED: HANDGUN", "beat": "0311", "date": {"$date": 1369359480000}, "ward": "20", "_id": {"$oid": "51aa13943c002ed20d78b15e"}, "iucr": "031A", "longitude": "-87.62201861487358", "location_description": "SIDEWALK", "x_coordinate": "1178250", "updated_on": {"$date": 1369528777000}, "fbi_code": "03", "block": "061XX S MICHIGAN AVE"}
+{
+    "y_coordinate": "1864375", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288418", 
+    "id": "9143342", 
+    "primary_type": "ROBBERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62201861487358, 
+            41.78315569478497
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.78315569478497", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0311", 
+    "date": {
+        "$date": 1369359480000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b15e"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.62201861487358", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1178250", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "03", 
+    "block": "061XX S MICHIGAN AVE"
+}

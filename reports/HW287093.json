@@ -1,1 +1,38 @@
-{"y_coordinate": "1906381", "year": "2013", "domestic": true, "case_number": "HW287093", "id": "9141878", "primary_type": "CRIMINAL DAMAGE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66671466121412, 41.89869928778867]}, "community_area": "24", "latitude": "41.89869928778867", "type": "quality", "description": "TO VEHICLE", "beat": "1213", "date": {"$date": 1369291200000}, "ward": "1", "_id": {"$oid": "51aa13993c002ed20d78b42e"}, "iucr": "1320", "longitude": "-87.66671466121412", "location_description": "STREET", "x_coordinate": "1165733", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "015XX W WALTON ST"}
+{
+    "y_coordinate": "1906381", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW287093", 
+    "id": "9141878", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66671466121412, 
+            41.89869928778867
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.89869928778867", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1213", 
+    "date": {
+        "$date": 1369291200000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51aa13993c002ed20d78b42e"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.66671466121412", 
+    "location_description": "STREET", 
+    "x_coordinate": "1165733", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "015XX W WALTON ST"
+}

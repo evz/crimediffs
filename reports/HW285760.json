@@ -1,1 +1,38 @@
-{"y_coordinate": "1899104", "year": "2013", "domestic": false, "case_number": "HW285760", "id": "9140736", "primary_type": "BATTERY", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68865196316158, 41.87885468909687]}, "community_area": "28", "latitude": "41.87885468909687", "type": null, "description": "SIMPLE", "beat": "1125", "date": {"$date": 1369209600000}, "ward": "2", "_id": {"$oid": "51a7708d3c002ed20d78acff"}, "iucr": "460", "longitude": "-87.68865196316158", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1159815", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "001XX S CAMPBELL AVE"}
+{
+    "y_coordinate": "1899104", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285760", 
+    "id": "9140736", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68865196316158, 
+            41.87885468909687
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.87885468909687", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1125", 
+    "date": {
+        "$date": 1369209600000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78acff"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.68865196316158", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1159815", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "001XX S CAMPBELL AVE"
+}

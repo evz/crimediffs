@@ -1,1 +1,38 @@
-{"y_coordinate": "1885493", "year": "2013", "domestic": false, "case_number": "HW300253", "id": "9154745", "primary_type": "THEFT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64943508489026, 41.84127580410045]}, "community_area": "60", "latitude": "41.84127580410045", "type": "property", "description": "OVER $500", "beat": "0913", "date": {"$date": 1370095200000}, "ward": "11", "_id": {"$oid": "51b5f1203c002ed20d78d0a7"}, "iucr": "810", "longitude": "-87.64943508489026", "location_description": "PARK PROPERTY", "x_coordinate": "1170604", "updated_on": {"$date": 1370306580000}, "fbi_code": "06", "block": "029XX S POPLAR AVE"}
+{
+    "y_coordinate": "1885493", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300253", 
+    "id": "9154745", 
+    "primary_type": "THEFT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64943508489026, 
+            41.84127580410045
+        ]
+    }, 
+    "community_area": "60", 
+    "latitude": "41.84127580410045", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0913", 
+    "date": {
+        "$date": 1370095200000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0a7"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.64943508489026", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1170604", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "06", 
+    "block": "029XX S POPLAR AVE"
+}

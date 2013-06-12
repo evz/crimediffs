@@ -1,1 +1,33 @@
-{"community_area": "40", "_id": {"$oid": "51b7429e3c002ed20d78d47f"}, "primary_type": "ROBBERY", "beat": "0232", "year": "2013", "domestic": false, "iucr": "031A", "arrest": false, "location_description": "SIDEWALK", "location": {"type": "Point", "coordinates": [-87.62565561433908, 41.787176583396466]}, "case_number": "HW302611", "date": {"$date": 1370255400000}, "updated_on": {"$date": 1370651988000}, "ward": "20", "fbi_code": "03", "type": "violent", "id": "9157822", "block": "059XX S STATE ST", "description": "ARMED: HANDGUN"}
+{
+    "_id": {
+        "$oid": "51b7429e3c002ed20d78d47f"
+    }, 
+    "primary_type": "ROBBERY", 
+    "year": "2013", 
+    "beat": "0232", 
+    "case_number": "HW302611", 
+    "domestic": false, 
+    "iucr": "031A", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62565561433908, 
+            41.787176583396466
+        ]
+    }, 
+    "community_area": "40", 
+    "date": {
+        "$date": 1370255400000
+    }, 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "ward": "20", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9157822", 
+    "block": "059XX S STATE ST", 
+    "description": "ARMED: HANDGUN"
+}

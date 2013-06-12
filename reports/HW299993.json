@@ -1,1 +1,38 @@
-{"y_coordinate": "1865595", "year": "2013", "domestic": false, "case_number": "HW299993", "id": "9154552", "primary_type": "THEFT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6548261845322, 41.78670217873962]}, "community_area": "67", "latitude": "41.78670217873962", "type": "property", "description": "$500 AND UNDER", "beat": "0713", "date": {"$date": 1370095200000}, "ward": "16", "_id": {"$oid": "51b5f1203c002ed20d78d0a5"}, "iucr": "820", "longitude": "-87.6548261845322", "location_description": "CTA BUS STOP", "x_coordinate": "1169292", "updated_on": {"$date": 1370306580000}, "fbi_code": "06", "block": "059XX S RACINE AVE"}
+{
+    "y_coordinate": "1865595", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299993", 
+    "id": "9154552", 
+    "primary_type": "THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6548261845322, 
+            41.78670217873962
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.78670217873962", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0713", 
+    "date": {
+        "$date": 1370095200000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0a5"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.6548261845322", 
+    "location_description": "CTA BUS STOP", 
+    "x_coordinate": "1169292", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "06", 
+    "block": "059XX S RACINE AVE"
+}

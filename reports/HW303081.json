@@ -1,1 +1,33 @@
-{"community_area": "4", "_id": {"$oid": "51b7429b3c002ed20d78d372"}, "primary_type": "NARCOTICS", "beat": "2031", "year": "2013", "domestic": false, "iucr": "1822", "arrest": false, "location_description": "STREET", "location": {"type": "Point", "coordinates": [-87.68962765952381, 41.97290749642378]}, "case_number": "HW303081", "date": {"$date": 1370277360000}, "updated_on": {"$date": 1370911182000}, "ward": "47", "fbi_code": "18", "type": "quality", "id": "9166564", "block": "024XX W WINNEMAC AVE", "description": "MANU/DEL:CANNABIS OVER 10 GMS"}
+{
+    "_id": {
+        "$oid": "51b7429b3c002ed20d78d372"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "year": "2013", 
+    "beat": "2031", 
+    "case_number": "HW303081", 
+    "domestic": false, 
+    "iucr": "1822", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68962765952381, 
+            41.97290749642378
+        ]
+    }, 
+    "community_area": "4", 
+    "date": {
+        "$date": 1370277360000
+    }, 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "ward": "47", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9166564", 
+    "block": "024XX W WINNEMAC AVE", 
+    "description": "MANU/DEL:CANNABIS OVER 10 GMS"
+}

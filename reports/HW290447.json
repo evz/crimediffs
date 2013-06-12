@@ -1,1 +1,33 @@
-{"community_area": "8", "_id": {"$oid": "51b34a113c002ed20d78ca5f"}, "primary_type": "CRIMINAL DAMAGE", "beat": "1823", "year": "2013", "domestic": false, "iucr": "1320", "arrest": false, "location_description": "STREET", "location": {"type": "Point", "coordinates": [-87.6372558987655, 41.90039606413474]}, "case_number": "HW290447", "date": {"$date": 1369488600000}, "updated_on": {"$date": 1369874559000}, "ward": "27", "fbi_code": "14", "type": "quality", "id": "9147531", "block": "003XX W OAK ST", "description": "TO VEHICLE"}
+{
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca5f"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "year": "2013", 
+    "beat": "1823", 
+    "case_number": "HW290447", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6372558987655, 
+            41.90039606413474
+        ]
+    }, 
+    "community_area": "8", 
+    "date": {
+        "$date": 1369488600000
+    }, 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "ward": "27", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9147531", 
+    "block": "003XX W OAK ST", 
+    "description": "TO VEHICLE"
+}

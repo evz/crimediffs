@@ -1,1 +1,38 @@
-{"y_coordinate": "1921398", "year": "2013", "domestic": false, "case_number": "HW286139", "id": "9141167", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65243714498698, 41.93982555711561]}, "community_area": "6", "latitude": "41.93982555711561", "type": "property", "description": "RETAIL THEFT", "beat": "1933", "date": {"$date": 1369232040000}, "ward": "44", "_id": {"$oid": "51a7708b3c002ed20d78ac17"}, "iucr": "860", "longitude": "-87.65243714498698", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1169501", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "009XX W BELMONT AVE"}
+{
+    "y_coordinate": "1921398", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286139", 
+    "id": "9141167", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65243714498698, 
+            41.93982555711561
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.93982555711561", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "1933", 
+    "date": {
+        "$date": 1369232040000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac17"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.65243714498698", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1169501", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "009XX W BELMONT AVE"
+}

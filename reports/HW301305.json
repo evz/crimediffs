@@ -1,1 +1,38 @@
-{"y_coordinate": "1870948", "year": "2013", "domestic": false, "case_number": "HW301305", "id": "9155600", "primary_type": "THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70393894954468, 41.8016719244119]}, "community_area": "63", "latitude": "41.8016719244119", "type": "property", "description": "OVER $500", "beat": "0821", "date": {"$date": 1370181600000}, "ward": "14", "_id": {"$oid": "51b5f11a3c002ed20d78cd85"}, "iucr": "810", "longitude": "-87.70393894954468", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1155858", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "050XX S KEDZIE AVE"}
+{
+    "y_coordinate": "1870948", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301305", 
+    "id": "9155600", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70393894954468, 
+            41.8016719244119
+        ]
+    }, 
+    "community_area": "63", 
+    "latitude": "41.8016719244119", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0821", 
+    "date": {
+        "$date": 1370181600000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd85"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.70393894954468", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1155858", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "050XX S KEDZIE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1896641", "year": "2013", "domestic": false, "case_number": "HW296814", "id": "9151407", "primary_type": "BURGLARY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72829074166677, 41.87231127710474]}, "community_area": "26", "latitude": "41.87231127710474", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1132", "date": {"$date": 1369396800000}, "ward": "24", "_id": {"$oid": "51aa13923c002ed20d78b060"}, "iucr": "610", "longitude": "-87.72829074166677", "location_description": "RESIDENCE", "x_coordinate": "1149037", "updated_on": {"$date": 1370133629000}, "fbi_code": "05", "block": "041XX W FIFTH AVE"}
+{
+    "y_coordinate": "1896641", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW296814", 
+    "id": "9151407", 
+    "primary_type": "BURGLARY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72829074166677, 
+            41.87231127710474
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.87231127710474", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1132", 
+    "date": {
+        "$date": 1369396800000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b060"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.72829074166677", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1149037", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "05", 
+    "block": "041XX W FIFTH AVE"
+}

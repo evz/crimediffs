@@ -1,1 +1,38 @@
-{"y_coordinate": "1870422", "year": "2013", "domestic": false, "case_number": "HW289741", "id": "9144614", "primary_type": "CRIMINAL TRESPASS", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.59518905326085, 41.79958111636881]}, "community_area": "41", "latitude": "41.79958111636881", "type": null, "description": "TO LAND", "beat": "0234", "date": {"$date": 1369433160000}, "ward": "4", "_id": {"$oid": "51aa138c3c002ed20d78ae60"}, "iucr": "1330", "longitude": "-87.59518905326085", "location_description": "RESTAURANT", "x_coordinate": "1185516", "updated_on": {"$date": 1369615194000}, "fbi_code": "26", "block": "012XX E 53RD ST"}
+{
+    "y_coordinate": "1870422", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289741", 
+    "id": "9144614", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59518905326085, 
+            41.79958111636881
+        ]
+    }, 
+    "community_area": "41", 
+    "latitude": "41.79958111636881", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "0234", 
+    "date": {
+        "$date": 1369433160000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae60"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.59518905326085", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1185516", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "26", 
+    "block": "012XX E 53RD ST"
+}

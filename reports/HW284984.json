@@ -1,1 +1,38 @@
-{"y_coordinate": "1862680", "year": "2013", "domestic": false, "case_number": "HW284984", "id": "9139684", "primary_type": "OTHER OFFENSE", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.60055414069542, 41.7783692191419]}, "community_area": "42", "latitude": "41.7783692191419", "type": null, "description": "SEX OFFENDER: PROHIBITED ZONE", "beat": "0314", "date": {"$date": 1369158900000}, "ward": "20", "_id": {"$oid": "51a61f0b3c002ed20d78a7dc"}, "iucr": "4652", "longitude": "-87.60055414069542", "location_description": "PARK PROPERTY", "x_coordinate": "1184119", "updated_on": {"$date": 1369701613000}, "fbi_code": "26", "block": "064XX S ELLIS AVE"}
+{
+    "y_coordinate": "1862680", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284984", 
+    "id": "9139684", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60055414069542, 
+            41.7783692191419
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.7783692191419", 
+    "type": null, 
+    "description": "SEX OFFENDER: PROHIBITED ZONE", 
+    "beat": "0314", 
+    "date": {
+        "$date": 1369158900000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a7dc"
+    }, 
+    "iucr": "4652", 
+    "longitude": "-87.60055414069542", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1184119", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "26", 
+    "block": "064XX S ELLIS AVE"
+}

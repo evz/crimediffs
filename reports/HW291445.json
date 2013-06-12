@@ -1,1 +1,38 @@
-{"y_coordinate": "1853608", "year": "2013", "domestic": false, "case_number": "HW291445", "id": "9145872", "primary_type": "THEFT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66493538472106, 41.75386555183927]}, "community_area": "71", "latitude": "41.75386555183927", "type": "property", "description": "FROM BUILDING", "beat": "0611", "date": {"$date": 1369524600000}, "ward": "17", "_id": {"$oid": "51b34a0d3c002ed20d78c8b3"}, "iucr": "890", "longitude": "-87.66493538472106", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1166628", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "016XX W 77TH ST"}
+{
+    "y_coordinate": "1853608", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291445", 
+    "id": "9145872", 
+    "primary_type": "THEFT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66493538472106, 
+            41.75386555183927
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.75386555183927", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0611", 
+    "date": {
+        "$date": 1369524600000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c8b3"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.66493538472106", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1166628", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "016XX W 77TH ST"
+}

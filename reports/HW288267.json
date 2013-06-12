@@ -1,1 +1,38 @@
-{"y_coordinate": "1874714", "year": "2013", "domestic": false, "case_number": "HW288267", "id": "9144185", "primary_type": "MOTOR VEHICLE THEFT", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.61135397062357, 41.811462286239916]}, "community_area": "38", "latitude": "41.811462286239916", "type": "property", "description": "AUTOMOBILE", "beat": "0221", "date": {"$date": 1369344600000}, "ward": "3", "_id": {"$oid": "51aa13943c002ed20d78b1da"}, "iucr": "910", "longitude": "-87.61135397062357", "location_description": "STREET", "x_coordinate": "1181072", "updated_on": {"$date": 1370479286000}, "fbi_code": "07", "block": "045XX S ST LAWRENCE AVE"}
+{
+    "y_coordinate": "1874714", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288267", 
+    "id": "9144185", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61135397062357, 
+            41.811462286239916
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.811462286239916", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0221", 
+    "date": {
+        "$date": 1369344600000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1da"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.61135397062357", 
+    "location_description": "STREET", 
+    "x_coordinate": "1181072", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "07", 
+    "block": "045XX S ST LAWRENCE AVE"
+}

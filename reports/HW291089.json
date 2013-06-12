@@ -1,1 +1,38 @@
-{"y_coordinate": "1906994", "year": "2013", "domestic": false, "case_number": "HW291089", "id": "9145611", "primary_type": "ROBBERY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77518176034653, 41.90095994501775]}, "community_area": "25", "latitude": "41.90095994501775", "type": "violent", "description": "ARMED: HANDGUN", "beat": "1511", "date": {"$date": 1369530000000}, "ward": "29", "_id": {"$oid": "51b34a0d3c002ed20d78c87c"}, "iucr": "031A", "longitude": "-87.77518176034653", "location_description": "STREET", "x_coordinate": "1136198", "updated_on": {"$date": 1369787985000}, "fbi_code": "03", "block": "011XX N AUSTIN BLVD"}
+{
+    "y_coordinate": "1906994", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291089", 
+    "id": "9145611", 
+    "primary_type": "ROBBERY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77518176034653, 
+            41.90095994501775
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.90095994501775", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "1511", 
+    "date": {
+        "$date": 1369530000000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c87c"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.77518176034653", 
+    "location_description": "STREET", 
+    "x_coordinate": "1136198", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "03", 
+    "block": "011XX N AUSTIN BLVD"
+}

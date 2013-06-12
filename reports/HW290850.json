@@ -1,1 +1,38 @@
-{"y_coordinate": "1878654", "year": "2013", "domestic": false, "case_number": "HW290850", "id": "9146320", "primary_type": "MOTOR VEHICLE THEFT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69091009111779, 41.82274721392797]}, "community_area": "58", "latitude": "41.82274721392797", "type": "property", "description": "AUTOMOBILE", "beat": "0921", "date": {"$date": 1369506600000}, "ward": "12", "_id": {"$oid": "51b34a0f3c002ed20d78c980"}, "iucr": "910", "longitude": "-87.69091009111779", "location_description": "STREET", "x_coordinate": "1159353", "updated_on": {"$date": 1369787985000}, "fbi_code": "07", "block": "026XX W PERSHING RD"}
+{
+    "y_coordinate": "1878654", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290850", 
+    "id": "9146320", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69091009111779, 
+            41.82274721392797
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.82274721392797", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0921", 
+    "date": {
+        "$date": 1369506600000
+    }, 
+    "ward": "12", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c980"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.69091009111779", 
+    "location_description": "STREET", 
+    "x_coordinate": "1159353", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "07", 
+    "block": "026XX W PERSHING RD"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1891561", "year": "2013", "domestic": false, "case_number": "HW290536", "id": "9145184", "primary_type": "GAMBLING", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72104045279403, 41.85833203311005]}, "community_area": "29", "latitude": "41.85833203311005", "type": null, "description": "GAME/DICE", "beat": "1014", "date": {"$date": 1369494000000}, "ward": "24", "_id": {"$oid": "51b34a103c002ed20d78ca2c"}, "iucr": "1661", "longitude": "-87.72104045279403", "location_description": "SIDEWALK", "x_coordinate": "1151048", "updated_on": {"$date": 1369787985000}, "fbi_code": "19", "block": "016XX S AVERS AVE"}
+{
+    "y_coordinate": "1891561", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290536", 
+    "id": "9145184", 
+    "primary_type": "GAMBLING", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72104045279403, 
+            41.85833203311005
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85833203311005", 
+    "type": null, 
+    "description": "GAME/DICE", 
+    "beat": "1014", 
+    "date": {
+        "$date": 1369494000000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78ca2c"
+    }, 
+    "iucr": "1661", 
+    "longitude": "-87.72104045279403", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1151048", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "19", 
+    "block": "016XX S AVERS AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1895082", "year": "2013", "domestic": false, "case_number": "HW288229", "id": "9143119", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68015762247211, 41.86776931964461]}, "community_area": "28", "latitude": "41.86776931964461", "type": "property", "description": "$500 AND UNDER", "beat": "1225", "date": {"$date": 1369341000000}, "ward": "2", "_id": {"$oid": "51aa13953c002ed20d78b205"}, "iucr": "820", "longitude": "-87.68015762247211", "location_description": "OTHER", "x_coordinate": "1162159", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "011XX S HAMILTON AVE"}
+{
+    "y_coordinate": "1895082", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288229", 
+    "id": "9143119", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68015762247211, 
+            41.86776931964461
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.86776931964461", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1225", 
+    "date": {
+        "$date": 1369341000000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b205"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.68015762247211", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1162159", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "011XX S HAMILTON AVE"
+}

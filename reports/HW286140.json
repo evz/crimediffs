@@ -1,1 +1,38 @@
-{"y_coordinate": "1943508", "year": "2013", "domestic": false, "case_number": "HW286140", "id": "9141144", "primary_type": "DECEPTIVE PRACTICE", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66056826182027, 42.000547801886576]}, "community_area": "1", "latitude": "42.000547801886576", "type": null, "description": "ILLEGAL USE CASH CARD", "beat": "2432", "date": {"$date": 1369229400000}, "ward": "49", "_id": {"$oid": "51a7708b3c002ed20d78ac3d"}, "iucr": "1152", "longitude": "-87.66056826182027", "location_description": "OTHER", "x_coordinate": "1167115", "updated_on": {"$date": 1369701613000}, "fbi_code": "11", "block": "065XX N SHERIDAN RD"}
+{
+    "y_coordinate": "1943508", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286140", 
+    "id": "9141144", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66056826182027, 
+            42.000547801886576
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "42.000547801886576", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "2432", 
+    "date": {
+        "$date": 1369229400000
+    }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac3d"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.66056826182027", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1167115", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "11", 
+    "block": "065XX N SHERIDAN RD"
+}

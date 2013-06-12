@@ -1,1 +1,38 @@
-{"y_coordinate": "1931813", "year": "2013", "domestic": false, "case_number": "HW301121", "id": "9164697", "primary_type": "THEFT", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69664602241905, 41.9686601877753]}, "community_area": "4", "latitude": "41.9686601877753", "type": "property", "description": "OVER $500", "beat": "2031", "date": {"$date": 1370109600000}, "ward": "40", "_id": {"$oid": "51b5f11f3c002ed20d78d000"}, "iucr": "810", "longitude": "-87.69664602241905", "location_description": "PARK PROPERTY", "x_coordinate": "1157395", "updated_on": {"$date": 1370911182000}, "fbi_code": "06", "block": "027XX W LAWRENCE AVE"}
+{
+    "y_coordinate": "1931813", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301121", 
+    "id": "9164697", 
+    "primary_type": "THEFT", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69664602241905, 
+            41.9686601877753
+        ]
+    }, 
+    "community_area": "4", 
+    "latitude": "41.9686601877753", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "2031", 
+    "date": {
+        "$date": 1370109600000
+    }, 
+    "ward": "40", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d000"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.69664602241905", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1157395", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "06", 
+    "block": "027XX W LAWRENCE AVE"
+}

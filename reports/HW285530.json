@@ -1,1 +1,38 @@
-{"y_coordinate": "1884288", "year": "2013", "domestic": false, "case_number": "HW285530", "id": "9140166", "primary_type": "CRIMINAL TRESPASS", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64548160626524, 41.837945358568355]}, "community_area": "60", "latitude": "41.837945358568355", "type": null, "description": "TO LAND", "beat": "0915", "date": {"$date": 1369204200000}, "ward": "11", "_id": {"$oid": "51a7708d3c002ed20d78ad25"}, "iucr": "1330", "longitude": "-87.64548160626524", "location_description": "DRUG STORE", "x_coordinate": "1171691", "updated_on": {"$date": 1369356045000}, "fbi_code": "26", "block": "007XX W 31ST ST"}
+{
+    "y_coordinate": "1884288", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285530", 
+    "id": "9140166", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64548160626524, 
+            41.837945358568355
+        ]
+    }, 
+    "community_area": "60", 
+    "latitude": "41.837945358568355", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "0915", 
+    "date": {
+        "$date": 1369204200000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad25"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.64548160626524", 
+    "location_description": "DRUG STORE", 
+    "x_coordinate": "1171691", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "26", 
+    "block": "007XX W 31ST ST"
+}

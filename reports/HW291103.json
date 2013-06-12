@@ -1,1 +1,38 @@
-{"y_coordinate": "1864441", "year": "2013", "domestic": false, "case_number": "HW291103", "id": "9145610", "primary_type": "CRIMINAL DAMAGE", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76333740111502, 41.78412490044336]}, "community_area": "64", "latitude": "41.78412490044336", "type": "quality", "description": "TO PROPERTY", "beat": "0812", "date": {"$date": 1369530900000}, "ward": "13", "_id": {"$oid": "51b34a0d3c002ed20d78c870"}, "iucr": "1310", "longitude": "-87.76333740111502", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1139705", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "059XX S PARKSIDE AVE"}
+{
+    "y_coordinate": "1864441", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291103", 
+    "id": "9145610", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76333740111502, 
+            41.78412490044336
+        ]
+    }, 
+    "community_area": "64", 
+    "latitude": "41.78412490044336", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0812", 
+    "date": {
+        "$date": 1369530900000
+    }, 
+    "ward": "13", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c870"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.76333740111502", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1139705", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "059XX S PARKSIDE AVE"
+}

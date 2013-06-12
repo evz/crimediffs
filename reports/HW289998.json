@@ -1,1 +1,38 @@
-{"y_coordinate": "1855799", "year": "2013", "domestic": true, "case_number": "HW289998", "id": "9144802", "primary_type": "ASSAULT", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.63866830460387, 41.75972250630709]}, "community_area": "68", "latitude": "41.75972250630709", "type": null, "description": "AGG PO HANDS NO/MIN INJURY", "beat": "0732", "date": {"$date": 1369456200000}, "ward": "17", "_id": {"$oid": "51aa13883c002ed20d78ad7f"}, "iucr": "554", "longitude": "-87.63866830460387", "location_description": "SIDEWALK", "x_coordinate": "1173778", "updated_on": {"$date": 1369701613000}, "fbi_code": "08A", "block": "005XX W 74TH ST"}
+{
+    "y_coordinate": "1855799", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289998", 
+    "id": "9144802", 
+    "primary_type": "ASSAULT", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63866830460387, 
+            41.75972250630709
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.75972250630709", 
+    "type": null, 
+    "description": "AGG PO HANDS NO/MIN INJURY", 
+    "beat": "0732", 
+    "date": {
+        "$date": 1369456200000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51aa13883c002ed20d78ad7f"
+    }, 
+    "iucr": "554", 
+    "longitude": "-87.63866830460387", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1173778", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08A", 
+    "block": "005XX W 74TH ST"
+}

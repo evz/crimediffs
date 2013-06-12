@@ -1,1 +1,38 @@
-{"y_coordinate": "1825757", "year": "2013", "domestic": false, "case_number": "HW300719", "id": "9155127", "primary_type": "WEAPONS VIOLATION", "district": "005", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62612229720047, 41.6772011330617]}, "community_area": "53", "latitude": "41.6772011330617", "type": null, "description": "UNLAWFUL POSS OF HANDGUN", "beat": "0522", "date": {"$date": 1370136120000}, "ward": "9", "_id": {"$oid": "51b5f11d3c002ed20d78ced0"}, "iucr": "143A", "longitude": "-87.62612229720047", "location_description": "RESIDENCE", "x_coordinate": "1177448", "updated_on": {"$date": 1370392932000}, "fbi_code": "15", "block": "119XX S LA SALLE ST"}
+{
+    "y_coordinate": "1825757", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300719", 
+    "id": "9155127", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "005", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62612229720047, 
+            41.6772011330617
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.6772011330617", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "0522", 
+    "date": {
+        "$date": 1370136120000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78ced0"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.62612229720047", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1177448", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "15", 
+    "block": "119XX S LA SALLE ST"
+}

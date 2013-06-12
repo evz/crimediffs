@@ -1,1 +1,38 @@
-{"y_coordinate": "1931728", "year": "2013", "domestic": false, "case_number": "HW301753", "id": "9155981", "primary_type": "DECEPTIVE PRACTICE", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71287112334721, 41.96851576615824]}, "community_area": "14", "latitude": "41.96851576615824", "type": null, "description": "STOLEN PROP: BUY/RECEIVE/POS.", "beat": "1713", "date": {"$date": 1370203200000}, "ward": "39", "_id": {"$oid": "51b5f1183c002ed20d78cc84"}, "iucr": "1200", "longitude": "-87.71287112334721", "location_description": "RESTAURANT", "x_coordinate": "1152983", "updated_on": {"$date": 1370479286000}, "fbi_code": "13", "block": "033XX W LAWRENCE AVE"}
+{
+    "y_coordinate": "1931728", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301753", 
+    "id": "9155981", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71287112334721, 
+            41.96851576615824
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.96851576615824", 
+    "type": null, 
+    "description": "STOLEN PROP: BUY/RECEIVE/POS.", 
+    "beat": "1713", 
+    "date": {
+        "$date": 1370203200000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51b5f1183c002ed20d78cc84"
+    }, 
+    "iucr": "1200", 
+    "longitude": "-87.71287112334721", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1152983", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "13", 
+    "block": "033XX W LAWRENCE AVE"
+}

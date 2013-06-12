@@ -1,1 +1,38 @@
-{"y_coordinate": "1906227", "year": "2013", "domestic": false, "case_number": "HW285331", "id": "9139956", "primary_type": "THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74032126652966, 41.898680379756144]}, "community_area": "23", "latitude": "41.898680379756144", "type": "property", "description": "FROM BUILDING", "beat": "1111", "date": {"$date": 1369125900000}, "ward": "37", "_id": {"$oid": "51a61f0f3c002ed20d78a97e"}, "iucr": "890", "longitude": "-87.74032126652966", "location_description": "COMMERCIAL / BUSINESS OFFICE", "x_coordinate": "1145694", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "045XX W AUGUSTA BLVD"}
+{
+    "y_coordinate": "1906227", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285331", 
+    "id": "9139956", 
+    "primary_type": "THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74032126652966, 
+            41.898680379756144
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.898680379756144", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1111", 
+    "date": {
+        "$date": 1369125900000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a97e"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.74032126652966", 
+    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
+    "x_coordinate": "1145694", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "045XX W AUGUSTA BLVD"
+}

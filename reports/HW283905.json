@@ -1,1 +1,38 @@
-{"y_coordinate": "1851820", "year": "2013", "domestic": false, "case_number": "HW283905", "id": "9138451", "primary_type": "CRIMINAL DAMAGE", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61257866232819, 41.748642224758065]}, "community_area": "44", "latitude": "41.748642224758065", "type": "quality", "description": "TO PROPERTY", "beat": "0631", "date": {"$date": 1369101600000}, "ward": "6", "_id": {"$oid": "51a4cd8a3c002ed20d78a310"}, "iucr": "1310", "longitude": "-87.61257866232819", "location_description": "APARTMENT", "x_coordinate": "1180930", "updated_on": {"$date": 1369269615000}, "fbi_code": "14", "block": "080XX S EBERHART AVE"}
+{
+    "y_coordinate": "1851820", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283905", 
+    "id": "9138451", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61257866232819, 
+            41.748642224758065
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.748642224758065", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0631", 
+    "date": {
+        "$date": 1369101600000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a4cd8a3c002ed20d78a310"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.61257866232819", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1180930", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "14", 
+    "block": "080XX S EBERHART AVE"
+}

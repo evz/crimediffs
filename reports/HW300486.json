@@ -1,1 +1,38 @@
-{"y_coordinate": "1930751", "year": "2013", "domestic": false, "case_number": "HW300486", "id": "9155095", "primary_type": "NARCOTICS", "district": "016", "arrest": true, "location": {"type": "Point", "coordinates": [-87.83882293074132, 41.96644628702856]}, "community_area": "76", "latitude": "41.96644628702856", "type": "quality", "description": "MANU/DELIVER: HEROIN(BRN/TAN)", "beat": "1614", "date": {"$date": 1370121480000}, "ward": "36", "_id": {"$oid": "51b5f11e3c002ed20d78cf7f"}, "iucr": "2013", "longitude": "-87.83882293074132", "location_description": "APARTMENT", "x_coordinate": "1118735", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "084XX W LAWRENCE AVE"}
+{
+    "y_coordinate": "1930751", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300486", 
+    "id": "9155095", 
+    "primary_type": "NARCOTICS", 
+    "district": "016", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.83882293074132, 
+            41.96644628702856
+        ]
+    }, 
+    "community_area": "76", 
+    "latitude": "41.96644628702856", 
+    "type": "quality", 
+    "description": "MANU/DELIVER: HEROIN(BRN/TAN)", 
+    "beat": "1614", 
+    "date": {
+        "$date": 1370121480000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf7f"
+    }, 
+    "iucr": "2013", 
+    "longitude": "-87.83882293074132", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1118735", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "084XX W LAWRENCE AVE"
+}

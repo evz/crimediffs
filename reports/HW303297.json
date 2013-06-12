@@ -1,1 +1,38 @@
-{"y_coordinate": "1878432", "year": "2013", "domestic": false, "case_number": "HW303297", "id": "9157826", "primary_type": "THEFT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68792262596085, 41.82212123784615]}, "community_area": "58", "latitude": "41.82212123784615", "type": "property", "description": "OVER $500", "beat": "0921", "date": {"$date": 1370098800000}, "ward": "12", "_id": {"$oid": "51b5f11f3c002ed20d78d06f"}, "iucr": "810", "longitude": "-87.68792262596085", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1160169", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "025XX W 39TH PL"}
+{
+    "y_coordinate": "1878432", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303297", 
+    "id": "9157826", 
+    "primary_type": "THEFT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68792262596085, 
+            41.82212123784615
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.82212123784615", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0921", 
+    "date": {
+        "$date": 1370098800000
+    }, 
+    "ward": "12", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d06f"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.68792262596085", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1160169", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "025XX W 39TH PL"
+}

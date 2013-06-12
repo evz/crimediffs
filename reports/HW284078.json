@@ -1,1 +1,38 @@
-{"y_coordinate": "1861368", "year": "2013", "domestic": false, "case_number": "HW284078", "id": "9138637", "primary_type": "BATTERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60443688762778, 41.77479341096084]}, "community_area": "42", "latitude": "41.77479341096084", "type": "violent", "description": "AGGRAVATED: OTHER DANG WEAPON", "beat": "0321", "date": {"$date": 1369076400000}, "ward": "5", "_id": {"$oid": "51a4cd8f3c002ed20d78a410"}, "iucr": "430", "longitude": "-87.60443688762778", "location_description": "SIDEWALK", "x_coordinate": "1183071", "updated_on": {"$date": 1369701613000}, "fbi_code": "04B", "block": "066XX S MARYLAND AVE"}
+{
+    "y_coordinate": "1861368", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284078", 
+    "id": "9138637", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60443688762778, 
+            41.77479341096084
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.77479341096084", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "0321", 
+    "date": {
+        "$date": 1369076400000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a410"
+    }, 
+    "iucr": "430", 
+    "longitude": "-87.60443688762778", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1183071", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "04B", 
+    "block": "066XX S MARYLAND AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1855858", "year": "2013", "domestic": true, "case_number": "HW290767", "id": "9145353", "primary_type": "OTHER OFFENSE", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67234062538982, 41.760083076610144]}, "community_area": "67", "latitude": "41.760083076610144", "type": null, "description": "HARASSMENT BY ELECTRONIC MEANS", "beat": "0735", "date": {"$date": 1369504800000}, "ward": "17", "_id": {"$oid": "51b34a0f3c002ed20d78c996"}, "iucr": "2826", "longitude": "-87.67234062538982", "location_description": "OTHER", "x_coordinate": "1164590", "updated_on": {"$date": 1370565766000}, "fbi_code": "26", "block": "073XX S WINCHESTER AVE"}
+{
+    "y_coordinate": "1855858", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290767", 
+    "id": "9145353", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67234062538982, 
+            41.760083076610144
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.760083076610144", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "0735", 
+    "date": {
+        "$date": 1369504800000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c996"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.67234062538982", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1164590", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "26", 
+    "block": "073XX S WINCHESTER AVE"
+}

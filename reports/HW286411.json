@@ -1,1 +1,38 @@
-{"y_coordinate": "1864614", "year": "2013", "domestic": false, "case_number": "HW286411", "id": "9146354", "primary_type": "BATTERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6897292814956, 41.784210871269075]}, "community_area": "66", "latitude": "41.784210871269075", "type": null, "description": "PRO EMP HANDS NO/MIN INJURY", "beat": "0825", "date": {"$date": 1369231800000}, "ward": "15", "_id": {"$oid": "51a7708b3c002ed20d78ac19"}, "iucr": "484", "longitude": "-87.6897292814956", "location_description": "VEHICLE-COMMERCIAL", "x_coordinate": "1159780", "updated_on": {"$date": 1369787985000}, "fbi_code": "08B", "block": "060XX S TALMAN AVE"}
+{
+    "y_coordinate": "1864614", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286411", 
+    "id": "9146354", 
+    "primary_type": "BATTERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6897292814956, 
+            41.784210871269075
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.784210871269075", 
+    "type": null, 
+    "description": "PRO EMP HANDS NO/MIN INJURY", 
+    "beat": "0825", 
+    "date": {
+        "$date": 1369231800000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac19"
+    }, 
+    "iucr": "484", 
+    "longitude": "-87.6897292814956", 
+    "location_description": "VEHICLE-COMMERCIAL", 
+    "x_coordinate": "1159780", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "08B", 
+    "block": "060XX S TALMAN AVE"
+}

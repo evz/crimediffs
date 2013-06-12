@@ -1,1 +1,38 @@
-{"y_coordinate": "1853734", "year": "2013", "domestic": false, "case_number": "HW287789", "id": "9142893", "primary_type": "BATTERY", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64427770283599, 41.75408930140213]}, "community_area": "71", "latitude": "41.75408930140213", "type": null, "description": "SIMPLE", "beat": "0621", "date": {"$date": 1369323900000}, "ward": "17", "_id": {"$oid": "51aa13963c002ed20d78b2d1"}, "iucr": "460", "longitude": "-87.64427770283599", "location_description": "STREET", "x_coordinate": "1172264", "updated_on": {"$date": 1369615194000}, "fbi_code": "08B", "block": "077XX S HALSTED ST"}
+{
+    "y_coordinate": "1853734", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287789", 
+    "id": "9142893", 
+    "primary_type": "BATTERY", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64427770283599, 
+            41.75408930140213
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.75408930140213", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0621", 
+    "date": {
+        "$date": 1369323900000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b2d1"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.64427770283599", 
+    "location_description": "STREET", 
+    "x_coordinate": "1172264", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08B", 
+    "block": "077XX S HALSTED ST"
+}

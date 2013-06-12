@@ -1,1 +1,38 @@
-{"y_coordinate": "1847617", "year": "2013", "domestic": false, "case_number": "HW288329", "id": "9144377", "primary_type": "BATTERY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.57586231717997, 41.73687172315081]}, "community_area": "48", "latitude": "41.73687172315081", "type": null, "description": "SIMPLE", "beat": "0412", "date": {"$date": 1369337400000}, "ward": "8", "_id": {"$oid": "51aa13953c002ed20d78b22a"}, "iucr": "460", "longitude": "-87.57586231717997", "location_description": "STREET", "x_coordinate": "1190987", "updated_on": {"$date": 1369874559000}, "fbi_code": "08B", "block": "087XX S JEFFERY BLVD"}
+{
+    "y_coordinate": "1847617", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288329", 
+    "id": "9144377", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57586231717997, 
+            41.73687172315081
+        ]
+    }, 
+    "community_area": "48", 
+    "latitude": "41.73687172315081", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0412", 
+    "date": {
+        "$date": 1369337400000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b22a"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.57586231717997", 
+    "location_description": "STREET", 
+    "x_coordinate": "1190987", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "08B", 
+    "block": "087XX S JEFFERY BLVD"
+}

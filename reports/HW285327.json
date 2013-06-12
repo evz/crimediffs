@@ -1,1 +1,38 @@
-{"y_coordinate": "1861478", "year": "2013", "domestic": false, "case_number": "HW285327", "id": "9140057", "primary_type": "ASSAULT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69344825452617, 41.77562553892556]}, "community_area": "66", "latitude": "41.77562553892556", "type": null, "description": "SIMPLE", "beat": "0823", "date": {"$date": 1369081800000}, "ward": "15", "_id": {"$oid": "51a4cd8e3c002ed20d78a3c1"}, "iucr": "560", "longitude": "-87.69344825452617", "location_description": "CHURCH/SYNAGOGUE/PLACE OF WORSHIP", "x_coordinate": "1158789", "updated_on": {"$date": 1369701613000}, "fbi_code": "08A", "block": "064XX S CALIFORNIA AVE"}
+{
+    "y_coordinate": "1861478", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285327", 
+    "id": "9140057", 
+    "primary_type": "ASSAULT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69344825452617, 
+            41.77562553892556
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.77562553892556", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0823", 
+    "date": {
+        "$date": 1369081800000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3c1"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.69344825452617", 
+    "location_description": "CHURCH/SYNAGOGUE/PLACE OF WORSHIP", 
+    "x_coordinate": "1158789", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08A", 
+    "block": "064XX S CALIFORNIA AVE"
+}

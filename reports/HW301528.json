@@ -1,1 +1,38 @@
-{"y_coordinate": "1865304", "year": "2013", "domestic": true, "case_number": "HW301528", "id": "9155746", "primary_type": "BATTERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70135522351852, 41.78616897674141]}, "community_area": "66", "latitude": "41.78616897674141", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0824", "date": {"$date": 1370198400000}, "ward": "16", "_id": {"$oid": "51b5f1183c002ed20d78ccbc"}, "iucr": "486", "longitude": "-87.70135522351852", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1156604", "updated_on": {"$date": 1370479286000}, "fbi_code": "08B", "block": "031XX W 59TH ST"}
+{
+    "y_coordinate": "1865304", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301528", 
+    "id": "9155746", 
+    "primary_type": "BATTERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70135522351852, 
+            41.78616897674141
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.78616897674141", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0824", 
+    "date": {
+        "$date": 1370198400000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51b5f1183c002ed20d78ccbc"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.70135522351852", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1156604", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08B", 
+    "block": "031XX W 59TH ST"
+}

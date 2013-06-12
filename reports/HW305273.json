@@ -1,1 +1,38 @@
-{"y_coordinate": "1853657", "year": "2013", "domestic": false, "case_number": "HW305273", "id": "9160202", "primary_type": "OTHER OFFENSE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58430854055307, 41.753502686147236]}, "community_area": "43", "latitude": "41.753502686147236", "type": null, "description": "HARASSMENT BY ELECTRONIC MEANS", "beat": "0414", "date": {"$date": 1370196000000}, "ward": "8", "_id": {"$oid": "51b5f1193c002ed20d78ccd6"}, "iucr": "2826", "longitude": "-87.58430854055307", "location_description": "APARTMENT", "x_coordinate": "1188629", "updated_on": {"$date": 1370738354000}, "fbi_code": "26", "block": "077XX S CORNELL AVE"}
+{
+    "y_coordinate": "1853657", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW305273", 
+    "id": "9160202", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58430854055307, 
+            41.753502686147236
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.753502686147236", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "0414", 
+    "date": {
+        "$date": 1370196000000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78ccd6"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.58430854055307", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1188629", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "26", 
+    "block": "077XX S CORNELL AVE"
+}

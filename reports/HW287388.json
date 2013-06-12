@@ -1,1 +1,38 @@
-{"y_coordinate": "1931406", "year": "2013", "domestic": false, "case_number": "HW287388", "id": "9142391", "primary_type": "NARCOTICS", "district": "019", "arrest": true, "location": {"type": "Point", "coordinates": [-87.65842854175875, 41.96732498570291]}, "community_area": "3", "latitude": "41.96732498570291", "type": "quality", "description": "POSS: CRACK", "beat": "1914", "date": {"$date": 1369306800000}, "ward": "46", "_id": {"$oid": "51aa13973c002ed20d78b392"}, "iucr": "2027", "longitude": "-87.65842854175875", "location_description": "STREET", "x_coordinate": "1167792", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "011XX W LELAND AVE"}
+{
+    "y_coordinate": "1931406", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287388", 
+    "id": "9142391", 
+    "primary_type": "NARCOTICS", 
+    "district": "019", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65842854175875, 
+            41.96732498570291
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.96732498570291", 
+    "type": "quality", 
+    "description": "POSS: CRACK", 
+    "beat": "1914", 
+    "date": {
+        "$date": 1369306800000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b392"
+    }, 
+    "iucr": "2027", 
+    "longitude": "-87.65842854175875", 
+    "location_description": "STREET", 
+    "x_coordinate": "1167792", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "011XX W LELAND AVE"
+}

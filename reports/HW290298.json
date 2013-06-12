@@ -1,1 +1,38 @@
-{"y_coordinate": "1878541", "year": "2013", "domestic": true, "case_number": "HW290298", "id": "9145031", "primary_type": "BATTERY", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6904069252829, 41.82243429574222]}, "community_area": "58", "latitude": "41.82243429574222", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0921", "date": {"$date": 1369482300000}, "ward": "12", "_id": {"$oid": "51b34a113c002ed20d78caa4"}, "iucr": "486", "longitude": "-87.6904069252829", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1159491", "updated_on": {"$date": 1370306580000}, "fbi_code": "08B", "block": "039XX S ARCHER AVE"}
+{
+    "y_coordinate": "1878541", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290298", 
+    "id": "9145031", 
+    "primary_type": "BATTERY", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6904069252829, 
+            41.82243429574222
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.82243429574222", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0921", 
+    "date": {
+        "$date": 1369482300000
+    }, 
+    "ward": "12", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78caa4"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.6904069252829", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1159491", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08B", 
+    "block": "039XX S ARCHER AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1906370", "year": "2013", "domestic": false, "case_number": "HW303129", "id": "9157669", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73211214591278, 41.89903011988873]}, "community_area": "23", "latitude": "41.89903011988873", "type": null, "description": "SIMPLE", "beat": "1111", "date": {"$date": 1370287500000}, "ward": "37", "_id": {"$oid": "51b742993c002ed20d78d2d7"}, "iucr": "460", "longitude": "-87.73211214591278", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1147928", "updated_on": {"$date": 1370565766000}, "fbi_code": "08B", "block": "042XX W AUGUSTA BLVD"}
+{
+    "y_coordinate": "1906370", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303129", 
+    "id": "9157669", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73211214591278, 
+            41.89903011988873
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.89903011988873", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1111", 
+    "date": {
+        "$date": 1370287500000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51b742993c002ed20d78d2d7"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.73211214591278", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1147928", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "08B", 
+    "block": "042XX W AUGUSTA BLVD"
+}

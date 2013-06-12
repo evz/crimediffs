@@ -1,1 +1,38 @@
-{"y_coordinate": "1903646", "year": "2013", "domestic": false, "case_number": "HW300376", "id": "9154874", "primary_type": "BATTERY", "district": "012", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64707508375402, 41.89107810912633]}, "community_area": "24", "latitude": "41.89107810912633", "type": null, "description": "AGG PO HANDS NO/MIN INJURY", "beat": "1214", "date": {"$date": 1370114160000}, "ward": "27", "_id": {"$oid": "51b5f11f3c002ed20d78cfcd"}, "iucr": "454", "longitude": "-87.64707508375402", "location_description": "SIDEWALK", "x_coordinate": "1171102", "updated_on": {"$date": 1370306580000}, "fbi_code": "08B", "block": "007XX W GRAND AVE"}
+{
+    "y_coordinate": "1903646", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300376", 
+    "id": "9154874", 
+    "primary_type": "BATTERY", 
+    "district": "012", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64707508375402, 
+            41.89107810912633
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.89107810912633", 
+    "type": null, 
+    "description": "AGG PO HANDS NO/MIN INJURY", 
+    "beat": "1214", 
+    "date": {
+        "$date": 1370114160000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cfcd"
+    }, 
+    "iucr": "454", 
+    "longitude": "-87.64707508375402", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1171102", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08B", 
+    "block": "007XX W GRAND AVE"
+}

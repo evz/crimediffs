@@ -1,1 +1,38 @@
-{"y_coordinate": "1864055", "year": "2013", "domestic": false, "case_number": "HW300397", "id": "9154826", "primary_type": "GAMBLING", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.60228930089485, 41.78215366998123]}, "community_area": "42", "latitude": "41.78215366998123", "type": null, "description": "GAME/DICE", "beat": "0313", "date": {"$date": 1370114100000}, "ward": "20", "_id": {"$oid": "51b5f11f3c002ed20d78cfcf"}, "iucr": "1661", "longitude": "-87.60228930089485", "location_description": "OTHER", "x_coordinate": "1183634", "updated_on": {"$date": 1370392932000}, "fbi_code": "19", "block": "009XX E 62ND ST"}
+{
+    "y_coordinate": "1864055", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300397", 
+    "id": "9154826", 
+    "primary_type": "GAMBLING", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60228930089485, 
+            41.78215366998123
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.78215366998123", 
+    "type": null, 
+    "description": "GAME/DICE", 
+    "beat": "0313", 
+    "date": {
+        "$date": 1370114100000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cfcf"
+    }, 
+    "iucr": "1661", 
+    "longitude": "-87.60228930089485", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1183634", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "19", 
+    "block": "009XX E 62ND ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1869493", "year": "2013", "domestic": false, "case_number": "HW300270", "id": "9154754", "primary_type": "ROBBERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72187027016263, 41.79777583301848]}, "community_area": "62", "latitude": "41.79777583301848", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "0822", "date": {"$date": 1370107800000}, "ward": "23", "_id": {"$oid": "51b5f11f3c002ed20d78d018"}, "iucr": "320", "longitude": "-87.72187027016263", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1150979", "updated_on": {"$date": 1370306580000}, "fbi_code": "03", "block": "052XX S HARDING AVE"}
+{
+    "y_coordinate": "1869493", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300270", 
+    "id": "9154754", 
+    "primary_type": "ROBBERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72187027016263, 
+            41.79777583301848
+        ]
+    }, 
+    "community_area": "62", 
+    "latitude": "41.79777583301848", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0822", 
+    "date": {
+        "$date": 1370107800000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d018"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.72187027016263", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1150979", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "03", 
+    "block": "052XX S HARDING AVE"
+}

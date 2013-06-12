@@ -1,1 +1,38 @@
-{"y_coordinate": "1900469", "year": "2013", "domestic": true, "case_number": "HW287163", "id": "9142102", "primary_type": "OTHER OFFENSE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7053808317563, 41.88269327862393]}, "community_area": "27", "latitude": "41.88269327862393", "type": null, "description": "VIOLATE ORDER OF PROTECTION", "beat": "1222", "date": {"$date": 1369296600000}, "ward": "28", "_id": {"$oid": "51aa13983c002ed20d78b3ff"}, "iucr": "4387", "longitude": "-87.7053808317563", "location_description": "ALLEY", "x_coordinate": "1155249", "updated_on": {"$date": 1369442383000}, "fbi_code": "26", "block": "031XX W WASHINGTON BLVD"}
+{
+    "y_coordinate": "1900469", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW287163", 
+    "id": "9142102", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7053808317563, 
+            41.88269327862393
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.88269327862393", 
+    "type": null, 
+    "description": "VIOLATE ORDER OF PROTECTION", 
+    "beat": "1222", 
+    "date": {
+        "$date": 1369296600000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3ff"
+    }, 
+    "iucr": "4387", 
+    "longitude": "-87.7053808317563", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1155249", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "26", 
+    "block": "031XX W WASHINGTON BLVD"
+}

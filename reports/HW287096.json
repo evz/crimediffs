@@ -1,1 +1,38 @@
-{"y_coordinate": "1851264", "year": "2013", "domestic": false, "case_number": "HW287096", "id": "9142241", "primary_type": "ASSAULT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60618331522984, 41.74707609532709]}, "community_area": "44", "latitude": "41.74707609532709", "type": null, "description": "SIMPLE", "beat": "0631", "date": {"$date": 1369291200000}, "ward": "6", "_id": {"$oid": "51aa13993c002ed20d78b42f"}, "iucr": "560", "longitude": "-87.60618331522984", "location_description": "APARTMENT", "x_coordinate": "1182680", "updated_on": {"$date": 1369615194000}, "fbi_code": "08A", "block": "081XX S EVANS AVE"}
+{
+    "y_coordinate": "1851264", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287096", 
+    "id": "9142241", 
+    "primary_type": "ASSAULT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60618331522984, 
+            41.74707609532709
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.74707609532709", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0631", 
+    "date": {
+        "$date": 1369291200000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51aa13993c002ed20d78b42f"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.60618331522984", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1182680", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08A", 
+    "block": "081XX S EVANS AVE"
+}

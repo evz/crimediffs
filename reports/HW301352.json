@@ -1,1 +1,38 @@
-{"y_coordinate": "1889002", "year": "2013", "domestic": false, "case_number": "HW301352", "id": "9155665", "primary_type": "THEFT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63605382111746, 41.85082495393547]}, "community_area": "34", "latitude": "41.85082495393547", "type": "property", "description": "OVER $500", "beat": "0914", "date": {"$date": 1370167200000}, "ward": "25", "_id": {"$oid": "51b5f11c3c002ed20d78ce12"}, "iucr": "810", "longitude": "-87.63605382111746", "location_description": "STREET", "x_coordinate": "1174222", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "023XX S STEWART AVE"}
+{
+    "y_coordinate": "1889002", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301352", 
+    "id": "9155665", 
+    "primary_type": "THEFT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63605382111746, 
+            41.85082495393547
+        ]
+    }, 
+    "community_area": "34", 
+    "latitude": "41.85082495393547", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0914", 
+    "date": {
+        "$date": 1370167200000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce12"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.63605382111746", 
+    "location_description": "STREET", 
+    "x_coordinate": "1174222", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "023XX S STEWART AVE"
+}

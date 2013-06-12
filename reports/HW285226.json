@@ -1,1 +1,38 @@
-{"y_coordinate": "1901879", "year": "2013", "domestic": false, "case_number": "HW285226", "id": "9139866", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72854072691553, 41.88668697111398]}, "community_area": "26", "latitude": "41.88668697111398", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1114", "date": {"$date": 1369171500000}, "ward": "28", "_id": {"$oid": "51a61f093c002ed20d78a72e"}, "iucr": "1811", "longitude": "-87.72854072691553", "location_description": "SIDEWALK", "x_coordinate": "1148932", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "041XX W CARROLL AVE"}
+{
+    "y_coordinate": "1901879", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285226", 
+    "id": "9139866", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72854072691553, 
+            41.88668697111398
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.88668697111398", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1114", 
+    "date": {
+        "$date": 1369171500000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a61f093c002ed20d78a72e"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.72854072691553", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1148932", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "041XX W CARROLL AVE"
+}

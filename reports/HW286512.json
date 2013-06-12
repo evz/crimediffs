@@ -1,1 +1,38 @@
-{"y_coordinate": "1900871", "year": "2013", "domestic": false, "case_number": "HW286512", "id": "9141507", "primary_type": "CRIMINAL DAMAGE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68173274535819, 41.88366472039994]}, "community_area": "28", "latitude": "41.88366472039994", "type": "quality", "description": "TO PROPERTY", "beat": "1223", "date": {"$date": 1369207800000}, "ward": "2", "_id": {"$oid": "51a7708d3c002ed20d78ad0e"}, "iucr": "1310", "longitude": "-87.68173274535819", "location_description": "RESIDENCE", "x_coordinate": "1161686", "updated_on": {"$date": 1370479286000}, "fbi_code": "14", "block": "001XX N LEAVITT ST"}
+{
+    "y_coordinate": "1900871", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286512", 
+    "id": "9141507", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68173274535819, 
+            41.88366472039994
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.88366472039994", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1223", 
+    "date": {
+        "$date": 1369207800000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad0e"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.68173274535819", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1161686", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "14", 
+    "block": "001XX N LEAVITT ST"
+}

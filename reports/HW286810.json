@@ -1,1 +1,38 @@
-{"y_coordinate": "1889819", "year": "2013", "domestic": false, "case_number": "HW286810", "id": "9141672", "primary_type": "THEFT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73442426470163, 41.85362210328898]}, "community_area": "29", "latitude": "41.85362210328898", "type": "property", "description": "$500 AND UNDER", "beat": "1012", "date": {"$date": 1369256400000}, "ward": "24", "_id": {"$oid": "51a770883c002ed20d78aacd"}, "iucr": "820", "longitude": "-87.73442426470163", "location_description": "CTA TRAIN", "x_coordinate": "1147414", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "020XX S KOSTNER AVE"}
+{
+    "y_coordinate": "1889819", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286810", 
+    "id": "9141672", 
+    "primary_type": "THEFT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73442426470163, 
+            41.85362210328898
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85362210328898", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1012", 
+    "date": {
+        "$date": 1369256400000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aacd"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.73442426470163", 
+    "location_description": "CTA TRAIN", 
+    "x_coordinate": "1147414", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "020XX S KOSTNER AVE"
+}

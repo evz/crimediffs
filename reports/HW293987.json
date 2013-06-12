@@ -1,1 +1,38 @@
-{"y_coordinate": "1900212", "year": "2013", "domestic": false, "case_number": "HW293987", "id": "9148232", "primary_type": "DECEPTIVE PRACTICE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6863043774886, 41.88188211143957]}, "community_area": "28", "latitude": "41.88188211143957", "type": null, "description": "COUNTERFEITING DOCUMENT", "beat": "1223", "date": {"$date": 1369483200000}, "ward": "2", "_id": {"$oid": "51b34a113c002ed20d78ca8e"}, "iucr": "1121", "longitude": "-87.6863043774886", "location_description": "RESTAURANT", "x_coordinate": "1160446", "updated_on": {"$date": 1369960832000}, "fbi_code": "10", "block": "0000X N WESTERN AVE"}
+{
+    "y_coordinate": "1900212", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293987", 
+    "id": "9148232", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6863043774886, 
+            41.88188211143957
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.88188211143957", 
+    "type": null, 
+    "description": "COUNTERFEITING DOCUMENT", 
+    "beat": "1223", 
+    "date": {
+        "$date": 1369483200000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca8e"
+    }, 
+    "iucr": "1121", 
+    "longitude": "-87.6863043774886", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1160446", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "10", 
+    "block": "0000X N WESTERN AVE"
+}

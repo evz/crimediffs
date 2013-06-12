@@ -1,1 +1,38 @@
-{"y_coordinate": "1853396", "year": "2013", "domestic": false, "case_number": "HW285383", "id": "9140084", "primary_type": "CRIM SEXUAL ASSAULT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55860657306097, 41.7526159909737]}, "community_area": "43", "latitude": "41.7526159909737", "type": "violent", "description": "NON-AGGRAVATED", "beat": "0421", "date": {"$date": 1369174920000}, "ward": "7", "_id": {"$oid": "51a61f083c002ed20d78a6f8"}, "iucr": "281", "longitude": "-87.55860657306097", "location_description": "RESIDENCE", "x_coordinate": "1195645", "updated_on": {"$date": 1369356045000}, "fbi_code": "02", "block": "078XX S MARQUETTE AVE"}
+{
+    "y_coordinate": "1853396", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285383", 
+    "id": "9140084", 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55860657306097, 
+            41.7526159909737
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.7526159909737", 
+    "type": "violent", 
+    "description": "NON-AGGRAVATED", 
+    "beat": "0421", 
+    "date": {
+        "$date": 1369174920000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51a61f083c002ed20d78a6f8"
+    }, 
+    "iucr": "281", 
+    "longitude": "-87.55860657306097", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1195645", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "02", 
+    "block": "078XX S MARQUETTE AVE"
+}

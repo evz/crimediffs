@@ -1,1 +1,38 @@
-{"y_coordinate": "1828005", "year": "2013", "domestic": false, "case_number": "HW285485", "id": "9140112", "primary_type": "ASSAULT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63684264952968, 41.68343587166473]}, "community_area": "53", "latitude": "41.68343587166473", "type": "violent", "description": "AGGRAVATED: OTHER FIREARM", "beat": "0524", "date": {"$date": 1369196640000}, "ward": "34", "_id": {"$oid": "51a61f043c002ed20d78a662"}, "iucr": "051B", "longitude": "-87.63684264952968", "location_description": "RESIDENCE", "x_coordinate": "1174501", "updated_on": {"$date": 1369356045000}, "fbi_code": "04A", "block": "005XX W 116TH ST"}
+{
+    "y_coordinate": "1828005", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285485", 
+    "id": "9140112", 
+    "primary_type": "ASSAULT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63684264952968, 
+            41.68343587166473
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.68343587166473", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER FIREARM", 
+    "beat": "0524", 
+    "date": {
+        "$date": 1369196640000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51a61f043c002ed20d78a662"
+    }, 
+    "iucr": "051B", 
+    "longitude": "-87.63684264952968", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1174501", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "04A", 
+    "block": "005XX W 116TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1891648", "year": "2013", "domestic": false, "case_number": "HW288368", "id": "9143279", "primary_type": "NARCOTICS", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71017299036714, 41.85851233248465]}, "community_area": "29", "latitude": "41.85851233248465", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "1021", "date": {"$date": 1369351800000}, "ward": "24", "_id": {"$oid": "51aa13943c002ed20d78b192"}, "iucr": "2024", "longitude": "-87.71017299036714", "location_description": "SIDEWALK", "x_coordinate": "1154008", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "016XX S HOMAN AVE"}
+{
+    "y_coordinate": "1891648", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288368", 
+    "id": "9143279", 
+    "primary_type": "NARCOTICS", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71017299036714, 
+            41.85851233248465
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85851233248465", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "1021", 
+    "date": {
+        "$date": 1369351800000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b192"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.71017299036714", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1154008", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "016XX S HOMAN AVE"
+}

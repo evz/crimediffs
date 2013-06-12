@@ -1,1 +1,38 @@
-{"y_coordinate": "1858598", "year": "2013", "domestic": true, "case_number": "HW285964", "id": "9141186", "primary_type": "BATTERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68958641450486, 41.76770038630205]}, "community_area": "66", "latitude": "41.76770038630205", "type": "violent", "description": "AGGRAVATED DOMESTIC BATTERY: HANDGUN", "beat": "0831", "date": {"$date": 1369225800000}, "ward": "18", "_id": {"$oid": "51a7708c3c002ed20d78ac6c"}, "iucr": "488", "longitude": "-87.68958641450486", "location_description": "RESIDENCE", "x_coordinate": "1159864", "updated_on": {"$date": 1370479286000}, "fbi_code": "04B", "block": "069XX S TALMAN AVE"}
+{
+    "y_coordinate": "1858598", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285964", 
+    "id": "9141186", 
+    "primary_type": "BATTERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68958641450486, 
+            41.76770038630205
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.76770038630205", 
+    "type": "violent", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: HANDGUN", 
+    "beat": "0831", 
+    "date": {
+        "$date": 1369225800000
+    }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac6c"
+    }, 
+    "iucr": "488", 
+    "longitude": "-87.68958641450486", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1159864", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "04B", 
+    "block": "069XX S TALMAN AVE"
+}

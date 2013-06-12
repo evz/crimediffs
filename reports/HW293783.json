@@ -1,1 +1,38 @@
-{"y_coordinate": "1901779", "year": "2013", "domestic": false, "case_number": "HW293783", "id": "9147958", "primary_type": "THEFT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6296466680435, 41.88584913961661]}, "community_area": "32", "latitude": "41.88584913961661", "type": "property", "description": "$500 AND UNDER", "beat": "0111", "date": {"$date": 1369224000000}, "ward": "42", "_id": {"$oid": "51a7708c3c002ed20d78ac78"}, "iucr": "820", "longitude": "-87.6296466680435", "location_description": "STREET", "x_coordinate": "1175863", "updated_on": {"$date": 1369874559000}, "fbi_code": "06", "block": "002XX N DEARBORN ST"}
+{
+    "y_coordinate": "1901779", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293783", 
+    "id": "9147958", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6296466680435, 
+            41.88584913961661
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88584913961661", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0111", 
+    "date": {
+        "$date": 1369224000000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac78"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.6296466680435", 
+    "location_description": "STREET", 
+    "x_coordinate": "1175863", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "06", 
+    "block": "002XX N DEARBORN ST"
+}

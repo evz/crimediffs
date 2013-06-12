@@ -1,1 +1,38 @@
-{"y_coordinate": "1931150", "year": "2013", "domestic": false, "case_number": "HW308597", "id": "9164742", "primary_type": "DECEPTIVE PRACTICE", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72447974762109, 41.96699176677721]}, "community_area": "14", "latitude": "41.96699176677721", "type": null, "description": "CREDIT CARD FRAUD", "beat": "1723", "date": {"$date": 1370304060000}, "ward": "39", "_id": {"$oid": "51b742963c002ed20d78d206"}, "iucr": "1150", "longitude": "-87.72447974762109", "location_description": "RESIDENCE", "x_coordinate": "1149830", "updated_on": {"$date": 1370911182000}, "fbi_code": "11", "block": "047XX N AVERS AVE"}
+{
+    "y_coordinate": "1931150", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW308597", 
+    "id": "9164742", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72447974762109, 
+            41.96699176677721
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.96699176677721", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "1723", 
+    "date": {
+        "$date": 1370304060000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51b742963c002ed20d78d206"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.72447974762109", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1149830", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "11", 
+    "block": "047XX N AVERS AVE"
+}

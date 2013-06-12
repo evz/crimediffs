@@ -1,1 +1,38 @@
-{"y_coordinate": "1902519", "year": "2013", "domestic": false, "case_number": "HW299819", "id": "9154399", "primary_type": "NARCOTICS", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.7490161574376, 41.888549296602]}, "community_area": "25", "latitude": "41.888549296602", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1532", "date": {"$date": 1370087400000}, "ward": "28", "_id": {"$oid": "51b5f1203c002ed20d78d10b"}, "iucr": "1811", "longitude": "-87.7490161574376", "location_description": "SIDEWALK", "x_coordinate": "1143352", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "049XX W HUBBARD ST"}
+{
+    "y_coordinate": "1902519", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299819", 
+    "id": "9154399", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7490161574376, 
+            41.888549296602
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.888549296602", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1532", 
+    "date": {
+        "$date": 1370087400000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d10b"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.7490161574376", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1143352", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "049XX W HUBBARD ST"
+}

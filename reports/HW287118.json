@@ -1,1 +1,38 @@
-{"y_coordinate": "1832471", "year": "2013", "domestic": false, "case_number": "HW287118", "id": "9142148", "primary_type": "ASSAULT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61330359011292, 41.69554699205884]}, "community_area": "49", "latitude": "41.69554699205884", "type": null, "description": "SIMPLE", "beat": "0513", "date": {"$date": 1369293300000}, "ward": "9", "_id": {"$oid": "51aa13983c002ed20d78b421"}, "iucr": "560", "longitude": "-87.61330359011292", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1180894", "updated_on": {"$date": 1369615194000}, "fbi_code": "08A", "block": "109XX S DR MARTIN LUTHER KING JR DR"}
+{
+    "y_coordinate": "1832471", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287118", 
+    "id": "9142148", 
+    "primary_type": "ASSAULT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61330359011292, 
+            41.69554699205884
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.69554699205884", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0513", 
+    "date": {
+        "$date": 1369293300000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b421"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.61330359011292", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1180894", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08A", 
+    "block": "109XX S DR MARTIN LUTHER KING JR DR"
+}

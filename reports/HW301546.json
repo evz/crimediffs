@@ -1,1 +1,38 @@
-{"y_coordinate": "1900205", "year": "2013", "domestic": false, "case_number": "HW301546", "id": "9155876", "primary_type": "THEFT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62790216260109, 41.88151900105795]}, "community_area": "32", "latitude": "41.88151900105795", "type": "property", "description": "FROM BUILDING", "beat": "0112", "date": {"$date": 1370178000000}, "ward": "42", "_id": {"$oid": "51b5f11b3c002ed20d78cdad"}, "iucr": "890", "longitude": "-87.62790216260109", "location_description": "DEPARTMENT STORE", "x_coordinate": "1176351", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "0000X S STATE ST"}
+{
+    "y_coordinate": "1900205", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301546", 
+    "id": "9155876", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62790216260109, 
+            41.88151900105795
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88151900105795", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0112", 
+    "date": {
+        "$date": 1370178000000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cdad"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.62790216260109", 
+    "location_description": "DEPARTMENT STORE", 
+    "x_coordinate": "1176351", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "0000X S STATE ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1917133", "year": "2013", "domestic": false, "case_number": "HW287320", "id": "9142262", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64351841000612, 41.92806822778845]}, "community_area": "7", "latitude": "41.92806822778845", "type": "property", "description": "FROM BUILDING", "beat": "1935", "date": {"$date": 1369234800000}, "ward": "43", "_id": {"$oid": "51a7708b3c002ed20d78abf0"}, "iucr": "890", "longitude": "-87.64351841000612", "location_description": "OTHER", "x_coordinate": "1171962", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "005XX W DEMING PL"}
+{
+    "y_coordinate": "1917133", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287320", 
+    "id": "9142262", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64351841000612, 
+            41.92806822778845
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.92806822778845", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1935", 
+    "date": {
+        "$date": 1369234800000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78abf0"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.64351841000612", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1171962", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "005XX W DEMING PL"
+}

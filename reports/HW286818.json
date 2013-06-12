@@ -1,1 +1,38 @@
-{"y_coordinate": "1904115", "year": "2013", "domestic": false, "case_number": "HW286818", "id": "9141598", "primary_type": "THEFT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63362345138601, 41.892283981408596]}, "community_area": "8", "latitude": "41.892283981408596", "type": "property", "description": "$500 AND UNDER", "beat": "1831", "date": {"$date": 1369259460000}, "ward": "42", "_id": {"$oid": "51a770883c002ed20d78aaae"}, "iucr": "820", "longitude": "-87.63362345138601", "location_description": "STREET", "x_coordinate": "1174761", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "001XX W OHIO ST"}
+{
+    "y_coordinate": "1904115", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286818", 
+    "id": "9141598", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63362345138601, 
+            41.892283981408596
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.892283981408596", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1831", 
+    "date": {
+        "$date": 1369259460000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aaae"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.63362345138601", 
+    "location_description": "STREET", 
+    "x_coordinate": "1174761", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "001XX W OHIO ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1922882", "year": "2013", "domestic": false, "case_number": "HW302622", "id": "9157294", "primary_type": "DECEPTIVE PRACTICE", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64923655165822, 41.94387894679519]}, "community_area": "6", "latitude": "41.94387894679519", "type": null, "description": "ILLEGAL USE CASH CARD", "beat": "1925", "date": {"$date": 1370203200000}, "ward": "44", "_id": {"$oid": "51b5f1183c002ed20d78cc7f"}, "iucr": "1152", "longitude": "-87.64923655165822", "location_description": "CONVENIENCE STORE", "x_coordinate": "1170360", "updated_on": {"$date": 1370565766000}, "fbi_code": "11", "block": "034XX N HALSTED ST"}
+{
+    "y_coordinate": "1922882", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302622", 
+    "id": "9157294", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64923655165822, 
+            41.94387894679519
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.94387894679519", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "1925", 
+    "date": {
+        "$date": 1370203200000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51b5f1183c002ed20d78cc7f"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.64923655165822", 
+    "location_description": "CONVENIENCE STORE", 
+    "x_coordinate": "1170360", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "11", 
+    "block": "034XX N HALSTED ST"
+}

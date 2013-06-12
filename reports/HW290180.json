@@ -1,1 +1,38 @@
-{"y_coordinate": "1836131", "year": "2013", "domestic": false, "case_number": "HW290180", "id": "9144954", "primary_type": "THEFT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64051661568564, 41.705758514099735]}, "community_area": "49", "latitude": "41.705758514099735", "type": "property", "description": "$500 AND UNDER", "beat": "2232", "date": {"$date": 1369450800000}, "ward": "34", "_id": {"$oid": "51aa13893c002ed20d78ada4"}, "iucr": "820", "longitude": "-87.64051661568564", "location_description": "STREET", "x_coordinate": "1173432", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "103XX S UNION AVE"}
+{
+    "y_coordinate": "1836131", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290180", 
+    "id": "9144954", 
+    "primary_type": "THEFT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64051661568564, 
+            41.705758514099735
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.705758514099735", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2232", 
+    "date": {
+        "$date": 1369450800000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51aa13893c002ed20d78ada4"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.64051661568564", 
+    "location_description": "STREET", 
+    "x_coordinate": "1173432", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "103XX S UNION AVE"
+}

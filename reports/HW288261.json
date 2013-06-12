@@ -1,1 +1,38 @@
-{"y_coordinate": "1907775", "year": "2013", "domestic": false, "case_number": "HW288261", "id": "9143226", "primary_type": "DECEPTIVE PRACTICE", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6268985328516, 41.902286706950896]}, "community_area": "8", "latitude": "41.902286706950896", "type": null, "description": "CREDIT CARD FRAUD", "beat": "1824", "date": {"$date": 1369341300000}, "ward": "42", "_id": {"$oid": "51aa13953c002ed20d78b1ff"}, "iucr": "1150", "longitude": "-87.6268985328516", "location_description": "APARTMENT", "x_coordinate": "1176562", "updated_on": {"$date": 1369701613000}, "fbi_code": "11", "block": "0000X E CEDAR ST"}
+{
+    "y_coordinate": "1907775", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288261", 
+    "id": "9143226", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6268985328516, 
+            41.902286706950896
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.902286706950896", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "1824", 
+    "date": {
+        "$date": 1369341300000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b1ff"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.6268985328516", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1176562", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "11", 
+    "block": "0000X E CEDAR ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1898573", "year": "2013", "domestic": false, "case_number": "HW291282", "id": "9145828", "primary_type": "BURGLARY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70199501446125, 41.877471621718016]}, "community_area": "27", "latitude": "41.877471621718016", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "1124", "date": {"$date": 1369501200000}, "ward": "28", "_id": {"$oid": "51b34a0f3c002ed20d78c9cc"}, "iucr": "620", "longitude": "-87.70199501446125", "location_description": "RESIDENCE", "x_coordinate": "1156185", "updated_on": {"$date": 1369787985000}, "fbi_code": "05", "block": "030XX W JACKSON BLVD"}
+{
+    "y_coordinate": "1898573", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291282", 
+    "id": "9145828", 
+    "primary_type": "BURGLARY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70199501446125, 
+            41.877471621718016
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.877471621718016", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "1124", 
+    "date": {
+        "$date": 1369501200000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c9cc"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.70199501446125", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1156185", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "05", 
+    "block": "030XX W JACKSON BLVD"
+}

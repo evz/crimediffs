@@ -1,1 +1,38 @@
-{"y_coordinate": "1922020", "year": "2013", "domestic": false, "case_number": "HW300183", "id": "9154792", "primary_type": "BATTERY", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77650935447834, 41.94220121688886]}, "community_area": "17", "latitude": "41.94220121688886", "type": null, "description": "SIMPLE", "beat": "1633", "date": {"$date": 1370104200000}, "ward": "38", "_id": {"$oid": "51b5f11f3c002ed20d78d033"}, "iucr": "460", "longitude": "-87.77650935447834", "location_description": "SCHOOL, PUBLIC, GROUNDS", "x_coordinate": "1135739", "updated_on": {"$date": 1370911182000}, "fbi_code": "08B", "block": "034XX N AUSTIN AVE"}
+{
+    "y_coordinate": "1922020", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300183", 
+    "id": "9154792", 
+    "primary_type": "BATTERY", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77650935447834, 
+            41.94220121688886
+        ]
+    }, 
+    "community_area": "17", 
+    "latitude": "41.94220121688886", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1633", 
+    "date": {
+        "$date": 1370104200000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d033"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.77650935447834", 
+    "location_description": "SCHOOL, PUBLIC, GROUNDS", 
+    "x_coordinate": "1135739", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "08B", 
+    "block": "034XX N AUSTIN AVE"
+}

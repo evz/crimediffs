@@ -1,1 +1,38 @@
-{"y_coordinate": "1920277", "year": "2013", "domestic": false, "case_number": "HW290364", "id": "9145056", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6408161272052, 41.936679785523246]}, "community_area": "6", "latitude": "41.936679785523246", "type": "property", "description": "OVER $500", "beat": "1934", "date": {"$date": 1369410000000}, "ward": "44", "_id": {"$oid": "51aa13903c002ed20d78afad"}, "iucr": "810", "longitude": "-87.6408161272052", "location_description": "RESIDENCE", "x_coordinate": "1172672", "updated_on": {"$date": 1369874559000}, "fbi_code": "06", "block": "004XX W WELLINGTON AVE"}
+{
+    "y_coordinate": "1920277", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290364", 
+    "id": "9145056", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6408161272052, 
+            41.936679785523246
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.936679785523246", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1934", 
+    "date": {
+        "$date": 1369410000000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78afad"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.6408161272052", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1172672", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "06", 
+    "block": "004XX W WELLINGTON AVE"
+}

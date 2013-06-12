@@ -1,1 +1,38 @@
-{"y_coordinate": "1911289", "year": "2013", "domestic": false, "case_number": "HW289132", "id": "9144336", "primary_type": "BURGLARY", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.692305275739, 41.91231369759562]}, "community_area": "24", "latitude": "41.91231369759562", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1421", "date": {"$date": 1369381500000}, "ward": "1", "_id": {"$oid": "51aa13933c002ed20d78b114"}, "iucr": "610", "longitude": "-87.692305275739", "location_description": "APARTMENT", "x_coordinate": "1158729", "updated_on": {"$date": 1370392932000}, "fbi_code": "05", "block": "017XX N ROCKWELL ST"}
+{
+    "y_coordinate": "1911289", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289132", 
+    "id": "9144336", 
+    "primary_type": "BURGLARY", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.692305275739, 
+            41.91231369759562
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.91231369759562", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1421", 
+    "date": {
+        "$date": 1369381500000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b114"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.692305275739", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1158729", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "05", 
+    "block": "017XX N ROCKWELL ST"
+}

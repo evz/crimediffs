@@ -1,1 +1,38 @@
-{"y_coordinate": "1864516", "year": "2013", "domestic": false, "case_number": "HW285796", "id": "9140757", "primary_type": "BATTERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60710711484246, 41.78344934339323]}, "community_area": "42", "latitude": "41.78344934339323", "type": "violent", "description": "AGGRAVATED: HANDGUN", "beat": "0313", "date": {"$date": 1369219080000}, "ward": "20", "_id": {"$oid": "51a7708d3c002ed20d78acac"}, "iucr": "041A", "longitude": "-87.60710711484246", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1182316", "updated_on": {"$date": 1370220023000}, "fbi_code": "04B", "block": "061XX S EVANS AVE"}
+{
+    "y_coordinate": "1864516", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285796", 
+    "id": "9140757", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60710711484246, 
+            41.78344934339323
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.78344934339323", 
+    "type": "violent", 
+    "description": "AGGRAVATED: HANDGUN", 
+    "beat": "0313", 
+    "date": {
+        "$date": 1369219080000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78acac"
+    }, 
+    "iucr": "041A", 
+    "longitude": "-87.60710711484246", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1182316", 
+    "updated_on": {
+        "$date": 1370220023000
+    }, 
+    "fbi_code": "04B", 
+    "block": "061XX S EVANS AVE"
+}

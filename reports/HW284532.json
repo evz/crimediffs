@@ -1,1 +1,38 @@
-{"y_coordinate": "1893228", "year": "2013", "domestic": false, "case_number": "HW284532", "id": "9139324", "primary_type": "BATTERY", "district": "012", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66012606675474, 41.862565801521704]}, "community_area": "28", "latitude": "41.862565801521704", "type": null, "description": "SIMPLE", "beat": "1233", "date": {"$date": 1369134000000}, "ward": "2", "_id": {"$oid": "51a61f0e3c002ed20d78a92e"}, "iucr": "460", "longitude": "-87.66012606675474", "location_description": "SCHOOL, PRIVATE, BUILDING", "x_coordinate": "1167630", "updated_on": {"$date": 1369269615000}, "fbi_code": "08B", "block": "013XX W 14TH PL"}
+{
+    "y_coordinate": "1893228", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284532", 
+    "id": "9139324", 
+    "primary_type": "BATTERY", 
+    "district": "012", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66012606675474, 
+            41.862565801521704
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.862565801521704", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1233", 
+    "date": {
+        "$date": 1369134000000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a92e"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.66012606675474", 
+    "location_description": "SCHOOL, PRIVATE, BUILDING", 
+    "x_coordinate": "1167630", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "08B", 
+    "block": "013XX W 14TH PL"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1907501", "year": "2013", "domestic": false, "case_number": "HW285938", "id": "9140809", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72613983527371, 41.90210243030072]}, "community_area": "23", "latitude": "41.90210243030072", "type": "quality", "description": "MANU/DEL:CANNABIS 10GM OR LESS", "beat": "1112", "date": {"$date": 1369224000000}, "ward": "27", "_id": {"$oid": "51a7708c3c002ed20d78ac80"}, "iucr": "1821", "longitude": "-87.72613983527371", "location_description": "PARK PROPERTY", "x_coordinate": "1149546", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "011XX N PULASKI RD"}
+{
+    "y_coordinate": "1907501", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285938", 
+    "id": "9140809", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72613983527371, 
+            41.90210243030072
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.90210243030072", 
+    "type": "quality", 
+    "description": "MANU/DEL:CANNABIS 10GM OR LESS", 
+    "beat": "1112", 
+    "date": {
+        "$date": 1369224000000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac80"
+    }, 
+    "iucr": "1821", 
+    "longitude": "-87.72613983527371", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1149546", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "011XX N PULASKI RD"
+}

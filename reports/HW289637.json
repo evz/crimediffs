@@ -1,1 +1,38 @@
-{"y_coordinate": "1901771", "year": "2013", "domestic": false, "case_number": "HW289637", "id": "9145159", "primary_type": "THEFT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63230555994426, 41.88584344777759]}, "community_area": "32", "latitude": "41.88584344777759", "type": "property", "description": "POCKET-PICKING", "beat": "0122", "date": {"$date": 1369428300000}, "ward": "42", "_id": {"$oid": "51aa138d3c002ed20d78aead"}, "iucr": "870", "longitude": "-87.63230555994426", "location_description": "CTA TRAIN", "x_coordinate": "1175139", "updated_on": {"$date": 1369874559000}, "fbi_code": "06", "block": "002XX N LA SALLE ST"}
+{
+    "y_coordinate": "1901771", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289637", 
+    "id": "9145159", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63230555994426, 
+            41.88584344777759
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88584344777759", 
+    "type": "property", 
+    "description": "POCKET-PICKING", 
+    "beat": "0122", 
+    "date": {
+        "$date": 1369428300000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78aead"
+    }, 
+    "iucr": "870", 
+    "longitude": "-87.63230555994426", 
+    "location_description": "CTA TRAIN", 
+    "x_coordinate": "1175139", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "06", 
+    "block": "002XX N LA SALLE ST"
+}

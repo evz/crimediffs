@@ -1,1 +1,38 @@
-{"y_coordinate": "1874658", "year": "2013", "domestic": false, "case_number": "HW287782", "id": "9142920", "primary_type": "THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75169227552206, 41.812104934243806]}, "community_area": "56", "latitude": "41.812104934243806", "type": "property", "description": "FROM BUILDING", "beat": "0814", "date": {"$date": 1369310400000}, "ward": "23", "_id": {"$oid": "51aa13973c002ed20d78b366"}, "iucr": "890", "longitude": "-87.75169227552206", "location_description": "RESIDENCE", "x_coordinate": "1142812", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "044XX S LEAMINGTON AVE"}
+{
+    "y_coordinate": "1874658", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287782", 
+    "id": "9142920", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75169227552206, 
+            41.812104934243806
+        ]
+    }, 
+    "community_area": "56", 
+    "latitude": "41.812104934243806", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0814", 
+    "date": {
+        "$date": 1369310400000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b366"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.75169227552206", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1142812", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "044XX S LEAMINGTON AVE"
+}

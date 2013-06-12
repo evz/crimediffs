@@ -1,1 +1,38 @@
-{"y_coordinate": "1864714", "year": "2013", "domestic": false, "case_number": "HW286748", "id": "9141591", "primary_type": "OTHER OFFENSE", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.5996693333874, 41.78394545296867]}, "community_area": "42", "latitude": "41.78394545296867", "type": null, "description": "PAROLE VIOLATION", "beat": "0314", "date": {"$date": 1369255200000}, "ward": "20", "_id": {"$oid": "51a770893c002ed20d78aae5"}, "iucr": "4625", "longitude": "-87.5996693333874", "location_description": "SIDEWALK", "x_coordinate": "1184343", "updated_on": {"$date": 1369442383000}, "fbi_code": "26", "block": "061XX S GREENWOOD AVE"}
+{
+    "y_coordinate": "1864714", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286748", 
+    "id": "9141591", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5996693333874, 
+            41.78394545296867
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.78394545296867", 
+    "type": null, 
+    "description": "PAROLE VIOLATION", 
+    "beat": "0314", 
+    "date": {
+        "$date": 1369255200000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a770893c002ed20d78aae5"
+    }, 
+    "iucr": "4625", 
+    "longitude": "-87.5996693333874", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1184343", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "26", 
+    "block": "061XX S GREENWOOD AVE"
+}

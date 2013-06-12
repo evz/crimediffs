@@ -1,1 +1,38 @@
-{"y_coordinate": "1865232", "year": "2013", "domestic": false, "case_number": "HW284778", "id": "9139575", "primary_type": "THEFT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64264936640669, 41.78563343791495]}, "community_area": "68", "latitude": "41.78563343791495", "type": "property", "description": "FROM BUILDING", "beat": "0711", "date": {"$date": 1369155000000}, "ward": "20", "_id": {"$oid": "51a61f0b3c002ed20d78a814"}, "iucr": "890", "longitude": "-87.64264936640669", "location_description": "RESIDENCE", "x_coordinate": "1172616", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "059XX S UNION AVE"}
+{
+    "y_coordinate": "1865232", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284778", 
+    "id": "9139575", 
+    "primary_type": "THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64264936640669, 
+            41.78563343791495
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.78563343791495", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0711", 
+    "date": {
+        "$date": 1369155000000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a814"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.64264936640669", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1172616", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "059XX S UNION AVE"
+}

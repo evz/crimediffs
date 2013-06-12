@@ -1,1 +1,38 @@
-{"y_coordinate": "1924326", "year": "2013", "domestic": false, "case_number": "HW302454", "id": "9156960", "primary_type": "MOTOR VEHICLE THEFT", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70894019588727, 41.94818180630116]}, "community_area": "16", "latitude": "41.94818180630116", "type": "property", "description": "AUTOMOBILE", "beat": "1733", "date": {"$date": 1370250000000}, "ward": "33", "_id": {"$oid": "51b7429e3c002ed20d78d4c1"}, "iucr": "910", "longitude": "-87.70894019588727", "location_description": "STREET", "x_coordinate": "1154106", "updated_on": {"$date": 1370565766000}, "fbi_code": "07", "block": "036XX N SAWYER AVE"}
+{
+    "y_coordinate": "1924326", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302454", 
+    "id": "9156960", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70894019588727, 
+            41.94818180630116
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.94818180630116", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1733", 
+    "date": {
+        "$date": 1370250000000
+    }, 
+    "ward": "33", 
+    "_id": {
+        "$oid": "51b7429e3c002ed20d78d4c1"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.70894019588727", 
+    "location_description": "STREET", 
+    "x_coordinate": "1154106", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "07", 
+    "block": "036XX N SAWYER AVE"
+}

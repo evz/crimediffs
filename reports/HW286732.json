@@ -1,1 +1,38 @@
-{"y_coordinate": "1888668", "year": "2013", "domestic": false, "case_number": "HW286732", "id": "9141554", "primary_type": "CRIMINAL DAMAGE", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7135922465568, 41.8503529385313]}, "community_area": "30", "latitude": "41.8503529385313", "type": "quality", "description": "TO PROPERTY", "beat": "1024", "date": {"$date": 1369256040000}, "ward": "22", "_id": {"$oid": "51a770883c002ed20d78aad3"}, "iucr": "1310", "longitude": "-87.7135922465568", "location_description": "APARTMENT", "x_coordinate": "1153098", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "022XX S DRAKE AVE"}
+{
+    "y_coordinate": "1888668", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286732", 
+    "id": "9141554", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7135922465568, 
+            41.8503529385313
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.8503529385313", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1024", 
+    "date": {
+        "$date": 1369256040000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aad3"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.7135922465568", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1153098", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "022XX S DRAKE AVE"
+}

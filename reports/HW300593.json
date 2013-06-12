@@ -1,1 +1,38 @@
-{"y_coordinate": "1862771", "year": "2013", "domestic": false, "case_number": "HW300593", "id": "9154951", "primary_type": "PUBLIC PEACE VIOLATION", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68506522441885, 41.77912691513617]}, "community_area": "66", "latitude": "41.77912691513617", "type": null, "description": "RECKLESS CONDUCT", "beat": "0825", "date": {"$date": 1370125800000}, "ward": "15", "_id": {"$oid": "51b5f11e3c002ed20d78cf4a"}, "iucr": "470", "longitude": "-87.68506522441885", "location_description": "STREET", "x_coordinate": "1161066", "updated_on": {"$date": 1370306580000}, "fbi_code": "24", "block": "024XX W 63RD ST"}
+{
+    "y_coordinate": "1862771", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300593", 
+    "id": "9154951", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68506522441885, 
+            41.77912691513617
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.77912691513617", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "0825", 
+    "date": {
+        "$date": 1370125800000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf4a"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.68506522441885", 
+    "location_description": "STREET", 
+    "x_coordinate": "1161066", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "24", 
+    "block": "024XX W 63RD ST"
+}

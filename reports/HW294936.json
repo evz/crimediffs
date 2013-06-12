@@ -1,1 +1,33 @@
-{"community_area": "35", "_id": {"$oid": "51aa13903c002ed20d78afb2"}, "primary_type": "BATTERY", "beat": "0212", "year": "2013", "domestic": false, "iucr": "460", "arrest": false, "location_description": "SCHOOL, PUBLIC, BUILDING", "location": {"type": "Point", "coordinates": [-87.61915518356442, 41.82970831035393]}, "case_number": "HW294936", "date": {"$date": 1369409580000}, "updated_on": {"$date": 1370047283000}, "ward": "2", "fbi_code": "08B", "type": null, "id": "9150167", "block": "035XX S GILES AVE", "description": "SIMPLE"}
+{
+    "_id": {
+        "$oid": "51aa13903c002ed20d78afb2"
+    }, 
+    "primary_type": "BATTERY", 
+    "year": "2013", 
+    "beat": "0212", 
+    "case_number": "HW294936", 
+    "domestic": false, 
+    "iucr": "460", 
+    "arrest": false, 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61915518356442, 
+            41.82970831035393
+        ]
+    }, 
+    "community_area": "35", 
+    "date": {
+        "$date": 1369409580000
+    }, 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "ward": "2", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9150167", 
+    "block": "035XX S GILES AVE", 
+    "description": "SIMPLE"
+}

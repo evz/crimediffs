@@ -1,1 +1,38 @@
-{"y_coordinate": "1833875", "year": "2013", "domestic": false, "case_number": "HW289546", "id": "9144465", "primary_type": "BURGLARY", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61735054553482, 41.69942531380698]}, "community_area": "49", "latitude": "41.69942531380698", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0513", "date": {"$date": 1369393200000}, "ward": "9", "_id": {"$oid": "51aa13923c002ed20d78b09f"}, "iucr": "610", "longitude": "-87.61735054553482", "location_description": "RESIDENCE", "x_coordinate": "1179777", "updated_on": {"$date": 1370479286000}, "fbi_code": "05", "block": "107XX S PRAIRIE AVE"}
+{
+    "y_coordinate": "1833875", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289546", 
+    "id": "9144465", 
+    "primary_type": "BURGLARY", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61735054553482, 
+            41.69942531380698
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.69942531380698", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0513", 
+    "date": {
+        "$date": 1369393200000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b09f"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.61735054553482", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1179777", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "05", 
+    "block": "107XX S PRAIRIE AVE"
+}

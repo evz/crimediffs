@@ -1,1 +1,38 @@
-{"y_coordinate": "1857031", "year": "2013", "domestic": false, "case_number": "HW294447", "id": "9148446", "primary_type": "DECEPTIVE PRACTICE", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66120203178764, 41.763237519652414]}, "community_area": "67", "latitude": "41.763237519652414", "type": null, "description": "CREDIT CARD FRAUD", "beat": "0734", "date": {"$date": 1369303200000}, "ward": "17", "_id": {"$oid": "51aa13983c002ed20d78b3b3"}, "iucr": "1150", "longitude": "-87.66120203178764", "location_description": "RESIDENCE", "x_coordinate": "1167620", "updated_on": {"$date": 1369960832000}, "fbi_code": "11", "block": "014XX W 72ND ST"}
+{
+    "y_coordinate": "1857031", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW294447", 
+    "id": "9148446", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66120203178764, 
+            41.763237519652414
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.763237519652414", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "0734", 
+    "date": {
+        "$date": 1369303200000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3b3"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.66120203178764", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1167620", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "11", 
+    "block": "014XX W 72ND ST"
+}

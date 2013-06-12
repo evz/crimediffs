@@ -1,1 +1,38 @@
-{"y_coordinate": "1888475", "year": "2013", "domestic": false, "case_number": "HW291447", "id": "9145892", "primary_type": "THEFT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68327453517298, 41.84965570251527]}, "community_area": "31", "latitude": "41.84965570251527", "type": "property", "description": "OVER $500", "beat": "1034", "date": {"$date": 1369519200000}, "ward": "25", "_id": {"$oid": "51b34a0e3c002ed20d78c8ef"}, "iucr": "810", "longitude": "-87.68327453517298", "location_description": "STREET", "x_coordinate": "1161360", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "023XX S OAKLEY AVE"}
+{
+    "y_coordinate": "1888475", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291447", 
+    "id": "9145892", 
+    "primary_type": "THEFT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68327453517298, 
+            41.84965570251527
+        ]
+    }, 
+    "community_area": "31", 
+    "latitude": "41.84965570251527", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1034", 
+    "date": {
+        "$date": 1369519200000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c8ef"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.68327453517298", 
+    "location_description": "STREET", 
+    "x_coordinate": "1161360", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "023XX S OAKLEY AVE"
+}

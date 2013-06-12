@@ -1,1 +1,38 @@
-{"y_coordinate": "1903197", "year": "2013", "domestic": false, "case_number": "HW302603", "id": "9157235", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65564500277533, 41.88989683976853]}, "community_area": "24", "latitude": "41.88989683976853", "type": "property", "description": "$500 AND UNDER", "beat": "1214", "date": {"$date": 1370097000000}, "ward": "27", "_id": {"$oid": "51b5f1203c002ed20d78d083"}, "iucr": "820", "longitude": "-87.65564500277533", "location_description": "STREET", "x_coordinate": "1168772", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "011XX W HUBBARD ST"}
+{
+    "y_coordinate": "1903197", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302603", 
+    "id": "9157235", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65564500277533, 
+            41.88989683976853
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.88989683976853", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1214", 
+    "date": {
+        "$date": 1370097000000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d083"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.65564500277533", 
+    "location_description": "STREET", 
+    "x_coordinate": "1168772", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "011XX W HUBBARD ST"
+}

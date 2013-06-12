@@ -1,1 +1,38 @@
-{"y_coordinate": "1947658", "year": "2013", "domestic": false, "case_number": "HW302996", "id": "9157718", "primary_type": "BATTERY", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69956826433717, 42.01215812645539]}, "community_area": "2", "latitude": "42.01215812645539", "type": null, "description": "SIMPLE", "beat": "2411", "date": {"$date": 1370280600000}, "ward": "50", "_id": {"$oid": "51b7429b3c002ed20d78d34d"}, "iucr": "460", "longitude": "-87.69956826433717", "location_description": "OTHER", "x_coordinate": "1156483", "updated_on": {"$date": 1370479286000}, "fbi_code": "08B", "block": "072XX N CALIFORNIA AVE"}
+{
+    "y_coordinate": "1947658", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302996", 
+    "id": "9157718", 
+    "primary_type": "BATTERY", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69956826433717, 
+            42.01215812645539
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "42.01215812645539", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2411", 
+    "date": {
+        "$date": 1370280600000
+    }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51b7429b3c002ed20d78d34d"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.69956826433717", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1156483", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08B", 
+    "block": "072XX N CALIFORNIA AVE"
+}

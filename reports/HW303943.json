@@ -1,1 +1,38 @@
-{"y_coordinate": "1916033", "year": "2013", "domestic": false, "case_number": "HW303943", "id": "9158956", "primary_type": "BURGLARY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76098026027385, 41.925695179057236]}, "community_area": "19", "latitude": "41.925695179057236", "type": "property", "description": "FORCIBLE ENTRY", "beat": "2515", "date": {"$date": 1369490400000}, "ward": "31", "_id": {"$oid": "51b34a103c002ed20d78ca50"}, "iucr": "610", "longitude": "-87.76098026027385", "location_description": "RESIDENCE", "x_coordinate": "1140004", "updated_on": {"$date": 1370565766000}, "fbi_code": "05", "block": "024XX N LONG AVE"}
+{
+    "y_coordinate": "1916033", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303943", 
+    "id": "9158956", 
+    "primary_type": "BURGLARY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76098026027385, 
+            41.925695179057236
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.925695179057236", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "2515", 
+    "date": {
+        "$date": 1369490400000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78ca50"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.76098026027385", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1140004", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "05", 
+    "block": "024XX N LONG AVE"
+}

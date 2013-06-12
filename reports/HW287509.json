@@ -1,1 +1,38 @@
-{"y_coordinate": "1861044", "year": "2013", "domestic": true, "case_number": "HW287509", "id": "9144824", "primary_type": "BATTERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60349752315615, 41.77389829693126]}, "community_area": "42", "latitude": "41.77389829693126", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0321", "date": {"$date": 1369311600000}, "ward": "5", "_id": {"$oid": "51aa13973c002ed20d78b354"}, "iucr": "486", "longitude": "-87.60349752315615", "location_description": "ALLEY", "x_coordinate": "1183330", "updated_on": {"$date": 1369874559000}, "fbi_code": "08B", "block": "066XX S DREXEL AVE"}
+{
+    "y_coordinate": "1861044", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW287509", 
+    "id": "9144824", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60349752315615, 
+            41.77389829693126
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.77389829693126", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0321", 
+    "date": {
+        "$date": 1369311600000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b354"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.60349752315615", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1183330", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "08B", 
+    "block": "066XX S DREXEL AVE"
+}

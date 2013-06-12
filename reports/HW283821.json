@@ -1,1 +1,38 @@
-{"y_coordinate": "1876591", "year": "2013", "domestic": false, "case_number": "HW283821", "id": "9138433", "primary_type": "ASSAULT", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62124795819408, 41.81667504772014]}, "community_area": "38", "latitude": "41.81667504772014", "type": "violent", "description": "AGGRAVATED: HANDGUN", "beat": "0213", "date": {"$date": 1369092000000}, "ward": "3", "_id": {"$oid": "51a4cd8c3c002ed20d78a348"}, "iucr": "051A", "longitude": "-87.62124795819408", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1178359", "updated_on": {"$date": 1369874559000}, "fbi_code": "04A", "block": "002XX E 43RD ST"}
+{
+    "y_coordinate": "1876591", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283821", 
+    "id": "9138433", 
+    "primary_type": "ASSAULT", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62124795819408, 
+            41.81667504772014
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.81667504772014", 
+    "type": "violent", 
+    "description": "AGGRAVATED: HANDGUN", 
+    "beat": "0213", 
+    "date": {
+        "$date": 1369092000000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51a4cd8c3c002ed20d78a348"
+    }, 
+    "iucr": "051A", 
+    "longitude": "-87.62124795819408", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1178359", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "04A", 
+    "block": "002XX E 43RD ST"
+}

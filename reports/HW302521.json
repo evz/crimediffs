@@ -1,1 +1,38 @@
-{"y_coordinate": "1849519", "year": "2013", "domestic": false, "case_number": "HW302521", "id": "9157414", "primary_type": "OTHER OFFENSE", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64881284303927, 41.74254915885935]}, "community_area": "71", "latitude": "41.74254915885935", "type": null, "description": "HARASSMENT BY ELECTRONIC MEANS", "beat": "0613", "date": {"$date": 1370195100000}, "ward": "21", "_id": {"$oid": "51b5f1193c002ed20d78cce8"}, "iucr": "2826", "longitude": "-87.64881284303927", "location_description": "RESIDENCE", "x_coordinate": "1171060", "updated_on": {"$date": 1370479286000}, "fbi_code": "26", "block": "083XX S MORGAN ST"}
+{
+    "y_coordinate": "1849519", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302521", 
+    "id": "9157414", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64881284303927, 
+            41.74254915885935
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.74254915885935", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "0613", 
+    "date": {
+        "$date": 1370195100000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78cce8"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.64881284303927", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1171060", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "26", 
+    "block": "083XX S MORGAN ST"
+}

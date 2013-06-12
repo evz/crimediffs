@@ -1,1 +1,38 @@
-{"y_coordinate": "1852285", "year": "2013", "domestic": false, "case_number": "HW282996", "id": "9137844", "primary_type": "THEFT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6560097962064, 41.750182565047375]}, "community_area": "71", "latitude": "41.750182565047375", "type": "property", "description": "$500 AND UNDER", "beat": "0612", "date": {"$date": 1369058400000}, "ward": "21", "_id": {"$oid": "51a4cd913c002ed20d78a50c"}, "iucr": "820", "longitude": "-87.6560097962064", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1169074", "updated_on": {"$date": 1369269615000}, "fbi_code": "06", "block": "079XX S THROOP ST"}
+{
+    "y_coordinate": "1852285", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW282996", 
+    "id": "9137844", 
+    "primary_type": "THEFT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6560097962064, 
+            41.750182565047375
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.750182565047375", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0612", 
+    "date": {
+        "$date": 1369058400000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a50c"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.6560097962064", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1169074", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "06", 
+    "block": "079XX S THROOP ST"
+}

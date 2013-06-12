@@ -1,1 +1,38 @@
-{"y_coordinate": "1878909", "year": "2013", "domestic": false, "case_number": "HW291075", "id": "9145599", "primary_type": "NARCOTICS", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.67497019379663, 41.82335674802712]}, "community_area": "59", "latitude": "41.82335674802712", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0912", "date": {"$date": 1369527840000}, "ward": "11", "_id": {"$oid": "51b34a0d3c002ed20d78c88f"}, "iucr": "1811", "longitude": "-87.67497019379663", "location_description": "STREET", "x_coordinate": "1163696", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "019XX W PERSHING RD"}
+{
+    "y_coordinate": "1878909", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291075", 
+    "id": "9145599", 
+    "primary_type": "NARCOTICS", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67497019379663, 
+            41.82335674802712
+        ]
+    }, 
+    "community_area": "59", 
+    "latitude": "41.82335674802712", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0912", 
+    "date": {
+        "$date": 1369527840000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c88f"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.67497019379663", 
+    "location_description": "STREET", 
+    "x_coordinate": "1163696", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "019XX W PERSHING RD"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1842097", "year": "2013", "domestic": true, "case_number": "HW285079", "id": "9139695", "primary_type": "BATTERY", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63609554834618, 41.722104398917054]}, "community_area": "73", "latitude": "41.722104398917054", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "2223", "date": {"$date": 1369162800000}, "ward": "21", "_id": {"$oid": "51a61f0a3c002ed20d78a7aa"}, "iucr": "486", "longitude": "-87.63609554834618", "location_description": "RESIDENCE", "x_coordinate": "1174591", "updated_on": {"$date": 1369356045000}, "fbi_code": "08B", "block": "094XX S NORMAL AVE"}
+{
+    "y_coordinate": "1842097", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285079", 
+    "id": "9139695", 
+    "primary_type": "BATTERY", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63609554834618, 
+            41.722104398917054
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.722104398917054", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "2223", 
+    "date": {
+        "$date": 1369162800000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a7aa"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.63609554834618", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1174591", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08B", 
+    "block": "094XX S NORMAL AVE"
+}

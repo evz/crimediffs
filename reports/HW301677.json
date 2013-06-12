@@ -1,1 +1,38 @@
-{"y_coordinate": "1899989", "year": "2013", "domestic": false, "case_number": "HW301677", "id": "9155881", "primary_type": "BURGLARY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.751881161137, 41.88162089157499]}, "community_area": "25", "latitude": "41.88162089157499", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1533", "date": {"$date": 1370188800000}, "ward": "28", "_id": {"$oid": "51b5f11a3c002ed20d78cd3e"}, "iucr": "610", "longitude": "-87.751881161137", "location_description": "APARTMENT", "x_coordinate": "1142589", "updated_on": {"$date": 1370392932000}, "fbi_code": "05", "block": "050XX W WASHINGTON BLVD"}
+{
+    "y_coordinate": "1899989", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301677", 
+    "id": "9155881", 
+    "primary_type": "BURGLARY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.751881161137, 
+            41.88162089157499
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.88162089157499", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1533", 
+    "date": {
+        "$date": 1370188800000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd3e"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.751881161137", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1142589", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "05", 
+    "block": "050XX W WASHINGTON BLVD"
+}

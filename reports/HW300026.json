@@ -1,1 +1,38 @@
-{"y_coordinate": "1926140", "year": "2013", "domestic": false, "case_number": "HW300026", "id": "9154565", "primary_type": "ASSAULT", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74415651115812, 41.95334593305431]}, "community_area": "15", "latitude": "41.95334593305431", "type": "violent", "description": "AGGRAVATED: OTHER DANG WEAPON", "beat": "1731", "date": {"$date": 1370095500000}, "ward": "38", "_id": {"$oid": "51b5f1203c002ed20d78d094"}, "iucr": "530", "longitude": "-87.74415651115812", "location_description": "STREET", "x_coordinate": "1144513", "updated_on": {"$date": 1370565766000}, "fbi_code": "04A", "block": "046XX W IRVING PARK RD"}
+{
+    "y_coordinate": "1926140", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300026", 
+    "id": "9154565", 
+    "primary_type": "ASSAULT", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74415651115812, 
+            41.95334593305431
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.95334593305431", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "1731", 
+    "date": {
+        "$date": 1370095500000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d094"
+    }, 
+    "iucr": "530", 
+    "longitude": "-87.74415651115812", 
+    "location_description": "STREET", 
+    "x_coordinate": "1144513", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "04A", 
+    "block": "046XX W IRVING PARK RD"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1917275", "year": "2013", "domestic": false, "case_number": "HW291902", "id": "9146261", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64901512733259, 41.92849079889932]}, "community_area": "7", "latitude": "41.92849079889932", "type": "property", "description": "OVER $500", "beat": "1935", "date": {"$date": 1369272600000}, "ward": "43", "_id": {"$oid": "51a770853c002ed20d78aa16"}, "iucr": "810", "longitude": "-87.64901512733259", "location_description": "RESTAURANT", "x_coordinate": "1170465", "updated_on": {"$date": 1369874559000}, "fbi_code": "06", "block": "025XX N HALSTED ST"}
+{
+    "y_coordinate": "1917275", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291902", 
+    "id": "9146261", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64901512733259, 
+            41.92849079889932
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.92849079889932", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1935", 
+    "date": {
+        "$date": 1369272600000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51a770853c002ed20d78aa16"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.64901512733259", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1170465", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "06", 
+    "block": "025XX N HALSTED ST"
+}

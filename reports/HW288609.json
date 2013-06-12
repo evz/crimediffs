@@ -1,1 +1,38 @@
-{"y_coordinate": "1859926", "year": "2013", "domestic": false, "case_number": "HW288609", "id": "9143639", "primary_type": "BURGLARY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6374427771609, 41.77104080619529]}, "community_area": "68", "latitude": "41.77104080619529", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "0722", "date": {"$date": 1369332000000}, "ward": "6", "_id": {"$oid": "51aa13953c002ed20d78b269"}, "iucr": "620", "longitude": "-87.6374427771609", "location_description": "APARTMENT", "x_coordinate": "1174079", "updated_on": {"$date": 1370824784000}, "fbi_code": "05", "block": "067XX S NORMAL BLVD"}
+{
+    "y_coordinate": "1859926", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288609", 
+    "id": "9143639", 
+    "primary_type": "BURGLARY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6374427771609, 
+            41.77104080619529
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.77104080619529", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "0722", 
+    "date": {
+        "$date": 1369332000000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b269"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.6374427771609", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1174079", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "05", 
+    "block": "067XX S NORMAL BLVD"
+}

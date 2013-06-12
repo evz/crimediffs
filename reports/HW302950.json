@@ -1,1 +1,38 @@
-{"y_coordinate": "1919763", "year": "2013", "domestic": false, "case_number": "HW302950", "id": "9157477", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6593865734281, 41.9353797637743]}, "community_area": "6", "latitude": "41.9353797637743", "type": "property", "description": "$500 AND UNDER", "beat": "1933", "date": {"$date": 1370253600000}, "ward": "32", "_id": {"$oid": "51b7429e3c002ed20d78d496"}, "iucr": "820", "longitude": "-87.6593865734281", "location_description": "SIDEWALK", "x_coordinate": "1167623", "updated_on": {"$date": 1370651988000}, "fbi_code": "06", "block": "012XX W OAKDALE AVE"}
+{
+    "y_coordinate": "1919763", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302950", 
+    "id": "9157477", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6593865734281, 
+            41.9353797637743
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.9353797637743", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1933", 
+    "date": {
+        "$date": 1370253600000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51b7429e3c002ed20d78d496"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.6593865734281", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1167623", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "06", 
+    "block": "012XX W OAKDALE AVE"
+}

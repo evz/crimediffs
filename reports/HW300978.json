@@ -1,1 +1,38 @@
-{"y_coordinate": "1910318", "year": "2013", "domestic": true, "case_number": "HW300978", "id": "9155380", "primary_type": "THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73516246437785, 41.90988030015554]}, "community_area": "23", "latitude": "41.90988030015554", "type": "property", "description": "$500 AND UNDER", "beat": "2534", "date": {"$date": 1370168700000}, "ward": "31", "_id": {"$oid": "51b5f11b3c002ed20d78ce01"}, "iucr": "820", "longitude": "-87.73516246437785", "location_description": "RESTAURANT", "x_coordinate": "1147070", "updated_on": {"$date": 1370565766000}, "fbi_code": "06", "block": "043XX W NORTH AVE"}
+{
+    "y_coordinate": "1910318", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300978", 
+    "id": "9155380", 
+    "primary_type": "THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73516246437785, 
+            41.90988030015554
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.90988030015554", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2534", 
+    "date": {
+        "$date": 1370168700000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78ce01"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.73516246437785", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1147070", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "06", 
+    "block": "043XX W NORTH AVE"
+}

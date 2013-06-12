@@ -1,1 +1,38 @@
-{"y_coordinate": "1834074", "year": "2013", "domestic": true, "case_number": "HW300036", "id": "9154705", "primary_type": "ASSAULT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60838464887819, 41.69991522432725]}, "community_area": "50", "latitude": "41.69991522432725", "type": "violent", "description": "AGGRAVATED: HANDGUN", "beat": "0513", "date": {"$date": 1370097300000}, "ward": "9", "_id": {"$oid": "51b5f1203c002ed20d78d081"}, "iucr": "051A", "longitude": "-87.60838464887819", "location_description": "STREET", "x_coordinate": "1182224", "updated_on": {"$date": 1370565766000}, "fbi_code": "04A", "block": "107XX S COTTAGE GROVE AVE"}
+{
+    "y_coordinate": "1834074", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300036", 
+    "id": "9154705", 
+    "primary_type": "ASSAULT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60838464887819, 
+            41.69991522432725
+        ]
+    }, 
+    "community_area": "50", 
+    "latitude": "41.69991522432725", 
+    "type": "violent", 
+    "description": "AGGRAVATED: HANDGUN", 
+    "beat": "0513", 
+    "date": {
+        "$date": 1370097300000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d081"
+    }, 
+    "iucr": "051A", 
+    "longitude": "-87.60838464887819", 
+    "location_description": "STREET", 
+    "x_coordinate": "1182224", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "04A", 
+    "block": "107XX S COTTAGE GROVE AVE"
+}

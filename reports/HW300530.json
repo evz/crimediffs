@@ -1,1 +1,38 @@
-{"y_coordinate": "1945574", "year": "2013", "domestic": true, "case_number": "HW300530", "id": "9154966", "primary_type": "BATTERY", "district": "024", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68039048854656, 42.00633175684306]}, "community_area": "1", "latitude": "42.00633175684306", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "2424", "date": {"$date": 1370124000000}, "ward": "49", "_id": {"$oid": "51b5f11e3c002ed20d78cf69"}, "iucr": "486", "longitude": "-87.68039048854656", "location_description": "APARTMENT", "x_coordinate": "1161711", "updated_on": {"$date": 1370392932000}, "fbi_code": "08B", "block": "019XX W FARWELL AVE"}
+{
+    "y_coordinate": "1945574", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300530", 
+    "id": "9154966", 
+    "primary_type": "BATTERY", 
+    "district": "024", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68039048854656, 
+            42.00633175684306
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "42.00633175684306", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "2424", 
+    "date": {
+        "$date": 1370124000000
+    }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf69"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.68039048854656", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1161711", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "08B", 
+    "block": "019XX W FARWELL AVE"
+}

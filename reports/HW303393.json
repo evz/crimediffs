@@ -1,1 +1,38 @@
-{"y_coordinate": "1935428", "year": "2013", "domestic": false, "case_number": "HW303393", "id": "9157894", "primary_type": "THEFT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.83143818030514, 41.979248911228915]}, "community_area": "10", "latitude": "41.979248911228915", "type": "property", "description": "$500 AND UNDER", "beat": "1614", "date": {"$date": 1370199600000}, "ward": "41", "_id": {"$oid": "51b5f1183c002ed20d78ccae"}, "iucr": "820", "longitude": "-87.83143818030514", "location_description": "DEPARTMENT STORE", "x_coordinate": "1120716", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "054XX N PIONEER AVE"}
+{
+    "y_coordinate": "1935428", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303393", 
+    "id": "9157894", 
+    "primary_type": "THEFT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.83143818030514, 
+            41.979248911228915
+        ]
+    }, 
+    "community_area": "10", 
+    "latitude": "41.979248911228915", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1614", 
+    "date": {
+        "$date": 1370199600000
+    }, 
+    "ward": "41", 
+    "_id": {
+        "$oid": "51b5f1183c002ed20d78ccae"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.83143818030514", 
+    "location_description": "DEPARTMENT STORE", 
+    "x_coordinate": "1120716", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "054XX N PIONEER AVE"
+}

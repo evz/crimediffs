@@ -1,1 +1,38 @@
-{"y_coordinate": "1850436", "year": "2013", "domestic": false, "case_number": "HW300409", "id": "9154935", "primary_type": "CRIMINAL DAMAGE", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64529051603517, 41.74504465118273]}, "community_area": "71", "latitude": "41.74504465118273", "type": "quality", "description": "TO PROPERTY", "beat": "0613", "date": {"$date": 1370111400000}, "ward": "21", "_id": {"$oid": "51b5f11f3c002ed20d78cff7"}, "iucr": "1310", "longitude": "-87.64529051603517", "location_description": "APARTMENT", "x_coordinate": "1172014", "updated_on": {"$date": 1370306580000}, "fbi_code": "14", "block": "008XX W 82ND ST"}
+{
+    "y_coordinate": "1850436", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300409", 
+    "id": "9154935", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64529051603517, 
+            41.74504465118273
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.74504465118273", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0613", 
+    "date": {
+        "$date": 1370111400000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cff7"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.64529051603517", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1172014", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "14", 
+    "block": "008XX W 82ND ST"
+}

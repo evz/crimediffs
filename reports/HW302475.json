@@ -1,1 +1,38 @@
-{"y_coordinate": "1859941", "year": "2013", "domestic": true, "case_number": "HW302475", "id": "9157054", "primary_type": "ASSAULT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6080185119131, 41.770899974258256]}, "community_area": "42", "latitude": "41.770899974258256", "type": null, "description": "SIMPLE", "beat": "0321", "date": {"$date": 1370203200000}, "ward": "6", "_id": {"$oid": "51b5f1183c002ed20d78cc83"}, "iucr": "560", "longitude": "-87.6080185119131", "location_description": "RESIDENCE", "x_coordinate": "1182106", "updated_on": {"$date": 1370479286000}, "fbi_code": "08A", "block": "068XX S LANGLEY AVE"}
+{
+    "y_coordinate": "1859941", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW302475", 
+    "id": "9157054", 
+    "primary_type": "ASSAULT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6080185119131, 
+            41.770899974258256
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.770899974258256", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0321", 
+    "date": {
+        "$date": 1370203200000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b5f1183c002ed20d78cc83"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.6080185119131", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1182106", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08A", 
+    "block": "068XX S LANGLEY AVE"
+}

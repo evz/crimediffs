@@ -1,1 +1,38 @@
-{"y_coordinate": "1890083", "year": "2013", "domestic": false, "case_number": "HW303917", "id": "9158786", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68048440369991, 41.85405264601399]}, "community_area": "31", "latitude": "41.85405264601399", "type": "property", "description": "FINANCIAL ID THEFT: OVER $300", "beat": "1234", "date": {"$date": 1369303200000}, "ward": "25", "_id": {"$oid": "51b34a1a3c002ed20d78cb5d"}, "iucr": "840", "longitude": "-87.68048440369991", "location_description": "RESIDENCE", "x_coordinate": "1162108", "updated_on": {"$date": 1370738354000}, "fbi_code": "06", "block": "021XX W 21ST ST"}
+{
+    "y_coordinate": "1890083", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303917", 
+    "id": "9158786", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68048440369991, 
+            41.85405264601399
+        ]
+    }, 
+    "community_area": "31", 
+    "latitude": "41.85405264601399", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "1234", 
+    "date": {
+        "$date": 1369303200000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51b34a1a3c002ed20d78cb5d"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.68048440369991", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1162108", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "06", 
+    "block": "021XX W 21ST ST"
+}

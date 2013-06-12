@@ -1,1 +1,38 @@
-{"y_coordinate": "1908894", "year": "2013", "domestic": false, "case_number": "HW302740", "id": "9157376", "primary_type": "NARCOTICS", "district": "025", "arrest": true, "location": {"type": "Point", "coordinates": [-87.75030766485064, 41.906050403141776]}, "community_area": "25", "latitude": "41.906050403141776", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "2533", "date": {"$date": 1370273700000}, "ward": "37", "_id": {"$oid": "51b7429c3c002ed20d78d39f"}, "iucr": "1811", "longitude": "-87.75030766485064", "location_description": "SIDEWALK", "x_coordinate": "1142957", "updated_on": {"$date": 1370738354000}, "fbi_code": "18", "block": "049XX W HIRSCH ST"}
+{
+    "y_coordinate": "1908894", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302740", 
+    "id": "9157376", 
+    "primary_type": "NARCOTICS", 
+    "district": "025", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75030766485064, 
+            41.906050403141776
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.906050403141776", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "2533", 
+    "date": {
+        "$date": 1370273700000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51b7429c3c002ed20d78d39f"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.75030766485064", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1142957", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "18", 
+    "block": "049XX W HIRSCH ST"
+}

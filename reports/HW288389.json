@@ -1,1 +1,38 @@
-{"y_coordinate": "1917457", "year": "2013", "domestic": false, "case_number": "HW288389", "id": "9143314", "primary_type": "OTHER OFFENSE", "district": "025", "arrest": true, "location": {"type": "Point", "coordinates": [-87.74665784329203, 41.92953067281362]}, "community_area": "19", "latitude": "41.92953067281362", "type": null, "description": "VEHICLE TITLE/REG OFFENSE", "beat": "2521", "date": {"$date": 1369350420000}, "ward": "31", "_id": {"$oid": "51aa13943c002ed20d78b199"}, "iucr": "502R", "longitude": "-87.74665784329203", "location_description": "STREET", "x_coordinate": "1143892", "updated_on": {"$date": 1369528777000}, "fbi_code": "26", "block": "026XX N CICERO AVE"}
+{
+    "y_coordinate": "1917457", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288389", 
+    "id": "9143314", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "025", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74665784329203, 
+            41.92953067281362
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.92953067281362", 
+    "type": null, 
+    "description": "VEHICLE TITLE/REG OFFENSE", 
+    "beat": "2521", 
+    "date": {
+        "$date": 1369350420000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b199"
+    }, 
+    "iucr": "502R", 
+    "longitude": "-87.74665784329203", 
+    "location_description": "STREET", 
+    "x_coordinate": "1143892", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "26", 
+    "block": "026XX N CICERO AVE"
+}

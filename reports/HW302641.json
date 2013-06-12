@@ -1,1 +1,38 @@
-{"y_coordinate": "1928937", "year": "2013", "domestic": false, "case_number": "HW302641", "id": "9157317", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66702947989762, 41.96059978288949]}, "community_area": "6", "latitude": "41.96059978288949", "type": "property", "description": "FROM BUILDING", "beat": "1912", "date": {"$date": 1370217660000}, "ward": "47", "_id": {"$oid": "51b5f1153c002ed20d78cbe2"}, "iucr": "890", "longitude": "-87.66702947989762", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1165472", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "014XX W PENSACOLA AVE"}
+{
+    "y_coordinate": "1928937", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302641", 
+    "id": "9157317", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66702947989762, 
+            41.96059978288949
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.96059978288949", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1912", 
+    "date": {
+        "$date": 1370217660000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbe2"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.66702947989762", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1165472", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "014XX W PENSACOLA AVE"
+}

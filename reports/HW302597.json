@@ -1,1 +1,38 @@
-{"y_coordinate": "1890925", "year": "2013", "domestic": false, "case_number": "HW302597", "id": "9157616", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66269929981412, 41.85626083752053]}, "community_area": "31", "latitude": "41.85626083752053", "type": "property", "description": "OVER $500", "beat": "1233", "date": {"$date": 1370257200000}, "ward": "25", "_id": {"$oid": "51b7429d3c002ed20d78d46f"}, "iucr": "810", "longitude": "-87.66269929981412", "location_description": "STREET", "x_coordinate": "1166947", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "018XX S BLUE ISLAND AVE"}
+{
+    "y_coordinate": "1890925", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302597", 
+    "id": "9157616", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66269929981412, 
+            41.85626083752053
+        ]
+    }, 
+    "community_area": "31", 
+    "latitude": "41.85626083752053", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1233", 
+    "date": {
+        "$date": 1370257200000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51b7429d3c002ed20d78d46f"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.66269929981412", 
+    "location_description": "STREET", 
+    "x_coordinate": "1166947", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "018XX S BLUE ISLAND AVE"
+}

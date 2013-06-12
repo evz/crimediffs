@@ -1,1 +1,38 @@
-{"y_coordinate": "1937319", "year": "2013", "domestic": false, "case_number": "HW298066", "id": "9152659", "primary_type": "THEFT", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6682019960821, 41.98360848155662]}, "community_area": "77", "latitude": "41.98360848155662", "type": "property", "description": "OVER $500", "beat": "2013", "date": {"$date": 1369141200000}, "ward": "48", "_id": {"$oid": "51aa139c3c002ed20d78b44c"}, "iucr": "810", "longitude": "-87.6682019960821", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1165088", "updated_on": {"$date": 1370133629000}, "fbi_code": "06", "block": "015XX W BRYN MAWR AVE"}
+{
+    "y_coordinate": "1937319", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW298066", 
+    "id": "9152659", 
+    "primary_type": "THEFT", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6682019960821, 
+            41.98360848155662
+        ]
+    }, 
+    "community_area": "77", 
+    "latitude": "41.98360848155662", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "2013", 
+    "date": {
+        "$date": 1369141200000
+    }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51aa139c3c002ed20d78b44c"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.6682019960821", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1165088", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "06", 
+    "block": "015XX W BRYN MAWR AVE"
+}

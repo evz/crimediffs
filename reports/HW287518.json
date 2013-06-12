@@ -1,1 +1,38 @@
-{"y_coordinate": "1841626", "year": "2013", "domestic": false, "case_number": "HW287518", "id": "9142428", "primary_type": "ASSAULT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66954705812559, 41.72100993019333]}, "community_area": "72", "latitude": "41.72100993019333", "type": null, "description": "SIMPLE", "beat": "2213", "date": {"$date": 1369306800000}, "ward": "19", "_id": {"$oid": "51aa13973c002ed20d78b38a"}, "iucr": "560", "longitude": "-87.66954705812559", "location_description": "DAY CARE CENTER", "x_coordinate": "1165462", "updated_on": {"$date": 1370133629000}, "fbi_code": "08A", "block": "018XX W 95TH ST"}
+{
+    "y_coordinate": "1841626", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287518", 
+    "id": "9142428", 
+    "primary_type": "ASSAULT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66954705812559, 
+            41.72100993019333
+        ]
+    }, 
+    "community_area": "72", 
+    "latitude": "41.72100993019333", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2213", 
+    "date": {
+        "$date": 1369306800000
+    }, 
+    "ward": "19", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b38a"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.66954705812559", 
+    "location_description": "DAY CARE CENTER", 
+    "x_coordinate": "1165462", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "08A", 
+    "block": "018XX W 95TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1872356", "year": "2013", "domestic": false, "case_number": "HW300062", "id": "9154672", "primary_type": "BATTERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73561531533711, 41.80570506470374]}, "community_area": "57", "latitude": "41.80570506470374", "type": null, "description": "SIMPLE", "beat": "0815", "date": {"$date": 1370098800000}, "ward": "23", "_id": {"$oid": "51b5f11f3c002ed20d78d076"}, "iucr": "460", "longitude": "-87.73561531533711", "location_description": "PARK PROPERTY", "x_coordinate": "1147211", "updated_on": {"$date": 1370306580000}, "fbi_code": "08B", "block": "048XX S KILBOURN AVE"}
+{
+    "y_coordinate": "1872356", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300062", 
+    "id": "9154672", 
+    "primary_type": "BATTERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73561531533711, 
+            41.80570506470374
+        ]
+    }, 
+    "community_area": "57", 
+    "latitude": "41.80570506470374", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0815", 
+    "date": {
+        "$date": 1370098800000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d076"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.73561531533711", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1147211", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08B", 
+    "block": "048XX S KILBOURN AVE"
+}

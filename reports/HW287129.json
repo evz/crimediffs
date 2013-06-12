@@ -1,1 +1,38 @@
-{"y_coordinate": "1896038", "year": "2013", "domestic": false, "case_number": "HW287129", "id": "9141925", "primary_type": "THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72353356524329, 41.87063133162911]}, "community_area": "26", "latitude": "41.87063133162911", "type": "property", "description": "OVER $500", "beat": "1132", "date": {"$date": 1369294200000}, "ward": "24", "_id": {"$oid": "51aa13983c002ed20d78b41c"}, "iucr": "810", "longitude": "-87.72353356524329", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1150337", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "039XX W POLK ST"}
+{
+    "y_coordinate": "1896038", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287129", 
+    "id": "9141925", 
+    "primary_type": "THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72353356524329, 
+            41.87063133162911
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.87063133162911", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1132", 
+    "date": {
+        "$date": 1369294200000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b41c"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.72353356524329", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1150337", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "039XX W POLK ST"
+}

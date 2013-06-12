@@ -1,1 +1,33 @@
-{"community_area": "3", "_id": {"$oid": "51b5f1173c002ed20d78cc4b"}, "primary_type": "ASSAULT", "beat": "1915", "year": "2013", "domestic": true, "iucr": "560", "arrest": false, "location_description": "RESIDENCE", "location": {"type": "Point", "coordinates": [-87.64975992256817, 41.961637101809806]}, "case_number": "HW301724", "date": {"$date": 1370207760000}, "updated_on": {"$date": 1370651988000}, "ward": "46", "fbi_code": "08A", "type": null, "id": "9157767", "block": "043XX N CLARENDON AVE", "description": "SIMPLE"}
+{
+    "_id": {
+        "$oid": "51b5f1173c002ed20d78cc4b"
+    }, 
+    "primary_type": "ASSAULT", 
+    "year": "2013", 
+    "beat": "1915", 
+    "case_number": "HW301724", 
+    "domestic": true, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64975992256817, 
+            41.961637101809806
+        ]
+    }, 
+    "community_area": "3", 
+    "date": {
+        "$date": 1370207760000
+    }, 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "ward": "46", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9157767", 
+    "block": "043XX N CLARENDON AVE", 
+    "description": "SIMPLE"
+}

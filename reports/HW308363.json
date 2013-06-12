@@ -1,1 +1,38 @@
-{"y_coordinate": "1902725", "year": "2013", "domestic": false, "case_number": "HW308363", "id": "9163528", "primary_type": "THEFT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63383767602399, 41.888470795235065]}, "community_area": "8", "latitude": "41.888470795235065", "type": "property", "description": "$500 AND UNDER", "beat": "1831", "date": {"$date": 1369846800000}, "ward": "42", "_id": {"$oid": "51b349ec3c002ed20d78bd9b"}, "iucr": "820", "longitude": "-87.63383767602399", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1174714", "updated_on": {"$date": 1370824784000}, "fbi_code": "06", "block": "003XX N WELLS ST"}
+{
+    "y_coordinate": "1902725", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW308363", 
+    "id": "9163528", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63383767602399, 
+            41.888470795235065
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.888470795235065", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1831", 
+    "date": {
+        "$date": 1369846800000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b349ec3c002ed20d78bd9b"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.63383767602399", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1174714", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "06", 
+    "block": "003XX N WELLS ST"
+}

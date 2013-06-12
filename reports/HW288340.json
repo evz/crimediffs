@@ -1,1 +1,38 @@
-{"y_coordinate": "1903078", "year": "2013", "domestic": true, "case_number": "HW288340", "id": "9143252", "primary_type": "CRIMINAL TRESPASS", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.7587306380291, 41.890132348456696]}, "community_area": "25", "latitude": "41.890132348456696", "type": null, "description": "TO RESIDENCE", "beat": "1523", "date": {"$date": 1369350000000}, "ward": "37", "_id": {"$oid": "51aa13943c002ed20d78b19f"}, "iucr": "1365", "longitude": "-87.7587306380291", "location_description": "APARTMENT", "x_coordinate": "1140703", "updated_on": {"$date": 1369528777000}, "fbi_code": "26", "block": "053XX W RACE AVE"}
+{
+    "y_coordinate": "1903078", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW288340", 
+    "id": "9143252", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7587306380291, 
+            41.890132348456696
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.890132348456696", 
+    "type": null, 
+    "description": "TO RESIDENCE", 
+    "beat": "1523", 
+    "date": {
+        "$date": 1369350000000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b19f"
+    }, 
+    "iucr": "1365", 
+    "longitude": "-87.7587306380291", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1140703", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "26", 
+    "block": "053XX W RACE AVE"
+}

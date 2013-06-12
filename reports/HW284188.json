@@ -1,1 +1,38 @@
-{"y_coordinate": "1901417", "year": "2013", "domestic": false, "case_number": "HW284188", "id": "9139172", "primary_type": "OTHER OFFENSE", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76529339681309, 41.88560680389624]}, "community_area": "25", "latitude": "41.88560680389624", "type": null, "description": "FALSE/STOLEN/ALTERED TRP", "beat": "1512", "date": {"$date": 1369132500000}, "ward": "29", "_id": {"$oid": "51a61f0e3c002ed20d78a935"}, "iucr": "502P", "longitude": "-87.76529339681309", "location_description": "STREET", "x_coordinate": "1138927", "updated_on": {"$date": 1369269615000}, "fbi_code": "26", "block": "056XX W FULTON ST"}
+{
+    "y_coordinate": "1901417", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284188", 
+    "id": "9139172", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76529339681309, 
+            41.88560680389624
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.88560680389624", 
+    "type": null, 
+    "description": "FALSE/STOLEN/ALTERED TRP", 
+    "beat": "1512", 
+    "date": {
+        "$date": 1369132500000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a935"
+    }, 
+    "iucr": "502P", 
+    "longitude": "-87.76529339681309", 
+    "location_description": "STREET", 
+    "x_coordinate": "1138927", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "26", 
+    "block": "056XX W FULTON ST"
+}

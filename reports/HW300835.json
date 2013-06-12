@@ -1,1 +1,38 @@
-{"y_coordinate": "1934145", "year": "2013", "domestic": false, "case_number": "HW300835", "id": "9155224", "primary_type": "BURGLARY", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7357755924884, 41.975270014558326]}, "community_area": "14", "latitude": "41.975270014558326", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "1712", "date": {"$date": 1370149200000}, "ward": "39", "_id": {"$oid": "51b5f11c3c002ed20d78ce65"}, "iucr": "620", "longitude": "-87.7357755924884", "location_description": "RESIDENCE", "x_coordinate": "1146737", "updated_on": {"$date": 1370479286000}, "fbi_code": "05", "block": "051XX N KILDARE AVE"}
+{
+    "y_coordinate": "1934145", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300835", 
+    "id": "9155224", 
+    "primary_type": "BURGLARY", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7357755924884, 
+            41.975270014558326
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.975270014558326", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "1712", 
+    "date": {
+        "$date": 1370149200000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce65"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.7357755924884", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1146737", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "05", 
+    "block": "051XX N KILDARE AVE"
+}

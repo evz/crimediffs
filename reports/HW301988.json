@@ -1,1 +1,38 @@
-{"y_coordinate": "1901126", "year": "2013", "domestic": false, "case_number": "HW301988", "id": "9156203", "primary_type": "CRIMINAL DAMAGE", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73663900147228, 41.88466291710781]}, "community_area": "26", "latitude": "41.88466291710781", "type": "quality", "description": "TO VEHICLE", "beat": "1113", "date": {"$date": 1370206800000}, "ward": "28", "_id": {"$oid": "51b5f1173c002ed20d78cc57"}, "iucr": "1320", "longitude": "-87.73663900147228", "location_description": "STREET", "x_coordinate": "1146732", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "044XX W MAYPOLE AVE"}
+{
+    "y_coordinate": "1901126", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301988", 
+    "id": "9156203", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73663900147228, 
+            41.88466291710781
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.88466291710781", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1113", 
+    "date": {
+        "$date": 1370206800000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f1173c002ed20d78cc57"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.73663900147228", 
+    "location_description": "STREET", 
+    "x_coordinate": "1146732", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "044XX W MAYPOLE AVE"
+}

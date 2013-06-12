@@ -1,1 +1,38 @@
-{"y_coordinate": "1857001", "year": "2013", "domestic": true, "case_number": "HW283896", "id": "9138409", "primary_type": "CRIMINAL DAMAGE", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61383798192766, 41.76286833883953]}, "community_area": "69", "latitude": "41.76286833883953", "type": "quality", "description": "TO PROPERTY", "beat": "0323", "date": {"$date": 1369101600000}, "ward": "6", "_id": {"$oid": "51a4cd8a3c002ed20d78a308"}, "iucr": "1310", "longitude": "-87.61383798192766", "location_description": "APARTMENT", "x_coordinate": "1180543", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "072XX S VERNON AVE"}
+{
+    "y_coordinate": "1857001", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283896", 
+    "id": "9138409", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61383798192766, 
+            41.76286833883953
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.76286833883953", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0323", 
+    "date": {
+        "$date": 1369101600000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a4cd8a3c002ed20d78a308"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.61383798192766", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1180543", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "072XX S VERNON AVE"
+}

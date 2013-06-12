@@ -1,1 +1,38 @@
-{"y_coordinate": "1855456", "year": "2013", "domestic": false, "case_number": "HW287326", "id": "9142297", "primary_type": "THEFT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6465323966626, 41.75882849011171]}, "community_area": "68", "latitude": "41.75882849011171", "type": "property", "description": "OVER $500", "beat": "0733", "date": {"$date": 1369231200000}, "ward": "17", "_id": {"$oid": "51a7708b3c002ed20d78ac24"}, "iucr": "810", "longitude": "-87.6465323966626", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1171635", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "074XX S PEORIA ST"}
+{
+    "y_coordinate": "1855456", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287326", 
+    "id": "9142297", 
+    "primary_type": "THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6465323966626, 
+            41.75882849011171
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.75882849011171", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0733", 
+    "date": {
+        "$date": 1369231200000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac24"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.6465323966626", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1171635", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "074XX S PEORIA ST"
+}

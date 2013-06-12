@@ -1,1 +1,33 @@
-{"community_area": "28", "_id": {"$oid": "51b5f11e3c002ed20d78cf7e"}, "primary_type": "ASSAULT", "beat": "1223", "year": "2013", "domestic": true, "iucr": "530", "arrest": false, "location_description": "STREET", "location": {"type": "Point", "coordinates": [-87.68459745600143, 41.882907062101694]}, "case_number": "HW300533", "date": {"$date": 1370121600000}, "updated_on": {"$date": 1370392932000}, "ward": "2", "fbi_code": "04A", "type": "violent", "id": "9155203", "block": "023XX W WASHINGTON BLVD", "description": "AGGRAVATED: OTHER DANG WEAPON"}
+{
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf7e"
+    }, 
+    "primary_type": "ASSAULT", 
+    "year": "2013", 
+    "beat": "1223", 
+    "case_number": "HW300533", 
+    "domestic": true, 
+    "iucr": "530", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68459745600143, 
+            41.882907062101694
+        ]
+    }, 
+    "community_area": "28", 
+    "date": {
+        "$date": 1370121600000
+    }, 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "ward": "2", 
+    "fbi_code": "04A", 
+    "type": "violent", 
+    "id": "9155203", 
+    "block": "023XX W WASHINGTON BLVD", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON"
+}

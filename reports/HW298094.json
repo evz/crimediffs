@@ -1,1 +1,38 @@
-{"y_coordinate": "1927986", "year": "2013", "domestic": false, "case_number": "HW298094", "id": "9152822", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67185061199402, 41.95801792022582]}, "community_area": "6", "latitude": "41.95801792022582", "type": "property", "description": "FROM BUILDING", "beat": "1912", "date": {"$date": 1369122300000}, "ward": "47", "_id": {"$oid": "51aa139c3c002ed20d78b455"}, "iucr": "890", "longitude": "-87.67185061199402", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1164168", "updated_on": {"$date": 1370306580000}, "fbi_code": "06", "block": "017XX W BERTEAU AVE"}
+{
+    "y_coordinate": "1927986", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW298094", 
+    "id": "9152822", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67185061199402, 
+            41.95801792022582
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.95801792022582", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1912", 
+    "date": {
+        "$date": 1369122300000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51aa139c3c002ed20d78b455"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.67185061199402", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1164168", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "06", 
+    "block": "017XX W BERTEAU AVE"
+}

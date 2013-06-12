@@ -1,1 +1,38 @@
-{"y_coordinate": "1861681", "year": "2013", "domestic": false, "case_number": "HW282800", "id": "9137559", "primary_type": "NARCOTICS", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64604957324376, 41.77590885325797]}, "community_area": "68", "latitude": "41.77590885325797", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0723", "date": {"$date": 1369051860000}, "ward": "16", "_id": {"$oid": "51a4cd923c002ed20d78a550"}, "iucr": "1811", "longitude": "-87.64604957324376", "location_description": "STREET", "x_coordinate": "1171717", "updated_on": {"$date": 1369183512000}, "fbi_code": "18", "block": "065XX S GREEN ST"}
+{
+    "y_coordinate": "1861681", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW282800", 
+    "id": "9137559", 
+    "primary_type": "NARCOTICS", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64604957324376, 
+            41.77590885325797
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.77590885325797", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0723", 
+    "date": {
+        "$date": 1369051860000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a4cd923c002ed20d78a550"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.64604957324376", 
+    "location_description": "STREET", 
+    "x_coordinate": "1171717", 
+    "updated_on": {
+        "$date": 1369183512000
+    }, 
+    "fbi_code": "18", 
+    "block": "065XX S GREEN ST"
+}

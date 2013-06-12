@@ -1,1 +1,38 @@
-{"y_coordinate": "1909269", "year": "2013", "domestic": false, "case_number": "HW282931", "id": "9137717", "primary_type": "NARCOTICS", "district": "025", "arrest": true, "location": {"type": "Point", "coordinates": [-87.77296002238673, 41.90719227045838]}, "community_area": "25", "latitude": "41.90719227045838", "type": "quality", "description": "POSS: CANNABIS MORE THAN 30GMS", "beat": "2531", "date": {"$date": 1369051980000}, "ward": "29", "_id": {"$oid": "51a4cd923c002ed20d78a54f"}, "iucr": "1812", "longitude": "-87.77296002238673", "location_description": "STREET", "x_coordinate": "1136788", "updated_on": {"$date": 1369183512000}, "fbi_code": "18", "block": "014XX N MAYFIELD AVE"}
+{
+    "y_coordinate": "1909269", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW282931", 
+    "id": "9137717", 
+    "primary_type": "NARCOTICS", 
+    "district": "025", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77296002238673, 
+            41.90719227045838
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.90719227045838", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS MORE THAN 30GMS", 
+    "beat": "2531", 
+    "date": {
+        "$date": 1369051980000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51a4cd923c002ed20d78a54f"
+    }, 
+    "iucr": "1812", 
+    "longitude": "-87.77296002238673", 
+    "location_description": "STREET", 
+    "x_coordinate": "1136788", 
+    "updated_on": {
+        "$date": 1369183512000
+    }, 
+    "fbi_code": "18", 
+    "block": "014XX N MAYFIELD AVE"
+}

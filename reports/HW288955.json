@@ -1,1 +1,38 @@
-{"y_coordinate": "1864575", "year": "2013", "domestic": false, "case_number": "HW288955", "id": "9144168", "primary_type": "BATTERY", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62039569791908, 41.78369449224095]}, "community_area": "40", "latitude": "41.78369449224095", "type": "violent", "description": "AGGRAVATED:KNIFE/CUTTING INSTR", "beat": "0311", "date": {"$date": 1369401300000}, "ward": "20", "_id": {"$oid": "51aa13913c002ed20d78b026"}, "iucr": "420", "longitude": "-87.62039569791908", "location_description": "STREET", "x_coordinate": "1178691", "updated_on": {"$date": 1369615194000}, "fbi_code": "04B", "block": "002XX E 61ST ST"}
+{
+    "y_coordinate": "1864575", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288955", 
+    "id": "9144168", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62039569791908, 
+            41.78369449224095
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.78369449224095", 
+    "type": "violent", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
+    "beat": "0311", 
+    "date": {
+        "$date": 1369401300000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b026"
+    }, 
+    "iucr": "420", 
+    "longitude": "-87.62039569791908", 
+    "location_description": "STREET", 
+    "x_coordinate": "1178691", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "04B", 
+    "block": "002XX E 61ST ST"
+}

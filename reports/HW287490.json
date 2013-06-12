@@ -1,1 +1,38 @@
-{"y_coordinate": "1942649", "year": "2013", "domestic": false, "case_number": "HW287490", "id": "9142597", "primary_type": "ASSAULT", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66712637004335, 41.9982287923124]}, "community_area": "1", "latitude": "41.9982287923124", "type": null, "description": "SIMPLE", "beat": "2432", "date": {"$date": 1369310400000}, "ward": "40", "_id": {"$oid": "51aa13973c002ed20d78b363"}, "iucr": "560", "longitude": "-87.66712637004335", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1165339", "updated_on": {"$date": 1369701613000}, "fbi_code": "08A", "block": "014XX W DEVON AVE"}
+{
+    "y_coordinate": "1942649", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287490", 
+    "id": "9142597", 
+    "primary_type": "ASSAULT", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66712637004335, 
+            41.9982287923124
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "41.9982287923124", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2432", 
+    "date": {
+        "$date": 1369310400000
+    }, 
+    "ward": "40", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b363"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.66712637004335", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1165339", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08A", 
+    "block": "014XX W DEVON AVE"
+}

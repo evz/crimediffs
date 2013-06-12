@@ -1,1 +1,38 @@
-{"y_coordinate": "1870440", "year": "2013", "domestic": true, "case_number": "HW288764", "id": "9144812", "primary_type": "CRIMINAL DAMAGE", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63367248186265, 41.79987134984095]}, "community_area": "37", "latitude": "41.79987134984095", "type": "quality", "description": "TO PROPERTY", "beat": "0935", "date": {"$date": 1369144800000}, "ward": "3", "_id": {"$oid": "51a61f0d3c002ed20d78a89e"}, "iucr": "1310", "longitude": "-87.63367248186265", "location_description": "APARTMENT", "x_coordinate": "1175022", "updated_on": {"$date": 1369787985000}, "fbi_code": "14", "block": "003XX W 52ND ST"}
+{
+    "y_coordinate": "1870440", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW288764", 
+    "id": "9144812", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63367248186265, 
+            41.79987134984095
+        ]
+    }, 
+    "community_area": "37", 
+    "latitude": "41.79987134984095", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0935", 
+    "date": {
+        "$date": 1369144800000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51a61f0d3c002ed20d78a89e"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.63367248186265", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1175022", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "14", 
+    "block": "003XX W 52ND ST"
+}

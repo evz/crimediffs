@@ -1,1 +1,38 @@
-{"y_coordinate": "1868670", "year": "2013", "domestic": false, "case_number": "HW284711", "id": "9139787", "primary_type": "CRIMINAL TRESPASS", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.616508869868, 41.79490815204725]}, "community_area": "40", "latitude": "41.79490815204725", "type": null, "description": "TO LAND", "beat": "0231", "date": {"$date": 1369151700000}, "ward": "3", "_id": {"$oid": "51a61f0c3c002ed20d78a84e"}, "iucr": "1330", "longitude": "-87.616508869868", "location_description": "GAS STATION", "x_coordinate": "1179717", "updated_on": {"$date": 1369356045000}, "fbi_code": "26", "block": "003XX E GARFIELD BLVD"}
+{
+    "y_coordinate": "1868670", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284711", 
+    "id": "9139787", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.616508869868, 
+            41.79490815204725
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.79490815204725", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "0231", 
+    "date": {
+        "$date": 1369151700000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51a61f0c3c002ed20d78a84e"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.616508869868", 
+    "location_description": "GAS STATION", 
+    "x_coordinate": "1179717", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "26", 
+    "block": "003XX E GARFIELD BLVD"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1824110", "year": "2013", "domestic": true, "case_number": "HW283882", "id": "9138441", "primary_type": "CRIMINAL DAMAGE", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63678220494863, 41.67274630575358]}, "community_area": "53", "latitude": "41.67274630575358", "type": "quality", "description": "TO PROPERTY", "beat": "0523", "date": {"$date": 1369098600000}, "ward": "34", "_id": {"$oid": "51a4cd8b3c002ed20d78a31c"}, "iucr": "1310", "longitude": "-87.63678220494863", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1174549", "updated_on": {"$date": 1369269615000}, "fbi_code": "14", "block": "121XX S WALLACE ST"}
+{
+    "y_coordinate": "1824110", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283882", 
+    "id": "9138441", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63678220494863, 
+            41.67274630575358
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.67274630575358", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0523", 
+    "date": {
+        "$date": 1369098600000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51a4cd8b3c002ed20d78a31c"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.63678220494863", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1174549", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "14", 
+    "block": "121XX S WALLACE ST"
+}

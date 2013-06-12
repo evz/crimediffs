@@ -1,1 +1,38 @@
-{"y_coordinate": "1890489", "year": "2013", "domestic": false, "case_number": "HW283587", "id": "9138141", "primary_type": "NARCOTICS", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70564145726398, 41.85530705990682]}, "community_area": "29", "latitude": "41.85530705990682", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "1022", "date": {"$date": 1369079280000}, "ward": "24", "_id": {"$oid": "51a4cd8e3c002ed20d78a3ed"}, "iucr": "2024", "longitude": "-87.70564145726398", "location_description": "STREET", "x_coordinate": "1155251", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "032XX W 19TH ST"}
+{
+    "y_coordinate": "1890489", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283587", 
+    "id": "9138141", 
+    "primary_type": "NARCOTICS", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70564145726398, 
+            41.85530705990682
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85530705990682", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "1022", 
+    "date": {
+        "$date": 1369079280000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3ed"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.70564145726398", 
+    "location_description": "STREET", 
+    "x_coordinate": "1155251", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "032XX W 19TH ST"
+}

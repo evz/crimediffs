@@ -1,1 +1,38 @@
-{"y_coordinate": "1904033", "year": "2013", "domestic": false, "case_number": "HW301203", "id": "9155512", "primary_type": "ROBBERY", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69152014811658, 41.892397133780776]}, "community_area": "24", "latitude": "41.892397133780776", "type": "violent", "description": "ATTEMPT: ARMED-OTHER DANG WEAP", "beat": "1221", "date": {"$date": 1370180400000}, "ward": "26", "_id": {"$oid": "51b5f11b3c002ed20d78cd93"}, "iucr": "337", "longitude": "-87.69152014811658", "location_description": "STREET", "x_coordinate": "1158997", "updated_on": {"$date": 1370392932000}, "fbi_code": "03", "block": "025XX W GRAND AVE"}
+{
+    "y_coordinate": "1904033", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301203", 
+    "id": "9155512", 
+    "primary_type": "ROBBERY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69152014811658, 
+            41.892397133780776
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.892397133780776", 
+    "type": "violent", 
+    "description": "ATTEMPT: ARMED-OTHER DANG WEAP", 
+    "beat": "1221", 
+    "date": {
+        "$date": 1370180400000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cd93"
+    }, 
+    "iucr": "337", 
+    "longitude": "-87.69152014811658", 
+    "location_description": "STREET", 
+    "x_coordinate": "1158997", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "03", 
+    "block": "025XX W GRAND AVE"
+}

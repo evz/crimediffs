@@ -1,1 +1,38 @@
-{"y_coordinate": "1937699", "year": "2013", "domestic": true, "case_number": "HW283671", "id": "9138297", "primary_type": "BATTERY", "district": "016", "arrest": true, "location": {"type": "Point", "coordinates": [-87.77207411821132, 41.98520611441598]}, "community_area": "11", "latitude": "41.98520611441598", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1622", "date": {"$date": 1369084500000}, "ward": "45", "_id": {"$oid": "51a4cd8e3c002ed20d78a3a1"}, "iucr": "486", "longitude": "-87.77207411821132", "location_description": "RESIDENCE", "x_coordinate": "1136843", "updated_on": {"$date": 1369269615000}, "fbi_code": "08B", "block": "057XX N MANGO AVE"}
+{
+    "y_coordinate": "1937699", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283671", 
+    "id": "9138297", 
+    "primary_type": "BATTERY", 
+    "district": "016", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77207411821132, 
+            41.98520611441598
+        ]
+    }, 
+    "community_area": "11", 
+    "latitude": "41.98520611441598", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1622", 
+    "date": {
+        "$date": 1369084500000
+    }, 
+    "ward": "45", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3a1"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.77207411821132", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1136843", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "08B", 
+    "block": "057XX N MANGO AVE"
+}

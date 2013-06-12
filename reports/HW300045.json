@@ -1,1 +1,38 @@
-{"y_coordinate": "1844970", "year": "2013", "domestic": false, "case_number": "HW300045", "id": "9154588", "primary_type": "NARCOTICS", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.55109651318381, 41.72944160848088]}, "community_area": "46", "latitude": "41.72944160848088", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0424", "date": {"$date": 1370098020000}, "ward": "10", "_id": {"$oid": "51b5f1203c002ed20d78d07c"}, "iucr": "1811", "longitude": "-87.55109651318381", "location_description": "SIDEWALK", "x_coordinate": "1197771", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "091XX S COMMERCIAL AVE"}
+{
+    "y_coordinate": "1844970", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300045", 
+    "id": "9154588", 
+    "primary_type": "NARCOTICS", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55109651318381, 
+            41.72944160848088
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.72944160848088", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0424", 
+    "date": {
+        "$date": 1370098020000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d07c"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.55109651318381", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1197771", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "091XX S COMMERCIAL AVE"
+}

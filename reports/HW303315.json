@@ -1,1 +1,38 @@
-{"y_coordinate": "1856188", "year": "2013", "domestic": false, "case_number": "HW303315", "id": "9157991", "primary_type": "ROBBERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58855977964942, 41.76047614122439]}, "community_area": "43", "latitude": "41.76047614122439", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "0324", "date": {"$date": 1370260800000}, "ward": "5", "_id": {"$oid": "51b7429d3c002ed20d78d445"}, "iucr": "320", "longitude": "-87.58855977964942", "location_description": "STREET", "x_coordinate": "1187447", "updated_on": {"$date": 1370479286000}, "fbi_code": "03", "block": "074XX S BLACKSTONE AVE"}
+{
+    "y_coordinate": "1856188", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303315", 
+    "id": "9157991", 
+    "primary_type": "ROBBERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58855977964942, 
+            41.76047614122439
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76047614122439", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0324", 
+    "date": {
+        "$date": 1370260800000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51b7429d3c002ed20d78d445"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.58855977964942", 
+    "location_description": "STREET", 
+    "x_coordinate": "1187447", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "03", 
+    "block": "074XX S BLACKSTONE AVE"
+}

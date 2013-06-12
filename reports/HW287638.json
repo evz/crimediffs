@@ -1,1 +1,38 @@
-{"y_coordinate": "1830840", "year": "2013", "domestic": false, "case_number": "HW287638", "id": "9142675", "primary_type": "CRIMINAL DAMAGE", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63524304549287, 41.69120635421101]}, "community_area": "49", "latitude": "41.69120635421101", "type": "quality", "description": "CRIMINAL DEFACEMENT", "beat": "2233", "date": {"$date": 1369267200000}, "ward": "34", "_id": {"$oid": "51a770873c002ed20d78aa55"}, "iucr": "1305", "longitude": "-87.63524304549287", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1174915", "updated_on": {"$date": 1369528777000}, "fbi_code": "14", "block": "111XX S NORMAL AVE"}
+{
+    "y_coordinate": "1830840", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287638", 
+    "id": "9142675", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63524304549287, 
+            41.69120635421101
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.69120635421101", 
+    "type": "quality", 
+    "description": "CRIMINAL DEFACEMENT", 
+    "beat": "2233", 
+    "date": {
+        "$date": 1369267200000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51a770873c002ed20d78aa55"
+    }, 
+    "iucr": "1305", 
+    "longitude": "-87.63524304549287", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1174915", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "14", 
+    "block": "111XX S NORMAL AVE"
+}

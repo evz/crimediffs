@@ -1,1 +1,33 @@
-{"community_area": "34", "_id": {"$oid": "51b5f1163c002ed20d78cc16"}, "primary_type": "THEFT", "beat": "0211", "year": "2013", "domestic": false, "iucr": "820", "arrest": false, "location_description": "STREET", "location": {"type": "Point", "coordinates": [-87.63017270387118, 41.838190201866645]}, "case_number": "HW301866", "date": {"$date": 1370212200000}, "updated_on": {"$date": 1370651988000}, "ward": "11", "fbi_code": "06", "type": "property", "id": "9161067", "block": "031XX S LA SALLE ST", "description": "$500 AND UNDER"}
+{
+    "_id": {
+        "$oid": "51b5f1163c002ed20d78cc16"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "0211", 
+    "case_number": "HW301866", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63017270387118, 
+            41.838190201866645
+        ]
+    }, 
+    "community_area": "34", 
+    "date": {
+        "$date": 1370212200000
+    }, 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "ward": "11", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9161067", 
+    "block": "031XX S LA SALLE ST", 
+    "description": "$500 AND UNDER"
+}

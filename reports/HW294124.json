@@ -1,1 +1,38 @@
-{"y_coordinate": "1907476", "year": "2013", "domestic": false, "case_number": "HW294124", "id": "9148264", "primary_type": "ROBBERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77522533947435, 41.90228288108485]}, "community_area": "25", "latitude": "41.90228288108485", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "2531", "date": {"$date": 1369413000000}, "ward": "29", "_id": {"$oid": "51aa13903c002ed20d78af7b"}, "iucr": "320", "longitude": "-87.77522533947435", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1136183", "updated_on": {"$date": 1370651988000}, "fbi_code": "03", "block": "012XX N AUSTIN BLVD"}
+{
+    "y_coordinate": "1907476", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW294124", 
+    "id": "9148264", 
+    "primary_type": "ROBBERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77522533947435, 
+            41.90228288108485
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.90228288108485", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "2531", 
+    "date": {
+        "$date": 1369413000000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78af7b"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.77522533947435", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1136183", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "03", 
+    "block": "012XX N AUSTIN BLVD"
+}

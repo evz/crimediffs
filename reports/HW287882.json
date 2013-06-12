@@ -1,1 +1,38 @@
-{"y_coordinate": "1857538", "year": "2013", "domestic": false, "case_number": "HW287882", "id": "9143178", "primary_type": "WEAPONS VIOLATION", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.63693448309989, 41.76448434630191]}, "community_area": "68", "latitude": "41.76448434630191", "type": null, "description": "UNLAWFUL POSS OF HANDGUN", "beat": "0732", "date": {"$date": 1369327680000}, "ward": "6", "_id": {"$oid": "51aa13963c002ed20d78b2a6"}, "iucr": "143A", "longitude": "-87.63693448309989", "location_description": "APARTMENT", "x_coordinate": "1174237", "updated_on": {"$date": 1370306580000}, "fbi_code": "15", "block": "071XX S NORMAL BLVD"}
+{
+    "y_coordinate": "1857538", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287882", 
+    "id": "9143178", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63693448309989, 
+            41.76448434630191
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.76448434630191", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "0732", 
+    "date": {
+        "$date": 1369327680000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b2a6"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.63693448309989", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1174237", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "15", 
+    "block": "071XX S NORMAL BLVD"
+}

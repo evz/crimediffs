@@ -1,1 +1,38 @@
-{"y_coordinate": "1857031", "year": "2013", "domestic": false, "case_number": "HW294426", "id": "9148447", "primary_type": "THEFT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66120203178764, 41.763237519652414]}, "community_area": "67", "latitude": "41.763237519652414", "type": "property", "description": "FROM BUILDING", "beat": "0734", "date": {"$date": 1369346400000}, "ward": "17", "_id": {"$oid": "51aa13943c002ed20d78b1bc"}, "iucr": "890", "longitude": "-87.66120203178764", "location_description": "RESIDENCE", "x_coordinate": "1167620", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "014XX W 72ND ST"}
+{
+    "y_coordinate": "1857031", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW294426", 
+    "id": "9148447", 
+    "primary_type": "THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66120203178764, 
+            41.763237519652414
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.763237519652414", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0734", 
+    "date": {
+        "$date": 1369346400000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1bc"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.66120203178764", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1167620", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "014XX W 72ND ST"
+}

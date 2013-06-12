@@ -1,1 +1,38 @@
-{"y_coordinate": "1852480", "year": "2013", "domestic": true, "case_number": "HW300310", "id": "9154867", "primary_type": "BATTERY", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.60166773750204, 41.75038450127466]}, "community_area": "44", "latitude": "41.75038450127466", "type": "violent", "description": "AGGRAVATED DOMESTIC BATTERY: KNIFE/CUTTING INST", "beat": "0624", "date": {"$date": 1370109600000}, "ward": "8", "_id": {"$oid": "51b5f11f3c002ed20d78d00a"}, "iucr": "496", "longitude": "-87.60166773750204", "location_description": "APARTMENT", "x_coordinate": "1183902", "updated_on": {"$date": 1370306580000}, "fbi_code": "04B", "block": "079XX S INGLESIDE AVE"}
+{
+    "y_coordinate": "1852480", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300310", 
+    "id": "9154867", 
+    "primary_type": "BATTERY", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60166773750204, 
+            41.75038450127466
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.75038450127466", 
+    "type": "violent", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: KNIFE/CUTTING INST", 
+    "beat": "0624", 
+    "date": {
+        "$date": 1370109600000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d00a"
+    }, 
+    "iucr": "496", 
+    "longitude": "-87.60166773750204", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1183902", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "04B", 
+    "block": "079XX S INGLESIDE AVE"
+}

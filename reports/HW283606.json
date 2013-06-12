@@ -1,1 +1,38 @@
-{"y_coordinate": "1865378", "year": "2013", "domestic": false, "case_number": "HW283606", "id": "9138150", "primary_type": "NARCOTICS", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68886134524047, 41.78630264426099]}, "community_area": "66", "latitude": "41.78630264426099", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0824", "date": {"$date": 1369079940000}, "ward": "16", "_id": {"$oid": "51a4cd8e3c002ed20d78a3e8"}, "iucr": "1811", "longitude": "-87.68886134524047", "location_description": "STREET", "x_coordinate": "1160011", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "059XX S ROCKWELL ST"}
+{
+    "y_coordinate": "1865378", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283606", 
+    "id": "9138150", 
+    "primary_type": "NARCOTICS", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68886134524047, 
+            41.78630264426099
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.78630264426099", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0824", 
+    "date": {
+        "$date": 1369079940000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3e8"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.68886134524047", 
+    "location_description": "STREET", 
+    "x_coordinate": "1160011", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "059XX S ROCKWELL ST"
+}

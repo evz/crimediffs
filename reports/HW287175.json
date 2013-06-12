@@ -1,1 +1,38 @@
-{"y_coordinate": "1899675", "year": "2013", "domestic": false, "case_number": "HW287175", "id": "9142027", "primary_type": "PROSTITUTION", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.73814482753701, 41.880688827204295]}, "community_area": "26", "latitude": "41.880688827204295", "type": "quality", "description": "SOLICIT FOR PROSTITUTE", "beat": "1113", "date": {"$date": 1369297380000}, "ward": "28", "_id": {"$oid": "51aa13983c002ed20d78b3fb"}, "iucr": "1512", "longitude": "-87.73814482753701", "location_description": "GAS STATION", "x_coordinate": "1146332", "updated_on": {"$date": 1369528777000}, "fbi_code": "16", "block": "045XX W MADISON ST"}
+{
+    "y_coordinate": "1899675", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287175", 
+    "id": "9142027", 
+    "primary_type": "PROSTITUTION", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73814482753701, 
+            41.880688827204295
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.880688827204295", 
+    "type": "quality", 
+    "description": "SOLICIT FOR PROSTITUTE", 
+    "beat": "1113", 
+    "date": {
+        "$date": 1369297380000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3fb"
+    }, 
+    "iucr": "1512", 
+    "longitude": "-87.73814482753701", 
+    "location_description": "GAS STATION", 
+    "x_coordinate": "1146332", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "16", 
+    "block": "045XX W MADISON ST"
+}

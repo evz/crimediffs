@@ -1,1 +1,38 @@
-{"y_coordinate": "1949119", "year": "2013", "domestic": false, "case_number": "HW286931", "id": "9141766", "primary_type": "BATTERY", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66594391443167, 42.015976801462365]}, "community_area": "1", "latitude": "42.015976801462365", "type": null, "description": "SIMPLE", "beat": "2423", "date": {"$date": 1369221600000}, "ward": "49", "_id": {"$oid": "51a7708c3c002ed20d78ac95"}, "iucr": "460", "longitude": "-87.66594391443167", "location_description": "APARTMENT", "x_coordinate": "1165610", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "013XX W JARVIS AVE"}
+{
+    "y_coordinate": "1949119", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286931", 
+    "id": "9141766", 
+    "primary_type": "BATTERY", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66594391443167, 
+            42.015976801462365
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "42.015976801462365", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2423", 
+    "date": {
+        "$date": 1369221600000
+    }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac95"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.66594391443167", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1165610", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "013XX W JARVIS AVE"
+}

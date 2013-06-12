@@ -1,1 +1,38 @@
-{"y_coordinate": "1906377", "year": "2013", "domestic": false, "case_number": "HW303316", "id": "9157852", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71850352275936, 41.898977273757275]}, "community_area": "23", "latitude": "41.898977273757275", "type": "quality", "description": "POSS: CANNABIS MORE THAN 30GMS", "beat": "1112", "date": {"$date": 1370295900000}, "ward": "27", "_id": {"$oid": "51b742973c002ed20d78d263"}, "iucr": "1812", "longitude": "-87.71850352275936", "location_description": "STREET", "x_coordinate": "1151633", "updated_on": {"$date": 1370738354000}, "fbi_code": "18", "block": "036XX W AUGUSTA BLVD"}
+{
+    "y_coordinate": "1906377", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303316", 
+    "id": "9157852", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71850352275936, 
+            41.898977273757275
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.898977273757275", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS MORE THAN 30GMS", 
+    "beat": "1112", 
+    "date": {
+        "$date": 1370295900000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b742973c002ed20d78d263"
+    }, 
+    "iucr": "1812", 
+    "longitude": "-87.71850352275936", 
+    "location_description": "STREET", 
+    "x_coordinate": "1151633", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "18", 
+    "block": "036XX W AUGUSTA BLVD"
+}

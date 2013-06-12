@@ -1,1 +1,38 @@
-{"y_coordinate": "1903264", "year": "2013", "domestic": false, "case_number": "HW290076", "id": "9144856", "primary_type": "CRIMINAL TRESPASS", "district": "018", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62815134725408, 41.88991516215311]}, "community_area": "8", "latitude": "41.88991516215311", "type": null, "description": "TO LAND", "beat": "1831", "date": {"$date": 1369466700000}, "ward": "42", "_id": {"$oid": "51b34a123c002ed20d78cb16"}, "iucr": "1330", "longitude": "-87.62815134725408", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1176258", "updated_on": {"$date": 1369615194000}, "fbi_code": "26", "block": "004XX N STATE ST"}
+{
+    "y_coordinate": "1903264", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290076", 
+    "id": "9144856", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "018", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62815134725408, 
+            41.88991516215311
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.88991516215311", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "1831", 
+    "date": {
+        "$date": 1369466700000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cb16"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.62815134725408", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1176258", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "26", 
+    "block": "004XX N STATE ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1899712", "year": "2013", "domestic": false, "case_number": "HW283642", "id": "9138161", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.73210718957523, 41.88075891431792]}, "community_area": "26", "latitude": "41.88075891431792", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "1115", "date": {"$date": 1369082700000}, "ward": "28", "_id": {"$oid": "51a4cd8e3c002ed20d78a3bb"}, "iucr": "2024", "longitude": "-87.73210718957523", "location_description": "SIDEWALK", "x_coordinate": "1147976", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "042XX W MADISON ST"}
+{
+    "y_coordinate": "1899712", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283642", 
+    "id": "9138161", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73210718957523, 
+            41.88075891431792
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.88075891431792", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "1115", 
+    "date": {
+        "$date": 1369082700000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3bb"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.73210718957523", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1147976", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "042XX W MADISON ST"
+}

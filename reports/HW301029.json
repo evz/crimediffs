@@ -1,1 +1,38 @@
-{"y_coordinate": "1865401", "year": "2013", "domestic": false, "case_number": "HW301029", "id": "9155314", "primary_type": "PROSTITUTION", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6892420324758, 41.786367897944075]}, "community_area": "66", "latitude": "41.786367897944075", "type": "quality", "description": "SOLICIT ON PUBLIC WAY", "beat": "0824", "date": {"$date": 1370170440000}, "ward": "16", "_id": {"$oid": "51b5f11b3c002ed20d78cdf4"}, "iucr": "1506", "longitude": "-87.6892420324758", "location_description": "STREET", "x_coordinate": "1159907", "updated_on": {"$date": 1370392932000}, "fbi_code": "16", "block": "026XX W 59TH ST"}
+{
+    "y_coordinate": "1865401", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301029", 
+    "id": "9155314", 
+    "primary_type": "PROSTITUTION", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6892420324758, 
+            41.786367897944075
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.786367897944075", 
+    "type": "quality", 
+    "description": "SOLICIT ON PUBLIC WAY", 
+    "beat": "0824", 
+    "date": {
+        "$date": 1370170440000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cdf4"
+    }, 
+    "iucr": "1506", 
+    "longitude": "-87.6892420324758", 
+    "location_description": "STREET", 
+    "x_coordinate": "1159907", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "16", 
+    "block": "026XX W 59TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1926831", "year": "2013", "domestic": false, "case_number": "HW283042", "id": "9137783", "primary_type": "NARCOTICS", "district": "019", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66891672656213, 41.95483141694138]}, "community_area": "6", "latitude": "41.95483141694138", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1912", "date": {"$date": 1369061100000}, "ward": "47", "_id": {"$oid": "51a4cd913c002ed20d78a4ea"}, "iucr": "1811", "longitude": "-87.66891672656213", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1164975", "updated_on": {"$date": 1369183512000}, "fbi_code": "18", "block": "040XX N ASHLAND AVE"}
+{
+    "y_coordinate": "1926831", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283042", 
+    "id": "9137783", 
+    "primary_type": "NARCOTICS", 
+    "district": "019", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66891672656213, 
+            41.95483141694138
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.95483141694138", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1912", 
+    "date": {
+        "$date": 1369061100000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a4ea"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.66891672656213", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1164975", 
+    "updated_on": {
+        "$date": 1369183512000
+    }, 
+    "fbi_code": "18", 
+    "block": "040XX N ASHLAND AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1910281", "year": "2013", "domestic": false, "case_number": "HW289960", "id": "9144715", "primary_type": "BATTERY", "district": "018", "arrest": true, "location": {"type": "Point", "coordinates": [-87.65264020230961, 41.90931922999935]}, "community_area": "8", "latitude": "41.90931922999935", "type": null, "description": "SIMPLE", "beat": "1822", "date": {"$date": 1369451100000}, "ward": "32", "_id": {"$oid": "51aa13893c002ed20d78ad9f"}, "iucr": "460", "longitude": "-87.65264020230961", "location_description": "BAR OR TAVERN", "x_coordinate": "1169534", "updated_on": {"$date": 1369615194000}, "fbi_code": "08B", "block": "015XX N KINGSBURY ST"}
+{
+    "y_coordinate": "1910281", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289960", 
+    "id": "9144715", 
+    "primary_type": "BATTERY", 
+    "district": "018", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65264020230961, 
+            41.90931922999935
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.90931922999935", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1822", 
+    "date": {
+        "$date": 1369451100000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51aa13893c002ed20d78ad9f"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.65264020230961", 
+    "location_description": "BAR OR TAVERN", 
+    "x_coordinate": "1169534", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08B", 
+    "block": "015XX N KINGSBURY ST"
+}

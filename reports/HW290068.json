@@ -1,1 +1,38 @@
-{"y_coordinate": "1923588", "year": "2013", "domestic": false, "case_number": "HW290068", "id": "9144875", "primary_type": "CRIMINAL DAMAGE", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.78089384605084, 41.94652533552732]}, "community_area": "17", "latitude": "41.94652533552732", "type": "quality", "description": "TO VEHICLE", "beat": "1633", "date": {"$date": 1369429200000}, "ward": "38", "_id": {"$oid": "51aa138d3c002ed20d78aea0"}, "iucr": "1320", "longitude": "-87.78089384605084", "location_description": "STREET", "x_coordinate": "1134536", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "061XX W PATTERSON AVE"}
+{
+    "y_coordinate": "1923588", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290068", 
+    "id": "9144875", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78089384605084, 
+            41.94652533552732
+        ]
+    }, 
+    "community_area": "17", 
+    "latitude": "41.94652533552732", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1633", 
+    "date": {
+        "$date": 1369429200000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78aea0"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.78089384605084", 
+    "location_description": "STREET", 
+    "x_coordinate": "1134536", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "061XX W PATTERSON AVE"
+}

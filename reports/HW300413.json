@@ -1,1 +1,38 @@
-{"y_coordinate": "1938694", "year": "2013", "domestic": false, "case_number": "HW300413", "id": "9154822", "primary_type": "THEFT", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66447733913407, 41.98736010905506]}, "community_area": "77", "latitude": "41.98736010905506", "type": "property", "description": "FROM BUILDING", "beat": "2013", "date": {"$date": 1370101500000}, "ward": "48", "_id": {"$oid": "51b5f11f3c002ed20d78d04d"}, "iucr": "890", "longitude": "-87.66447733913407", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1166090", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "013XX W EARLY AVE"}
+{
+    "y_coordinate": "1938694", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300413", 
+    "id": "9154822", 
+    "primary_type": "THEFT", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66447733913407, 
+            41.98736010905506
+        ]
+    }, 
+    "community_area": "77", 
+    "latitude": "41.98736010905506", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "2013", 
+    "date": {
+        "$date": 1370101500000
+    }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d04d"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.66447733913407", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1166090", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "013XX W EARLY AVE"
+}

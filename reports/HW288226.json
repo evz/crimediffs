@@ -1,1 +1,38 @@
-{"y_coordinate": "1847238", "year": "2013", "domestic": false, "case_number": "HW288226", "id": "9144458", "primary_type": "BATTERY", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62763386051516, 41.73616126254817]}, "community_area": "44", "latitude": "41.73616126254817", "type": null, "description": "SIMPLE", "beat": "0634", "date": {"$date": 1369341540000}, "ward": "21", "_id": {"$oid": "51aa13953c002ed20d78b1fe"}, "iucr": "460", "longitude": "-87.62763386051516", "location_description": "OTHER", "x_coordinate": "1176859", "updated_on": {"$date": 1369874559000}, "fbi_code": "08B", "block": "001XX W 87TH ST"}
+{
+    "y_coordinate": "1847238", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288226", 
+    "id": "9144458", 
+    "primary_type": "BATTERY", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62763386051516, 
+            41.73616126254817
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.73616126254817", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0634", 
+    "date": {
+        "$date": 1369341540000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b1fe"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.62763386051516", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1176859", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "08B", 
+    "block": "001XX W 87TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1877252", "year": "2013", "domestic": false, "case_number": "HW283131", "id": "9137809", "primary_type": "ASSAULT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69657952578835, 41.818931308548486]}, "community_area": "58", "latitude": "41.818931308548486", "type": null, "description": "SIMPLE", "beat": "0921", "date": {"$date": 1369064400000}, "ward": "14", "_id": {"$oid": "51a4cd903c002ed20d78a4bc"}, "iucr": "560", "longitude": "-87.69657952578835", "location_description": "RESIDENCE", "x_coordinate": "1157818", "updated_on": {"$date": 1370479286000}, "fbi_code": "08A", "block": "041XX S ARCHER AVE"}
+{
+    "y_coordinate": "1877252", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283131", 
+    "id": "9137809", 
+    "primary_type": "ASSAULT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69657952578835, 
+            41.818931308548486
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.818931308548486", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0921", 
+    "date": {
+        "$date": 1369064400000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a4bc"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.69657952578835", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1157818", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08A", 
+    "block": "041XX S ARCHER AVE"
+}

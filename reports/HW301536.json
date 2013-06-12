@@ -1,1 +1,38 @@
-{"y_coordinate": "1929241", "year": "2013", "domestic": false, "case_number": "HW301536", "id": "9155812", "primary_type": "OTHER OFFENSE", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65647650322295, 41.961372290126775]}, "community_area": "3", "latitude": "41.961372290126775", "type": null, "description": "TELEPHONE THREAT", "beat": "1915", "date": {"$date": 1370196000000}, "ward": "46", "_id": {"$oid": "51b5f1193c002ed20d78ccdd"}, "iucr": "2820", "longitude": "-87.65647650322295", "location_description": "RESIDENCE", "x_coordinate": "1168340", "updated_on": {"$date": 1370479286000}, "fbi_code": "26", "block": "043XX N KENMORE AVE"}
+{
+    "y_coordinate": "1929241", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301536", 
+    "id": "9155812", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65647650322295, 
+            41.961372290126775
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.961372290126775", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "1915", 
+    "date": {
+        "$date": 1370196000000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78ccdd"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.65647650322295", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1168340", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "26", 
+    "block": "043XX N KENMORE AVE"
+}

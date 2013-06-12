@@ -1,1 +1,38 @@
-{"y_coordinate": "1911708", "year": "2013", "domestic": false, "case_number": "HW288910", "id": "9144005", "primary_type": "BURGLARY", "district": "014", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68440613274484, 41.91341916119361]}, "community_area": "24", "latitude": "41.91341916119361", "type": "property", "description": "ATTEMPT FORCIBLE ENTRY", "beat": "1434", "date": {"$date": 1369396980000}, "ward": "1", "_id": {"$oid": "51aa13923c002ed20d78b05e"}, "iucr": "630", "longitude": "-87.68440613274484", "location_description": "APARTMENT", "x_coordinate": "1160876", "updated_on": {"$date": 1370392932000}, "fbi_code": "05", "block": "022XX W ST PAUL AVE"}
+{
+    "y_coordinate": "1911708", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288910", 
+    "id": "9144005", 
+    "primary_type": "BURGLARY", 
+    "district": "014", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68440613274484, 
+            41.91341916119361
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.91341916119361", 
+    "type": "property", 
+    "description": "ATTEMPT FORCIBLE ENTRY", 
+    "beat": "1434", 
+    "date": {
+        "$date": 1369396980000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b05e"
+    }, 
+    "iucr": "630", 
+    "longitude": "-87.68440613274484", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1160876", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "05", 
+    "block": "022XX W ST PAUL AVE"
+}

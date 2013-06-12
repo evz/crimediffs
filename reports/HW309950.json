@@ -1,1 +1,38 @@
-{"y_coordinate": "1921096", "year": "2013", "domestic": false, "case_number": "HW309950", "id": "9164994", "primary_type": "MOTOR VEHICLE THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65917164758594, 41.939036544327735]}, "community_area": "6", "latitude": "41.939036544327735", "type": "property", "description": "AUTOMOBILE", "beat": "1933", "date": {"$date": 1370196000000}, "ward": "32", "_id": {"$oid": "51b5f1193c002ed20d78ccd5"}, "iucr": "910", "longitude": "-87.65917164758594", "location_description": "STREET", "x_coordinate": "1167671", "updated_on": {"$date": 1370824784000}, "fbi_code": "07", "block": "012XX W FLETCHER ST"}
+{
+    "y_coordinate": "1921096", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW309950", 
+    "id": "9164994", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65917164758594, 
+            41.939036544327735
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.939036544327735", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1933", 
+    "date": {
+        "$date": 1370196000000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78ccd5"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.65917164758594", 
+    "location_description": "STREET", 
+    "x_coordinate": "1167671", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "07", 
+    "block": "012XX W FLETCHER ST"
+}

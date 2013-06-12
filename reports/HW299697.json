@@ -1,1 +1,38 @@
-{"y_coordinate": "1901179", "year": "2013", "domestic": false, "case_number": "HW299697", "id": "9154419", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66183227326019, 41.88439530680846]}, "community_area": "28", "latitude": "41.88439530680846", "type": "property", "description": "$500 AND UNDER", "beat": "1224", "date": {"$date": 1370076300000}, "ward": "27", "_id": {"$oid": "51b5f1213c002ed20d78d168"}, "iucr": "820", "longitude": "-87.66183227326019", "location_description": "STREET", "x_coordinate": "1167103", "updated_on": {"$date": 1370306580000}, "fbi_code": "06", "block": "013XX W RANDOLPH ST"}
+{
+    "y_coordinate": "1901179", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299697", 
+    "id": "9154419", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66183227326019, 
+            41.88439530680846
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.88439530680846", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1224", 
+    "date": {
+        "$date": 1370076300000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d168"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.66183227326019", 
+    "location_description": "STREET", 
+    "x_coordinate": "1167103", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "06", 
+    "block": "013XX W RANDOLPH ST"
+}

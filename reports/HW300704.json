@@ -1,1 +1,38 @@
-{"y_coordinate": "1908500", "year": "2013", "domestic": false, "case_number": "HW300704", "id": "9155091", "primary_type": "NARCOTICS", "district": "018", "arrest": true, "location": {"type": "Point", "coordinates": [-87.63278682361279, 41.90431234902498]}, "community_area": "8", "latitude": "41.90431234902498", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "1821", "date": {"$date": 1370134500000}, "ward": "42", "_id": {"$oid": "51b5f11d3c002ed20d78cedf"}, "iucr": "2024", "longitude": "-87.63278682361279", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1174953", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "012XX N LA SALLE DR"}
+{
+    "y_coordinate": "1908500", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300704", 
+    "id": "9155091", 
+    "primary_type": "NARCOTICS", 
+    "district": "018", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63278682361279, 
+            41.90431234902498
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.90431234902498", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "1821", 
+    "date": {
+        "$date": 1370134500000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78cedf"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.63278682361279", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1174953", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "012XX N LA SALLE DR"
+}

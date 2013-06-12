@@ -1,1 +1,38 @@
-{"y_coordinate": "1900665", "year": "2013", "domestic": false, "case_number": "HW286231", "id": "9142192", "primary_type": "THEFT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63224326423843, 41.88280793682583]}, "community_area": "32", "latitude": "41.88280793682583", "type": "property", "description": "FROM BUILDING", "beat": "0122", "date": {"$date": 1369227600000}, "ward": "42", "_id": {"$oid": "51a7708c3c002ed20d78ac5e"}, "iucr": "890", "longitude": "-87.63224326423843", "location_description": "COMMERCIAL / BUSINESS OFFICE", "x_coordinate": "1175165", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "0000X N LA SALLE ST"}
+{
+    "y_coordinate": "1900665", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286231", 
+    "id": "9142192", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63224326423843, 
+            41.88280793682583
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88280793682583", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0122", 
+    "date": {
+        "$date": 1369227600000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac5e"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.63224326423843", 
+    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
+    "x_coordinate": "1175165", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "0000X N LA SALLE ST"
+}

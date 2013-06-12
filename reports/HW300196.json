@@ -1,1 +1,38 @@
-{"y_coordinate": "1893869", "year": "2013", "domestic": false, "case_number": "HW300196", "id": "9154908", "primary_type": "THEFT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61894171204779, 41.86407606871088]}, "community_area": "33", "latitude": "41.86407606871088", "type": "property", "description": "$500 AND UNDER", "beat": "0132", "date": {"$date": 1370088000000}, "ward": "2", "_id": {"$oid": "51b5f1203c002ed20d78d106"}, "iucr": "820", "longitude": "-87.61894171204779", "location_description": "PARK PROPERTY", "x_coordinate": "1178844", "updated_on": {"$date": 1370306580000}, "fbi_code": "06", "block": "014XX S LAKE SHORE DR E"}
+{
+    "y_coordinate": "1893869", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300196", 
+    "id": "9154908", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61894171204779, 
+            41.86407606871088
+        ]
+    }, 
+    "community_area": "33", 
+    "latitude": "41.86407606871088", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0132", 
+    "date": {
+        "$date": 1370088000000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d106"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.61894171204779", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1178844", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "06", 
+    "block": "014XX S LAKE SHORE DR E"
+}

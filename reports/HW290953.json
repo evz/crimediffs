@@ -1,1 +1,38 @@
-{"y_coordinate": "1882260", "year": "2013", "domestic": false, "case_number": "HW290953", "id": "9145498", "primary_type": "OTHER OFFENSE", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64599616352051, 41.83238306911104]}, "community_area": "60", "latitude": "41.83238306911104", "type": null, "description": "OTHER VEHICLE OFFENSE", "beat": "0915", "date": {"$date": 1369518480000}, "ward": "11", "_id": {"$oid": "51b34a0e3c002ed20d78c8f7"}, "iucr": "5002", "longitude": "-87.64599616352051", "location_description": "STREET", "x_coordinate": "1171567", "updated_on": {"$date": 1369701613000}, "fbi_code": "26", "block": "034XX S HALSTED ST"}
+{
+    "y_coordinate": "1882260", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290953", 
+    "id": "9145498", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64599616352051, 
+            41.83238306911104
+        ]
+    }, 
+    "community_area": "60", 
+    "latitude": "41.83238306911104", 
+    "type": null, 
+    "description": "OTHER VEHICLE OFFENSE", 
+    "beat": "0915", 
+    "date": {
+        "$date": 1369518480000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c8f7"
+    }, 
+    "iucr": "5002", 
+    "longitude": "-87.64599616352051", 
+    "location_description": "STREET", 
+    "x_coordinate": "1171567", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "26", 
+    "block": "034XX S HALSTED ST"
+}

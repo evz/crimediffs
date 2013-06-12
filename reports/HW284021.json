@@ -1,1 +1,38 @@
-{"y_coordinate": "1932485", "year": "2013", "domestic": false, "case_number": "HW284021", "id": "9138725", "primary_type": "MOTOR VEHICLE THEFT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75362649006462, 41.970806160883235]}, "community_area": "11", "latitude": "41.970806160883235", "type": "property", "description": "AUTOMOBILE", "beat": "1623", "date": {"$date": 1369087200000}, "ward": "45", "_id": {"$oid": "51a4cd8d3c002ed20d78a37b"}, "iucr": "910", "longitude": "-87.75362649006462", "location_description": "STREET", "x_coordinate": "1141894", "updated_on": {"$date": 1369787985000}, "fbi_code": "07", "block": "050XX W STRONG ST"}
+{
+    "y_coordinate": "1932485", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284021", 
+    "id": "9138725", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75362649006462, 
+            41.970806160883235
+        ]
+    }, 
+    "community_area": "11", 
+    "latitude": "41.970806160883235", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1623", 
+    "date": {
+        "$date": 1369087200000
+    }, 
+    "ward": "45", 
+    "_id": {
+        "$oid": "51a4cd8d3c002ed20d78a37b"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.75362649006462", 
+    "location_description": "STREET", 
+    "x_coordinate": "1141894", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "07", 
+    "block": "050XX W STRONG ST"
+}

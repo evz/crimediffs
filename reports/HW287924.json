@@ -1,1 +1,38 @@
-{"y_coordinate": "1922983", "year": "2013", "domestic": false, "case_number": "HW287924", "id": "9143069", "primary_type": "BURGLARY", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.78768977817072, 41.94489758011909]}, "community_area": "17", "latitude": "41.94489758011909", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1632", "date": {"$date": 1369300800000}, "ward": "36", "_id": {"$oid": "51aa13983c002ed20d78b3d9"}, "iucr": "610", "longitude": "-87.78768977817072", "location_description": "RESIDENCE", "x_coordinate": "1132691", "updated_on": {"$date": 1369528777000}, "fbi_code": "05", "block": "035XX N NAGLE AVE"}
+{
+    "y_coordinate": "1922983", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287924", 
+    "id": "9143069", 
+    "primary_type": "BURGLARY", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78768977817072, 
+            41.94489758011909
+        ]
+    }, 
+    "community_area": "17", 
+    "latitude": "41.94489758011909", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1632", 
+    "date": {
+        "$date": 1369300800000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3d9"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.78768977817072", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1132691", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "05", 
+    "block": "035XX N NAGLE AVE"
+}

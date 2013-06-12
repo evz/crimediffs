@@ -1,1 +1,38 @@
-{"y_coordinate": "1886541", "year": "2013", "domestic": false, "case_number": "HW285982", "id": "9141091", "primary_type": "ASSAULT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62858942155638, 41.84402577456234]}, "community_area": "35", "latitude": "41.84402577456234", "type": "violent", "description": "AGG PRO.EMP: OTHER DANG WEAPON", "beat": "0133", "date": {"$date": 1369224900000}, "ward": "3", "_id": {"$oid": "51a7708c3c002ed20d78ac6f"}, "iucr": "558", "longitude": "-87.62858942155638", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1176276", "updated_on": {"$date": 1369442383000}, "fbi_code": "04A", "block": "027XX S DEARBORN ST"}
+{
+    "y_coordinate": "1886541", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285982", 
+    "id": "9141091", 
+    "primary_type": "ASSAULT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62858942155638, 
+            41.84402577456234
+        ]
+    }, 
+    "community_area": "35", 
+    "latitude": "41.84402577456234", 
+    "type": "violent", 
+    "description": "AGG PRO.EMP: OTHER DANG WEAPON", 
+    "beat": "0133", 
+    "date": {
+        "$date": 1369224900000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac6f"
+    }, 
+    "iucr": "558", 
+    "longitude": "-87.62858942155638", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1176276", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "04A", 
+    "block": "027XX S DEARBORN ST"
+}

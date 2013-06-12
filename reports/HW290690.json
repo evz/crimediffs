@@ -1,1 +1,38 @@
-{"y_coordinate": "1868454", "year": "2013", "domestic": false, "case_number": "HW290690", "id": "9145294", "primary_type": "NARCOTICS", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.61844061318364, 41.79432742481449]}, "community_area": "40", "latitude": "41.79432742481449", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0231", "date": {"$date": 1369501500000}, "ward": "3", "_id": {"$oid": "51b34a0f3c002ed20d78c9be"}, "iucr": "1811", "longitude": "-87.61844061318364", "location_description": "CTA PLATFORM", "x_coordinate": "1179192", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "003XX E GARFIELD BLVD"}
+{
+    "y_coordinate": "1868454", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290690", 
+    "id": "9145294", 
+    "primary_type": "NARCOTICS", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61844061318364, 
+            41.79432742481449
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.79432742481449", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0231", 
+    "date": {
+        "$date": 1369501500000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c9be"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.61844061318364", 
+    "location_description": "CTA PLATFORM", 
+    "x_coordinate": "1179192", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "003XX E GARFIELD BLVD"
+}

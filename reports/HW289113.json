@@ -1,1 +1,38 @@
-{"y_coordinate": "1856308", "year": "2013", "domestic": true, "case_number": "HW289113", "id": "9144152", "primary_type": "ASSAULT", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68790463537508, 41.76140650077976]}, "community_area": "66", "latitude": "41.76140650077976", "type": null, "description": "SIMPLE", "beat": "0832", "date": {"$date": 1369405800000}, "ward": "18", "_id": {"$oid": "51aa13913c002ed20d78afeb"}, "iucr": "560", "longitude": "-87.68790463537508", "location_description": "RESIDENCE", "x_coordinate": "1160340", "updated_on": {"$date": 1369701613000}, "fbi_code": "08A", "block": "072XX S ROCKWELL ST"}
+{
+    "y_coordinate": "1856308", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289113", 
+    "id": "9144152", 
+    "primary_type": "ASSAULT", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68790463537508, 
+            41.76140650077976
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.76140650077976", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0832", 
+    "date": {
+        "$date": 1369405800000
+    }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78afeb"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.68790463537508", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1160340", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08A", 
+    "block": "072XX S ROCKWELL ST"
+}

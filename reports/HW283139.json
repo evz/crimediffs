@@ -1,1 +1,38 @@
-{"y_coordinate": "1936376", "year": "2013", "domestic": false, "case_number": "HW283139", "id": "9137842", "primary_type": "NARCOTICS", "district": "020", "arrest": true, "location": {"type": "Point", "coordinates": [-87.69831601353789, 41.981191232060624]}, "community_area": "4", "latitude": "41.981191232060624", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "2011", "date": {"$date": 1369062780000}, "ward": "40", "_id": {"$oid": "51a4cd913c002ed20d78a4d0"}, "iucr": "1811", "longitude": "-87.69831601353789", "location_description": "STREET", "x_coordinate": "1156907", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "027XX W CATALPA AVE"}
+{
+    "y_coordinate": "1936376", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283139", 
+    "id": "9137842", 
+    "primary_type": "NARCOTICS", 
+    "district": "020", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69831601353789, 
+            41.981191232060624
+        ]
+    }, 
+    "community_area": "4", 
+    "latitude": "41.981191232060624", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "2011", 
+    "date": {
+        "$date": 1369062780000
+    }, 
+    "ward": "40", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a4d0"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.69831601353789", 
+    "location_description": "STREET", 
+    "x_coordinate": "1156907", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "027XX W CATALPA AVE"
+}

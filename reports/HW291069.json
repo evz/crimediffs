@@ -1,1 +1,38 @@
-{"y_coordinate": "1910625", "year": "2013", "domestic": true, "case_number": "HW291069", "id": "9145602", "primary_type": "OTHER OFFENSE", "district": "025", "arrest": true, "location": {"type": "Point", "coordinates": [-87.77387529453975, 41.91091791952998]}, "community_area": "25", "latitude": "41.91091791952998", "type": null, "description": "VIOLATE ORDER OF PROTECTION", "beat": "2531", "date": {"$date": 1369525500000}, "ward": "29", "_id": {"$oid": "51b34a0d3c002ed20d78c8ab"}, "iucr": "4387", "longitude": "-87.77387529453975", "location_description": "STREET", "x_coordinate": "1136530", "updated_on": {"$date": 1369787985000}, "fbi_code": "26", "block": "016XX N MASON AVE"}
+{
+    "y_coordinate": "1910625", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW291069", 
+    "id": "9145602", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "025", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77387529453975, 
+            41.91091791952998
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.91091791952998", 
+    "type": null, 
+    "description": "VIOLATE ORDER OF PROTECTION", 
+    "beat": "2531", 
+    "date": {
+        "$date": 1369525500000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c8ab"
+    }, 
+    "iucr": "4387", 
+    "longitude": "-87.77387529453975", 
+    "location_description": "STREET", 
+    "x_coordinate": "1136530", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "26", 
+    "block": "016XX N MASON AVE"
+}

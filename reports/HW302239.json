@@ -1,1 +1,38 @@
-{"y_coordinate": "1862376", "year": "2013", "domestic": false, "case_number": "HW302239", "id": "9156609", "primary_type": "THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70368875161702, 41.77814649763419]}, "community_area": "66", "latitude": "41.77814649763419", "type": "property", "description": "POCKET-PICKING", "beat": "0823", "date": {"$date": 1370172600000}, "ward": "15", "_id": {"$oid": "51b5f11b3c002ed20d78cde2"}, "iucr": "870", "longitude": "-87.70368875161702", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1155989", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "032XX W 63RD PL"}
+{
+    "y_coordinate": "1862376", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302239", 
+    "id": "9156609", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70368875161702, 
+            41.77814649763419
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.77814649763419", 
+    "type": "property", 
+    "description": "POCKET-PICKING", 
+    "beat": "0823", 
+    "date": {
+        "$date": 1370172600000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cde2"
+    }, 
+    "iucr": "870", 
+    "longitude": "-87.70368875161702", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1155989", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "032XX W 63RD PL"
+}

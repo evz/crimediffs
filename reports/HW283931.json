@@ -1,1 +1,38 @@
-{"y_coordinate": "1910481", "year": "2013", "domestic": false, "case_number": "HW283931", "id": "9141847", "primary_type": "BATTERY", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67711876283198, 41.91001057488156]}, "community_area": "24", "latitude": "41.91001057488156", "type": null, "description": "SIMPLE", "beat": "1424", "date": {"$date": 1369108500000}, "ward": "1", "_id": {"$oid": "51a4cd8a3c002ed20d78a2f6"}, "iucr": "460", "longitude": "-87.67711876283198", "location_description": "STREET", "x_coordinate": "1162869", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "015XX N MILWAUKEE AVE"}
+{
+    "y_coordinate": "1910481", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283931", 
+    "id": "9141847", 
+    "primary_type": "BATTERY", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67711876283198, 
+            41.91001057488156
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.91001057488156", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1424", 
+    "date": {
+        "$date": 1369108500000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51a4cd8a3c002ed20d78a2f6"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.67711876283198", 
+    "location_description": "STREET", 
+    "x_coordinate": "1162869", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "015XX N MILWAUKEE AVE"
+}

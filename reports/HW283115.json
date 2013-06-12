@@ -1,1 +1,38 @@
-{"y_coordinate": "1867329", "year": "2013", "domestic": false, "case_number": "HW283115", "id": "9137806", "primary_type": "CRIMINAL DAMAGE", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61848224997166, 41.791240365091824]}, "community_area": "40", "latitude": "41.791240365091824", "type": "quality", "description": "CRIMINAL DEFACEMENT", "beat": "0231", "date": {"$date": 1369062000000}, "ward": "20", "_id": {"$oid": "51a4cd913c002ed20d78a4e1"}, "iucr": "1305", "longitude": "-87.61848224997166", "location_description": "OTHER", "x_coordinate": "1179190", "updated_on": {"$date": 1369269615000}, "fbi_code": "14", "block": "003XX E 57TH ST"}
+{
+    "y_coordinate": "1867329", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283115", 
+    "id": "9137806", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61848224997166, 
+            41.791240365091824
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.791240365091824", 
+    "type": "quality", 
+    "description": "CRIMINAL DEFACEMENT", 
+    "beat": "0231", 
+    "date": {
+        "$date": 1369062000000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a4e1"
+    }, 
+    "iucr": "1305", 
+    "longitude": "-87.61848224997166", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1179190", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "14", 
+    "block": "003XX E 57TH ST"
+}

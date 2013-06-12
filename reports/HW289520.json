@@ -1,1 +1,38 @@
-{"y_coordinate": "1853716", "year": "2013", "domestic": false, "case_number": "HW289520", "id": "9144358", "primary_type": "ASSAULT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55715950740726, 41.75348439959703]}, "community_area": "43", "latitude": "41.75348439959703", "type": null, "description": "SIMPLE", "beat": "0421", "date": {"$date": 1369421700000}, "ward": "7", "_id": {"$oid": "51aa138e3c002ed20d78af11"}, "iucr": "560", "longitude": "-87.55715950740726", "location_description": "SIDEWALK", "x_coordinate": "1196037", "updated_on": {"$date": 1369874559000}, "fbi_code": "08A", "block": "078XX S BURNHAM AVE"}
+{
+    "y_coordinate": "1853716", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289520", 
+    "id": "9144358", 
+    "primary_type": "ASSAULT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55715950740726, 
+            41.75348439959703
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.75348439959703", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0421", 
+    "date": {
+        "$date": 1369421700000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51aa138e3c002ed20d78af11"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.55715950740726", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1196037", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "08A", 
+    "block": "078XX S BURNHAM AVE"
+}

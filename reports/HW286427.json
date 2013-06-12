@@ -1,1 +1,38 @@
-{"y_coordinate": "1918388", "year": "2013", "domestic": false, "case_number": "HW286427", "id": "9141611", "primary_type": "ASSAULT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.79810916091903, 41.932336911525276]}, "community_area": "18", "latitude": "41.932336911525276", "type": null, "description": "SIMPLE", "beat": "2511", "date": {"$date": 1369234800000}, "ward": "36", "_id": {"$oid": "51a7708b3c002ed20d78abed"}, "iucr": "560", "longitude": "-87.79810916091903", "location_description": "STREET", "x_coordinate": "1129885", "updated_on": {"$date": 1369442383000}, "fbi_code": "08A", "block": "028XX N NEW ENGLAND AVE"}
+{
+    "y_coordinate": "1918388", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286427", 
+    "id": "9141611", 
+    "primary_type": "ASSAULT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.79810916091903, 
+            41.932336911525276
+        ]
+    }, 
+    "community_area": "18", 
+    "latitude": "41.932336911525276", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2511", 
+    "date": {
+        "$date": 1369234800000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78abed"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.79810916091903", 
+    "location_description": "STREET", 
+    "x_coordinate": "1129885", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08A", 
+    "block": "028XX N NEW ENGLAND AVE"
+}

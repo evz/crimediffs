@@ -1,1 +1,38 @@
-{"y_coordinate": "1923792", "year": "2013", "domestic": false, "case_number": "HW304273", "id": "9159151", "primary_type": "THEFT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76033405717538, 41.94698438965524]}, "community_area": "15", "latitude": "41.94698438965524", "type": "property", "description": "FINANCIAL ID THEFT:$300 &UNDER", "beat": "1634", "date": {"$date": 1370278800000}, "ward": "38", "_id": {"$oid": "51b7429b3c002ed20d78d362"}, "iucr": "841", "longitude": "-87.76033405717538", "location_description": "RESIDENCE", "x_coordinate": "1140128", "updated_on": {"$date": 1370651988000}, "fbi_code": "06", "block": "053XX W PATTERSON AVE"}
+{
+    "y_coordinate": "1923792", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW304273", 
+    "id": "9159151", 
+    "primary_type": "THEFT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76033405717538, 
+            41.94698438965524
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.94698438965524", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT:$300 &UNDER", 
+    "beat": "1634", 
+    "date": {
+        "$date": 1370278800000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51b7429b3c002ed20d78d362"
+    }, 
+    "iucr": "841", 
+    "longitude": "-87.76033405717538", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1140128", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "06", 
+    "block": "053XX W PATTERSON AVE"
+}

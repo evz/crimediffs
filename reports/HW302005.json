@@ -1,1 +1,38 @@
-{"y_coordinate": "1900884", "year": "2013", "domestic": false, "case_number": "HW302005", "id": "9156360", "primary_type": "CRIMINAL DAMAGE", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77268007401972, 41.884180418989466]}, "community_area": "25", "latitude": "41.884180418989466", "type": "quality", "description": "TO VEHICLE", "beat": "1512", "date": {"$date": 1370208600000}, "ward": "29", "_id": {"$oid": "51b5f1173c002ed20d78cc41"}, "iucr": "1320", "longitude": "-87.77268007401972", "location_description": "STREET", "x_coordinate": "1136919", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "059XX W WEST END AVE"}
+{
+    "y_coordinate": "1900884", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302005", 
+    "id": "9156360", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77268007401972, 
+            41.884180418989466
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.884180418989466", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1512", 
+    "date": {
+        "$date": 1370208600000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51b5f1173c002ed20d78cc41"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.77268007401972", 
+    "location_description": "STREET", 
+    "x_coordinate": "1136919", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "059XX W WEST END AVE"
+}

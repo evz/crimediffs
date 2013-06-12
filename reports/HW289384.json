@@ -1,1 +1,38 @@
-{"y_coordinate": "1931012", "year": "2013", "domestic": false, "case_number": "HW289384", "id": "9144392", "primary_type": "BATTERY", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72169996093004, 41.96659829021507]}, "community_area": "14", "latitude": "41.96659829021507", "type": null, "description": "SIMPLE", "beat": "1723", "date": {"$date": 1369394400000}, "ward": "39", "_id": {"$oid": "51aa13923c002ed20d78b08d"}, "iucr": "460", "longitude": "-87.72169996093004", "location_description": "SIDEWALK", "x_coordinate": "1150587", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "037XX W LELAND AVE"}
+{
+    "y_coordinate": "1931012", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289384", 
+    "id": "9144392", 
+    "primary_type": "BATTERY", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72169996093004, 
+            41.96659829021507
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.96659829021507", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1723", 
+    "date": {
+        "$date": 1369394400000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b08d"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.72169996093004", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1150587", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "037XX W LELAND AVE"
+}

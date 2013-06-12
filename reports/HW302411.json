@@ -1,1 +1,38 @@
-{"y_coordinate": "1908879", "year": "2013", "domestic": false, "case_number": "HW302411", "id": "9156902", "primary_type": "THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76594211074772, 41.906087555536246]}, "community_area": "25", "latitude": "41.906087555536246", "type": "property", "description": "$500 AND UNDER", "beat": "2531", "date": {"$date": 1370215800000}, "ward": "29", "_id": {"$oid": "51b5f1153c002ed20d78cbf7"}, "iucr": "820", "longitude": "-87.76594211074772", "location_description": "RESIDENCE", "x_coordinate": "1138701", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "014XX N CENTRAL AVE"}
+{
+    "y_coordinate": "1908879", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302411", 
+    "id": "9156902", 
+    "primary_type": "THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76594211074772, 
+            41.906087555536246
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.906087555536246", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2531", 
+    "date": {
+        "$date": 1370215800000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbf7"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.76594211074772", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1138701", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "014XX N CENTRAL AVE"
+}

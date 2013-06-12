@@ -1,1 +1,38 @@
-{"y_coordinate": "1921061", "year": "2013", "domestic": false, "case_number": "HW287139", "id": "9142161", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65055791531759, 41.93888959630604]}, "community_area": "6", "latitude": "41.93888959630604", "type": "property", "description": "$500 AND UNDER", "beat": "1933", "date": {"$date": 1369267260000}, "ward": "44", "_id": {"$oid": "51a770873c002ed20d78aa50"}, "iucr": "820", "longitude": "-87.65055791531759", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1170015", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "008XX W FLETCHER ST"}
+{
+    "y_coordinate": "1921061", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287139", 
+    "id": "9142161", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65055791531759, 
+            41.93888959630604
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.93888959630604", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1933", 
+    "date": {
+        "$date": 1369267260000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51a770873c002ed20d78aa50"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.65055791531759", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1170015", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "008XX W FLETCHER ST"
+}

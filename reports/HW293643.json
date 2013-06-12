@@ -1,1 +1,38 @@
-{"y_coordinate": "1844587", "year": "2013", "domestic": false, "case_number": "HW293643", "id": "9147701", "primary_type": "CRIMINAL DAMAGE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.54920810262318, 41.72837766697505]}, "community_area": "46", "latitude": "41.72837766697505", "type": "quality", "description": "TO PROPERTY", "beat": "0424", "date": {"$date": 1369429200000}, "ward": "10", "_id": {"$oid": "51aa138d3c002ed20d78ae97"}, "iucr": "1310", "longitude": "-87.54920810262318", "location_description": "DAY CARE CENTER", "x_coordinate": "1198290", "updated_on": {"$date": 1369960832000}, "fbi_code": "14", "block": "030XX E 92ND ST"}
+{
+    "y_coordinate": "1844587", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293643", 
+    "id": "9147701", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.54920810262318, 
+            41.72837766697505
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.72837766697505", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0424", 
+    "date": {
+        "$date": 1369429200000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78ae97"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.54920810262318", 
+    "location_description": "DAY CARE CENTER", 
+    "x_coordinate": "1198290", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "14", 
+    "block": "030XX E 92ND ST"
+}

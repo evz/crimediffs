@@ -1,1 +1,38 @@
-{"y_coordinate": "1905993", "year": "2013", "domestic": false, "case_number": "HW285910", "id": "9140720", "primary_type": "NARCOTICS", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.758280620282, 41.89812956673772]}, "community_area": "25", "latitude": "41.89812956673772", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "1524", "date": {"$date": 1369223520000}, "ward": "37", "_id": {"$oid": "51a7708c3c002ed20d78ac88"}, "iucr": "2024", "longitude": "-87.758280620282", "location_description": "SIDEWALK", "x_coordinate": "1140806", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "009XX N LOCKWOOD AVE"}
+{
+    "y_coordinate": "1905993", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285910", 
+    "id": "9140720", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.758280620282, 
+            41.89812956673772
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.89812956673772", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "1524", 
+    "date": {
+        "$date": 1369223520000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac88"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.758280620282", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1140806", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "009XX N LOCKWOOD AVE"
+}

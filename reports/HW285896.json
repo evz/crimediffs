@@ -1,1 +1,38 @@
-{"y_coordinate": "1906342", "year": "2013", "domestic": false, "case_number": "HW285896", "id": "9141171", "primary_type": "THEFT", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76356852669876, 41.89911366564595]}, "community_area": "25", "latitude": "41.89911366564595", "type": "property", "description": "$500 AND UNDER", "beat": "1524", "date": {"$date": 1369206000000}, "ward": "37", "_id": {"$oid": "51a7708d3c002ed20d78ad1b"}, "iucr": "820", "longitude": "-87.76356852669876", "location_description": "STREET", "x_coordinate": "1139364", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "010XX N PINE AVE"}
+{
+    "y_coordinate": "1906342", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285896", 
+    "id": "9141171", 
+    "primary_type": "THEFT", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76356852669876, 
+            41.89911366564595
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.89911366564595", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1524", 
+    "date": {
+        "$date": 1369206000000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad1b"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.76356852669876", 
+    "location_description": "STREET", 
+    "x_coordinate": "1139364", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "010XX N PINE AVE"
+}

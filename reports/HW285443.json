@@ -1,1 +1,38 @@
-{"y_coordinate": "1859025", "year": "2013", "domestic": false, "case_number": "HW285443", "id": "9140101", "primary_type": "ARSON", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.5707438082001, 41.76814482922177]}, "community_area": "43", "latitude": "41.76814482922177", "type": "property", "description": "ATTEMPT ARSON", "beat": "0331", "date": {"$date": 1369186200000}, "ward": "5", "_id": {"$oid": "51a61f063c002ed20d78a697"}, "iucr": "1090", "longitude": "-87.5707438082001", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1192283", "updated_on": {"$date": 1369442383000}, "fbi_code": "09", "block": "022XX E 70TH ST"}
+{
+    "y_coordinate": "1859025", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285443", 
+    "id": "9140101", 
+    "primary_type": "ARSON", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5707438082001, 
+            41.76814482922177
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76814482922177", 
+    "type": "property", 
+    "description": "ATTEMPT ARSON", 
+    "beat": "0331", 
+    "date": {
+        "$date": 1369186200000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51a61f063c002ed20d78a697"
+    }, 
+    "iucr": "1090", 
+    "longitude": "-87.5707438082001", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1192283", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "09", 
+    "block": "022XX E 70TH ST"
+}

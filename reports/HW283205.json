@@ -1,1 +1,38 @@
-{"y_coordinate": "1910187", "year": "2013", "domestic": false, "case_number": "HW283205", "id": "9137902", "primary_type": "BATTERY", "district": "018", "arrest": true, "location": {"type": "Point", "coordinates": [-87.63867258519188, 41.908977623396794]}, "community_area": "8", "latitude": "41.908977623396794", "type": null, "description": "SIMPLE", "beat": "1821", "date": {"$date": 1369066200000}, "ward": "27", "_id": {"$oid": "51a4cd903c002ed20d78a4a2"}, "iucr": "460", "longitude": "-87.63867258519188", "location_description": "APARTMENT", "x_coordinate": "1173337", "updated_on": {"$date": 1369269615000}, "fbi_code": "08B", "block": "014XX N SEDGWICK ST"}
+{
+    "y_coordinate": "1910187", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283205", 
+    "id": "9137902", 
+    "primary_type": "BATTERY", 
+    "district": "018", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63867258519188, 
+            41.908977623396794
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.908977623396794", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1821", 
+    "date": {
+        "$date": 1369066200000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a4a2"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.63867258519188", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1173337", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "08B", 
+    "block": "014XX N SEDGWICK ST"
+}

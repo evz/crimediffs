@@ -1,1 +1,38 @@
-{"y_coordinate": "1893074", "year": "2013", "domestic": false, "case_number": "HW288750", "id": "9143774", "primary_type": "NARCOTICS", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.73160241719289, 41.86253991858656]}, "community_area": "29", "latitude": "41.86253991858656", "type": "quality", "description": "POSS: CRACK", "beat": "1011", "date": {"$date": 1369393680000}, "ward": "24", "_id": {"$oid": "51aa13923c002ed20d78b092"}, "iucr": "2027", "longitude": "-87.73160241719289", "location_description": "SIDEWALK", "x_coordinate": "1148160", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "042XX W 14TH ST"}
+{
+    "y_coordinate": "1893074", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288750", 
+    "id": "9143774", 
+    "primary_type": "NARCOTICS", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73160241719289, 
+            41.86253991858656
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.86253991858656", 
+    "type": "quality", 
+    "description": "POSS: CRACK", 
+    "beat": "1011", 
+    "date": {
+        "$date": 1369393680000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b092"
+    }, 
+    "iucr": "2027", 
+    "longitude": "-87.73160241719289", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1148160", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "042XX W 14TH ST"
+}

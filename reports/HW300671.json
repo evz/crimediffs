@@ -1,1 +1,38 @@
-{"y_coordinate": "1865538", "year": "2013", "domestic": false, "case_number": "HW300671", "id": "9159584", "primary_type": "MOTOR VEHICLE THEFT", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66634804983094, 41.786613226945725]}, "community_area": "67", "latitude": "41.786613226945725", "type": "property", "description": "AUTOMOBILE", "beat": "0714", "date": {"$date": 1370132940000}, "ward": "15", "_id": {"$oid": "51b5f11d3c002ed20d78cef0"}, "iucr": "910", "longitude": "-87.66634804983094", "location_description": "STREET", "x_coordinate": "1166150", "updated_on": {"$date": 1370565766000}, "fbi_code": "07", "block": "016XX W 59TH ST"}
+{
+    "y_coordinate": "1865538", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300671", 
+    "id": "9159584", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66634804983094, 
+            41.786613226945725
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.786613226945725", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0714", 
+    "date": {
+        "$date": 1370132940000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78cef0"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.66634804983094", 
+    "location_description": "STREET", 
+    "x_coordinate": "1166150", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "07", 
+    "block": "016XX W 59TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1906914", "year": "2013", "domestic": true, "case_number": "HW284360", "id": "9139189", "primary_type": "BATTERY", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69513974473035, 41.90032345997092]}, "community_area": "24", "latitude": "41.90032345997092", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1211", "date": {"$date": 1369126800000}, "ward": "1", "_id": {"$oid": "51a61f0f3c002ed20d78a975"}, "iucr": "486", "longitude": "-87.69513974473035", "location_description": "APARTMENT", "x_coordinate": "1157990", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "027XX W CORTEZ ST"}
+{
+    "y_coordinate": "1906914", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW284360", 
+    "id": "9139189", 
+    "primary_type": "BATTERY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69513974473035, 
+            41.90032345997092
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.90032345997092", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1211", 
+    "date": {
+        "$date": 1369126800000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a975"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.69513974473035", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1157990", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "027XX W CORTEZ ST"
+}

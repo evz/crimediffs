@@ -1,1 +1,38 @@
-{"y_coordinate": "1874156", "year": "2013", "domestic": false, "case_number": "HW287671", "id": "9142742", "primary_type": "MOTOR VEHICLE THEFT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70146130070148, 41.81046198074756]}, "community_area": "58", "latitude": "41.81046198074756", "type": "property", "description": "AUTOMOBILE", "beat": "0922", "date": {"$date": 1369152000000}, "ward": "14", "_id": {"$oid": "51a61f0c3c002ed20d78a83e"}, "iucr": "910", "longitude": "-87.70146130070148", "location_description": "STREET", "x_coordinate": "1156510", "updated_on": {"$date": 1370565766000}, "fbi_code": "07", "block": "045XX S ALBANY AVE"}
+{
+    "y_coordinate": "1874156", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287671", 
+    "id": "9142742", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70146130070148, 
+            41.81046198074756
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.81046198074756", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0922", 
+    "date": {
+        "$date": 1369152000000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51a61f0c3c002ed20d78a83e"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.70146130070148", 
+    "location_description": "STREET", 
+    "x_coordinate": "1156510", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "07", 
+    "block": "045XX S ALBANY AVE"
+}

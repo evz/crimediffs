@@ -1,1 +1,38 @@
-{"y_coordinate": "1862929", "year": "2013", "domestic": false, "case_number": "HW307468", "id": "9162681", "primary_type": "CRIMINAL DAMAGE", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73026466722818, 41.77980667330237]}, "community_area": "65", "latitude": "41.77980667330237", "type": "quality", "description": "TO PROPERTY", "beat": "0813", "date": {"$date": 1370185200000}, "ward": "13", "_id": {"$oid": "51b5f11a3c002ed20d78cd58"}, "iucr": "1310", "longitude": "-87.73026466722818", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1148736", "updated_on": {"$date": 1370738354000}, "fbi_code": "14", "block": "062XX S KILDARE AVE"}
+{
+    "y_coordinate": "1862929", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW307468", 
+    "id": "9162681", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73026466722818, 
+            41.77980667330237
+        ]
+    }, 
+    "community_area": "65", 
+    "latitude": "41.77980667330237", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0813", 
+    "date": {
+        "$date": 1370185200000
+    }, 
+    "ward": "13", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd58"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.73026466722818", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1148736", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "14", 
+    "block": "062XX S KILDARE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1908388", "year": "2013", "domestic": false, "case_number": "HW284708", "id": "9139497", "primary_type": "WEAPONS VIOLATION", "district": "014", "arrest": true, "location": {"type": "Point", "coordinates": [-87.67557236355314, 41.904258047431604]}, "community_area": "24", "latitude": "41.904258047431604", "type": null, "description": "UNLAWFUL USE OTHER DANG WEAPON", "beat": "1424", "date": {"$date": 1369150680000}, "ward": "1", "_id": {"$oid": "51a61f0c3c002ed20d78a85a"}, "iucr": "141C", "longitude": "-87.67557236355314", "location_description": "SIDEWALK", "x_coordinate": "1163306", "updated_on": {"$date": 1369356045000}, "fbi_code": "15", "block": "019XX W CRYSTAL ST"}
+{
+    "y_coordinate": "1908388", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284708", 
+    "id": "9139497", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "014", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67557236355314, 
+            41.904258047431604
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.904258047431604", 
+    "type": null, 
+    "description": "UNLAWFUL USE OTHER DANG WEAPON", 
+    "beat": "1424", 
+    "date": {
+        "$date": 1369150680000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51a61f0c3c002ed20d78a85a"
+    }, 
+    "iucr": "141C", 
+    "longitude": "-87.67557236355314", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1163306", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "15", 
+    "block": "019XX W CRYSTAL ST"
+}

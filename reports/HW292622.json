@@ -1,1 +1,38 @@
-{"y_coordinate": "1909237", "year": "2013", "domestic": false, "case_number": "HW292622", "id": "9146965", "primary_type": "THEFT", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67172812304624, 41.90656581712994]}, "community_area": "24", "latitude": "41.90656581712994", "type": "property", "description": "OVER $500", "beat": "1424", "date": {"$date": 1369360800000}, "ward": "1", "_id": {"$oid": "51aa13943c002ed20d78b154"}, "iucr": "810", "longitude": "-87.67172812304624", "location_description": "SIDEWALK", "x_coordinate": "1164346", "updated_on": {"$date": 1369960832000}, "fbi_code": "06", "block": "013XX N MILWAUKEE AVE"}
+{
+    "y_coordinate": "1909237", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW292622", 
+    "id": "9146965", 
+    "primary_type": "THEFT", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67172812304624, 
+            41.90656581712994
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.90656581712994", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1424", 
+    "date": {
+        "$date": 1369360800000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b154"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.67172812304624", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1164346", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "06", 
+    "block": "013XX N MILWAUKEE AVE"
+}

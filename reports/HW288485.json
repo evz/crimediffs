@@ -1,1 +1,38 @@
-{"y_coordinate": "1911104", "year": "2013", "domestic": false, "case_number": "HW288485", "id": "9143455", "primary_type": "CRIMINAL DAMAGE", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69595467169091, 41.91182632965801]}, "community_area": "24", "latitude": "41.91182632965801", "type": "quality", "description": "TO VEHICLE", "beat": "1421", "date": {"$date": 1369339200000}, "ward": "1", "_id": {"$oid": "51aa13953c002ed20d78b21b"}, "iucr": "1320", "longitude": "-87.69595467169091", "location_description": "STREET", "x_coordinate": "1157737", "updated_on": {"$date": 1369528777000}, "fbi_code": "14", "block": "016XX N FAIRFIELD AVE"}
+{
+    "y_coordinate": "1911104", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288485", 
+    "id": "9143455", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69595467169091, 
+            41.91182632965801
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.91182632965801", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1421", 
+    "date": {
+        "$date": 1369339200000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b21b"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.69595467169091", 
+    "location_description": "STREET", 
+    "x_coordinate": "1157737", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "14", 
+    "block": "016XX N FAIRFIELD AVE"
+}

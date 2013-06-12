@@ -1,1 +1,38 @@
-{"y_coordinate": "1921055", "year": "2013", "domestic": false, "case_number": "HW301696", "id": "9155890", "primary_type": "ASSAULT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77172870915773, 41.93952975796162]}, "community_area": "15", "latitude": "41.93952975796162", "type": null, "description": "SIMPLE", "beat": "1633", "date": {"$date": 1370205900000}, "ward": "38", "_id": {"$oid": "51b5f1173c002ed20d78cc63"}, "iucr": "560", "longitude": "-87.77172870915773", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1137046", "updated_on": {"$date": 1370479286000}, "fbi_code": "08A", "block": "058XX W MELROSE ST"}
+{
+    "y_coordinate": "1921055", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301696", 
+    "id": "9155890", 
+    "primary_type": "ASSAULT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77172870915773, 
+            41.93952975796162
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.93952975796162", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1633", 
+    "date": {
+        "$date": 1370205900000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51b5f1173c002ed20d78cc63"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.77172870915773", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1137046", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08A", 
+    "block": "058XX W MELROSE ST"
+}

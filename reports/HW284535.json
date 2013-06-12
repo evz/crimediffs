@@ -1,1 +1,38 @@
-{"y_coordinate": "1873787", "year": "2013", "domestic": false, "case_number": "HW284535", "id": "9139341", "primary_type": "NARCOTICS", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66484055534076, 41.80924206356962]}, "community_area": "61", "latitude": "41.80924206356962", "type": "quality", "description": "SOLICIT NARCOTICS ON PUBLICWAY", "beat": "0924", "date": {"$date": 1369144800000}, "ward": "3", "_id": {"$oid": "51a61f0d3c002ed20d78a8a2"}, "iucr": "2092", "longitude": "-87.66484055534076", "location_description": "SIDEWALK", "x_coordinate": "1166497", "updated_on": {"$date": 1369528777000}, "fbi_code": "26", "block": "046XX S ASHLAND AVE"}
+{
+    "y_coordinate": "1873787", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284535", 
+    "id": "9139341", 
+    "primary_type": "NARCOTICS", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66484055534076, 
+            41.80924206356962
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.80924206356962", 
+    "type": "quality", 
+    "description": "SOLICIT NARCOTICS ON PUBLICWAY", 
+    "beat": "0924", 
+    "date": {
+        "$date": 1369144800000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51a61f0d3c002ed20d78a8a2"
+    }, 
+    "iucr": "2092", 
+    "longitude": "-87.66484055534076", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1166497", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "26", 
+    "block": "046XX S ASHLAND AVE"
+}

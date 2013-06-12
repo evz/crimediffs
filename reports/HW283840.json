@@ -1,1 +1,38 @@
-{"y_coordinate": "1860358", "year": "2013", "domestic": false, "case_number": "HW283840", "id": "9138367", "primary_type": "MOTOR VEHICLE THEFT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.57036691291724, 41.77180046646176]}, "community_area": "43", "latitude": "41.77180046646176", "type": "property", "description": "AUTOMOBILE", "beat": "0331", "date": {"$date": 1369093500000}, "ward": "5", "_id": {"$oid": "51a4cd8c3c002ed20d78a33c"}, "iucr": "910", "longitude": "-87.57036691291724", "location_description": "STREET", "x_coordinate": "1192374", "updated_on": {"$date": 1369442383000}, "fbi_code": "07", "block": "022XX E 68TH ST"}
+{
+    "y_coordinate": "1860358", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283840", 
+    "id": "9138367", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57036691291724, 
+            41.77180046646176
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.77180046646176", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0331", 
+    "date": {
+        "$date": 1369093500000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51a4cd8c3c002ed20d78a33c"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.57036691291724", 
+    "location_description": "STREET", 
+    "x_coordinate": "1192374", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "07", 
+    "block": "022XX E 68TH ST"
+}

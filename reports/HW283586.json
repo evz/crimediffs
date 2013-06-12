@@ -1,1 +1,38 @@
-{"y_coordinate": "1894059", "year": "2013", "domestic": false, "case_number": "HW283586", "id": "9138147", "primary_type": "PUBLIC PEACE VIOLATION", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.7193451045405, 41.86517813651519]}, "community_area": "29", "latitude": "41.86517813651519", "type": null, "description": "RECKLESS CONDUCT", "beat": "1011", "date": {"$date": 1369077660000}, "ward": "24", "_id": {"$oid": "51a4cd8f3c002ed20d78a402"}, "iucr": "470", "longitude": "-87.7193451045405", "location_description": "STREET", "x_coordinate": "1151492", "updated_on": {"$date": 1369269615000}, "fbi_code": "24", "block": "012XX S INDEPENDENCE BLVD"}
+{
+    "y_coordinate": "1894059", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283586", 
+    "id": "9138147", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7193451045405, 
+            41.86517813651519
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.86517813651519", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "1011", 
+    "date": {
+        "$date": 1369077660000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a402"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.7193451045405", 
+    "location_description": "STREET", 
+    "x_coordinate": "1151492", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "24", 
+    "block": "012XX S INDEPENDENCE BLVD"
+}

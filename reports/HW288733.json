@@ -1,1 +1,38 @@
-{"y_coordinate": "1926039", "year": "2013", "domestic": false, "case_number": "HW288733", "id": "9158100", "primary_type": "NARCOTICS", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.90747333217887, 41.9537907007995]}, "community_area": "76", "latitude": "41.9537907007995", "type": "quality", "description": "POSS: CANNABIS MORE THAN 30GMS", "beat": "1654", "date": {"$date": 1369375200000}, "ward": "41", "_id": {"$oid": "51b34a173c002ed20d78cb4b"}, "iucr": "1812", "longitude": "-87.90747333217887", "location_description": "GOVERNMENT BUILDING/PROPERTY", "x_coordinate": "1100088", "updated_on": {"$date": 1370479286000}, "fbi_code": "18", "block": "006XX W OHARE ST"}
+{
+    "y_coordinate": "1926039", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288733", 
+    "id": "9158100", 
+    "primary_type": "NARCOTICS", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.90747333217887, 
+            41.9537907007995
+        ]
+    }, 
+    "community_area": "76", 
+    "latitude": "41.9537907007995", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS MORE THAN 30GMS", 
+    "beat": "1654", 
+    "date": {
+        "$date": 1369375200000
+    }, 
+    "ward": "41", 
+    "_id": {
+        "$oid": "51b34a173c002ed20d78cb4b"
+    }, 
+    "iucr": "1812", 
+    "longitude": "-87.90747333217887", 
+    "location_description": "GOVERNMENT BUILDING/PROPERTY", 
+    "x_coordinate": "1100088", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "18", 
+    "block": "006XX W OHARE ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1859833", "year": "2013", "domestic": true, "case_number": "HW301391", "id": "9155695", "primary_type": "BATTERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68195362083799, 41.77104657347699]}, "community_area": "66", "latitude": "41.77104657347699", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0832", "date": {"$date": 1370189700000}, "ward": "17", "_id": {"$oid": "51b5f11a3c002ed20d78cd2b"}, "iucr": "486", "longitude": "-87.68195362083799", "location_description": "RESIDENCE", "x_coordinate": "1161937", "updated_on": {"$date": 1370392932000}, "fbi_code": "08B", "block": "067XX S CLAREMONT AVE"}
+{
+    "y_coordinate": "1859833", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301391", 
+    "id": "9155695", 
+    "primary_type": "BATTERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68195362083799, 
+            41.77104657347699
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.77104657347699", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0832", 
+    "date": {
+        "$date": 1370189700000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd2b"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.68195362083799", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1161937", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "08B", 
+    "block": "067XX S CLAREMONT AVE"
+}

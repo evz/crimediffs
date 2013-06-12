@@ -1,1 +1,38 @@
-{"y_coordinate": "1892253", "year": "2013", "domestic": false, "case_number": "HW288238", "id": "9143105", "primary_type": "OTHER OFFENSE", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7224135601862, 41.86023837207959]}, "community_area": "29", "latitude": "41.86023837207959", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "1014", "date": {"$date": 1369306800000}, "ward": "24", "_id": {"$oid": "51aa13973c002ed20d78b38e"}, "iucr": "2825", "longitude": "-87.7224135601862", "location_description": "RESIDENCE", "x_coordinate": "1150669", "updated_on": {"$date": 1369874559000}, "fbi_code": "26", "block": "015XX S SPRINGFIELD AVE"}
+{
+    "y_coordinate": "1892253", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288238", 
+    "id": "9143105", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7224135601862, 
+            41.86023837207959
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.86023837207959", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "1014", 
+    "date": {
+        "$date": 1369306800000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b38e"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.7224135601862", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1150669", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "26", 
+    "block": "015XX S SPRINGFIELD AVE"
+}

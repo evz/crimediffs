@@ -1,1 +1,38 @@
-{"y_coordinate": "1892850", "year": "2013", "domestic": true, "case_number": "HW300080", "id": "9154642", "primary_type": "CRIMINAL DAMAGE", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62583715711706, 41.861322362589554]}, "community_area": "33", "latitude": "41.861322362589554", "type": "quality", "description": "TO VEHICLE", "beat": "0131", "date": {"$date": 1370066400000}, "ward": "3", "_id": {"$oid": "51b5f1213c002ed20d78d19c"}, "iucr": "1320", "longitude": "-87.62583715711706", "location_description": "OTHER", "x_coordinate": "1176974", "updated_on": {"$date": 1370306580000}, "fbi_code": "14", "block": "015XX S WABASH AVE"}
+{
+    "y_coordinate": "1892850", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300080", 
+    "id": "9154642", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62583715711706, 
+            41.861322362589554
+        ]
+    }, 
+    "community_area": "33", 
+    "latitude": "41.861322362589554", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0131", 
+    "date": {
+        "$date": 1370066400000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d19c"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.62583715711706", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1176974", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "14", 
+    "block": "015XX S WABASH AVE"
+}

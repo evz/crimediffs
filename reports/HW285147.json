@@ -1,1 +1,38 @@
-{"y_coordinate": "1891387", "year": "2013", "domestic": false, "case_number": "HW285147", "id": "9139842", "primary_type": "OTHER OFFENSE", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62406449433786, 41.857296587536254]}, "community_area": "33", "latitude": "41.857296587536254", "type": null, "description": "HARASSMENT BY ELECTRONIC MEANS", "beat": "0131", "date": {"$date": 1369133400000}, "ward": "3", "_id": {"$oid": "51a61f0e3c002ed20d78a92f"}, "iucr": "2826", "longitude": "-87.62406449433786", "location_description": "OTHER", "x_coordinate": "1177469", "updated_on": {"$date": 1369701613000}, "fbi_code": "26", "block": "018XX S MICHIGAN AVE"}
+{
+    "y_coordinate": "1891387", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285147", 
+    "id": "9139842", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62406449433786, 
+            41.857296587536254
+        ]
+    }, 
+    "community_area": "33", 
+    "latitude": "41.857296587536254", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "0131", 
+    "date": {
+        "$date": 1369133400000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a92f"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.62406449433786", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1177469", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "26", 
+    "block": "018XX S MICHIGAN AVE"
+}

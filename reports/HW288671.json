@@ -1,1 +1,38 @@
-{"y_coordinate": "1905026", "year": "2013", "domestic": false, "case_number": "HW288671", "id": "9143684", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72256077188358, 41.89529145618331]}, "community_area": "23", "latitude": "41.89529145618331", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1112", "date": {"$date": 1369387320000}, "ward": "27", "_id": {"$oid": "51aa13933c002ed20d78b0cf"}, "iucr": "1811", "longitude": "-87.72256077188358", "location_description": "SIDEWALK", "x_coordinate": "1150538", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "038XX W CHICAGO AVE"}
+{
+    "y_coordinate": "1905026", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288671", 
+    "id": "9143684", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72256077188358, 
+            41.89529145618331
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.89529145618331", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1112", 
+    "date": {
+        "$date": 1369387320000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b0cf"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.72256077188358", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1150538", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "038XX W CHICAGO AVE"
+}

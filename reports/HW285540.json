@@ -1,1 +1,38 @@
-{"y_coordinate": "1916875", "year": "2013", "domestic": false, "case_number": "HW285540", "id": "9140263", "primary_type": "CRIMINAL DAMAGE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74659530857123, 41.92793321326402]}, "community_area": "19", "latitude": "41.92793321326402", "type": "quality", "description": "TO PROPERTY", "beat": "2521", "date": {"$date": 1369159200000}, "ward": "31", "_id": {"$oid": "51a61f0b3c002ed20d78a7d4"}, "iucr": "1310", "longitude": "-87.74659530857123", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1143913", "updated_on": {"$date": 1369356045000}, "fbi_code": "14", "block": "026XX N CICERO AVE"}
+{
+    "y_coordinate": "1916875", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285540", 
+    "id": "9140263", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74659530857123, 
+            41.92793321326402
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.92793321326402", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "2521", 
+    "date": {
+        "$date": 1369159200000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a7d4"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.74659530857123", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1143913", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "14", 
+    "block": "026XX N CICERO AVE"
+}

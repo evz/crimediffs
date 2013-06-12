@@ -1,1 +1,38 @@
-{"y_coordinate": "1913932", "year": "2013", "domestic": false, "case_number": "HW300642", "id": "9155029", "primary_type": "DECEPTIVE PRACTICE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77543841448511, 41.92000070850889]}, "community_area": "19", "latitude": "41.92000070850889", "type": null, "description": "CREDIT CARD FRAUD", "beat": "2515", "date": {"$date": 1370129820000}, "ward": "29", "_id": {"$oid": "51b5f11e3c002ed20d78cf14"}, "iucr": "1150", "longitude": "-87.77543841448511", "location_description": "RESTAURANT", "x_coordinate": "1136083", "updated_on": {"$date": 1370392932000}, "fbi_code": "11", "block": "021XX N AUSTIN AVE"}
+{
+    "y_coordinate": "1913932", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300642", 
+    "id": "9155029", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77543841448511, 
+            41.92000070850889
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.92000070850889", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "2515", 
+    "date": {
+        "$date": 1370129820000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf14"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.77543841448511", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1136083", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "11", 
+    "block": "021XX N AUSTIN AVE"
+}

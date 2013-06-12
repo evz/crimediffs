@@ -1,1 +1,38 @@
-{"y_coordinate": "1826056", "year": "2013", "domestic": false, "case_number": "HW293964", "id": "9148149", "primary_type": "PUBLIC PEACE VIOLATION", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64206506511795, 41.678118688081845]}, "community_area": "53", "latitude": "41.678118688081845", "type": null, "description": "BOMB THREAT", "beat": "0524", "date": {"$date": 1369506600000}, "ward": "34", "_id": {"$oid": "51b34a0f3c002ed20d78c97d"}, "iucr": "2850", "longitude": "-87.64206506511795", "location_description": "OTHER", "x_coordinate": "1173090", "updated_on": {"$date": 1370306580000}, "fbi_code": "26", "block": "118XX S HALSTED ST"}
+{
+    "y_coordinate": "1826056", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293964", 
+    "id": "9148149", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64206506511795, 
+            41.678118688081845
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.678118688081845", 
+    "type": null, 
+    "description": "BOMB THREAT", 
+    "beat": "0524", 
+    "date": {
+        "$date": 1369506600000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c97d"
+    }, 
+    "iucr": "2850", 
+    "longitude": "-87.64206506511795", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1173090", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "26", 
+    "block": "118XX S HALSTED ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1849890", "year": "2013", "domestic": false, "case_number": "HW301883", "id": "9156066", "primary_type": "NARCOTICS", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.65369722589693, 41.743596292695756]}, "community_area": "71", "latitude": "41.743596292695756", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0613", "date": {"$date": 1370220360000}, "ward": "21", "_id": {"$oid": "51b5f1153c002ed20d78cbca"}, "iucr": "1811", "longitude": "-87.65369722589693", "location_description": "SIDEWALK", "x_coordinate": "1169724", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "082XX S RACINE AVE"}
+{
+    "y_coordinate": "1849890", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301883", 
+    "id": "9156066", 
+    "primary_type": "NARCOTICS", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65369722589693, 
+            41.743596292695756
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.743596292695756", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0613", 
+    "date": {
+        "$date": 1370220360000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbca"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.65369722589693", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1169724", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "082XX S RACINE AVE"
+}

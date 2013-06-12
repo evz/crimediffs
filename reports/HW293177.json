@@ -1,1 +1,38 @@
-{"y_coordinate": "1917556", "year": "2013", "domestic": true, "case_number": "HW293177", "id": "9147363", "primary_type": "OTHER OFFENSE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7785047495835, 41.92996065630598]}, "community_area": "19", "latitude": "41.92996065630598", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "2512", "date": {"$date": 1369249200000}, "ward": "29", "_id": {"$oid": "51a770893c002ed20d78ab2d"}, "iucr": "2825", "longitude": "-87.7785047495835", "location_description": "APARTMENT", "x_coordinate": "1135225", "updated_on": {"$date": 1370047283000}, "fbi_code": "26", "block": "027XX N MEADE AVE"}
+{
+    "y_coordinate": "1917556", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW293177", 
+    "id": "9147363", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7785047495835, 
+            41.92996065630598
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.92996065630598", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "2512", 
+    "date": {
+        "$date": 1369249200000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51a770893c002ed20d78ab2d"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.7785047495835", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1135225", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "26", 
+    "block": "027XX N MEADE AVE"
+}

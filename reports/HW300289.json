@@ -1,1 +1,38 @@
-{"y_coordinate": "1900712", "year": "2013", "domestic": false, "case_number": "HW300289", "id": "9154749", "primary_type": "DECEPTIVE PRACTICE", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72586825874733, 41.88347032999355]}, "community_area": "26", "latitude": "41.88347032999355", "type": null, "description": "ILLEGAL USE CASH CARD", "beat": "1114", "date": {"$date": 1370104200000}, "ward": "28", "_id": {"$oid": "51b5f11f3c002ed20d78d035"}, "iucr": "1152", "longitude": "-87.72586825874733", "location_description": "GAS STATION", "x_coordinate": "1149668", "updated_on": {"$date": 1370392932000}, "fbi_code": "11", "block": "040XX W WEST END AVE"}
+{
+    "y_coordinate": "1900712", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300289", 
+    "id": "9154749", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72586825874733, 
+            41.88347032999355
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.88347032999355", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "1114", 
+    "date": {
+        "$date": 1370104200000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d035"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.72586825874733", 
+    "location_description": "GAS STATION", 
+    "x_coordinate": "1149668", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "11", 
+    "block": "040XX W WEST END AVE"
+}

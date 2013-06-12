@@ -1,1 +1,38 @@
-{"y_coordinate": "1866526", "year": "2013", "domestic": false, "case_number": "HW284813", "id": "9139775", "primary_type": "OTHER OFFENSE", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62217703069439, 41.78905963645819]}, "community_area": "40", "latitude": "41.78905963645819", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "0232", "date": {"$date": 1369142700000}, "ward": "20", "_id": {"$oid": "51a61f0d3c002ed20d78a8b6"}, "iucr": "2825", "longitude": "-87.62217703069439", "location_description": "RESIDENCE", "x_coordinate": "1178189", "updated_on": {"$date": 1369701613000}, "fbi_code": "26", "block": "058XX S MICHIGAN AVE"}
+{
+    "y_coordinate": "1866526", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284813", 
+    "id": "9139775", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62217703069439, 
+            41.78905963645819
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.78905963645819", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "0232", 
+    "date": {
+        "$date": 1369142700000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a61f0d3c002ed20d78a8b6"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.62217703069439", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1178189", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "26", 
+    "block": "058XX S MICHIGAN AVE"
+}

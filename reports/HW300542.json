@@ -1,1 +1,38 @@
-{"y_coordinate": "1898596", "year": "2013", "domestic": false, "case_number": "HW300542", "id": "9155016", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.73758114543192, 41.877724858844914]}, "community_area": "26", "latitude": "41.877724858844914", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1113", "date": {"$date": 1370120700000}, "ward": "28", "_id": {"$oid": "51b5f11e3c002ed20d78cf86"}, "iucr": "1811", "longitude": "-87.73758114543192", "location_description": "ABANDONED BUILDING", "x_coordinate": "1146493", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "044XX W ADAMS ST"}
+{
+    "y_coordinate": "1898596", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300542", 
+    "id": "9155016", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73758114543192, 
+            41.877724858844914
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.877724858844914", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1113", 
+    "date": {
+        "$date": 1370120700000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf86"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.73758114543192", 
+    "location_description": "ABANDONED BUILDING", 
+    "x_coordinate": "1146493", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "044XX W ADAMS ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1865871", "year": "2013", "domestic": true, "case_number": "HW286997", "id": "9141796", "primary_type": "BATTERY", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68738482053948, 41.78764728687518]}, "community_area": "63", "latitude": "41.78764728687518", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0824", "date": {"$date": 1369271460000}, "ward": "16", "_id": {"$oid": "51a770863c002ed20d78aa24"}, "iucr": "486", "longitude": "-87.68738482053948", "location_description": "APARTMENT", "x_coordinate": "1160410", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "058XX S MAPLEWOOD AVE"}
+{
+    "y_coordinate": "1865871", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW286997", 
+    "id": "9141796", 
+    "primary_type": "BATTERY", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68738482053948, 
+            41.78764728687518
+        ]
+    }, 
+    "community_area": "63", 
+    "latitude": "41.78764728687518", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0824", 
+    "date": {
+        "$date": 1369271460000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a770863c002ed20d78aa24"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.68738482053948", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1160410", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "058XX S MAPLEWOOD AVE"
+}

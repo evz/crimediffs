@@ -1,1 +1,38 @@
-{"y_coordinate": "1860587", "year": "2013", "domestic": false, "case_number": "HW288576", "id": "9143852", "primary_type": "MOTOR VEHICLE THEFT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58369511148773, 41.77251664981022]}, "community_area": "43", "latitude": "41.77251664981022", "type": "property", "description": "AUTOMOBILE", "beat": "0332", "date": {"$date": 1369342800000}, "ward": "5", "_id": {"$oid": "51aa13953c002ed20d78b1f3"}, "iucr": "910", "longitude": "-87.58369511148773", "location_description": "STREET", "x_coordinate": "1188736", "updated_on": {"$date": 1369528777000}, "fbi_code": "07", "block": "067XX S EAST END AVE"}
+{
+    "y_coordinate": "1860587", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288576", 
+    "id": "9143852", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58369511148773, 
+            41.77251664981022
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.77251664981022", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0332", 
+    "date": {
+        "$date": 1369342800000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b1f3"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.58369511148773", 
+    "location_description": "STREET", 
+    "x_coordinate": "1188736", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "07", 
+    "block": "067XX S EAST END AVE"
+}

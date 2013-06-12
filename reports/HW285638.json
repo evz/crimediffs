@@ -1,1 +1,38 @@
-{"y_coordinate": "1861446", "year": "2013", "domestic": false, "case_number": "HW285638", "id": "9140361", "primary_type": "BATTERY", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64060165150752, 41.77523122374906]}, "community_area": "68", "latitude": "41.77523122374906", "type": null, "description": "SIMPLE", "beat": "0723", "date": {"$date": 1369212600000}, "ward": "20", "_id": {"$oid": "51a7708d3c002ed20d78acf0"}, "iucr": "460", "longitude": "-87.64060165150752", "location_description": "APARTMENT", "x_coordinate": "1173205", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "065XX S LOWE AVE"}
+{
+    "y_coordinate": "1861446", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285638", 
+    "id": "9140361", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64060165150752, 
+            41.77523122374906
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.77523122374906", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0723", 
+    "date": {
+        "$date": 1369212600000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78acf0"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.64060165150752", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1173205", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "065XX S LOWE AVE"
+}

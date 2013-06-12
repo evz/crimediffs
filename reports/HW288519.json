@@ -1,1 +1,38 @@
-{"y_coordinate": "1897170", "year": "2013", "domestic": false, "case_number": "HW288519", "id": "9143467", "primary_type": "ASSAULT", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7639316401064, 41.87394522610568]}, "community_area": "25", "latitude": "41.87394522610568", "type": null, "description": "SIMPLE", "beat": "1522", "date": {"$date": 1369379700000}, "ward": "29", "_id": {"$oid": "51aa13933c002ed20d78b11c"}, "iucr": "560", "longitude": "-87.7639316401064", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1139326", "updated_on": {"$date": 1369701613000}, "fbi_code": "08A", "block": "055XX W CONGRESS PKWY"}
+{
+    "y_coordinate": "1897170", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288519", 
+    "id": "9143467", 
+    "primary_type": "ASSAULT", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7639316401064, 
+            41.87394522610568
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.87394522610568", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1522", 
+    "date": {
+        "$date": 1369379700000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b11c"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.7639316401064", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1139326", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08A", 
+    "block": "055XX W CONGRESS PKWY"
+}

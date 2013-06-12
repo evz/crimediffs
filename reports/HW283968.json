@@ -1,1 +1,38 @@
-{"y_coordinate": "1901685", "year": "2013", "domestic": false, "case_number": "HW283968", "id": "9138712", "primary_type": "CRIMINAL DAMAGE", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63428376138094, 41.88561950204967]}, "community_area": "32", "latitude": "41.88561950204967", "type": "quality", "description": "TO PROPERTY", "beat": "0122", "date": {"$date": 1369080000000}, "ward": "42", "_id": {"$oid": "51a4cd8e3c002ed20d78a3e3"}, "iucr": "1310", "longitude": "-87.63428376138094", "location_description": "COMMERCIAL / BUSINESS OFFICE", "x_coordinate": "1174601", "updated_on": {"$date": 1369269615000}, "fbi_code": "14", "block": "002XX W LAKE ST"}
+{
+    "y_coordinate": "1901685", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283968", 
+    "id": "9138712", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63428376138094, 
+            41.88561950204967
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88561950204967", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0122", 
+    "date": {
+        "$date": 1369080000000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3e3"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.63428376138094", 
+    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
+    "x_coordinate": "1174601", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "14", 
+    "block": "002XX W LAKE ST"
+}

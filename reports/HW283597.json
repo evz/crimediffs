@@ -1,1 +1,38 @@
-{"y_coordinate": "1915929", "year": "2013", "domestic": false, "case_number": "HW283597", "id": "9138119", "primary_type": "DECEPTIVE PRACTICE", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66921251254247, 41.924915673051615]}, "community_area": "7", "latitude": "41.924915673051615", "type": null, "description": "THEFT OF LABOR/SERVICES", "beat": "1811", "date": {"$date": 1369058400000}, "ward": "32", "_id": {"$oid": "51a4cd913c002ed20d78a506"}, "iucr": "1210", "longitude": "-87.66921251254247", "location_description": "OTHER", "x_coordinate": "1164979", "updated_on": {"$date": 1369356045000}, "fbi_code": "11", "block": "023XX N CLYBOURN AVE"}
+{
+    "y_coordinate": "1915929", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283597", 
+    "id": "9138119", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66921251254247, 
+            41.924915673051615
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.924915673051615", 
+    "type": null, 
+    "description": "THEFT OF LABOR/SERVICES", 
+    "beat": "1811", 
+    "date": {
+        "$date": 1369058400000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a506"
+    }, 
+    "iucr": "1210", 
+    "longitude": "-87.66921251254247", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1164979", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "11", 
+    "block": "023XX N CLYBOURN AVE"
+}

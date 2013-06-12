@@ -1,1 +1,38 @@
-{"y_coordinate": "1837759", "year": "2013", "domestic": false, "case_number": "HW287136", "id": "9142121", "primary_type": "MOTOR VEHICLE THEFT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63064307131613, 41.710166323268865]}, "community_area": "49", "latitude": "41.710166323268865", "type": "property", "description": "AUTOMOBILE", "beat": "0511", "date": {"$date": 1369267200000}, "ward": "9", "_id": {"$oid": "51a770873c002ed20d78aa56"}, "iucr": "910", "longitude": "-87.63064307131613", "location_description": "STREET", "x_coordinate": "1176115", "updated_on": {"$date": 1370220023000}, "fbi_code": "07", "block": "101XX S PRINCETON AVE"}
+{
+    "y_coordinate": "1837759", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287136", 
+    "id": "9142121", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63064307131613, 
+            41.710166323268865
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.710166323268865", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0511", 
+    "date": {
+        "$date": 1369267200000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51a770873c002ed20d78aa56"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.63064307131613", 
+    "location_description": "STREET", 
+    "x_coordinate": "1176115", 
+    "updated_on": {
+        "$date": 1370220023000
+    }, 
+    "fbi_code": "07", 
+    "block": "101XX S PRINCETON AVE"
+}

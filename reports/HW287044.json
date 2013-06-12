@@ -1,1 +1,38 @@
-{"y_coordinate": "1908187", "year": "2013", "domestic": false, "case_number": "HW287044", "id": "9141836", "primary_type": "CRIM SEXUAL ASSAULT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75780416755974, 41.90414804351858]}, "community_area": "25", "latitude": "41.90414804351858", "type": "violent", "description": "NON-AGGRAVATED", "beat": "2532", "date": {"$date": 1369274100000}, "ward": "37", "_id": {"$oid": "51a770853c002ed20d78aa0f"}, "iucr": "281", "longitude": "-87.75780416755974", "location_description": "APARTMENT", "x_coordinate": "1140921", "updated_on": {"$date": 1370479286000}, "fbi_code": "02", "block": "052XX W POTOMAC AVE"}
+{
+    "y_coordinate": "1908187", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287044", 
+    "id": "9141836", 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75780416755974, 
+            41.90414804351858
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.90414804351858", 
+    "type": "violent", 
+    "description": "NON-AGGRAVATED", 
+    "beat": "2532", 
+    "date": {
+        "$date": 1369274100000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a770853c002ed20d78aa0f"
+    }, 
+    "iucr": "281", 
+    "longitude": "-87.75780416755974", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1140921", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "02", 
+    "block": "052XX W POTOMAC AVE"
+}

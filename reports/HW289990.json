@@ -1,1 +1,38 @@
-{"y_coordinate": "1845162", "year": "2013", "domestic": false, "case_number": "HW289990", "id": "9144781", "primary_type": "ROBBERY", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65425528727077, 41.73062448477475]}, "community_area": "73", "latitude": "41.73062448477475", "type": "violent", "description": "ARMED: HANDGUN", "beat": "2222", "date": {"$date": 1369453800000}, "ward": "21", "_id": {"$oid": "51aa13893c002ed20d78ad90"}, "iucr": "031A", "longitude": "-87.65425528727077", "location_description": "STREET", "x_coordinate": "1169609", "updated_on": {"$date": 1370133629000}, "fbi_code": "03", "block": "089XX S ELIZABETH ST"}
+{
+    "y_coordinate": "1845162", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289990", 
+    "id": "9144781", 
+    "primary_type": "ROBBERY", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65425528727077, 
+            41.73062448477475
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.73062448477475", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "2222", 
+    "date": {
+        "$date": 1369453800000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51aa13893c002ed20d78ad90"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.65425528727077", 
+    "location_description": "STREET", 
+    "x_coordinate": "1169609", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "03", 
+    "block": "089XX S ELIZABETH ST"
+}

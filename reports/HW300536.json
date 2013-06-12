@@ -1,1 +1,38 @@
-{"y_coordinate": "1861810", "year": "2013", "domestic": false, "case_number": "HW300536", "id": "9154959", "primary_type": "CRIMINAL TRESPASS", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68860378023406, 41.77650956049184]}, "community_area": "66", "latitude": "41.77650956049184", "type": null, "description": "TO VEHICLE", "beat": "0825", "date": {"$date": 1370121300000}, "ward": "15", "_id": {"$oid": "51b5f11e3c002ed20d78cf81"}, "iucr": "1360", "longitude": "-87.68860378023406", "location_description": "STREET", "x_coordinate": "1160108", "updated_on": {"$date": 1370392932000}, "fbi_code": "26", "block": "064XX S ROCKWELL ST"}
+{
+    "y_coordinate": "1861810", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300536", 
+    "id": "9154959", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68860378023406, 
+            41.77650956049184
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.77650956049184", 
+    "type": null, 
+    "description": "TO VEHICLE", 
+    "beat": "0825", 
+    "date": {
+        "$date": 1370121300000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf81"
+    }, 
+    "iucr": "1360", 
+    "longitude": "-87.68860378023406", 
+    "location_description": "STREET", 
+    "x_coordinate": "1160108", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "26", 
+    "block": "064XX S ROCKWELL ST"
+}

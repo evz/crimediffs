@@ -1,1 +1,38 @@
-{"y_coordinate": "1912675", "year": "2013", "domestic": true, "case_number": "HW286497", "id": "9141584", "primary_type": "CRIMINAL TRESPASS", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70405694645747, 41.91618220516936]}, "community_area": "22", "latitude": "41.91618220516936", "type": null, "description": "TO RESIDENCE", "beat": "1421", "date": {"$date": 1369211400000}, "ward": "35", "_id": {"$oid": "51a7708d3c002ed20d78acf9"}, "iucr": "1365", "longitude": "-87.70405694645747", "location_description": "APARTMENT", "x_coordinate": "1155520", "updated_on": {"$date": 1369442383000}, "fbi_code": "26", "block": "019XX N WHIPPLE ST"}
+{
+    "y_coordinate": "1912675", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW286497", 
+    "id": "9141584", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70405694645747, 
+            41.91618220516936
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.91618220516936", 
+    "type": null, 
+    "description": "TO RESIDENCE", 
+    "beat": "1421", 
+    "date": {
+        "$date": 1369211400000
+    }, 
+    "ward": "35", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78acf9"
+    }, 
+    "iucr": "1365", 
+    "longitude": "-87.70405694645747", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1155520", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "26", 
+    "block": "019XX N WHIPPLE ST"
+}

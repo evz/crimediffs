@@ -1,1 +1,38 @@
-{"y_coordinate": "1838988", "year": "2013", "domestic": false, "case_number": "HW287600", "id": "9142661", "primary_type": "THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.54938754354262, 41.713013486315454]}, "community_area": "51", "latitude": "41.713013486315454", "type": "property", "description": "OVER $500", "beat": "0431", "date": {"$date": 1369310400000}, "ward": "10", "_id": {"$oid": "51aa13973c002ed20d78b369"}, "iucr": "810", "longitude": "-87.54938754354262", "location_description": "STREET", "x_coordinate": "1198292", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "100XX S CALUMET ACCESS RD"}
+{
+    "y_coordinate": "1838988", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287600", 
+    "id": "9142661", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.54938754354262, 
+            41.713013486315454
+        ]
+    }, 
+    "community_area": "51", 
+    "latitude": "41.713013486315454", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0431", 
+    "date": {
+        "$date": 1369310400000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b369"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.54938754354262", 
+    "location_description": "STREET", 
+    "x_coordinate": "1198292", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "100XX S CALUMET ACCESS RD"
+}

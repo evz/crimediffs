@@ -1,1 +1,38 @@
-{"y_coordinate": "1901670", "year": "2013", "domestic": false, "case_number": "HW283932", "id": "9138443", "primary_type": "PUBLIC PEACE VIOLATION", "district": "001", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62808194156185, 41.88554041861573]}, "community_area": "32", "latitude": "41.88554041861573", "type": null, "description": "OTHER VIOLATION", "beat": "0111", "date": {"$date": 1369106400000}, "ward": "42", "_id": {"$oid": "51a4cd8a3c002ed20d78a2f9"}, "iucr": "2890", "longitude": "-87.62808194156185", "location_description": "STREET", "x_coordinate": "1176290", "updated_on": {"$date": 1369269615000}, "fbi_code": "26", "block": "001XX N STATE ST"}
+{
+    "y_coordinate": "1901670", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283932", 
+    "id": "9138443", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62808194156185, 
+            41.88554041861573
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88554041861573", 
+    "type": null, 
+    "description": "OTHER VIOLATION", 
+    "beat": "0111", 
+    "date": {
+        "$date": 1369106400000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a4cd8a3c002ed20d78a2f9"
+    }, 
+    "iucr": "2890", 
+    "longitude": "-87.62808194156185", 
+    "location_description": "STREET", 
+    "x_coordinate": "1176290", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "26", 
+    "block": "001XX N STATE ST"
+}

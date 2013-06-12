@@ -1,1 +1,38 @@
-{"y_coordinate": "1900119", "year": "2013", "domestic": false, "case_number": "HW289016", "id": "9144061", "primary_type": "BURGLARY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7077733582696, 41.88174584987295]}, "community_area": "27", "latitude": "41.88174584987295", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1123", "date": {"$date": 1369389600000}, "ward": "28", "_id": {"$oid": "51aa13923c002ed20d78b0bc"}, "iucr": "610", "longitude": "-87.7077733582696", "location_description": "RESIDENCE", "x_coordinate": "1154600", "updated_on": {"$date": 1370824784000}, "fbi_code": "05", "block": "032XX W WARREN BLVD"}
+{
+    "y_coordinate": "1900119", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289016", 
+    "id": "9144061", 
+    "primary_type": "BURGLARY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7077733582696, 
+            41.88174584987295
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.88174584987295", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1123", 
+    "date": {
+        "$date": 1369389600000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b0bc"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.7077733582696", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1154600", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "05", 
+    "block": "032XX W WARREN BLVD"
+}

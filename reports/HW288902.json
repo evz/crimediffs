@@ -1,1 +1,38 @@
-{"y_coordinate": "1859014", "year": "2013", "domestic": false, "case_number": "HW288902", "id": "9143904", "primary_type": "OTHER OFFENSE", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68443226060296, 41.7688130194471]}, "community_area": "66", "latitude": "41.7688130194471", "type": null, "description": "OTHER VEHICLE OFFENSE", "beat": "0832", "date": {"$date": 1369346400000}, "ward": "17", "_id": {"$oid": "51aa13943c002ed20d78b1bb"}, "iucr": "5002", "longitude": "-87.68443226060296", "location_description": "RESIDENCE", "x_coordinate": "1161267", "updated_on": {"$date": 1370047283000}, "fbi_code": "26", "block": "068XX S ARTESIAN AVE"}
+{
+    "y_coordinate": "1859014", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288902", 
+    "id": "9143904", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68443226060296, 
+            41.7688130194471
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.7688130194471", 
+    "type": null, 
+    "description": "OTHER VEHICLE OFFENSE", 
+    "beat": "0832", 
+    "date": {
+        "$date": 1369346400000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1bb"
+    }, 
+    "iucr": "5002", 
+    "longitude": "-87.68443226060296", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1161267", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "26", 
+    "block": "068XX S ARTESIAN AVE"
+}

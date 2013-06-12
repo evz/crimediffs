@@ -1,1 +1,38 @@
-{"y_coordinate": "1938067", "year": "2013", "domestic": false, "case_number": "HW286855", "id": "9141719", "primary_type": "BURGLARY", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65765809214973, 41.98559956423253]}, "community_area": "77", "latitude": "41.98559956423253", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "2022", "date": {"$date": 1369239300000}, "ward": "48", "_id": {"$oid": "51a7708a3c002ed20d78ab9f"}, "iucr": "620", "longitude": "-87.65765809214973", "location_description": "APARTMENT", "x_coordinate": "1167949", "updated_on": {"$date": 1369787985000}, "fbi_code": "05", "block": "010XX W HOLLYWOOD AVE"}
+{
+    "y_coordinate": "1938067", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286855", 
+    "id": "9141719", 
+    "primary_type": "BURGLARY", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65765809214973, 
+            41.98559956423253
+        ]
+    }, 
+    "community_area": "77", 
+    "latitude": "41.98559956423253", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "2022", 
+    "date": {
+        "$date": 1369239300000
+    }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab9f"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.65765809214973", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1167949", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "05", 
+    "block": "010XX W HOLLYWOOD AVE"
+}

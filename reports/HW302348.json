@@ -1,1 +1,38 @@
-{"y_coordinate": "1920921", "year": "2013", "domestic": false, "case_number": "HW302348", "id": "9158796", "primary_type": "THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72580531158427, 41.938928222049064]}, "community_area": "21", "latitude": "41.938928222049064", "type": "property", "description": "$500 AND UNDER", "beat": "2523", "date": {"$date": 1370205900000}, "ward": "31", "_id": {"$oid": "51b5f1173c002ed20d78cc60"}, "iucr": "820", "longitude": "-87.72580531158427", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1149542", "updated_on": {"$date": 1370565766000}, "fbi_code": "06", "block": "031XX N HARDING AVE"}
+{
+    "y_coordinate": "1920921", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302348", 
+    "id": "9158796", 
+    "primary_type": "THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72580531158427, 
+            41.938928222049064
+        ]
+    }, 
+    "community_area": "21", 
+    "latitude": "41.938928222049064", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2523", 
+    "date": {
+        "$date": 1370205900000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51b5f1173c002ed20d78cc60"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.72580531158427", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1149542", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "06", 
+    "block": "031XX N HARDING AVE"
+}

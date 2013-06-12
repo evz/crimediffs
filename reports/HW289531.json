@@ -1,1 +1,38 @@
-{"y_coordinate": "1949178", "year": "2013", "domestic": false, "case_number": "HW289531", "id": "9145274", "primary_type": "CRIMINAL DAMAGE", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66828986039813, 42.016152324244736]}, "community_area": "1", "latitude": "42.016152324244736", "type": "quality", "description": "TO VEHICLE", "beat": "2422", "date": {"$date": 1369148400000}, "ward": "49", "_id": {"$oid": "51a61f0c3c002ed20d78a876"}, "iucr": "1320", "longitude": "-87.66828986039813", "location_description": "STREET", "x_coordinate": "1164972", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "074XX N GREENVIEW AVE"}
+{
+    "y_coordinate": "1949178", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289531", 
+    "id": "9145274", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66828986039813, 
+            42.016152324244736
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "42.016152324244736", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "2422", 
+    "date": {
+        "$date": 1369148400000
+    }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51a61f0c3c002ed20d78a876"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.66828986039813", 
+    "location_description": "STREET", 
+    "x_coordinate": "1164972", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "074XX N GREENVIEW AVE"
+}

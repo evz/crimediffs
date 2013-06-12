@@ -1,1 +1,38 @@
-{"y_coordinate": "1850442", "year": "2013", "domestic": false, "case_number": "HW286822", "id": "9141577", "primary_type": "OTHER OFFENSE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.5880312012397, 41.744703964401275]}, "community_area": "45", "latitude": "41.744703964401275", "type": null, "description": "TELEPHONE THREAT", "beat": "0411", "date": {"$date": 1369240200000}, "ward": "8", "_id": {"$oid": "51a7708a3c002ed20d78ab9b"}, "iucr": "2820", "longitude": "-87.5880312012397", "location_description": "RESIDENCE", "x_coordinate": "1187641", "updated_on": {"$date": 1369442383000}, "fbi_code": "26", "block": "082XX S BLACKSTONE AVE"}
+{
+    "y_coordinate": "1850442", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286822", 
+    "id": "9141577", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5880312012397, 
+            41.744703964401275
+        ]
+    }, 
+    "community_area": "45", 
+    "latitude": "41.744703964401275", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "0411", 
+    "date": {
+        "$date": 1369240200000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab9b"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.5880312012397", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1187641", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "26", 
+    "block": "082XX S BLACKSTONE AVE"
+}

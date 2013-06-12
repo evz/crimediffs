@@ -1,1 +1,38 @@
-{"y_coordinate": "1915608", "year": "2013", "domestic": false, "case_number": "HW290653", "id": "9145566", "primary_type": "CRIMINAL DAMAGE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72080309671688, 41.924321582469716]}, "community_area": "22", "latitude": "41.924321582469716", "type": "quality", "description": "TO PROPERTY", "beat": "2525", "date": {"$date": 1369496100000}, "ward": "35", "_id": {"$oid": "51b34a103c002ed20d78ca10"}, "iucr": "1310", "longitude": "-87.72080309671688", "location_description": "SIDEWALK", "x_coordinate": "1150941", "updated_on": {"$date": 1369787985000}, "fbi_code": "14", "block": "023XX N RIDGEWAY AVE"}
+{
+    "y_coordinate": "1915608", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290653", 
+    "id": "9145566", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72080309671688, 
+            41.924321582469716
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.924321582469716", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "2525", 
+    "date": {
+        "$date": 1369496100000
+    }, 
+    "ward": "35", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78ca10"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.72080309671688", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1150941", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "14", 
+    "block": "023XX N RIDGEWAY AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1834254", "year": "2013", "domestic": false, "case_number": "HW293596", "id": "9147775", "primary_type": "BATTERY", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.611282738159, 41.70042744885077]}, "community_area": "49", "latitude": "41.70042744885077", "type": null, "description": "SIMPLE", "beat": "0512", "date": {"$date": 1369301400000}, "ward": "9", "_id": {"$oid": "51aa13983c002ed20d78b3cf"}, "iucr": "460", "longitude": "-87.611282738159", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1181431", "updated_on": {"$date": 1369960832000}, "fbi_code": "08B", "block": "106XX S EBERHART AVE"}
+{
+    "y_coordinate": "1834254", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293596", 
+    "id": "9147775", 
+    "primary_type": "BATTERY", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.611282738159, 
+            41.70042744885077
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.70042744885077", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0512", 
+    "date": {
+        "$date": 1369301400000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3cf"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.611282738159", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1181431", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "08B", 
+    "block": "106XX S EBERHART AVE"
+}

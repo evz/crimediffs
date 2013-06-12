@@ -1,1 +1,38 @@
-{"y_coordinate": "1863438", "year": "2013", "domestic": false, "case_number": "HW283420", "id": "9138040", "primary_type": "BURGLARY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69553586327118, 41.78101596601004]}, "community_area": "66", "latitude": "41.78101596601004", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0823", "date": {"$date": 1369074180000}, "ward": "15", "_id": {"$oid": "51a4cd8f3c002ed20d78a437"}, "iucr": "610", "longitude": "-87.69553586327118", "location_description": "APARTMENT", "x_coordinate": "1158205", "updated_on": {"$date": 1370047283000}, "fbi_code": "05", "block": "028XX W 62ND ST"}
+{
+    "y_coordinate": "1863438", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283420", 
+    "id": "9138040", 
+    "primary_type": "BURGLARY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69553586327118, 
+            41.78101596601004
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.78101596601004", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0823", 
+    "date": {
+        "$date": 1369074180000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a437"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.69553586327118", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1158205", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "05", 
+    "block": "028XX W 62ND ST"
+}

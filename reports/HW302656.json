@@ -1,1 +1,38 @@
-{"y_coordinate": "1899479", "year": "2013", "domestic": false, "case_number": "HW302656", "id": "9157355", "primary_type": "NARCOTICS", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.75339934252132, 41.88022900082886]}, "community_area": "25", "latitude": "41.88022900082886", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1533", "date": {"$date": 1370271000000}, "ward": "28", "_id": {"$oid": "51b7429c3c002ed20d78d3ca"}, "iucr": "1811", "longitude": "-87.75339934252132", "location_description": "SIDEWALK", "x_coordinate": "1142179", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "0000X S LEAMINGTON AVE"}
+{
+    "y_coordinate": "1899479", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302656", 
+    "id": "9157355", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75339934252132, 
+            41.88022900082886
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.88022900082886", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1533", 
+    "date": {
+        "$date": 1370271000000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b7429c3c002ed20d78d3ca"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.75339934252132", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1142179", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "0000X S LEAMINGTON AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1839703", "year": "2013", "domestic": true, "case_number": "HW289655", "id": "9144530", "primary_type": "THEFT", "district": "005", "arrest": true, "location": {"type": "Point", "coordinates": [-87.60076171267583, 41.71531467351245]}, "community_area": "50", "latitude": "41.71531467351245", "type": "property", "description": "$500 AND UNDER", "beat": "0511", "date": {"$date": 1369377000000}, "ward": "8", "_id": {"$oid": "51aa13933c002ed20d78b129"}, "iucr": "820", "longitude": "-87.60076171267583", "location_description": "RESIDENCE", "x_coordinate": "1184258", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "098XX S INGLESIDE AVE"}
+{
+    "y_coordinate": "1839703", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289655", 
+    "id": "9144530", 
+    "primary_type": "THEFT", 
+    "district": "005", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60076171267583, 
+            41.71531467351245
+        ]
+    }, 
+    "community_area": "50", 
+    "latitude": "41.71531467351245", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0511", 
+    "date": {
+        "$date": 1369377000000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b129"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.60076171267583", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1184258", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "098XX S INGLESIDE AVE"
+}

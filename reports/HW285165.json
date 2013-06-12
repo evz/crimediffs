@@ -1,1 +1,38 @@
-{"y_coordinate": "1850193", "year": "2013", "domestic": false, "case_number": "HW285165", "id": "9139869", "primary_type": "BATTERY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.554077276231, 41.74379536841193]}, "community_area": "46", "latitude": "41.74379536841193", "type": "violent", "description": "AGGRAVATED: OTHER DANG WEAPON", "beat": "0423", "date": {"$date": 1369168200000}, "ward": "10", "_id": {"$oid": "51a61f093c002ed20d78a757"}, "iucr": "430", "longitude": "-87.554077276231", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1196910", "updated_on": {"$date": 1369528777000}, "fbi_code": "04B", "block": "083XX S BALTIMORE AVE"}
+{
+    "y_coordinate": "1850193", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285165", 
+    "id": "9139869", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.554077276231, 
+            41.74379536841193
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.74379536841193", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "0423", 
+    "date": {
+        "$date": 1369168200000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51a61f093c002ed20d78a757"
+    }, 
+    "iucr": "430", 
+    "longitude": "-87.554077276231", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1196910", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "04B", 
+    "block": "083XX S BALTIMORE AVE"
+}

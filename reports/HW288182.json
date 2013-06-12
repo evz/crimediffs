@@ -1,1 +1,38 @@
-{"y_coordinate": "1847232", "year": "2013", "domestic": false, "case_number": "HW288182", "id": "9143025", "primary_type": "CRIMINAL DAMAGE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55234373444337, 41.735657714991525]}, "community_area": "46", "latitude": "41.735657714991525", "type": "quality", "description": "TO PROPERTY", "beat": "0423", "date": {"$date": 1369333800000}, "ward": "10", "_id": {"$oid": "51aa13953c002ed20d78b258"}, "iucr": "1310", "longitude": "-87.55234373444337", "location_description": "CHURCH/SYNAGOGUE/PLACE OF WORSHIP", "x_coordinate": "1197410", "updated_on": {"$date": 1369528777000}, "fbi_code": "14", "block": "029XX E 88TH ST"}
+{
+    "y_coordinate": "1847232", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288182", 
+    "id": "9143025", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55234373444337, 
+            41.735657714991525
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.735657714991525", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0423", 
+    "date": {
+        "$date": 1369333800000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b258"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.55234373444337", 
+    "location_description": "CHURCH/SYNAGOGUE/PLACE OF WORSHIP", 
+    "x_coordinate": "1197410", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "14", 
+    "block": "029XX E 88TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1901489", "year": "2013", "domestic": false, "case_number": "HW290571", "id": "9145306", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70640000223938, 41.88549797767198]}, "community_area": "27", "latitude": "41.88549797767198", "type": null, "description": "SIMPLE", "beat": "1123", "date": {"$date": 1369429200000}, "ward": "28", "_id": {"$oid": "51aa138d3c002ed20d78aea1"}, "iucr": "460", "longitude": "-87.70640000223938", "location_description": "SIDEWALK", "x_coordinate": "1154964", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "002XX N KEDZIE AVE"}
+{
+    "y_coordinate": "1901489", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290571", 
+    "id": "9145306", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70640000223938, 
+            41.88549797767198
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.88549797767198", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1123", 
+    "date": {
+        "$date": 1369429200000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78aea1"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.70640000223938", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1154964", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "002XX N KEDZIE AVE"
+}

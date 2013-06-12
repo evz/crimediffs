@@ -1,1 +1,38 @@
-{"y_coordinate": "1917497", "year": "2013", "domestic": false, "case_number": "HW291418", "id": "9145901", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6533153256345, 41.929125564468784]}, "community_area": "7", "latitude": "41.929125564468784", "type": "property", "description": "FROM BUILDING", "beat": "1935", "date": {"$date": 1369522800000}, "ward": "43", "_id": {"$oid": "51b34a0d3c002ed20d78c8c4"}, "iucr": "890", "longitude": "-87.6533153256345", "location_description": "BAR OR TAVERN", "x_coordinate": "1169293", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "009XX W WRIGHTWOOD AVE"}
+{
+    "y_coordinate": "1917497", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291418", 
+    "id": "9145901", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6533153256345, 
+            41.929125564468784
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.929125564468784", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1935", 
+    "date": {
+        "$date": 1369522800000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c8c4"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.6533153256345", 
+    "location_description": "BAR OR TAVERN", 
+    "x_coordinate": "1169293", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "009XX W WRIGHTWOOD AVE"
+}

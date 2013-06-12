@@ -1,1 +1,38 @@
-{"y_coordinate": "1893981", "year": "2013", "domestic": true, "case_number": "HW301430", "id": "9155745", "primary_type": "BATTERY", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65199887911304, 41.86458429631926]}, "community_area": "28", "latitude": "41.86458429631926", "type": "violent", "description": "AGGRAVATED DOMESTIC BATTERY: OTHER DANG WEAPON", "beat": "1232", "date": {"$date": 1370169000000}, "ward": "2", "_id": {"$oid": "51b5f11b3c002ed20d78cdfe"}, "iucr": "497", "longitude": "-87.65199887911304", "location_description": "APARTMENT", "x_coordinate": "1169838", "updated_on": {"$date": 1370392932000}, "fbi_code": "04B", "block": "010XX W MAXWELL ST"}
+{
+    "y_coordinate": "1893981", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301430", 
+    "id": "9155745", 
+    "primary_type": "BATTERY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65199887911304, 
+            41.86458429631926
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.86458429631926", 
+    "type": "violent", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: OTHER DANG WEAPON", 
+    "beat": "1232", 
+    "date": {
+        "$date": 1370169000000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cdfe"
+    }, 
+    "iucr": "497", 
+    "longitude": "-87.65199887911304", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1169838", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "04B", 
+    "block": "010XX W MAXWELL ST"
+}

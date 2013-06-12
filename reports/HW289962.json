@@ -1,1 +1,38 @@
-{"y_coordinate": "1903483", "year": "2013", "domestic": false, "case_number": "HW289962", "id": "9144745", "primary_type": "CRIMINAL DAMAGE", "district": "012", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64695500784518, 41.89063008053804]}, "community_area": "24", "latitude": "41.89063008053804", "type": "quality", "description": "TO CITY OF CHICAGO PROPERTY", "beat": "1214", "date": {"$date": 1369448400000}, "ward": "27", "_id": {"$oid": "51aa138a3c002ed20d78adb1"}, "iucr": "1345", "longitude": "-87.64695500784518", "location_description": "STREET", "x_coordinate": "1171136", "updated_on": {"$date": 1369615194000}, "fbi_code": "14", "block": "004XX N MILWAUKEE AVE"}
+{
+    "y_coordinate": "1903483", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289962", 
+    "id": "9144745", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "012", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64695500784518, 
+            41.89063008053804
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.89063008053804", 
+    "type": "quality", 
+    "description": "TO CITY OF CHICAGO PROPERTY", 
+    "beat": "1214", 
+    "date": {
+        "$date": 1369448400000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa138a3c002ed20d78adb1"
+    }, 
+    "iucr": "1345", 
+    "longitude": "-87.64695500784518", 
+    "location_description": "STREET", 
+    "x_coordinate": "1171136", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "14", 
+    "block": "004XX N MILWAUKEE AVE"
+}

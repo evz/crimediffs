@@ -1,1 +1,38 @@
-{"y_coordinate": "1901127", "year": "2013", "domestic": false, "case_number": "HW285285", "id": "9140058", "primary_type": "ASSAULT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7364296616936, 41.884664573454145]}, "community_area": "26", "latitude": "41.884664573454145", "type": "violent", "description": "AGGRAVATED:KNIFE/CUTTING INSTR", "beat": "1113", "date": {"$date": 1369170000000}, "ward": "28", "_id": {"$oid": "51a61f093c002ed20d78a735"}, "iucr": "520", "longitude": "-87.7364296616936", "location_description": "RESIDENCE", "x_coordinate": "1146789", "updated_on": {"$date": 1369960832000}, "fbi_code": "04A", "block": "044XX W MAYPOLE AVE"}
+{
+    "y_coordinate": "1901127", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285285", 
+    "id": "9140058", 
+    "primary_type": "ASSAULT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7364296616936, 
+            41.884664573454145
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.884664573454145", 
+    "type": "violent", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
+    "beat": "1113", 
+    "date": {
+        "$date": 1369170000000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a61f093c002ed20d78a735"
+    }, 
+    "iucr": "520", 
+    "longitude": "-87.7364296616936", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1146789", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "04A", 
+    "block": "044XX W MAYPOLE AVE"
+}

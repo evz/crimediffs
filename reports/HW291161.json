@@ -1,1 +1,38 @@
-{"y_coordinate": "1841678", "year": "2013", "domestic": false, "case_number": "HW291161", "id": "9145662", "primary_type": "BATTERY", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.55089841706312, 41.72040598951082]}, "community_area": "51", "latitude": "41.72040598951082", "type": null, "description": "SIMPLE", "beat": "0431", "date": {"$date": 1369535940000}, "ward": "10", "_id": {"$oid": "51b34a0c3c002ed20d78c842"}, "iucr": "460", "longitude": "-87.55089841706312", "location_description": "BAR OR TAVERN", "x_coordinate": "1197855", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "096XX S COMMERCIAL AVE"}
+{
+    "y_coordinate": "1841678", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291161", 
+    "id": "9145662", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55089841706312, 
+            41.72040598951082
+        ]
+    }, 
+    "community_area": "51", 
+    "latitude": "41.72040598951082", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0431", 
+    "date": {
+        "$date": 1369535940000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51b34a0c3c002ed20d78c842"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.55089841706312", 
+    "location_description": "BAR OR TAVERN", 
+    "x_coordinate": "1197855", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "096XX S COMMERCIAL AVE"
+}

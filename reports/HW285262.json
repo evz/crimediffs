@@ -1,1 +1,38 @@
-{"y_coordinate": "1905953", "year": "2013", "domestic": false, "case_number": "HW285262", "id": "9139917", "primary_type": "THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72478803699221, 41.89784719207208]}, "community_area": "23", "latitude": "41.89784719207208", "type": "property", "description": "FINANCIAL ID THEFT: OVER $300", "beat": "1112", "date": {"$date": 1369076400000}, "ward": "27", "_id": {"$oid": "51a4cd8f3c002ed20d78a419"}, "iucr": "840", "longitude": "-87.72478803699221", "location_description": "APARTMENT", "x_coordinate": "1149925", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "009XX N HARDING AVE"}
+{
+    "y_coordinate": "1905953", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285262", 
+    "id": "9139917", 
+    "primary_type": "THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72478803699221, 
+            41.89784719207208
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.89784719207208", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "1112", 
+    "date": {
+        "$date": 1369076400000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a419"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.72478803699221", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1149925", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "009XX N HARDING AVE"
+}

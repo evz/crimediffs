@@ -1,1 +1,38 @@
-{"y_coordinate": "1896729", "year": "2013", "domestic": false, "case_number": "HW291356", "id": "9145821", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68389318739676, 41.87231028613855]}, "community_area": "28", "latitude": "41.87231028613855", "type": "property", "description": "$500 AND UNDER", "beat": "1225", "date": {"$date": 1369113600000}, "ward": "2", "_id": {"$oid": "51a61f103c002ed20d78a9d3"}, "iucr": "820", "longitude": "-87.68389318739676", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1161129", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "007XX S OAKLEY BLVD"}
+{
+    "y_coordinate": "1896729", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291356", 
+    "id": "9145821", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68389318739676, 
+            41.87231028613855
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.87231028613855", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1225", 
+    "date": {
+        "$date": 1369113600000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a61f103c002ed20d78a9d3"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.68389318739676", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1161129", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "007XX S OAKLEY BLVD"
+}

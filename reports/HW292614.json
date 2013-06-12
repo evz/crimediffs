@@ -1,1 +1,38 @@
-{"y_coordinate": "1903148", "year": "2013", "domestic": false, "case_number": "HW292614", "id": "9146901", "primary_type": "MOTOR VEHICLE THEFT", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75161158227188, 41.89028860387256]}, "community_area": "25", "latitude": "41.89028860387256", "type": "property", "description": "AUTOMOBILE", "beat": "1532", "date": {"$date": 1369148400000}, "ward": "28", "_id": {"$oid": "51a61f0c3c002ed20d78a875"}, "iucr": "910", "longitude": "-87.75161158227188", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1142641", "updated_on": {"$date": 1369874559000}, "fbi_code": "07", "block": "005XX N LAWLER AVE"}
+{
+    "y_coordinate": "1903148", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW292614", 
+    "id": "9146901", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75161158227188, 
+            41.89028860387256
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.89028860387256", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1532", 
+    "date": {
+        "$date": 1369148400000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a61f0c3c002ed20d78a875"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.75161158227188", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1142641", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "07", 
+    "block": "005XX N LAWLER AVE"
+}

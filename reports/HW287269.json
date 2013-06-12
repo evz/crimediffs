@@ -1,1 +1,38 @@
-{"y_coordinate": "1835181", "year": "2013", "domestic": false, "case_number": "HW287269", "id": "9142518", "primary_type": "ROBBERY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.5631065516127, 41.7026586367811]}, "community_area": "51", "latitude": "41.7026586367811", "type": "violent", "description": "VEHICULAR HIJACKING", "beat": "0434", "date": {"$date": 1369302000000}, "ward": "10", "_id": {"$oid": "51aa13983c002ed20d78b3c6"}, "iucr": "325", "longitude": "-87.5631065516127", "location_description": "STREET", "x_coordinate": "1194580", "updated_on": {"$date": 1370047283000}, "fbi_code": "03", "block": "025XX E 106TH ST"}
+{
+    "y_coordinate": "1835181", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287269", 
+    "id": "9142518", 
+    "primary_type": "ROBBERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5631065516127, 
+            41.7026586367811
+        ]
+    }, 
+    "community_area": "51", 
+    "latitude": "41.7026586367811", 
+    "type": "violent", 
+    "description": "VEHICULAR HIJACKING", 
+    "beat": "0434", 
+    "date": {
+        "$date": 1369302000000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3c6"
+    }, 
+    "iucr": "325", 
+    "longitude": "-87.5631065516127", 
+    "location_description": "STREET", 
+    "x_coordinate": "1194580", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "03", 
+    "block": "025XX E 106TH ST"
+}

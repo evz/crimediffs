@@ -1,1 +1,38 @@
-{"y_coordinate": "1866876", "year": "2013", "domestic": false, "case_number": "HW285826", "id": "9140748", "primary_type": "OFFENSE INVOLVING CHILDREN", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70210121052692, 41.7904871033341]}, "community_area": "63", "latitude": "41.7904871033341", "type": null, "description": "CHILD ABANDONMENT", "beat": "0824", "date": {"$date": 1369219500000}, "ward": "14", "_id": {"$oid": "51a7708d3c002ed20d78aca9"}, "iucr": "1755", "longitude": "-87.70210121052692", "location_description": "RESIDENCE", "x_coordinate": "1156389", "updated_on": {"$date": 1369442383000}, "fbi_code": "26", "block": "056XX S TROY ST"}
+{
+    "y_coordinate": "1866876", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285826", 
+    "id": "9140748", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70210121052692, 
+            41.7904871033341
+        ]
+    }, 
+    "community_area": "63", 
+    "latitude": "41.7904871033341", 
+    "type": null, 
+    "description": "CHILD ABANDONMENT", 
+    "beat": "0824", 
+    "date": {
+        "$date": 1369219500000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78aca9"
+    }, 
+    "iucr": "1755", 
+    "longitude": "-87.70210121052692", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1156389", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "26", 
+    "block": "056XX S TROY ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1947064", "year": "2013", "domestic": false, "case_number": "HW286710", "id": "9143033", "primary_type": "THEFT", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6741195173666, 42.01038475034568]}, "community_area": "1", "latitude": "42.01038475034568", "type": "property", "description": "$500 AND UNDER", "beat": "2423", "date": {"$date": 1369252800000}, "ward": "49", "_id": {"$oid": "51a770893c002ed20d78aaff"}, "iucr": "820", "longitude": "-87.6741195173666", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1163404", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "070XX N CLARK ST"}
+{
+    "y_coordinate": "1947064", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286710", 
+    "id": "9143033", 
+    "primary_type": "THEFT", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6741195173666, 
+            42.01038475034568
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "42.01038475034568", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2423", 
+    "date": {
+        "$date": 1369252800000
+    }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51a770893c002ed20d78aaff"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.6741195173666", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1163404", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "070XX N CLARK ST"
+}

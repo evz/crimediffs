@@ -1,1 +1,38 @@
-{"y_coordinate": "1873762", "year": "2013", "domestic": false, "case_number": "HW290578", "id": "9145209", "primary_type": "MOTOR VEHICLE THEFT", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63074543922626, 41.808969978865235]}, "community_area": "37", "latitude": "41.808969978865235", "type": "property", "description": "AUTOMOBILE", "beat": "0224", "date": {"$date": 1369386000000}, "ward": "3", "_id": {"$oid": "51aa13933c002ed20d78b0e3"}, "iucr": "910", "longitude": "-87.63074543922626", "location_description": "STREET", "x_coordinate": "1175793", "updated_on": {"$date": 1369701613000}, "fbi_code": "07", "block": "047XX S WENTWORTH AVE"}
+{
+    "y_coordinate": "1873762", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290578", 
+    "id": "9145209", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63074543922626, 
+            41.808969978865235
+        ]
+    }, 
+    "community_area": "37", 
+    "latitude": "41.808969978865235", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0224", 
+    "date": {
+        "$date": 1369386000000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b0e3"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.63074543922626", 
+    "location_description": "STREET", 
+    "x_coordinate": "1175793", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "07", 
+    "block": "047XX S WENTWORTH AVE"
+}

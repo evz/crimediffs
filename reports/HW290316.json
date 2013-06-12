@@ -1,1 +1,38 @@
-{"y_coordinate": "1928793", "year": "2013", "domestic": false, "case_number": "HW290316", "id": "9145019", "primary_type": "MOTOR VEHICLE THEFT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75838387587629, 41.96069846217875]}, "community_area": "15", "latitude": "41.96069846217875", "type": "property", "description": "AUTOMOBILE", "beat": "1623", "date": {"$date": 1369432800000}, "ward": "45", "_id": {"$oid": "51aa138c3c002ed20d78ae67"}, "iucr": "910", "longitude": "-87.75838387587629", "location_description": "STREET", "x_coordinate": "1140625", "updated_on": {"$date": 1369787985000}, "fbi_code": "07", "block": "052XX W MONTROSE AVE"}
+{
+    "y_coordinate": "1928793", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290316", 
+    "id": "9145019", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75838387587629, 
+            41.96069846217875
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.96069846217875", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1623", 
+    "date": {
+        "$date": 1369432800000
+    }, 
+    "ward": "45", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae67"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.75838387587629", 
+    "location_description": "STREET", 
+    "x_coordinate": "1140625", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "07", 
+    "block": "052XX W MONTROSE AVE"
+}

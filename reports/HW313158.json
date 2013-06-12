@@ -1,1 +1,33 @@
-{"community_area": "57", "_id": {"$oid": "51b742a83c002ed20d78d528"}, "primary_type": "BATTERY", "beat": "0821", "year": "2013", "domestic": false, "iucr": "460", "arrest": false, "location_description": "OTHER", "location": {"type": "Point", "coordinates": [-87.71447653181741, 41.80809591446824]}, "case_number": "HW313158", "date": {"$date": 1369845000000}, "updated_on": {"$date": 1370911182000}, "ward": "14", "fbi_code": "08B", "type": null, "id": "9167634", "block": "036XX W 47TH ST", "description": "SIMPLE"}
+{
+    "_id": {
+        "$oid": "51b742a83c002ed20d78d528"
+    }, 
+    "primary_type": "BATTERY", 
+    "year": "2013", 
+    "beat": "0821", 
+    "case_number": "HW313158", 
+    "domestic": false, 
+    "iucr": "460", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71447653181741, 
+            41.80809591446824
+        ]
+    }, 
+    "community_area": "57", 
+    "date": {
+        "$date": 1369845000000
+    }, 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "ward": "14", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9167634", 
+    "block": "036XX W 47TH ST", 
+    "description": "SIMPLE"
+}

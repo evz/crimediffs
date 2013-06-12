@@ -1,1 +1,38 @@
-{"y_coordinate": "1898064", "year": "2013", "domestic": false, "case_number": "HW284355", "id": "9139245", "primary_type": "NARCOTICS", "district": "012", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68594893849972, 41.87598546573958]}, "community_area": "28", "latitude": "41.87598546573958", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1225", "date": {"$date": 1369137300000}, "ward": "2", "_id": {"$oid": "51a61f0e3c002ed20d78a900"}, "iucr": "1811", "longitude": "-87.68594893849972", "location_description": "STREET", "x_coordinate": "1160559", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "023XX W VAN BUREN ST"}
+{
+    "y_coordinate": "1898064", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284355", 
+    "id": "9139245", 
+    "primary_type": "NARCOTICS", 
+    "district": "012", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68594893849972, 
+            41.87598546573958
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.87598546573958", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1225", 
+    "date": {
+        "$date": 1369137300000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a900"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.68594893849972", 
+    "location_description": "STREET", 
+    "x_coordinate": "1160559", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "023XX W VAN BUREN ST"
+}

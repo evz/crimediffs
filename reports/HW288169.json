@@ -1,1 +1,38 @@
-{"y_coordinate": "1832174", "year": "2013", "domestic": false, "case_number": "HW288169", "id": "9143193", "primary_type": "BURGLARY", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65828065732211, 41.69500492597057]}, "community_area": "75", "latitude": "41.69500492597057", "type": "property", "description": "FORCIBLE ENTRY", "beat": "2234", "date": {"$date": 1369339020000}, "ward": "34", "_id": {"$oid": "51aa13953c002ed20d78b21e"}, "iucr": "610", "longitude": "-87.65828065732211", "location_description": "RESIDENCE", "x_coordinate": "1168612", "updated_on": {"$date": 1369442383000}, "fbi_code": "05", "block": "014XX W 109TH PL"}
+{
+    "y_coordinate": "1832174", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288169", 
+    "id": "9143193", 
+    "primary_type": "BURGLARY", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65828065732211, 
+            41.69500492597057
+        ]
+    }, 
+    "community_area": "75", 
+    "latitude": "41.69500492597057", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "2234", 
+    "date": {
+        "$date": 1369339020000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b21e"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.65828065732211", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1168612", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "05", 
+    "block": "014XX W 109TH PL"
+}

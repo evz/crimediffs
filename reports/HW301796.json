@@ -1,1 +1,38 @@
-{"y_coordinate": "1863537", "year": "2013", "domestic": false, "case_number": "HW301796", "id": "9155973", "primary_type": "ASSAULT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67720564798663, 41.781184424852356]}, "community_area": "67", "latitude": "41.781184424852356", "type": null, "description": "SIMPLE", "beat": "0714", "date": {"$date": 1370201400000}, "ward": "15", "_id": {"$oid": "51b5f1183c002ed20d78cc97"}, "iucr": "560", "longitude": "-87.67720564798663", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1163204", "updated_on": {"$date": 1370479286000}, "fbi_code": "08A", "block": "021XX W 62ND ST"}
+{
+    "y_coordinate": "1863537", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301796", 
+    "id": "9155973", 
+    "primary_type": "ASSAULT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67720564798663, 
+            41.781184424852356
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.781184424852356", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0714", 
+    "date": {
+        "$date": 1370201400000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f1183c002ed20d78cc97"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.67720564798663", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1163204", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08A", 
+    "block": "021XX W 62ND ST"
+}

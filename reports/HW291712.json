@@ -1,1 +1,38 @@
-{"y_coordinate": "1919257", "year": "2013", "domestic": false, "case_number": "HW291712", "id": "9146115", "primary_type": "THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72990954906065, 41.93438347978701]}, "community_area": "21", "latitude": "41.93438347978701", "type": "property", "description": "FROM BUILDING", "beat": "2523", "date": {"$date": 1369497600000}, "ward": "31", "_id": {"$oid": "51b34a103c002ed20d78c9fe"}, "iucr": "890", "longitude": "-87.72990954906065", "location_description": "RESIDENCE", "x_coordinate": "1148437", "updated_on": {"$date": 1369874559000}, "fbi_code": "06", "block": "041XX W OAKDALE AVE"}
+{
+    "y_coordinate": "1919257", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291712", 
+    "id": "9146115", 
+    "primary_type": "THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72990954906065, 
+            41.93438347978701
+        ]
+    }, 
+    "community_area": "21", 
+    "latitude": "41.93438347978701", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "2523", 
+    "date": {
+        "$date": 1369497600000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78c9fe"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.72990954906065", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1148437", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "06", 
+    "block": "041XX W OAKDALE AVE"
+}

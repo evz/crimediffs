@@ -1,1 +1,38 @@
-{"y_coordinate": "1907956", "year": "2013", "domestic": false, "case_number": "HW302375", "id": "9156846", "primary_type": "NARCOTICS", "district": "025", "arrest": true, "location": {"type": "Point", "coordinates": [-87.73169297319657, 41.90338028767167]}, "community_area": "23", "latitude": "41.90338028767167", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "2534", "date": {"$date": 1370260680000}, "ward": "37", "_id": {"$oid": "51b7429d3c002ed20d78d44f"}, "iucr": "1811", "longitude": "-87.73169297319657", "location_description": "SIDEWALK", "x_coordinate": "1148031", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "042XX W CRYSTAL ST"}
+{
+    "y_coordinate": "1907956", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302375", 
+    "id": "9156846", 
+    "primary_type": "NARCOTICS", 
+    "district": "025", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73169297319657, 
+            41.90338028767167
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.90338028767167", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "2534", 
+    "date": {
+        "$date": 1370260680000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51b7429d3c002ed20d78d44f"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.73169297319657", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1148031", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "042XX W CRYSTAL ST"
+}

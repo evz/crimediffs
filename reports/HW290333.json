@@ -1,1 +1,38 @@
-{"y_coordinate": "1907497", "year": "2013", "domestic": false, "case_number": "HW290333", "id": "9145037", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71882666295056, 41.90205255075738]}, "community_area": "23", "latitude": "41.90205255075738", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "1112", "date": {"$date": 1369476480000}, "ward": "27", "_id": {"$oid": "51b34a123c002ed20d78cacc"}, "iucr": "2024", "longitude": "-87.71882666295056", "location_description": "SIDEWALK", "x_coordinate": "1151537", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "011XX N LAWNDALE AVE"}
+{
+    "y_coordinate": "1907497", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290333", 
+    "id": "9145037", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71882666295056, 
+            41.90205255075738
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.90205255075738", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "1112", 
+    "date": {
+        "$date": 1369476480000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cacc"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.71882666295056", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1151537", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "011XX N LAWNDALE AVE"
+}

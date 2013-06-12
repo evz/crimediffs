@@ -1,1 +1,38 @@
-{"y_coordinate": "1829369", "year": "2013", "domestic": false, "case_number": "HW288887", "id": "9144053", "primary_type": "CRIMINAL DAMAGE", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65302723287425, 41.6872760908941]}, "community_area": "75", "latitude": "41.6872760908941", "type": "quality", "description": "TO VEHICLE", "beat": "2234", "date": {"$date": 1369399200000}, "ward": "34", "_id": {"$oid": "51aa13913c002ed20d78b040"}, "iucr": "1320", "longitude": "-87.65302723287425", "location_description": "STREET", "x_coordinate": "1170069", "updated_on": {"$date": 1369615194000}, "fbi_code": "14", "block": "113XX S ELIZABETH ST"}
+{
+    "y_coordinate": "1829369", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288887", 
+    "id": "9144053", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65302723287425, 
+            41.6872760908941
+        ]
+    }, 
+    "community_area": "75", 
+    "latitude": "41.6872760908941", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "2234", 
+    "date": {
+        "$date": 1369399200000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b040"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.65302723287425", 
+    "location_description": "STREET", 
+    "x_coordinate": "1170069", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "14", 
+    "block": "113XX S ELIZABETH ST"
+}

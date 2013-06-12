@@ -1,1 +1,38 @@
-{"y_coordinate": "1865339", "year": "2013", "domestic": false, "case_number": "HW283091", "id": "9137794", "primary_type": "THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69373522845508, 41.78622285553919]}, "community_area": "66", "latitude": "41.78622285553919", "type": "property", "description": "FROM BUILDING", "beat": "0824", "date": {"$date": 1369062900000}, "ward": "16", "_id": {"$oid": "51a4cd913c002ed20d78a4ce"}, "iucr": "890", "longitude": "-87.69373522845508", "location_description": "GAS STATION", "x_coordinate": "1158682", "updated_on": {"$date": 1369269615000}, "fbi_code": "06", "block": "059XX S CALIFORNIA AVE"}
+{
+    "y_coordinate": "1865339", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283091", 
+    "id": "9137794", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69373522845508, 
+            41.78622285553919
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.78622285553919", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0824", 
+    "date": {
+        "$date": 1369062900000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a4ce"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.69373522845508", 
+    "location_description": "GAS STATION", 
+    "x_coordinate": "1158682", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "06", 
+    "block": "059XX S CALIFORNIA AVE"
+}

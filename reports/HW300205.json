@@ -1,1 +1,38 @@
-{"y_coordinate": "1910261", "year": "2013", "domestic": false, "case_number": "HW300205", "id": "9154715", "primary_type": "CRIMINAL TRESPASS", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74331201064736, 41.909766042528794]}, "community_area": "25", "latitude": "41.909766042528794", "type": null, "description": "TO LAND", "beat": "2533", "date": {"$date": 1370102400000}, "ward": "37", "_id": {"$oid": "51b5f11f3c002ed20d78d048"}, "iucr": "1330", "longitude": "-87.74331201064736", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1144852", "updated_on": {"$date": 1370306580000}, "fbi_code": "26", "block": "046XX W NORTH AVE"}
+{
+    "y_coordinate": "1910261", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300205", 
+    "id": "9154715", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74331201064736, 
+            41.909766042528794
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.909766042528794", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "2533", 
+    "date": {
+        "$date": 1370102400000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d048"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.74331201064736", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1144852", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "26", 
+    "block": "046XX W NORTH AVE"
+}

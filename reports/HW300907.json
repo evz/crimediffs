@@ -1,1 +1,38 @@
-{"y_coordinate": "1868838", "year": "2013", "domestic": true, "case_number": "HW300907", "id": "9155267", "primary_type": "BATTERY", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.65263478671554, 41.79558893592563]}, "community_area": "61", "latitude": "41.79558893592563", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0934", "date": {"$date": 1370160000000}, "ward": "16", "_id": {"$oid": "51b5f11c3c002ed20d78ce3c"}, "iucr": "486", "longitude": "-87.65263478671554", "location_description": "APARTMENT", "x_coordinate": "1169864", "updated_on": {"$date": 1370306580000}, "fbi_code": "08B", "block": "054XX S ABERDEEN ST"}
+{
+    "y_coordinate": "1868838", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300907", 
+    "id": "9155267", 
+    "primary_type": "BATTERY", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65263478671554, 
+            41.79558893592563
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.79558893592563", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0934", 
+    "date": {
+        "$date": 1370160000000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce3c"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.65263478671554", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1169864", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08B", 
+    "block": "054XX S ABERDEEN ST"
+}

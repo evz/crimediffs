@@ -1,1 +1,38 @@
-{"y_coordinate": "1915463", "year": "2013", "domestic": false, "case_number": "HW290270", "id": "9145151", "primary_type": "CRIMINAL DAMAGE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7502280931317, 41.924076869002725]}, "community_area": "19", "latitude": "41.924076869002725", "type": "quality", "description": "TO PROPERTY", "beat": "2522", "date": {"$date": 1369422000000}, "ward": "31", "_id": {"$oid": "51aa138e3c002ed20d78af04"}, "iucr": "1310", "longitude": "-87.7502280931317", "location_description": "MEDICAL/DENTAL OFFICE", "x_coordinate": "1142934", "updated_on": {"$date": 1369874559000}, "fbi_code": "14", "block": "049XX W FULLERTON AVE"}
+{
+    "y_coordinate": "1915463", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290270", 
+    "id": "9145151", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7502280931317, 
+            41.924076869002725
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.924076869002725", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "2522", 
+    "date": {
+        "$date": 1369422000000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51aa138e3c002ed20d78af04"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.7502280931317", 
+    "location_description": "MEDICAL/DENTAL OFFICE", 
+    "x_coordinate": "1142934", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "14", 
+    "block": "049XX W FULLERTON AVE"
+}

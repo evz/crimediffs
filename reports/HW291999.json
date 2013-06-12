@@ -1,1 +1,38 @@
-{"y_coordinate": "1884278", "year": "2013", "domestic": false, "case_number": "HW291999", "id": "9146321", "primary_type": "CRIMINAL DAMAGE", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7318322594776, 41.838402583982045]}, "community_area": "30", "latitude": "41.838402583982045", "type": "quality", "description": "TO VEHICLE", "beat": "1031", "date": {"$date": 1369483140000}, "ward": "22", "_id": {"$oid": "51b34a113c002ed20d78ca9d"}, "iucr": "1320", "longitude": "-87.7318322594776", "location_description": "STREET", "x_coordinate": "1148159", "updated_on": {"$date": 1369787985000}, "fbi_code": "14", "block": "030XX S KILDARE AVE"}
+{
+    "y_coordinate": "1884278", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291999", 
+    "id": "9146321", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7318322594776, 
+            41.838402583982045
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.838402583982045", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1031", 
+    "date": {
+        "$date": 1369483140000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca9d"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.7318322594776", 
+    "location_description": "STREET", 
+    "x_coordinate": "1148159", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "14", 
+    "block": "030XX S KILDARE AVE"
+}

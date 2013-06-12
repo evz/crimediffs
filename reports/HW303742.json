@@ -1,1 +1,38 @@
-{"y_coordinate": "1856374", "year": "2013", "domestic": false, "case_number": "HW303742", "id": "9158676", "primary_type": "BURGLARY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.57479546545818, 41.760896529127685]}, "community_area": "43", "latitude": "41.760896529127685", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0333", "date": {"$date": 1370273400000}, "ward": "5", "_id": {"$oid": "51b7429c3c002ed20d78d3a5"}, "iucr": "610", "longitude": "-87.57479546545818", "location_description": "CHURCH/SYNAGOGUE/PLACE OF WORSHIP", "x_coordinate": "1191201", "updated_on": {"$date": 1370479286000}, "fbi_code": "05", "block": "073XX S CHAPPEL AVE"}
+{
+    "y_coordinate": "1856374", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303742", 
+    "id": "9158676", 
+    "primary_type": "BURGLARY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57479546545818, 
+            41.760896529127685
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.760896529127685", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0333", 
+    "date": {
+        "$date": 1370273400000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51b7429c3c002ed20d78d3a5"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.57479546545818", 
+    "location_description": "CHURCH/SYNAGOGUE/PLACE OF WORSHIP", 
+    "x_coordinate": "1191201", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "05", 
+    "block": "073XX S CHAPPEL AVE"
+}

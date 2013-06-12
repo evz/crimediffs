@@ -1,1 +1,38 @@
-{"y_coordinate": "1869351", "year": "2013", "domestic": false, "case_number": "HW290079", "id": "9144942", "primary_type": "OTHER OFFENSE", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75127022925798, 41.79753887130583]}, "community_area": "56", "latitude": "41.79753887130583", "type": null, "description": "TELEPHONE THREAT", "beat": "0814", "date": {"$date": 1369465200000}, "ward": "23", "_id": {"$oid": "51b34a123c002ed20d78cb1b"}, "iucr": "2820", "longitude": "-87.75127022925798", "location_description": "RESIDENCE", "x_coordinate": "1142963", "updated_on": {"$date": 1369874559000}, "fbi_code": "26", "block": "056XX S ARCHER AVE"}
+{
+    "y_coordinate": "1869351", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290079", 
+    "id": "9144942", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75127022925798, 
+            41.79753887130583
+        ]
+    }, 
+    "community_area": "56", 
+    "latitude": "41.79753887130583", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "0814", 
+    "date": {
+        "$date": 1369465200000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cb1b"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.75127022925798", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1142963", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "26", 
+    "block": "056XX S ARCHER AVE"
+}

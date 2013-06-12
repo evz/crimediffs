@@ -1,1 +1,38 @@
-{"y_coordinate": "1889043", "year": "2013", "domestic": false, "case_number": "HW288639", "id": "9143720", "primary_type": "NARCOTICS", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.73535802932419, 41.85149742111317]}, "community_area": "29", "latitude": "41.85149742111317", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "1012", "date": {"$date": 1369384620000}, "ward": "24", "_id": {"$oid": "51aa13933c002ed20d78b0f2"}, "iucr": "2024", "longitude": "-87.73535802932419", "location_description": "STREET", "x_coordinate": "1147165", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "044XX W CERMAK RD"}
+{
+    "y_coordinate": "1889043", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288639", 
+    "id": "9143720", 
+    "primary_type": "NARCOTICS", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73535802932419, 
+            41.85149742111317
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85149742111317", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "1012", 
+    "date": {
+        "$date": 1369384620000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b0f2"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.73535802932419", 
+    "location_description": "STREET", 
+    "x_coordinate": "1147165", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "044XX W CERMAK RD"
+}

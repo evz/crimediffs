@@ -1,1 +1,38 @@
-{"y_coordinate": "1929040", "year": "2013", "domestic": false, "case_number": "HW285833", "id": "9140795", "primary_type": "CRIMINAL DAMAGE", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75921972305689, 41.96138046540288]}, "community_area": "15", "latitude": "41.96138046540288", "type": "quality", "description": "TO PROPERTY", "beat": "1623", "date": {"$date": 1369165200000}, "ward": "45", "_id": {"$oid": "51a61f0a3c002ed20d78a77f"}, "iucr": "1310", "longitude": "-87.75921972305689", "location_description": "DRIVEWAY - RESIDENTIAL", "x_coordinate": "1140396", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "052XX W AGATITE AVE"}
+{
+    "y_coordinate": "1929040", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285833", 
+    "id": "9140795", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75921972305689, 
+            41.96138046540288
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.96138046540288", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1623", 
+    "date": {
+        "$date": 1369165200000
+    }, 
+    "ward": "45", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a77f"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.75921972305689", 
+    "location_description": "DRIVEWAY - RESIDENTIAL", 
+    "x_coordinate": "1140396", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "052XX W AGATITE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1921748", "year": "2013", "domestic": true, "case_number": "HW289087", "id": "9144436", "primary_type": "OFFENSE INVOLVING CHILDREN", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.78633669514687, 41.94150202760217]}, "community_area": "17", "latitude": "41.94150202760217", "type": null, "description": "ENDANGERING LIFE/HEALTH CHILD", "beat": "1632", "date": {"$date": 1369326600000}, "ward": "36", "_id": {"$oid": "51aa13963c002ed20d78b2ae"}, "iucr": "1710", "longitude": "-87.78633669514687", "location_description": "APARTMENT", "x_coordinate": "1133067", "updated_on": {"$date": 1369787985000}, "fbi_code": "26", "block": "033XX N NARRAGANSETT AVE"}
+{
+    "y_coordinate": "1921748", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289087", 
+    "id": "9144436", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78633669514687, 
+            41.94150202760217
+        ]
+    }, 
+    "community_area": "17", 
+    "latitude": "41.94150202760217", 
+    "type": null, 
+    "description": "ENDANGERING LIFE/HEALTH CHILD", 
+    "beat": "1632", 
+    "date": {
+        "$date": 1369326600000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b2ae"
+    }, 
+    "iucr": "1710", 
+    "longitude": "-87.78633669514687", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1133067", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "26", 
+    "block": "033XX N NARRAGANSETT AVE"
+}

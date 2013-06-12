@@ -1,1 +1,38 @@
-{"y_coordinate": "1868670", "year": "2013", "domestic": false, "case_number": "HW290514", "id": "9145132", "primary_type": "OTHER OFFENSE", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58379239224466, 41.79469934269988]}, "community_area": "41", "latitude": "41.79469934269988", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "0235", "date": {"$date": 1369490400000}, "ward": "5", "_id": {"$oid": "51b34a103c002ed20d78ca53"}, "iucr": "2825", "longitude": "-87.58379239224466", "location_description": "APARTMENT", "x_coordinate": "1188639", "updated_on": {"$date": 1369960832000}, "fbi_code": "26", "block": "055XX S HYDE PARK BLVD"}
+{
+    "y_coordinate": "1868670", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290514", 
+    "id": "9145132", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58379239224466, 
+            41.79469934269988
+        ]
+    }, 
+    "community_area": "41", 
+    "latitude": "41.79469934269988", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "0235", 
+    "date": {
+        "$date": 1369490400000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78ca53"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.58379239224466", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1188639", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "26", 
+    "block": "055XX S HYDE PARK BLVD"
+}

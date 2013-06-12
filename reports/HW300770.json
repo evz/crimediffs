@@ -1,1 +1,38 @@
-{"y_coordinate": "1829953", "year": "2013", "domestic": false, "case_number": "HW300770", "id": "9155153", "primary_type": "MOTOR VEHICLE THEFT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67023157067901, 41.68897933799239]}, "community_area": "75", "latitude": "41.68897933799239", "type": "property", "description": "AUTOMOBILE", "beat": "2212", "date": {"$date": 1370127600000}, "ward": "19", "_id": {"$oid": "51b5f11e3c002ed20d78cf2a"}, "iucr": "910", "longitude": "-87.67023157067901", "location_description": "STREET", "x_coordinate": "1165365", "updated_on": {"$date": 1370738354000}, "fbi_code": "07", "block": "112XX S HOMEWOOD AVE"}
+{
+    "y_coordinate": "1829953", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300770", 
+    "id": "9155153", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67023157067901, 
+            41.68897933799239
+        ]
+    }, 
+    "community_area": "75", 
+    "latitude": "41.68897933799239", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "2212", 
+    "date": {
+        "$date": 1370127600000
+    }, 
+    "ward": "19", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf2a"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.67023157067901", 
+    "location_description": "STREET", 
+    "x_coordinate": "1165365", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "07", 
+    "block": "112XX S HOMEWOOD AVE"
+}

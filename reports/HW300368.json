@@ -1,1 +1,38 @@
-{"y_coordinate": "1865516", "year": "2013", "domestic": false, "case_number": "HW300368", "id": "9154852", "primary_type": "BATTERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66575103188393, 41.78654938479841]}, "community_area": "67", "latitude": "41.78654938479841", "type": "violent", "description": "AGGRAVATED: OTHER DANG WEAPON", "beat": "0714", "date": {"$date": 1370109600000}, "ward": "15", "_id": {"$oid": "51b5f11f3c002ed20d78d004"}, "iucr": "430", "longitude": "-87.66575103188393", "location_description": "STREET", "x_coordinate": "1166313", "updated_on": {"$date": 1370565766000}, "fbi_code": "04B", "block": "059XX S MARSHFIELD AVE"}
+{
+    "y_coordinate": "1865516", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300368", 
+    "id": "9154852", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66575103188393, 
+            41.78654938479841
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.78654938479841", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "0714", 
+    "date": {
+        "$date": 1370109600000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d004"
+    }, 
+    "iucr": "430", 
+    "longitude": "-87.66575103188393", 
+    "location_description": "STREET", 
+    "x_coordinate": "1166313", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "04B", 
+    "block": "059XX S MARSHFIELD AVE"
+}

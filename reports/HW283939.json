@@ -1,1 +1,38 @@
-{"y_coordinate": "1888986", "year": "2013", "domestic": false, "case_number": "HW283939", "id": "9138475", "primary_type": "THEFT", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72387155107275, 41.851280620307534]}, "community_area": "29", "latitude": "41.851280620307534", "type": "property", "description": "FINANCIAL ID THEFT: OVER $300", "beat": "1013", "date": {"$date": 1369104900000}, "ward": "22", "_id": {"$oid": "51a4cd8a3c002ed20d78a301"}, "iucr": "840", "longitude": "-87.72387155107275", "location_description": "GAS STATION", "x_coordinate": "1150295", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "039XX W OGDEN AVE"}
+{
+    "y_coordinate": "1888986", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283939", 
+    "id": "9138475", 
+    "primary_type": "THEFT", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72387155107275, 
+            41.851280620307534
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.851280620307534", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "1013", 
+    "date": {
+        "$date": 1369104900000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51a4cd8a3c002ed20d78a301"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.72387155107275", 
+    "location_description": "GAS STATION", 
+    "x_coordinate": "1150295", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "039XX W OGDEN AVE"
+}

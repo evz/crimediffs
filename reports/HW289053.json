@@ -1,1 +1,38 @@
-{"y_coordinate": "1878386", "year": "2013", "domestic": false, "case_number": "HW289053", "id": "9161872", "primary_type": "NARCOTICS", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62007816581321, 41.82159375652741]}, "community_area": "38", "latitude": "41.82159375652741", "type": "quality", "description": "MANU/DEL:CANNABIS 10GM OR LESS", "beat": "0213", "date": {"$date": 1369404840000}, "ward": "3", "_id": {"$oid": "51b34a153c002ed20d78cb42"}, "iucr": "1821", "longitude": "-87.62007816581321", "location_description": "CHA PARKING LOT/GROUNDS", "x_coordinate": "1178663", "updated_on": {"$date": 1370651988000}, "fbi_code": "18", "block": "040XX S PRAIRIE AVE"}
+{
+    "y_coordinate": "1878386", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289053", 
+    "id": "9161872", 
+    "primary_type": "NARCOTICS", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62007816581321, 
+            41.82159375652741
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.82159375652741", 
+    "type": "quality", 
+    "description": "MANU/DEL:CANNABIS 10GM OR LESS", 
+    "beat": "0213", 
+    "date": {
+        "$date": 1369404840000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51b34a153c002ed20d78cb42"
+    }, 
+    "iucr": "1821", 
+    "longitude": "-87.62007816581321", 
+    "location_description": "CHA PARKING LOT/GROUNDS", 
+    "x_coordinate": "1178663", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "18", 
+    "block": "040XX S PRAIRIE AVE"
+}

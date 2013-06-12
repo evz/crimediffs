@@ -1,1 +1,38 @@
-{"y_coordinate": "1926608", "year": "2013", "domestic": false, "case_number": "HW290584", "id": "9145214", "primary_type": "THEFT", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7382480658664, 41.95459975281881]}, "community_area": "16", "latitude": "41.95459975281881", "type": "property", "description": "$500 AND UNDER", "beat": "1722", "date": {"$date": 1369420200000}, "ward": "38", "_id": {"$oid": "51aa138e3c002ed20d78af1b"}, "iucr": "820", "longitude": "-87.7382480658664", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1146117", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "040XX N KOSTNER AVE"}
+{
+    "y_coordinate": "1926608", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290584", 
+    "id": "9145214", 
+    "primary_type": "THEFT", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7382480658664, 
+            41.95459975281881
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.95459975281881", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1722", 
+    "date": {
+        "$date": 1369420200000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51aa138e3c002ed20d78af1b"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.7382480658664", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1146117", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "040XX N KOSTNER AVE"
+}

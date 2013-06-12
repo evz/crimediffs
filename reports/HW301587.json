@@ -1,1 +1,38 @@
-{"y_coordinate": "1872341", "year": "2013", "domestic": false, "case_number": "HW301587", "id": "9155869", "primary_type": "BATTERY", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67596895451231, 41.80533805722403]}, "community_area": "61", "latitude": "41.80533805722403", "type": "violent", "description": "AGGRAVATED: OTHER DANG WEAPON", "beat": "0931", "date": {"$date": 1370201700000}, "ward": "12", "_id": {"$oid": "51b5f1183c002ed20d78cc94"}, "iucr": "430", "longitude": "-87.67596895451231", "location_description": "SIDEWALK", "x_coordinate": "1163474", "updated_on": {"$date": 1370738354000}, "fbi_code": "04B", "block": "048XX S SEELEY AVE"}
+{
+    "y_coordinate": "1872341", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301587", 
+    "id": "9155869", 
+    "primary_type": "BATTERY", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67596895451231, 
+            41.80533805722403
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.80533805722403", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "0931", 
+    "date": {
+        "$date": 1370201700000
+    }, 
+    "ward": "12", 
+    "_id": {
+        "$oid": "51b5f1183c002ed20d78cc94"
+    }, 
+    "iucr": "430", 
+    "longitude": "-87.67596895451231", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1163474", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "04B", 
+    "block": "048XX S SEELEY AVE"
+}

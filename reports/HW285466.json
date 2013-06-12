@@ -1,1 +1,38 @@
-{"y_coordinate": "1901521", "year": "2013", "domestic": false, "case_number": "HW285466", "id": "9145440", "primary_type": "THEFT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62463096829396, 41.885110281479236]}, "community_area": "32", "latitude": "41.885110281479236", "type": "property", "description": "RETAIL THEFT", "beat": "0111", "date": {"$date": 1369191600000}, "ward": "42", "_id": {"$oid": "51a61f053c002ed20d78a679"}, "iucr": "860", "longitude": "-87.62463096829396", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1177231", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "001XX N MICHIGAN AVE"}
+{
+    "y_coordinate": "1901521", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285466", 
+    "id": "9145440", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62463096829396, 
+            41.885110281479236
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.885110281479236", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0111", 
+    "date": {
+        "$date": 1369191600000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a61f053c002ed20d78a679"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.62463096829396", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1177231", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "001XX N MICHIGAN AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1904160", "year": "2013", "domestic": true, "case_number": "HW300914", "id": "9155275", "primary_type": "ASSAULT", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.75748102529282, 41.8930953621802]}, "community_area": "25", "latitude": "41.8930953621802", "type": "violent", "description": "AGGRAVATED: OTHER DANG WEAPON", "beat": "1524", "date": {"$date": 1370164080000}, "ward": "28", "_id": {"$oid": "51b5f11c3c002ed20d78ce1e"}, "iucr": "530", "longitude": "-87.75748102529282", "location_description": "STREET", "x_coordinate": "1141036", "updated_on": {"$date": 1370392932000}, "fbi_code": "04A", "block": "052XX W HURON ST"}
+{
+    "y_coordinate": "1904160", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300914", 
+    "id": "9155275", 
+    "primary_type": "ASSAULT", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75748102529282, 
+            41.8930953621802
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.8930953621802", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "1524", 
+    "date": {
+        "$date": 1370164080000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce1e"
+    }, 
+    "iucr": "530", 
+    "longitude": "-87.75748102529282", 
+    "location_description": "STREET", 
+    "x_coordinate": "1141036", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "04A", 
+    "block": "052XX W HURON ST"
+}

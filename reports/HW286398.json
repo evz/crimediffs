@@ -1,1 +1,38 @@
-{"y_coordinate": "1889692", "year": "2013", "domestic": false, "case_number": "HW286398", "id": "9141259", "primary_type": "THEFT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71933493442768, 41.85319390613949]}, "community_area": "29", "latitude": "41.85319390613949", "type": "property", "description": "FROM BUILDING", "beat": "1014", "date": {"$date": 1369231200000}, "ward": "24", "_id": {"$oid": "51a7708b3c002ed20d78ac26"}, "iucr": "890", "longitude": "-87.71933493442768", "location_description": "ATHLETIC CLUB", "x_coordinate": "1151526", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "037XX W OGDEN AVE"}
+{
+    "y_coordinate": "1889692", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286398", 
+    "id": "9141259", 
+    "primary_type": "THEFT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71933493442768, 
+            41.85319390613949
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85319390613949", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1014", 
+    "date": {
+        "$date": 1369231200000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac26"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.71933493442768", 
+    "location_description": "ATHLETIC CLUB", 
+    "x_coordinate": "1151526", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "037XX W OGDEN AVE"
+}

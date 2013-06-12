@@ -1,1 +1,38 @@
-{"y_coordinate": "1893428", "year": "2013", "domestic": false, "case_number": "HW287482", "id": "9142422", "primary_type": "CRIMINAL DAMAGE", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71640655436374, 41.86343076370972]}, "community_area": "29", "latitude": "41.86343076370972", "type": "quality", "description": "TO PROPERTY", "beat": "1011", "date": {"$date": 1369213200000}, "ward": "24", "_id": {"$oid": "51a7708d3c002ed20d78ace2"}, "iucr": "1310", "longitude": "-87.71640655436374", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1152297", "updated_on": {"$date": 1369528777000}, "fbi_code": "14", "block": "013XX S MILLARD AVE"}
+{
+    "y_coordinate": "1893428", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287482", 
+    "id": "9142422", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71640655436374, 
+            41.86343076370972
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.86343076370972", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1011", 
+    "date": {
+        "$date": 1369213200000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ace2"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.71640655436374", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1152297", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "14", 
+    "block": "013XX S MILLARD AVE"
+}

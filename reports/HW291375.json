@@ -1,1 +1,38 @@
-{"y_coordinate": "1921390", "year": "2013", "domestic": false, "case_number": "HW291375", "id": "9145815", "primary_type": "DECEPTIVE PRACTICE", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69909171763065, 41.94007080324443]}, "community_area": "21", "latitude": "41.94007080324443", "type": null, "description": "FRAUD OR CONFIDENCE GAME", "beat": "1733", "date": {"$date": 1369494720000}, "ward": "33", "_id": {"$oid": "51b34a103c002ed20d78ca1f"}, "iucr": "1130", "longitude": "-87.69909171763065", "location_description": "RESTAURANT", "x_coordinate": "1156807", "updated_on": {"$date": 1369701613000}, "fbi_code": "11", "block": "032XX N ELSTON AVE"}
+{
+    "y_coordinate": "1921390", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291375", 
+    "id": "9145815", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69909171763065, 
+            41.94007080324443
+        ]
+    }, 
+    "community_area": "21", 
+    "latitude": "41.94007080324443", 
+    "type": null, 
+    "description": "FRAUD OR CONFIDENCE GAME", 
+    "beat": "1733", 
+    "date": {
+        "$date": 1369494720000
+    }, 
+    "ward": "33", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78ca1f"
+    }, 
+    "iucr": "1130", 
+    "longitude": "-87.69909171763065", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1156807", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "11", 
+    "block": "032XX N ELSTON AVE"
+}

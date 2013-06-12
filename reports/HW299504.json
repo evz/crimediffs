@@ -1,1 +1,38 @@
-{"y_coordinate": "1866395", "year": "2013", "domestic": false, "case_number": "HW299504", "id": "9154204", "primary_type": "MOTOR VEHICLE THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68893606056494, 41.78909400668036]}, "community_area": "63", "latitude": "41.78909400668036", "type": "property", "description": "TRUCK, BUS, MOTOR HOME", "beat": "0824", "date": {"$date": 1370063700000}, "ward": "16", "_id": {"$oid": "51b5f1213c002ed20d78d1a5"}, "iucr": "915", "longitude": "-87.68893606056494", "location_description": "STREET", "x_coordinate": "1159983", "updated_on": {"$date": 1370392932000}, "fbi_code": "07", "block": "057XX S ROCKWELL ST"}
+{
+    "y_coordinate": "1866395", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299504", 
+    "id": "9154204", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68893606056494, 
+            41.78909400668036
+        ]
+    }, 
+    "community_area": "63", 
+    "latitude": "41.78909400668036", 
+    "type": "property", 
+    "description": "TRUCK, BUS, MOTOR HOME", 
+    "beat": "0824", 
+    "date": {
+        "$date": 1370063700000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d1a5"
+    }, 
+    "iucr": "915", 
+    "longitude": "-87.68893606056494", 
+    "location_description": "STREET", 
+    "x_coordinate": "1159983", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "07", 
+    "block": "057XX S ROCKWELL ST"
+}

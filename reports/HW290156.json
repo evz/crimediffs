@@ -1,1 +1,38 @@
-{"y_coordinate": "1922794", "year": "2013", "domestic": false, "case_number": "HW290156", "id": "9145212", "primary_type": "MOTOR VEHICLE THEFT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76004247670555, 41.944244203015764]}, "community_area": "15", "latitude": "41.944244203015764", "type": "property", "description": "AUTOMOBILE", "beat": "1634", "date": {"$date": 1369429200000}, "ward": "38", "_id": {"$oid": "51aa138d3c002ed20d78ae9c"}, "iucr": "910", "longitude": "-87.76004247670555", "location_description": "STREET", "x_coordinate": "1140214", "updated_on": {"$date": 1370306580000}, "fbi_code": "07", "block": "053XX W CORNELIA AVE"}
+{
+    "y_coordinate": "1922794", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290156", 
+    "id": "9145212", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76004247670555, 
+            41.944244203015764
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.944244203015764", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1634", 
+    "date": {
+        "$date": 1369429200000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78ae9c"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.76004247670555", 
+    "location_description": "STREET", 
+    "x_coordinate": "1140214", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "07", 
+    "block": "053XX W CORNELIA AVE"
+}

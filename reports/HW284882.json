@@ -1,1 +1,38 @@
-{"y_coordinate": "1913897", "year": "2013", "domestic": false, "case_number": "HW284882", "id": "9139672", "primary_type": "BATTERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77572951483083, 41.91990607435866]}, "community_area": "19", "latitude": "41.91990607435866", "type": "violent", "description": "AGGRAVATED: OTHER DANG WEAPON", "beat": "2512", "date": {"$date": 1369158180000}, "ward": "29", "_id": {"$oid": "51a61f0b3c002ed20d78a7e5"}, "iucr": "430", "longitude": "-87.77572951483083", "location_description": "RESIDENCE", "x_coordinate": "1136004", "updated_on": {"$date": 1370651988000}, "fbi_code": "04B", "block": "021XX N AUSTIN AVE"}
+{
+    "y_coordinate": "1913897", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284882", 
+    "id": "9139672", 
+    "primary_type": "BATTERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77572951483083, 
+            41.91990607435866
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.91990607435866", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "2512", 
+    "date": {
+        "$date": 1369158180000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a7e5"
+    }, 
+    "iucr": "430", 
+    "longitude": "-87.77572951483083", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1136004", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "04B", 
+    "block": "021XX N AUSTIN AVE"
+}

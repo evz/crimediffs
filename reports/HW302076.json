@@ -1,1 +1,38 @@
-{"y_coordinate": "1896858", "year": "2013", "domestic": false, "case_number": "HW302076", "id": "9156326", "primary_type": "MOTOR VEHICLE THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71193596740046, 41.8728194521435]}, "community_area": "27", "latitude": "41.8728194521435", "type": "property", "description": "AUTOMOBILE", "beat": "1133", "date": {"$date": 1370250000000}, "ward": "24", "_id": {"$oid": "51b7429e3c002ed20d78d4c8"}, "iucr": "910", "longitude": "-87.71193596740046", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1153490", "updated_on": {"$date": 1370479286000}, "fbi_code": "07", "block": "034XX W FLOURNOY ST"}
+{
+    "y_coordinate": "1896858", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302076", 
+    "id": "9156326", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71193596740046, 
+            41.8728194521435
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.8728194521435", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1133", 
+    "date": {
+        "$date": 1370250000000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b7429e3c002ed20d78d4c8"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.71193596740046", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1153490", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "07", 
+    "block": "034XX W FLOURNOY ST"
+}

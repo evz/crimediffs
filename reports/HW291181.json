@@ -1,1 +1,38 @@
-{"y_coordinate": "1871926", "year": "2013", "domestic": false, "case_number": "HW291181", "id": "9145687", "primary_type": "BATTERY", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60143869921875, 41.8037484988776]}, "community_area": "39", "latitude": "41.8037484988776", "type": null, "description": "SIMPLE", "beat": "0222", "date": {"$date": 1369537800000}, "ward": "4", "_id": {"$oid": "51b34a0c3c002ed20d78c837"}, "iucr": "460", "longitude": "-87.60143869921875", "location_description": "STREET", "x_coordinate": "1183799", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "050XX S ELLIS AVE"}
+{
+    "y_coordinate": "1871926", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291181", 
+    "id": "9145687", 
+    "primary_type": "BATTERY", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60143869921875, 
+            41.8037484988776
+        ]
+    }, 
+    "community_area": "39", 
+    "latitude": "41.8037484988776", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0222", 
+    "date": {
+        "$date": 1369537800000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51b34a0c3c002ed20d78c837"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.60143869921875", 
+    "location_description": "STREET", 
+    "x_coordinate": "1183799", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "050XX S ELLIS AVE"
+}

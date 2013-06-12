@@ -1,1 +1,38 @@
-{"y_coordinate": "1898270", "year": "2013", "domestic": false, "case_number": "HW284569", "id": "9151547", "primary_type": "NARCOTICS", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.74661458160425, 41.876876739218794]}, "community_area": "25", "latitude": "41.876876739218794", "type": "quality", "description": "MANU/DEL:CANNABIS 10GM OR LESS", "beat": "1533", "date": {"$date": 1369141200000}, "ward": "28", "_id": {"$oid": "51aa139c3c002ed20d78b44d"}, "iucr": "1821", "longitude": "-87.74661458160425", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1144035", "updated_on": {"$date": 1370651988000}, "fbi_code": "18", "block": "048XX W JACKSON BLVD"}
+{
+    "y_coordinate": "1898270", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284569", 
+    "id": "9151547", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74661458160425, 
+            41.876876739218794
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.876876739218794", 
+    "type": "quality", 
+    "description": "MANU/DEL:CANNABIS 10GM OR LESS", 
+    "beat": "1533", 
+    "date": {
+        "$date": 1369141200000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51aa139c3c002ed20d78b44d"
+    }, 
+    "iucr": "1821", 
+    "longitude": "-87.74661458160425", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1144035", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "18", 
+    "block": "048XX W JACKSON BLVD"
+}

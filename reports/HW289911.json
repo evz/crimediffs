@@ -1,1 +1,38 @@
-{"y_coordinate": "1942368", "year": "2013", "domestic": false, "case_number": "HW289911", "id": "9144731", "primary_type": "BURGLARY", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67364187579277, 41.997495303734546]}, "community_area": "77", "latitude": "41.997495303734546", "type": "property", "description": "FORCIBLE ENTRY", "beat": "2433", "date": {"$date": 1369431900000}, "ward": "40", "_id": {"$oid": "51aa138d3c002ed20d78ae76"}, "iucr": "610", "longitude": "-87.67364187579277", "location_description": "APARTMENT", "x_coordinate": "1163570", "updated_on": {"$date": 1370392932000}, "fbi_code": "05", "block": "063XX N HERMITAGE AVE"}
+{
+    "y_coordinate": "1942368", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289911", 
+    "id": "9144731", 
+    "primary_type": "BURGLARY", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67364187579277, 
+            41.997495303734546
+        ]
+    }, 
+    "community_area": "77", 
+    "latitude": "41.997495303734546", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "2433", 
+    "date": {
+        "$date": 1369431900000
+    }, 
+    "ward": "40", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78ae76"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.67364187579277", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1163570", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "05", 
+    "block": "063XX N HERMITAGE AVE"
+}

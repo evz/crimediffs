@@ -1,1 +1,38 @@
-{"y_coordinate": "1833024", "year": "2013", "domestic": false, "case_number": "HW283763", "id": "9138250", "primary_type": "OTHER OFFENSE", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71066297304019, 41.69763336786868]}, "community_area": "74", "latitude": "41.69763336786868", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "2211", "date": {"$date": 1369086300000}, "ward": "19", "_id": {"$oid": "51a4cd8d3c002ed20d78a387"}, "iucr": "2825", "longitude": "-87.71066297304019", "location_description": "RESIDENCE", "x_coordinate": "1154299", "updated_on": {"$date": 1370133629000}, "fbi_code": "26", "block": "107XX S CENTRAL PARK AVE"}
+{
+    "y_coordinate": "1833024", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283763", 
+    "id": "9138250", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71066297304019, 
+            41.69763336786868
+        ]
+    }, 
+    "community_area": "74", 
+    "latitude": "41.69763336786868", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "2211", 
+    "date": {
+        "$date": 1369086300000
+    }, 
+    "ward": "19", 
+    "_id": {
+        "$oid": "51a4cd8d3c002ed20d78a387"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.71066297304019", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1154299", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "26", 
+    "block": "107XX S CENTRAL PARK AVE"
+}

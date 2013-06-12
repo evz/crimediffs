@@ -1,1 +1,38 @@
-{"y_coordinate": "1854519", "year": "2013", "domestic": true, "case_number": "HW290966", "id": "9145569", "primary_type": "OTHER OFFENSE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58807401886668, 41.755892758587805]}, "community_area": "43", "latitude": "41.755892758587805", "type": null, "description": "TELEPHONE THREAT", "beat": "0411", "date": {"$date": 1369513200000}, "ward": "5", "_id": {"$oid": "51b34a0e3c002ed20d78c92e"}, "iucr": "2820", "longitude": "-87.58807401886668", "location_description": "RESIDENCE", "x_coordinate": "1187594", "updated_on": {"$date": 1370392932000}, "fbi_code": "26", "block": "015XX E 76TH PL"}
+{
+    "y_coordinate": "1854519", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290966", 
+    "id": "9145569", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58807401886668, 
+            41.755892758587805
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.755892758587805", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "0411", 
+    "date": {
+        "$date": 1369513200000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c92e"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.58807401886668", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1187594", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "26", 
+    "block": "015XX E 76TH PL"
+}

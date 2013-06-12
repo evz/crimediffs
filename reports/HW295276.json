@@ -1,1 +1,38 @@
-{"y_coordinate": "1914899", "year": "2013", "domestic": false, "case_number": "HW295276", "id": "9149643", "primary_type": "DECEPTIVE PRACTICE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74760767032338, 41.922515786385986]}, "community_area": "19", "latitude": "41.922515786385986", "type": null, "description": "FRAUD OR CONFIDENCE GAME", "beat": "2522", "date": {"$date": 1369180860000}, "ward": "31", "_id": {"$oid": "51a7708e3c002ed20d78ad3e"}, "iucr": "1130", "longitude": "-87.74760767032338", "location_description": "RESIDENCE", "x_coordinate": "1143651", "updated_on": {"$date": 1369960832000}, "fbi_code": "11", "block": "048XX W BELDEN AVE"}
+{
+    "y_coordinate": "1914899", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW295276", 
+    "id": "9149643", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74760767032338, 
+            41.922515786385986
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.922515786385986", 
+    "type": null, 
+    "description": "FRAUD OR CONFIDENCE GAME", 
+    "beat": "2522", 
+    "date": {
+        "$date": 1369180860000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51a7708e3c002ed20d78ad3e"
+    }, 
+    "iucr": "1130", 
+    "longitude": "-87.74760767032338", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1143651", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "11", 
+    "block": "048XX W BELDEN AVE"
+}

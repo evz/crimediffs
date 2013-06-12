@@ -1,1 +1,38 @@
-{"y_coordinate": "1897689", "year": "2013", "domestic": false, "case_number": "HW301024", "id": "9155330", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.74492919062993, 41.87527370612534]}, "community_area": "25", "latitude": "41.87527370612534", "type": "quality", "description": "POSS: COCAINE", "beat": "1131", "date": {"$date": 1370171400000}, "ward": "24", "_id": {"$oid": "51b5f11b3c002ed20d78cde5"}, "iucr": "2022", "longitude": "-87.74492919062993", "location_description": "STREET", "x_coordinate": "1144498", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "003XX S CICERO AVE"}
+{
+    "y_coordinate": "1897689", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301024", 
+    "id": "9155330", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74492919062993, 
+            41.87527370612534
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.87527370612534", 
+    "type": "quality", 
+    "description": "POSS: COCAINE", 
+    "beat": "1131", 
+    "date": {
+        "$date": 1370171400000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cde5"
+    }, 
+    "iucr": "2022", 
+    "longitude": "-87.74492919062993", 
+    "location_description": "STREET", 
+    "x_coordinate": "1144498", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "003XX S CICERO AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1911141", "year": "2013", "domestic": false, "case_number": "HW284033", "id": "9139128", "primary_type": "BURGLARY", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6493639352587, 41.91165979933717]}, "community_area": "7", "latitude": "41.91165979933717", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1813", "date": {"$date": 1369078200000}, "ward": "43", "_id": {"$oid": "51a4cd8f3c002ed20d78a3fb"}, "iucr": "610", "longitude": "-87.6493639352587", "location_description": "RESIDENCE", "x_coordinate": "1170419", "updated_on": {"$date": 1370306580000}, "fbi_code": "05", "block": "016XX N DAYTON ST"}
+{
+    "y_coordinate": "1911141", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284033", 
+    "id": "9139128", 
+    "primary_type": "BURGLARY", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6493639352587, 
+            41.91165979933717
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.91165979933717", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1813", 
+    "date": {
+        "$date": 1369078200000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a3fb"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.6493639352587", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1170419", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "05", 
+    "block": "016XX N DAYTON ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1844066", "year": "2013", "domestic": true, "case_number": "HW306151", "id": "9161074", "primary_type": "OTHER OFFENSE", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65782924288202, 41.72763778048909]}, "community_area": "73", "latitude": "41.72763778048909", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "2222", "date": {"$date": 1370203200000}, "ward": "21", "_id": {"$oid": "51b5f1183c002ed20d78cc7e"}, "iucr": "2825", "longitude": "-87.65782924288202", "location_description": "APARTMENT", "x_coordinate": "1168642", "updated_on": {"$date": 1370651988000}, "fbi_code": "26", "block": "091XX S LOOMIS ST"}
+{
+    "y_coordinate": "1844066", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW306151", 
+    "id": "9161074", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65782924288202, 
+            41.72763778048909
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.72763778048909", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "2222", 
+    "date": {
+        "$date": 1370203200000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b5f1183c002ed20d78cc7e"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.65782924288202", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1168642", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "26", 
+    "block": "091XX S LOOMIS ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1903079", "year": "2013", "domestic": false, "case_number": "HW287017", "id": "9141779", "primary_type": "ROBBERY", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62651538068957, 41.88939742027822]}, "community_area": "8", "latitude": "41.88939742027822", "type": "violent", "description": "ARMED: HANDGUN", "beat": "1834", "date": {"$date": 1369272900000}, "ward": "42", "_id": {"$oid": "51a770853c002ed20d78aa12"}, "iucr": "031A", "longitude": "-87.62651538068957", "location_description": "SIDEWALK", "x_coordinate": "1176705", "updated_on": {"$date": 1369960832000}, "fbi_code": "03", "block": "004XX N WABASH AVE"}
+{
+    "y_coordinate": "1903079", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287017", 
+    "id": "9141779", 
+    "primary_type": "ROBBERY", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62651538068957, 
+            41.88939742027822
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.88939742027822", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "1834", 
+    "date": {
+        "$date": 1369272900000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a770853c002ed20d78aa12"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.62651538068957", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1176705", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "03", 
+    "block": "004XX N WABASH AVE"
+}

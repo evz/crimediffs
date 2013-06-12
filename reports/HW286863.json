@@ -1,1 +1,38 @@
-{"y_coordinate": "1907928", "year": "2013", "domestic": false, "case_number": "HW286863", "id": "9141699", "primary_type": "BATTERY", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63726684970202, 41.90276989228834]}, "community_area": "8", "latitude": "41.90276989228834", "type": null, "description": "SIMPLE", "beat": "1823", "date": {"$date": 1369258200000}, "ward": "27", "_id": {"$oid": "51a770883c002ed20d78aabb"}, "iucr": "460", "longitude": "-87.63726684970202", "location_description": "NURSING HOME/RETIREMENT HOME", "x_coordinate": "1173738", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "011XX N ORLEANS ST"}
+{
+    "y_coordinate": "1907928", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286863", 
+    "id": "9141699", 
+    "primary_type": "BATTERY", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63726684970202, 
+            41.90276989228834
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.90276989228834", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1823", 
+    "date": {
+        "$date": 1369258200000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aabb"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.63726684970202", 
+    "location_description": "NURSING HOME/RETIREMENT HOME", 
+    "x_coordinate": "1173738", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "011XX N ORLEANS ST"
+}

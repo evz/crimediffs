@@ -1,1 +1,38 @@
-{"y_coordinate": "1866393", "year": "2013", "domestic": false, "case_number": "HW303203", "id": "9157727", "primary_type": "CRIMINAL DAMAGE", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65702508456837, 41.788905086920536]}, "community_area": "67", "latitude": "41.788905086920536", "type": "quality", "description": "TO VEHICLE", "beat": "0713", "date": {"$date": 1370279700000}, "ward": "16", "_id": {"$oid": "51b7429b3c002ed20d78d356"}, "iucr": "1320", "longitude": "-87.65702508456837", "location_description": "STREET", "x_coordinate": "1168686", "updated_on": {"$date": 1370479286000}, "fbi_code": "14", "block": "057XX S THROOP ST"}
+{
+    "y_coordinate": "1866393", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303203", 
+    "id": "9157727", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65702508456837, 
+            41.788905086920536
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.788905086920536", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0713", 
+    "date": {
+        "$date": 1370279700000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51b7429b3c002ed20d78d356"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.65702508456837", 
+    "location_description": "STREET", 
+    "x_coordinate": "1168686", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "14", 
+    "block": "057XX S THROOP ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1930982", "year": "2013", "domestic": false, "case_number": "HW300632", "id": "9155048", "primary_type": "CRIMINAL DAMAGE", "district": "019", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68898413880845, 41.966337005615216]}, "community_area": "4", "latitude": "41.966337005615216", "type": "quality", "description": "TO PROPERTY", "beat": "1911", "date": {"$date": 1370129400000}, "ward": "47", "_id": {"$oid": "51b5f11e3c002ed20d78cf1a"}, "iucr": "1310", "longitude": "-87.68898413880845", "location_description": "SIDEWALK", "x_coordinate": "1159485", "updated_on": {"$date": 1370565766000}, "fbi_code": "14", "block": "046XX N WESTERN AVE"}
+{
+    "y_coordinate": "1930982", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300632", 
+    "id": "9155048", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "019", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68898413880845, 
+            41.966337005615216
+        ]
+    }, 
+    "community_area": "4", 
+    "latitude": "41.966337005615216", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1911", 
+    "date": {
+        "$date": 1370129400000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf1a"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.68898413880845", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1159485", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "14", 
+    "block": "046XX N WESTERN AVE"
+}

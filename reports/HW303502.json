@@ -1,1 +1,38 @@
-{"y_coordinate": "1897543", "year": "2013", "domestic": false, "case_number": "HW303502", "id": "9158002", "primary_type": "THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73786866592462, 41.87483665346513]}, "community_area": "26", "latitude": "41.87483665346513", "type": "property", "description": "OVER $500", "beat": "1131", "date": {"$date": 1370317500000}, "ward": "24", "_id": {"$oid": "51b742943c002ed20d78d1d5"}, "iucr": "810", "longitude": "-87.73786866592462", "location_description": "RESIDENCE", "x_coordinate": "1146422", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "004XX S KILBOURN AVE"}
+{
+    "y_coordinate": "1897543", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303502", 
+    "id": "9158002", 
+    "primary_type": "THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73786866592462, 
+            41.87483665346513
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.87483665346513", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1131", 
+    "date": {
+        "$date": 1370317500000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b742943c002ed20d78d1d5"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.73786866592462", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1146422", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "004XX S KILBOURN AVE"
+}

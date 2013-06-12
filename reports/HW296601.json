@@ -1,1 +1,38 @@
-{"y_coordinate": "1897641", "year": "2013", "domestic": false, "case_number": "HW296601", "id": "9151175", "primary_type": "CRIMINAL TRESPASS", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73297922878328, 41.87508013425151]}, "community_area": "26", "latitude": "41.87508013425151", "type": null, "description": "TO RESIDENCE", "beat": "1131", "date": {"$date": 1369501200000}, "ward": "24", "_id": {"$oid": "51b34a0f3c002ed20d78c9c2"}, "iucr": "1365", "longitude": "-87.73297922878328", "location_description": "RESIDENCE", "x_coordinate": "1147753", "updated_on": {"$date": 1370133629000}, "fbi_code": "26", "block": "004XX S KILDARE AVE"}
+{
+    "y_coordinate": "1897641", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW296601", 
+    "id": "9151175", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73297922878328, 
+            41.87508013425151
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.87508013425151", 
+    "type": null, 
+    "description": "TO RESIDENCE", 
+    "beat": "1131", 
+    "date": {
+        "$date": 1369501200000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c9c2"
+    }, 
+    "iucr": "1365", 
+    "longitude": "-87.73297922878328", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1147753", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "26", 
+    "block": "004XX S KILDARE AVE"
+}

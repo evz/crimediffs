@@ -1,1 +1,38 @@
-{"y_coordinate": "1851685", "year": "2013", "domestic": false, "case_number": "HW304359", "id": "9159186", "primary_type": "OTHER OFFENSE", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6498966445117, 41.748499781283876]}, "community_area": "71", "latitude": "41.748499781283876", "type": null, "description": "HARASSMENT BY ELECTRONIC MEANS", "beat": "0612", "date": {"$date": 1370160000000}, "ward": "21", "_id": {"$oid": "51b5f11c3c002ed20d78ce37"}, "iucr": "2826", "longitude": "-87.6498966445117", "location_description": "APARTMENT", "x_coordinate": "1170747", "updated_on": {"$date": 1370651988000}, "fbi_code": "26", "block": "080XX S CARPENTER ST"}
+{
+    "y_coordinate": "1851685", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW304359", 
+    "id": "9159186", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6498966445117, 
+            41.748499781283876
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.748499781283876", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "0612", 
+    "date": {
+        "$date": 1370160000000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce37"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.6498966445117", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1170747", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "26", 
+    "block": "080XX S CARPENTER ST"
+}

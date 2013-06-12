@@ -1,1 +1,38 @@
-{"y_coordinate": "1947029", "year": "2013", "domestic": false, "case_number": "HW286120", "id": "9141316", "primary_type": "CRIMINAL DAMAGE", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69760221351552, 42.01042116214134]}, "community_area": "2", "latitude": "42.01042116214134", "type": "quality", "description": "TO VEHICLE", "beat": "2411", "date": {"$date": 1369166400000}, "ward": "50", "_id": {"$oid": "51a61f0a3c002ed20d78a76c"}, "iucr": "1320", "longitude": "-87.69760221351552", "location_description": "STREET", "x_coordinate": "1157022", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "027XX W ESTES AVE"}
+{
+    "y_coordinate": "1947029", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286120", 
+    "id": "9141316", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69760221351552, 
+            42.01042116214134
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "42.01042116214134", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "2411", 
+    "date": {
+        "$date": 1369166400000
+    }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a76c"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.69760221351552", 
+    "location_description": "STREET", 
+    "x_coordinate": "1157022", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "027XX W ESTES AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1844793", "year": "2013", "domestic": false, "case_number": "HW289339", "id": "9144246", "primary_type": "NARCOTICS", "district": "022", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66951254675243, 41.729700987941364]}, "community_area": "72", "latitude": "41.729700987941364", "type": "quality", "description": "POSS: CRACK", "beat": "2221", "date": {"$date": 1369413180000}, "ward": "19", "_id": {"$oid": "51aa13903c002ed20d78af76"}, "iucr": "2027", "longitude": "-87.66951254675243", "location_description": "FOREST PRESERVE", "x_coordinate": "1165447", "updated_on": {"$date": 1369701613000}, "fbi_code": "18", "block": "090XX S PROSPECT AVE"}
+{
+    "y_coordinate": "1844793", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289339", 
+    "id": "9144246", 
+    "primary_type": "NARCOTICS", 
+    "district": "022", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66951254675243, 
+            41.729700987941364
+        ]
+    }, 
+    "community_area": "72", 
+    "latitude": "41.729700987941364", 
+    "type": "quality", 
+    "description": "POSS: CRACK", 
+    "beat": "2221", 
+    "date": {
+        "$date": 1369413180000
+    }, 
+    "ward": "19", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78af76"
+    }, 
+    "iucr": "2027", 
+    "longitude": "-87.66951254675243", 
+    "location_description": "FOREST PRESERVE", 
+    "x_coordinate": "1165447", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "18", 
+    "block": "090XX S PROSPECT AVE"
+}

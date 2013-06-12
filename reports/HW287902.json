@@ -1,1 +1,38 @@
-{"y_coordinate": "1859839", "year": "2013", "domestic": false, "case_number": "HW287902", "id": "9142883", "primary_type": "BATTERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66656140165655, 41.77097473864287]}, "community_area": "67", "latitude": "41.77097473864287", "type": null, "description": "SIMPLE", "beat": "0725", "date": {"$date": 1369327500000}, "ward": "15", "_id": {"$oid": "51aa13963c002ed20d78b2a8"}, "iucr": "460", "longitude": "-87.66656140165655", "location_description": "SCHOOL, PUBLIC, GROUNDS", "x_coordinate": "1166136", "updated_on": {"$date": 1369615194000}, "fbi_code": "08B", "block": "067XX S PAULINA ST"}
+{
+    "y_coordinate": "1859839", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287902", 
+    "id": "9142883", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66656140165655, 
+            41.77097473864287
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.77097473864287", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0725", 
+    "date": {
+        "$date": 1369327500000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b2a8"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.66656140165655", 
+    "location_description": "SCHOOL, PUBLIC, GROUNDS", 
+    "x_coordinate": "1166136", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08B", 
+    "block": "067XX S PAULINA ST"
+}

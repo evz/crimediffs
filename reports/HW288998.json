@@ -1,1 +1,38 @@
-{"y_coordinate": "1905829", "year": "2013", "domestic": false, "case_number": "HW288998", "id": "9144205", "primary_type": "BATTERY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76564523533392, 41.89771615452518]}, "community_area": "25", "latitude": "41.89771615452518", "type": null, "description": "SIMPLE", "beat": "1511", "date": {"$date": 1369208700000}, "ward": "29", "_id": {"$oid": "51a7708d3c002ed20d78ad07"}, "iucr": "460", "longitude": "-87.76564523533392", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1138802", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "009XX N CENTRAL AVE"}
+{
+    "y_coordinate": "1905829", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288998", 
+    "id": "9144205", 
+    "primary_type": "BATTERY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76564523533392, 
+            41.89771615452518
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.89771615452518", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1511", 
+    "date": {
+        "$date": 1369208700000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad07"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.76564523533392", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1138802", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "009XX N CENTRAL AVE"
+}

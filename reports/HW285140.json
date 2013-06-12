@@ -1,1 +1,38 @@
-{"y_coordinate": "1860460", "year": "2013", "domestic": false, "case_number": "HW285140", "id": "9139812", "primary_type": "THEFT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58858180740704, 41.772199907089245]}, "community_area": "43", "latitude": "41.772199907089245", "type": "property", "description": "$500 AND UNDER", "beat": "0332", "date": {"$date": 1369164600000}, "ward": "5", "_id": {"$oid": "51a61f0a3c002ed20d78a788"}, "iucr": "820", "longitude": "-87.58858180740704", "location_description": "RESIDENCE", "x_coordinate": "1187404", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "067XX S BLACKSTONE AVE"}
+{
+    "y_coordinate": "1860460", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285140", 
+    "id": "9139812", 
+    "primary_type": "THEFT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58858180740704, 
+            41.772199907089245
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.772199907089245", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0332", 
+    "date": {
+        "$date": 1369164600000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a788"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.58858180740704", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1187404", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "067XX S BLACKSTONE AVE"
+}

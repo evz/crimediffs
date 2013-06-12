@@ -1,1 +1,38 @@
-{"y_coordinate": "1863521", "year": "2013", "domestic": false, "case_number": "HW289494", "id": "9144463", "primary_type": "BATTERY", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6377320725501, 41.7809082901546]}, "community_area": "68", "latitude": "41.7809082901546", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0711", "date": {"$date": 1369420080000}, "ward": "20", "_id": {"$oid": "51aa138f3c002ed20d78af22"}, "iucr": "486", "longitude": "-87.6377320725501", "location_description": "APARTMENT", "x_coordinate": "1173971", "updated_on": {"$date": 1369874559000}, "fbi_code": "08B", "block": "005XX W ENGLEWOOD AVE"}
+{
+    "y_coordinate": "1863521", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289494", 
+    "id": "9144463", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6377320725501, 
+            41.7809082901546
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.7809082901546", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0711", 
+    "date": {
+        "$date": 1369420080000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51aa138f3c002ed20d78af22"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.6377320725501", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1173971", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "08B", 
+    "block": "005XX W ENGLEWOOD AVE"
+}

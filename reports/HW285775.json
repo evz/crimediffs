@@ -1,1 +1,38 @@
-{"y_coordinate": "1818546", "year": "2013", "domestic": false, "case_number": "HW285775", "id": "9140594", "primary_type": "CRIMINAL TRESPASS", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.5472836503336, 41.6568995397746]}, "community_area": "55", "latitude": "41.6568995397746", "type": null, "description": "TO STATE SUP LAND", "beat": "0433", "date": {"$date": 1369216500000}, "ward": "10", "_id": {"$oid": "51a7708d3c002ed20d78acca"}, "iucr": "1350", "longitude": "-87.5472836503336", "location_description": "SCHOOL, PRIVATE, BUILDING", "x_coordinate": "1199053", "updated_on": {"$date": 1369442383000}, "fbi_code": "26", "block": "131XX S BALTIMORE AVE"}
+{
+    "y_coordinate": "1818546", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285775", 
+    "id": "9140594", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5472836503336, 
+            41.6568995397746
+        ]
+    }, 
+    "community_area": "55", 
+    "latitude": "41.6568995397746", 
+    "type": null, 
+    "description": "TO STATE SUP LAND", 
+    "beat": "0433", 
+    "date": {
+        "$date": 1369216500000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78acca"
+    }, 
+    "iucr": "1350", 
+    "longitude": "-87.5472836503336", 
+    "location_description": "SCHOOL, PRIVATE, BUILDING", 
+    "x_coordinate": "1199053", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "26", 
+    "block": "131XX S BALTIMORE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1865828", "year": "2013", "domestic": false, "case_number": "HW301959", "id": "9156121", "primary_type": "MOTOR VEHICLE THEFT", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6240387958843, 41.787155635001454]}, "community_area": "40", "latitude": "41.787155635001454", "type": "property", "description": "AUTOMOBILE", "beat": "0232", "date": {"$date": 1370224800000}, "ward": "20", "_id": {"$oid": "51b5f1143c002ed20d78cbb4"}, "iucr": "910", "longitude": "-87.6240387958843", "location_description": "STREET", "x_coordinate": "1177687", "updated_on": {"$date": 1370738354000}, "fbi_code": "07", "block": "059XX S WABASH AVE"}
+{
+    "y_coordinate": "1865828", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301959", 
+    "id": "9156121", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6240387958843, 
+            41.787155635001454
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.787155635001454", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0232", 
+    "date": {
+        "$date": 1370224800000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b5f1143c002ed20d78cbb4"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.6240387958843", 
+    "location_description": "STREET", 
+    "x_coordinate": "1177687", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "07", 
+    "block": "059XX S WABASH AVE"
+}

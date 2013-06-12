@@ -1,1 +1,38 @@
-{"y_coordinate": "1866336", "year": "2013", "domestic": true, "case_number": "HW299717", "id": "9154492", "primary_type": "OTHER OFFENSE", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62083348277277, 41.78852989714045]}, "community_area": "40", "latitude": "41.78852989714045", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "0232", "date": {"$date": 1369444920000}, "ward": "20", "_id": {"$oid": "51b34a133c002ed20d78cb31"}, "iucr": "2825", "longitude": "-87.62083348277277", "location_description": "RESIDENCE", "x_coordinate": "1178557", "updated_on": {"$date": 1370479286000}, "fbi_code": "26", "block": "058XX S INDIANA AVE"}
+{
+    "y_coordinate": "1866336", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW299717", 
+    "id": "9154492", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62083348277277, 
+            41.78852989714045
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.78852989714045", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "0232", 
+    "date": {
+        "$date": 1369444920000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b34a133c002ed20d78cb31"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.62083348277277", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1178557", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "26", 
+    "block": "058XX S INDIANA AVE"
+}

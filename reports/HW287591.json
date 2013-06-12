@@ -1,1 +1,38 @@
-{"y_coordinate": "1923795", "year": "2013", "domestic": false, "case_number": "HW287591", "id": "9142701", "primary_type": "ROBBERY", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71286538278089, 41.94674590713519]}, "community_area": "16", "latitude": "41.94674590713519", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "1732", "date": {"$date": 1369315800000}, "ward": "35", "_id": {"$oid": "51aa13973c002ed20d78b324"}, "iucr": "320", "longitude": "-87.71286538278089", "location_description": "CTA BUS", "x_coordinate": "1153042", "updated_on": {"$date": 1370651988000}, "fbi_code": "03", "block": "036XX N KIMBALL AVE"}
+{
+    "y_coordinate": "1923795", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287591", 
+    "id": "9142701", 
+    "primary_type": "ROBBERY", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71286538278089, 
+            41.94674590713519
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.94674590713519", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "1732", 
+    "date": {
+        "$date": 1369315800000
+    }, 
+    "ward": "35", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b324"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.71286538278089", 
+    "location_description": "CTA BUS", 
+    "x_coordinate": "1153042", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "03", 
+    "block": "036XX N KIMBALL AVE"
+}

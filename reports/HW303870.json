@@ -1,1 +1,38 @@
-{"y_coordinate": "1913460", "year": "2013", "domestic": false, "case_number": "HW303870", "id": "9158616", "primary_type": "THEFT", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68997875423783, 41.9182584094645]}, "community_area": "22", "latitude": "41.9182584094645", "type": "property", "description": "POCKET-PICKING", "beat": "1431", "date": {"$date": 1370266200000}, "ward": "1", "_id": {"$oid": "51b7429d3c002ed20d78d408"}, "iucr": "870", "longitude": "-87.68997875423783", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1159346", "updated_on": {"$date": 1370565766000}, "fbi_code": "06", "block": "020XX N MILWAUKEE AVE"}
+{
+    "y_coordinate": "1913460", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303870", 
+    "id": "9158616", 
+    "primary_type": "THEFT", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68997875423783, 
+            41.9182584094645
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.9182584094645", 
+    "type": "property", 
+    "description": "POCKET-PICKING", 
+    "beat": "1431", 
+    "date": {
+        "$date": 1370266200000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51b7429d3c002ed20d78d408"
+    }, 
+    "iucr": "870", 
+    "longitude": "-87.68997875423783", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1159346", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "06", 
+    "block": "020XX N MILWAUKEE AVE"
+}

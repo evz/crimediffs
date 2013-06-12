@@ -1,1 +1,38 @@
-{"y_coordinate": "1899636", "year": "2013", "domestic": false, "case_number": "HW291883", "id": "9146301", "primary_type": "BURGLARY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74456071752212, 41.88061487398717]}, "community_area": "25", "latitude": "41.88061487398717", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1113", "date": {"$date": 1369504800000}, "ward": "28", "_id": {"$oid": "51b34a0f3c002ed20d78c998"}, "iucr": "610", "longitude": "-87.74456071752212", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1144585", "updated_on": {"$date": 1369787985000}, "fbi_code": "05", "block": "047XX W MADISON ST"}
+{
+    "y_coordinate": "1899636", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291883", 
+    "id": "9146301", 
+    "primary_type": "BURGLARY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74456071752212, 
+            41.88061487398717
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.88061487398717", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1113", 
+    "date": {
+        "$date": 1369504800000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c998"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.74456071752212", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1144585", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "05", 
+    "block": "047XX W MADISON ST"
+}

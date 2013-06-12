@@ -1,1 +1,38 @@
-{"y_coordinate": "1877335", "year": "2013", "domestic": false, "case_number": "HW286660", "id": "9141512", "primary_type": "CRIMINAL DAMAGE", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61058721531226, 41.818650202274156]}, "community_area": "38", "latitude": "41.818650202274156", "type": "quality", "description": "TO VEHICLE", "beat": "0214", "date": {"$date": 1369248300000}, "ward": "4", "_id": {"$oid": "51a7708a3c002ed20d78ab40"}, "iucr": "1320", "longitude": "-87.61058721531226", "location_description": "APARTMENT", "x_coordinate": "1181259", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "006XX E 42ND ST"}
+{
+    "y_coordinate": "1877335", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286660", 
+    "id": "9141512", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61058721531226, 
+            41.818650202274156
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.818650202274156", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0214", 
+    "date": {
+        "$date": 1369248300000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab40"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.61058721531226", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1181259", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "006XX E 42ND ST"
+}

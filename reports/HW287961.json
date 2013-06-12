@@ -1,1 +1,38 @@
-{"y_coordinate": "1862727", "year": "2013", "domestic": false, "case_number": "HW287961", "id": "9142921", "primary_type": "NARCOTICS", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6874420805104, 41.77901955371885]}, "community_area": "66", "latitude": "41.77901955371885", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0825", "date": {"$date": 1369329720000}, "ward": "15", "_id": {"$oid": "51aa13963c002ed20d78b288"}, "iucr": "1811", "longitude": "-87.6874420805104", "location_description": "SIDEWALK", "x_coordinate": "1160418", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "063XX S MAPLEWOOD AVE"}
+{
+    "y_coordinate": "1862727", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287961", 
+    "id": "9142921", 
+    "primary_type": "NARCOTICS", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6874420805104, 
+            41.77901955371885
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.77901955371885", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0825", 
+    "date": {
+        "$date": 1369329720000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b288"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.6874420805104", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1160418", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "063XX S MAPLEWOOD AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1935248", "year": "2013", "domestic": true, "case_number": "HW290588", "id": "9145228", "primary_type": "BATTERY", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6682059742184, 41.977925271110514]}, "community_area": "77", "latitude": "41.977925271110514", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "2013", "date": {"$date": 1369496700000}, "ward": "48", "_id": {"$oid": "51b34a103c002ed20d78ca0b"}, "iucr": "486", "longitude": "-87.6682059742184", "location_description": "SIDEWALK", "x_coordinate": "1165103", "updated_on": {"$date": 1370047283000}, "fbi_code": "08B", "block": "052XX N CLARK ST"}
+{
+    "y_coordinate": "1935248", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290588", 
+    "id": "9145228", 
+    "primary_type": "BATTERY", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6682059742184, 
+            41.977925271110514
+        ]
+    }, 
+    "community_area": "77", 
+    "latitude": "41.977925271110514", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "2013", 
+    "date": {
+        "$date": 1369496700000
+    }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78ca0b"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.6682059742184", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1165103", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "08B", 
+    "block": "052XX N CLARK ST"
+}

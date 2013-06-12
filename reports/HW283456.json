@@ -1,1 +1,38 @@
-{"y_coordinate": "1852748", "year": "2013", "domestic": false, "case_number": "HW283456", "id": "9138084", "primary_type": "PUBLIC PEACE VIOLATION", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.61596180006805, 41.75121011124556]}, "community_area": "69", "latitude": "41.75121011124556", "type": null, "description": "MOB ACTION", "beat": "0623", "date": {"$date": 1369072920000}, "ward": "6", "_id": {"$oid": "51a4cd8f3c002ed20d78a449"}, "iucr": "3100", "longitude": "-87.61596180006805", "location_description": "SIDEWALK", "x_coordinate": "1179999", "updated_on": {"$date": 1369269615000}, "fbi_code": "24", "block": "003XX E 79TH ST"}
+{
+    "y_coordinate": "1852748", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283456", 
+    "id": "9138084", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61596180006805, 
+            41.75121011124556
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.75121011124556", 
+    "type": null, 
+    "description": "MOB ACTION", 
+    "beat": "0623", 
+    "date": {
+        "$date": 1369072920000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a449"
+    }, 
+    "iucr": "3100", 
+    "longitude": "-87.61596180006805", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1179999", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "24", 
+    "block": "003XX E 79TH ST"
+}

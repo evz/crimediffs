@@ -1,1 +1,38 @@
-{"y_coordinate": "1845888", "year": "2013", "domestic": false, "case_number": "HW288476", "id": "9144878", "primary_type": "THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56358722713944, 41.73204523855152]}, "community_area": "48", "latitude": "41.73204523855152", "type": "property", "description": "$500 AND UNDER", "beat": "0423", "date": {"$date": 1369350000000}, "ward": "7", "_id": {"$oid": "51aa13943c002ed20d78b19e"}, "iucr": "820", "longitude": "-87.56358722713944", "location_description": "STREET", "x_coordinate": "1194353", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "089XX S ESSEX AVE"}
+{
+    "y_coordinate": "1845888", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288476", 
+    "id": "9144878", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56358722713944, 
+            41.73204523855152
+        ]
+    }, 
+    "community_area": "48", 
+    "latitude": "41.73204523855152", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0423", 
+    "date": {
+        "$date": 1369350000000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b19e"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.56358722713944", 
+    "location_description": "STREET", 
+    "x_coordinate": "1194353", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "089XX S ESSEX AVE"
+}

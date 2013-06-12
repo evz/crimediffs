@@ -1,1 +1,38 @@
-{"y_coordinate": "1903910", "year": "2013", "domestic": false, "case_number": "HW290899", "id": "9145577", "primary_type": "THEFT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62254230503977, 41.891653358490466]}, "community_area": "8", "latitude": "41.891653358490466", "type": "property", "description": "FROM BUILDING", "beat": "1834", "date": {"$date": 1369508820000}, "ward": "42", "_id": {"$oid": "51b34a0f3c002ed20d78c95f"}, "iucr": "890", "longitude": "-87.62254230503977", "location_description": "RESTAURANT", "x_coordinate": "1177780", "updated_on": {"$date": 1369960832000}, "fbi_code": "06", "block": "002XX E GRAND AVE"}
+{
+    "y_coordinate": "1903910", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290899", 
+    "id": "9145577", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62254230503977, 
+            41.891653358490466
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.891653358490466", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1834", 
+    "date": {
+        "$date": 1369508820000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c95f"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.62254230503977", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1177780", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "06", 
+    "block": "002XX E GRAND AVE"
+}

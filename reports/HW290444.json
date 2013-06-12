@@ -1,1 +1,38 @@
-{"y_coordinate": "1915226", "year": "2013", "domestic": false, "case_number": "HW290444", "id": "9145109", "primary_type": "MOTOR VEHICLE THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73178116940508, 41.92333132592774]}, "community_area": "20", "latitude": "41.92333132592774", "type": "property", "description": "AUTOMOBILE", "beat": "2522", "date": {"$date": 1369407600000}, "ward": "31", "_id": {"$oid": "51aa13913c002ed20d78afd7"}, "iucr": "910", "longitude": "-87.73178116940508", "location_description": "STREET", "x_coordinate": "1147956", "updated_on": {"$date": 1369787985000}, "fbi_code": "07", "block": "023XX N KEELER AVE"}
+{
+    "y_coordinate": "1915226", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290444", 
+    "id": "9145109", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73178116940508, 
+            41.92333132592774
+        ]
+    }, 
+    "community_area": "20", 
+    "latitude": "41.92333132592774", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "2522", 
+    "date": {
+        "$date": 1369407600000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78afd7"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.73178116940508", 
+    "location_description": "STREET", 
+    "x_coordinate": "1147956", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "07", 
+    "block": "023XX N KEELER AVE"
+}

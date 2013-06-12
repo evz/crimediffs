@@ -1,1 +1,38 @@
-{"y_coordinate": "1899834", "year": "2013", "domestic": false, "case_number": "HW302669", "id": "9157319", "primary_type": "THEFT", "district": "012", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6474734282125, 41.88061944093288]}, "community_area": "28", "latitude": "41.88061944093288", "type": "property", "description": "RETAIL THEFT", "beat": "1232", "date": {"$date": 1370170140000}, "ward": "27", "_id": {"$oid": "51b5f11b3c002ed20d78cdf6"}, "iucr": "860", "longitude": "-87.6474734282125", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1171024", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "0000X S HALSTED ST"}
+{
+    "y_coordinate": "1899834", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302669", 
+    "id": "9157319", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6474734282125, 
+            41.88061944093288
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.88061944093288", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "1232", 
+    "date": {
+        "$date": 1370170140000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cdf6"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.6474734282125", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1171024", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "0000X S HALSTED ST"
+}

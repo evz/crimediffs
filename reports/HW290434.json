@@ -1,1 +1,38 @@
-{"y_coordinate": "1913357", "year": "2013", "domestic": false, "case_number": "HW290434", "id": "9145078", "primary_type": "OTHER OFFENSE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72644311392818, 41.918174271036676]}, "community_area": "20", "latitude": "41.918174271036676", "type": null, "description": "SEX OFFENDER: FAIL TO REGISTER", "beat": "2525", "date": {"$date": 1369486200000}, "ward": "30", "_id": {"$oid": "51b34a113c002ed20d78ca75"}, "iucr": "4650", "longitude": "-87.72644311392818", "location_description": "STREET", "x_coordinate": "1149422", "updated_on": {"$date": 1369960832000}, "fbi_code": "26", "block": "020XX N PULASKI RD"}
+{
+    "y_coordinate": "1913357", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290434", 
+    "id": "9145078", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72644311392818, 
+            41.918174271036676
+        ]
+    }, 
+    "community_area": "20", 
+    "latitude": "41.918174271036676", 
+    "type": null, 
+    "description": "SEX OFFENDER: FAIL TO REGISTER", 
+    "beat": "2525", 
+    "date": {
+        "$date": 1369486200000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca75"
+    }, 
+    "iucr": "4650", 
+    "longitude": "-87.72644311392818", 
+    "location_description": "STREET", 
+    "x_coordinate": "1149422", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "26", 
+    "block": "020XX N PULASKI RD"
+}

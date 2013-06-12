@@ -1,1 +1,38 @@
-{"y_coordinate": "1919247", "year": "2013", "domestic": true, "case_number": "HW288725", "id": "9143733", "primary_type": "BATTERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.79696487662952, 41.93468886294108]}, "community_area": "18", "latitude": "41.93468886294108", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "2511", "date": {"$date": 1369389000000}, "ward": "36", "_id": {"$oid": "51aa13923c002ed20d78b0c2"}, "iucr": "486", "longitude": "-87.79696487662952", "location_description": "STREET", "x_coordinate": "1130191", "updated_on": {"$date": 1370047283000}, "fbi_code": "08B", "block": "030XX N NEWCASTLE AVE"}
+{
+    "y_coordinate": "1919247", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW288725", 
+    "id": "9143733", 
+    "primary_type": "BATTERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.79696487662952, 
+            41.93468886294108
+        ]
+    }, 
+    "community_area": "18", 
+    "latitude": "41.93468886294108", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "2511", 
+    "date": {
+        "$date": 1369389000000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b0c2"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.79696487662952", 
+    "location_description": "STREET", 
+    "x_coordinate": "1130191", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "08B", 
+    "block": "030XX N NEWCASTLE AVE"
+}

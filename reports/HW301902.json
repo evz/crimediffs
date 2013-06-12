@@ -1,1 +1,38 @@
-{"y_coordinate": "1900533", "year": "2013", "domestic": false, "case_number": "HW301902", "id": "9156112", "primary_type": "CRIMINAL DAMAGE", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75869039642456, 41.88314803734051]}, "community_area": "25", "latitude": "41.88314803734051", "type": "quality", "description": "TO VEHICLE", "beat": "1523", "date": {"$date": 1370217600000}, "ward": "28", "_id": {"$oid": "51b5f1153c002ed20d78cbed"}, "iucr": "1320", "longitude": "-87.75869039642456", "location_description": "STREET", "x_coordinate": "1140731", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "001XX N LOREL AVE"}
+{
+    "y_coordinate": "1900533", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301902", 
+    "id": "9156112", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75869039642456, 
+            41.88314803734051
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.88314803734051", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1523", 
+    "date": {
+        "$date": 1370217600000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbed"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.75869039642456", 
+    "location_description": "STREET", 
+    "x_coordinate": "1140731", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "001XX N LOREL AVE"
+}

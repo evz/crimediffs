@@ -1,1 +1,38 @@
-{"y_coordinate": "1899298", "year": "2013", "domestic": false, "case_number": "HW290987", "id": "9145551", "primary_type": "ROBBERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7086031418222, 41.87949733967461]}, "community_area": "27", "latitude": "41.87949733967461", "type": "violent", "description": "ATTEMPT: ARMED-HANDGUN", "beat": "1124", "date": {"$date": 1369512000000}, "ward": "28", "_id": {"$oid": "51b34a0e3c002ed20d78c93c"}, "iucr": "033A", "longitude": "-87.7086031418222", "location_description": "SIDEWALK", "x_coordinate": "1154380", "updated_on": {"$date": 1370133629000}, "fbi_code": "03", "block": "001XX S SPAULDING AVE"}
+{
+    "y_coordinate": "1899298", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290987", 
+    "id": "9145551", 
+    "primary_type": "ROBBERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7086031418222, 
+            41.87949733967461
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.87949733967461", 
+    "type": "violent", 
+    "description": "ATTEMPT: ARMED-HANDGUN", 
+    "beat": "1124", 
+    "date": {
+        "$date": 1369512000000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c93c"
+    }, 
+    "iucr": "033A", 
+    "longitude": "-87.7086031418222", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1154380", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "03", 
+    "block": "001XX S SPAULDING AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1906082", "year": "2013", "domestic": true, "case_number": "HW287900", "id": "9142943", "primary_type": "BATTERY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7638760535692, 41.89840168816564]}, "community_area": "25", "latitude": "41.89840168816564", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1524", "date": {"$date": 1369327200000}, "ward": "37", "_id": {"$oid": "51aa13963c002ed20d78b2aa"}, "iucr": "486", "longitude": "-87.7638760535692", "location_description": "ALLEY", "x_coordinate": "1139282", "updated_on": {"$date": 1370047283000}, "fbi_code": "08B", "block": "055XX W AUGUSTA BLVD"}
+{
+    "y_coordinate": "1906082", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW287900", 
+    "id": "9142943", 
+    "primary_type": "BATTERY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7638760535692, 
+            41.89840168816564
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.89840168816564", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1524", 
+    "date": {
+        "$date": 1369327200000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b2aa"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.7638760535692", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1139282", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "08B", 
+    "block": "055XX W AUGUSTA BLVD"
+}

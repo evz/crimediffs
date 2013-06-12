@@ -1,1 +1,38 @@
-{"y_coordinate": "1873461", "year": "2013", "domestic": false, "case_number": "HW306457", "id": "9161525", "primary_type": "DECEPTIVE PRACTICE", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68855471827719, 41.80848298541886]}, "community_area": "58", "latitude": "41.80848298541886", "type": null, "description": "BOGUS CHECK", "beat": "0922", "date": {"$date": 1369407600000}, "ward": "12", "_id": {"$oid": "51b34a153c002ed20d78cb41"}, "iucr": "1110", "longitude": "-87.68855471827719", "location_description": "BANK", "x_coordinate": "1160034", "updated_on": {"$date": 1370651988000}, "fbi_code": "11", "block": "025XX W 47TH ST"}
+{
+    "y_coordinate": "1873461", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW306457", 
+    "id": "9161525", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68855471827719, 
+            41.80848298541886
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.80848298541886", 
+    "type": null, 
+    "description": "BOGUS CHECK", 
+    "beat": "0922", 
+    "date": {
+        "$date": 1369407600000
+    }, 
+    "ward": "12", 
+    "_id": {
+        "$oid": "51b34a153c002ed20d78cb41"
+    }, 
+    "iucr": "1110", 
+    "longitude": "-87.68855471827719", 
+    "location_description": "BANK", 
+    "x_coordinate": "1160034", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "11", 
+    "block": "025XX W 47TH ST"
+}

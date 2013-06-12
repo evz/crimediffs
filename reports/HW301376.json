@@ -1,1 +1,38 @@
-{"y_coordinate": "1933517", "year": "2013", "domestic": false, "case_number": "HW301376", "id": "9155672", "primary_type": "THEFT", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72802529310572, 41.97350605130371]}, "community_area": "14", "latitude": "41.97350605130371", "type": "property", "description": "$500 AND UNDER", "beat": "1712", "date": {"$date": 1370174400000}, "ward": "39", "_id": {"$oid": "51b5f11b3c002ed20d78cdd3"}, "iucr": "820", "longitude": "-87.72802529310572", "location_description": "NURSING HOME/RETIREMENT HOME", "x_coordinate": "1148849", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "050XX N PULASKI RD"}
+{
+    "y_coordinate": "1933517", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301376", 
+    "id": "9155672", 
+    "primary_type": "THEFT", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72802529310572, 
+            41.97350605130371
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.97350605130371", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1712", 
+    "date": {
+        "$date": 1370174400000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cdd3"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.72802529310572", 
+    "location_description": "NURSING HOME/RETIREMENT HOME", 
+    "x_coordinate": "1148849", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "050XX N PULASKI RD"
+}

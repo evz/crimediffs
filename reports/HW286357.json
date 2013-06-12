@@ -1,1 +1,38 @@
-{"y_coordinate": "1906755", "year": "2013", "domestic": true, "case_number": "HW286357", "id": "9141356", "primary_type": "BATTERY", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.74852085012925, 41.90017138967973]}, "community_area": "25", "latitude": "41.90017138967973", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1531", "date": {"$date": 1369231200000}, "ward": "37", "_id": {"$oid": "51a7708b3c002ed20d78ac29"}, "iucr": "486", "longitude": "-87.74852085012925", "location_description": "STREET", "x_coordinate": "1143458", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "010XX N LAMON AVE"}
+{
+    "y_coordinate": "1906755", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW286357", 
+    "id": "9141356", 
+    "primary_type": "BATTERY", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74852085012925, 
+            41.90017138967973
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.90017138967973", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1531", 
+    "date": {
+        "$date": 1369231200000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac29"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.74852085012925", 
+    "location_description": "STREET", 
+    "x_coordinate": "1143458", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "010XX N LAMON AVE"
+}

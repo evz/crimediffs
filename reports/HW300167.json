@@ -1,1 +1,38 @@
-{"y_coordinate": "1874179", "year": "2013", "domestic": false, "case_number": "HW300167", "id": "9154753", "primary_type": "THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74828195455605, 41.81077310429812]}, "community_area": "56", "latitude": "41.81077310429812", "type": "property", "description": "FROM BUILDING", "beat": "0814", "date": {"$date": 1370073600000}, "ward": "23", "_id": {"$oid": "51b5f1213c002ed20d78d174"}, "iucr": "890", "longitude": "-87.74828195455605", "location_description": "RESIDENCE", "x_coordinate": "1143745", "updated_on": {"$date": 1370306580000}, "fbi_code": "06", "block": "045XX S LAVERGNE AVE"}
+{
+    "y_coordinate": "1874179", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300167", 
+    "id": "9154753", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74828195455605, 
+            41.81077310429812
+        ]
+    }, 
+    "community_area": "56", 
+    "latitude": "41.81077310429812", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0814", 
+    "date": {
+        "$date": 1370073600000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d174"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.74828195455605", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1143745", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "06", 
+    "block": "045XX S LAVERGNE AVE"
+}

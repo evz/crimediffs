@@ -1,1 +1,38 @@
-{"y_coordinate": "1897754", "year": "2013", "domestic": false, "case_number": "HW302651", "id": "9157335", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66865332095834, 41.8750359482999]}, "community_area": "28", "latitude": "41.8750359482999", "type": "property", "description": "FROM BUILDING", "beat": "1231", "date": {"$date": 1370269500000}, "ward": "2", "_id": {"$oid": "51b7429c3c002ed20d78d3da"}, "iucr": "890", "longitude": "-87.66865332095834", "location_description": "HOSPITAL BUILDING/GROUNDS", "x_coordinate": "1165272", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "016XX W CONGRESS PKWY"}
+{
+    "y_coordinate": "1897754", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302651", 
+    "id": "9157335", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66865332095834, 
+            41.8750359482999
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.8750359482999", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1231", 
+    "date": {
+        "$date": 1370269500000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b7429c3c002ed20d78d3da"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.66865332095834", 
+    "location_description": "HOSPITAL BUILDING/GROUNDS", 
+    "x_coordinate": "1165272", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "016XX W CONGRESS PKWY"
+}

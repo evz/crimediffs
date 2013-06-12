@@ -1,1 +1,38 @@
-{"y_coordinate": "1874640", "year": "2013", "domestic": false, "case_number": "HW283984", "id": "9138607", "primary_type": "THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74312785916852, 41.81201185244872]}, "community_area": "56", "latitude": "41.81201185244872", "type": "property", "description": "$500 AND UNDER", "beat": "0815", "date": {"$date": 1369087200000}, "ward": "23", "_id": {"$oid": "51a4cd8d3c002ed20d78a37c"}, "iucr": "820", "longitude": "-87.74312785916852", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1145147", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "044XX S CICERO AVE"}
+{
+    "y_coordinate": "1874640", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283984", 
+    "id": "9138607", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74312785916852, 
+            41.81201185244872
+        ]
+    }, 
+    "community_area": "56", 
+    "latitude": "41.81201185244872", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0815", 
+    "date": {
+        "$date": 1369087200000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51a4cd8d3c002ed20d78a37c"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.74312785916852", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1145147", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "044XX S CICERO AVE"
+}

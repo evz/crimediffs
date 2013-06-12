@@ -1,1 +1,38 @@
-{"y_coordinate": "1910124", "year": "2013", "domestic": false, "case_number": "HW288740", "id": "9143945", "primary_type": "BATTERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76476568759429, 41.909498312637965]}, "community_area": "25", "latitude": "41.909498312637965", "type": null, "description": "SIMPLE", "beat": "2532", "date": {"$date": 1369392000000}, "ward": "37", "_id": {"$oid": "51aa13923c002ed20d78b0a3"}, "iucr": "460", "longitude": "-87.76476568759429", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1139013", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "055XX W NORTH AVE"}
+{
+    "y_coordinate": "1910124", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288740", 
+    "id": "9143945", 
+    "primary_type": "BATTERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76476568759429, 
+            41.909498312637965
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.909498312637965", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2532", 
+    "date": {
+        "$date": 1369392000000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b0a3"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.76476568759429", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1139013", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "055XX W NORTH AVE"
+}

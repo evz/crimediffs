@@ -1,1 +1,38 @@
-{"y_coordinate": "1930791", "year": "2013", "domestic": true, "case_number": "HW301690", "id": "9155874", "primary_type": "CRIMINAL TRESPASS", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65111488201578, 41.96559407219251]}, "community_area": "3", "latitude": "41.96559407219251", "type": null, "description": "TO RESIDENCE", "beat": "1914", "date": {"$date": 1370205900000}, "ward": "46", "_id": {"$oid": "51b5f1173c002ed20d78cc62"}, "iucr": "1365", "longitude": "-87.65111488201578", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1169786", "updated_on": {"$date": 1370479286000}, "fbi_code": "26", "block": "008XX W WILSON AVE"}
+{
+    "y_coordinate": "1930791", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301690", 
+    "id": "9155874", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65111488201578, 
+            41.96559407219251
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.96559407219251", 
+    "type": null, 
+    "description": "TO RESIDENCE", 
+    "beat": "1914", 
+    "date": {
+        "$date": 1370205900000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51b5f1173c002ed20d78cc62"
+    }, 
+    "iucr": "1365", 
+    "longitude": "-87.65111488201578", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1169786", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "26", 
+    "block": "008XX W WILSON AVE"
+}

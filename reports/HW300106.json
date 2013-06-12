@@ -1,1 +1,38 @@
-{"y_coordinate": "1860681", "year": "2013", "domestic": false, "case_number": "HW300106", "id": "9154601", "primary_type": "PUBLIC PEACE VIOLATION", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.69461372248554, 41.77344481971838]}, "community_area": "66", "latitude": "41.77344481971838", "type": null, "description": "RECKLESS CONDUCT", "beat": "0831", "date": {"$date": 1370099700000}, "ward": "15", "_id": {"$oid": "51b5f11f3c002ed20d78d05d"}, "iucr": "470", "longitude": "-87.69461372248554", "location_description": "SIDEWALK", "x_coordinate": "1158477", "updated_on": {"$date": 1370306580000}, "fbi_code": "24", "block": "066XX S MOZART ST"}
+{
+    "y_coordinate": "1860681", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300106", 
+    "id": "9154601", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69461372248554, 
+            41.77344481971838
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.77344481971838", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "0831", 
+    "date": {
+        "$date": 1370099700000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d05d"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.69461372248554", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1158477", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "24", 
+    "block": "066XX S MOZART ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1866597", "year": "2013", "domestic": false, "case_number": "HW283872", "id": "9138368", "primary_type": "SEX OFFENSE", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.7693828712178, 41.79007143676281]}, "community_area": "56", "latitude": "41.79007143676281", "type": null, "description": "CRIMINAL SEXUAL ABUSE", "beat": "0811", "date": {"$date": 1369092600000}, "ward": "23", "_id": {"$oid": "51a4cd8c3c002ed20d78a343"}, "iucr": "1563", "longitude": "-87.7693828712178", "location_description": "RESIDENCE", "x_coordinate": "1138042", "updated_on": {"$date": 1369269615000}, "fbi_code": "17", "block": "056XX S MAYFIELD AVE"}
+{
+    "y_coordinate": "1866597", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283872", 
+    "id": "9138368", 
+    "primary_type": "SEX OFFENSE", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7693828712178, 
+            41.79007143676281
+        ]
+    }, 
+    "community_area": "56", 
+    "latitude": "41.79007143676281", 
+    "type": null, 
+    "description": "CRIMINAL SEXUAL ABUSE", 
+    "beat": "0811", 
+    "date": {
+        "$date": 1369092600000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51a4cd8c3c002ed20d78a343"
+    }, 
+    "iucr": "1563", 
+    "longitude": "-87.7693828712178", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1138042", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "17", 
+    "block": "056XX S MAYFIELD AVE"
+}

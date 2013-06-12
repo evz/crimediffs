@@ -1,1 +1,38 @@
-{"y_coordinate": "1906239", "year": "2013", "domestic": false, "case_number": "HW303385", "id": "9157895", "primary_type": "CRIMINAL DAMAGE", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77269113062886, 41.898875909549766]}, "community_area": "25", "latitude": "41.898875909549766", "type": "quality", "description": "TO VEHICLE", "beat": "1511", "date": {"$date": 1370298600000}, "ward": "29", "_id": {"$oid": "51b742973c002ed20d78d23f"}, "iucr": "1320", "longitude": "-87.77269113062886", "location_description": "STREET", "x_coordinate": "1136881", "updated_on": {"$date": 1370479286000}, "fbi_code": "14", "block": "010XX N MAYFIELD AVE"}
+{
+    "y_coordinate": "1906239", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303385", 
+    "id": "9157895", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77269113062886, 
+            41.898875909549766
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.898875909549766", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1511", 
+    "date": {
+        "$date": 1370298600000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51b742973c002ed20d78d23f"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.77269113062886", 
+    "location_description": "STREET", 
+    "x_coordinate": "1136881", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "14", 
+    "block": "010XX N MAYFIELD AVE"
+}

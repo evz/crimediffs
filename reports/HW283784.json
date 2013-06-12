@@ -1,1 +1,38 @@
-{"y_coordinate": "1856450", "year": "2013", "domestic": false, "case_number": "HW283784", "id": "9138363", "primary_type": "WEAPONS VIOLATION", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.59587418621395, 41.761242329423204]}, "community_area": "69", "latitude": "41.761242329423204", "type": null, "description": "UNLAWFUL POSS OF HANDGUN", "beat": "0324", "date": {"$date": 1369089900000}, "ward": "5", "_id": {"$oid": "51a4cd8d3c002ed20d78a35b"}, "iucr": "143A", "longitude": "-87.59587418621395", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1185449", "updated_on": {"$date": 1369269615000}, "fbi_code": "15", "block": "073XX S WOODLAWN AVE"}
+{
+    "y_coordinate": "1856450", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283784", 
+    "id": "9138363", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59587418621395, 
+            41.761242329423204
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.761242329423204", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "0324", 
+    "date": {
+        "$date": 1369089900000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51a4cd8d3c002ed20d78a35b"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.59587418621395", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1185449", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "15", 
+    "block": "073XX S WOODLAWN AVE"
+}

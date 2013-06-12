@@ -1,1 +1,38 @@
-{"y_coordinate": "1899996", "year": "2013", "domestic": false, "case_number": "HW284777", "id": "9139576", "primary_type": "THEFT", "district": "012", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68557229506511, 41.88128522733991]}, "community_area": "28", "latitude": "41.88128522733991", "type": "property", "description": "RETAIL THEFT", "beat": "1223", "date": {"$date": 1369154400000}, "ward": "2", "_id": {"$oid": "51a61f0c3c002ed20d78a820"}, "iucr": "860", "longitude": "-87.68557229506511", "location_description": "DRUG STORE", "x_coordinate": "1160647", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "023XX W MADISON ST"}
+{
+    "y_coordinate": "1899996", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284777", 
+    "id": "9139576", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68557229506511, 
+            41.88128522733991
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.88128522733991", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "1223", 
+    "date": {
+        "$date": 1369154400000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a61f0c3c002ed20d78a820"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.68557229506511", 
+    "location_description": "DRUG STORE", 
+    "x_coordinate": "1160647", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "023XX W MADISON ST"
+}

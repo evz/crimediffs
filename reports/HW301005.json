@@ -1,1 +1,38 @@
-{"y_coordinate": "1859345", "year": "2013", "domestic": true, "case_number": "HW301005", "id": "9155315", "primary_type": "BATTERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68812901082961, 41.76974220251161]}, "community_area": "66", "latitude": "41.76974220251161", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0832", "date": {"$date": 1370136600000}, "ward": "15", "_id": {"$oid": "51b5f11d3c002ed20d78cec8"}, "iucr": "486", "longitude": "-87.68812901082961", "location_description": "RESIDENCE", "x_coordinate": "1160256", "updated_on": {"$date": 1370651988000}, "fbi_code": "08B", "block": "068XX S ROCKWELL ST"}
+{
+    "y_coordinate": "1859345", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301005", 
+    "id": "9155315", 
+    "primary_type": "BATTERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68812901082961, 
+            41.76974220251161
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.76974220251161", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0832", 
+    "date": {
+        "$date": 1370136600000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78cec8"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.68812901082961", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1160256", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "08B", 
+    "block": "068XX S ROCKWELL ST"
+}

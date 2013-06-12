@@ -1,1 +1,38 @@
-{"y_coordinate": "1899631", "year": "2013", "domestic": false, "case_number": "HW286226", "id": "9141181", "primary_type": "THEFT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63068804794165, 41.879960885060186]}, "community_area": "32", "latitude": "41.879960885060186", "type": "property", "description": "FROM BUILDING", "beat": "0112", "date": {"$date": 1369223040000}, "ward": "42", "_id": {"$oid": "51a7708c3c002ed20d78ac8a"}, "iucr": "890", "longitude": "-87.63068804794165", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1175597", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "001XX S CLARK ST"}
+{
+    "y_coordinate": "1899631", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286226", 
+    "id": "9141181", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63068804794165, 
+            41.879960885060186
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.879960885060186", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0112", 
+    "date": {
+        "$date": 1369223040000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac8a"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.63068804794165", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1175597", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "001XX S CLARK ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1906147", "year": "2013", "domestic": false, "case_number": "HW302405", "id": "9156845", "primary_type": "CRIMINAL DAMAGE", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61887484946446, 41.897769453903585]}, "community_area": "8", "latitude": "41.897769453903585", "type": "quality", "description": "TO PROPERTY", "beat": "1833", "date": {"$date": 1370174400000}, "ward": "42", "_id": {"$oid": "51b5f11b3c002ed20d78cdcf"}, "iucr": "1310", "longitude": "-87.61887484946446", "location_description": "RESIDENCE", "x_coordinate": "1178760", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "002XX E PEARSON ST"}
+{
+    "y_coordinate": "1906147", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302405", 
+    "id": "9156845", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61887484946446, 
+            41.897769453903585
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.897769453903585", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1833", 
+    "date": {
+        "$date": 1370174400000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cdcf"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.61887484946446", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1178760", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "002XX E PEARSON ST"
+}

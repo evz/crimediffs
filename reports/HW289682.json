@@ -1,1 +1,38 @@
-{"y_coordinate": "1856877", "year": "2013", "domestic": false, "case_number": "HW289682", "id": "9144502", "primary_type": "CRIMINAL DAMAGE", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64133394659981, 41.76269694773926]}, "community_area": "68", "latitude": "41.76269694773926", "type": "quality", "description": "TO PROPERTY", "beat": "0732", "date": {"$date": 1369431600000}, "ward": "17", "_id": {"$oid": "51aa138d3c002ed20d78ae7c"}, "iucr": "1310", "longitude": "-87.64133394659981", "location_description": "APARTMENT", "x_coordinate": "1173042", "updated_on": {"$date": 1369615194000}, "fbi_code": "14", "block": "072XX S UNION AVE"}
+{
+    "y_coordinate": "1856877", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289682", 
+    "id": "9144502", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64133394659981, 
+            41.76269694773926
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.76269694773926", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0732", 
+    "date": {
+        "$date": 1369431600000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78ae7c"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.64133394659981", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1173042", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "14", 
+    "block": "072XX S UNION AVE"
+}

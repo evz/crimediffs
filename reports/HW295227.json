@@ -1,1 +1,38 @@
-{"y_coordinate": "1935552", "year": "2013", "domestic": false, "case_number": "HW295227", "id": "9149518", "primary_type": "THEFT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7708864940624, 41.979308498717394]}, "community_area": "11", "latitude": "41.979308498717394", "type": "property", "description": "FINANCIAL ID THEFT: OVER $300", "beat": "1622", "date": {"$date": 1369137600000}, "ward": "45", "_id": {"$oid": "51a770903c002ed20d78ad3f"}, "iucr": "840", "longitude": "-87.7708864940624", "location_description": "BANK", "x_coordinate": "1137180", "updated_on": {"$date": 1370565766000}, "fbi_code": "06", "block": "053XX N MILWAUKEE AVE"}
+{
+    "y_coordinate": "1935552", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW295227", 
+    "id": "9149518", 
+    "primary_type": "THEFT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7708864940624, 
+            41.979308498717394
+        ]
+    }, 
+    "community_area": "11", 
+    "latitude": "41.979308498717394", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "1622", 
+    "date": {
+        "$date": 1369137600000
+    }, 
+    "ward": "45", 
+    "_id": {
+        "$oid": "51a770903c002ed20d78ad3f"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.7708864940624", 
+    "location_description": "BANK", 
+    "x_coordinate": "1137180", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "06", 
+    "block": "053XX N MILWAUKEE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1892429", "year": "2013", "domestic": false, "case_number": "HW293839", "id": "9147953", "primary_type": "DECEPTIVE PRACTICE", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62096786864342, 41.860136933160696]}, "community_area": "33", "latitude": "41.860136933160696", "type": null, "description": "UNLAWFUL USE OF A COMPUTER", "beat": "0132", "date": {"$date": 1369205400000}, "ward": "2", "_id": {"$oid": "51a7708d3c002ed20d78ad1f"}, "iucr": "1240", "longitude": "-87.62096786864342", "location_description": "STREET", "x_coordinate": "1178304", "updated_on": {"$date": 1369874559000}, "fbi_code": "11", "block": "016XX S PRAIRIE AVE"}
+{
+    "y_coordinate": "1892429", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293839", 
+    "id": "9147953", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62096786864342, 
+            41.860136933160696
+        ]
+    }, 
+    "community_area": "33", 
+    "latitude": "41.860136933160696", 
+    "type": null, 
+    "description": "UNLAWFUL USE OF A COMPUTER", 
+    "beat": "0132", 
+    "date": {
+        "$date": 1369205400000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad1f"
+    }, 
+    "iucr": "1240", 
+    "longitude": "-87.62096786864342", 
+    "location_description": "STREET", 
+    "x_coordinate": "1178304", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "11", 
+    "block": "016XX S PRAIRIE AVE"
+}

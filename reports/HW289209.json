@@ -1,1 +1,38 @@
-{"y_coordinate": "1852268", "year": "2013", "domestic": true, "case_number": "HW289209", "id": "9144472", "primary_type": "BATTERY", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61231939600023, 41.74987004604194]}, "community_area": "44", "latitude": "41.74987004604194", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0624", "date": {"$date": 1369409400000}, "ward": "6", "_id": {"$oid": "51aa13903c002ed20d78afb3"}, "iucr": "486", "longitude": "-87.61231939600023", "location_description": "APARTMENT", "x_coordinate": "1180997", "updated_on": {"$date": 1369960832000}, "fbi_code": "08B", "block": "079XX S EBERHART AVE"}
+{
+    "y_coordinate": "1852268", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289209", 
+    "id": "9144472", 
+    "primary_type": "BATTERY", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61231939600023, 
+            41.74987004604194
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.74987004604194", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0624", 
+    "date": {
+        "$date": 1369409400000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78afb3"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.61231939600023", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1180997", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "08B", 
+    "block": "079XX S EBERHART AVE"
+}

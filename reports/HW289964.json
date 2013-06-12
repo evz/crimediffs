@@ -1,1 +1,38 @@
-{"y_coordinate": "1942968", "year": "2013", "domestic": false, "case_number": "HW289964", "id": "9144815", "primary_type": "CRIMINAL DAMAGE", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6682576375923, 41.9991107485925]}, "community_area": "1", "latitude": "41.9991107485925", "type": "quality", "description": "TO VEHICLE", "beat": "2432", "date": {"$date": 1369450800000}, "ward": "40", "_id": {"$oid": "51aa13893c002ed20d78ada5"}, "iucr": "1320", "longitude": "-87.6682576375923", "location_description": "STREET", "x_coordinate": "1165029", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "015XX W SCHREIBER AVE"}
+{
+    "y_coordinate": "1942968", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289964", 
+    "id": "9144815", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6682576375923, 
+            41.9991107485925
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "41.9991107485925", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "2432", 
+    "date": {
+        "$date": 1369450800000
+    }, 
+    "ward": "40", 
+    "_id": {
+        "$oid": "51aa13893c002ed20d78ada5"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.6682576375923", 
+    "location_description": "STREET", 
+    "x_coordinate": "1165029", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "015XX W SCHREIBER AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1909508", "year": "2013", "domestic": false, "case_number": "HW287631", "id": "9142967", "primary_type": "THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7297831791621, 41.90762932144496]}, "community_area": "23", "latitude": "41.90762932144496", "type": "property", "description": "$500 AND UNDER", "beat": "2534", "date": {"$date": 1369252800000}, "ward": "30", "_id": {"$oid": "51a770893c002ed20d78aafe"}, "iucr": "820", "longitude": "-87.7297831791621", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1148540", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "041XX W GRAND AVE"}
+{
+    "y_coordinate": "1909508", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287631", 
+    "id": "9142967", 
+    "primary_type": "THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7297831791621, 
+            41.90762932144496
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.90762932144496", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2534", 
+    "date": {
+        "$date": 1369252800000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51a770893c002ed20d78aafe"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.7297831791621", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1148540", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "041XX W GRAND AVE"
+}

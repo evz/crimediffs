@@ -1,1 +1,38 @@
-{"y_coordinate": "1902604", "year": "2013", "domestic": false, "case_number": "HW284735", "id": "9140784", "primary_type": "THEFT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62398117695169, 41.88807828090852]}, "community_area": "32", "latitude": "41.88807828090852", "type": "property", "description": "OVER $500", "beat": "0114", "date": {"$date": 1369056600000}, "ward": "42", "_id": {"$oid": "51a4cd913c002ed20d78a51b"}, "iucr": "810", "longitude": "-87.62398117695169", "location_description": "SIDEWALK", "x_coordinate": "1177399", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "001XX E WACKER DR"}
+{
+    "y_coordinate": "1902604", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284735", 
+    "id": "9140784", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62398117695169, 
+            41.88807828090852
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88807828090852", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0114", 
+    "date": {
+        "$date": 1369056600000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a51b"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.62398117695169", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1177399", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "001XX E WACKER DR"
+}

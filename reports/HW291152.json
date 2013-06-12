@@ -1,1 +1,38 @@
-{"y_coordinate": "1837121", "year": "2013", "domestic": false, "case_number": "HW291152", "id": "9145675", "primary_type": "CRIMINAL DAMAGE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.53393045170468, 41.70778335734303]}, "community_area": "52", "latitude": "41.70778335734303", "type": "quality", "description": "CRIMINAL DEFACEMENT", "beat": "0432", "date": {"$date": 1369462500000}, "ward": "10", "_id": {"$oid": "51b34a123c002ed20d78cb26"}, "iucr": "1305", "longitude": "-87.53393045170468", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1202530", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "103XX S AVENUE J"}
+{
+    "y_coordinate": "1837121", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291152", 
+    "id": "9145675", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.53393045170468, 
+            41.70778335734303
+        ]
+    }, 
+    "community_area": "52", 
+    "latitude": "41.70778335734303", 
+    "type": "quality", 
+    "description": "CRIMINAL DEFACEMENT", 
+    "beat": "0432", 
+    "date": {
+        "$date": 1369462500000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cb26"
+    }, 
+    "iucr": "1305", 
+    "longitude": "-87.53393045170468", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1202530", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "103XX S AVENUE J"
+}

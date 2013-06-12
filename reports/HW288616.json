@@ -1,1 +1,38 @@
-{"y_coordinate": "1913948", "year": "2013", "domestic": false, "case_number": "HW288616", "id": "9143922", "primary_type": "SEX OFFENSE", "district": "018", "arrest": true, "location": {"type": "Point", "coordinates": [-87.65355834857378, 41.919387754062804]}, "community_area": "7", "latitude": "41.919387754062804", "type": null, "description": "PUBLIC INDECENCY", "beat": "1811", "date": {"$date": 1369381860000}, "ward": "43", "_id": {"$oid": "51aa13933c002ed20d78b111"}, "iucr": "1570", "longitude": "-87.65355834857378", "location_description": "ALLEY", "x_coordinate": "1169255", "updated_on": {"$date": 1369528777000}, "fbi_code": "17", "block": "020XX N SHEFFIELD AVE"}
+{
+    "y_coordinate": "1913948", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288616", 
+    "id": "9143922", 
+    "primary_type": "SEX OFFENSE", 
+    "district": "018", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65355834857378, 
+            41.919387754062804
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.919387754062804", 
+    "type": null, 
+    "description": "PUBLIC INDECENCY", 
+    "beat": "1811", 
+    "date": {
+        "$date": 1369381860000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b111"
+    }, 
+    "iucr": "1570", 
+    "longitude": "-87.65355834857378", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1169255", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "17", 
+    "block": "020XX N SHEFFIELD AVE"
+}

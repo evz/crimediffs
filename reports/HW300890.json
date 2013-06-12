@@ -1,1 +1,38 @@
-{"y_coordinate": "1924702", "year": "2013", "domestic": false, "case_number": "HW300890", "id": "9155248", "primary_type": "BURGLARY", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.83156620621952, 41.94981503152845]}, "community_area": "17", "latitude": "41.94981503152845", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1631", "date": {"$date": 1370161800000}, "ward": "36", "_id": {"$oid": "51b5f11c3c002ed20d78ce2d"}, "iucr": "610", "longitude": "-87.83156620621952", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1120744", "updated_on": {"$date": 1370392932000}, "fbi_code": "05", "block": "038XX N PIONEER AVE"}
+{
+    "y_coordinate": "1924702", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300890", 
+    "id": "9155248", 
+    "primary_type": "BURGLARY", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.83156620621952, 
+            41.94981503152845
+        ]
+    }, 
+    "community_area": "17", 
+    "latitude": "41.94981503152845", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1631", 
+    "date": {
+        "$date": 1370161800000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce2d"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.83156620621952", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1120744", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "05", 
+    "block": "038XX N PIONEER AVE"
+}

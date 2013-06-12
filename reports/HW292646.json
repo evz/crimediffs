@@ -1,1 +1,33 @@
-{"community_area": "49", "_id": {"$oid": "51b34a123c002ed20d78cae8"}, "primary_type": "ASSAULT", "beat": "2232", "year": "2013", "domestic": false, "iucr": "560", "arrest": false, "location_description": "RESIDENCE", "location": {"type": "Point", "coordinates": [-87.63902763657805, 41.706298392704966]}, "case_number": "HW292646", "date": {"$date": 1369472400000}, "updated_on": {"$date": 1370306580000}, "ward": "34", "fbi_code": "08A", "type": null, "id": "9154319", "block": "103XX S LOWE AVE", "description": "SIMPLE"}
+{
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cae8"
+    }, 
+    "primary_type": "ASSAULT", 
+    "year": "2013", 
+    "beat": "2232", 
+    "case_number": "HW292646", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63902763657805, 
+            41.706298392704966
+        ]
+    }, 
+    "community_area": "49", 
+    "date": {
+        "$date": 1369472400000
+    }, 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "ward": "34", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9154319", 
+    "block": "103XX S LOWE AVE", 
+    "description": "SIMPLE"
+}

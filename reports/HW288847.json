@@ -1,1 +1,38 @@
-{"y_coordinate": "1851612", "year": "2013", "domestic": false, "case_number": "HW288847", "id": "9143993", "primary_type": "DECEPTIVE PRACTICE", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66202774410823, 41.74837096520907]}, "community_area": "71", "latitude": "41.74837096520907", "type": null, "description": "FRAUD OR CONFIDENCE GAME", "beat": "0612", "date": {"$date": 1369396800000}, "ward": "21", "_id": {"$oid": "51aa13923c002ed20d78b071"}, "iucr": "1130", "longitude": "-87.66202774410823", "location_description": "RESIDENCE", "x_coordinate": "1167437", "updated_on": {"$date": 1369701613000}, "fbi_code": "11", "block": "080XX S JUSTINE ST"}
+{
+    "y_coordinate": "1851612", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288847", 
+    "id": "9143993", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66202774410823, 
+            41.74837096520907
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.74837096520907", 
+    "type": null, 
+    "description": "FRAUD OR CONFIDENCE GAME", 
+    "beat": "0612", 
+    "date": {
+        "$date": 1369396800000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b071"
+    }, 
+    "iucr": "1130", 
+    "longitude": "-87.66202774410823", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1167437", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "11", 
+    "block": "080XX S JUSTINE ST"
+}

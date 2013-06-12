@@ -1,1 +1,38 @@
-{"y_coordinate": "1831113", "year": "2013", "domestic": false, "case_number": "HW287654", "id": "9142728", "primary_type": "ASSAULT", "district": "022", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66585307965337, 41.69213741950295]}, "community_area": "75", "latitude": "41.69213741950295", "type": null, "description": "SIMPLE", "beat": "2212", "date": {"$date": 1369218600000}, "ward": "19", "_id": {"$oid": "51a7708d3c002ed20d78acb0"}, "iucr": "560", "longitude": "-87.66585307965337", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1166552", "updated_on": {"$date": 1370479286000}, "fbi_code": "08A", "block": "017XX W PRYOR AVE"}
+{
+    "y_coordinate": "1831113", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287654", 
+    "id": "9142728", 
+    "primary_type": "ASSAULT", 
+    "district": "022", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66585307965337, 
+            41.69213741950295
+        ]
+    }, 
+    "community_area": "75", 
+    "latitude": "41.69213741950295", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2212", 
+    "date": {
+        "$date": 1369218600000
+    }, 
+    "ward": "19", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78acb0"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.66585307965337", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1166552", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08A", 
+    "block": "017XX W PRYOR AVE"
+}

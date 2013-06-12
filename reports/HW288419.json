@@ -1,1 +1,38 @@
-{"y_coordinate": "1857210", "year": "2013", "domestic": false, "case_number": "HW288419", "id": "9143323", "primary_type": "BURGLARY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68581262836199, 41.763870089895825]}, "community_area": "66", "latitude": "41.763870089895825", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "0832", "date": {"$date": 1369302300000}, "ward": "18", "_id": {"$oid": "51aa13983c002ed20d78b3c5"}, "iucr": "620", "longitude": "-87.68581262836199", "location_description": "RESIDENCE", "x_coordinate": "1160904", "updated_on": {"$date": 1370392932000}, "fbi_code": "05", "block": "071XX S CAMPBELL AVE"}
+{
+    "y_coordinate": "1857210", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288419", 
+    "id": "9143323", 
+    "primary_type": "BURGLARY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68581262836199, 
+            41.763870089895825
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.763870089895825", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "0832", 
+    "date": {
+        "$date": 1369302300000
+    }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3c5"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.68581262836199", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1160904", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "05", 
+    "block": "071XX S CAMPBELL AVE"
+}

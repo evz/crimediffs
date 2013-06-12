@@ -1,1 +1,38 @@
-{"y_coordinate": "1845627", "year": "2013", "domestic": false, "case_number": "HW287643", "id": "9142837", "primary_type": "WEAPONS VIOLATION", "district": "022", "arrest": true, "location": {"type": "Point", "coordinates": [-87.65823130046923, 41.7319240203492]}, "community_area": "73", "latitude": "41.7319240203492", "type": null, "description": "UNLAWFUL USE HANDGUN", "beat": "2222", "date": {"$date": 1369314300000}, "ward": "21", "_id": {"$oid": "51aa13973c002ed20d78b32e"}, "iucr": "141A", "longitude": "-87.65823130046923", "location_description": "STREET", "x_coordinate": "1168520", "updated_on": {"$date": 1369528777000}, "fbi_code": "15", "block": "089XX S LOOMIS ST"}
+{
+    "y_coordinate": "1845627", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287643", 
+    "id": "9142837", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "022", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65823130046923, 
+            41.7319240203492
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.7319240203492", 
+    "type": null, 
+    "description": "UNLAWFUL USE HANDGUN", 
+    "beat": "2222", 
+    "date": {
+        "$date": 1369314300000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b32e"
+    }, 
+    "iucr": "141A", 
+    "longitude": "-87.65823130046923", 
+    "location_description": "STREET", 
+    "x_coordinate": "1168520", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "15", 
+    "block": "089XX S LOOMIS ST"
+}

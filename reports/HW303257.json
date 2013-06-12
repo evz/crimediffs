@@ -1,1 +1,38 @@
-{"y_coordinate": "1826656", "year": "2013", "domestic": false, "case_number": "HW303257", "id": "9157787", "primary_type": "CRIMINAL DAMAGE", "district": "005", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62380020335036, 41.67965398027688]}, "community_area": "53", "latitude": "41.67965398027688", "type": "quality", "description": "TO VEHICLE", "beat": "0522", "date": {"$date": 1370292120000}, "ward": "34", "_id": {"$oid": "51b742983c002ed20d78d297"}, "iucr": "1320", "longitude": "-87.62380020335036", "location_description": "STREET", "x_coordinate": "1178075", "updated_on": {"$date": 1370479286000}, "fbi_code": "14", "block": "118XX S LAFAYETTE AVE"}
+{
+    "y_coordinate": "1826656", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303257", 
+    "id": "9157787", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "005", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62380020335036, 
+            41.67965398027688
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.67965398027688", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0522", 
+    "date": {
+        "$date": 1370292120000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b742983c002ed20d78d297"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.62380020335036", 
+    "location_description": "STREET", 
+    "x_coordinate": "1178075", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "14", 
+    "block": "118XX S LAFAYETTE AVE"
+}

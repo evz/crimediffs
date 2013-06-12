@@ -1,1 +1,38 @@
-{"y_coordinate": "1898442", "year": "2013", "domestic": false, "case_number": "HW289407", "id": "9144264", "primary_type": "CRIMINAL TRESPASS", "district": "001", "arrest": true, "location": {"type": "Point", "coordinates": [-87.63467815439597, 41.876722322956134]}, "community_area": "32", "latitude": "41.876722322956134", "type": null, "description": "TO LAND", "beat": "0122", "date": {"$date": 1369415700000}, "ward": "2", "_id": {"$oid": "51aa138f3c002ed20d78af52"}, "iucr": "1330", "longitude": "-87.63467815439597", "location_description": "ALLEY", "x_coordinate": "1174520", "updated_on": {"$date": 1369615194000}, "fbi_code": "26", "block": "002XX W VAN BUREN ST"}
+{
+    "y_coordinate": "1898442", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289407", 
+    "id": "9144264", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63467815439597, 
+            41.876722322956134
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.876722322956134", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "0122", 
+    "date": {
+        "$date": 1369415700000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51aa138f3c002ed20d78af52"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.63467815439597", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1174520", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "26", 
+    "block": "002XX W VAN BUREN ST"
+}

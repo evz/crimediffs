@@ -1,1 +1,38 @@
-{"y_coordinate": "1846754", "year": "2013", "domestic": false, "case_number": "HW300082", "id": "9154656", "primary_type": "THEFT", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.7034884808305, 41.735273852770185]}, "community_area": "70", "latitude": "41.735273852770185", "type": "property", "description": "RETAIL THEFT", "beat": "0834", "date": {"$date": 1370097900000}, "ward": "18", "_id": {"$oid": "51b5f1203c002ed20d78d080"}, "iucr": "860", "longitude": "-87.7034884808305", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1156158", "updated_on": {"$date": 1370306580000}, "fbi_code": "06", "block": "032XX W 87TH ST"}
+{
+    "y_coordinate": "1846754", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300082", 
+    "id": "9154656", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7034884808305, 
+            41.735273852770185
+        ]
+    }, 
+    "community_area": "70", 
+    "latitude": "41.735273852770185", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0834", 
+    "date": {
+        "$date": 1370097900000
+    }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d080"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.7034884808305", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1156158", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "06", 
+    "block": "032XX W 87TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1856208", "year": "2013", "domestic": false, "case_number": "HW299754", "id": "9154456", "primary_type": "ASSAULT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61379265607611, 41.76069182689502]}, "community_area": "69", "latitude": "41.76069182689502", "type": null, "description": "SIMPLE", "beat": "0323", "date": {"$date": 1370084400000}, "ward": "6", "_id": {"$oid": "51b5f1203c002ed20d78d120"}, "iucr": "560", "longitude": "-87.61379265607611", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1180562", "updated_on": {"$date": 1370306580000}, "fbi_code": "08A", "block": "073XX S VERNON AVE"}
+{
+    "y_coordinate": "1856208", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299754", 
+    "id": "9154456", 
+    "primary_type": "ASSAULT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61379265607611, 
+            41.76069182689502
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.76069182689502", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0323", 
+    "date": {
+        "$date": 1370084400000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d120"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.61379265607611", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1180562", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08A", 
+    "block": "073XX S VERNON AVE"
+}

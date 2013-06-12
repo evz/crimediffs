@@ -1,1 +1,38 @@
-{"y_coordinate": "1868352", "year": "2013", "domestic": false, "case_number": "HW288989", "id": "9144010", "primary_type": "THEFT", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63065457750812, 41.79412286782864]}, "community_area": "68", "latitude": "41.79412286782864", "type": "property", "description": "$500 AND UNDER", "beat": "0225", "date": {"$date": 1369402200000}, "ward": "3", "_id": {"$oid": "51aa13913c002ed20d78b01b"}, "iucr": "820", "longitude": "-87.63065457750812", "location_description": "CTA BUS STOP", "x_coordinate": "1175862", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "055XX S WENTWORTH AVE"}
+{
+    "y_coordinate": "1868352", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288989", 
+    "id": "9144010", 
+    "primary_type": "THEFT", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63065457750812, 
+            41.79412286782864
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.79412286782864", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0225", 
+    "date": {
+        "$date": 1369402200000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b01b"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.63065457750812", 
+    "location_description": "CTA BUS STOP", 
+    "x_coordinate": "1175862", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "055XX S WENTWORTH AVE"
+}

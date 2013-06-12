@@ -1,1 +1,38 @@
-{"y_coordinate": "1863939", "year": "2013", "domestic": false, "case_number": "HW302949", "id": "9157571", "primary_type": "ROBBERY", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.69089902486276, 41.78236502109198]}, "community_area": "66", "latitude": "41.78236502109198", "type": "violent", "description": "ARMED: OTHER FIREARM", "beat": "0825", "date": {"$date": 1370278500000}, "ward": "15", "_id": {"$oid": "51b7429b3c002ed20d78d36a"}, "iucr": "031B", "longitude": "-87.69089902486276", "location_description": "RESIDENCE", "x_coordinate": "1159466", "updated_on": {"$date": 1370651988000}, "fbi_code": "03", "block": "061XX S WASHTENAW AVE"}
+{
+    "y_coordinate": "1863939", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302949", 
+    "id": "9157571", 
+    "primary_type": "ROBBERY", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69089902486276, 
+            41.78236502109198
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.78236502109198", 
+    "type": "violent", 
+    "description": "ARMED: OTHER FIREARM", 
+    "beat": "0825", 
+    "date": {
+        "$date": 1370278500000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b7429b3c002ed20d78d36a"
+    }, 
+    "iucr": "031B", 
+    "longitude": "-87.69089902486276", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1159466", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "03", 
+    "block": "061XX S WASHTENAW AVE"
+}

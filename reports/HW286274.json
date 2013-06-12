@@ -1,1 +1,38 @@
-{"y_coordinate": "1875803", "year": "2013", "domestic": false, "case_number": "HW286274", "id": "9141456", "primary_type": "BATTERY", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6084556462001, 41.81443254649614]}, "community_area": "38", "latitude": "41.81443254649614", "type": null, "description": "PRO EMP HANDS NO/MIN INJURY", "beat": "0221", "date": {"$date": 1369231800000}, "ward": "3", "_id": {"$oid": "51a7708b3c002ed20d78ac1b"}, "iucr": "484", "longitude": "-87.6084556462001", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1181853", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "044XX S EVANS AVE"}
+{
+    "y_coordinate": "1875803", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286274", 
+    "id": "9141456", 
+    "primary_type": "BATTERY", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6084556462001, 
+            41.81443254649614
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.81443254649614", 
+    "type": null, 
+    "description": "PRO EMP HANDS NO/MIN INJURY", 
+    "beat": "0221", 
+    "date": {
+        "$date": 1369231800000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac1b"
+    }, 
+    "iucr": "484", 
+    "longitude": "-87.6084556462001", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1181853", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "044XX S EVANS AVE"
+}

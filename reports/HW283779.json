@@ -1,1 +1,38 @@
-{"y_coordinate": "1862207", "year": "2013", "domestic": true, "case_number": "HW283779", "id": "9138695", "primary_type": "BATTERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68619161831171, 41.77758548346776]}, "community_area": "66", "latitude": "41.77758548346776", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0825", "date": {"$date": 1369090200000}, "ward": "15", "_id": {"$oid": "51a4cd8c3c002ed20d78a357"}, "iucr": "486", "longitude": "-87.68619161831171", "location_description": "RESIDENCE", "x_coordinate": "1160763", "updated_on": {"$date": 1369615194000}, "fbi_code": "08B", "block": "063XX S CAMPBELL AVE"}
+{
+    "y_coordinate": "1862207", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283779", 
+    "id": "9138695", 
+    "primary_type": "BATTERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68619161831171, 
+            41.77758548346776
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.77758548346776", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0825", 
+    "date": {
+        "$date": 1369090200000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51a4cd8c3c002ed20d78a357"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.68619161831171", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1160763", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08B", 
+    "block": "063XX S CAMPBELL AVE"
+}

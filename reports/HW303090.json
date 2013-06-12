@@ -1,1 +1,38 @@
-{"y_coordinate": "1878318", "year": "2013", "domestic": true, "case_number": "HW303090", "id": "9157845", "primary_type": "OTHER OFFENSE", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60141874476261, 41.82128976425107]}, "community_area": "36", "latitude": "41.82128976425107", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "0214", "date": {"$date": 1370283600000}, "ward": "4", "_id": {"$oid": "51b7429a3c002ed20d78d30d"}, "iucr": "2825", "longitude": "-87.60141874476261", "location_description": "STREET", "x_coordinate": "1183750", "updated_on": {"$date": 1370911182000}, "fbi_code": "26", "block": "040XX S LAKE PARK AVE"}
+{
+    "y_coordinate": "1878318", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW303090", 
+    "id": "9157845", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60141874476261, 
+            41.82128976425107
+        ]
+    }, 
+    "community_area": "36", 
+    "latitude": "41.82128976425107", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "0214", 
+    "date": {
+        "$date": 1370283600000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51b7429a3c002ed20d78d30d"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.60141874476261", 
+    "location_description": "STREET", 
+    "x_coordinate": "1183750", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "26", 
+    "block": "040XX S LAKE PARK AVE"
+}

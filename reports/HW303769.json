@@ -1,1 +1,38 @@
-{"y_coordinate": "1848724", "year": "2013", "domestic": false, "case_number": "HW303769", "id": "9158548", "primary_type": "BATTERY", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.60113258794107, 41.74007348394305]}, "community_area": "44", "latitude": "41.74007348394305", "type": null, "description": "SIMPLE", "beat": "0632", "date": {"$date": 1370246400000}, "ward": "8", "_id": {"$oid": "51b7429e3c002ed20d78d4e2"}, "iucr": "460", "longitude": "-87.60113258794107", "location_description": "SCHOOL, PUBLIC, GROUNDS", "x_coordinate": "1184080", "updated_on": {"$date": 1370565766000}, "fbi_code": "08B", "block": "085XX S INGLESIDE AVE"}
+{
+    "y_coordinate": "1848724", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303769", 
+    "id": "9158548", 
+    "primary_type": "BATTERY", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60113258794107, 
+            41.74007348394305
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.74007348394305", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0632", 
+    "date": {
+        "$date": 1370246400000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51b7429e3c002ed20d78d4e2"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.60113258794107", 
+    "location_description": "SCHOOL, PUBLIC, GROUNDS", 
+    "x_coordinate": "1184080", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "08B", 
+    "block": "085XX S INGLESIDE AVE"
+}

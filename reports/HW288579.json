@@ -1,1 +1,38 @@
-{"y_coordinate": "1922030", "year": "2013", "domestic": false, "case_number": "HW288579", "id": "9144851", "primary_type": "ASSAULT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.79721697196835, 41.94232721783106]}, "community_area": "17", "latitude": "41.94232721783106", "type": null, "description": "SIMPLE", "beat": "1632", "date": {"$date": 1369383000000}, "ward": "36", "_id": {"$oid": "51aa13933c002ed20d78b101"}, "iucr": "560", "longitude": "-87.79721697196835", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1130105", "updated_on": {"$date": 1369701613000}, "fbi_code": "08A", "block": "034XX N NEWCASTLE AVE"}
+{
+    "y_coordinate": "1922030", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288579", 
+    "id": "9144851", 
+    "primary_type": "ASSAULT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.79721697196835, 
+            41.94232721783106
+        ]
+    }, 
+    "community_area": "17", 
+    "latitude": "41.94232721783106", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1632", 
+    "date": {
+        "$date": 1369383000000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b101"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.79721697196835", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1130105", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08A", 
+    "block": "034XX N NEWCASTLE AVE"
+}

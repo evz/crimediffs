@@ -1,1 +1,38 @@
-{"y_coordinate": "1938817", "year": "2013", "domestic": false, "case_number": "HW286644", "id": "9141421", "primary_type": "CRIMINAL DAMAGE", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66697487672417, 41.98771216971538]}, "community_area": "77", "latitude": "41.98771216971538", "type": "quality", "description": "TO VEHICLE", "beat": "2013", "date": {"$date": 1369078980000}, "ward": "48", "_id": {"$oid": "51a4cd8e3c002ed20d78a3f0"}, "iucr": "1320", "longitude": "-87.66697487672417", "location_description": "STREET", "x_coordinate": "1165410", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "058XX N RIDGE AVE"}
+{
+    "y_coordinate": "1938817", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286644", 
+    "id": "9141421", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66697487672417, 
+            41.98771216971538
+        ]
+    }, 
+    "community_area": "77", 
+    "latitude": "41.98771216971538", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "2013", 
+    "date": {
+        "$date": 1369078980000
+    }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3f0"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.66697487672417", 
+    "location_description": "STREET", 
+    "x_coordinate": "1165410", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "058XX N RIDGE AVE"
+}

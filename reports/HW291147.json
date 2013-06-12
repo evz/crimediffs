@@ -1,1 +1,38 @@
-{"y_coordinate": "1893831", "year": "2013", "domestic": false, "case_number": "HW291147", "id": "9145690", "primary_type": "BURGLARY", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72742366583063, 41.86459535098257]}, "community_area": "29", "latitude": "41.86459535098257", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1011", "date": {"$date": 1369532700000}, "ward": "24", "_id": {"$oid": "51b34a0d3c002ed20d78c85e"}, "iucr": "610", "longitude": "-87.72742366583063", "location_description": "APARTMENT", "x_coordinate": "1149293", "updated_on": {"$date": 1369701613000}, "fbi_code": "05", "block": "012XX S KARLOV AVE"}
+{
+    "y_coordinate": "1893831", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291147", 
+    "id": "9145690", 
+    "primary_type": "BURGLARY", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72742366583063, 
+            41.86459535098257
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.86459535098257", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1011", 
+    "date": {
+        "$date": 1369532700000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c85e"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.72742366583063", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1149293", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "05", 
+    "block": "012XX S KARLOV AVE"
+}

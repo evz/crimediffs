@@ -1,1 +1,38 @@
-{"y_coordinate": "1902264", "year": "2013", "domestic": false, "case_number": "HW284935", "id": "9139875", "primary_type": "CRIMINAL DAMAGE", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62611038107487, 41.88715837212997]}, "community_area": "32", "latitude": "41.88715837212997", "type": "quality", "description": "TO CITY OF CHICAGO PROPERTY", "beat": "0111", "date": {"$date": 1369161000000}, "ward": "42", "_id": {"$oid": "51a61f0a3c002ed20d78a7b7"}, "iucr": "1345", "longitude": "-87.62611038107487", "location_description": "PARK PROPERTY", "x_coordinate": "1176822", "updated_on": {"$date": 1369356045000}, "fbi_code": "14", "block": "0000X E LOWER WACKER DR"}
+{
+    "y_coordinate": "1902264", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284935", 
+    "id": "9139875", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62611038107487, 
+            41.88715837212997
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88715837212997", 
+    "type": "quality", 
+    "description": "TO CITY OF CHICAGO PROPERTY", 
+    "beat": "0111", 
+    "date": {
+        "$date": 1369161000000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a7b7"
+    }, 
+    "iucr": "1345", 
+    "longitude": "-87.62611038107487", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1176822", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "14", 
+    "block": "0000X E LOWER WACKER DR"
+}

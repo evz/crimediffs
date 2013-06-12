@@ -1,1 +1,38 @@
-{"y_coordinate": "1851603", "year": "2013", "domestic": false, "case_number": "HW301325", "id": "9155915", "primary_type": "WEAPONS VIOLATION", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64138312800625, 41.748223792232324]}, "community_area": "71", "latitude": "41.748223792232324", "type": null, "description": "UNLAWFUL POSS OF HANDGUN", "beat": "0621", "date": {"$date": 1370185800000}, "ward": "21", "_id": {"$oid": "51b5f11a3c002ed20d78cd56"}, "iucr": "143A", "longitude": "-87.64138312800625", "location_description": "STREET", "x_coordinate": "1173071", "updated_on": {"$date": 1370392932000}, "fbi_code": "15", "block": "080XX S UNION AVE"}
+{
+    "y_coordinate": "1851603", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301325", 
+    "id": "9155915", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64138312800625, 
+            41.748223792232324
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.748223792232324", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "0621", 
+    "date": {
+        "$date": 1370185800000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd56"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.64138312800625", 
+    "location_description": "STREET", 
+    "x_coordinate": "1173071", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "15", 
+    "block": "080XX S UNION AVE"
+}

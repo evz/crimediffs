@@ -1,1 +1,38 @@
-{"y_coordinate": "1894722", "year": "2013", "domestic": false, "case_number": "HW287564", "id": "9142557", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71940111957157, 41.86699787705241]}, "community_area": "29", "latitude": "41.86699787705241", "type": "quality", "description": "SOLICIT NARCOTICS ON PUBLICWAY", "beat": "1133", "date": {"$date": 1369314900000}, "ward": "24", "_id": {"$oid": "51aa13973c002ed20d78b32b"}, "iucr": "2092", "longitude": "-87.71940111957157", "location_description": "SIDEWALK", "x_coordinate": "1151472", "updated_on": {"$date": 1369528777000}, "fbi_code": "26", "block": "011XX S INDEPENDENCE BLVD"}
+{
+    "y_coordinate": "1894722", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287564", 
+    "id": "9142557", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71940111957157, 
+            41.86699787705241
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.86699787705241", 
+    "type": "quality", 
+    "description": "SOLICIT NARCOTICS ON PUBLICWAY", 
+    "beat": "1133", 
+    "date": {
+        "$date": 1369314900000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b32b"
+    }, 
+    "iucr": "2092", 
+    "longitude": "-87.71940111957157", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1151472", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "26", 
+    "block": "011XX S INDEPENDENCE BLVD"
+}

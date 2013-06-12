@@ -1,1 +1,33 @@
-{"community_area": "43", "_id": {"$oid": "51b5f1173c002ed20d78cc5c"}, "primary_type": "ASSAULT", "beat": "0411", "year": "2013", "domestic": false, "iucr": "560", "arrest": false, "location_description": "APARTMENT", "location": {"type": "Point", "coordinates": [-87.59091687362057, 41.75758518584168]}, "case_number": "HW301702", "date": {"$date": 1370206320000}, "updated_on": {"$date": 1370651988000}, "ward": "5", "fbi_code": "08A", "type": null, "id": "9156405", "block": "075XX S DORCHESTER AVE", "description": "SIMPLE"}
+{
+    "_id": {
+        "$oid": "51b5f1173c002ed20d78cc5c"
+    }, 
+    "primary_type": "ASSAULT", 
+    "year": "2013", 
+    "beat": "0411", 
+    "case_number": "HW301702", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59091687362057, 
+            41.75758518584168
+        ]
+    }, 
+    "community_area": "43", 
+    "date": {
+        "$date": 1370206320000
+    }, 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "ward": "5", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9156405", 
+    "block": "075XX S DORCHESTER AVE", 
+    "description": "SIMPLE"
+}

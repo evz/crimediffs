@@ -1,1 +1,38 @@
-{"y_coordinate": "1822470", "year": "2013", "domestic": false, "case_number": "HW301844", "id": "9156035", "primary_type": "ROBBERY", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62459608756394, 41.668171084216]}, "community_area": "53", "latitude": "41.668171084216", "type": "violent", "description": "ARMED: HANDGUN", "beat": "0523", "date": {"$date": 1370216820000}, "ward": "9", "_id": {"$oid": "51b5f1153c002ed20d78cbf1"}, "iucr": "031A", "longitude": "-87.62459608756394", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1177892", "updated_on": {"$date": 1370392932000}, "fbi_code": "03", "block": "124XX S PERRY AVE"}
+{
+    "y_coordinate": "1822470", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301844", 
+    "id": "9156035", 
+    "primary_type": "ROBBERY", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62459608756394, 
+            41.668171084216
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.668171084216", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0523", 
+    "date": {
+        "$date": 1370216820000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbf1"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.62459608756394", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1177892", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "03", 
+    "block": "124XX S PERRY AVE"
+}

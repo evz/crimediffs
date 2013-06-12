@@ -1,1 +1,38 @@
-{"y_coordinate": "1908477", "year": "2013", "domestic": false, "case_number": "HW290542", "id": "9145552", "primary_type": "BURGLARY", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71255991408685, 41.90470819630231]}, "community_area": "23", "latitude": "41.90470819630231", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1422", "date": {"$date": 1369483200000}, "ward": "26", "_id": {"$oid": "51b34a113c002ed20d78ca94"}, "iucr": "610", "longitude": "-87.71255991408685", "location_description": "APARTMENT", "x_coordinate": "1153236", "updated_on": {"$date": 1369787985000}, "fbi_code": "05", "block": "034XX W POTOMAC AVE"}
+{
+    "y_coordinate": "1908477", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290542", 
+    "id": "9145552", 
+    "primary_type": "BURGLARY", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71255991408685, 
+            41.90470819630231
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.90470819630231", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1422", 
+    "date": {
+        "$date": 1369483200000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca94"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.71255991408685", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1153236", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "05", 
+    "block": "034XX W POTOMAC AVE"
+}

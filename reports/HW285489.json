@@ -1,1 +1,38 @@
-{"y_coordinate": "1853989", "year": "2013", "domestic": false, "case_number": "HW285489", "id": "9140092", "primary_type": "BATTERY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.57863609786465, 41.754376673101596]}, "community_area": "43", "latitude": "41.754376673101596", "type": null, "description": "SIMPLE", "beat": "0414", "date": {"$date": 1369190700000}, "ward": "8", "_id": {"$oid": "51a61f053c002ed20d78a680"}, "iucr": "460", "longitude": "-87.57863609786465", "location_description": "RESIDENCE", "x_coordinate": "1190174", "updated_on": {"$date": 1369874559000}, "fbi_code": "08B", "block": "077XX S BENNETT AVE"}
+{
+    "y_coordinate": "1853989", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285489", 
+    "id": "9140092", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57863609786465, 
+            41.754376673101596
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.754376673101596", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0414", 
+    "date": {
+        "$date": 1369190700000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51a61f053c002ed20d78a680"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.57863609786465", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1190174", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "08B", 
+    "block": "077XX S BENNETT AVE"
+}

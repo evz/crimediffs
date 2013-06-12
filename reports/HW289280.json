@@ -1,1 +1,38 @@
-{"y_coordinate": "1903676", "year": "2013", "domestic": true, "case_number": "HW289280", "id": "9144284", "primary_type": "BATTERY", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65544381191545, 41.89121014307269]}, "community_area": "24", "latitude": "41.89121014307269", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1214", "date": {"$date": 1369412400000}, "ward": "27", "_id": {"$oid": "51aa13903c002ed20d78af87"}, "iucr": "486", "longitude": "-87.65544381191545", "location_description": "APARTMENT", "x_coordinate": "1168823", "updated_on": {"$date": 1369787985000}, "fbi_code": "08B", "block": "011XX W GRAND AVE"}
+{
+    "y_coordinate": "1903676", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289280", 
+    "id": "9144284", 
+    "primary_type": "BATTERY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65544381191545, 
+            41.89121014307269
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.89121014307269", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1214", 
+    "date": {
+        "$date": 1369412400000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78af87"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.65544381191545", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1168823", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "08B", 
+    "block": "011XX W GRAND AVE"
+}

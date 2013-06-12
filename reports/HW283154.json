@@ -1,1 +1,38 @@
-{"y_coordinate": "1881775", "year": "2013", "domestic": false, "case_number": "HW283154", "id": "9137895", "primary_type": "NARCOTICS", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.61948328625023, 41.830890384226464]}, "community_area": "35", "latitude": "41.830890384226464", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0212", "date": {"$date": 1369065000000}, "ward": "2", "_id": {"$oid": "51a4cd903c002ed20d78a4b2"}, "iucr": "1811", "longitude": "-87.61948328625023", "location_description": "SIDEWALK", "x_coordinate": "1178797", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "035XX S GILES AVE"}
+{
+    "y_coordinate": "1881775", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283154", 
+    "id": "9137895", 
+    "primary_type": "NARCOTICS", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61948328625023, 
+            41.830890384226464
+        ]
+    }, 
+    "community_area": "35", 
+    "latitude": "41.830890384226464", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0212", 
+    "date": {
+        "$date": 1369065000000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a4b2"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.61948328625023", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1178797", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "035XX S GILES AVE"
+}

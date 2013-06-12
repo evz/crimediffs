@@ -1,1 +1,38 @@
-{"y_coordinate": "1869319", "year": "2013", "domestic": false, "case_number": "HW284695", "id": "9139633", "primary_type": "OTHER OFFENSE", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58242217579145, 41.796471431576016]}, "community_area": "41", "latitude": "41.796471431576016", "type": null, "description": "TELEPHONE THREAT", "beat": "0234", "date": {"$date": 1369151100000}, "ward": "5", "_id": {"$oid": "51a61f0c3c002ed20d78a855"}, "iucr": "2820", "longitude": "-87.58242217579145", "location_description": "APARTMENT", "x_coordinate": "1189007", "updated_on": {"$date": 1369442383000}, "fbi_code": "26", "block": "054XX S EVERETT AVE"}
+{
+    "y_coordinate": "1869319", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284695", 
+    "id": "9139633", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58242217579145, 
+            41.796471431576016
+        ]
+    }, 
+    "community_area": "41", 
+    "latitude": "41.796471431576016", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "0234", 
+    "date": {
+        "$date": 1369151100000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51a61f0c3c002ed20d78a855"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.58242217579145", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1189007", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "26", 
+    "block": "054XX S EVERETT AVE"
+}

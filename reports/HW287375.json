@@ -1,1 +1,38 @@
-{"y_coordinate": "1840234", "year": "2013", "domestic": false, "case_number": "HW287375", "id": "9142300", "primary_type": "THEFT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66289117072796, 41.71715119398399]}, "community_area": "72", "latitude": "41.71715119398399", "type": "property", "description": "OVER $500", "beat": "2213", "date": {"$date": 1369220400000}, "ward": "19", "_id": {"$oid": "51a7708d3c002ed20d78ac9f"}, "iucr": "810", "longitude": "-87.66289117072796", "location_description": "RESIDENCE", "x_coordinate": "1167290", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "097XX S CHARLES ST"}
+{
+    "y_coordinate": "1840234", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287375", 
+    "id": "9142300", 
+    "primary_type": "THEFT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66289117072796, 
+            41.71715119398399
+        ]
+    }, 
+    "community_area": "72", 
+    "latitude": "41.71715119398399", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "2213", 
+    "date": {
+        "$date": 1369220400000
+    }, 
+    "ward": "19", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ac9f"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.66289117072796", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1167290", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "097XX S CHARLES ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1851808", "year": "2013", "domestic": false, "case_number": "HW285110", "id": "9139686", "primary_type": "THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72204886701832, 41.74924385454597]}, "community_area": "70", "latitude": "41.74924385454597", "type": "property", "description": "OVER $500", "beat": "0834", "date": {"$date": 1369166700000}, "ward": "13", "_id": {"$oid": "51a61f0a3c002ed20d78a766"}, "iucr": "810", "longitude": "-87.72204886701832", "location_description": "SIDEWALK", "x_coordinate": "1151056", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "079XX S PULASKI RD"}
+{
+    "y_coordinate": "1851808", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285110", 
+    "id": "9139686", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72204886701832, 
+            41.74924385454597
+        ]
+    }, 
+    "community_area": "70", 
+    "latitude": "41.74924385454597", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0834", 
+    "date": {
+        "$date": 1369166700000
+    }, 
+    "ward": "13", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a766"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.72204886701832", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1151056", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "079XX S PULASKI RD"
+}

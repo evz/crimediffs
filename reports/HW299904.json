@@ -1,1 +1,38 @@
-{"y_coordinate": "1893976", "year": "2013", "domestic": false, "case_number": "HW299904", "id": "9154521", "primary_type": "CRIMINAL TRESPASS", "district": "001", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6393048378162, 41.86449456528135]}, "community_area": "28", "latitude": "41.86449456528135", "type": null, "description": "TO LAND", "beat": "0124", "date": {"$date": 1370093100000}, "ward": "2", "_id": {"$oid": "51b5f1203c002ed20d78d0be"}, "iucr": "1330", "longitude": "-87.6393048378162", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1173296", "updated_on": {"$date": 1370306580000}, "fbi_code": "26", "block": "013XX S CANAL ST"}
+{
+    "y_coordinate": "1893976", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299904", 
+    "id": "9154521", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6393048378162, 
+            41.86449456528135
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.86449456528135", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "0124", 
+    "date": {
+        "$date": 1370093100000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0be"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.6393048378162", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1173296", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "26", 
+    "block": "013XX S CANAL ST"
+}

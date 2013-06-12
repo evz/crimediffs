@@ -1,1 +1,38 @@
-{"y_coordinate": "1859430", "year": "2013", "domestic": false, "case_number": "HW285529", "id": "9140261", "primary_type": "THEFT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.57408454775057, 41.769278393686186]}, "community_area": "43", "latitude": "41.769278393686186", "type": "property", "description": "$500 AND UNDER", "beat": "0331", "date": {"$date": 1369155600000}, "ward": "5", "_id": {"$oid": "51a61f0b3c002ed20d78a80b"}, "iucr": "820", "longitude": "-87.57408454775057", "location_description": "STREET", "x_coordinate": "1191368", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "069XX S CLYDE AVE"}
+{
+    "y_coordinate": "1859430", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285529", 
+    "id": "9140261", 
+    "primary_type": "THEFT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57408454775057, 
+            41.769278393686186
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.769278393686186", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0331", 
+    "date": {
+        "$date": 1369155600000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a80b"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.57408454775057", 
+    "location_description": "STREET", 
+    "x_coordinate": "1191368", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "069XX S CLYDE AVE"
+}

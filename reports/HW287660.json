@@ -1,1 +1,38 @@
-{"y_coordinate": "1905447", "year": "2013", "domestic": false, "case_number": "HW287660", "id": "9142776", "primary_type": "CRIMINAL TRESPASS", "district": "018", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62803403378511, 41.89590511055148]}, "community_area": "8", "latitude": "41.89590511055148", "type": null, "description": "TO LAND", "beat": "1833", "date": {"$date": 1369318800000}, "ward": "42", "_id": {"$oid": "51aa13973c002ed20d78b300"}, "iucr": "1330", "longitude": "-87.62803403378511", "location_description": "CHURCH/SYNAGOGUE/PLACE OF WORSHIP", "x_coordinate": "1176272", "updated_on": {"$date": 1369528777000}, "fbi_code": "26", "block": "007XX N STATE ST"}
+{
+    "y_coordinate": "1905447", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287660", 
+    "id": "9142776", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "018", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62803403378511, 
+            41.89590511055148
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89590511055148", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "1833", 
+    "date": {
+        "$date": 1369318800000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b300"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.62803403378511", 
+    "location_description": "CHURCH/SYNAGOGUE/PLACE OF WORSHIP", 
+    "x_coordinate": "1176272", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "26", 
+    "block": "007XX N STATE ST"
+}

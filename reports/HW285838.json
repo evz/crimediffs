@@ -1,1 +1,38 @@
-{"y_coordinate": "1923964", "year": "2013", "domestic": false, "case_number": "HW285838", "id": "9140725", "primary_type": "CRIMINAL DAMAGE", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77335319925268, 41.9475206318085]}, "community_area": "15", "latitude": "41.9475206318085", "type": "quality", "description": "TO VEHICLE", "beat": "1633", "date": {"$date": 1369220400000}, "ward": "38", "_id": {"$oid": "51a7708d3c002ed20d78aca4"}, "iucr": "1320", "longitude": "-87.77335319925268", "location_description": "STREET", "x_coordinate": "1136585", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "058XX W WAVELAND AVE"}
+{
+    "y_coordinate": "1923964", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285838", 
+    "id": "9140725", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77335319925268, 
+            41.9475206318085
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.9475206318085", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1633", 
+    "date": {
+        "$date": 1369220400000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78aca4"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.77335319925268", 
+    "location_description": "STREET", 
+    "x_coordinate": "1136585", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "058XX W WAVELAND AVE"
+}

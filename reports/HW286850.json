@@ -1,1 +1,38 @@
-{"y_coordinate": "1856628", "year": "2013", "domestic": false, "case_number": "HW286850", "id": "9141698", "primary_type": "OTHER OFFENSE", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6891493202836, 41.76229166313859]}, "community_area": "66", "latitude": "41.76229166313859", "type": null, "description": "HARASSMENT BY ELECTRONIC MEANS", "beat": "0831", "date": {"$date": 1369243500000}, "ward": "18", "_id": {"$oid": "51a7708a3c002ed20d78ab70"}, "iucr": "2826", "longitude": "-87.6891493202836", "location_description": "RESIDENCE", "x_coordinate": "1159998", "updated_on": {"$date": 1369787985000}, "fbi_code": "26", "block": "072XX S TALMAN AVE"}
+{
+    "y_coordinate": "1856628", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286850", 
+    "id": "9141698", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6891493202836, 
+            41.76229166313859
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.76229166313859", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "0831", 
+    "date": {
+        "$date": 1369243500000
+    }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab70"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.6891493202836", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1159998", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "26", 
+    "block": "072XX S TALMAN AVE"
+}

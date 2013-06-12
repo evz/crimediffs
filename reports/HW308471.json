@@ -1,1 +1,38 @@
-{"y_coordinate": "1920702", "year": "2013", "domestic": false, "case_number": "HW308471", "id": "9163664", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63932609569193, 41.937837080696625]}, "community_area": "6", "latitude": "41.937837080696625", "type": "property", "description": "FROM BUILDING", "beat": "1934", "date": {"$date": 1370293200000}, "ward": "44", "_id": {"$oid": "51b742983c002ed20d78d281"}, "iucr": "890", "longitude": "-87.63932609569193", "location_description": "RESIDENCE", "x_coordinate": "1173074", "updated_on": {"$date": 1370911182000}, "fbi_code": "06", "block": "031XX N SHERIDAN RD"}
+{
+    "y_coordinate": "1920702", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW308471", 
+    "id": "9163664", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63932609569193, 
+            41.937837080696625
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.937837080696625", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1934", 
+    "date": {
+        "$date": 1370293200000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51b742983c002ed20d78d281"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.63932609569193", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1173074", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "06", 
+    "block": "031XX N SHERIDAN RD"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1905461", "year": "2013", "domestic": false, "case_number": "HW289215", "id": "9144285", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.667567293503, 41.89617953613111]}, "community_area": "24", "latitude": "41.89617953613111", "type": "property", "description": "FROM BUILDING", "beat": "1213", "date": {"$date": 1369386900000}, "ward": "1", "_id": {"$oid": "51aa13933c002ed20d78b0d4"}, "iucr": "890", "longitude": "-87.667567293503", "location_description": "OTHER", "x_coordinate": "1165508", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "016XX W CHICAGO AVE"}
+{
+    "y_coordinate": "1905461", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289215", 
+    "id": "9144285", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.667567293503, 
+            41.89617953613111
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.89617953613111", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1213", 
+    "date": {
+        "$date": 1369386900000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b0d4"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.667567293503", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1165508", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "016XX W CHICAGO AVE"
+}

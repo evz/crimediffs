@@ -1,1 +1,38 @@
-{"y_coordinate": "1926818", "year": "2013", "domestic": false, "case_number": "HW301230", "id": "9155438", "primary_type": "CRIMINAL DAMAGE", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73920220015087, 41.95518097928251]}, "community_area": "16", "latitude": "41.95518097928251", "type": "quality", "description": "TO PROPERTY", "beat": "1722", "date": {"$date": 1370084400000}, "ward": "38", "_id": {"$oid": "51b5f1203c002ed20d78d11c"}, "iucr": "1310", "longitude": "-87.73920220015087", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1145856", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "040XX N KENNETH AVE"}
+{
+    "y_coordinate": "1926818", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301230", 
+    "id": "9155438", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73920220015087, 
+            41.95518097928251
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.95518097928251", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1722", 
+    "date": {
+        "$date": 1370084400000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d11c"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.73920220015087", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1145856", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "040XX N KENNETH AVE"
+}

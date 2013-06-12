@@ -1,1 +1,38 @@
-{"y_coordinate": "1829259", "year": "2013", "domestic": false, "case_number": "HW289785", "id": "9144607", "primary_type": "CRIMINAL DAMAGE", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62307741917235, 41.68679302081653]}, "community_area": "49", "latitude": "41.68679302081653", "type": "quality", "description": "TO PROPERTY", "beat": "0522", "date": {"$date": 1369360800000}, "ward": "34", "_id": {"$oid": "51aa13943c002ed20d78b159"}, "iucr": "1310", "longitude": "-87.62307741917235", "location_description": "APARTMENT", "x_coordinate": "1178251", "updated_on": {"$date": 1369615194000}, "fbi_code": "14", "block": "114XX S STATE ST"}
+{
+    "y_coordinate": "1829259", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289785", 
+    "id": "9144607", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62307741917235, 
+            41.68679302081653
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.68679302081653", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0522", 
+    "date": {
+        "$date": 1369360800000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b159"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.62307741917235", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1178251", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "14", 
+    "block": "114XX S STATE ST"
+}

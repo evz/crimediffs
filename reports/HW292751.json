@@ -1,1 +1,38 @@
-{"y_coordinate": "1923361", "year": "2013", "domestic": false, "case_number": "HW292751", "id": "9147019", "primary_type": "DECEPTIVE PRACTICE", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64956800550883, 41.94519539961327]}, "community_area": "6", "latitude": "41.94519539961327", "type": null, "description": "CREDIT CARD FRAUD", "beat": "1924", "date": {"$date": 1369488600000}, "ward": "44", "_id": {"$oid": "51b34a113c002ed20d78ca60"}, "iucr": "1150", "longitude": "-87.64956800550883", "location_description": "BAR OR TAVERN", "x_coordinate": "1170266", "updated_on": {"$date": 1369874559000}, "fbi_code": "11", "block": "034XX N HALSTED ST"}
+{
+    "y_coordinate": "1923361", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW292751", 
+    "id": "9147019", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64956800550883, 
+            41.94519539961327
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.94519539961327", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "1924", 
+    "date": {
+        "$date": 1369488600000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca60"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.64956800550883", 
+    "location_description": "BAR OR TAVERN", 
+    "x_coordinate": "1170266", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "11", 
+    "block": "034XX N HALSTED ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1892232", "year": "2013", "domestic": false, "case_number": "HW287112", "id": "9141894", "primary_type": "OTHER OFFENSE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65950869066492, 41.859828904212286]}, "community_area": "28", "latitude": "41.859828904212286", "type": null, "description": "FALSE/STOLEN/ALTERED TRP", "beat": "1233", "date": {"$date": 1369293900000}, "ward": "25", "_id": {"$oid": "51aa13983c002ed20d78b41d"}, "iucr": "502P", "longitude": "-87.65950869066492", "location_description": "STREET", "x_coordinate": "1167806", "updated_on": {"$date": 1369442383000}, "fbi_code": "26", "block": "013XX W 16TH ST"}
+{
+    "y_coordinate": "1892232", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287112", 
+    "id": "9141894", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65950869066492, 
+            41.859828904212286
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.859828904212286", 
+    "type": null, 
+    "description": "FALSE/STOLEN/ALTERED TRP", 
+    "beat": "1233", 
+    "date": {
+        "$date": 1369293900000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b41d"
+    }, 
+    "iucr": "502P", 
+    "longitude": "-87.65950869066492", 
+    "location_description": "STREET", 
+    "x_coordinate": "1167806", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "26", 
+    "block": "013XX W 16TH ST"
+}

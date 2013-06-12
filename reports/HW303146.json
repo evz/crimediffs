@@ -1,1 +1,38 @@
-{"y_coordinate": "1926754", "year": "2013", "domestic": false, "case_number": "HW303146", "id": "9157636", "primary_type": "CRIMINAL DAMAGE", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64724811750537, 41.95449266830824]}, "community_area": "6", "latitude": "41.95449266830824", "type": "quality", "description": "TO VEHICLE", "beat": "1925", "date": {"$date": 1370215800000}, "ward": "46", "_id": {"$oid": "51b5f1153c002ed20d78cbf6"}, "iucr": "1320", "longitude": "-87.64724811750537", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1170870", "updated_on": {"$date": 1370479286000}, "fbi_code": "14", "block": "006XX W IRVING PARK RD"}
+{
+    "y_coordinate": "1926754", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303146", 
+    "id": "9157636", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64724811750537, 
+            41.95449266830824
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.95449266830824", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1925", 
+    "date": {
+        "$date": 1370215800000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbf6"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.64724811750537", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1170870", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "14", 
+    "block": "006XX W IRVING PARK RD"
+}

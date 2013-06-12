@@ -1,1 +1,38 @@
-{"y_coordinate": "1886408", "year": "2013", "domestic": false, "case_number": "HW305225", "id": "9160218", "primary_type": "ROBBERY", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63867426081507, 41.84372222512431]}, "community_area": "60", "latitude": "41.84372222512431", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "0914", "date": {"$date": 1370190000000}, "ward": "11", "_id": {"$oid": "51b5f11a3c002ed20d78cd28"}, "iucr": "320", "longitude": "-87.63867426081507", "location_description": "STREET", "x_coordinate": "1173529", "updated_on": {"$date": 1370565766000}, "fbi_code": "03", "block": "004XX W 28TH ST"}
+{
+    "y_coordinate": "1886408", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW305225", 
+    "id": "9160218", 
+    "primary_type": "ROBBERY", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63867426081507, 
+            41.84372222512431
+        ]
+    }, 
+    "community_area": "60", 
+    "latitude": "41.84372222512431", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0914", 
+    "date": {
+        "$date": 1370190000000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd28"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.63867426081507", 
+    "location_description": "STREET", 
+    "x_coordinate": "1173529", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "03", 
+    "block": "004XX W 28TH ST"
+}

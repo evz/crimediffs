@@ -1,1 +1,38 @@
-{"y_coordinate": "1920710", "year": "2013", "domestic": false, "case_number": "HW286729", "id": "9141609", "primary_type": "DECEPTIVE PRACTICE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76128081734996, 41.9385314218157]}, "community_area": "19", "latitude": "41.9385314218157", "type": null, "description": "THEFT OF LABOR/SERVICES", "beat": "2514", "date": {"$date": 1369193400000}, "ward": "30", "_id": {"$oid": "51a61f053c002ed20d78a66f"}, "iucr": "1210", "longitude": "-87.76128081734996", "location_description": "STREET", "x_coordinate": "1139891", "updated_on": {"$date": 1369442383000}, "fbi_code": "11", "block": "053XX W BELMONT AVE"}
+{
+    "y_coordinate": "1920710", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286729", 
+    "id": "9141609", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76128081734996, 
+            41.9385314218157
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.9385314218157", 
+    "type": null, 
+    "description": "THEFT OF LABOR/SERVICES", 
+    "beat": "2514", 
+    "date": {
+        "$date": 1369193400000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51a61f053c002ed20d78a66f"
+    }, 
+    "iucr": "1210", 
+    "longitude": "-87.76128081734996", 
+    "location_description": "STREET", 
+    "x_coordinate": "1139891", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "11", 
+    "block": "053XX W BELMONT AVE"
+}

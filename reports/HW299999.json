@@ -1,1 +1,38 @@
-{"y_coordinate": "1857154", "year": "2013", "domestic": false, "case_number": "HW299999", "id": "9154591", "primary_type": "ROBBERY", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72249608353198, 41.763917298805936]}, "community_area": "65", "latitude": "41.763917298805936", "type": "violent", "description": "ATTEMPT: STRONGARM-NO WEAPON", "beat": "0833", "date": {"$date": 1370092440000}, "ward": "13", "_id": {"$oid": "51b5f1203c002ed20d78d0c3"}, "iucr": "340", "longitude": "-87.72249608353198", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1150896", "updated_on": {"$date": 1370306580000}, "fbi_code": "03", "block": "071XX S PULASKI RD"}
+{
+    "y_coordinate": "1857154", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299999", 
+    "id": "9154591", 
+    "primary_type": "ROBBERY", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72249608353198, 
+            41.763917298805936
+        ]
+    }, 
+    "community_area": "65", 
+    "latitude": "41.763917298805936", 
+    "type": "violent", 
+    "description": "ATTEMPT: STRONGARM-NO WEAPON", 
+    "beat": "0833", 
+    "date": {
+        "$date": 1370092440000
+    }, 
+    "ward": "13", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0c3"
+    }, 
+    "iucr": "340", 
+    "longitude": "-87.72249608353198", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1150896", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "03", 
+    "block": "071XX S PULASKI RD"
+}

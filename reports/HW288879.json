@@ -1,1 +1,38 @@
-{"y_coordinate": "1904744", "year": "2013", "domestic": false, "case_number": "HW288879", "id": "9143969", "primary_type": "PUBLIC PEACE VIOLATION", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72009272246216, 41.89450442672693]}, "community_area": "23", "latitude": "41.89450442672693", "type": null, "description": "RECKLESS CONDUCT", "beat": "1112", "date": {"$date": 1369397340000}, "ward": "27", "_id": {"$oid": "51aa13913c002ed20d78b05b"}, "iucr": "470", "longitude": "-87.72009272246216", "location_description": "SIDEWALK", "x_coordinate": "1151212", "updated_on": {"$date": 1369701613000}, "fbi_code": "24", "block": "007XX N RIDGEWAY AVE"}
+{
+    "y_coordinate": "1904744", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288879", 
+    "id": "9143969", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72009272246216, 
+            41.89450442672693
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.89450442672693", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "1112", 
+    "date": {
+        "$date": 1369397340000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b05b"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.72009272246216", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1151212", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "24", 
+    "block": "007XX N RIDGEWAY AVE"
+}

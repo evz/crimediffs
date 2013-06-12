@@ -1,1 +1,38 @@
-{"y_coordinate": "1893315", "year": "2013", "domestic": true, "case_number": "HW283192", "id": "9137899", "primary_type": "BATTERY", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70601713846254, 41.86306438426968]}, "community_area": "29", "latitude": "41.86306438426968", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1022", "date": {"$date": 1369066500000}, "ward": "24", "_id": {"$oid": "51a4cd903c002ed20d78a4a0"}, "iucr": "486", "longitude": "-87.70601713846254", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1155128", "updated_on": {"$date": 1369269615000}, "fbi_code": "08B", "block": "032XX W DOUGLAS BLVD"}
+{
+    "y_coordinate": "1893315", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283192", 
+    "id": "9137899", 
+    "primary_type": "BATTERY", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70601713846254, 
+            41.86306438426968
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.86306438426968", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1022", 
+    "date": {
+        "$date": 1369066500000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a4a0"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.70601713846254", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1155128", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "08B", 
+    "block": "032XX W DOUGLAS BLVD"
+}

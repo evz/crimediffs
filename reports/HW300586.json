@@ -1,1 +1,38 @@
-{"y_coordinate": "1866626", "year": "2013", "domestic": false, "case_number": "HW300586", "id": "9155068", "primary_type": "LIQUOR LAW VIOLATION", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.77426635699403, 41.79017489060544]}, "community_area": "56", "latitude": "41.79017489060544", "type": null, "description": "ILLEGAL POSSESSION BY MINOR", "beat": "0811", "date": {"$date": 1370127180000}, "ward": "23", "_id": {"$oid": "51b5f11e3c002ed20d78cf37"}, "iucr": "2220", "longitude": "-87.77426635699403", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1136710", "updated_on": {"$date": 1370392932000}, "fbi_code": "22", "block": "056XX S MEADE AVE"}
+{
+    "y_coordinate": "1866626", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300586", 
+    "id": "9155068", 
+    "primary_type": "LIQUOR LAW VIOLATION", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77426635699403, 
+            41.79017489060544
+        ]
+    }, 
+    "community_area": "56", 
+    "latitude": "41.79017489060544", 
+    "type": null, 
+    "description": "ILLEGAL POSSESSION BY MINOR", 
+    "beat": "0811", 
+    "date": {
+        "$date": 1370127180000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf37"
+    }, 
+    "iucr": "2220", 
+    "longitude": "-87.77426635699403", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1136710", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "22", 
+    "block": "056XX S MEADE AVE"
+}

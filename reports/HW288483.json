@@ -1,1 +1,38 @@
-{"y_coordinate": "1906210", "year": "2013", "domestic": true, "case_number": "HW288483", "id": "9143791", "primary_type": "OFFENSE INVOLVING CHILDREN", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7540182739, 41.898703643544685]}, "community_area": "25", "latitude": "41.898703643544685", "type": null, "description": "ENDANGERING LIFE/HEALTH CHILD", "beat": "1531", "date": {"$date": 1369375560000}, "ward": "37", "_id": {"$oid": "51aa13933c002ed20d78b12d"}, "iucr": "1710", "longitude": "-87.7540182739", "location_description": "STREET", "x_coordinate": "1141965", "updated_on": {"$date": 1370306580000}, "fbi_code": "26", "block": "051XX W AUGUSTA BLVD"}
+{
+    "y_coordinate": "1906210", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW288483", 
+    "id": "9143791", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7540182739, 
+            41.898703643544685
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.898703643544685", 
+    "type": null, 
+    "description": "ENDANGERING LIFE/HEALTH CHILD", 
+    "beat": "1531", 
+    "date": {
+        "$date": 1369375560000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b12d"
+    }, 
+    "iucr": "1710", 
+    "longitude": "-87.7540182739", 
+    "location_description": "STREET", 
+    "x_coordinate": "1141965", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "26", 
+    "block": "051XX W AUGUSTA BLVD"
+}

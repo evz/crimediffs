@@ -1,1 +1,38 @@
-{"y_coordinate": "1914792", "year": "2013", "domestic": false, "case_number": "HW300839", "id": "9155230", "primary_type": "DECEPTIVE PRACTICE", "district": "025", "arrest": true, "location": {"type": "Point", "coordinates": [-87.77216237044428, 41.92234478390787]}, "community_area": "19", "latitude": "41.92234478390787", "type": null, "description": "THEFT OF LABOR/SERVICES", "beat": "2515", "date": {"$date": 1370152200000}, "ward": "30", "_id": {"$oid": "51b5f11c3c002ed20d78ce59"}, "iucr": "1210", "longitude": "-87.77216237044428", "location_description": "TAXICAB", "x_coordinate": "1136969", "updated_on": {"$date": 1370392932000}, "fbi_code": "11", "block": "023XX N MONITOR AVE"}
+{
+    "y_coordinate": "1914792", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300839", 
+    "id": "9155230", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "025", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77216237044428, 
+            41.92234478390787
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.92234478390787", 
+    "type": null, 
+    "description": "THEFT OF LABOR/SERVICES", 
+    "beat": "2515", 
+    "date": {
+        "$date": 1370152200000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce59"
+    }, 
+    "iucr": "1210", 
+    "longitude": "-87.77216237044428", 
+    "location_description": "TAXICAB", 
+    "x_coordinate": "1136969", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "11", 
+    "block": "023XX N MONITOR AVE"
+}

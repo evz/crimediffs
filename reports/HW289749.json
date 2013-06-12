@@ -1,1 +1,38 @@
-{"y_coordinate": "1892141", "year": "2013", "domestic": true, "case_number": "HW289749", "id": "9145510", "primary_type": "CRIMINAL DAMAGE", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73095467093985, 41.85997613030423]}, "community_area": "29", "latitude": "41.85997613030423", "type": "quality", "description": "TO PROPERTY", "beat": "1012", "date": {"$date": 1369431000000}, "ward": "24", "_id": {"$oid": "51aa138d3c002ed20d78ae81"}, "iucr": "1310", "longitude": "-87.73095467093985", "location_description": "APARTMENT", "x_coordinate": "1148343", "updated_on": {"$date": 1370047283000}, "fbi_code": "14", "block": "015XX S TRIPP AVE"}
+{
+    "y_coordinate": "1892141", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289749", 
+    "id": "9145510", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73095467093985, 
+            41.85997613030423
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85997613030423", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1012", 
+    "date": {
+        "$date": 1369431000000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78ae81"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.73095467093985", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1148343", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "14", 
+    "block": "015XX S TRIPP AVE"
+}

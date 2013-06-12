@@ -1,1 +1,38 @@
-{"y_coordinate": "1827037", "year": "2013", "domestic": false, "case_number": "HW301387", "id": "9156356", "primary_type": "THEFT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65769224574404, 41.68090381643447]}, "community_area": "53", "latitude": "41.68090381643447", "type": "property", "description": "FROM BUILDING", "beat": "0524", "date": {"$date": 1370183400000}, "ward": "34", "_id": {"$oid": "51b5f11a3c002ed20d78cd6c"}, "iucr": "890", "longitude": "-87.65769224574404", "location_description": "RESIDENCE", "x_coordinate": "1168813", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "117XX S BISHOP ST"}
+{
+    "y_coordinate": "1827037", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301387", 
+    "id": "9156356", 
+    "primary_type": "THEFT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65769224574404, 
+            41.68090381643447
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.68090381643447", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0524", 
+    "date": {
+        "$date": 1370183400000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd6c"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.65769224574404", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1168813", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "117XX S BISHOP ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1880320", "year": "2013", "domestic": false, "case_number": "HW288299", "id": "9143207", "primary_type": "PUBLIC PEACE VIOLATION", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68022101359732, 41.82725889163972]}, "community_area": "59", "latitude": "41.82725889163972", "type": null, "description": "RECKLESS CONDUCT", "beat": "0912", "date": {"$date": 1369345800000}, "ward": "11", "_id": {"$oid": "51aa13943c002ed20d78b1c9"}, "iucr": "470", "longitude": "-87.68022101359732", "location_description": "PARK PROPERTY", "x_coordinate": "1162254", "updated_on": {"$date": 1369528777000}, "fbi_code": "24", "block": "036XX S LEAVITT ST"}
+{
+    "y_coordinate": "1880320", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288299", 
+    "id": "9143207", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68022101359732, 
+            41.82725889163972
+        ]
+    }, 
+    "community_area": "59", 
+    "latitude": "41.82725889163972", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "0912", 
+    "date": {
+        "$date": 1369345800000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1c9"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.68022101359732", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1162254", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "24", 
+    "block": "036XX S LEAVITT ST"
+}

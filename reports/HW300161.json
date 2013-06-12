@@ -1,1 +1,38 @@
-{"y_coordinate": "1882917", "year": "2013", "domestic": false, "case_number": "HW300161", "id": "9154765", "primary_type": "OTHER OFFENSE", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7183384815873, 41.834596176085476]}, "community_area": "30", "latitude": "41.834596176085476", "type": null, "description": "FALSE/STOLEN/ALTERED TRP", "beat": "1031", "date": {"$date": 1370105400000}, "ward": "22", "_id": {"$oid": "51b5f11f3c002ed20d78d02c"}, "iucr": "502P", "longitude": "-87.7183384815873", "location_description": "STREET", "x_coordinate": "1151846", "updated_on": {"$date": 1370392932000}, "fbi_code": "26", "block": "032XX S RIDGEWAY AVE"}
+{
+    "y_coordinate": "1882917", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300161", 
+    "id": "9154765", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7183384815873, 
+            41.834596176085476
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.834596176085476", 
+    "type": null, 
+    "description": "FALSE/STOLEN/ALTERED TRP", 
+    "beat": "1031", 
+    "date": {
+        "$date": 1370105400000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d02c"
+    }, 
+    "iucr": "502P", 
+    "longitude": "-87.7183384815873", 
+    "location_description": "STREET", 
+    "x_coordinate": "1151846", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "26", 
+    "block": "032XX S RIDGEWAY AVE"
+}

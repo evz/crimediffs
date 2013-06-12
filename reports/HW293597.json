@@ -1,1 +1,38 @@
-{"y_coordinate": "1899052", "year": "2013", "domestic": false, "case_number": "HW293597", "id": "9147981", "primary_type": "THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72945840467989, 41.87893381220034]}, "community_area": "26", "latitude": "41.87893381220034", "type": "property", "description": "OVER $500", "beat": "1115", "date": {"$date": 1369400400000}, "ward": "28", "_id": {"$oid": "51aa13913c002ed20d78b033"}, "iucr": "810", "longitude": "-87.72945840467989", "location_description": "RESIDENCE", "x_coordinate": "1148702", "updated_on": {"$date": 1369960832000}, "fbi_code": "06", "block": "041XX W WILCOX ST"}
+{
+    "y_coordinate": "1899052", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293597", 
+    "id": "9147981", 
+    "primary_type": "THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72945840467989, 
+            41.87893381220034
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.87893381220034", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1115", 
+    "date": {
+        "$date": 1369400400000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b033"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.72945840467989", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1148702", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "06", 
+    "block": "041XX W WILCOX ST"
+}

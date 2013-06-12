@@ -1,1 +1,33 @@
-{"community_area": "3", "_id": {"$oid": "51aa13943c002ed20d78b14b"}, "primary_type": "BATTERY", "beat": "2024", "year": "2013", "domestic": false, "iucr": "460", "arrest": false, "location_description": "HOSPITAL BUILDING/GROUNDS", "location": {"type": "Point", "coordinates": [-87.65014099998344, 41.97036319348534]}, "case_number": "HW297211", "date": {"$date": 1369362600000}, "updated_on": {"$date": 1370565766000}, "ward": "48", "fbi_code": "08B", "type": null, "id": "9153515", "block": "048XX N MARINE DR", "description": "SIMPLE"}
+{
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b14b"
+    }, 
+    "primary_type": "BATTERY", 
+    "year": "2013", 
+    "beat": "2024", 
+    "case_number": "HW297211", 
+    "domestic": false, 
+    "iucr": "460", 
+    "arrest": false, 
+    "location_description": "HOSPITAL BUILDING/GROUNDS", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65014099998344, 
+            41.97036319348534
+        ]
+    }, 
+    "community_area": "3", 
+    "date": {
+        "$date": 1369362600000
+    }, 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "ward": "48", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9153515", 
+    "block": "048XX N MARINE DR", 
+    "description": "SIMPLE"
+}

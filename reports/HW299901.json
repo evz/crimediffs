@@ -1,1 +1,38 @@
-{"y_coordinate": "1921385", "year": "2013", "domestic": false, "case_number": "HW299901", "id": "9154507", "primary_type": "THEFT", "district": "019", "arrest": true, "location": {"type": "Point", "coordinates": [-87.65422003596706, 41.93980044168899]}, "community_area": "6", "latitude": "41.93980044168899", "type": "property", "description": "RETAIL THEFT", "beat": "1933", "date": {"$date": 1370091300000}, "ward": "44", "_id": {"$oid": "51b5f1203c002ed20d78d0d8"}, "iucr": "860", "longitude": "-87.65422003596706", "location_description": "CONVENIENCE STORE", "x_coordinate": "1169016", "updated_on": {"$date": 1370306580000}, "fbi_code": "06", "block": "010XX W BELMONT AVE"}
+{
+    "y_coordinate": "1921385", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299901", 
+    "id": "9154507", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65422003596706, 
+            41.93980044168899
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.93980044168899", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "1933", 
+    "date": {
+        "$date": 1370091300000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0d8"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.65422003596706", 
+    "location_description": "CONVENIENCE STORE", 
+    "x_coordinate": "1169016", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "06", 
+    "block": "010XX W BELMONT AVE"
+}

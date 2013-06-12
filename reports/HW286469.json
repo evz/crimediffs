@@ -1,1 +1,38 @@
-{"y_coordinate": "1874560", "year": "2013", "domestic": false, "case_number": "HW286469", "id": "9141464", "primary_type": "BURGLARY", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69905888442135, 41.811557429687596]}, "community_area": "58", "latitude": "41.811557429687596", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0922", "date": {"$date": 1369200600000}, "ward": "14", "_id": {"$oid": "51a7708d3c002ed20d78ad38"}, "iucr": "610", "longitude": "-87.69905888442135", "location_description": "APARTMENT", "x_coordinate": "1157162", "updated_on": {"$date": 1370565766000}, "fbi_code": "05", "block": "045XX S SACRAMENTO AVE"}
+{
+    "y_coordinate": "1874560", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286469", 
+    "id": "9141464", 
+    "primary_type": "BURGLARY", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69905888442135, 
+            41.811557429687596
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.811557429687596", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0922", 
+    "date": {
+        "$date": 1369200600000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad38"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.69905888442135", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1157162", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "05", 
+    "block": "045XX S SACRAMENTO AVE"
+}

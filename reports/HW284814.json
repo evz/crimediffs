@@ -1,1 +1,38 @@
-{"y_coordinate": "1838386", "year": "2013", "domestic": false, "case_number": "HW284814", "id": "9139610", "primary_type": "BATTERY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56954587723814, 41.71149716258727]}, "community_area": "51", "latitude": "41.71149716258727", "type": null, "description": "SIMPLE", "beat": "0431", "date": {"$date": 1369155300000}, "ward": "7", "_id": {"$oid": "51a61f0b3c002ed20d78a80f"}, "iucr": "460", "longitude": "-87.56954587723814", "location_description": "SIDEWALK", "x_coordinate": "1192793", "updated_on": {"$date": 1369356045000}, "fbi_code": "08B", "block": "101XX S PAXTON AVE"}
+{
+    "y_coordinate": "1838386", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284814", 
+    "id": "9139610", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56954587723814, 
+            41.71149716258727
+        ]
+    }, 
+    "community_area": "51", 
+    "latitude": "41.71149716258727", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0431", 
+    "date": {
+        "$date": 1369155300000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a80f"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.56954587723814", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1192793", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08B", 
+    "block": "101XX S PAXTON AVE"
+}

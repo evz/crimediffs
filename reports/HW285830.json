@@ -1,1 +1,38 @@
-{"y_coordinate": "1908329", "year": "2013", "domestic": false, "case_number": "HW285830", "id": "9142173", "primary_type": "BATTERY", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63942209130985, 41.90388337376315]}, "community_area": "8", "latitude": "41.90388337376315", "type": null, "description": "AGG PO HANDS NO/MIN INJURY", "beat": "1821", "date": {"$date": 1369219260000}, "ward": "27", "_id": {"$oid": "51a7708d3c002ed20d78acab"}, "iucr": "454", "longitude": "-87.63942209130985", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1173148", "updated_on": {"$date": 1370738354000}, "fbi_code": "08B", "block": "004XX W DIVISION ST"}
+{
+    "y_coordinate": "1908329", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285830", 
+    "id": "9142173", 
+    "primary_type": "BATTERY", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63942209130985, 
+            41.90388337376315
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.90388337376315", 
+    "type": null, 
+    "description": "AGG PO HANDS NO/MIN INJURY", 
+    "beat": "1821", 
+    "date": {
+        "$date": 1369219260000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78acab"
+    }, 
+    "iucr": "454", 
+    "longitude": "-87.63942209130985", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1173148", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "08B", 
+    "block": "004XX W DIVISION ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1857341", "year": "2013", "domestic": false, "case_number": "HW299897", "id": "9154497", "primary_type": "PUBLIC PEACE VIOLATION", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68337527600603, 41.76421583066959]}, "community_area": "66", "latitude": "41.76421583066959", "type": null, "description": "RECKLESS CONDUCT", "beat": "0832", "date": {"$date": 1370089080000}, "ward": "18", "_id": {"$oid": "51b5f1203c002ed20d78d0ed"}, "iucr": "470", "longitude": "-87.68337527600603", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1161568", "updated_on": {"$date": 1370220023000}, "fbi_code": "24", "block": "071XX S WESTERN AVE"}
+{
+    "y_coordinate": "1857341", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299897", 
+    "id": "9154497", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68337527600603, 
+            41.76421583066959
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.76421583066959", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "0832", 
+    "date": {
+        "$date": 1370089080000
+    }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0ed"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.68337527600603", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1161568", 
+    "updated_on": {
+        "$date": 1370220023000
+    }, 
+    "fbi_code": "24", 
+    "block": "071XX S WESTERN AVE"
+}

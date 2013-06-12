@@ -1,1 +1,38 @@
-{"y_coordinate": "1874039", "year": "2013", "domestic": false, "case_number": "HW303451", "id": "9157955", "primary_type": "DECEPTIVE PRACTICE", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68952180547225, 41.81007460360158]}, "community_area": "58", "latitude": "41.81007460360158", "type": null, "description": "THEFT OF LOST/MISLAID PROP", "beat": "0922", "date": {"$date": 1370309220000}, "ward": "12", "_id": {"$oid": "51b742953c002ed20d78d1f1"}, "iucr": "1220", "longitude": "-87.68952180547225", "location_description": "STREET", "x_coordinate": "1159766", "updated_on": {"$date": 1370479286000}, "fbi_code": "11", "block": "046XX S ROCKWELL ST"}
+{
+    "y_coordinate": "1874039", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303451", 
+    "id": "9157955", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68952180547225, 
+            41.81007460360158
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.81007460360158", 
+    "type": null, 
+    "description": "THEFT OF LOST/MISLAID PROP", 
+    "beat": "0922", 
+    "date": {
+        "$date": 1370309220000
+    }, 
+    "ward": "12", 
+    "_id": {
+        "$oid": "51b742953c002ed20d78d1f1"
+    }, 
+    "iucr": "1220", 
+    "longitude": "-87.68952180547225", 
+    "location_description": "STREET", 
+    "x_coordinate": "1159766", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "11", 
+    "block": "046XX S ROCKWELL ST"
+}

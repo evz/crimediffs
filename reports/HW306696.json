@@ -1,1 +1,38 @@
-{"y_coordinate": "1931907", "year": "2013", "domestic": false, "case_number": "HW306696", "id": "9162262", "primary_type": "BURGLARY", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72427979328309, 41.96906807084493]}, "community_area": "14", "latitude": "41.96906807084493", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1712", "date": {"$date": 1370259840000}, "ward": "39", "_id": {"$oid": "51b7429d3c002ed20d78d459"}, "iucr": "610", "longitude": "-87.72427979328309", "location_description": "APARTMENT", "x_coordinate": "1149879", "updated_on": {"$date": 1370738354000}, "fbi_code": "05", "block": "048XX N AVERS AVE"}
+{
+    "y_coordinate": "1931907", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW306696", 
+    "id": "9162262", 
+    "primary_type": "BURGLARY", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72427979328309, 
+            41.96906807084493
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.96906807084493", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1712", 
+    "date": {
+        "$date": 1370259840000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51b7429d3c002ed20d78d459"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.72427979328309", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1149879", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "05", 
+    "block": "048XX N AVERS AVE"
+}

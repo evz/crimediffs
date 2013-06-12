@@ -1,1 +1,38 @@
-{"y_coordinate": "1857894", "year": "2013", "domestic": false, "case_number": "HW282981", "id": "9137753", "primary_type": "NARCOTICS", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66004839359584, 41.76559909538867]}, "community_area": "67", "latitude": "41.76559909538867", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0734", "date": {"$date": 1369059000000}, "ward": "17", "_id": {"$oid": "51a4cd913c002ed20d78a4fd"}, "iucr": "1811", "longitude": "-87.66004839359584", "location_description": "VACANT LOT/LAND", "x_coordinate": "1167928", "updated_on": {"$date": 1369183512000}, "fbi_code": "18", "block": "070XX S BISHOP ST"}
+{
+    "y_coordinate": "1857894", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW282981", 
+    "id": "9137753", 
+    "primary_type": "NARCOTICS", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66004839359584, 
+            41.76559909538867
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.76559909538867", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0734", 
+    "date": {
+        "$date": 1369059000000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a4fd"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.66004839359584", 
+    "location_description": "VACANT LOT/LAND", 
+    "x_coordinate": "1167928", 
+    "updated_on": {
+        "$date": 1369183512000
+    }, 
+    "fbi_code": "18", 
+    "block": "070XX S BISHOP ST"
+}

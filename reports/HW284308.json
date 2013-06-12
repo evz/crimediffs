@@ -1,1 +1,38 @@
-{"y_coordinate": "1903688", "year": "2013", "domestic": true, "case_number": "HW284308", "id": "9139359", "primary_type": "BATTERY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75440767452777, 41.89178462615406]}, "community_area": "25", "latitude": "41.89178462615406", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1532", "date": {"$date": 1369136400000}, "ward": "28", "_id": {"$oid": "51a61f0e3c002ed20d78a909"}, "iucr": "486", "longitude": "-87.75440767452777", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1141876", "updated_on": {"$date": 1370392932000}, "fbi_code": "08B", "block": "006XX N LEAMINGTON AVE"}
+{
+    "y_coordinate": "1903688", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW284308", 
+    "id": "9139359", 
+    "primary_type": "BATTERY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75440767452777, 
+            41.89178462615406
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.89178462615406", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1532", 
+    "date": {
+        "$date": 1369136400000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a909"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.75440767452777", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1141876", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "08B", 
+    "block": "006XX N LEAMINGTON AVE"
+}

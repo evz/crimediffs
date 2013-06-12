@@ -1,1 +1,38 @@
-{"y_coordinate": "1914821", "year": "2013", "domestic": false, "case_number": "HW284177", "id": "9139408", "primary_type": "MOTOR VEHICLE THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77552004606044, 41.922440727259385]}, "community_area": "19", "latitude": "41.922440727259385", "type": "property", "description": "AUTOMOBILE", "beat": "2515", "date": {"$date": 1369090800000}, "ward": "37", "_id": {"$oid": "51a4cd8c3c002ed20d78a352"}, "iucr": "910", "longitude": "-87.77552004606044", "location_description": "STREET", "x_coordinate": "1136055", "updated_on": {"$date": 1369356045000}, "fbi_code": "07", "block": "023XX N AUSTIN AVE"}
+{
+    "y_coordinate": "1914821", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284177", 
+    "id": "9139408", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77552004606044, 
+            41.922440727259385
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.922440727259385", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "2515", 
+    "date": {
+        "$date": 1369090800000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a4cd8c3c002ed20d78a352"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.77552004606044", 
+    "location_description": "STREET", 
+    "x_coordinate": "1136055", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "07", 
+    "block": "023XX N AUSTIN AVE"
+}

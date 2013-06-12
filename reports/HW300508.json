@@ -1,1 +1,38 @@
-{"y_coordinate": "1884468", "year": "2013", "domestic": false, "case_number": "HW300508", "id": "9154912", "primary_type": "CRIMINAL DAMAGE", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72576893754669, 41.83889208213682]}, "community_area": "30", "latitude": "41.83889208213682", "type": "quality", "description": "TO CITY OF CHICAGO PROPERTY", "beat": "1031", "date": {"$date": 1370123100000}, "ward": "22", "_id": {"$oid": "51b5f11e3c002ed20d78cf73"}, "iucr": "1345", "longitude": "-87.72576893754669", "location_description": "SIDEWALK", "x_coordinate": "1149810", "updated_on": {"$date": 1370306580000}, "fbi_code": "14", "block": "028XX S KOMENSKY AVE"}
+{
+    "y_coordinate": "1884468", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300508", 
+    "id": "9154912", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72576893754669, 
+            41.83889208213682
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.83889208213682", 
+    "type": "quality", 
+    "description": "TO CITY OF CHICAGO PROPERTY", 
+    "beat": "1031", 
+    "date": {
+        "$date": 1370123100000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf73"
+    }, 
+    "iucr": "1345", 
+    "longitude": "-87.72576893754669", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1149810", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "14", 
+    "block": "028XX S KOMENSKY AVE"
+}

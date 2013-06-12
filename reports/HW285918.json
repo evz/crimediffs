@@ -1,1 +1,38 @@
-{"y_coordinate": "1929519", "year": "2013", "domestic": false, "case_number": "HW285918", "id": "9141034", "primary_type": "DECEPTIVE PRACTICE", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65521839691347, 41.962127755120015]}, "community_area": "3", "latitude": "41.962127755120015", "type": null, "description": "ILLEGAL USE CASH CARD", "beat": "1914", "date": {"$date": 1369123200000}, "ward": "46", "_id": {"$oid": "51a61f0f3c002ed20d78a99a"}, "iucr": "1152", "longitude": "-87.65521839691347", "location_description": "OTHER", "x_coordinate": "1168680", "updated_on": {"$date": 1369442383000}, "fbi_code": "11", "block": "044XX N BROADWAY"}
+{
+    "y_coordinate": "1929519", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285918", 
+    "id": "9141034", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65521839691347, 
+            41.962127755120015
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.962127755120015", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "1914", 
+    "date": {
+        "$date": 1369123200000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a99a"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.65521839691347", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1168680", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "11", 
+    "block": "044XX N BROADWAY"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1869705", "year": "2013", "domestic": true, "case_number": "HW301812", "id": "9155999", "primary_type": "BATTERY", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.5998505173054, 41.79764332666075]}, "community_area": "41", "latitude": "41.79764332666075", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0233", "date": {"$date": 1370161800000}, "ward": "5", "_id": {"$oid": "51b5f11c3c002ed20d78ce2a"}, "iucr": "486", "longitude": "-87.5998505173054", "location_description": "RESIDENCE", "x_coordinate": "1184251", "updated_on": {"$date": 1370392932000}, "fbi_code": "08B", "block": "054XX S GREENWOOD AVE"}
+{
+    "y_coordinate": "1869705", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301812", 
+    "id": "9155999", 
+    "primary_type": "BATTERY", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5998505173054, 
+            41.79764332666075
+        ]
+    }, 
+    "community_area": "41", 
+    "latitude": "41.79764332666075", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0233", 
+    "date": {
+        "$date": 1370161800000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce2a"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.5998505173054", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1184251", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "08B", 
+    "block": "054XX S GREENWOOD AVE"
+}

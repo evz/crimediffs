@@ -1,1 +1,38 @@
-{"y_coordinate": "1854907", "year": "2013", "domestic": false, "case_number": "HW306027", "id": "9160920", "primary_type": "DECEPTIVE PRACTICE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.57595329441087, 41.756878284798695]}, "community_area": "43", "latitude": "41.756878284798695", "type": null, "description": "CREDIT CARD FRAUD", "beat": "0414", "date": {"$date": 1369094460000}, "ward": "8", "_id": {"$oid": "51b34a223c002ed20d78cb91"}, "iucr": "1150", "longitude": "-87.57595329441087", "location_description": "GAS STATION", "x_coordinate": "1190898", "updated_on": {"$date": 1370651988000}, "fbi_code": "11", "block": "076XX S JEFFERY BLVD"}
+{
+    "y_coordinate": "1854907", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW306027", 
+    "id": "9160920", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57595329441087, 
+            41.756878284798695
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.756878284798695", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "0414", 
+    "date": {
+        "$date": 1369094460000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51b34a223c002ed20d78cb91"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.57595329441087", 
+    "location_description": "GAS STATION", 
+    "x_coordinate": "1190898", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "11", 
+    "block": "076XX S JEFFERY BLVD"
+}

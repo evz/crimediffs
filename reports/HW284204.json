@@ -1,1 +1,38 @@
-{"y_coordinate": "1853610", "year": "2013", "domestic": true, "case_number": "HW284204", "id": "9139150", "primary_type": "CRIMINAL DAMAGE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.54996586639494, 41.75314468147531]}, "community_area": "46", "latitude": "41.75314468147531", "type": "quality", "description": "TO PROPERTY", "beat": "0421", "date": {"$date": 1369132800000}, "ward": "7", "_id": {"$oid": "51a61f0e3c002ed20d78a933"}, "iucr": "1310", "longitude": "-87.54996586639494", "location_description": "APARTMENT", "x_coordinate": "1198001", "updated_on": {"$date": 1369356045000}, "fbi_code": "14", "block": "030XX E CHELTENHAM PL"}
+{
+    "y_coordinate": "1853610", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW284204", 
+    "id": "9139150", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.54996586639494, 
+            41.75314468147531
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.75314468147531", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0421", 
+    "date": {
+        "$date": 1369132800000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a933"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.54996586639494", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1198001", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "14", 
+    "block": "030XX E CHELTENHAM PL"
+}

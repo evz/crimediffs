@@ -1,1 +1,38 @@
-{"y_coordinate": "1910588", "year": "2013", "domestic": false, "case_number": "HW284122", "id": "9138788", "primary_type": "ASSAULT", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69591365366055, 41.91041007808177]}, "community_area": "24", "latitude": "41.91041007808177", "type": null, "description": "SIMPLE", "beat": "1421", "date": {"$date": 1369128600000}, "ward": "1", "_id": {"$oid": "51a61f0f3c002ed20d78a960"}, "iucr": "560", "longitude": "-87.69591365366055", "location_description": "STREET", "x_coordinate": "1157752", "updated_on": {"$date": 1369269615000}, "fbi_code": "08A", "block": "016XX N FAIRFIELD AVE"}
+{
+    "y_coordinate": "1910588", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284122", 
+    "id": "9138788", 
+    "primary_type": "ASSAULT", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69591365366055, 
+            41.91041007808177
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.91041007808177", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1421", 
+    "date": {
+        "$date": 1369128600000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a960"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.69591365366055", 
+    "location_description": "STREET", 
+    "x_coordinate": "1157752", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "08A", 
+    "block": "016XX N FAIRFIELD AVE"
+}

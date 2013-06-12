@@ -1,1 +1,33 @@
-{"community_area": "43", "_id": {"$oid": "51b742983c002ed20d78d2b1"}, "primary_type": "CRIMINAL DAMAGE", "beat": "0333", "year": "2013", "domestic": false, "iucr": "1320", "arrest": false, "location_description": "STREET", "location": {"type": "Point", "coordinates": [-87.5763913424674, 41.763577253347464]}, "case_number": "HW303684", "date": {"$date": 1370289600000}, "updated_on": {"$date": 1370911182000}, "ward": "5", "fbi_code": "14", "type": "quality", "id": "9166563", "block": "072XX S JEFFERY BLVD", "description": "TO VEHICLE"}
+{
+    "_id": {
+        "$oid": "51b742983c002ed20d78d2b1"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "year": "2013", 
+    "beat": "0333", 
+    "case_number": "HW303684", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5763913424674, 
+            41.763577253347464
+        ]
+    }, 
+    "community_area": "43", 
+    "date": {
+        "$date": 1370289600000
+    }, 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "ward": "5", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9166563", 
+    "block": "072XX S JEFFERY BLVD", 
+    "description": "TO VEHICLE"
+}

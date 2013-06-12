@@ -1,1 +1,38 @@
-{"y_coordinate": "1903886", "year": "2013", "domestic": false, "case_number": "HW288710", "id": "9149846", "primary_type": "NARCOTICS", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75247463770526, 41.892318225281656]}, "community_area": "25", "latitude": "41.892318225281656", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "1532", "date": {"$date": 1369384040000}, "ward": "28", "_id": {"$oid": "51aa13933c002ed20d78b0fb"}, "iucr": "2024", "longitude": "-87.75247463770526", "location_description": "RESIDENCE", "x_coordinate": "1142401", "updated_on": {"$date": 1369960832000}, "fbi_code": "18", "block": "050XX W ERIE ST"}
+{
+    "y_coordinate": "1903886", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288710", 
+    "id": "9149846", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75247463770526, 
+            41.892318225281656
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.892318225281656", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "1532", 
+    "date": {
+        "$date": 1369384040000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b0fb"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.75247463770526", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1142401", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "18", 
+    "block": "050XX W ERIE ST"
+}

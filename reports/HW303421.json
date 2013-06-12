@@ -1,1 +1,38 @@
-{"y_coordinate": "1905388", "year": "2013", "domestic": false, "case_number": "HW303421", "id": "9157939", "primary_type": "GAMBLING", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71619363363062, 41.89625082982421]}, "community_area": "23", "latitude": "41.89625082982421", "type": null, "description": "GAME/DICE", "beat": "1121", "date": {"$date": 1370303400000}, "ward": "27", "_id": {"$oid": "51b742963c002ed20d78d210"}, "iucr": "1661", "longitude": "-87.71619363363062", "location_description": "SIDEWALK", "x_coordinate": "1152269", "updated_on": {"$date": 1370738354000}, "fbi_code": "19", "block": "008XX N CENTRAL PARK AVE"}
+{
+    "y_coordinate": "1905388", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303421", 
+    "id": "9157939", 
+    "primary_type": "GAMBLING", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71619363363062, 
+            41.89625082982421
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.89625082982421", 
+    "type": null, 
+    "description": "GAME/DICE", 
+    "beat": "1121", 
+    "date": {
+        "$date": 1370303400000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b742963c002ed20d78d210"
+    }, 
+    "iucr": "1661", 
+    "longitude": "-87.71619363363062", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1152269", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "19", 
+    "block": "008XX N CENTRAL PARK AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1900153", "year": "2013", "domestic": false, "case_number": "HW302113", "id": "9156379", "primary_type": "THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73860634638224, 41.88200296916064]}, "community_area": "26", "latitude": "41.88200296916064", "type": "property", "description": "$500 AND UNDER", "beat": "1113", "date": {"$date": 1370083500000}, "ward": "28", "_id": {"$oid": "51b5f1203c002ed20d78d124"}, "iucr": "820", "longitude": "-87.73860634638224", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1146203", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "045XX W WASHINGTON BLVD"}
+{
+    "y_coordinate": "1900153", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302113", 
+    "id": "9156379", 
+    "primary_type": "THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73860634638224, 
+            41.88200296916064
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.88200296916064", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1113", 
+    "date": {
+        "$date": 1370083500000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d124"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.73860634638224", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1146203", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "045XX W WASHINGTON BLVD"
+}

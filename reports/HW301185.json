@@ -1,1 +1,38 @@
-{"y_coordinate": "1888513", "year": "2013", "domestic": false, "case_number": "HW301185", "id": "9155454", "primary_type": "THEFT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73213813153109, 41.85002615242923]}, "community_area": "29", "latitude": "41.85002615242923", "type": "property", "description": "OVER $500", "beat": "1013", "date": {"$date": 1370176200000}, "ward": "22", "_id": {"$oid": "51b5f11b3c002ed20d78cdc2"}, "iucr": "810", "longitude": "-87.73213813153109", "location_description": "VACANT LOT/LAND", "x_coordinate": "1148046", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "022XX S KOLIN AVE"}
+{
+    "y_coordinate": "1888513", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301185", 
+    "id": "9155454", 
+    "primary_type": "THEFT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73213813153109, 
+            41.85002615242923
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85002615242923", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1013", 
+    "date": {
+        "$date": 1370176200000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cdc2"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.73213813153109", 
+    "location_description": "VACANT LOT/LAND", 
+    "x_coordinate": "1148046", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "022XX S KOLIN AVE"
+}

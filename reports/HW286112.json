@@ -1,1 +1,38 @@
-{"y_coordinate": "1923880", "year": "2013", "domestic": true, "case_number": "HW286112", "id": "9147105", "primary_type": "ASSAULT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67663523627444, 41.94677765487068]}, "community_area": "5", "latitude": "41.94677765487068", "type": null, "description": "SIMPLE", "beat": "1922", "date": {"$date": 1369230960000}, "ward": "47", "_id": {"$oid": "51a7708b3c002ed20d78ac2c"}, "iucr": "560", "longitude": "-87.67663523627444", "location_description": "APARTMENT", "x_coordinate": "1162898", "updated_on": {"$date": 1370306580000}, "fbi_code": "08A", "block": "019XX W ADDISON ST"}
+{
+    "y_coordinate": "1923880", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW286112", 
+    "id": "9147105", 
+    "primary_type": "ASSAULT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67663523627444, 
+            41.94677765487068
+        ]
+    }, 
+    "community_area": "5", 
+    "latitude": "41.94677765487068", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1922", 
+    "date": {
+        "$date": 1369230960000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac2c"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.67663523627444", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1162898", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08A", 
+    "block": "019XX W ADDISON ST"
+}

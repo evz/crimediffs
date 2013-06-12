@@ -1,1 +1,38 @@
-{"y_coordinate": "1906571", "year": "2013", "domestic": false, "case_number": "HW282865", "id": "9137546", "primary_type": "CRIMINAL DAMAGE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69720232096032, 41.89939363092402]}, "community_area": "24", "latitude": "41.89939363092402", "type": "quality", "description": "TO VEHICLE", "beat": "1211", "date": {"$date": 1369054200000}, "ward": "26", "_id": {"$oid": "51a4cd913c002ed20d78a538"}, "iucr": "1320", "longitude": "-87.69720232096032", "location_description": "STREET", "x_coordinate": "1157431", "updated_on": {"$date": 1369269615000}, "fbi_code": "14", "block": "028XX W AUGUSTA BLVD"}
+{
+    "y_coordinate": "1906571", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW282865", 
+    "id": "9137546", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69720232096032, 
+            41.89939363092402
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.89939363092402", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1211", 
+    "date": {
+        "$date": 1369054200000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a538"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.69720232096032", 
+    "location_description": "STREET", 
+    "x_coordinate": "1157431", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "14", 
+    "block": "028XX W AUGUSTA BLVD"
+}

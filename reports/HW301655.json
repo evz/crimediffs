@@ -1,1 +1,33 @@
-{"community_area": "20", "_id": {"$oid": "51b5f1183c002ed20d78cc78"}, "primary_type": "BATTERY", "beat": "2524", "year": "2013", "domestic": false, "iucr": "460", "arrest": false, "location_description": "SIDEWALK", "location": {"type": "Point", "coordinates": [-87.73710443949541, 41.92424822097915]}, "case_number": "HW301655", "date": {"$date": 1370204400000}, "updated_on": {"$date": 1370479286000}, "ward": "31", "fbi_code": "08B", "type": null, "id": "9156029", "block": "044XX W FULLERTON AVE", "description": "SIMPLE"}
+{
+    "_id": {
+        "$oid": "51b5f1183c002ed20d78cc78"
+    }, 
+    "primary_type": "BATTERY", 
+    "year": "2013", 
+    "beat": "2524", 
+    "case_number": "HW301655", 
+    "domestic": false, 
+    "iucr": "460", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73710443949541, 
+            41.92424822097915
+        ]
+    }, 
+    "community_area": "20", 
+    "date": {
+        "$date": 1370204400000
+    }, 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "ward": "31", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9156029", 
+    "block": "044XX W FULLERTON AVE", 
+    "description": "SIMPLE"
+}

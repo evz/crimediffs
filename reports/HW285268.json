@@ -1,1 +1,38 @@
-{"y_coordinate": "1901718", "year": "2013", "domestic": true, "case_number": "HW285268", "id": "9140034", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72597430930946, 41.886231602907706]}, "community_area": "26", "latitude": "41.886231602907706", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1114", "date": {"$date": 1369174500000}, "ward": "28", "_id": {"$oid": "51a61f083c002ed20d78a6fc"}, "iucr": "486", "longitude": "-87.72597430930946", "location_description": "APARTMENT", "x_coordinate": "1149632", "updated_on": {"$date": 1369787985000}, "fbi_code": "08B", "block": "003XX N PULASKI RD"}
+{
+    "y_coordinate": "1901718", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285268", 
+    "id": "9140034", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72597430930946, 
+            41.886231602907706
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.886231602907706", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1114", 
+    "date": {
+        "$date": 1369174500000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a61f083c002ed20d78a6fc"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.72597430930946", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1149632", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "08B", 
+    "block": "003XX N PULASKI RD"
+}

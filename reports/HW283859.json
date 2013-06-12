@@ -1,1 +1,38 @@
-{"y_coordinate": "1838483", "year": "2013", "domestic": false, "case_number": "HW283859", "id": "9138410", "primary_type": "ROBBERY", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65704480131566, 41.712311625687306]}, "community_area": "73", "latitude": "41.712311625687306", "type": "violent", "description": "AGGRAVATED VEHICULAR HIJACKING", "beat": "2213", "date": {"$date": 1369090800000}, "ward": "21", "_id": {"$oid": "51a4cd8c3c002ed20d78a34e"}, "iucr": "326", "longitude": "-87.65704480131566", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1168900", "updated_on": {"$date": 1369960832000}, "fbi_code": "03", "block": "099XX S WINSTON AVE"}
+{
+    "y_coordinate": "1838483", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283859", 
+    "id": "9138410", 
+    "primary_type": "ROBBERY", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65704480131566, 
+            41.712311625687306
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.712311625687306", 
+    "type": "violent", 
+    "description": "AGGRAVATED VEHICULAR HIJACKING", 
+    "beat": "2213", 
+    "date": {
+        "$date": 1369090800000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51a4cd8c3c002ed20d78a34e"
+    }, 
+    "iucr": "326", 
+    "longitude": "-87.65704480131566", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1168900", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "03", 
+    "block": "099XX S WINSTON AVE"
+}

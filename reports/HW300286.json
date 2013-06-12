@@ -1,1 +1,38 @@
-{"y_coordinate": "1907062", "year": "2013", "domestic": true, "case_number": "HW300286", "id": "9154937", "primary_type": "ASSAULT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66447303574904, 41.90055507758566]}, "community_area": "24", "latitude": "41.90055507758566", "type": "violent", "description": "AGGRAVATED: HANDGUN", "beat": "1213", "date": {"$date": 1370108100000}, "ward": "27", "_id": {"$oid": "51b5f11f3c002ed20d78d014"}, "iucr": "051A", "longitude": "-87.66447303574904", "location_description": "ALLEY", "x_coordinate": "1166338", "updated_on": {"$date": 1370306580000}, "fbi_code": "04A", "block": "014XX W CORTEZ ST"}
+{
+    "y_coordinate": "1907062", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300286", 
+    "id": "9154937", 
+    "primary_type": "ASSAULT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66447303574904, 
+            41.90055507758566
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.90055507758566", 
+    "type": "violent", 
+    "description": "AGGRAVATED: HANDGUN", 
+    "beat": "1213", 
+    "date": {
+        "$date": 1370108100000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d014"
+    }, 
+    "iucr": "051A", 
+    "longitude": "-87.66447303574904", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1166338", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "04A", 
+    "block": "014XX W CORTEZ ST"
+}

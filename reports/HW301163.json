@@ -1,1 +1,33 @@
-{"community_area": "25", "_id": {"$oid": "51b5f11b3c002ed20d78cdbd"}, "primary_type": "BATTERY", "beat": "1512", "year": "2013", "domestic": true, "iucr": "486", "arrest": false, "location_description": "VEHICLE NON-COMMERCIAL", "location": {"type": "Point", "coordinates": [-87.76527275516037, 41.887107805410245]}, "case_number": "HW301163", "date": {"$date": 1370176200000}, "updated_on": {"$date": 1370738354000}, "ward": "29", "fbi_code": "08B", "type": null, "id": "9155882", "block": "056XX W CORCORAN PL", "description": "DOMESTIC BATTERY SIMPLE"}
+{
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cdbd"
+    }, 
+    "primary_type": "BATTERY", 
+    "year": "2013", 
+    "beat": "1512", 
+    "case_number": "HW301163", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76527275516037, 
+            41.887107805410245
+        ]
+    }, 
+    "community_area": "25", 
+    "date": {
+        "$date": 1370176200000
+    }, 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "ward": "29", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9155882", 
+    "block": "056XX W CORCORAN PL", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}

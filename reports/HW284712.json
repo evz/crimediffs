@@ -1,1 +1,38 @@
-{"y_coordinate": "1920492", "year": "2013", "domestic": false, "case_number": "HW284712", "id": "9139580", "primary_type": "THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74572518480036, 41.93785462473452]}, "community_area": "19", "latitude": "41.93785462473452", "type": "property", "description": "OVER $500", "beat": "2521", "date": {"$date": 1369132200000}, "ward": "31", "_id": {"$oid": "51a61f0e3c002ed20d78a93b"}, "iucr": "810", "longitude": "-87.74572518480036", "location_description": "APARTMENT", "x_coordinate": "1144125", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "031XX N KEATING AVE"}
+{
+    "y_coordinate": "1920492", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284712", 
+    "id": "9139580", 
+    "primary_type": "THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74572518480036, 
+            41.93785462473452
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.93785462473452", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "2521", 
+    "date": {
+        "$date": 1369132200000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a93b"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.74572518480036", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1144125", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "031XX N KEATING AVE"
+}

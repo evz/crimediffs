@@ -1,1 +1,38 @@
-{"y_coordinate": "1827578", "year": "2013", "domestic": false, "case_number": "HW301248", "id": "9155470", "primary_type": "CRIMINAL TRESPASS", "district": "005", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62264495566448, 41.68217712050196]}, "community_area": "53", "latitude": "41.68217712050196", "type": null, "description": "TO LAND", "beat": "0532", "date": {"$date": 1370182500000}, "ward": "9", "_id": {"$oid": "51b5f11a3c002ed20d78cd73"}, "iucr": "1330", "longitude": "-87.62264495566448", "location_description": "CHURCH/SYNAGOGUE/PLACE OF WORSHIP", "x_coordinate": "1178383", "updated_on": {"$date": 1370392932000}, "fbi_code": "26", "block": "116XX S STATE ST"}
+{
+    "y_coordinate": "1827578", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301248", 
+    "id": "9155470", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "005", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62264495566448, 
+            41.68217712050196
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.68217712050196", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "0532", 
+    "date": {
+        "$date": 1370182500000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd73"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.62264495566448", 
+    "location_description": "CHURCH/SYNAGOGUE/PLACE OF WORSHIP", 
+    "x_coordinate": "1178383", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "26", 
+    "block": "116XX S STATE ST"
+}

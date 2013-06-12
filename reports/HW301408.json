@@ -1,1 +1,38 @@
-{"y_coordinate": "1915225", "year": "2013", "domestic": false, "case_number": "HW301408", "id": "9155659", "primary_type": "THEFT", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70046815343832, 41.92316026430465]}, "community_area": "22", "latitude": "41.92316026430465", "type": "property", "description": "$500 AND UNDER", "beat": "1414", "date": {"$date": 1370190600000}, "ward": "35", "_id": {"$oid": "51b5f1193c002ed20d78cd1f"}, "iucr": "820", "longitude": "-87.70046815343832", "location_description": "ALLEY", "x_coordinate": "1156478", "updated_on": {"$date": 1370651988000}, "fbi_code": "06", "block": "029XX W BELDEN AVE"}
+{
+    "y_coordinate": "1915225", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301408", 
+    "id": "9155659", 
+    "primary_type": "THEFT", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70046815343832, 
+            41.92316026430465
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.92316026430465", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1414", 
+    "date": {
+        "$date": 1370190600000
+    }, 
+    "ward": "35", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78cd1f"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.70046815343832", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1156478", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "06", 
+    "block": "029XX W BELDEN AVE"
+}

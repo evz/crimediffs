@@ -1,1 +1,38 @@
-{"y_coordinate": "1937721", "year": "2013", "domestic": false, "case_number": "HW292850", "id": "9147151", "primary_type": "THEFT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.80283631249274, 41.98541276474286]}, "community_area": "10", "latitude": "41.98541276474286", "type": "property", "description": "$500 AND UNDER", "beat": "1612", "date": {"$date": 1369305000000}, "ward": "41", "_id": {"$oid": "51aa13983c002ed20d78b3a2"}, "iucr": "820", "longitude": "-87.80283631249274", "location_description": "STREET", "x_coordinate": "1128479", "updated_on": {"$date": 1369874559000}, "fbi_code": "06", "block": "057XX N EAST CIRCLE AVE"}
+{
+    "y_coordinate": "1937721", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW292850", 
+    "id": "9147151", 
+    "primary_type": "THEFT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.80283631249274, 
+            41.98541276474286
+        ]
+    }, 
+    "community_area": "10", 
+    "latitude": "41.98541276474286", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1612", 
+    "date": {
+        "$date": 1369305000000
+    }, 
+    "ward": "41", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3a2"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.80283631249274", 
+    "location_description": "STREET", 
+    "x_coordinate": "1128479", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "06", 
+    "block": "057XX N EAST CIRCLE AVE"
+}

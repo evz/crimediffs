@@ -1,1 +1,38 @@
-{"y_coordinate": "1862704", "year": "2013", "domestic": true, "case_number": "HW310315", "id": "9165117", "primary_type": "THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69416269770474, 41.77899402237687]}, "community_area": "66", "latitude": "41.77899402237687", "type": "property", "description": "FINANCIAL ID THEFT: OVER $300", "beat": "0823", "date": {"$date": 1369440060000}, "ward": "15", "_id": {"$oid": "51b5f12f3c002ed20d78d1c2"}, "iucr": "840", "longitude": "-87.69416269770474", "location_description": "APARTMENT", "x_coordinate": "1158585", "updated_on": {"$date": 1370824784000}, "fbi_code": "06", "block": "028XX W 63RD ST"}
+{
+    "y_coordinate": "1862704", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW310315", 
+    "id": "9165117", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69416269770474, 
+            41.77899402237687
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.77899402237687", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "0823", 
+    "date": {
+        "$date": 1369440060000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f12f3c002ed20d78d1c2"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.69416269770474", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1158585", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "06", 
+    "block": "028XX W 63RD ST"
+}

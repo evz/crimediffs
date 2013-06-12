@@ -1,1 +1,38 @@
-{"y_coordinate": "1895152", "year": "2013", "domestic": false, "case_number": "HW290495", "id": "9145183", "primary_type": "THEFT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62728001479849, 41.86764850578894]}, "community_area": "32", "latitude": "41.86764850578894", "type": "property", "description": "POCKET-PICKING", "beat": "0123", "date": {"$date": 1369224000000}, "ward": "2", "_id": {"$oid": "51a7708c3c002ed20d78ac7a"}, "iucr": "870", "longitude": "-87.62728001479849", "location_description": "CTA PLATFORM", "x_coordinate": "1176562", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "011XX S STATE ST"}
+{
+    "y_coordinate": "1895152", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290495", 
+    "id": "9145183", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62728001479849, 
+            41.86764850578894
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.86764850578894", 
+    "type": "property", 
+    "description": "POCKET-PICKING", 
+    "beat": "0123", 
+    "date": {
+        "$date": 1369224000000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac7a"
+    }, 
+    "iucr": "870", 
+    "longitude": "-87.62728001479849", 
+    "location_description": "CTA PLATFORM", 
+    "x_coordinate": "1176562", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "011XX S STATE ST"
+}

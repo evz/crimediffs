@@ -1,1 +1,38 @@
-{"y_coordinate": "1842311", "year": "2013", "domestic": false, "case_number": "HW291536", "id": "9145996", "primary_type": "THEFT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.662861227477, 41.72285097344191]}, "community_area": "73", "latitude": "41.72285097344191", "type": "property", "description": "$500 AND UNDER", "beat": "2221", "date": {"$date": 1369474200000}, "ward": "21", "_id": {"$oid": "51b34a123c002ed20d78cadf"}, "iucr": "820", "longitude": "-87.662861227477", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1167282", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "094XX S ASHLAND AVE"}
+{
+    "y_coordinate": "1842311", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291536", 
+    "id": "9145996", 
+    "primary_type": "THEFT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.662861227477, 
+            41.72285097344191
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.72285097344191", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2221", 
+    "date": {
+        "$date": 1369474200000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cadf"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.662861227477", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1167282", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "094XX S ASHLAND AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1869236", "year": "2013", "domestic": true, "case_number": "HW301395", "id": "9155580", "primary_type": "ASSAULT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65387370860046, 41.796688495554825]}, "community_area": "61", "latitude": "41.796688495554825", "type": null, "description": "SIMPLE", "beat": "0934", "date": {"$date": 1370095200000}, "ward": "16", "_id": {"$oid": "51b5f1203c002ed20d78d09b"}, "iucr": "560", "longitude": "-87.65387370860046", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1169523", "updated_on": {"$date": 1370651988000}, "fbi_code": "08A", "block": "053XX S MAY ST"}
+{
+    "y_coordinate": "1869236", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301395", 
+    "id": "9155580", 
+    "primary_type": "ASSAULT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65387370860046, 
+            41.796688495554825
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.796688495554825", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0934", 
+    "date": {
+        "$date": 1370095200000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d09b"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.65387370860046", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1169523", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "08A", 
+    "block": "053XX S MAY ST"
+}

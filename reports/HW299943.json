@@ -1,1 +1,38 @@
-{"y_coordinate": "1839141", "year": "2013", "domestic": false, "case_number": "HW299943", "id": "9154537", "primary_type": "NARCOTICS", "district": "022", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64284875473393, 41.71403296643338]}, "community_area": "73", "latitude": "41.71403296643338", "type": null, "description": "POSSESSION: SYNTHETIC MARIJUANA", "beat": "2232", "date": {"$date": 1370092500000}, "ward": "34", "_id": {"$oid": "51b5f1203c002ed20d78d0c1"}, "iucr": "2034", "longitude": "-87.64284875473393", "location_description": "STREET", "x_coordinate": "1172771", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "099XX S HALSTED ST"}
+{
+    "y_coordinate": "1839141", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299943", 
+    "id": "9154537", 
+    "primary_type": "NARCOTICS", 
+    "district": "022", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64284875473393, 
+            41.71403296643338
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.71403296643338", 
+    "type": null, 
+    "description": "POSSESSION: SYNTHETIC MARIJUANA", 
+    "beat": "2232", 
+    "date": {
+        "$date": 1370092500000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0c1"
+    }, 
+    "iucr": "2034", 
+    "longitude": "-87.64284875473393", 
+    "location_description": "STREET", 
+    "x_coordinate": "1172771", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "099XX S HALSTED ST"
+}

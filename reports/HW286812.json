@@ -1,1 +1,38 @@
-{"y_coordinate": "1839012", "year": "2013", "domestic": false, "case_number": "HW286812", "id": "9141568", "primary_type": "THEFT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62620347990304, 41.71357772533786]}, "community_area": "49", "latitude": "41.71357772533786", "type": "property", "description": "FROM BUILDING", "beat": "0511", "date": {"$date": 1369206000000}, "ward": "9", "_id": {"$oid": "51a7708d3c002ed20d78ad1d"}, "iucr": "890", "longitude": "-87.62620347990304", "location_description": "RESIDENCE", "x_coordinate": "1177317", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "099XX S PERRY AVE"}
+{
+    "y_coordinate": "1839012", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286812", 
+    "id": "9141568", 
+    "primary_type": "THEFT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62620347990304, 
+            41.71357772533786
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.71357772533786", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0511", 
+    "date": {
+        "$date": 1369206000000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad1d"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.62620347990304", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1177317", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "099XX S PERRY AVE"
+}

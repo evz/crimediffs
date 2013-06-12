@@ -1,1 +1,38 @@
-{"y_coordinate": "1890618", "year": "2013", "domestic": true, "case_number": "HW303274", "id": "9157783", "primary_type": "BATTERY", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71743866920811, 41.85572493826285]}, "community_area": "29", "latitude": "41.85572493826285", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1014", "date": {"$date": 1370295000000}, "ward": "24", "_id": {"$oid": "51b742973c002ed20d78d270"}, "iucr": "486", "longitude": "-87.71743866920811", "location_description": "RESIDENCE", "x_coordinate": "1152036", "updated_on": {"$date": 1370651988000}, "fbi_code": "08B", "block": "018XX S LAWNDALE AVE"}
+{
+    "y_coordinate": "1890618", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW303274", 
+    "id": "9157783", 
+    "primary_type": "BATTERY", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71743866920811, 
+            41.85572493826285
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85572493826285", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1014", 
+    "date": {
+        "$date": 1370295000000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b742973c002ed20d78d270"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.71743866920811", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1152036", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "08B", 
+    "block": "018XX S LAWNDALE AVE"
+}

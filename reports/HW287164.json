@@ -1,1 +1,38 @@
-{"y_coordinate": "1929807", "year": "2013", "domestic": false, "case_number": "HW287164", "id": "9142081", "primary_type": "THEFT", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73046739114116, 41.9633378931808]}, "community_area": "14", "latitude": "41.9633378931808", "type": "property", "description": "$500 AND UNDER", "beat": "1722", "date": {"$date": 1369269000000}, "ward": "39", "_id": {"$oid": "51a770873c002ed20d78aa40"}, "iucr": "820", "longitude": "-87.73046739114116", "location_description": "STREET", "x_coordinate": "1148211", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "045XX N KARLOV AVE"}
+{
+    "y_coordinate": "1929807", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287164", 
+    "id": "9142081", 
+    "primary_type": "THEFT", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73046739114116, 
+            41.9633378931808
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.9633378931808", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1722", 
+    "date": {
+        "$date": 1369269000000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51a770873c002ed20d78aa40"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.73046739114116", 
+    "location_description": "STREET", 
+    "x_coordinate": "1148211", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "045XX N KARLOV AVE"
+}

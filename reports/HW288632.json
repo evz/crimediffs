@@ -1,1 +1,38 @@
-{"y_coordinate": "1857743", "year": "2013", "domestic": false, "case_number": "HW288632", "id": "9143749", "primary_type": "THEFT", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.69074978877536, 41.765360522107045]}, "community_area": "66", "latitude": "41.765360522107045", "type": "property", "description": "$500 AND UNDER", "beat": "0831", "date": {"$date": 1369357200000}, "ward": "18", "_id": {"$oid": "51aa13943c002ed20d78b16b"}, "iucr": "820", "longitude": "-87.69074978877536", "location_description": "RESIDENCE", "x_coordinate": "1159553", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "070XX S WASHTENAW AVE"}
+{
+    "y_coordinate": "1857743", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288632", 
+    "id": "9143749", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69074978877536, 
+            41.765360522107045
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.765360522107045", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0831", 
+    "date": {
+        "$date": 1369357200000
+    }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b16b"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.69074978877536", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1159553", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "070XX S WASHTENAW AVE"
+}

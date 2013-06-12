@@ -1,1 +1,38 @@
-{"y_coordinate": "1850600", "year": "2013", "domestic": true, "case_number": "HW287516", "id": "9142619", "primary_type": "OTHER OFFENSE", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66467657206238, 41.74560917107671]}, "community_area": "71", "latitude": "41.74560917107671", "type": null, "description": "VIOLATE ORDER OF PROTECTION", "beat": "0614", "date": {"$date": 1369278000000}, "ward": "18", "_id": {"$oid": "51a770843c002ed20d78a9f9"}, "iucr": "4387", "longitude": "-87.66467657206238", "location_description": "APARTMENT", "x_coordinate": "1166722", "updated_on": {"$date": 1370133629000}, "fbi_code": "26", "block": "081XX S MARSHFIELD AVE"}
+{
+    "y_coordinate": "1850600", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW287516", 
+    "id": "9142619", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66467657206238, 
+            41.74560917107671
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.74560917107671", 
+    "type": null, 
+    "description": "VIOLATE ORDER OF PROTECTION", 
+    "beat": "0614", 
+    "date": {
+        "$date": 1369278000000
+    }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51a770843c002ed20d78a9f9"
+    }, 
+    "iucr": "4387", 
+    "longitude": "-87.66467657206238", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1166722", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "26", 
+    "block": "081XX S MARSHFIELD AVE"
+}

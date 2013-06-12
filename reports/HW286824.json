@@ -1,1 +1,38 @@
-{"y_coordinate": "1862885", "year": "2013", "domestic": false, "case_number": "HW286824", "id": "9141682", "primary_type": "PROSTITUTION", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.67645033411614, 41.77939082947459]}, "community_area": "67", "latitude": "41.77939082947459", "type": "quality", "description": "SOLICIT FOR BUSINESS", "beat": "0714", "date": {"$date": 1369258500000}, "ward": "15", "_id": {"$oid": "51a770883c002ed20d78aab5"}, "iucr": "1513", "longitude": "-87.67645033411614", "location_description": "STREET", "x_coordinate": "1163415", "updated_on": {"$date": 1369528777000}, "fbi_code": "16", "block": "021XX W 63RD ST"}
+{
+    "y_coordinate": "1862885", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286824", 
+    "id": "9141682", 
+    "primary_type": "PROSTITUTION", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67645033411614, 
+            41.77939082947459
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.77939082947459", 
+    "type": "quality", 
+    "description": "SOLICIT FOR BUSINESS", 
+    "beat": "0714", 
+    "date": {
+        "$date": 1369258500000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aab5"
+    }, 
+    "iucr": "1513", 
+    "longitude": "-87.67645033411614", 
+    "location_description": "STREET", 
+    "x_coordinate": "1163415", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "16", 
+    "block": "021XX W 63RD ST"
+}

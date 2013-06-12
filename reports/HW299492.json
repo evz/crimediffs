@@ -1,1 +1,38 @@
-{"y_coordinate": "1867099", "year": "2013", "domestic": false, "case_number": "HW299492", "id": "9155195", "primary_type": "MOTOR VEHICLE THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68625461814395, 41.7910109138396]}, "community_area": "63", "latitude": "41.7910109138396", "type": "property", "description": "ATT: AUTOMOBILE", "beat": "0824", "date": {"$date": 1370063700000}, "ward": "16", "_id": {"$oid": "51b5f1213c002ed20d78d1a4"}, "iucr": "920", "longitude": "-87.68625461814395", "location_description": "STREET", "x_coordinate": "1160709", "updated_on": {"$date": 1370392932000}, "fbi_code": "07", "block": "056XX S CAMPBELL AVE"}
+{
+    "y_coordinate": "1867099", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299492", 
+    "id": "9155195", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68625461814395, 
+            41.7910109138396
+        ]
+    }, 
+    "community_area": "63", 
+    "latitude": "41.7910109138396", 
+    "type": "property", 
+    "description": "ATT: AUTOMOBILE", 
+    "beat": "0824", 
+    "date": {
+        "$date": 1370063700000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d1a4"
+    }, 
+    "iucr": "920", 
+    "longitude": "-87.68625461814395", 
+    "location_description": "STREET", 
+    "x_coordinate": "1160709", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "07", 
+    "block": "056XX S CAMPBELL AVE"
+}

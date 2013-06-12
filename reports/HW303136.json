@@ -1,1 +1,38 @@
-{"y_coordinate": "1871145", "year": "2013", "domestic": false, "case_number": "HW303136", "id": "9157635", "primary_type": "NARCOTICS", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.60272465115821, 41.80161340414029]}, "community_area": "41", "latitude": "41.80161340414029", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0233", "date": {"$date": 1370287500000}, "ward": "4", "_id": {"$oid": "51b742993c002ed20d78d2d6"}, "iucr": "1811", "longitude": "-87.60272465115821", "location_description": "SIDEWALK", "x_coordinate": "1183455", "updated_on": {"$date": 1370738354000}, "fbi_code": "18", "block": "051XX S INGLESIDE AVE"}
+{
+    "y_coordinate": "1871145", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303136", 
+    "id": "9157635", 
+    "primary_type": "NARCOTICS", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60272465115821, 
+            41.80161340414029
+        ]
+    }, 
+    "community_area": "41", 
+    "latitude": "41.80161340414029", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0233", 
+    "date": {
+        "$date": 1370287500000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51b742993c002ed20d78d2d6"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.60272465115821", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1183455", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "18", 
+    "block": "051XX S INGLESIDE AVE"
+}

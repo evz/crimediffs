@@ -1,1 +1,38 @@
-{"y_coordinate": "1887111", "year": "2013", "domestic": false, "case_number": "HW283203", "id": "9137866", "primary_type": "PUBLIC PEACE VIOLATION", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6856208111372, 41.84592578525438]}, "community_area": "31", "latitude": "41.84592578525438", "type": null, "description": "RECKLESS CONDUCT", "beat": "1034", "date": {"$date": 1369064100000}, "ward": "25", "_id": {"$oid": "51a4cd903c002ed20d78a4bd"}, "iucr": "470", "longitude": "-87.6856208111372", "location_description": "SCHOOL, PRIVATE, GROUNDS", "x_coordinate": "1160731", "updated_on": {"$date": 1369183512000}, "fbi_code": "24", "block": "025XX S WESTERN AVE"}
+{
+    "y_coordinate": "1887111", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283203", 
+    "id": "9137866", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6856208111372, 
+            41.84592578525438
+        ]
+    }, 
+    "community_area": "31", 
+    "latitude": "41.84592578525438", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "1034", 
+    "date": {
+        "$date": 1369064100000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a4bd"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.6856208111372", 
+    "location_description": "SCHOOL, PRIVATE, GROUNDS", 
+    "x_coordinate": "1160731", 
+    "updated_on": {
+        "$date": 1369183512000
+    }, 
+    "fbi_code": "24", 
+    "block": "025XX S WESTERN AVE"
+}

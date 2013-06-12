@@ -1,1 +1,38 @@
-{"y_coordinate": "1857087", "year": "2013", "domestic": false, "case_number": "HW290095", "id": "9148123", "primary_type": "CRIMINAL DAMAGE", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56660291712771, 41.76279882937981]}, "community_area": "43", "latitude": "41.76279882937981", "type": "quality", "description": "TO VEHICLE", "beat": "0334", "date": {"$date": 1369468260000}, "ward": "7", "_id": {"$oid": "51b34a123c002ed20d78cb0c"}, "iucr": "1320", "longitude": "-87.56660291712771", "location_description": "STREET", "x_coordinate": "1193430", "updated_on": {"$date": 1369960832000}, "fbi_code": "14", "block": "072XX S YATES BLVD"}
+{
+    "y_coordinate": "1857087", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290095", 
+    "id": "9148123", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56660291712771, 
+            41.76279882937981
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76279882937981", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0334", 
+    "date": {
+        "$date": 1369468260000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cb0c"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.56660291712771", 
+    "location_description": "STREET", 
+    "x_coordinate": "1193430", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "14", 
+    "block": "072XX S YATES BLVD"
+}

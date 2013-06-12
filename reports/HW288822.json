@@ -1,1 +1,38 @@
-{"y_coordinate": "1901148", "year": "2013", "domestic": false, "case_number": "HW288822", "id": "9143927", "primary_type": "DECEPTIVE PRACTICE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66816388122518, 41.88434708390584]}, "community_area": "28", "latitude": "41.88434708390584", "type": null, "description": "ILLEGAL USE CASH CARD", "beat": "1224", "date": {"$date": 1369191600000}, "ward": "27", "_id": {"$oid": "51a61f053c002ed20d78a67a"}, "iucr": "1152", "longitude": "-87.66816388122518", "location_description": "RESIDENCE", "x_coordinate": "1165379", "updated_on": {"$date": 1369701613000}, "fbi_code": "11", "block": "016XX W MAYPOLE AVE"}
+{
+    "y_coordinate": "1901148", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288822", 
+    "id": "9143927", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66816388122518, 
+            41.88434708390584
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.88434708390584", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "1224", 
+    "date": {
+        "$date": 1369191600000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a61f053c002ed20d78a67a"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.66816388122518", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1165379", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "11", 
+    "block": "016XX W MAYPOLE AVE"
+}

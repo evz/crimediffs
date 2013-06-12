@@ -1,1 +1,38 @@
-{"y_coordinate": "1869320", "year": "2013", "domestic": false, "case_number": "HW285565", "id": "9140892", "primary_type": "MOTOR VEHICLE THEFT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6730282974057, 41.797030712570496]}, "community_area": "61", "latitude": "41.797030712570496", "type": "property", "description": "CYCLE, SCOOTER, BIKE W-VIN", "beat": "0932", "date": {"$date": 1369204200000}, "ward": "16", "_id": {"$oid": "51a7708d3c002ed20d78ad24"}, "iucr": "917", "longitude": "-87.6730282974057", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1164299", "updated_on": {"$date": 1369442383000}, "fbi_code": "07", "block": "053XX S WINCHESTER AVE"}
+{
+    "y_coordinate": "1869320", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285565", 
+    "id": "9140892", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6730282974057, 
+            41.797030712570496
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.797030712570496", 
+    "type": "property", 
+    "description": "CYCLE, SCOOTER, BIKE W-VIN", 
+    "beat": "0932", 
+    "date": {
+        "$date": 1369204200000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad24"
+    }, 
+    "iucr": "917", 
+    "longitude": "-87.6730282974057", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1164299", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "07", 
+    "block": "053XX S WINCHESTER AVE"
+}

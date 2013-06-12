@@ -1,1 +1,38 @@
-{"y_coordinate": "1888622", "year": "2013", "domestic": false, "case_number": "HW304491", "id": "9159306", "primary_type": "THEFT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68543584774694, 41.850071321311155]}, "community_area": "31", "latitude": "41.850071321311155", "type": "property", "description": "$500 AND UNDER", "beat": "1034", "date": {"$date": 1369200600000}, "ward": "25", "_id": {"$oid": "51b34a1e3c002ed20d78cb79"}, "iucr": "820", "longitude": "-87.68543584774694", "location_description": "GAS STATION", "x_coordinate": "1160770", "updated_on": {"$date": 1370565766000}, "fbi_code": "06", "block": "023XX S WESTERN AVE"}
+{
+    "y_coordinate": "1888622", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW304491", 
+    "id": "9159306", 
+    "primary_type": "THEFT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68543584774694, 
+            41.850071321311155
+        ]
+    }, 
+    "community_area": "31", 
+    "latitude": "41.850071321311155", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1034", 
+    "date": {
+        "$date": 1369200600000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51b34a1e3c002ed20d78cb79"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.68543584774694", 
+    "location_description": "GAS STATION", 
+    "x_coordinate": "1160770", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "06", 
+    "block": "023XX S WESTERN AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1901678", "year": "2013", "domestic": false, "case_number": "HW285868", "id": "9141127", "primary_type": "ROBBERY", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6965643681028, 41.88596252335198]}, "community_area": "27", "latitude": "41.88596252335198", "type": "violent", "description": "AGGRAVATED VEHICULAR HIJACKING", "beat": "1222", "date": {"$date": 1369221000000}, "ward": "27", "_id": {"$oid": "51a7708c3c002ed20d78ac9a"}, "iucr": "326", "longitude": "-87.6965643681028", "location_description": "STREET", "x_coordinate": "1157641", "updated_on": {"$date": 1370479286000}, "fbi_code": "03", "block": "002XX N CALIFORNIA AVE"}
+{
+    "y_coordinate": "1901678", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285868", 
+    "id": "9141127", 
+    "primary_type": "ROBBERY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6965643681028, 
+            41.88596252335198
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.88596252335198", 
+    "type": "violent", 
+    "description": "AGGRAVATED VEHICULAR HIJACKING", 
+    "beat": "1222", 
+    "date": {
+        "$date": 1369221000000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac9a"
+    }, 
+    "iucr": "326", 
+    "longitude": "-87.6965643681028", 
+    "location_description": "STREET", 
+    "x_coordinate": "1157641", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "03", 
+    "block": "002XX N CALIFORNIA AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1830195", "year": "2013", "domestic": false, "case_number": "HW285247", "id": "9139900", "primary_type": "ROBBERY", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66476983388449, 41.68961182362496]}, "community_area": "75", "latitude": "41.68961182362496", "type": "violent", "description": "ARMED:KNIFE/CUTTING INSTRUMENT", "beat": "2234", "date": {"$date": 1369171800000}, "ward": "34", "_id": {"$oid": "51a61f093c002ed20d78a723"}, "iucr": "312", "longitude": "-87.66476983388449", "location_description": "SIDEWALK", "x_coordinate": "1166855", "updated_on": {"$date": 1369528777000}, "fbi_code": "03", "block": "112XX S VINCENNES AVE"}
+{
+    "y_coordinate": "1830195", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285247", 
+    "id": "9139900", 
+    "primary_type": "ROBBERY", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66476983388449, 
+            41.68961182362496
+        ]
+    }, 
+    "community_area": "75", 
+    "latitude": "41.68961182362496", 
+    "type": "violent", 
+    "description": "ARMED:KNIFE/CUTTING INSTRUMENT", 
+    "beat": "2234", 
+    "date": {
+        "$date": 1369171800000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51a61f093c002ed20d78a723"
+    }, 
+    "iucr": "312", 
+    "longitude": "-87.66476983388449", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1166855", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "03", 
+    "block": "112XX S VINCENNES AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1897024", "year": "2013", "domestic": false, "case_number": "HW289838", "id": "9144646", "primary_type": "THEFT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62433774827252, 41.872767610221636]}, "community_area": "32", "latitude": "41.872767610221636", "type": "property", "description": "FROM BUILDING", "beat": "0123", "date": {"$date": 1369438200000}, "ward": "2", "_id": {"$oid": "51aa138c3c002ed20d78ae2b"}, "iucr": "890", "longitude": "-87.62433774827252", "location_description": "HOTEL/MOTEL", "x_coordinate": "1177348", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "007XX S MICHIGAN AVE"}
+{
+    "y_coordinate": "1897024", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289838", 
+    "id": "9144646", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62433774827252, 
+            41.872767610221636
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.872767610221636", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0123", 
+    "date": {
+        "$date": 1369438200000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae2b"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.62433774827252", 
+    "location_description": "HOTEL/MOTEL", 
+    "x_coordinate": "1177348", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "007XX S MICHIGAN AVE"
+}

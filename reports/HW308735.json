@@ -1,1 +1,33 @@
-{"community_area": "8", "_id": {"$oid": "51b34a213c002ed20d78cb8b"}, "primary_type": "THEFT", "beat": "1822", "year": "2013", "domestic": false, "iucr": "860", "arrest": false, "location_description": "GROCERY FOOD STORE", "location": {"type": "Point", "coordinates": [-87.6536589849665, 41.903669402677245]}, "case_number": "HW308735", "date": {"$date": 1369126080000}, "updated_on": {"$date": 1370651988000}, "ward": "32", "fbi_code": "06", "type": "property", "id": "9163873", "block": "010XX W DIVISION ST", "description": "RETAIL THEFT"}
+{
+    "_id": {
+        "$oid": "51b34a213c002ed20d78cb8b"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "1822", 
+    "case_number": "HW308735", 
+    "domestic": false, 
+    "iucr": "860", 
+    "arrest": false, 
+    "location_description": "GROCERY FOOD STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6536589849665, 
+            41.903669402677245
+        ]
+    }, 
+    "community_area": "8", 
+    "date": {
+        "$date": 1369126080000
+    }, 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "ward": "32", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9163873", 
+    "block": "010XX W DIVISION ST", 
+    "description": "RETAIL THEFT"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1842008", "year": "2013", "domestic": false, "case_number": "HW290609", "id": "9145252", "primary_type": "ROBBERY", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62358600903985, 41.72178356884674]}, "community_area": "49", "latitude": "41.72178356884674", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "0634", "date": {"$date": 1369496700000}, "ward": "6", "_id": {"$oid": "51b34a103c002ed20d78ca0a"}, "iucr": "320", "longitude": "-87.62358600903985", "location_description": "CTA BUS STOP", "x_coordinate": "1178007", "updated_on": {"$date": 1370392932000}, "fbi_code": "03", "block": "094XX S STATE ST"}
+{
+    "y_coordinate": "1842008", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290609", 
+    "id": "9145252", 
+    "primary_type": "ROBBERY", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62358600903985, 
+            41.72178356884674
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.72178356884674", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0634", 
+    "date": {
+        "$date": 1369496700000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78ca0a"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.62358600903985", 
+    "location_description": "CTA BUS STOP", 
+    "x_coordinate": "1178007", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "03", 
+    "block": "094XX S STATE ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1862780", "year": "2013", "domestic": false, "case_number": "HW286473", "id": "9141631", "primary_type": "CRIMINAL DAMAGE", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61573939098457, 41.778739503229744]}, "community_area": "69", "latitude": "41.778739503229744", "type": "quality", "description": "TO PROPERTY", "beat": "0312", "date": {"$date": 1369236600000}, "ward": "20", "_id": {"$oid": "51a7708b3c002ed20d78abcb"}, "iucr": "1310", "longitude": "-87.61573939098457", "location_description": "CHA PARKING LOT/GROUNDS", "x_coordinate": "1179976", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "063XX S DR MARTIN LUTHER KING JR DR"}
+{
+    "y_coordinate": "1862780", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286473", 
+    "id": "9141631", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61573939098457, 
+            41.778739503229744
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.778739503229744", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0312", 
+    "date": {
+        "$date": 1369236600000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78abcb"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.61573939098457", 
+    "location_description": "CHA PARKING LOT/GROUNDS", 
+    "x_coordinate": "1179976", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "063XX S DR MARTIN LUTHER KING JR DR"
+}

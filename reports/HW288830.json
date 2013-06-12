@@ -1,1 +1,38 @@
-{"y_coordinate": "1844181", "year": "2013", "domestic": false, "case_number": "HW288830", "id": "9144052", "primary_type": "WEAPONS VIOLATION", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.58685248618201, 41.72751420059693]}, "community_area": "48", "latitude": "41.72751420059693", "type": null, "description": "UNLAWFUL POSS AMMUNITION", "beat": "0413", "date": {"$date": 1369390800000}, "ward": "8", "_id": {"$oid": "51aa13923c002ed20d78b0af"}, "iucr": "143C", "longitude": "-87.58685248618201", "location_description": "RESIDENCE", "x_coordinate": "1188017", "updated_on": {"$date": 1369528777000}, "fbi_code": "15", "block": "092XX S HARPER AVE"}
+{
+    "y_coordinate": "1844181", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288830", 
+    "id": "9144052", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58685248618201, 
+            41.72751420059693
+        ]
+    }, 
+    "community_area": "48", 
+    "latitude": "41.72751420059693", 
+    "type": null, 
+    "description": "UNLAWFUL POSS AMMUNITION", 
+    "beat": "0413", 
+    "date": {
+        "$date": 1369390800000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b0af"
+    }, 
+    "iucr": "143C", 
+    "longitude": "-87.58685248618201", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1188017", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "15", 
+    "block": "092XX S HARPER AVE"
+}

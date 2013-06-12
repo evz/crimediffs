@@ -1,1 +1,38 @@
-{"y_coordinate": "1932731", "year": "2013", "domestic": false, "case_number": "HW287153", "id": "9141924", "primary_type": "MOTOR VEHICLE THEFT", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67436341819892, 41.9710536270621]}, "community_area": "4", "latitude": "41.9710536270621", "type": "property", "description": "TRUCK, BUS, MOTOR HOME", "beat": "2032", "date": {"$date": 1369206000000}, "ward": "47", "_id": {"$oid": "51a7708d3c002ed20d78ad1e"}, "iucr": "915", "longitude": "-87.67436341819892", "location_description": "STREET", "x_coordinate": "1163448", "updated_on": {"$date": 1370479286000}, "fbi_code": "07", "block": "048XX N RAVENSWOOD AVE"}
+{
+    "y_coordinate": "1932731", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287153", 
+    "id": "9141924", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67436341819892, 
+            41.9710536270621
+        ]
+    }, 
+    "community_area": "4", 
+    "latitude": "41.9710536270621", 
+    "type": "property", 
+    "description": "TRUCK, BUS, MOTOR HOME", 
+    "beat": "2032", 
+    "date": {
+        "$date": 1369206000000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad1e"
+    }, 
+    "iucr": "915", 
+    "longitude": "-87.67436341819892", 
+    "location_description": "STREET", 
+    "x_coordinate": "1163448", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "07", 
+    "block": "048XX N RAVENSWOOD AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1899314", "year": "2013", "domestic": false, "case_number": "HW284300", "id": "9139210", "primary_type": "BATTERY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77124162021012, 41.879864914419976]}, "community_area": "25", "latitude": "41.879864914419976", "type": null, "description": "SIMPLE", "beat": "1513", "date": {"$date": 1369135800000}, "ward": "29", "_id": {"$oid": "51a61f0e3c002ed20d78a90e"}, "iucr": "460", "longitude": "-87.77124162021012", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1137321", "updated_on": {"$date": 1369356045000}, "fbi_code": "08B", "block": "0000X S MAYFIELD AVE"}
+{
+    "y_coordinate": "1899314", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284300", 
+    "id": "9139210", 
+    "primary_type": "BATTERY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77124162021012, 
+            41.879864914419976
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.879864914419976", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1513", 
+    "date": {
+        "$date": 1369135800000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a90e"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.77124162021012", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1137321", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08B", 
+    "block": "0000X S MAYFIELD AVE"
+}

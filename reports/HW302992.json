@@ -1,1 +1,33 @@
-{"community_area": "13", "_id": {"$oid": "51b5f11b3c002ed20d78cda7"}, "primary_type": "THEFT", "beat": "1711", "year": "2013", "domestic": false, "iucr": "890", "arrest": false, "location_description": "NURSING HOME/RETIREMENT HOME", "location": {"type": "Point", "coordinates": [-87.72837074723546, 41.98596380348262]}, "case_number": "HW302992", "date": {"$date": 1370178000000}, "updated_on": {"$date": 1370565766000}, "ward": "39", "fbi_code": "06", "type": "property", "id": "9158873", "block": "058XX N PULASKI RD", "description": "FROM BUILDING"}
+{
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cda7"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "1711", 
+    "case_number": "HW302992", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "NURSING HOME/RETIREMENT HOME", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72837074723546, 
+            41.98596380348262
+        ]
+    }, 
+    "community_area": "13", 
+    "date": {
+        "$date": 1370178000000
+    }, 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "ward": "39", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9158873", 
+    "block": "058XX N PULASKI RD", 
+    "description": "FROM BUILDING"
+}

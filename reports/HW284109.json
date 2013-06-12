@@ -1,1 +1,38 @@
-{"y_coordinate": "1863728", "year": "2013", "domestic": false, "case_number": "HW284109", "id": "9138746", "primary_type": "ASSAULT", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.63493961116001, 41.781459416199546]}, "community_area": "68", "latitude": "41.781459416199546", "type": null, "description": "PRO EMP HANDS NO/MIN INJURY", "beat": "0711", "date": {"$date": 1369126800000}, "ward": "20", "_id": {"$oid": "51a61f0f3c002ed20d78a979"}, "iucr": "545", "longitude": "-87.63493961116001", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1174731", "updated_on": {"$date": 1369356045000}, "fbi_code": "08A", "block": "062XX S STEWART AVE"}
+{
+    "y_coordinate": "1863728", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284109", 
+    "id": "9138746", 
+    "primary_type": "ASSAULT", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63493961116001, 
+            41.781459416199546
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.781459416199546", 
+    "type": null, 
+    "description": "PRO EMP HANDS NO/MIN INJURY", 
+    "beat": "0711", 
+    "date": {
+        "$date": 1369126800000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a979"
+    }, 
+    "iucr": "545", 
+    "longitude": "-87.63493961116001", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1174731", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08A", 
+    "block": "062XX S STEWART AVE"
+}

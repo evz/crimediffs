@@ -1,1 +1,38 @@
-{"y_coordinate": "1924319", "year": "2013", "domestic": false, "case_number": "HW303978", "id": "9158818", "primary_type": "OTHER OFFENSE", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7301682050882, 41.94827608027715]}, "community_area": "16", "latitude": "41.94827608027715", "type": null, "description": "TELEPHONE THREAT", "beat": "1732", "date": {"$date": 1370289600000}, "ward": "30", "_id": {"$oid": "51b742993c002ed20d78d2b5"}, "iucr": "2820", "longitude": "-87.7301682050882", "location_description": "RESIDENCE", "x_coordinate": "1148331", "updated_on": {"$date": 1370651988000}, "fbi_code": "26", "block": "040XX W WAVELAND AVE"}
+{
+    "y_coordinate": "1924319", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303978", 
+    "id": "9158818", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7301682050882, 
+            41.94827608027715
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.94827608027715", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "1732", 
+    "date": {
+        "$date": 1370289600000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51b742993c002ed20d78d2b5"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.7301682050882", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1148331", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "26", 
+    "block": "040XX W WAVELAND AVE"
+}

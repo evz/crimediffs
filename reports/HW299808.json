@@ -1,1 +1,38 @@
-{"y_coordinate": "1833746", "year": "2013", "domestic": true, "case_number": "HW299808", "id": "9154535", "primary_type": "BATTERY", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62224992134325, 41.699101715910906]}, "community_area": "49", "latitude": "41.699101715910906", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0513", "date": {"$date": 1370087400000}, "ward": "9", "_id": {"$oid": "51b5f1203c002ed20d78d10a"}, "iucr": "486", "longitude": "-87.62224992134325", "location_description": "SIDEWALK", "x_coordinate": "1178440", "updated_on": {"$date": 1370565766000}, "fbi_code": "08B", "block": "107XX S WABASH AVE"}
+{
+    "y_coordinate": "1833746", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW299808", 
+    "id": "9154535", 
+    "primary_type": "BATTERY", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62224992134325, 
+            41.699101715910906
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.699101715910906", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0513", 
+    "date": {
+        "$date": 1370087400000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d10a"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.62224992134325", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1178440", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "08B", 
+    "block": "107XX S WABASH AVE"
+}

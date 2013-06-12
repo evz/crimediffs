@@ -1,1 +1,38 @@
-{"y_coordinate": "1828427", "year": "2013", "domestic": false, "case_number": "HW288541", "id": "9144025", "primary_type": "BURGLARY", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62058763377198, 41.6844943204821]}, "community_area": "53", "latitude": "41.6844943204821", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0532", "date": {"$date": 1369348200000}, "ward": "9", "_id": {"$oid": "51aa13943c002ed20d78b1b0"}, "iucr": "610", "longitude": "-87.62058763377198", "location_description": "RESTAURANT", "x_coordinate": "1178938", "updated_on": {"$date": 1369701613000}, "fbi_code": "05", "block": "115XX S MICHIGAN AVE"}
+{
+    "y_coordinate": "1828427", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288541", 
+    "id": "9144025", 
+    "primary_type": "BURGLARY", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62058763377198, 
+            41.6844943204821
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.6844943204821", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0532", 
+    "date": {
+        "$date": 1369348200000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1b0"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.62058763377198", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1178938", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "05", 
+    "block": "115XX S MICHIGAN AVE"
+}

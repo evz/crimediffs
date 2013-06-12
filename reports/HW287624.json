@@ -1,1 +1,38 @@
-{"y_coordinate": "1912604", "year": "2013", "domestic": false, "case_number": "HW287624", "id": "9142760", "primary_type": "BATTERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72178204997283, 41.91608313515611]}, "community_area": "22", "latitude": "41.91608313515611", "type": null, "description": "SIMPLE", "beat": "2535", "date": {"$date": 1369316700000}, "ward": "26", "_id": {"$oid": "51aa13973c002ed20d78b31c"}, "iucr": "460", "longitude": "-87.72178204997283", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1150696", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "019XX N HAMLIN AVE"}
+{
+    "y_coordinate": "1912604", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287624", 
+    "id": "9142760", 
+    "primary_type": "BATTERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72178204997283, 
+            41.91608313515611
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.91608313515611", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2535", 
+    "date": {
+        "$date": 1369316700000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b31c"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.72178204997283", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1150696", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "019XX N HAMLIN AVE"
+}

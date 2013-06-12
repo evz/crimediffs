@@ -1,1 +1,38 @@
-{"y_coordinate": "1873404", "year": "2013", "domestic": false, "case_number": "HW289644", "id": "9144610", "primary_type": "PROSTITUTION", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.69895080079277, 41.80838444466419]}, "community_area": "58", "latitude": "41.80838444466419", "type": "quality", "description": "SOLICIT FOR BUSINESS", "beat": "0922", "date": {"$date": 1369429800000}, "ward": "14", "_id": {"$oid": "51aa138d3c002ed20d78ae91"}, "iucr": "1513", "longitude": "-87.69895080079277", "location_description": "STREET", "x_coordinate": "1157200", "updated_on": {"$date": 1369787985000}, "fbi_code": "16", "block": "046XX S SACRAMENTO AVE"}
+{
+    "y_coordinate": "1873404", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289644", 
+    "id": "9144610", 
+    "primary_type": "PROSTITUTION", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69895080079277, 
+            41.80838444466419
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.80838444466419", 
+    "type": "quality", 
+    "description": "SOLICIT FOR BUSINESS", 
+    "beat": "0922", 
+    "date": {
+        "$date": 1369429800000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78ae91"
+    }, 
+    "iucr": "1513", 
+    "longitude": "-87.69895080079277", 
+    "location_description": "STREET", 
+    "x_coordinate": "1157200", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "16", 
+    "block": "046XX S SACRAMENTO AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1938953", "year": "2013", "domestic": false, "case_number": "HW287596", "id": "9142748", "primary_type": "BATTERY", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65546968570243, 41.98801801866026]}, "community_area": "77", "latitude": "41.98801801866026", "type": null, "description": "SIMPLE", "beat": "2022", "date": {"$date": 1369186200000}, "ward": "48", "_id": {"$oid": "51a61f063c002ed20d78a696"}, "iucr": "460", "longitude": "-87.65546968570243", "location_description": "SIDEWALK", "x_coordinate": "1168537", "updated_on": {"$date": 1369874559000}, "fbi_code": "08B", "block": "058XX N SHERIDAN RD"}
+{
+    "y_coordinate": "1938953", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287596", 
+    "id": "9142748", 
+    "primary_type": "BATTERY", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65546968570243, 
+            41.98801801866026
+        ]
+    }, 
+    "community_area": "77", 
+    "latitude": "41.98801801866026", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2022", 
+    "date": {
+        "$date": 1369186200000
+    }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51a61f063c002ed20d78a696"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.65546968570243", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1168537", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "08B", 
+    "block": "058XX N SHERIDAN RD"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1914658", "year": "2013", "domestic": true, "case_number": "HW287150", "id": "9142339", "primary_type": "BATTERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7277651009822, 41.92175149376353]}, "community_area": "20", "latitude": "41.92175149376353", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "2525", "date": {"$date": 1369295580000}, "ward": "31", "_id": {"$oid": "51aa13983c002ed20d78b40d"}, "iucr": "486", "longitude": "-87.7277651009822", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1149053", "updated_on": {"$date": 1369528777000}, "fbi_code": "08B", "block": "022XX N KEYSTONE AVE"}
+{
+    "y_coordinate": "1914658", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW287150", 
+    "id": "9142339", 
+    "primary_type": "BATTERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7277651009822, 
+            41.92175149376353
+        ]
+    }, 
+    "community_area": "20", 
+    "latitude": "41.92175149376353", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "2525", 
+    "date": {
+        "$date": 1369295580000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b40d"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.7277651009822", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1149053", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "08B", 
+    "block": "022XX N KEYSTONE AVE"
+}

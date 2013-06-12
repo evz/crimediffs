@@ -1,1 +1,38 @@
-{"y_coordinate": "1910335", "year": "2013", "domestic": false, "case_number": "HW297148", "id": "9151761", "primary_type": "DECEPTIVE PRACTICE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73245824087748, 41.90991283333355]}, "community_area": "23", "latitude": "41.90991283333355", "type": null, "description": "COUNTERFEIT CHECK", "beat": "2534", "date": {"$date": 1369074600000}, "ward": "30", "_id": {"$oid": "51aa139d3c002ed20d78b457"}, "iucr": "1122", "longitude": "-87.73245824087748", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1147806", "updated_on": {"$date": 1370133629000}, "fbi_code": "10", "block": "042XX W NORTH AVE"}
+{
+    "y_coordinate": "1910335", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW297148", 
+    "id": "9151761", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73245824087748, 
+            41.90991283333355
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.90991283333355", 
+    "type": null, 
+    "description": "COUNTERFEIT CHECK", 
+    "beat": "2534", 
+    "date": {
+        "$date": 1369074600000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51aa139d3c002ed20d78b457"
+    }, 
+    "iucr": "1122", 
+    "longitude": "-87.73245824087748", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1147806", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "10", 
+    "block": "042XX W NORTH AVE"
+}

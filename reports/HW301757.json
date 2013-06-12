@@ -1,1 +1,38 @@
-{"y_coordinate": "1901409", "year": "2013", "domestic": false, "case_number": "HW301757", "id": "9155974", "primary_type": "ROBBERY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75498559558787, 41.8855334008757]}, "community_area": "25", "latitude": "41.8855334008757", "type": "violent", "description": "ATTEMPT: ARMED-HANDGUN", "beat": "1532", "date": {"$date": 1370209800000}, "ward": "28", "_id": {"$oid": "51b5f1163c002ed20d78cc35"}, "iucr": "033A", "longitude": "-87.75498559558787", "location_description": "STREET", "x_coordinate": "1141734", "updated_on": {"$date": 1370738354000}, "fbi_code": "03", "block": "051XX W FULTON ST"}
+{
+    "y_coordinate": "1901409", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301757", 
+    "id": "9155974", 
+    "primary_type": "ROBBERY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75498559558787, 
+            41.8855334008757
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.8855334008757", 
+    "type": "violent", 
+    "description": "ATTEMPT: ARMED-HANDGUN", 
+    "beat": "1532", 
+    "date": {
+        "$date": 1370209800000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f1163c002ed20d78cc35"
+    }, 
+    "iucr": "033A", 
+    "longitude": "-87.75498559558787", 
+    "location_description": "STREET", 
+    "x_coordinate": "1141734", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "03", 
+    "block": "051XX W FULTON ST"
+}

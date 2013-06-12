@@ -1,1 +1,38 @@
-{"y_coordinate": "1930201", "year": "2013", "domestic": false, "case_number": "HW301440", "id": "9155704", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65462499139221, 41.96399579656196]}, "community_area": "3", "latitude": "41.96399579656196", "type": "property", "description": "$500 AND UNDER", "beat": "1914", "date": {"$date": 1370192520000}, "ward": "46", "_id": {"$oid": "51b5f1193c002ed20d78cd00"}, "iucr": "820", "longitude": "-87.65462499139221", "location_description": "COIN OPERATED MACHINE", "x_coordinate": "1168836", "updated_on": {"$date": 1370565766000}, "fbi_code": "06", "block": "045XX N SHERIDAN RD"}
+{
+    "y_coordinate": "1930201", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301440", 
+    "id": "9155704", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65462499139221, 
+            41.96399579656196
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.96399579656196", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1914", 
+    "date": {
+        "$date": 1370192520000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78cd00"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.65462499139221", 
+    "location_description": "COIN OPERATED MACHINE", 
+    "x_coordinate": "1168836", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "06", 
+    "block": "045XX N SHERIDAN RD"
+}

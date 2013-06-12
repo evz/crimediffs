@@ -1,1 +1,38 @@
-{"y_coordinate": "1903694", "year": "2013", "domestic": false, "case_number": "HW284129", "id": "9138937", "primary_type": "ROBBERY", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62297120949327, 41.89106325724902]}, "community_area": "8", "latitude": "41.89106325724902", "type": "violent", "description": "AGGRAVATED", "beat": "1834", "date": {"$date": 1369069200000}, "ward": "42", "_id": {"$oid": "51a4cd903c002ed20d78a488"}, "iucr": "330", "longitude": "-87.62297120949327", "location_description": "SIDEWALK", "x_coordinate": "1177665", "updated_on": {"$date": 1370651988000}, "fbi_code": "03", "block": "001XX E ILLINOIS ST"}
+{
+    "y_coordinate": "1903694", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284129", 
+    "id": "9138937", 
+    "primary_type": "ROBBERY", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62297120949327, 
+            41.89106325724902
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89106325724902", 
+    "type": "violent", 
+    "description": "AGGRAVATED", 
+    "beat": "1834", 
+    "date": {
+        "$date": 1369069200000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a488"
+    }, 
+    "iucr": "330", 
+    "longitude": "-87.62297120949327", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1177665", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "03", 
+    "block": "001XX E ILLINOIS ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1894052", "year": "2013", "domestic": false, "case_number": "HW284356", "id": "9139026", "primary_type": "THEFT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72023368294266, 41.86516367373967]}, "community_area": "29", "latitude": "41.86516367373967", "type": "property", "description": "FINANCIAL ID THEFT: OVER $300", "beat": "1011", "date": {"$date": 1369134000000}, "ward": "24", "_id": {"$oid": "51a61f0e3c002ed20d78a92b"}, "iucr": "840", "longitude": "-87.72023368294266", "location_description": "RESIDENCE", "x_coordinate": "1151250", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "012XX S INDEPENDENCE BLVD"}
+{
+    "y_coordinate": "1894052", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284356", 
+    "id": "9139026", 
+    "primary_type": "THEFT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72023368294266, 
+            41.86516367373967
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.86516367373967", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "1011", 
+    "date": {
+        "$date": 1369134000000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a92b"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.72023368294266", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1151250", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "012XX S INDEPENDENCE BLVD"
+}

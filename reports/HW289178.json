@@ -1,1 +1,38 @@
-{"y_coordinate": "1906154", "year": "2013", "domestic": false, "case_number": "HW289178", "id": "9144141", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72114290030372, 41.89837940952382]}, "community_area": "23", "latitude": "41.89837940952382", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "1112", "date": {"$date": 1369409700000}, "ward": "27", "_id": {"$oid": "51aa13903c002ed20d78afb0"}, "iucr": "2024", "longitude": "-87.72114290030372", "location_description": "VACANT LOT/LAND", "x_coordinate": "1150916", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "009XX N HAMLIN AVE"}
+{
+    "y_coordinate": "1906154", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289178", 
+    "id": "9144141", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72114290030372, 
+            41.89837940952382
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.89837940952382", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "1112", 
+    "date": {
+        "$date": 1369409700000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78afb0"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.72114290030372", 
+    "location_description": "VACANT LOT/LAND", 
+    "x_coordinate": "1150916", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "009XX N HAMLIN AVE"
+}

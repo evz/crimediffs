@@ -1,1 +1,38 @@
-{"y_coordinate": "1894020", "year": "2013", "domestic": true, "case_number": "HW289970", "id": "9144803", "primary_type": "ASSAULT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70326330838519, 41.86498400927876]}, "community_area": "29", "latitude": "41.86498400927876", "type": null, "description": "SIMPLE", "beat": "1022", "date": {"$date": 1369450800000}, "ward": "24", "_id": {"$oid": "51aa13893c002ed20d78ada6"}, "iucr": "560", "longitude": "-87.70326330838519", "location_description": "ALLEY", "x_coordinate": "1155873", "updated_on": {"$date": 1370738354000}, "fbi_code": "08A", "block": "012XX S ALBANY AVE"}
+{
+    "y_coordinate": "1894020", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289970", 
+    "id": "9144803", 
+    "primary_type": "ASSAULT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70326330838519, 
+            41.86498400927876
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.86498400927876", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1022", 
+    "date": {
+        "$date": 1369450800000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa13893c002ed20d78ada6"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.70326330838519", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1155873", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "08A", 
+    "block": "012XX S ALBANY AVE"
+}

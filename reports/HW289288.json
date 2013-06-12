@@ -1,1 +1,38 @@
-{"y_coordinate": "1877067", "year": "2013", "domestic": false, "case_number": "HW289288", "id": "9144460", "primary_type": "CRIMINAL DAMAGE", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69740260048515, 41.81842817713728]}, "community_area": "58", "latitude": "41.81842817713728", "type": "quality", "description": "TO VEHICLE", "beat": "0921", "date": {"$date": 1369413000000}, "ward": "14", "_id": {"$oid": "51aa13903c002ed20d78af82"}, "iucr": "1320", "longitude": "-87.69740260048515", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1157595", "updated_on": {"$date": 1369615194000}, "fbi_code": "14", "block": "041XX S ARCHER AVE"}
+{
+    "y_coordinate": "1877067", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289288", 
+    "id": "9144460", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69740260048515, 
+            41.81842817713728
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.81842817713728", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0921", 
+    "date": {
+        "$date": 1369413000000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78af82"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.69740260048515", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1157595", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "14", 
+    "block": "041XX S ARCHER AVE"
+}

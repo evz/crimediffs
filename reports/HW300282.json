@@ -1,1 +1,38 @@
-{"y_coordinate": "1861022", "year": "2013", "domestic": true, "case_number": "HW300282", "id": "9154757", "primary_type": "BATTERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75426668737545, 41.77469678245057]}, "community_area": "64", "latitude": "41.77469678245057", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0813", "date": {"$date": 1370109000000}, "ward": "13", "_id": {"$oid": "51b5f11f3c002ed20d78d00d"}, "iucr": "486", "longitude": "-87.75426668737545", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1142202", "updated_on": {"$date": 1370651988000}, "fbi_code": "08B", "block": "064XX S LOCKWOOD AVE"}
+{
+    "y_coordinate": "1861022", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300282", 
+    "id": "9154757", 
+    "primary_type": "BATTERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75426668737545, 
+            41.77469678245057
+        ]
+    }, 
+    "community_area": "64", 
+    "latitude": "41.77469678245057", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0813", 
+    "date": {
+        "$date": 1370109000000
+    }, 
+    "ward": "13", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d00d"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.75426668737545", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1142202", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "08B", 
+    "block": "064XX S LOCKWOOD AVE"
+}

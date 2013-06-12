@@ -1,1 +1,33 @@
-{"community_area": "41", "_id": {"$oid": "51b5f11f3c002ed20d78cfce"}, "primary_type": "THEFT", "beat": "0331", "year": "2013", "domestic": false, "iucr": "810", "arrest": false, "location_description": "BOAT/WATERCRAFT", "location": {"type": "Point", "coordinates": [-87.58010946978932, 41.7913436966415]}, "case_number": "HW300974", "date": {"$date": 1370114100000}, "updated_on": {"$date": 1370911182000}, "ward": "5", "fbi_code": "06", "type": "property", "id": "9155694", "block": "057XX S LAKE SHORE DR", "description": "OVER $500"}
+{
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cfce"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "0331", 
+    "case_number": "HW300974", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "BOAT/WATERCRAFT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58010946978932, 
+            41.7913436966415
+        ]
+    }, 
+    "community_area": "41", 
+    "date": {
+        "$date": 1370114100000
+    }, 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "ward": "5", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9155694", 
+    "block": "057XX S LAKE SHORE DR", 
+    "description": "OVER $500"
+}

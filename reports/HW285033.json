@@ -1,1 +1,38 @@
-{"y_coordinate": "1862808", "year": "2013", "domestic": false, "case_number": "HW285033", "id": "9139893", "primary_type": "BATTERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67591357185958, 41.77917644851912]}, "community_area": "67", "latitude": "41.77917644851912", "type": null, "description": "SIMPLE", "beat": "0726", "date": {"$date": 1369163580000}, "ward": "15", "_id": {"$oid": "51a61f0a3c002ed20d78a794"}, "iucr": "460", "longitude": "-87.67591357185958", "location_description": "CONVENIENCE STORE", "x_coordinate": "1163562", "updated_on": {"$date": 1369528777000}, "fbi_code": "08B", "block": "020XX W 63RD ST"}
+{
+    "y_coordinate": "1862808", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285033", 
+    "id": "9139893", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67591357185958, 
+            41.77917644851912
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.77917644851912", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0726", 
+    "date": {
+        "$date": 1369163580000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a794"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.67591357185958", 
+    "location_description": "CONVENIENCE STORE", 
+    "x_coordinate": "1163562", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "08B", 
+    "block": "020XX W 63RD ST"
+}

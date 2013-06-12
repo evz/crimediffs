@@ -1,1 +1,38 @@
-{"y_coordinate": "1855625", "year": "2013", "domestic": true, "case_number": "HW302259", "id": "9156822", "primary_type": "CRIMINAL TRESPASS", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64804841004579, 41.759301329410675]}, "community_area": "68", "latitude": "41.759301329410675", "type": null, "description": "TO RESIDENCE", "beat": "0733", "date": {"$date": 1370256300000}, "ward": "17", "_id": {"$oid": "51b7429d3c002ed20d78d478"}, "iucr": "1365", "longitude": "-87.64804841004579", "location_description": "RESIDENCE", "x_coordinate": "1171220", "updated_on": {"$date": 1370479286000}, "fbi_code": "26", "block": "074XX S SANGAMON ST"}
+{
+    "y_coordinate": "1855625", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW302259", 
+    "id": "9156822", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64804841004579, 
+            41.759301329410675
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.759301329410675", 
+    "type": null, 
+    "description": "TO RESIDENCE", 
+    "beat": "0733", 
+    "date": {
+        "$date": 1370256300000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51b7429d3c002ed20d78d478"
+    }, 
+    "iucr": "1365", 
+    "longitude": "-87.64804841004579", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1171220", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "26", 
+    "block": "074XX S SANGAMON ST"
+}

@@ -1,1 +1,33 @@
-{"community_area": "66", "_id": {"$oid": "51b34a213c002ed20d78cb89"}, "primary_type": "THEFT", "beat": "0832", "year": "2013", "domestic": false, "iucr": "820", "arrest": false, "location_description": "STREET", "location": {"type": "Point", "coordinates": [-87.685744, 41.7664834]}, "case_number": "HW308657", "date": {"$date": 1369130400000}, "updated_on": {"$date": 1370651988000}, "ward": "18", "fbi_code": "06", "type": "property", "id": "9164136", "block": "025XX W 70TH ST", "description": "$500 AND UNDER"}
+{
+    "_id": {
+        "$oid": "51b34a213c002ed20d78cb89"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "0832", 
+    "case_number": "HW308657", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.685744, 
+            41.7664834
+        ]
+    }, 
+    "community_area": "66", 
+    "date": {
+        "$date": 1369130400000
+    }, 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "ward": "18", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9164136", 
+    "block": "025XX W 70TH ST", 
+    "description": "$500 AND UNDER"
+}

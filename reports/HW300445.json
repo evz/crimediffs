@@ -1,1 +1,33 @@
-{"community_area": "30", "_id": {"$oid": "51b5f11e3c002ed20d78cfa1"}, "primary_type": "BATTERY", "beat": "1033", "year": "2013", "domestic": false, "iucr": "430", "arrest": false, "location_description": "RESIDENCE", "location": {"type": "Point", "coordinates": [-87.70251934558048, 41.84729592185117]}, "case_number": "HW300445", "date": {"$date": 1370118600000}, "updated_on": {"$date": 1370738354000}, "ward": "12", "fbi_code": "04B", "type": "violent", "id": "9155543", "block": "024XX S ALBANY AVE", "description": "AGGRAVATED: OTHER DANG WEAPON"}
+{
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cfa1"
+    }, 
+    "primary_type": "BATTERY", 
+    "year": "2013", 
+    "beat": "1033", 
+    "case_number": "HW300445", 
+    "domestic": false, 
+    "iucr": "430", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70251934558048, 
+            41.84729592185117
+        ]
+    }, 
+    "community_area": "30", 
+    "date": {
+        "$date": 1370118600000
+    }, 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "ward": "12", 
+    "fbi_code": "04B", 
+    "type": "violent", 
+    "id": "9155543", 
+    "block": "024XX S ALBANY AVE", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON"
+}

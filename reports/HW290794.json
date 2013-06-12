@@ -1,1 +1,38 @@
-{"y_coordinate": "1901806", "year": "2013", "domestic": false, "case_number": "HW290794", "id": "9145355", "primary_type": "NARCOTICS", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.76161897349623, 41.88665608239125]}, "community_area": "25", "latitude": "41.88665608239125", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "1523", "date": {"$date": 1369508400000}, "ward": "28", "_id": {"$oid": "51b34a0f3c002ed20d78c96a"}, "iucr": "2024", "longitude": "-87.76161897349623", "location_description": "ALLEY", "x_coordinate": "1139925", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "003XX N LOTUS AVE"}
+{
+    "y_coordinate": "1901806", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290794", 
+    "id": "9145355", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76161897349623, 
+            41.88665608239125
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.88665608239125", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "1523", 
+    "date": {
+        "$date": 1369508400000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c96a"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.76161897349623", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1139925", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "003XX N LOTUS AVE"
+}

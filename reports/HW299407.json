@@ -1,1 +1,38 @@
-{"y_coordinate": "1899896", "year": "2013", "domestic": false, "case_number": "HW299407", "id": "9164358", "primary_type": "MOTOR VEHICLE THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70359329739235, 41.88111103701227]}, "community_area": "27", "latitude": "41.88111103701227", "type": "property", "description": "AUTOMOBILE", "beat": "1222", "date": {"$date": 1370041200000}, "ward": "2", "_id": {"$oid": "51b5f1223c002ed20d78d1ab"}, "iucr": "910", "longitude": "-87.70359329739235", "location_description": "STREET", "x_coordinate": "1155740", "updated_on": {"$date": 1370824784000}, "fbi_code": "07", "block": "030XX W MADISON ST"}
+{
+    "y_coordinate": "1899896", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299407", 
+    "id": "9164358", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70359329739235, 
+            41.88111103701227
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.88111103701227", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1222", 
+    "date": {
+        "$date": 1370041200000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b5f1223c002ed20d78d1ab"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.70359329739235", 
+    "location_description": "STREET", 
+    "x_coordinate": "1155740", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "07", 
+    "block": "030XX W MADISON ST"
+}

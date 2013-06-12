@@ -1,1 +1,38 @@
-{"y_coordinate": "1859693", "year": "2013", "domestic": false, "case_number": "HW286579", "id": "9141393", "primary_type": "DECEPTIVE PRACTICE", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60710245971985, 41.77021360258775]}, "community_area": "42", "latitude": "41.77021360258775", "type": null, "description": "ILLEGAL USE CASH CARD", "beat": "0321", "date": {"$date": 1369180860000}, "ward": "6", "_id": {"$oid": "51a61f073c002ed20d78a6c2"}, "iucr": "1152", "longitude": "-87.60710245971985", "location_description": "APARTMENT", "x_coordinate": "1182358", "updated_on": {"$date": 1369442383000}, "fbi_code": "11", "block": "068XX S EVANS AVE"}
+{
+    "y_coordinate": "1859693", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286579", 
+    "id": "9141393", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60710245971985, 
+            41.77021360258775
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.77021360258775", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "0321", 
+    "date": {
+        "$date": 1369180860000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a61f073c002ed20d78a6c2"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.60710245971985", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1182358", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "11", 
+    "block": "068XX S EVANS AVE"
+}

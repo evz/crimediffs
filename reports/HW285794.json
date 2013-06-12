@@ -1,1 +1,38 @@
-{"y_coordinate": "1923270", "year": "2013", "domestic": false, "case_number": "HW285794", "id": "9141042", "primary_type": "OTHER OFFENSE", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64926927663828, 41.94494389672206]}, "community_area": "6", "latitude": "41.94494389672206", "type": null, "description": "TELEPHONE THREAT", "beat": "1925", "date": {"$date": 1369187220000}, "ward": "44", "_id": {"$oid": "51a61f053c002ed20d78a693"}, "iucr": "2820", "longitude": "-87.64926927663828", "location_description": "APARTMENT", "x_coordinate": "1170348", "updated_on": {"$date": 1370133629000}, "fbi_code": "26", "block": "034XX N HALSTED ST"}
+{
+    "y_coordinate": "1923270", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285794", 
+    "id": "9141042", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64926927663828, 
+            41.94494389672206
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.94494389672206", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "1925", 
+    "date": {
+        "$date": 1369187220000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51a61f053c002ed20d78a693"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.64926927663828", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1170348", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "26", 
+    "block": "034XX N HALSTED ST"
+}

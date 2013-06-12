@@ -1,1 +1,38 @@
-{"y_coordinate": "1884691", "year": "2013", "domestic": true, "case_number": "HW285437", "id": "9140065", "primary_type": "BATTERY", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72305132347871, 41.8394896464736]}, "community_area": "30", "latitude": "41.8394896464736", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1031", "date": {"$date": 1369187100000}, "ward": "22", "_id": {"$oid": "51a61f053c002ed20d78a694"}, "iucr": "486", "longitude": "-87.72305132347871", "location_description": "APARTMENT", "x_coordinate": "1150549", "updated_on": {"$date": 1369874559000}, "fbi_code": "08B", "block": "028XX S HARDING AVE"}
+{
+    "y_coordinate": "1884691", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285437", 
+    "id": "9140065", 
+    "primary_type": "BATTERY", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72305132347871, 
+            41.8394896464736
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.8394896464736", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1031", 
+    "date": {
+        "$date": 1369187100000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51a61f053c002ed20d78a694"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.72305132347871", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1150549", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "08B", 
+    "block": "028XX S HARDING AVE"
+}

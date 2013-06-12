@@ -1,1 +1,38 @@
-{"y_coordinate": "1921391", "year": "2013", "domestic": false, "case_number": "HW289232", "id": "9146146", "primary_type": "ROBBERY", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65320180794514, 41.93981087980089]}, "community_area": "6", "latitude": "41.93981087980089", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "1933", "date": {"$date": 1369411200000}, "ward": "44", "_id": {"$oid": "51aa13903c002ed20d78af9b"}, "iucr": "320", "longitude": "-87.65320180794514", "location_description": "ALLEY", "x_coordinate": "1169293", "updated_on": {"$date": 1369787985000}, "fbi_code": "03", "block": "009XX W BELMONT AVE"}
+{
+    "y_coordinate": "1921391", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289232", 
+    "id": "9146146", 
+    "primary_type": "ROBBERY", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65320180794514, 
+            41.93981087980089
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.93981087980089", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "1933", 
+    "date": {
+        "$date": 1369411200000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78af9b"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.65320180794514", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1169293", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "03", 
+    "block": "009XX W BELMONT AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1909978", "year": "2013", "domestic": false, "case_number": "HW310130", "id": "9164894", "primary_type": "DECEPTIVE PRACTICE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7752683999114, 41.90914917697134]}, "community_area": "25", "latitude": "41.90914917697134", "type": null, "description": "BOGUS CHECK", "beat": "2531", "date": {"$date": 1369986000000}, "ward": "29", "_id": {"$oid": "51b5f1233c002ed20d78d1af"}, "iucr": "1110", "longitude": "-87.7752683999114", "location_description": "OTHER", "x_coordinate": "1136155", "updated_on": {"$date": 1370824784000}, "fbi_code": "11", "block": "059XX W NORTH AVE"}
+{
+    "y_coordinate": "1909978", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW310130", 
+    "id": "9164894", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7752683999114, 
+            41.90914917697134
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.90914917697134", 
+    "type": null, 
+    "description": "BOGUS CHECK", 
+    "beat": "2531", 
+    "date": {
+        "$date": 1369986000000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51b5f1233c002ed20d78d1af"
+    }, 
+    "iucr": "1110", 
+    "longitude": "-87.7752683999114", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1136155", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "11", 
+    "block": "059XX W NORTH AVE"
+}

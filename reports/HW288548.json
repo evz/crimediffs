@@ -1,1 +1,38 @@
-{"y_coordinate": "1911574", "year": "2013", "domestic": false, "case_number": "HW288548", "id": "9144930", "primary_type": "THEFT", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68337018067812, 41.913045575064444]}, "community_area": "24", "latitude": "41.913045575064444", "type": "property", "description": "$500 AND UNDER", "beat": "1434", "date": {"$date": 1369342800000}, "ward": "1", "_id": {"$oid": "51aa13953c002ed20d78b1e6"}, "iucr": "820", "longitude": "-87.68337018067812", "location_description": "STREET", "x_coordinate": "1161159", "updated_on": {"$date": 1369874559000}, "fbi_code": "06", "block": "017XX N WINNEBAGO AVE"}
+{
+    "y_coordinate": "1911574", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288548", 
+    "id": "9144930", 
+    "primary_type": "THEFT", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68337018067812, 
+            41.913045575064444
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.913045575064444", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1434", 
+    "date": {
+        "$date": 1369342800000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b1e6"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.68337018067812", 
+    "location_description": "STREET", 
+    "x_coordinate": "1161159", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "06", 
+    "block": "017XX N WINNEBAGO AVE"
+}

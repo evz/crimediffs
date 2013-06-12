@@ -1,1 +1,38 @@
-{"y_coordinate": "1879243", "year": "2013", "domestic": true, "case_number": "HW283986", "id": "9138493", "primary_type": "OTHER OFFENSE", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70816254860523, 41.8244587862127]}, "community_area": "58", "latitude": "41.8244587862127", "type": null, "description": "VIOLATE ORDER OF PROTECTION", "beat": "0911", "date": {"$date": 1369120200000}, "ward": "12", "_id": {"$oid": "51a61f103c002ed20d78a9b4"}, "iucr": "4387", "longitude": "-87.70816254860523", "location_description": "APARTMENT", "x_coordinate": "1154646", "updated_on": {"$date": 1369269615000}, "fbi_code": "26", "block": "033XX W 38TH ST"}
+{
+    "y_coordinate": "1879243", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283986", 
+    "id": "9138493", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70816254860523, 
+            41.8244587862127
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.8244587862127", 
+    "type": null, 
+    "description": "VIOLATE ORDER OF PROTECTION", 
+    "beat": "0911", 
+    "date": {
+        "$date": 1369120200000
+    }, 
+    "ward": "12", 
+    "_id": {
+        "$oid": "51a61f103c002ed20d78a9b4"
+    }, 
+    "iucr": "4387", 
+    "longitude": "-87.70816254860523", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1154646", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "26", 
+    "block": "033XX W 38TH ST"
+}

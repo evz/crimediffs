@@ -1,1 +1,38 @@
-{"y_coordinate": "1906498", "year": "2013", "domestic": false, "case_number": "HW291158", "id": "9145667", "primary_type": "BATTERY", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62840264649934, 41.89879156462649]}, "community_area": "8", "latitude": "41.89879156462649", "type": null, "description": "SIMPLE", "beat": "1832", "date": {"$date": 1369535400000}, "ward": "42", "_id": {"$oid": "51b34a0c3c002ed20d78c84a"}, "iucr": "460", "longitude": "-87.62840264649934", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1176163", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "008XX N STATE ST"}
+{
+    "y_coordinate": "1906498", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291158", 
+    "id": "9145667", 
+    "primary_type": "BATTERY", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62840264649934, 
+            41.89879156462649
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89879156462649", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1832", 
+    "date": {
+        "$date": 1369535400000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b34a0c3c002ed20d78c84a"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.62840264649934", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1176163", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "008XX N STATE ST"
+}

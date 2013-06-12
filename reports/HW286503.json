@@ -1,1 +1,38 @@
-{"y_coordinate": "1863864", "year": "2013", "domestic": false, "case_number": "HW286503", "id": "9141418", "primary_type": "BATTERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67169708537433, 41.782050215462505]}, "community_area": "67", "latitude": "41.782050215462505", "type": null, "description": "SIMPLE", "beat": "0714", "date": {"$date": 1369236300000}, "ward": "15", "_id": {"$oid": "51a7708b3c002ed20d78abce"}, "iucr": "460", "longitude": "-87.67169708537433", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1164704", "updated_on": {"$date": 1370133629000}, "fbi_code": "08B", "block": "061XX S WOLCOTT AVE"}
+{
+    "y_coordinate": "1863864", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286503", 
+    "id": "9141418", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67169708537433, 
+            41.782050215462505
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.782050215462505", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0714", 
+    "date": {
+        "$date": 1369236300000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78abce"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.67169708537433", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1164704", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "08B", 
+    "block": "061XX S WOLCOTT AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1905265", "year": "2013", "domestic": false, "case_number": "HW293411", "id": "9147741", "primary_type": "BURGLARY", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63621500430902, 41.89545561538155]}, "community_area": "8", "latitude": "41.89545561538155", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1831", "date": {"$date": 1369479600000}, "ward": "42", "_id": {"$oid": "51b34a113c002ed20d78cabd"}, "iucr": "610", "longitude": "-87.63621500430902", "location_description": "COMMERCIAL / BUSINESS OFFICE", "x_coordinate": "1174046", "updated_on": {"$date": 1369874559000}, "fbi_code": "05", "block": "003XX W SUPERIOR ST"}
+{
+    "y_coordinate": "1905265", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293411", 
+    "id": "9147741", 
+    "primary_type": "BURGLARY", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63621500430902, 
+            41.89545561538155
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89545561538155", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1831", 
+    "date": {
+        "$date": 1369479600000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78cabd"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.63621500430902", 
+    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
+    "x_coordinate": "1174046", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "05", 
+    "block": "003XX W SUPERIOR ST"
+}

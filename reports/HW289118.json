@@ -1,1 +1,38 @@
-{"y_coordinate": "1886465", "year": "2013", "domestic": false, "case_number": "HW289118", "id": "9144263", "primary_type": "DECEPTIVE PRACTICE", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72427116719348, 41.844364450680686]}, "community_area": "30", "latitude": "41.844364450680686", "type": null, "description": "FRAUD OR CONFIDENCE GAME", "beat": "1013", "date": {"$date": 1369405500000}, "ward": "22", "_id": {"$oid": "51aa13913c002ed20d78aff2"}, "iucr": "1130", "longitude": "-87.72427116719348", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1150204", "updated_on": {"$date": 1369701613000}, "fbi_code": "11", "block": "039XX W 26TH ST"}
+{
+    "y_coordinate": "1886465", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289118", 
+    "id": "9144263", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72427116719348, 
+            41.844364450680686
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.844364450680686", 
+    "type": null, 
+    "description": "FRAUD OR CONFIDENCE GAME", 
+    "beat": "1013", 
+    "date": {
+        "$date": 1369405500000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78aff2"
+    }, 
+    "iucr": "1130", 
+    "longitude": "-87.72427116719348", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1150204", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "11", 
+    "block": "039XX W 26TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1899591", "year": "2013", "domestic": false, "case_number": "HW285334", "id": "9139977", "primary_type": "BATTERY", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70019031635184, 41.880255330617445]}, "community_area": "27", "latitude": "41.880255330617445", "type": "violent", "description": "AGGRAVATED:KNIFE/CUTTING INSTR", "beat": "1124", "date": {"$date": 1369177440000}, "ward": "2", "_id": {"$oid": "51a61f073c002ed20d78a6dd"}, "iucr": "420", "longitude": "-87.70019031635184", "location_description": "VACANT LOT/LAND", "x_coordinate": "1156669", "updated_on": {"$date": 1369356045000}, "fbi_code": "04B", "block": "029XX W MONROE ST"}
+{
+    "y_coordinate": "1899591", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285334", 
+    "id": "9139977", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70019031635184, 
+            41.880255330617445
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.880255330617445", 
+    "type": "violent", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
+    "beat": "1124", 
+    "date": {
+        "$date": 1369177440000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a61f073c002ed20d78a6dd"
+    }, 
+    "iucr": "420", 
+    "longitude": "-87.70019031635184", 
+    "location_description": "VACANT LOT/LAND", 
+    "x_coordinate": "1156669", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "04B", 
+    "block": "029XX W MONROE ST"
+}

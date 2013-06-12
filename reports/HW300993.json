@@ -1,1 +1,38 @@
-{"y_coordinate": "1852893", "year": "2013", "domestic": true, "case_number": "HW300993", "id": "9156398", "primary_type": "BATTERY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.5639475902825, 41.75127149894578]}, "community_area": "46", "latitude": "41.75127149894578", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0422", "date": {"$date": 1370169000000}, "ward": "7", "_id": {"$oid": "51b5f11b3c002ed20d78cdfd"}, "iucr": "486", "longitude": "-87.5639475902825", "location_description": "RESIDENCE", "x_coordinate": "1194192", "updated_on": {"$date": 1370479286000}, "fbi_code": "08B", "block": "079XX S ESSEX AVE"}
+{
+    "y_coordinate": "1852893", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300993", 
+    "id": "9156398", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5639475902825, 
+            41.75127149894578
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.75127149894578", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0422", 
+    "date": {
+        "$date": 1370169000000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cdfd"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.5639475902825", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1194192", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08B", 
+    "block": "079XX S ESSEX AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1859436", "year": "2013", "domestic": false, "case_number": "HW301030", "id": "9155348", "primary_type": "NARCOTICS", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68353351612868, 41.76996603379342]}, "community_area": "66", "latitude": "41.76996603379342", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0832", "date": {"$date": 1370171400000}, "ward": "17", "_id": {"$oid": "51b5f11b3c002ed20d78cde6"}, "iucr": "1811", "longitude": "-87.68353351612868", "location_description": "STREET", "x_coordinate": "1161509", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "068XX S WESTERN AVE"}
+{
+    "y_coordinate": "1859436", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301030", 
+    "id": "9155348", 
+    "primary_type": "NARCOTICS", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68353351612868, 
+            41.76996603379342
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.76996603379342", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0832", 
+    "date": {
+        "$date": 1370171400000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cde6"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.68353351612868", 
+    "location_description": "STREET", 
+    "x_coordinate": "1161509", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "068XX S WESTERN AVE"
+}

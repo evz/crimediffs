@@ -1,1 +1,38 @@
-{"y_coordinate": "1858887", "year": "2013", "domestic": false, "case_number": "HW290643", "id": "9145357", "primary_type": "ROBBERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63858055968178, 41.76819636909151]}, "community_area": "68", "latitude": "41.76819636909151", "type": "violent", "description": "AGGRAVATED", "beat": "0732", "date": {"$date": 1369498800000}, "ward": "6", "_id": {"$oid": "51b34a103c002ed20d78c9eb"}, "iucr": "330", "longitude": "-87.63858055968178", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1173777", "updated_on": {"$date": 1369701613000}, "fbi_code": "03", "block": "069XX S PARNELL AVE"}
+{
+    "y_coordinate": "1858887", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290643", 
+    "id": "9145357", 
+    "primary_type": "ROBBERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63858055968178, 
+            41.76819636909151
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.76819636909151", 
+    "type": "violent", 
+    "description": "AGGRAVATED", 
+    "beat": "0732", 
+    "date": {
+        "$date": 1369498800000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78c9eb"
+    }, 
+    "iucr": "330", 
+    "longitude": "-87.63858055968178", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1173777", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "03", 
+    "block": "069XX S PARNELL AVE"
+}

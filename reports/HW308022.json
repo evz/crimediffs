@@ -1,1 +1,38 @@
-{"y_coordinate": "1849901", "year": "2013", "domestic": false, "case_number": "HW308022", "id": "9163426", "primary_type": "THEFT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65947882041084, 41.74366053308651]}, "community_area": "71", "latitude": "41.74366053308651", "type": "property", "description": "$500 AND UNDER", "beat": "0614", "date": {"$date": 1370120400000}, "ward": "21", "_id": {"$oid": "51b5f11e3c002ed20d78cf88"}, "iucr": "820", "longitude": "-87.65947882041084", "location_description": "RESIDENCE", "x_coordinate": "1168146", "updated_on": {"$date": 1370824784000}, "fbi_code": "06", "block": "082XX S BISHOP ST"}
+{
+    "y_coordinate": "1849901", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW308022", 
+    "id": "9163426", 
+    "primary_type": "THEFT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65947882041084, 
+            41.74366053308651
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.74366053308651", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0614", 
+    "date": {
+        "$date": 1370120400000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf88"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.65947882041084", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1168146", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "06", 
+    "block": "082XX S BISHOP ST"
+}

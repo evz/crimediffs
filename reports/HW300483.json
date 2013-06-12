@@ -1,1 +1,38 @@
-{"y_coordinate": "1847565", "year": "2013", "domestic": true, "case_number": "HW300483", "id": "9154915", "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.55294448315105, 41.736575650443434]}, "community_area": "46", "latitude": "41.736575650443434", "type": null, "description": "RESIST/OBSTRUCT/DISARM OFFICER", "beat": "0423", "date": {"$date": 1370119380000}, "ward": "10", "_id": {"$oid": "51b5f11e3c002ed20d78cf9b"}, "iucr": "3710", "longitude": "-87.55294448315105", "location_description": "APARTMENT", "x_coordinate": "1197243", "updated_on": {"$date": 1370392932000}, "fbi_code": "24", "block": "087XX S EXCHANGE AVE"}
+{
+    "y_coordinate": "1847565", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300483", 
+    "id": "9154915", 
+    "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55294448315105, 
+            41.736575650443434
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.736575650443434", 
+    "type": null, 
+    "description": "RESIST/OBSTRUCT/DISARM OFFICER", 
+    "beat": "0423", 
+    "date": {
+        "$date": 1370119380000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf9b"
+    }, 
+    "iucr": "3710", 
+    "longitude": "-87.55294448315105", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1197243", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "24", 
+    "block": "087XX S EXCHANGE AVE"
+}

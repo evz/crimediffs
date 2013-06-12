@@ -1,1 +1,38 @@
-{"y_coordinate": "1925513", "year": "2013", "domestic": false, "case_number": "HW284597", "id": "9139392", "primary_type": "THEFT", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73882741877752, 41.95159783901638]}, "community_area": "16", "latitude": "41.95159783901638", "type": "property", "description": "OVER $500", "beat": "1731", "date": {"$date": 1369148760000}, "ward": "38", "_id": {"$oid": "51a61f0c3c002ed20d78a872"}, "iucr": "810", "longitude": "-87.73882741877752", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1145967", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "044XX W BYRON ST"}
+{
+    "y_coordinate": "1925513", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284597", 
+    "id": "9139392", 
+    "primary_type": "THEFT", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73882741877752, 
+            41.95159783901638
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.95159783901638", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1731", 
+    "date": {
+        "$date": 1369148760000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51a61f0c3c002ed20d78a872"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.73882741877752", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1145967", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "044XX W BYRON ST"
+}

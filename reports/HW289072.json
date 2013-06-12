@@ -1,1 +1,38 @@
-{"y_coordinate": "1855650", "year": "2013", "domestic": false, "case_number": "HW289072", "id": "9144093", "primary_type": "THEFT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65779650001126, 41.75942766670564]}, "community_area": "67", "latitude": "41.75942766670564", "type": "property", "description": "ATTEMPT THEFT", "beat": "0734", "date": {"$date": 1369377000000}, "ward": "17", "_id": {"$oid": "51aa13933c002ed20d78b127"}, "iucr": "850", "longitude": "-87.65779650001126", "location_description": "COMMERCIAL / BUSINESS OFFICE", "x_coordinate": "1168560", "updated_on": {"$date": 1369874559000}, "fbi_code": "06", "block": "013XX W 74TH ST"}
+{
+    "y_coordinate": "1855650", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289072", 
+    "id": "9144093", 
+    "primary_type": "THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65779650001126, 
+            41.75942766670564
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.75942766670564", 
+    "type": "property", 
+    "description": "ATTEMPT THEFT", 
+    "beat": "0734", 
+    "date": {
+        "$date": 1369377000000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b127"
+    }, 
+    "iucr": "850", 
+    "longitude": "-87.65779650001126", 
+    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
+    "x_coordinate": "1168560", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "06", 
+    "block": "013XX W 74TH ST"
+}

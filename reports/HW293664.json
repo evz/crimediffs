@@ -1,1 +1,38 @@
-{"y_coordinate": "1903868", "year": "2013", "domestic": false, "case_number": "HW293664", "id": "9147812", "primary_type": "DECEPTIVE PRACTICE", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61783178184761, 41.8915088472264]}, "community_area": "8", "latitude": "41.8915088472264", "type": null, "description": "CREDIT CARD FRAUD", "beat": "1834", "date": {"$date": 1369429200000}, "ward": "42", "_id": {"$oid": "51aa138d3c002ed20d78ae9b"}, "iucr": "1150", "longitude": "-87.61783178184761", "location_description": "RESIDENCE", "x_coordinate": "1179063", "updated_on": {"$date": 1369874559000}, "fbi_code": "11", "block": "005XX N MC CLURG CT"}
+{
+    "y_coordinate": "1903868", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293664", 
+    "id": "9147812", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61783178184761, 
+            41.8915088472264
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.8915088472264", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "1834", 
+    "date": {
+        "$date": 1369429200000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78ae9b"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.61783178184761", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1179063", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "11", 
+    "block": "005XX N MC CLURG CT"
+}

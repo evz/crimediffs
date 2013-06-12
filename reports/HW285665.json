@@ -1,1 +1,38 @@
-{"y_coordinate": "1939454", "year": "2013", "domestic": false, "case_number": "HW285665", "id": "9140733", "primary_type": "CRIMINAL DAMAGE", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.78075663719014, 41.99006430788266]}, "community_area": "10", "latitude": "41.99006430788266", "type": "quality", "description": "TO PROPERTY", "beat": "1622", "date": {"$date": 1369159200000}, "ward": "45", "_id": {"$oid": "51a61f0b3c002ed20d78a7d1"}, "iucr": "1310", "longitude": "-87.78075663719014", "location_description": "CTA BUS STOP", "x_coordinate": "1134471", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "059XX N MILWAUKEE AVE"}
+{
+    "y_coordinate": "1939454", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285665", 
+    "id": "9140733", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78075663719014, 
+            41.99006430788266
+        ]
+    }, 
+    "community_area": "10", 
+    "latitude": "41.99006430788266", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1622", 
+    "date": {
+        "$date": 1369159200000
+    }, 
+    "ward": "45", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a7d1"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.78075663719014", 
+    "location_description": "CTA BUS STOP", 
+    "x_coordinate": "1134471", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "059XX N MILWAUKEE AVE"
+}

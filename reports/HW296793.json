@@ -1,1 +1,38 @@
-{"y_coordinate": "1904211", "year": "2013", "domestic": false, "case_number": "HW296793", "id": "9151321", "primary_type": "DECEPTIVE PRACTICE", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62982682771079, 41.892524231809325]}, "community_area": "8", "latitude": "41.892524231809325", "type": null, "description": "ILLEGAL USE CASH CARD", "beat": "1832", "date": {"$date": 1369530000000}, "ward": "42", "_id": {"$oid": "51b34a0d3c002ed20d78c872"}, "iucr": "1152", "longitude": "-87.62982682771079", "location_description": "RESIDENCE", "x_coordinate": "1175794", "updated_on": {"$date": 1370133629000}, "fbi_code": "11", "block": "006XX N DEARBORN ST"}
+{
+    "y_coordinate": "1904211", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW296793", 
+    "id": "9151321", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62982682771079, 
+            41.892524231809325
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.892524231809325", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "1832", 
+    "date": {
+        "$date": 1369530000000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c872"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.62982682771079", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1175794", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "11", 
+    "block": "006XX N DEARBORN ST"
+}

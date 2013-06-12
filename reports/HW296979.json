@@ -1,1 +1,38 @@
-{"y_coordinate": "1891787", "year": "2013", "domestic": false, "case_number": "HW296979", "id": "9151799", "primary_type": "MOTOR VEHICLE THEFT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72532558505989, 41.85897500068117]}, "community_area": "29", "latitude": "41.85897500068117", "type": "property", "description": "AUTOMOBILE", "beat": "1012", "date": {"$date": 1369498200000}, "ward": "24", "_id": {"$oid": "51b34a103c002ed20d78c9ef"}, "iucr": "910", "longitude": "-87.72532558505989", "location_description": "STREET", "x_coordinate": "1149879", "updated_on": {"$date": 1370133629000}, "fbi_code": "07", "block": "040XX W 16TH ST"}
+{
+    "y_coordinate": "1891787", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW296979", 
+    "id": "9151799", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72532558505989, 
+            41.85897500068117
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85897500068117", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1012", 
+    "date": {
+        "$date": 1369498200000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78c9ef"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.72532558505989", 
+    "location_description": "STREET", 
+    "x_coordinate": "1149879", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "07", 
+    "block": "040XX W 16TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1856967", "year": "2013", "domestic": true, "case_number": "HW286821", "id": "9141741", "primary_type": "OTHER OFFENSE", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6114200384709, 41.76275986501]}, "community_area": "69", "latitude": "41.76275986501", "type": null, "description": "TELEPHONE THREAT", "beat": "0323", "date": {"$date": 1369254600000}, "ward": "6", "_id": {"$oid": "51a770893c002ed20d78aaea"}, "iucr": "2820", "longitude": "-87.6114200384709", "location_description": "RESIDENCE", "x_coordinate": "1181203", "updated_on": {"$date": 1369787985000}, "fbi_code": "26", "block": "072XX S RHODES AVE"}
+{
+    "y_coordinate": "1856967", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW286821", 
+    "id": "9141741", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6114200384709, 
+            41.76275986501
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.76275986501", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "0323", 
+    "date": {
+        "$date": 1369254600000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a770893c002ed20d78aaea"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.6114200384709", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1181203", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "26", 
+    "block": "072XX S RHODES AVE"
+}

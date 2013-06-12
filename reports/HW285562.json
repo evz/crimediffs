@@ -1,1 +1,38 @@
-{"y_coordinate": "1901077", "year": "2013", "domestic": false, "case_number": "HW285562", "id": "9140436", "primary_type": "CRIMINAL DAMAGE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66756000530889, 41.88414874325693]}, "community_area": "28", "latitude": "41.88414874325693", "type": "quality", "description": "TO PROPERTY", "beat": "1224", "date": {"$date": 1369207800000}, "ward": "27", "_id": {"$oid": "51a7708d3c002ed20d78ad11"}, "iucr": "1310", "longitude": "-87.66756000530889", "location_description": "RESIDENCE", "x_coordinate": "1165544", "updated_on": {"$date": 1369356045000}, "fbi_code": "14", "block": "016XX W MAYPOLE AVE"}
+{
+    "y_coordinate": "1901077", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285562", 
+    "id": "9140436", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66756000530889, 
+            41.88414874325693
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.88414874325693", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1224", 
+    "date": {
+        "$date": 1369207800000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad11"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.66756000530889", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1165544", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "14", 
+    "block": "016XX W MAYPOLE AVE"
+}

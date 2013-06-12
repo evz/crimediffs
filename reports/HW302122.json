@@ -1,1 +1,38 @@
-{"y_coordinate": "1863559", "year": "2013", "domestic": false, "case_number": "HW302122", "id": "9156928", "primary_type": "THEFT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58801048341626, 41.78070075359771]}, "community_area": "42", "latitude": "41.78070075359771", "type": "property", "description": "OVER $500", "beat": "0314", "date": {"$date": 1370160600000}, "ward": "5", "_id": {"$oid": "51b5f11c3c002ed20d78ce31"}, "iucr": "810", "longitude": "-87.58801048341626", "location_description": "OTHER", "x_coordinate": "1187533", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "015XX E 63RD ST"}
+{
+    "y_coordinate": "1863559", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302122", 
+    "id": "9156928", 
+    "primary_type": "THEFT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58801048341626, 
+            41.78070075359771
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.78070075359771", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0314", 
+    "date": {
+        "$date": 1370160600000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce31"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.58801048341626", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1187533", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "015XX E 63RD ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1860600", "year": "2013", "domestic": false, "case_number": "HW301838", "id": "9156026", "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66545470997814, 41.77305671990063]}, "community_area": "67", "latitude": "41.77305671990063", "type": null, "description": "RESIST/OBSTRUCT/DISARM OFFICER", "beat": "0725", "date": {"$date": 1370211120000}, "ward": "15", "_id": {"$oid": "51b5f1163c002ed20d78cc24"}, "iucr": "3710", "longitude": "-87.66545470997814", "location_description": "STREET", "x_coordinate": "1166432", "updated_on": {"$date": 1370392932000}, "fbi_code": "24", "block": "066XX S MARSHFIELD AVE"}
+{
+    "y_coordinate": "1860600", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301838", 
+    "id": "9156026", 
+    "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66545470997814, 
+            41.77305671990063
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.77305671990063", 
+    "type": null, 
+    "description": "RESIST/OBSTRUCT/DISARM OFFICER", 
+    "beat": "0725", 
+    "date": {
+        "$date": 1370211120000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f1163c002ed20d78cc24"
+    }, 
+    "iucr": "3710", 
+    "longitude": "-87.66545470997814", 
+    "location_description": "STREET", 
+    "x_coordinate": "1166432", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "24", 
+    "block": "066XX S MARSHFIELD AVE"
+}

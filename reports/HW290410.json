@@ -1,1 +1,38 @@
-{"y_coordinate": "1905721", "year": "2013", "domestic": false, "case_number": "HW290410", "id": "9145080", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71706265480869, 41.8971693288642]}, "community_area": "23", "latitude": "41.8971693288642", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "1112", "date": {"$date": 1369483200000}, "ward": "27", "_id": {"$oid": "51b34a113c002ed20d78ca98"}, "iucr": "2024", "longitude": "-87.71706265480869", "location_description": "ALLEY", "x_coordinate": "1152030", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "036XX W IOWA ST"}
+{
+    "y_coordinate": "1905721", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290410", 
+    "id": "9145080", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71706265480869, 
+            41.8971693288642
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.8971693288642", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "1112", 
+    "date": {
+        "$date": 1369483200000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca98"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.71706265480869", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1152030", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "036XX W IOWA ST"
+}

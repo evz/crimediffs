@@ -1,1 +1,38 @@
-{"y_coordinate": "1916097", "year": "2013", "domestic": false, "case_number": "HW283903", "id": "9138425", "primary_type": "ROBBERY", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65283067725538, 41.92528078212676]}, "community_area": "7", "latitude": "41.92528078212676", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "1812", "date": {"$date": 1369100520000}, "ward": "43", "_id": {"$oid": "51a4cd8a3c002ed20d78a314"}, "iucr": "320", "longitude": "-87.65283067725538", "location_description": "CTA TRAIN", "x_coordinate": "1169436", "updated_on": {"$date": 1369356045000}, "fbi_code": "03", "block": "009XX W FULLERTON AVE"}
+{
+    "y_coordinate": "1916097", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283903", 
+    "id": "9138425", 
+    "primary_type": "ROBBERY", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65283067725538, 
+            41.92528078212676
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.92528078212676", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "1812", 
+    "date": {
+        "$date": 1369100520000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51a4cd8a3c002ed20d78a314"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.65283067725538", 
+    "location_description": "CTA TRAIN", 
+    "x_coordinate": "1169436", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "03", 
+    "block": "009XX W FULLERTON AVE"
+}

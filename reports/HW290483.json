@@ -1,1 +1,38 @@
-{"y_coordinate": "1857013", "year": "2013", "domestic": false, "case_number": "HW290483", "id": "9145180", "primary_type": "BURGLARY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58036774896425, 41.76268678846469]}, "community_area": "43", "latitude": "41.76268678846469", "type": "property", "description": "ATTEMPT FORCIBLE ENTRY", "beat": "0324", "date": {"$date": 1369488840000}, "ward": "5", "_id": {"$oid": "51b34a113c002ed20d78ca5b"}, "iucr": "630", "longitude": "-87.58036774896425", "location_description": "APARTMENT", "x_coordinate": "1189675", "updated_on": {"$date": 1369787985000}, "fbi_code": "05", "block": "072XX S CONSTANCE AVE"}
+{
+    "y_coordinate": "1857013", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290483", 
+    "id": "9145180", 
+    "primary_type": "BURGLARY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58036774896425, 
+            41.76268678846469
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76268678846469", 
+    "type": "property", 
+    "description": "ATTEMPT FORCIBLE ENTRY", 
+    "beat": "0324", 
+    "date": {
+        "$date": 1369488840000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca5b"
+    }, 
+    "iucr": "630", 
+    "longitude": "-87.58036774896425", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1189675", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "05", 
+    "block": "072XX S CONSTANCE AVE"
+}

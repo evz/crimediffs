@@ -1,1 +1,38 @@
-{"y_coordinate": "1864123", "year": "2013", "domestic": false, "case_number": "HW287481", "id": "9142652", "primary_type": "CRIMINAL DAMAGE", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6569842250577, 41.782675309761586]}, "community_area": "67", "latitude": "41.782675309761586", "type": "quality", "description": "TO PROPERTY", "beat": "0713", "date": {"$date": 1369309800000}, "ward": "16", "_id": {"$oid": "51aa13973c002ed20d78b36d"}, "iucr": "1310", "longitude": "-87.6569842250577", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1168715", "updated_on": {"$date": 1370479286000}, "fbi_code": "14", "block": "061XX S THROOP ST"}
+{
+    "y_coordinate": "1864123", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287481", 
+    "id": "9142652", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6569842250577, 
+            41.782675309761586
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.782675309761586", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0713", 
+    "date": {
+        "$date": 1369309800000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b36d"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.6569842250577", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1168715", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "14", 
+    "block": "061XX S THROOP ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1857941", "year": "2013", "domestic": false, "case_number": "HW299784", "id": "9154582", "primary_type": "BATTERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67487335934769, 41.765813999274535]}, "community_area": "67", "latitude": "41.765813999274535", "type": "violent", "description": "AGGRAVATED: HANDGUN", "beat": "0735", "date": {"$date": 1370086200000}, "ward": "17", "_id": {"$oid": "51b5f1203c002ed20d78d113"}, "iucr": "041A", "longitude": "-87.67487335934769", "location_description": "SIDEWALK", "x_coordinate": "1163883", "updated_on": {"$date": 1370306580000}, "fbi_code": "04B", "block": "020XX W 70TH PL"}
+{
+    "y_coordinate": "1857941", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299784", 
+    "id": "9154582", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67487335934769, 
+            41.765813999274535
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.765813999274535", 
+    "type": "violent", 
+    "description": "AGGRAVATED: HANDGUN", 
+    "beat": "0735", 
+    "date": {
+        "$date": 1370086200000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d113"
+    }, 
+    "iucr": "041A", 
+    "longitude": "-87.67487335934769", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1163883", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "04B", 
+    "block": "020XX W 70TH PL"
+}

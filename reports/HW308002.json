@@ -1,1 +1,38 @@
-{"y_coordinate": "1889450", "year": "2013", "domestic": false, "case_number": "HW308002", "id": "9163148", "primary_type": "THEFT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61884910594445, 41.85194864021387]}, "community_area": "33", "latitude": "41.85194864021387", "type": "property", "description": "FROM BUILDING", "beat": "0132", "date": {"$date": 1370192400000}, "ward": "2", "_id": {"$oid": "51b5f1193c002ed20d78cd03"}, "iucr": "890", "longitude": "-87.61884910594445", "location_description": "OTHER", "x_coordinate": "1178906", "updated_on": {"$date": 1370738354000}, "fbi_code": "06", "block": "022XX S DR MARTIN LUTHER KING JR DR"}
+{
+    "y_coordinate": "1889450", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW308002", 
+    "id": "9163148", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61884910594445, 
+            41.85194864021387
+        ]
+    }, 
+    "community_area": "33", 
+    "latitude": "41.85194864021387", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0132", 
+    "date": {
+        "$date": 1370192400000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78cd03"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.61884910594445", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1178906", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "06", 
+    "block": "022XX S DR MARTIN LUTHER KING JR DR"
+}

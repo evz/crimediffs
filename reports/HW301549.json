@@ -1,1 +1,38 @@
-{"y_coordinate": "1852664", "year": "2013", "domestic": false, "case_number": "HW301549", "id": "9155776", "primary_type": "MOTOR VEHICLE THEFT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61113827372921, 41.75094937193781]}, "community_area": "44", "latitude": "41.75094937193781", "type": "property", "description": "AUTOMOBILE", "beat": "0624", "date": {"$date": 1370124000000}, "ward": "6", "_id": {"$oid": "51b5f11e3c002ed20d78cf5f"}, "iucr": "910", "longitude": "-87.61113827372921", "location_description": "STREET", "x_coordinate": "1181316", "updated_on": {"$date": 1370479286000}, "fbi_code": "07", "block": "079XX S RHODES AVE"}
+{
+    "y_coordinate": "1852664", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301549", 
+    "id": "9155776", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61113827372921, 
+            41.75094937193781
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.75094937193781", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0624", 
+    "date": {
+        "$date": 1370124000000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf5f"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.61113827372921", 
+    "location_description": "STREET", 
+    "x_coordinate": "1181316", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "07", 
+    "block": "079XX S RHODES AVE"
+}

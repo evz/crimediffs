@@ -1,1 +1,38 @@
-{"y_coordinate": "1898950", "year": "2013", "domestic": false, "case_number": "HW288036", "id": "9142989", "primary_type": "CRIMINAL TRESPASS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.69496802252326, 41.87846735761639]}, "community_area": "27", "latitude": "41.87846735761639", "type": null, "description": "TO STATE SUP LAND", "beat": "1125", "date": {"$date": 1369331400000}, "ward": "2", "_id": {"$oid": "51aa13963c002ed20d78b27c"}, "iucr": "1350", "longitude": "-87.69496802252326", "location_description": "APARTMENT", "x_coordinate": "1158096", "updated_on": {"$date": 1369528777000}, "fbi_code": "26", "block": "027XX W ADAMS ST"}
+{
+    "y_coordinate": "1898950", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288036", 
+    "id": "9142989", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69496802252326, 
+            41.87846735761639
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.87846735761639", 
+    "type": null, 
+    "description": "TO STATE SUP LAND", 
+    "beat": "1125", 
+    "date": {
+        "$date": 1369331400000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b27c"
+    }, 
+    "iucr": "1350", 
+    "longitude": "-87.69496802252326", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1158096", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "26", 
+    "block": "027XX W ADAMS ST"
+}

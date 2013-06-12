@@ -1,1 +1,38 @@
-{"y_coordinate": "1896344", "year": "2013", "domestic": false, "case_number": "HW289797", "id": "9145727", "primary_type": "ROBBERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6864114319629, 41.871267962765145]}, "community_area": "28", "latitude": "41.871267962765145", "type": "violent", "description": "ARMED: HANDGUN", "beat": "1135", "date": {"$date": 1369428300000}, "ward": "2", "_id": {"$oid": "51aa138d3c002ed20d78aeac"}, "iucr": "031A", "longitude": "-87.6864114319629", "location_description": "STREET", "x_coordinate": "1160446", "updated_on": {"$date": 1369874559000}, "fbi_code": "03", "block": "024XX W POLK ST"}
+{
+    "y_coordinate": "1896344", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289797", 
+    "id": "9145727", 
+    "primary_type": "ROBBERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6864114319629, 
+            41.871267962765145
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.871267962765145", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "1135", 
+    "date": {
+        "$date": 1369428300000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78aeac"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.6864114319629", 
+    "location_description": "STREET", 
+    "x_coordinate": "1160446", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "03", 
+    "block": "024XX W POLK ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1842302", "year": "2013", "domestic": false, "case_number": "HW289662", "id": "9144763", "primary_type": "ROBBERY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.57549886889744, 41.72228331808236]}, "community_area": "51", "latitude": "41.72228331808236", "type": "violent", "description": "ATTEMPT: STRONGARM-NO WEAPON", "beat": "0431", "date": {"$date": 1369413780000}, "ward": "7", "_id": {"$oid": "51aa13903c002ed20d78af73"}, "iucr": "340", "longitude": "-87.57549886889744", "location_description": "SIDEWALK", "x_coordinate": "1191133", "updated_on": {"$date": 1369787985000}, "fbi_code": "03", "block": "095XX S JEFFERY AVE"}
+{
+    "y_coordinate": "1842302", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289662", 
+    "id": "9144763", 
+    "primary_type": "ROBBERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57549886889744, 
+            41.72228331808236
+        ]
+    }, 
+    "community_area": "51", 
+    "latitude": "41.72228331808236", 
+    "type": "violent", 
+    "description": "ATTEMPT: STRONGARM-NO WEAPON", 
+    "beat": "0431", 
+    "date": {
+        "$date": 1369413780000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78af73"
+    }, 
+    "iucr": "340", 
+    "longitude": "-87.57549886889744", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1191133", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "03", 
+    "block": "095XX S JEFFERY AVE"
+}

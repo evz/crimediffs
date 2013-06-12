@@ -1,1 +1,38 @@
-{"y_coordinate": "1921355", "year": "2013", "domestic": false, "case_number": "HW299573", "id": "9154250", "primary_type": "MOTOR VEHICLE THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66890735103152, 41.93980404900974]}, "community_area": "6", "latitude": "41.93980404900974", "type": "property", "description": "AUTOMOBILE", "beat": "1922", "date": {"$date": 1370068200000}, "ward": "32", "_id": {"$oid": "51b5f1213c002ed20d78d18e"}, "iucr": "910", "longitude": "-87.66890735103152", "location_description": "STREET", "x_coordinate": "1165020", "updated_on": {"$date": 1370479286000}, "fbi_code": "07", "block": "016XX W BELMONT AVE"}
+{
+    "y_coordinate": "1921355", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299573", 
+    "id": "9154250", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66890735103152, 
+            41.93980404900974
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.93980404900974", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1922", 
+    "date": {
+        "$date": 1370068200000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d18e"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.66890735103152", 
+    "location_description": "STREET", 
+    "x_coordinate": "1165020", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "07", 
+    "block": "016XX W BELMONT AVE"
+}

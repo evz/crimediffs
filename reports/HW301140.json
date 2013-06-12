@@ -1,1 +1,38 @@
-{"y_coordinate": "1855744", "year": "2013", "domestic": false, "case_number": "HW301140", "id": "9155422", "primary_type": "BATTERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64442027334117, 41.7596062035911]}, "community_area": "68", "latitude": "41.7596062035911", "type": "violent", "description": "AGG PRO.EMP: OTHER DANG WEAPON", "beat": "0733", "date": {"$date": 1370177580000}, "ward": "17", "_id": {"$oid": "51b5f11b3c002ed20d78cdb4"}, "iucr": "483", "longitude": "-87.64442027334117", "location_description": "CTA BUS", "x_coordinate": "1172209", "updated_on": {"$date": 1370824784000}, "fbi_code": "04B", "block": "074XX S HALSTED ST"}
+{
+    "y_coordinate": "1855744", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301140", 
+    "id": "9155422", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64442027334117, 
+            41.7596062035911
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.7596062035911", 
+    "type": "violent", 
+    "description": "AGG PRO.EMP: OTHER DANG WEAPON", 
+    "beat": "0733", 
+    "date": {
+        "$date": 1370177580000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cdb4"
+    }, 
+    "iucr": "483", 
+    "longitude": "-87.64442027334117", 
+    "location_description": "CTA BUS", 
+    "x_coordinate": "1172209", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "04B", 
+    "block": "074XX S HALSTED ST"
+}

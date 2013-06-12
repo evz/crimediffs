@@ -1,1 +1,38 @@
-{"y_coordinate": "1920633", "year": "2013", "domestic": true, "case_number": "HW301531", "id": "9155797", "primary_type": "BATTERY", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.78526025524909, 41.938437085091884]}, "community_area": "17", "latitude": "41.938437085091884", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1633", "date": {"$date": 1370197800000}, "ward": "36", "_id": {"$oid": "51b5f1183c002ed20d78ccc5"}, "iucr": "486", "longitude": "-87.78526025524909", "location_description": "APARTMENT", "x_coordinate": "1133367", "updated_on": {"$date": 1370392932000}, "fbi_code": "08B", "block": "063XX W BELMONT AVE"}
+{
+    "y_coordinate": "1920633", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301531", 
+    "id": "9155797", 
+    "primary_type": "BATTERY", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78526025524909, 
+            41.938437085091884
+        ]
+    }, 
+    "community_area": "17", 
+    "latitude": "41.938437085091884", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1633", 
+    "date": {
+        "$date": 1370197800000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51b5f1183c002ed20d78ccc5"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.78526025524909", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1133367", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "08B", 
+    "block": "063XX W BELMONT AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1929426", "year": "2013", "domestic": false, "case_number": "HW300186", "id": "9154850", "primary_type": "BATTERY", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65460344228264, 41.961868910022716]}, "community_area": "3", "latitude": "41.961868910022716", "type": null, "description": "SIMPLE", "beat": "1914", "date": {"$date": 1370104800000}, "ward": "46", "_id": {"$oid": "51b5f11f3c002ed20d78d02f"}, "iucr": "460", "longitude": "-87.65460344228264", "location_description": "RESTAURANT", "x_coordinate": "1168848", "updated_on": {"$date": 1370479286000}, "fbi_code": "08B", "block": "044XX N SHERIDAN RD"}
+{
+    "y_coordinate": "1929426", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300186", 
+    "id": "9154850", 
+    "primary_type": "BATTERY", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65460344228264, 
+            41.961868910022716
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.961868910022716", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1914", 
+    "date": {
+        "$date": 1370104800000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d02f"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.65460344228264", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1168848", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08B", 
+    "block": "044XX N SHERIDAN RD"
+}

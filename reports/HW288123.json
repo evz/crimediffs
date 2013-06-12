@@ -1,1 +1,38 @@
-{"y_coordinate": "1918340", "year": "2013", "domestic": false, "case_number": "HW288123", "id": "9142985", "primary_type": "ASSAULT", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68680143759845, 41.93163238245853]}, "community_area": "22", "latitude": "41.93163238245853", "type": null, "description": "SIMPLE", "beat": "1432", "date": {"$date": 1369336800000}, "ward": "1", "_id": {"$oid": "51aa13953c002ed20d78b234"}, "iucr": "560", "longitude": "-87.68680143759845", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1160174", "updated_on": {"$date": 1369701613000}, "fbi_code": "08A", "block": "027XX N ELSTON AVE"}
+{
+    "y_coordinate": "1918340", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288123", 
+    "id": "9142985", 
+    "primary_type": "ASSAULT", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68680143759845, 
+            41.93163238245853
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.93163238245853", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1432", 
+    "date": {
+        "$date": 1369336800000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b234"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.68680143759845", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1160174", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08A", 
+    "block": "027XX N ELSTON AVE"
+}

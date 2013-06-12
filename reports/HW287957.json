@@ -1,1 +1,38 @@
-{"y_coordinate": "1923862", "year": "2013", "domestic": false, "case_number": "HW287957", "id": "9142914", "primary_type": "NARCOTICS", "district": "019", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6935476664057, 41.94682374816543]}, "community_area": "5", "latitude": "41.94682374816543", "type": "quality", "description": "CANNABIS PLANT", "beat": "1921", "date": {"$date": 1369327800000}, "ward": "47", "_id": {"$oid": "51aa13963c002ed20d78b2a4"}, "iucr": "1850", "longitude": "-87.6935476664057", "location_description": "SIDEWALK", "x_coordinate": "1158297", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "026XX W ADDISON ST"}
+{
+    "y_coordinate": "1923862", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287957", 
+    "id": "9142914", 
+    "primary_type": "NARCOTICS", 
+    "district": "019", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6935476664057, 
+            41.94682374816543
+        ]
+    }, 
+    "community_area": "5", 
+    "latitude": "41.94682374816543", 
+    "type": "quality", 
+    "description": "CANNABIS PLANT", 
+    "beat": "1921", 
+    "date": {
+        "$date": 1369327800000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b2a4"
+    }, 
+    "iucr": "1850", 
+    "longitude": "-87.6935476664057", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1158297", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "026XX W ADDISON ST"
+}

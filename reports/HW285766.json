@@ -1,1 +1,38 @@
-{"y_coordinate": "1855266", "year": "2013", "domestic": false, "case_number": "HW285766", "id": "9140693", "primary_type": "BURGLARY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65379447152479, 41.75835025425061]}, "community_area": "68", "latitude": "41.75835025425061", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "0733", "date": {"$date": 1369214400000}, "ward": "17", "_id": {"$oid": "51a7708d3c002ed20d78acd6"}, "iucr": "620", "longitude": "-87.65379447152479", "location_description": "VEHICLE-COMMERCIAL", "x_coordinate": "1169655", "updated_on": {"$date": 1369442383000}, "fbi_code": "05", "block": "074XX S RACINE AVE"}
+{
+    "y_coordinate": "1855266", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285766", 
+    "id": "9140693", 
+    "primary_type": "BURGLARY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65379447152479, 
+            41.75835025425061
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.75835025425061", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "0733", 
+    "date": {
+        "$date": 1369214400000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78acd6"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.65379447152479", 
+    "location_description": "VEHICLE-COMMERCIAL", 
+    "x_coordinate": "1169655", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "05", 
+    "block": "074XX S RACINE AVE"
+}

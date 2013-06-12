@@ -1,1 +1,38 @@
-{"y_coordinate": "1908124", "year": "2013", "domestic": false, "case_number": "HW283992", "id": "9138540", "primary_type": "CRIM SEXUAL ASSAULT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72131900396984, 41.90378649816763]}, "community_area": "23", "latitude": "41.90378649816763", "type": "violent", "description": "NON-AGGRAVATED", "beat": "2535", "date": {"$date": 1369101600000}, "ward": "27", "_id": {"$oid": "51a4cd8a3c002ed20d78a309"}, "iucr": "281", "longitude": "-87.72131900396984", "location_description": "SIDEWALK", "x_coordinate": "1150854", "updated_on": {"$date": 1370306580000}, "fbi_code": "02", "block": "012XX N HAMLIN AVE"}
+{
+    "y_coordinate": "1908124", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283992", 
+    "id": "9138540", 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72131900396984, 
+            41.90378649816763
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.90378649816763", 
+    "type": "violent", 
+    "description": "NON-AGGRAVATED", 
+    "beat": "2535", 
+    "date": {
+        "$date": 1369101600000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a4cd8a3c002ed20d78a309"
+    }, 
+    "iucr": "281", 
+    "longitude": "-87.72131900396984", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1150854", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "02", 
+    "block": "012XX N HAMLIN AVE"
+}

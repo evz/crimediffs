@@ -1,1 +1,38 @@
-{"y_coordinate": "1899178", "year": "2013", "domestic": false, "case_number": "HW290259", "id": "9145087", "primary_type": "DECEPTIVE PRACTICE", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72547484807298, 41.87925857166192]}, "community_area": "26", "latitude": "41.87925857166192", "type": null, "description": "LIBRARY THEFT", "beat": "1122", "date": {"$date": 1369480500000}, "ward": "28", "_id": {"$oid": "51b34a113c002ed20d78cab3"}, "iucr": "1260", "longitude": "-87.72547484807298", "location_description": "LIBRARY", "x_coordinate": "1149786", "updated_on": {"$date": 1369874559000}, "fbi_code": "11", "block": "001XX S PULASKI RD"}
+{
+    "y_coordinate": "1899178", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290259", 
+    "id": "9145087", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72547484807298, 
+            41.87925857166192
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.87925857166192", 
+    "type": null, 
+    "description": "LIBRARY THEFT", 
+    "beat": "1122", 
+    "date": {
+        "$date": 1369480500000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78cab3"
+    }, 
+    "iucr": "1260", 
+    "longitude": "-87.72547484807298", 
+    "location_description": "LIBRARY", 
+    "x_coordinate": "1149786", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "11", 
+    "block": "001XX S PULASKI RD"
+}

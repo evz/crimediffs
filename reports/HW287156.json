@@ -1,1 +1,38 @@
-{"y_coordinate": "1891548", "year": "2013", "domestic": false, "case_number": "HW287156", "id": "9142075", "primary_type": "THEFT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61967330040632, 41.85771120982311]}, "community_area": "33", "latitude": "41.85771120982311", "type": "property", "description": "$500 AND UNDER", "beat": "0132", "date": {"$date": 1369083600000}, "ward": "2", "_id": {"$oid": "51a4cd8e3c002ed20d78a3ac"}, "iucr": "820", "longitude": "-87.61967330040632", "location_description": "CTA TRAIN", "x_coordinate": "1178664", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "018XX S CALUMET AVE"}
+{
+    "y_coordinate": "1891548", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287156", 
+    "id": "9142075", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61967330040632, 
+            41.85771120982311
+        ]
+    }, 
+    "community_area": "33", 
+    "latitude": "41.85771120982311", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0132", 
+    "date": {
+        "$date": 1369083600000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3ac"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.61967330040632", 
+    "location_description": "CTA TRAIN", 
+    "x_coordinate": "1178664", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "018XX S CALUMET AVE"
+}

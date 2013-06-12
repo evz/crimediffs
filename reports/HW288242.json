@@ -1,1 +1,38 @@
-{"y_coordinate": "1901690", "year": "2013", "domestic": false, "case_number": "HW288242", "id": "9143162", "primary_type": "THEFT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63111821064992, 41.885613909954465]}, "community_area": "32", "latitude": "41.885613909954465", "type": "property", "description": "POCKET-PICKING", "beat": "0122", "date": {"$date": 1369339500000}, "ward": "42", "_id": {"$oid": "51aa13953c002ed20d78b20e"}, "iucr": "870", "longitude": "-87.63111821064992", "location_description": "CTA TRAIN", "x_coordinate": "1175463", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "001XX N CLARK ST"}
+{
+    "y_coordinate": "1901690", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288242", 
+    "id": "9143162", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63111821064992, 
+            41.885613909954465
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.885613909954465", 
+    "type": "property", 
+    "description": "POCKET-PICKING", 
+    "beat": "0122", 
+    "date": {
+        "$date": 1369339500000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b20e"
+    }, 
+    "iucr": "870", 
+    "longitude": "-87.63111821064992", 
+    "location_description": "CTA TRAIN", 
+    "x_coordinate": "1175463", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "001XX N CLARK ST"
+}

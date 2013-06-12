@@ -1,1 +1,38 @@
-{"y_coordinate": "1927175", "year": "2013", "domestic": false, "case_number": "HW291725", "id": "9146541", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68066346525276, 41.95584280454593]}, "community_area": "5", "latitude": "41.95584280454593", "type": "property", "description": "$500 AND UNDER", "beat": "1911", "date": {"$date": 1369528200000}, "ward": "47", "_id": {"$oid": "51b34a0d3c002ed20d78c88d"}, "iucr": "820", "longitude": "-87.68066346525276", "location_description": "STREET", "x_coordinate": "1161777", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "020XX W BELLE PLAINE AVE"}
+{
+    "y_coordinate": "1927175", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291725", 
+    "id": "9146541", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68066346525276, 
+            41.95584280454593
+        ]
+    }, 
+    "community_area": "5", 
+    "latitude": "41.95584280454593", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1911", 
+    "date": {
+        "$date": 1369528200000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c88d"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.68066346525276", 
+    "location_description": "STREET", 
+    "x_coordinate": "1161777", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "020XX W BELLE PLAINE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1911172", "year": "2013", "domestic": false, "case_number": "HW302166", "id": "9156505", "primary_type": "MOTOR VEHICLE THEFT", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69147088126478, 41.911987961413615]}, "community_area": "24", "latitude": "41.911987961413615", "type": "property", "description": "AUTOMOBILE", "beat": "1434", "date": {"$date": 1369199700000}, "ward": "1", "_id": {"$oid": "51b34a1e3c002ed20d78cb7a"}, "iucr": "910", "longitude": "-87.69147088126478", "location_description": "STREET", "x_coordinate": "1158957", "updated_on": {"$date": 1370479286000}, "fbi_code": "07", "block": "025XX W WABANSIA AVE"}
+{
+    "y_coordinate": "1911172", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302166", 
+    "id": "9156505", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69147088126478, 
+            41.911987961413615
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.911987961413615", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1434", 
+    "date": {
+        "$date": 1369199700000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51b34a1e3c002ed20d78cb7a"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.69147088126478", 
+    "location_description": "STREET", 
+    "x_coordinate": "1158957", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "07", 
+    "block": "025XX W WABANSIA AVE"
+}

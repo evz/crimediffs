@@ -1,1 +1,38 @@
-{"y_coordinate": "1848229", "year": "2013", "domestic": false, "case_number": "HW288255", "id": "9143195", "primary_type": "NARCOTICS", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.60502793465507, 41.738739808729434]}, "community_area": "44", "latitude": "41.738739808729434", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "0632", "date": {"$date": 1369343100000}, "ward": "6", "_id": {"$oid": "51aa13943c002ed20d78b1e4"}, "iucr": "2024", "longitude": "-87.60502793465507", "location_description": "STREET", "x_coordinate": "1183021", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "085XX S COTTAGE GROVE AVE"}
+{
+    "y_coordinate": "1848229", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288255", 
+    "id": "9143195", 
+    "primary_type": "NARCOTICS", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60502793465507, 
+            41.738739808729434
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.738739808729434", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "0632", 
+    "date": {
+        "$date": 1369343100000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1e4"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.60502793465507", 
+    "location_description": "STREET", 
+    "x_coordinate": "1183021", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "085XX S COTTAGE GROVE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1918490", "year": "2013", "domestic": false, "case_number": "HW300052", "id": "9154679", "primary_type": "CRIMINAL DAMAGE", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6885391655331, 41.932053787573736]}, "community_area": "22", "latitude": "41.932053787573736", "type": "quality", "description": "TO VEHICLE", "beat": "1411", "date": {"$date": 1370091600000}, "ward": "1", "_id": {"$oid": "51b5f1203c002ed20d78d0d3"}, "iucr": "1320", "longitude": "-87.6885391655331", "location_description": "STREET", "x_coordinate": "1159700", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "024XX W DIVERSEY AVE"}
+{
+    "y_coordinate": "1918490", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300052", 
+    "id": "9154679", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6885391655331, 
+            41.932053787573736
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.932053787573736", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1411", 
+    "date": {
+        "$date": 1370091600000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0d3"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.6885391655331", 
+    "location_description": "STREET", 
+    "x_coordinate": "1159700", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "024XX W DIVERSEY AVE"
+}

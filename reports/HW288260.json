@@ -1,1 +1,38 @@
-{"y_coordinate": "1824512", "year": "2013", "domestic": false, "case_number": "HW288260", "id": "9143202", "primary_type": "MOTOR VEHICLE THEFT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62023767961307, 41.673748069635074]}, "community_area": "53", "latitude": "41.673748069635074", "type": "property", "description": "AUTOMOBILE", "beat": "0532", "date": {"$date": 1369321200000}, "ward": "9", "_id": {"$oid": "51aa13973c002ed20d78b2ee"}, "iucr": "910", "longitude": "-87.62023767961307", "location_description": "STREET", "x_coordinate": "1179066", "updated_on": {"$date": 1370392932000}, "fbi_code": "07", "block": "121XX S MICHIGAN AVE"}
+{
+    "y_coordinate": "1824512", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288260", 
+    "id": "9143202", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62023767961307, 
+            41.673748069635074
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.673748069635074", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0532", 
+    "date": {
+        "$date": 1369321200000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b2ee"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.62023767961307", 
+    "location_description": "STREET", 
+    "x_coordinate": "1179066", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "07", 
+    "block": "121XX S MICHIGAN AVE"
+}

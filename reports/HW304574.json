@@ -1,1 +1,38 @@
-{"y_coordinate": "1889420", "year": "2013", "domestic": false, "case_number": "HW304574", "id": "9159409", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67955597124526, 41.852227921190945]}, "community_area": "31", "latitude": "41.852227921190945", "type": "property", "description": "$500 AND UNDER", "beat": "1234", "date": {"$date": 1370268600000}, "ward": "25", "_id": {"$oid": "51b7429c3c002ed20d78d3e2"}, "iucr": "820", "longitude": "-87.67955597124526", "location_description": "STREET", "x_coordinate": "1162366", "updated_on": {"$date": 1370565766000}, "fbi_code": "06", "block": "021XX W CERMAK RD"}
+{
+    "y_coordinate": "1889420", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW304574", 
+    "id": "9159409", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67955597124526, 
+            41.852227921190945
+        ]
+    }, 
+    "community_area": "31", 
+    "latitude": "41.852227921190945", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1234", 
+    "date": {
+        "$date": 1370268600000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51b7429c3c002ed20d78d3e2"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.67955597124526", 
+    "location_description": "STREET", 
+    "x_coordinate": "1162366", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "06", 
+    "block": "021XX W CERMAK RD"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1873454", "year": "2013", "domestic": false, "case_number": "HW285419", "id": "9140010", "primary_type": "ASSAULT", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68944985212352, 41.808468796398536]}, "community_area": "58", "latitude": "41.808468796398536", "type": "violent", "description": "AGGRAVATED: OTHER DANG WEAPON", "beat": "0922", "date": {"$date": 1369181940000}, "ward": "12", "_id": {"$oid": "51a61f073c002ed20d78a6b6"}, "iucr": "530", "longitude": "-87.68944985212352", "location_description": "SIDEWALK", "x_coordinate": "1159790", "updated_on": {"$date": 1369356045000}, "fbi_code": "04A", "block": "026XX W 47TH ST"}
+{
+    "y_coordinate": "1873454", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285419", 
+    "id": "9140010", 
+    "primary_type": "ASSAULT", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68944985212352, 
+            41.808468796398536
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.808468796398536", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "0922", 
+    "date": {
+        "$date": 1369181940000
+    }, 
+    "ward": "12", 
+    "_id": {
+        "$oid": "51a61f073c002ed20d78a6b6"
+    }, 
+    "iucr": "530", 
+    "longitude": "-87.68944985212352", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1159790", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "04A", 
+    "block": "026XX W 47TH ST"
+}

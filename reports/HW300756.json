@@ -1,1 +1,38 @@
-{"y_coordinate": "1830658", "year": "2013", "domestic": true, "case_number": "HW300756", "id": "9155162", "primary_type": "BATTERY", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62470462502148, 41.69064238754094]}, "community_area": "49", "latitude": "41.69064238754094", "type": "violent", "description": "AGGRAVATED DOMESTIC BATTERY: HANDS/FIST/FEET SERIOUS INJURY", "beat": "0522", "date": {"$date": 1370142000000}, "ward": "34", "_id": {"$oid": "51b5f11d3c002ed20d78ce9c"}, "iucr": "498", "longitude": "-87.62470462502148", "location_description": "APARTMENT", "x_coordinate": "1177795", "updated_on": {"$date": 1370565766000}, "fbi_code": "04B", "block": "0000X W 112TH ST"}
+{
+    "y_coordinate": "1830658", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300756", 
+    "id": "9155162", 
+    "primary_type": "BATTERY", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62470462502148, 
+            41.69064238754094
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.69064238754094", 
+    "type": "violent", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: HANDS/FIST/FEET SERIOUS INJURY", 
+    "beat": "0522", 
+    "date": {
+        "$date": 1370142000000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78ce9c"
+    }, 
+    "iucr": "498", 
+    "longitude": "-87.62470462502148", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1177795", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "04B", 
+    "block": "0000X W 112TH ST"
+}

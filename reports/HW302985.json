@@ -1,1 +1,38 @@
-{"y_coordinate": "1890841", "year": "2013", "domestic": true, "case_number": "HW302985", "id": "9157547", "primary_type": "BATTERY", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7140632384194, 41.85631875765596]}, "community_area": "29", "latitude": "41.85631875765596", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1021", "date": {"$date": 1370281500000}, "ward": "24", "_id": {"$oid": "51b7429b3c002ed20d78d338"}, "iucr": "486", "longitude": "-87.7140632384194", "location_description": "APARTMENT", "x_coordinate": "1152954", "updated_on": {"$date": 1370651988000}, "fbi_code": "08B", "block": "018XX S DRAKE AVE"}
+{
+    "y_coordinate": "1890841", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW302985", 
+    "id": "9157547", 
+    "primary_type": "BATTERY", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7140632384194, 
+            41.85631875765596
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85631875765596", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1021", 
+    "date": {
+        "$date": 1370281500000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b7429b3c002ed20d78d338"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.7140632384194", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1152954", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "08B", 
+    "block": "018XX S DRAKE AVE"
+}

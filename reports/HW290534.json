@@ -1,1 +1,38 @@
-{"y_coordinate": "1870291", "year": "2013", "domestic": false, "case_number": "HW290534", "id": "9145162", "primary_type": "MOTOR VEHICLE THEFT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64786916689123, 41.7995480418021]}, "community_area": "61", "latitude": "41.7995480418021", "type": "property", "description": "AUTOMOBILE", "beat": "0934", "date": {"$date": 1369447200000}, "ward": "20", "_id": {"$oid": "51aa138a3c002ed20d78adc3"}, "iucr": "910", "longitude": "-87.64786916689123", "location_description": "STREET", "x_coordinate": "1171152", "updated_on": {"$date": 1369787985000}, "fbi_code": "07", "block": "052XX S PEORIA ST"}
+{
+    "y_coordinate": "1870291", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290534", 
+    "id": "9145162", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64786916689123, 
+            41.7995480418021
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.7995480418021", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0934", 
+    "date": {
+        "$date": 1369447200000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51aa138a3c002ed20d78adc3"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.64786916689123", 
+    "location_description": "STREET", 
+    "x_coordinate": "1171152", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "07", 
+    "block": "052XX S PEORIA ST"
+}

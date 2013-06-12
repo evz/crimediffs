@@ -1,1 +1,38 @@
-{"y_coordinate": "1826960", "year": "2013", "domestic": false, "case_number": "HW303294", "id": "9157804", "primary_type": "NARCOTICS", "district": "005", "arrest": true, "location": {"type": "Point", "coordinates": [-87.61649939853937, 41.68044295336344]}, "community_area": "53", "latitude": "41.68044295336344", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0532", "date": {"$date": 1370292600000}, "ward": "9", "_id": {"$oid": "51b742983c002ed20d78d291"}, "iucr": "1811", "longitude": "-87.61649939853937", "location_description": "ALLEY", "x_coordinate": "1180067", "updated_on": {"$date": 1370738354000}, "fbi_code": "18", "block": "117XX S PRAIRIE AVE"}
+{
+    "y_coordinate": "1826960", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303294", 
+    "id": "9157804", 
+    "primary_type": "NARCOTICS", 
+    "district": "005", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61649939853937, 
+            41.68044295336344
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.68044295336344", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0532", 
+    "date": {
+        "$date": 1370292600000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51b742983c002ed20d78d291"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.61649939853937", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1180067", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "18", 
+    "block": "117XX S PRAIRIE AVE"
+}

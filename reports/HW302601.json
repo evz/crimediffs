@@ -1,1 +1,38 @@
-{"y_coordinate": "1932161", "year": "2013", "domestic": false, "case_number": "HW302601", "id": "9157311", "primary_type": "NARCOTICS", "district": "020", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64953411689835, 41.969344225643646]}, "community_area": "3", "latitude": "41.969344225643646", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "2024", "date": {"$date": 1370268960000}, "ward": "48", "_id": {"$oid": "51b7429c3c002ed20d78d3de"}, "iucr": "1811", "longitude": "-87.64953411689835", "location_description": "PARK PROPERTY", "x_coordinate": "1170205", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "048XX N MARINE DR"}
+{
+    "y_coordinate": "1932161", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302601", 
+    "id": "9157311", 
+    "primary_type": "NARCOTICS", 
+    "district": "020", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64953411689835, 
+            41.969344225643646
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.969344225643646", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "2024", 
+    "date": {
+        "$date": 1370268960000
+    }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51b7429c3c002ed20d78d3de"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.64953411689835", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1170205", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "048XX N MARINE DR"
+}

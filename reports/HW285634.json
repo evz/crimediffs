@@ -1,1 +1,38 @@
-{"y_coordinate": "1846549", "year": "2013", "domestic": true, "case_number": "HW285634", "id": "9140454", "primary_type": "CRIMINAL DAMAGE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.57336163902002, 41.733924290357656]}, "community_area": "48", "latitude": "41.733924290357656", "type": "quality", "description": "TO PROPERTY", "beat": "0412", "date": {"$date": 1369212120000}, "ward": "8", "_id": {"$oid": "51a7708d3c002ed20d78acf5"}, "iucr": "1310", "longitude": "-87.57336163902002", "location_description": "STREET", "x_coordinate": "1191679", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "088XX S CLYDE AVE"}
+{
+    "y_coordinate": "1846549", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285634", 
+    "id": "9140454", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57336163902002, 
+            41.733924290357656
+        ]
+    }, 
+    "community_area": "48", 
+    "latitude": "41.733924290357656", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0412", 
+    "date": {
+        "$date": 1369212120000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78acf5"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.57336163902002", 
+    "location_description": "STREET", 
+    "x_coordinate": "1191679", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "088XX S CLYDE AVE"
+}

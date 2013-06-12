@@ -1,1 +1,38 @@
-{"y_coordinate": "1868654", "year": "2013", "domestic": false, "case_number": "HW300792", "id": "9155173", "primary_type": "NARCOTICS", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71846710906841, 41.79545521074942]}, "community_area": "62", "latitude": "41.79545521074942", "type": "quality", "description": "POSS: COCAINE", "beat": "0822", "date": {"$date": 1370143860000}, "ward": "23", "_id": {"$oid": "51b5f11d3c002ed20d78ce90"}, "iucr": "2022", "longitude": "-87.71846710906841", "location_description": "STREET", "x_coordinate": "1151913", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "053XX S HAMLIN AVE"}
+{
+    "y_coordinate": "1868654", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300792", 
+    "id": "9155173", 
+    "primary_type": "NARCOTICS", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71846710906841, 
+            41.79545521074942
+        ]
+    }, 
+    "community_area": "62", 
+    "latitude": "41.79545521074942", 
+    "type": "quality", 
+    "description": "POSS: COCAINE", 
+    "beat": "0822", 
+    "date": {
+        "$date": 1370143860000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78ce90"
+    }, 
+    "iucr": "2022", 
+    "longitude": "-87.71846710906841", 
+    "location_description": "STREET", 
+    "x_coordinate": "1151913", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "053XX S HAMLIN AVE"
+}

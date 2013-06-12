@@ -1,1 +1,38 @@
-{"y_coordinate": "1926133", "year": "2013", "domestic": false, "case_number": "HW291513", "id": "9146002", "primary_type": "CRIMINAL TRESPASS", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7249489921201, 41.95322654900287]}, "community_area": "16", "latitude": "41.95322654900287", "type": null, "description": "TO LAND", "beat": "1732", "date": {"$date": 1369503000000}, "ward": "39", "_id": {"$oid": "51b34a0f3c002ed20d78c9ad"}, "iucr": "1330", "longitude": "-87.7249489921201", "location_description": "PARK PROPERTY", "x_coordinate": "1149738", "updated_on": {"$date": 1369874559000}, "fbi_code": "26", "block": "039XX N SPRINGFIELD AVE"}
+{
+    "y_coordinate": "1926133", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291513", 
+    "id": "9146002", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7249489921201, 
+            41.95322654900287
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.95322654900287", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "1732", 
+    "date": {
+        "$date": 1369503000000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c9ad"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.7249489921201", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1149738", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "26", 
+    "block": "039XX N SPRINGFIELD AVE"
+}

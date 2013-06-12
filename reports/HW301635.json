@@ -1,1 +1,38 @@
-{"y_coordinate": "1871390", "year": "2013", "domestic": false, "case_number": "HW301635", "id": "9155851", "primary_type": "MOTOR VEHICLE THEFT", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.59523558185334, 41.80223787640877]}, "community_area": "41", "latitude": "41.80223787640877", "type": "property", "description": "AUTOMOBILE", "beat": "0234", "date": {"$date": 1369501200000}, "ward": "4", "_id": {"$oid": "51b34a0f3c002ed20d78c9c1"}, "iucr": "910", "longitude": "-87.59523558185334", "location_description": "STREET", "x_coordinate": "1185495", "updated_on": {"$date": 1370479286000}, "fbi_code": "07", "block": "051XX S KIMBARK AVE"}
+{
+    "y_coordinate": "1871390", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301635", 
+    "id": "9155851", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59523558185334, 
+            41.80223787640877
+        ]
+    }, 
+    "community_area": "41", 
+    "latitude": "41.80223787640877", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0234", 
+    "date": {
+        "$date": 1369501200000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c9c1"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.59523558185334", 
+    "location_description": "STREET", 
+    "x_coordinate": "1185495", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "07", 
+    "block": "051XX S KIMBARK AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1860453", "year": "2013", "domestic": false, "case_number": "HW305291", "id": "9160273", "primary_type": "THEFT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66544423174041, 41.772653247487064]}, "community_area": "67", "latitude": "41.772653247487064", "type": "property", "description": "FROM BUILDING", "beat": "0725", "date": {"$date": 1370088000000}, "ward": "15", "_id": {"$oid": "51b5f1203c002ed20d78d0fa"}, "iucr": "890", "longitude": "-87.66544423174041", "location_description": "RESIDENCE", "x_coordinate": "1166436", "updated_on": {"$date": 1370651988000}, "fbi_code": "06", "block": "066XX S MARSHFIELD AVE"}
+{
+    "y_coordinate": "1860453", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW305291", 
+    "id": "9160273", 
+    "primary_type": "THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66544423174041, 
+            41.772653247487064
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.772653247487064", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0725", 
+    "date": {
+        "$date": 1370088000000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0fa"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.66544423174041", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1166436", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "06", 
+    "block": "066XX S MARSHFIELD AVE"
+}

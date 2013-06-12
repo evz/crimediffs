@@ -1,1 +1,38 @@
-{"y_coordinate": "1846698", "year": "2013", "domestic": false, "case_number": "HW290689", "id": "9145319", "primary_type": "BATTERY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55288536061589, 41.734195935797736]}, "community_area": "46", "latitude": "41.734195935797736", "type": null, "description": "SIMPLE", "beat": "0423", "date": {"$date": 1369500000000}, "ward": "10", "_id": {"$oid": "51b34a103c002ed20d78c9e0"}, "iucr": "460", "longitude": "-87.55288536061589", "location_description": "SIDEWALK", "x_coordinate": "1197267", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "088XX S EXCHANGE AVE"}
+{
+    "y_coordinate": "1846698", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290689", 
+    "id": "9145319", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55288536061589, 
+            41.734195935797736
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.734195935797736", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0423", 
+    "date": {
+        "$date": 1369500000000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78c9e0"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.55288536061589", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1197267", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "088XX S EXCHANGE AVE"
+}

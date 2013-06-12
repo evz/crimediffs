@@ -1,1 +1,38 @@
-{"y_coordinate": "1884051", "year": "2013", "domestic": false, "case_number": "HW283616", "id": "20885", "primary_type": "HOMICIDE", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.613319056043, 41.83709785253015]}, "community_area": "35", "latitude": "41.83709785253015", "type": "violent", "description": "FIRST DEGREE MURDER", "beat": "0211", "date": {"$date": 1369093260000}, "ward": "4", "_id": {"$oid": "51a4cd8c3c002ed20d78a340"}, "iucr": "110", "longitude": "-87.613319056043", "location_description": "PARK PROPERTY", "x_coordinate": "1180458", "updated_on": {"$date": 1369119798000}, "fbi_code": "01A", "block": "031XX S RHODES AVE"}
+{
+    "y_coordinate": "1884051", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283616", 
+    "id": "20885", 
+    "primary_type": "HOMICIDE", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.613319056043, 
+            41.83709785253015
+        ]
+    }, 
+    "community_area": "35", 
+    "latitude": "41.83709785253015", 
+    "type": "violent", 
+    "description": "FIRST DEGREE MURDER", 
+    "beat": "0211", 
+    "date": {
+        "$date": 1369093260000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51a4cd8c3c002ed20d78a340"
+    }, 
+    "iucr": "110", 
+    "longitude": "-87.613319056043", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1180458", 
+    "updated_on": {
+        "$date": 1369119798000
+    }, 
+    "fbi_code": "01A", 
+    "block": "031XX S RHODES AVE"
+}

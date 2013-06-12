@@ -1,1 +1,38 @@
-{"y_coordinate": "1869987", "year": "2013", "domestic": false, "case_number": "HW284933", "id": "9139590", "primary_type": "ASSAULT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66456388215943, 41.79881218488639]}, "community_area": "61", "latitude": "41.79881218488639", "type": null, "description": "SIMPLE", "beat": "0934", "date": {"$date": 1369159200000}, "ward": "16", "_id": {"$oid": "51a61f0b3c002ed20d78a7cc"}, "iucr": "560", "longitude": "-87.66456388215943", "location_description": "SIDEWALK", "x_coordinate": "1166602", "updated_on": {"$date": 1369874559000}, "fbi_code": "08A", "block": "052XX S ASHLAND AVE"}
+{
+    "y_coordinate": "1869987", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284933", 
+    "id": "9139590", 
+    "primary_type": "ASSAULT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66456388215943, 
+            41.79881218488639
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.79881218488639", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0934", 
+    "date": {
+        "$date": 1369159200000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a7cc"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.66456388215943", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1166602", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "08A", 
+    "block": "052XX S ASHLAND AVE"
+}

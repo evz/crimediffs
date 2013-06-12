@@ -1,1 +1,38 @@
-{"y_coordinate": "1929274", "year": "2013", "domestic": false, "case_number": "HW293737", "id": "9147843", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66607129834188, 41.961519015613945]}, "community_area": "6", "latitude": "41.961519015613945", "type": "property", "description": "OVER $500", "beat": "1912", "date": {"$date": 1369474200000}, "ward": "47", "_id": {"$oid": "51b34a123c002ed20d78cade"}, "iucr": "810", "longitude": "-87.66607129834188", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1165730", "updated_on": {"$date": 1369960832000}, "fbi_code": "06", "block": "043XX N CLARK ST"}
+{
+    "y_coordinate": "1929274", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293737", 
+    "id": "9147843", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66607129834188, 
+            41.961519015613945
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.961519015613945", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1912", 
+    "date": {
+        "$date": 1369474200000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cade"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.66607129834188", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1165730", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "06", 
+    "block": "043XX N CLARK ST"
+}

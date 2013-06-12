@@ -1,1 +1,38 @@
-{"y_coordinate": "1841869", "year": "2013", "domestic": false, "case_number": "HW285379", "id": "9140007", "primary_type": "ROBBERY", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64576479654008, 41.721536958049626]}, "community_area": "73", "latitude": "41.721536958049626", "type": "violent", "description": "ARMED: HANDGUN", "beat": "2223", "date": {"$date": 1369180860000}, "ward": "21", "_id": {"$oid": "51a61f073c002ed20d78a6c0"}, "iucr": "031A", "longitude": "-87.64576479654008", "location_description": "SIDEWALK", "x_coordinate": "1171953", "updated_on": {"$date": 1369528777000}, "fbi_code": "03", "block": "009XX W 95TH ST"}
+{
+    "y_coordinate": "1841869", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285379", 
+    "id": "9140007", 
+    "primary_type": "ROBBERY", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64576479654008, 
+            41.721536958049626
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.721536958049626", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "2223", 
+    "date": {
+        "$date": 1369180860000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51a61f073c002ed20d78a6c0"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.64576479654008", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1171953", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "03", 
+    "block": "009XX W 95TH ST"
+}

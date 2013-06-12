@@ -1,1 +1,38 @@
-{"y_coordinate": "1847070", "year": "2013", "domestic": false, "case_number": "HW288305", "id": "9143288", "primary_type": "OTHER OFFENSE", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60813394615008, 41.7355788003535]}, "community_area": "44", "latitude": "41.7355788003535", "type": null, "description": "HARASSMENT BY ELECTRONIC MEANS", "beat": "0632", "date": {"$date": 1369346280000}, "ward": "6", "_id": {"$oid": "51aa13943c002ed20d78b1c8"}, "iucr": "2826", "longitude": "-87.60813394615008", "location_description": "RESIDENCE", "x_coordinate": "1182183", "updated_on": {"$date": 1370565766000}, "fbi_code": "26", "block": "006XX E 87TH PL"}
+{
+    "y_coordinate": "1847070", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288305", 
+    "id": "9143288", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60813394615008, 
+            41.7355788003535
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.7355788003535", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "0632", 
+    "date": {
+        "$date": 1369346280000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1c8"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.60813394615008", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1182183", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "26", 
+    "block": "006XX E 87TH PL"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1903984", "year": "2013", "domestic": true, "case_number": "HW285920", "id": "9141017", "primary_type": "OTHER OFFENSE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67609667694852, 41.892175428628185]}, "community_area": "24", "latitude": "41.892175428628185", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "1221", "date": {"$date": 1369213200000}, "ward": "1", "_id": {"$oid": "51a7708d3c002ed20d78acdf"}, "iucr": "2825", "longitude": "-87.67609667694852", "location_description": "RESIDENCE", "x_coordinate": "1163197", "updated_on": {"$date": 1369701613000}, "fbi_code": "26", "block": "019XX W OHIO ST"}
+{
+    "y_coordinate": "1903984", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285920", 
+    "id": "9141017", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67609667694852, 
+            41.892175428628185
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.892175428628185", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "1221", 
+    "date": {
+        "$date": 1369213200000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78acdf"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.67609667694852", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1163197", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "26", 
+    "block": "019XX W OHIO ST"
+}

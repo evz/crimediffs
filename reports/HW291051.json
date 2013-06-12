@@ -1,1 +1,38 @@
-{"y_coordinate": "1910955", "year": "2013", "domestic": false, "case_number": "HW291051", "id": "9145639", "primary_type": "CRIMINAL DAMAGE", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68122362128241, 41.91133472566365]}, "community_area": "24", "latitude": "41.91133472566365", "type": "quality", "description": "TO PROPERTY", "beat": "1434", "date": {"$date": 1369525800000}, "ward": "32", "_id": {"$oid": "51b34a0d3c002ed20d78c8a6"}, "iucr": "1310", "longitude": "-87.68122362128241", "location_description": "APARTMENT", "x_coordinate": "1161748", "updated_on": {"$date": 1369874559000}, "fbi_code": "14", "block": "021XX W CONCORD PL"}
+{
+    "y_coordinate": "1910955", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291051", 
+    "id": "9145639", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68122362128241, 
+            41.91133472566365
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.91133472566365", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1434", 
+    "date": {
+        "$date": 1369525800000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c8a6"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.68122362128241", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1161748", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "14", 
+    "block": "021XX W CONCORD PL"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1904250", "year": "2013", "domestic": false, "case_number": "HW283753", "id": "9138283", "primary_type": "OTHER OFFENSE", "district": "012", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66911858869786, 41.892865246612494]}, "community_area": "24", "latitude": "41.892865246612494", "type": null, "description": "PAROLE VIOLATION", "beat": "1215", "date": {"$date": 1369085400000}, "ward": "1", "_id": {"$oid": "51a4cd8d3c002ed20d78a394"}, "iucr": "4625", "longitude": "-87.66911858869786", "location_description": "SIDEWALK", "x_coordinate": "1165095", "updated_on": {"$date": 1369356045000}, "fbi_code": "26", "block": "016XX W ONTARIO ST"}
+{
+    "y_coordinate": "1904250", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283753", 
+    "id": "9138283", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "012", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66911858869786, 
+            41.892865246612494
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.892865246612494", 
+    "type": null, 
+    "description": "PAROLE VIOLATION", 
+    "beat": "1215", 
+    "date": {
+        "$date": 1369085400000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51a4cd8d3c002ed20d78a394"
+    }, 
+    "iucr": "4625", 
+    "longitude": "-87.66911858869786", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1165095", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "26", 
+    "block": "016XX W ONTARIO ST"
+}

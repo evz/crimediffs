@@ -1,1 +1,38 @@
-{"y_coordinate": "1906482", "year": "2013", "domestic": false, "case_number": "HW295974", "id": "9150301", "primary_type": "BURGLARY", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66415907937701, 41.89896159167951]}, "community_area": "24", "latitude": "41.89896159167951", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1213", "date": {"$date": 1369513800000}, "ward": "27", "_id": {"$oid": "51b34a0e3c002ed20d78c926"}, "iucr": "610", "longitude": "-87.66415907937701", "location_description": "APARTMENT", "x_coordinate": "1166428", "updated_on": {"$date": 1370651988000}, "fbi_code": "05", "block": "014XX W WALTON ST"}
+{
+    "y_coordinate": "1906482", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW295974", 
+    "id": "9150301", 
+    "primary_type": "BURGLARY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66415907937701, 
+            41.89896159167951
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.89896159167951", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1213", 
+    "date": {
+        "$date": 1369513800000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c926"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.66415907937701", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1166428", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "05", 
+    "block": "014XX W WALTON ST"
+}

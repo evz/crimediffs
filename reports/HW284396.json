@@ -1,1 +1,38 @@
-{"y_coordinate": "1914080", "year": "2013", "domestic": false, "case_number": "HW284396", "id": "9139171", "primary_type": "ASSAULT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.78671852464335, 41.92046110707406]}, "community_area": "19", "latitude": "41.92046110707406", "type": null, "description": "SIMPLE", "beat": "2512", "date": {"$date": 1369140300000}, "ward": "36", "_id": {"$oid": "51a61f0e3c002ed20d78a8d4"}, "iucr": "560", "longitude": "-87.78671852464335", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1133012", "updated_on": {"$date": 1369356045000}, "fbi_code": "08A", "block": "022XX N NAGLE AVE"}
+{
+    "y_coordinate": "1914080", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284396", 
+    "id": "9139171", 
+    "primary_type": "ASSAULT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78671852464335, 
+            41.92046110707406
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.92046110707406", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2512", 
+    "date": {
+        "$date": 1369140300000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a8d4"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.78671852464335", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1133012", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08A", 
+    "block": "022XX N NAGLE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1921479", "year": "2013", "domestic": false, "case_number": "HW287989", "id": "9143083", "primary_type": "BURGLARY", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65231349562985, 41.94004710526328]}, "community_area": "6", "latitude": "41.94004710526328", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1924", "date": {"$date": 1369297800000}, "ward": "44", "_id": {"$oid": "51aa13983c002ed20d78b3f9"}, "iucr": "610", "longitude": "-87.65231349562985", "location_description": "RESIDENCE", "x_coordinate": "1169534", "updated_on": {"$date": 1370651988000}, "fbi_code": "05", "block": "009XX W BELMONT AVE"}
+{
+    "y_coordinate": "1921479", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287989", 
+    "id": "9143083", 
+    "primary_type": "BURGLARY", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65231349562985, 
+            41.94004710526328
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.94004710526328", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1924", 
+    "date": {
+        "$date": 1369297800000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3f9"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.65231349562985", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1169534", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "05", 
+    "block": "009XX W BELMONT AVE"
+}

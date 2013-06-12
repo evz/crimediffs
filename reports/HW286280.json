@@ -1,1 +1,38 @@
-{"y_coordinate": "1827369", "year": "2013", "domestic": false, "case_number": "HW286280", "id": "9141332", "primary_type": "THEFT", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.53938268504056, 41.6810585095909]}, "community_area": "55", "latitude": "41.6810585095909", "type": "property", "description": "RETAIL THEFT", "beat": "0433", "date": {"$date": 1369236000000}, "ward": "10", "_id": {"$oid": "51a7708b3c002ed20d78abd6"}, "iucr": "860", "longitude": "-87.53938268504056", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1201131", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "034XX E 118TH ST"}
+{
+    "y_coordinate": "1827369", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286280", 
+    "id": "9141332", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.53938268504056, 
+            41.6810585095909
+        ]
+    }, 
+    "community_area": "55", 
+    "latitude": "41.6810585095909", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0433", 
+    "date": {
+        "$date": 1369236000000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78abd6"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.53938268504056", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1201131", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "034XX E 118TH ST"
+}

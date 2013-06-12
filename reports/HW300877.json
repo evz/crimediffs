@@ -1,1 +1,38 @@
-{"y_coordinate": "1941762", "year": "2013", "domestic": true, "case_number": "HW300877", "id": "9155252", "primary_type": "CRIMINAL DAMAGE", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72505569176857, 41.996116276528966]}, "community_area": "13", "latitude": "41.996116276528966", "type": "quality", "description": "TO PROPERTY", "beat": "1711", "date": {"$date": 1370158200000}, "ward": "39", "_id": {"$oid": "51b5f11c3c002ed20d78ce47"}, "iucr": "1310", "longitude": "-87.72505569176857", "location_description": "RESIDENCE", "x_coordinate": "1149598", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "063XX N AVERS AVE"}
+{
+    "y_coordinate": "1941762", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300877", 
+    "id": "9155252", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72505569176857, 
+            41.996116276528966
+        ]
+    }, 
+    "community_area": "13", 
+    "latitude": "41.996116276528966", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1711", 
+    "date": {
+        "$date": 1370158200000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce47"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.72505569176857", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1149598", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "063XX N AVERS AVE"
+}

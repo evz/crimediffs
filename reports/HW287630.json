@@ -1,1 +1,38 @@
-{"y_coordinate": "1855818", "year": "2013", "domestic": false, "case_number": "HW287630", "id": "9142706", "primary_type": "THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68448763994972, 41.760042545907076]}, "community_area": "66", "latitude": "41.760042545907076", "type": "property", "description": "$500 AND UNDER", "beat": "0835", "date": {"$date": 1369305000000}, "ward": "18", "_id": {"$oid": "51aa13983c002ed20d78b3a6"}, "iucr": "820", "longitude": "-87.68448763994972", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1161276", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "073XX S ARTESIAN AVE"}
+{
+    "y_coordinate": "1855818", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287630", 
+    "id": "9142706", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68448763994972, 
+            41.760042545907076
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.760042545907076", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0835", 
+    "date": {
+        "$date": 1369305000000
+    }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3a6"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.68448763994972", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1161276", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "073XX S ARTESIAN AVE"
+}

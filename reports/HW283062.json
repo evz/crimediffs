@@ -1,1 +1,38 @@
-{"y_coordinate": "1897473", "year": "2013", "domestic": false, "case_number": "HW283062", "id": "9137891", "primary_type": "THEFT", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7552555473554, 41.87473339068581]}, "community_area": "25", "latitude": "41.87473339068581", "type": "property", "description": "$500 AND UNDER", "beat": "1522", "date": {"$date": 1369060500000}, "ward": "29", "_id": {"$oid": "51a4cd913c002ed20d78a4ee"}, "iucr": "820", "longitude": "-87.7552555473554", "location_description": "SIDEWALK", "x_coordinate": "1141687", "updated_on": {"$date": 1369269615000}, "fbi_code": "06", "block": "052XX W VAN BUREN ST"}
+{
+    "y_coordinate": "1897473", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283062", 
+    "id": "9137891", 
+    "primary_type": "THEFT", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7552555473554, 
+            41.87473339068581
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.87473339068581", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1522", 
+    "date": {
+        "$date": 1369060500000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a4ee"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.7552555473554", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1141687", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "06", 
+    "block": "052XX W VAN BUREN ST"
+}

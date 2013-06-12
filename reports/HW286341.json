@@ -1,1 +1,38 @@
-{"y_coordinate": "1875085", "year": "2013", "domestic": false, "case_number": "HW286341", "id": "9141264", "primary_type": "CRIMINAL DAMAGE", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61285373847387, 41.81248982850623]}, "community_area": "38", "latitude": "41.81248982850623", "type": "quality", "description": "TO PROPERTY", "beat": "0221", "date": {"$date": 1369235700000}, "ward": "3", "_id": {"$oid": "51a7708b3c002ed20d78abdc"}, "iucr": "1310", "longitude": "-87.61285373847387", "location_description": "RESIDENCE", "x_coordinate": "1180660", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "045XX S FORRESTVILLE AVE"}
+{
+    "y_coordinate": "1875085", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286341", 
+    "id": "9141264", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61285373847387, 
+            41.81248982850623
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.81248982850623", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0221", 
+    "date": {
+        "$date": 1369235700000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78abdc"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.61285373847387", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1180660", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "045XX S FORRESTVILLE AVE"
+}

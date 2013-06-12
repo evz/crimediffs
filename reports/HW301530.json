@@ -1,1 +1,38 @@
-{"y_coordinate": "1857095", "year": "2013", "domestic": false, "case_number": "HW301530", "id": "9155735", "primary_type": "ASSAULT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56285326626775, 41.76279569870461]}, "community_area": "43", "latitude": "41.76279569870461", "type": null, "description": "SIMPLE", "beat": "0334", "date": {"$date": 1370198400000}, "ward": "7", "_id": {"$oid": "51b5f1183c002ed20d78ccbd"}, "iucr": "560", "longitude": "-87.56285326626775", "location_description": "APARTMENT", "x_coordinate": "1194453", "updated_on": {"$date": 1370392932000}, "fbi_code": "08A", "block": "025XX E 73RD ST"}
+{
+    "y_coordinate": "1857095", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301530", 
+    "id": "9155735", 
+    "primary_type": "ASSAULT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56285326626775, 
+            41.76279569870461
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76279569870461", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0334", 
+    "date": {
+        "$date": 1370198400000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51b5f1183c002ed20d78ccbd"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.56285326626775", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1194453", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "08A", 
+    "block": "025XX E 73RD ST"
+}

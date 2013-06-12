@@ -1,1 +1,38 @@
-{"y_coordinate": "1901776", "year": "2013", "domestic": false, "case_number": "HW289522", "id": "9144447", "primary_type": "BATTERY", "district": "001", "arrest": true, "location": {"type": "Point", "coordinates": [-87.63112297072225, 41.88584994373219]}, "community_area": "32", "latitude": "41.88584994373219", "type": null, "description": "AGG PO HANDS NO/MIN INJURY", "beat": "0122", "date": {"$date": 1369422000000}, "ward": "42", "_id": {"$oid": "51aa138e3c002ed20d78af0b"}, "iucr": "454", "longitude": "-87.63112297072225", "location_description": "STREET", "x_coordinate": "1175461", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "001XX W LAKE ST"}
+{
+    "y_coordinate": "1901776", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289522", 
+    "id": "9144447", 
+    "primary_type": "BATTERY", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63112297072225, 
+            41.88584994373219
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88584994373219", 
+    "type": null, 
+    "description": "AGG PO HANDS NO/MIN INJURY", 
+    "beat": "0122", 
+    "date": {
+        "$date": 1369422000000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51aa138e3c002ed20d78af0b"
+    }, 
+    "iucr": "454", 
+    "longitude": "-87.63112297072225", 
+    "location_description": "STREET", 
+    "x_coordinate": "1175461", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "001XX W LAKE ST"
+}

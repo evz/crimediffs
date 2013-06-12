@@ -1,1 +1,38 @@
-{"y_coordinate": "1916164", "year": "2013", "domestic": false, "case_number": "HW305415", "id": "9161778", "primary_type": "DECEPTIVE PRACTICE", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65376203604002, 41.92547016112471]}, "community_area": "7", "latitude": "41.92547016112471", "type": null, "description": "ILLEGAL USE CASH CARD", "beat": "1932", "date": {"$date": 1370089800000}, "ward": "43", "_id": {"$oid": "51b5f1203c002ed20d78d0e2"}, "iucr": "1152", "longitude": "-87.65376203604002", "location_description": "CTA TRAIN", "x_coordinate": "1169182", "updated_on": {"$date": 1370651988000}, "fbi_code": "11", "block": "024XX N SHEFFIELD AVE"}
+{
+    "y_coordinate": "1916164", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW305415", 
+    "id": "9161778", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65376203604002, 
+            41.92547016112471
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.92547016112471", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "1932", 
+    "date": {
+        "$date": 1370089800000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0e2"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.65376203604002", 
+    "location_description": "CTA TRAIN", 
+    "x_coordinate": "1169182", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "11", 
+    "block": "024XX N SHEFFIELD AVE"
+}

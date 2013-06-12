@@ -1,1 +1,33 @@
-{"community_area": "10", "_id": {"$oid": "51b742943c002ed20d78d1e0"}, "primary_type": "BATTERY", "beat": "1622", "year": "2013", "domestic": true, "iucr": "486", "arrest": false, "location_description": "RESIDENCE", "location": {"type": "Point", "coordinates": [-87.77903496005703, 41.98626901121297]}, "case_number": "HW303858", "date": {"$date": 1370311200000}, "updated_on": {"$date": 1370911182000}, "ward": "45", "fbi_code": "08B", "type": null, "id": "9167130", "block": "057XX N MC VICKER AVE", "description": "DOMESTIC BATTERY SIMPLE"}
+{
+    "_id": {
+        "$oid": "51b742943c002ed20d78d1e0"
+    }, 
+    "primary_type": "BATTERY", 
+    "year": "2013", 
+    "beat": "1622", 
+    "case_number": "HW303858", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77903496005703, 
+            41.98626901121297
+        ]
+    }, 
+    "community_area": "10", 
+    "date": {
+        "$date": 1370311200000
+    }, 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "ward": "45", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9167130", 
+    "block": "057XX N MC VICKER AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}

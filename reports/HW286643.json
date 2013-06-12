@@ -1,1 +1,38 @@
-{"y_coordinate": "1906680", "year": "2013", "domestic": false, "case_number": "HW286643", "id": "9141414", "primary_type": "OTHER OFFENSE", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73502791398921, 41.899896063107114]}, "community_area": "23", "latitude": "41.899896063107114", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "1111", "date": {"$date": 1369213200000}, "ward": "37", "_id": {"$oid": "51a7708d3c002ed20d78ace9"}, "iucr": "2825", "longitude": "-87.73502791398921", "location_description": "RESIDENCE", "x_coordinate": "1147132", "updated_on": {"$date": 1370133629000}, "fbi_code": "26", "block": "043XX W CORTEZ ST"}
+{
+    "y_coordinate": "1906680", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286643", 
+    "id": "9141414", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73502791398921, 
+            41.899896063107114
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.899896063107114", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "1111", 
+    "date": {
+        "$date": 1369213200000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ace9"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.73502791398921", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1147132", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "26", 
+    "block": "043XX W CORTEZ ST"
+}

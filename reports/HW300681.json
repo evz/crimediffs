@@ -1,1 +1,38 @@
-{"y_coordinate": "1840784", "year": "2013", "domestic": false, "case_number": "HW300681", "id": "9155033", "primary_type": "OTHER OFFENSE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56594825259563, 41.71805406471896]}, "community_area": "51", "latitude": "41.71805406471896", "type": null, "description": "TELEPHONE THREAT", "beat": "0431", "date": {"$date": 1370132280000}, "ward": "7", "_id": {"$oid": "51b5f11d3c002ed20d78cef5"}, "iucr": "2820", "longitude": "-87.56594825259563", "location_description": "RESIDENCE", "x_coordinate": "1193754", "updated_on": {"$date": 1370565766000}, "fbi_code": "26", "block": "097XX S OGLESBY AVE"}
+{
+    "y_coordinate": "1840784", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300681", 
+    "id": "9155033", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56594825259563, 
+            41.71805406471896
+        ]
+    }, 
+    "community_area": "51", 
+    "latitude": "41.71805406471896", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "0431", 
+    "date": {
+        "$date": 1370132280000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78cef5"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.56594825259563", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1193754", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "26", 
+    "block": "097XX S OGLESBY AVE"
+}

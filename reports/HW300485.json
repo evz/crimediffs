@@ -1,1 +1,38 @@
-{"y_coordinate": "1852256", "year": "2013", "domestic": false, "case_number": "HW300485", "id": "9154946", "primary_type": "PUBLIC PEACE VIOLATION", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.57609377580248, 41.74960407397236]}, "community_area": "46", "latitude": "41.74960407397236", "type": null, "description": "RECKLESS CONDUCT", "beat": "0414", "date": {"$date": 1370121000000}, "ward": "8", "_id": {"$oid": "51b5f11e3c002ed20d78cf83"}, "iucr": "470", "longitude": "-87.57609377580248", "location_description": "SIDEWALK", "x_coordinate": "1190883", "updated_on": {"$date": 1370608870000}, "fbi_code": "24", "block": "080XX S JEFFERY BLVD"}
+{
+    "y_coordinate": "1852256", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300485", 
+    "id": "9154946", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57609377580248, 
+            41.74960407397236
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.74960407397236", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "0414", 
+    "date": {
+        "$date": 1370121000000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf83"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.57609377580248", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1190883", 
+    "updated_on": {
+        "$date": 1370608870000
+    }, 
+    "fbi_code": "24", 
+    "block": "080XX S JEFFERY BLVD"
+}

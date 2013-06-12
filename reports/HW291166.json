@@ -1,1 +1,38 @@
-{"y_coordinate": "1858567", "year": "2013", "domestic": false, "case_number": "HW291166", "id": "9145670", "primary_type": "BATTERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64675291120479, 41.76736732324262]}, "community_area": "68", "latitude": "41.76736732324262", "type": null, "description": "SIMPLE", "beat": "0733", "date": {"$date": 1369537200000}, "ward": "17", "_id": {"$oid": "51b34a0c3c002ed20d78c83d"}, "iucr": "460", "longitude": "-87.64675291120479", "location_description": "RESIDENCE", "x_coordinate": "1171550", "updated_on": {"$date": 1369787985000}, "fbi_code": "08B", "block": "069XX S PEORIA ST"}
+{
+    "y_coordinate": "1858567", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291166", 
+    "id": "9145670", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64675291120479, 
+            41.76736732324262
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.76736732324262", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0733", 
+    "date": {
+        "$date": 1369537200000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51b34a0c3c002ed20d78c83d"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.64675291120479", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1171550", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "08B", 
+    "block": "069XX S PEORIA ST"
+}

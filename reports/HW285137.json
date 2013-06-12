@@ -1,1 +1,38 @@
-{"y_coordinate": "1908220", "year": "2013", "domestic": false, "case_number": "HW285137", "id": "9139822", "primary_type": "NARCOTICS", "district": "025", "arrest": true, "location": {"type": "Point", "coordinates": [-87.75106282690197, 41.9042046182327]}, "community_area": "25", "latitude": "41.9042046182327", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "2533", "date": {"$date": 1369164600000}, "ward": "37", "_id": {"$oid": "51a61f0a3c002ed20d78a785"}, "iucr": "1811", "longitude": "-87.75106282690197", "location_description": "STREET", "x_coordinate": "1142756", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "013XX N LAVERGNE AVE"}
+{
+    "y_coordinate": "1908220", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285137", 
+    "id": "9139822", 
+    "primary_type": "NARCOTICS", 
+    "district": "025", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75106282690197, 
+            41.9042046182327
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.9042046182327", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "2533", 
+    "date": {
+        "$date": 1369164600000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a785"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.75106282690197", 
+    "location_description": "STREET", 
+    "x_coordinate": "1142756", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "013XX N LAVERGNE AVE"
+}

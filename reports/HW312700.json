@@ -1,1 +1,33 @@
-{"community_area": "36", "_id": {"$oid": "51b7429e3c002ed20d78d47e"}, "primary_type": "THEFT", "beat": "0214", "year": "2013", "domestic": false, "iucr": "840", "arrest": false, "location_description": "APARTMENT", "location": {"type": "Point", "coordinates": [-87.60245992441376, 41.822967653409776]}, "case_number": "HW312700", "date": {"$date": 1370255400000}, "updated_on": {"$date": 1370911182000}, "ward": "4", "fbi_code": "06", "type": "property", "id": "9167330", "block": "039XX S LAKE PARK AVE", "description": "FINANCIAL ID THEFT: OVER $300"}
+{
+    "_id": {
+        "$oid": "51b7429e3c002ed20d78d47e"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "0214", 
+    "case_number": "HW312700", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60245992441376, 
+            41.822967653409776
+        ]
+    }, 
+    "community_area": "36", 
+    "date": {
+        "$date": 1370255400000
+    }, 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "ward": "4", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9167330", 
+    "block": "039XX S LAKE PARK AVE", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1855818", "year": "2013", "domestic": false, "case_number": "HW291063", "id": "9145619", "primary_type": "WEAPONS VIOLATION", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.59310136688907, 41.75949010213451]}, "community_area": "43", "latitude": "41.75949010213451", "type": null, "description": "UNLAWFUL POSS OF HANDGUN", "beat": "0324", "date": {"$date": 1369526640000}, "ward": "5", "_id": {"$oid": "51b34a0d3c002ed20d78c89a"}, "iucr": "143A", "longitude": "-87.59310136688907", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1186211", "updated_on": {"$date": 1369787985000}, "fbi_code": "15", "block": "074XX S KIMBARK AVE"}
+{
+    "y_coordinate": "1855818", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291063", 
+    "id": "9145619", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59310136688907, 
+            41.75949010213451
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.75949010213451", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "0324", 
+    "date": {
+        "$date": 1369526640000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c89a"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.59310136688907", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1186211", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "15", 
+    "block": "074XX S KIMBARK AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1902227", "year": "2013", "domestic": true, "case_number": "HW289146", "id": "9144461", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71231835286429, 41.88755538773455]}, "community_area": "27", "latitude": "41.88755538773455", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1123", "date": {"$date": 1369408500000}, "ward": "28", "_id": {"$oid": "51aa13903c002ed20d78afc2"}, "iucr": "486", "longitude": "-87.71231835286429", "location_description": "SIDEWALK", "x_coordinate": "1153347", "updated_on": {"$date": 1370047283000}, "fbi_code": "08B", "block": "034XX W CARROLL AVE"}
+{
+    "y_coordinate": "1902227", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289146", 
+    "id": "9144461", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71231835286429, 
+            41.88755538773455
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.88755538773455", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1123", 
+    "date": {
+        "$date": 1369408500000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78afc2"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.71231835286429", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1153347", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "08B", 
+    "block": "034XX W CARROLL AVE"
+}

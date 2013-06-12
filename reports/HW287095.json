@@ -1,1 +1,38 @@
-{"y_coordinate": "1932318", "year": "2013", "domestic": false, "case_number": "HW287095", "id": "9141874", "primary_type": "CRIMINAL DAMAGE", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73909138730028, 41.970273562370934]}, "community_area": "14", "latitude": "41.970273562370934", "type": "quality", "description": "TO VEHICLE", "beat": "1712", "date": {"$date": 1369247400000}, "ward": "39", "_id": {"$oid": "51a7708a3c002ed20d78ab4b"}, "iucr": "1320", "longitude": "-87.73909138730028", "location_description": "STREET", "x_coordinate": "1145848", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "049XX N KENNETH AVE"}
+{
+    "y_coordinate": "1932318", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287095", 
+    "id": "9141874", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73909138730028, 
+            41.970273562370934
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.970273562370934", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1712", 
+    "date": {
+        "$date": 1369247400000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab4b"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.73909138730028", 
+    "location_description": "STREET", 
+    "x_coordinate": "1145848", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "049XX N KENNETH AVE"
+}

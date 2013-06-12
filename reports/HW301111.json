@@ -1,1 +1,38 @@
-{"y_coordinate": "1860741", "year": "2013", "domestic": false, "case_number": "HW301111", "id": "9155418", "primary_type": "BURGLARY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66637813814685, 41.77344903013191]}, "community_area": "67", "latitude": "41.77344903013191", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "0725", "date": {"$date": 1370170800000}, "ward": "15", "_id": {"$oid": "51b5f11b3c002ed20d78cdee"}, "iucr": "620", "longitude": "-87.66637813814685", "location_description": "APARTMENT", "x_coordinate": "1166179", "updated_on": {"$date": 1370565766000}, "fbi_code": "05", "block": "066XX S PAULINA ST"}
+{
+    "y_coordinate": "1860741", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301111", 
+    "id": "9155418", 
+    "primary_type": "BURGLARY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66637813814685, 
+            41.77344903013191
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.77344903013191", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "0725", 
+    "date": {
+        "$date": 1370170800000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cdee"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.66637813814685", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1166179", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "05", 
+    "block": "066XX S PAULINA ST"
+}

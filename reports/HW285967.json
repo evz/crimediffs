@@ -1,1 +1,38 @@
-{"y_coordinate": "1899266", "year": "2013", "domestic": false, "case_number": "HW285967", "id": "9141002", "primary_type": "OTHER OFFENSE", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6291935924551, 41.87895008275958]}, "community_area": "32", "latitude": "41.87895008275958", "type": null, "description": "OTHER CRIME AGAINST PERSON", "beat": "0113", "date": {"$date": 1369222200000}, "ward": "42", "_id": {"$oid": "51a7708c3c002ed20d78ac91"}, "iucr": "5000", "longitude": "-87.6291935924551", "location_description": "FEDERAL BUILDING", "x_coordinate": "1176007", "updated_on": {"$date": 1370047283000}, "fbi_code": "26", "block": "002XX S DEARBORN ST"}
+{
+    "y_coordinate": "1899266", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285967", 
+    "id": "9141002", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6291935924551, 
+            41.87895008275958
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.87895008275958", 
+    "type": null, 
+    "description": "OTHER CRIME AGAINST PERSON", 
+    "beat": "0113", 
+    "date": {
+        "$date": 1369222200000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac91"
+    }, 
+    "iucr": "5000", 
+    "longitude": "-87.6291935924551", 
+    "location_description": "FEDERAL BUILDING", 
+    "x_coordinate": "1176007", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "26", 
+    "block": "002XX S DEARBORN ST"
+}

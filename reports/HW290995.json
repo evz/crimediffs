@@ -1,1 +1,38 @@
-{"y_coordinate": "1903875", "year": "2013", "domestic": false, "case_number": "HW290995", "id": "9145725", "primary_type": "ROBBERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71148127063802, 41.89207337096113]}, "community_area": "23", "latitude": "41.89207337096113", "type": "violent", "description": "ARMED: HANDGUN", "beat": "1121", "date": {"$date": 1369518000000}, "ward": "27", "_id": {"$oid": "51b34a0e3c002ed20d78c8fb"}, "iucr": "031A", "longitude": "-87.71148127063802", "location_description": "STREET", "x_coordinate": "1153563", "updated_on": {"$date": 1369874559000}, "fbi_code": "03", "block": "006XX N HOMAN AVE"}
+{
+    "y_coordinate": "1903875", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290995", 
+    "id": "9145725", 
+    "primary_type": "ROBBERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71148127063802, 
+            41.89207337096113
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.89207337096113", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "1121", 
+    "date": {
+        "$date": 1369518000000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c8fb"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.71148127063802", 
+    "location_description": "STREET", 
+    "x_coordinate": "1153563", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "03", 
+    "block": "006XX N HOMAN AVE"
+}

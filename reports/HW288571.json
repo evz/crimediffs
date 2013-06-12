@@ -1,1 +1,38 @@
-{"y_coordinate": "1907633", "year": "2013", "domestic": false, "case_number": "HW288571", "id": "9144163", "primary_type": "THEFT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63338215961645, 41.90193673009216]}, "community_area": "8", "latitude": "41.90193673009216", "type": "property", "description": "$500 AND UNDER", "beat": "1824", "date": {"$date": 1369299600000}, "ward": "43", "_id": {"$oid": "51aa13983c002ed20d78b3e4"}, "iucr": "820", "longitude": "-87.63338215961645", "location_description": "APARTMENT", "x_coordinate": "1174798", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "001XX W MAPLE ST"}
+{
+    "y_coordinate": "1907633", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288571", 
+    "id": "9144163", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63338215961645, 
+            41.90193673009216
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.90193673009216", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1824", 
+    "date": {
+        "$date": 1369299600000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3e4"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.63338215961645", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1174798", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "001XX W MAPLE ST"
+}

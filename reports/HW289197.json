@@ -1,1 +1,38 @@
-{"y_coordinate": "1861140", "year": "2013", "domestic": false, "case_number": "HW289197", "id": "9144268", "primary_type": "NARCOTICS", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.61413628841552, 41.77422884168645]}, "community_area": "42", "latitude": "41.77422884168645", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "0312", "date": {"$date": 1369406520000}, "ward": "20", "_id": {"$oid": "51aa13913c002ed20d78afe2"}, "iucr": "2024", "longitude": "-87.61413628841552", "location_description": "APARTMENT", "x_coordinate": "1180427", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "066XX S VERNON AVE"}
+{
+    "y_coordinate": "1861140", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289197", 
+    "id": "9144268", 
+    "primary_type": "NARCOTICS", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61413628841552, 
+            41.77422884168645
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.77422884168645", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "0312", 
+    "date": {
+        "$date": 1369406520000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78afe2"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.61413628841552", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1180427", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "066XX S VERNON AVE"
+}

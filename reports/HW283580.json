@@ -1,1 +1,38 @@
-{"y_coordinate": "1856331", "year": "2013", "domestic": false, "case_number": "HW283580", "id": "9138118", "primary_type": "WEAPONS VIOLATION", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.59071026411331, 41.760882495917805]}, "community_area": "43", "latitude": "41.760882495917805", "type": null, "description": "UNLAWFUL POSS OTHER FIREARM", "beat": "0324", "date": {"$date": 1369078200000}, "ward": "5", "_id": {"$oid": "51a4cd8f3c002ed20d78a3fe"}, "iucr": "143B", "longitude": "-87.59071026411331", "location_description": "ALLEY", "x_coordinate": "1186859", "updated_on": {"$date": 1369269615000}, "fbi_code": "15", "block": "073XX S DORCHESTER AVE"}
+{
+    "y_coordinate": "1856331", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283580", 
+    "id": "9138118", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59071026411331, 
+            41.760882495917805
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.760882495917805", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OTHER FIREARM", 
+    "beat": "0324", 
+    "date": {
+        "$date": 1369078200000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a3fe"
+    }, 
+    "iucr": "143B", 
+    "longitude": "-87.59071026411331", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1186859", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "15", 
+    "block": "073XX S DORCHESTER AVE"
+}

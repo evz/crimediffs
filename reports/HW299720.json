@@ -1,1 +1,38 @@
-{"y_coordinate": "1899507", "year": "2013", "domestic": false, "case_number": "HW299720", "id": "9154338", "primary_type": "NARCOTICS", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.75225667420668, 41.88030006382326]}, "community_area": "25", "latitude": "41.88030006382326", "type": "quality", "description": "MANU/DEL:CANNABIS 10GM OR LESS", "beat": "1533", "date": {"$date": 1370082600000}, "ward": "28", "_id": {"$oid": "51b5f1213c002ed20d78d130"}, "iucr": "1821", "longitude": "-87.75225667420668", "location_description": "SIDEWALK", "x_coordinate": "1142490", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "050XX W MADISON ST"}
+{
+    "y_coordinate": "1899507", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299720", 
+    "id": "9154338", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75225667420668, 
+            41.88030006382326
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.88030006382326", 
+    "type": "quality", 
+    "description": "MANU/DEL:CANNABIS 10GM OR LESS", 
+    "beat": "1533", 
+    "date": {
+        "$date": 1370082600000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d130"
+    }, 
+    "iucr": "1821", 
+    "longitude": "-87.75225667420668", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1142490", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "050XX W MADISON ST"
+}

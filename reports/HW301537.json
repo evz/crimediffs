@@ -1,1 +1,38 @@
-{"y_coordinate": "1925274", "year": "2013", "domestic": false, "case_number": "HW301537", "id": "9155780", "primary_type": "OTHER OFFENSE", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.80246161121859, 41.95125384030486]}, "community_area": "17", "latitude": "41.95125384030486", "type": null, "description": "OTHER VEHICLE OFFENSE", "beat": "1632", "date": {"$date": 1370194200000}, "ward": "38", "_id": {"$oid": "51b5f1193c002ed20d78ccf2"}, "iucr": "5002", "longitude": "-87.80246161121859", "location_description": "STREET", "x_coordinate": "1128658", "updated_on": {"$date": 1370479286000}, "fbi_code": "26", "block": "039XX N NORA AVE"}
+{
+    "y_coordinate": "1925274", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301537", 
+    "id": "9155780", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.80246161121859, 
+            41.95125384030486
+        ]
+    }, 
+    "community_area": "17", 
+    "latitude": "41.95125384030486", 
+    "type": null, 
+    "description": "OTHER VEHICLE OFFENSE", 
+    "beat": "1632", 
+    "date": {
+        "$date": 1370194200000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78ccf2"
+    }, 
+    "iucr": "5002", 
+    "longitude": "-87.80246161121859", 
+    "location_description": "STREET", 
+    "x_coordinate": "1128658", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "26", 
+    "block": "039XX N NORA AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1873500", "year": "2013", "domestic": false, "case_number": "HW289920", "id": "9144756", "primary_type": "BATTERY", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60880930764654, 41.80811471469148]}, "community_area": "38", "latitude": "41.80811471469148", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0223", "date": {"$date": 1369442100000}, "ward": "4", "_id": {"$oid": "51aa138b3c002ed20d78adfa"}, "iucr": "486", "longitude": "-87.60880930764654", "location_description": "RESIDENCE", "x_coordinate": "1181776", "updated_on": {"$date": 1369615194000}, "fbi_code": "08B", "block": "047XX S LANGLEY AVE"}
+{
+    "y_coordinate": "1873500", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289920", 
+    "id": "9144756", 
+    "primary_type": "BATTERY", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60880930764654, 
+            41.80811471469148
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.80811471469148", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0223", 
+    "date": {
+        "$date": 1369442100000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51aa138b3c002ed20d78adfa"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.60880930764654", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1181776", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08B", 
+    "block": "047XX S LANGLEY AVE"
+}

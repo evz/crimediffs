@@ -1,1 +1,38 @@
-{"y_coordinate": "1891753", "year": "2013", "domestic": false, "case_number": "HW283702", "id": "9138222", "primary_type": "NARCOTICS", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71291219323243, 41.85881530945609]}, "community_area": "29", "latitude": "41.85881530945609", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1021", "date": {"$date": 1369084200000}, "ward": "24", "_id": {"$oid": "51a4cd8e3c002ed20d78a3a5"}, "iucr": "1811", "longitude": "-87.71291219323243", "location_description": "SIDEWALK", "x_coordinate": "1153261", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "016XX S ST LOUIS AVE"}
+{
+    "y_coordinate": "1891753", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283702", 
+    "id": "9138222", 
+    "primary_type": "NARCOTICS", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71291219323243, 
+            41.85881530945609
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85881530945609", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1021", 
+    "date": {
+        "$date": 1369084200000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3a5"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.71291219323243", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1153261", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "016XX S ST LOUIS AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1852518", "year": "2013", "domestic": false, "case_number": "HW287556", "id": "9142711", "primary_type": "CRIMINAL TRESPASS", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.57337367748671, 41.75030512115712]}, "community_area": "46", "latitude": "41.75030512115712", "type": null, "description": "TO LAND", "beat": "0414", "date": {"$date": 1369311300000}, "ward": "8", "_id": {"$oid": "51aa13973c002ed20d78b356"}, "iucr": "1330", "longitude": "-87.57337367748671", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1191623", "updated_on": {"$date": 1369528777000}, "fbi_code": "26", "block": "079XX S CLYDE AVE"}
+{
+    "y_coordinate": "1852518", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287556", 
+    "id": "9142711", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57337367748671, 
+            41.75030512115712
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.75030512115712", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "0414", 
+    "date": {
+        "$date": 1369311300000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b356"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.57337367748671", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1191623", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "26", 
+    "block": "079XX S CLYDE AVE"
+}

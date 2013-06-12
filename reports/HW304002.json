@@ -1,1 +1,33 @@
-{"community_area": "42", "_id": {"$oid": "51b34a0f3c002ed20d78c9c4"}, "primary_type": "THEFT", "beat": "0321", "year": "2013", "domestic": false, "iucr": "890", "arrest": false, "location_description": "APARTMENT", "location": {"type": "Point", "coordinates": [-87.60951219080201, 41.771076796492125]}, "case_number": "HW304002", "date": {"$date": 1369501200000}, "updated_on": {"$date": 1370565766000}, "ward": "6", "fbi_code": "06", "type": "property", "id": "9159490", "block": "068XX S CHAMPLAIN AVE", "description": "FROM BUILDING"}
+{
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c9c4"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "0321", 
+    "case_number": "HW304002", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60951219080201, 
+            41.771076796492125
+        ]
+    }, 
+    "community_area": "42", 
+    "date": {
+        "$date": 1369501200000
+    }, 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "ward": "6", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9159490", 
+    "block": "068XX S CHAMPLAIN AVE", 
+    "description": "FROM BUILDING"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1851034", "year": "2013", "domestic": false, "case_number": "HW285239", "id": "9139898", "primary_type": "NARCOTICS", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6542797113328, 41.74673922532301]}, "community_area": "71", "latitude": "41.74673922532301", "type": "quality", "description": "MANU/DEL:CANNABIS OVER 10 GMS", "beat": "0613", "date": {"$date": 1369171800000}, "ward": "21", "_id": {"$oid": "51a61f093c002ed20d78a722"}, "iucr": "1822", "longitude": "-87.6542797113328", "location_description": "STREET", "x_coordinate": "1169556", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "012XX W 81ST ST"}
+{
+    "y_coordinate": "1851034", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285239", 
+    "id": "9139898", 
+    "primary_type": "NARCOTICS", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6542797113328, 
+            41.74673922532301
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.74673922532301", 
+    "type": "quality", 
+    "description": "MANU/DEL:CANNABIS OVER 10 GMS", 
+    "beat": "0613", 
+    "date": {
+        "$date": 1369171800000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51a61f093c002ed20d78a722"
+    }, 
+    "iucr": "1822", 
+    "longitude": "-87.6542797113328", 
+    "location_description": "STREET", 
+    "x_coordinate": "1169556", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "012XX W 81ST ST"
+}

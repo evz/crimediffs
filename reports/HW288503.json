@@ -1,1 +1,38 @@
-{"y_coordinate": "1855593", "year": "2013", "domestic": false, "case_number": "HW288503", "id": "9143459", "primary_type": "BATTERY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.57641125847567, 41.75876389052007]}, "community_area": "43", "latitude": "41.75876389052007", "type": null, "description": "SIMPLE", "beat": "0414", "date": {"$date": 1369253640000}, "ward": "8", "_id": {"$oid": "51a770893c002ed20d78aaf2"}, "iucr": "460", "longitude": "-87.57641125847567", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1190767", "updated_on": {"$date": 1369874559000}, "fbi_code": "08B", "block": "019XX E 75TH ST"}
+{
+    "y_coordinate": "1855593", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288503", 
+    "id": "9143459", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57641125847567, 
+            41.75876389052007
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.75876389052007", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0414", 
+    "date": {
+        "$date": 1369253640000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51a770893c002ed20d78aaf2"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.57641125847567", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1190767", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "08B", 
+    "block": "019XX E 75TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1897213", "year": "2013", "domestic": false, "case_number": "HW289021", "id": "9144404", "primary_type": "THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69438762461647, 41.87369736966366]}, "community_area": "27", "latitude": "41.87369736966366", "type": "property", "description": "$500 AND UNDER", "beat": "1135", "date": {"$date": 1369278000000}, "ward": "2", "_id": {"$oid": "51a770853c002ed20d78a9fb"}, "iucr": "820", "longitude": "-87.69438762461647", "location_description": "GOVERNMENT BUILDING/PROPERTY", "x_coordinate": "1158267", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "027XX W HARRISON ST"}
+{
+    "y_coordinate": "1897213", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289021", 
+    "id": "9144404", 
+    "primary_type": "THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69438762461647, 
+            41.87369736966366
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.87369736966366", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1135", 
+    "date": {
+        "$date": 1369278000000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a770853c002ed20d78a9fb"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.69438762461647", 
+    "location_description": "GOVERNMENT BUILDING/PROPERTY", 
+    "x_coordinate": "1158267", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "027XX W HARRISON ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1846456", "year": "2013", "domestic": false, "case_number": "HW290172", "id": "9144951", "primary_type": "THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58410588089738, 41.7337396304227]}, "community_area": "48", "latitude": "41.7337396304227", "type": "property", "description": "FROM BUILDING", "beat": "0412", "date": {"$date": 1369422000000}, "ward": "8", "_id": {"$oid": "51aa138e3c002ed20d78af01"}, "iucr": "890", "longitude": "-87.58410588089738", "location_description": "RESIDENCE", "x_coordinate": "1188747", "updated_on": {"$date": 1370133629000}, "fbi_code": "06", "block": "088XX S CORNELL AVE"}
+{
+    "y_coordinate": "1846456", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290172", 
+    "id": "9144951", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58410588089738, 
+            41.7337396304227
+        ]
+    }, 
+    "community_area": "48", 
+    "latitude": "41.7337396304227", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0412", 
+    "date": {
+        "$date": 1369422000000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51aa138e3c002ed20d78af01"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.58410588089738", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1188747", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "06", 
+    "block": "088XX S CORNELL AVE"
+}

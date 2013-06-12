@@ -1,1 +1,38 @@
-{"y_coordinate": "1860094", "year": "2013", "domestic": false, "case_number": "HW289777", "id": "9144598", "primary_type": "BATTERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61526437306266, 41.771365368043504]}, "community_area": "69", "latitude": "41.771365368043504", "type": null, "description": "SIMPLE", "beat": "0322", "date": {"$date": 1369434600000}, "ward": "20", "_id": {"$oid": "51aa138c3c002ed20d78ae56"}, "iucr": "460", "longitude": "-87.61526437306266", "location_description": "RESTAURANT", "x_coordinate": "1180128", "updated_on": {"$date": 1369787985000}, "fbi_code": "08B", "block": "067XX S DR MARTIN LUTHER KING JR DR"}
+{
+    "y_coordinate": "1860094", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289777", 
+    "id": "9144598", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61526437306266, 
+            41.771365368043504
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.771365368043504", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0322", 
+    "date": {
+        "$date": 1369434600000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae56"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.61526437306266", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1180128", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "08B", 
+    "block": "067XX S DR MARTIN LUTHER KING JR DR"
+}

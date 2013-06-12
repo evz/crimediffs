@@ -1,1 +1,33 @@
-{"community_area": "76", "_id": {"$oid": "51b34a253c002ed20d78cb93"}, "primary_type": "THEFT", "beat": "1653", "year": "2013", "domestic": false, "iucr": "810", "arrest": false, "location_description": "SMALL RETAIL STORE", "location": {"type": "Point", "coordinates": [-87.89964024613694, 41.9753034816437]}, "case_number": "HW300018", "date": {"$date": 1369067400000}, "updated_on": {"$date": 1370651988000}, "ward": "41", "fbi_code": "06", "type": "property", "id": "9163108", "block": "0000X W K5 ST", "description": "OVER $500"}
+{
+    "_id": {
+        "$oid": "51b34a253c002ed20d78cb93"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "1653", 
+    "case_number": "HW300018", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "SMALL RETAIL STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.89964024613694, 
+            41.9753034816437
+        ]
+    }, 
+    "community_area": "76", 
+    "date": {
+        "$date": 1369067400000
+    }, 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "ward": "41", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9163108", 
+    "block": "0000X W K5 ST", 
+    "description": "OVER $500"
+}

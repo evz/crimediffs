@@ -1,1 +1,38 @@
-{"y_coordinate": "1890823", "year": "2013", "domestic": false, "case_number": "HW293065", "id": "9147276", "primary_type": "BURGLARY", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67008357940362, 41.856023804215496]}, "community_area": "31", "latitude": "41.856023804215496", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1234", "date": {"$date": 1369425600000}, "ward": "25", "_id": {"$oid": "51aa138e3c002ed20d78aed5"}, "iucr": "610", "longitude": "-87.67008357940362", "location_description": "APARTMENT", "x_coordinate": "1164936", "updated_on": {"$date": 1370565766000}, "fbi_code": "05", "block": "017XX W 19TH ST"}
+{
+    "y_coordinate": "1890823", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293065", 
+    "id": "9147276", 
+    "primary_type": "BURGLARY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67008357940362, 
+            41.856023804215496
+        ]
+    }, 
+    "community_area": "31", 
+    "latitude": "41.856023804215496", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1234", 
+    "date": {
+        "$date": 1369425600000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51aa138e3c002ed20d78aed5"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.67008357940362", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1164936", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "05", 
+    "block": "017XX W 19TH ST"
+}

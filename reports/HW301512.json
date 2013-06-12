@@ -1,1 +1,38 @@
-{"y_coordinate": "1931001", "year": "2013", "domestic": true, "case_number": "HW301512", "id": "9155709", "primary_type": "BATTERY", "district": "017", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72344308612874, 41.9665773773602]}, "community_area": "14", "latitude": "41.9665773773602", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1723", "date": {"$date": 1370196900000}, "ward": "39", "_id": {"$oid": "51b5f1193c002ed20d78ccd1"}, "iucr": "486", "longitude": "-87.72344308612874", "location_description": "RESIDENCE", "x_coordinate": "1150113", "updated_on": {"$date": 1370392932000}, "fbi_code": "08B", "block": "038XX W LELAND AVE"}
+{
+    "y_coordinate": "1931001", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301512", 
+    "id": "9155709", 
+    "primary_type": "BATTERY", 
+    "district": "017", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72344308612874, 
+            41.9665773773602
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.9665773773602", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1723", 
+    "date": {
+        "$date": 1370196900000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78ccd1"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.72344308612874", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1150113", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "08B", 
+    "block": "038XX W LELAND AVE"
+}

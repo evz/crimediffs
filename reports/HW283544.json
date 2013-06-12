@@ -1,1 +1,38 @@
-{"y_coordinate": "1908575", "year": "2013", "domestic": false, "case_number": "HW283544", "id": "9138111", "primary_type": "NARCOTICS", "district": "025", "arrest": true, "location": {"type": "Point", "coordinates": [-87.75079316652585, 41.90517745521208]}, "community_area": "25", "latitude": "41.90517745521208", "type": "quality", "description": "POSS: CRACK", "beat": "2533", "date": {"$date": 1369077300000}, "ward": "37", "_id": {"$oid": "51a4cd8f3c002ed20d78a405"}, "iucr": "2027", "longitude": "-87.75079316652585", "location_description": "STREET", "x_coordinate": "1142827", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "013XX N LAVERGNE AVE"}
+{
+    "y_coordinate": "1908575", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283544", 
+    "id": "9138111", 
+    "primary_type": "NARCOTICS", 
+    "district": "025", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75079316652585, 
+            41.90517745521208
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.90517745521208", 
+    "type": "quality", 
+    "description": "POSS: CRACK", 
+    "beat": "2533", 
+    "date": {
+        "$date": 1369077300000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a405"
+    }, 
+    "iucr": "2027", 
+    "longitude": "-87.75079316652585", 
+    "location_description": "STREET", 
+    "x_coordinate": "1142827", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "013XX N LAVERGNE AVE"
+}

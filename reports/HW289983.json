@@ -1,1 +1,38 @@
-{"y_coordinate": "1855429", "year": "2013", "domestic": false, "case_number": "HW289983", "id": "9144801", "primary_type": "OTHER OFFENSE", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.613318110841, 41.758551045245774]}, "community_area": "69", "latitude": "41.758551045245774", "type": null, "description": "LICENSE VIOLATION", "beat": "0323", "date": {"$date": 1369453200000}, "ward": "6", "_id": {"$oid": "51aa13893c002ed20d78ad93"}, "iucr": "5011", "longitude": "-87.613318110841", "location_description": "OTHER", "x_coordinate": "1180698", "updated_on": {"$date": 1369615194000}, "fbi_code": "26", "block": "004XX E 75TH ST"}
+{
+    "y_coordinate": "1855429", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289983", 
+    "id": "9144801", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.613318110841, 
+            41.758551045245774
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.758551045245774", 
+    "type": null, 
+    "description": "LICENSE VIOLATION", 
+    "beat": "0323", 
+    "date": {
+        "$date": 1369453200000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51aa13893c002ed20d78ad93"
+    }, 
+    "iucr": "5011", 
+    "longitude": "-87.613318110841", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1180698", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "26", 
+    "block": "004XX E 75TH ST"
+}

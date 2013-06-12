@@ -1,1 +1,38 @@
-{"y_coordinate": "1852513", "year": "2013", "domestic": false, "case_number": "HW286804", "id": "9141636", "primary_type": "CRIMINAL DAMAGE", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.59924452732676, 41.75045960644559]}, "community_area": "44", "latitude": "41.75045960644559", "type": "quality", "description": "TO PROPERTY", "beat": "0624", "date": {"$date": 1369257540000}, "ward": "8", "_id": {"$oid": "51a770883c002ed20d78aabd"}, "iucr": "1310", "longitude": "-87.59924452732676", "location_description": "RESIDENCE", "x_coordinate": "1184563", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "079XX S DOBSON AVE"}
+{
+    "y_coordinate": "1852513", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286804", 
+    "id": "9141636", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59924452732676, 
+            41.75045960644559
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.75045960644559", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0624", 
+    "date": {
+        "$date": 1369257540000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aabd"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.59924452732676", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1184563", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "079XX S DOBSON AVE"
+}

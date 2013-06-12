@@ -1,1 +1,38 @@
-{"y_coordinate": "1850745", "year": "2013", "domestic": false, "case_number": "HW284450", "id": "9139377", "primary_type": "THEFT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63535883538513, 41.74583273922153]}, "community_area": "44", "latitude": "41.74583273922153", "type": "property", "description": "$500 AND UNDER", "beat": "0622", "date": {"$date": 1369055700000}, "ward": "21", "_id": {"$oid": "51a4cd913c002ed20d78a526"}, "iucr": "820", "longitude": "-87.63535883538513", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1174722", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "081XX S VINCENNES AVE"}
+{
+    "y_coordinate": "1850745", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284450", 
+    "id": "9139377", 
+    "primary_type": "THEFT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63535883538513, 
+            41.74583273922153
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.74583273922153", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0622", 
+    "date": {
+        "$date": 1369055700000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a526"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.63535883538513", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1174722", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "081XX S VINCENNES AVE"
+}

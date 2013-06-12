@@ -1,1 +1,38 @@
-{"y_coordinate": "1901370", "year": "2013", "domestic": true, "case_number": "HW289949", "id": "9144770", "primary_type": "BATTERY", "district": "001", "arrest": true, "location": {"type": "Point", "coordinates": [-87.61717384983282, 41.88464963859371]}, "community_area": "32", "latitude": "41.88464963859371", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0114", "date": {"$date": 1369449000000}, "ward": "42", "_id": {"$oid": "51aa138a3c002ed20d78adad"}, "iucr": "486", "longitude": "-87.61717384983282", "location_description": "BOAT/WATERCRAFT", "x_coordinate": "1179263", "updated_on": {"$date": 1369874559000}, "fbi_code": "08B", "block": "004XX E RANDOLPH ST"}
+{
+    "y_coordinate": "1901370", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289949", 
+    "id": "9144770", 
+    "primary_type": "BATTERY", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61717384983282, 
+            41.88464963859371
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88464963859371", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0114", 
+    "date": {
+        "$date": 1369449000000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51aa138a3c002ed20d78adad"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.61717384983282", 
+    "location_description": "BOAT/WATERCRAFT", 
+    "x_coordinate": "1179263", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "08B", 
+    "block": "004XX E RANDOLPH ST"
+}

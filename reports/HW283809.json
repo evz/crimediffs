@@ -1,1 +1,38 @@
-{"y_coordinate": "1951532", "year": "2013", "domestic": false, "case_number": "HW283809", "id": "9138347", "primary_type": "NARCOTICS", "district": "024", "arrest": true, "location": {"type": "Point", "coordinates": [-87.67644380966533, 42.02265907713753]}, "community_area": "1", "latitude": "42.02265907713753", "type": "quality", "description": "MANU/DEL:CANNABIS OVER 10 GMS", "beat": "2422", "date": {"$date": 1369085640000}, "ward": "49", "_id": {"$oid": "51a4cd8d3c002ed20d78a390"}, "iucr": "1822", "longitude": "-87.67644380966533", "location_description": "STREET", "x_coordinate": "1162738", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "018XX W JUNEWAY TER"}
+{
+    "y_coordinate": "1951532", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283809", 
+    "id": "9138347", 
+    "primary_type": "NARCOTICS", 
+    "district": "024", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67644380966533, 
+            42.02265907713753
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "42.02265907713753", 
+    "type": "quality", 
+    "description": "MANU/DEL:CANNABIS OVER 10 GMS", 
+    "beat": "2422", 
+    "date": {
+        "$date": 1369085640000
+    }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51a4cd8d3c002ed20d78a390"
+    }, 
+    "iucr": "1822", 
+    "longitude": "-87.67644380966533", 
+    "location_description": "STREET", 
+    "x_coordinate": "1162738", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "018XX W JUNEWAY TER"
+}

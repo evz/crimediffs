@@ -1,1 +1,38 @@
-{"y_coordinate": "1940464", "year": "2013", "domestic": false, "case_number": "HW290471", "id": "9145182", "primary_type": "BATTERY", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69595705678574, 41.992396434327446]}, "community_area": "2", "latitude": "41.992396434327446", "type": null, "description": "SIMPLE", "beat": "2413", "date": {"$date": 1369420200000}, "ward": "50", "_id": {"$oid": "51aa138f3c002ed20d78af1e"}, "iucr": "460", "longitude": "-87.69595705678574", "location_description": "SIDEWALK", "x_coordinate": "1157518", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "061XX N TALMAN AVE"}
+{
+    "y_coordinate": "1940464", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290471", 
+    "id": "9145182", 
+    "primary_type": "BATTERY", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69595705678574, 
+            41.992396434327446
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "41.992396434327446", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2413", 
+    "date": {
+        "$date": 1369420200000
+    }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51aa138f3c002ed20d78af1e"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.69595705678574", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1157518", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "061XX N TALMAN AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1858583", "year": "2013", "domestic": true, "case_number": "HW285381", "id": "9140004", "primary_type": "ASSAULT", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.58266319498593, 41.767010351144016]}, "community_area": "43", "latitude": "41.767010351144016", "type": "violent", "description": "AGGRAVATED:KNIFE/CUTTING INSTR", "beat": "0332", "date": {"$date": 1369179540000}, "ward": "5", "_id": {"$oid": "51a61f073c002ed20d78a6d5"}, "iucr": "520", "longitude": "-87.58266319498593", "location_description": "APARTMENT", "x_coordinate": "1189035", "updated_on": {"$date": 1369356045000}, "fbi_code": "04A", "block": "070XX S EAST END AVE"}
+{
+    "y_coordinate": "1858583", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285381", 
+    "id": "9140004", 
+    "primary_type": "ASSAULT", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58266319498593, 
+            41.767010351144016
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.767010351144016", 
+    "type": "violent", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
+    "beat": "0332", 
+    "date": {
+        "$date": 1369179540000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51a61f073c002ed20d78a6d5"
+    }, 
+    "iucr": "520", 
+    "longitude": "-87.58266319498593", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1189035", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "04A", 
+    "block": "070XX S EAST END AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1930121", "year": "2013", "domestic": false, "case_number": "HW286015", "id": "9141007", "primary_type": "OTHER OFFENSE", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65153157477073, 41.963757930712035]}, "community_area": "3", "latitude": "41.963757930712035", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "1914", "date": {"$date": 1369226700000}, "ward": "46", "_id": {"$oid": "51a7708c3c002ed20d78ac63"}, "iucr": "2825", "longitude": "-87.65153157477073", "location_description": "RESIDENCE", "x_coordinate": "1169678", "updated_on": {"$date": 1369528777000}, "fbi_code": "26", "block": "008XX W SUNNYSIDE AVE"}
+{
+    "y_coordinate": "1930121", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286015", 
+    "id": "9141007", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65153157477073, 
+            41.963757930712035
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.963757930712035", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "1914", 
+    "date": {
+        "$date": 1369226700000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac63"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.65153157477073", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1169678", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "26", 
+    "block": "008XX W SUNNYSIDE AVE"
+}

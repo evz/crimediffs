@@ -1,1 +1,38 @@
-{"y_coordinate": "1917858", "year": "2013", "domestic": false, "case_number": "HW283802", "id": "9138304", "primary_type": "THEFT", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70385103068612, 41.93040440521661]}, "community_area": "22", "latitude": "41.93040440521661", "type": "property", "description": "OVER $500", "beat": "1411", "date": {"$date": 1369090800000}, "ward": "35", "_id": {"$oid": "51a4cd8c3c002ed20d78a350"}, "iucr": "810", "longitude": "-87.70385103068612", "location_description": "SIDEWALK", "x_coordinate": "1155538", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "027XX N WHIPPLE ST"}
+{
+    "y_coordinate": "1917858", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283802", 
+    "id": "9138304", 
+    "primary_type": "THEFT", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70385103068612, 
+            41.93040440521661
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.93040440521661", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1411", 
+    "date": {
+        "$date": 1369090800000
+    }, 
+    "ward": "35", 
+    "_id": {
+        "$oid": "51a4cd8c3c002ed20d78a350"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.70385103068612", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1155538", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "027XX N WHIPPLE ST"
+}

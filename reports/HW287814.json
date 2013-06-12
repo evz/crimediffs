@@ -1,1 +1,38 @@
-{"y_coordinate": "1905844", "year": "2013", "domestic": true, "case_number": "HW287814", "id": "9142951", "primary_type": "CRIMINAL TRESPASS", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67694419675354, 41.89728456059845]}, "community_area": "24", "latitude": "41.89728456059845", "type": null, "description": "TO RESIDENCE", "beat": "1212", "date": {"$date": 1369323000000}, "ward": "32", "_id": {"$oid": "51aa13963c002ed20d78b2d9"}, "iucr": "1365", "longitude": "-87.67694419675354", "location_description": "APARTMENT", "x_coordinate": "1162952", "updated_on": {"$date": 1369701613000}, "fbi_code": "26", "block": "008XX N DAMEN AVE"}
+{
+    "y_coordinate": "1905844", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW287814", 
+    "id": "9142951", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67694419675354, 
+            41.89728456059845
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.89728456059845", 
+    "type": null, 
+    "description": "TO RESIDENCE", 
+    "beat": "1212", 
+    "date": {
+        "$date": 1369323000000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b2d9"
+    }, 
+    "iucr": "1365", 
+    "longitude": "-87.67694419675354", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1162952", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "26", 
+    "block": "008XX N DAMEN AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1862054", "year": "2013", "domestic": false, "case_number": "HW302343", "id": "9157257", "primary_type": "CRIMINAL TRESPASS", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58645997265079, 41.776560530619335]}, "community_area": "42", "latitude": "41.776560530619335", "type": null, "description": "TO LAND", "beat": "0321", "date": {"$date": 1370248740000}, "ward": "5", "_id": {"$oid": "51b7429e3c002ed20d78d4d0"}, "iucr": "1330", "longitude": "-87.58645997265079", "location_description": "OTHER", "x_coordinate": "1187969", "updated_on": {"$date": 1370479286000}, "fbi_code": "26", "block": "065XX S STONY ISLAND AVE"}
+{
+    "y_coordinate": "1862054", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302343", 
+    "id": "9157257", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58645997265079, 
+            41.776560530619335
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.776560530619335", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "0321", 
+    "date": {
+        "$date": 1370248740000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51b7429e3c002ed20d78d4d0"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.58645997265079", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1187969", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "26", 
+    "block": "065XX S STONY ISLAND AVE"
+}

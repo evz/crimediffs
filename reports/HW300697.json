@@ -1,1 +1,38 @@
-{"y_coordinate": "1940137", "year": "2013", "domestic": false, "case_number": "HW300697", "id": "9155135", "primary_type": "ROBBERY", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6932036174315, 41.99148376182125]}, "community_area": "2", "latitude": "41.99148376182125", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "2413", "date": {"$date": 1370134500000}, "ward": "50", "_id": {"$oid": "51b5f11d3c002ed20d78cee0"}, "iucr": "320", "longitude": "-87.6932036174315", "location_description": "SIDEWALK", "x_coordinate": "1158269", "updated_on": {"$date": 1370392932000}, "fbi_code": "03", "block": "060XX N MAPLEWOOD AVE"}
+{
+    "y_coordinate": "1940137", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300697", 
+    "id": "9155135", 
+    "primary_type": "ROBBERY", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6932036174315, 
+            41.99148376182125
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "41.99148376182125", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "2413", 
+    "date": {
+        "$date": 1370134500000
+    }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78cee0"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.6932036174315", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1158269", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "03", 
+    "block": "060XX N MAPLEWOOD AVE"
+}

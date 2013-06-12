@@ -1,1 +1,38 @@
-{"y_coordinate": "1910915", "year": "2013", "domestic": false, "case_number": "HW290537", "id": "9145224", "primary_type": "THEFT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64803335546047, 41.91103167014359]}, "community_area": "7", "latitude": "41.91103167014359", "type": "property", "description": "FROM BUILDING", "beat": "1813", "date": {"$date": 1369398600000}, "ward": "43", "_id": {"$oid": "51aa13913c002ed20d78b04a"}, "iucr": "890", "longitude": "-87.64803335546047", "location_description": "OTHER", "x_coordinate": "1170783", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "007XX W NORTH AVE"}
+{
+    "y_coordinate": "1910915", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290537", 
+    "id": "9145224", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64803335546047, 
+            41.91103167014359
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.91103167014359", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1813", 
+    "date": {
+        "$date": 1369398600000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b04a"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.64803335546047", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1170783", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "007XX W NORTH AVE"
+}

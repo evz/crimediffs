@@ -1,1 +1,38 @@
-{"y_coordinate": "1929309", "year": "2013", "domestic": true, "case_number": "HW291097", "id": "9145630", "primary_type": "BATTERY", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73861294563302, 41.962013761075795]}, "community_area": "16", "latitude": "41.962013761075795", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1722", "date": {"$date": 1369530000000}, "ward": "45", "_id": {"$oid": "51b34a0d3c002ed20d78c877"}, "iucr": "486", "longitude": "-87.73861294563302", "location_description": "SIDEWALK", "x_coordinate": "1145999", "updated_on": {"$date": 1370047283000}, "fbi_code": "08B", "block": "044XX N KOSTNER AVE"}
+{
+    "y_coordinate": "1929309", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW291097", 
+    "id": "9145630", 
+    "primary_type": "BATTERY", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73861294563302, 
+            41.962013761075795
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.962013761075795", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1722", 
+    "date": {
+        "$date": 1369530000000
+    }, 
+    "ward": "45", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c877"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.73861294563302", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1145999", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "08B", 
+    "block": "044XX N KOSTNER AVE"
+}

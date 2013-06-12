@@ -1,1 +1,38 @@
-{"y_coordinate": "1903834", "year": "2013", "domestic": false, "case_number": "HW290915", "id": "9146302", "primary_type": "CRIMINAL DAMAGE", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71088373135215, 41.891957619714276]}, "community_area": "23", "latitude": "41.891957619714276", "type": "quality", "description": "TO VEHICLE", "beat": "1121", "date": {"$date": 1369510260000}, "ward": "27", "_id": {"$oid": "51b34a0f3c002ed20d78c951"}, "iucr": "1320", "longitude": "-87.71088373135215", "location_description": "RESIDENCE", "x_coordinate": "1153726", "updated_on": {"$date": 1369787985000}, "fbi_code": "14", "block": "033XX W OHIO ST"}
+{
+    "y_coordinate": "1903834", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290915", 
+    "id": "9146302", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71088373135215, 
+            41.891957619714276
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.891957619714276", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1121", 
+    "date": {
+        "$date": 1369510260000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c951"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.71088373135215", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1153726", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "14", 
+    "block": "033XX W OHIO ST"
+}

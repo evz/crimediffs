@@ -1,1 +1,38 @@
-{"y_coordinate": "1854848", "year": "2013", "domestic": false, "case_number": "HW291540", "id": "9146078", "primary_type": "CRIMINAL DAMAGE", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6346065015734, 41.75708804584861]}, "community_area": "69", "latitude": "41.75708804584861", "type": "quality", "description": "TO PROPERTY", "beat": "0621", "date": {"$date": 1369519200000}, "ward": "17", "_id": {"$oid": "51b34a0e3c002ed20d78c8e9"}, "iucr": "1310", "longitude": "-87.6346065015734", "location_description": "RESIDENCE", "x_coordinate": "1174894", "updated_on": {"$date": 1369787985000}, "fbi_code": "14", "block": "075XX S STEWART AVE"}
+{
+    "y_coordinate": "1854848", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291540", 
+    "id": "9146078", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6346065015734, 
+            41.75708804584861
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.75708804584861", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0621", 
+    "date": {
+        "$date": 1369519200000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c8e9"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.6346065015734", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1174894", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "14", 
+    "block": "075XX S STEWART AVE"
+}

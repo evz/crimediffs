@@ -1,1 +1,38 @@
-{"y_coordinate": "1851876", "year": "2013", "domestic": true, "case_number": "HW290307", "id": "9145018", "primary_type": "CRIMINAL DAMAGE", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6004077100372, 41.74871891164899]}, "community_area": "44", "latitude": "41.74871891164899", "type": "quality", "description": "TO PROPERTY", "beat": "0631", "date": {"$date": 1369468800000}, "ward": "8", "_id": {"$oid": "51b34a123c002ed20d78cb06"}, "iucr": "1310", "longitude": "-87.6004077100372", "location_description": "APARTMENT", "x_coordinate": "1184251", "updated_on": {"$date": 1370047283000}, "fbi_code": "14", "block": "080XX S ELLIS AVE"}
+{
+    "y_coordinate": "1851876", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290307", 
+    "id": "9145018", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6004077100372, 
+            41.74871891164899
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.74871891164899", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0631", 
+    "date": {
+        "$date": 1369468800000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cb06"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.6004077100372", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1184251", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "14", 
+    "block": "080XX S ELLIS AVE"
+}

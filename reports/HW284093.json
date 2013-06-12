@@ -1,1 +1,38 @@
-{"y_coordinate": "1843660", "year": "2013", "domestic": false, "case_number": "HW284093", "id": "9138715", "primary_type": "CRIMINAL DAMAGE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.54853940602473, 41.7258291270076]}, "community_area": "46", "latitude": "41.7258291270076", "type": "quality", "description": "TO PROPERTY", "beat": "0424", "date": {"$date": 1369127400000}, "ward": "10", "_id": {"$oid": "51a61f0f3c002ed20d78a967"}, "iucr": "1310", "longitude": "-87.54853940602473", "location_description": "CHURCH/SYNAGOGUE/PLACE OF WORSHIP", "x_coordinate": "1198481", "updated_on": {"$date": 1369356045000}, "fbi_code": "14", "block": "093XX S BALTIMORE AVE"}
+{
+    "y_coordinate": "1843660", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284093", 
+    "id": "9138715", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.54853940602473, 
+            41.7258291270076
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.7258291270076", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0424", 
+    "date": {
+        "$date": 1369127400000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a967"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.54853940602473", 
+    "location_description": "CHURCH/SYNAGOGUE/PLACE OF WORSHIP", 
+    "x_coordinate": "1198481", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "14", 
+    "block": "093XX S BALTIMORE AVE"
+}

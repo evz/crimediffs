@@ -1,1 +1,38 @@
-{"y_coordinate": "1826623", "year": "2013", "domestic": false, "case_number": "HW286919", "id": "9141694", "primary_type": "NARCOTICS", "district": "005", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62885989429104, 41.6795945429799]}, "community_area": "53", "latitude": "41.6795945429799", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0522", "date": {"$date": 1369263900000}, "ward": "34", "_id": {"$oid": "51a770873c002ed20d78aa6a"}, "iucr": "1811", "longitude": "-87.62885989429104", "location_description": "VACANT LOT/LAND", "x_coordinate": "1176693", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "118XX S YALE AVE"}
+{
+    "y_coordinate": "1826623", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286919", 
+    "id": "9141694", 
+    "primary_type": "NARCOTICS", 
+    "district": "005", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62885989429104, 
+            41.6795945429799
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.6795945429799", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0522", 
+    "date": {
+        "$date": 1369263900000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51a770873c002ed20d78aa6a"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.62885989429104", 
+    "location_description": "VACANT LOT/LAND", 
+    "x_coordinate": "1176693", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "118XX S YALE AVE"
+}

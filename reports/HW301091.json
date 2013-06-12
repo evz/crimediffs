@@ -1,1 +1,38 @@
-{"y_coordinate": "1854020", "year": "2013", "domestic": true, "case_number": "HW301091", "id": "9155527", "primary_type": "WEAPONS VIOLATION", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.63669070546183, 41.754828420049556]}, "community_area": "69", "latitude": "41.754828420049556", "type": null, "description": "POSS FIREARM/AMMO:NO FOID CARD", "beat": "0621", "date": {"$date": 1370169600000}, "ward": "17", "_id": {"$oid": "51b5f11b3c002ed20d78cdfa"}, "iucr": "1460", "longitude": "-87.63669070546183", "location_description": "RESIDENCE", "x_coordinate": "1174332", "updated_on": {"$date": 1370392932000}, "fbi_code": "15", "block": "076XX S NORMAL AVE"}
+{
+    "y_coordinate": "1854020", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301091", 
+    "id": "9155527", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63669070546183, 
+            41.754828420049556
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.754828420049556", 
+    "type": null, 
+    "description": "POSS FIREARM/AMMO:NO FOID CARD", 
+    "beat": "0621", 
+    "date": {
+        "$date": 1370169600000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cdfa"
+    }, 
+    "iucr": "1460", 
+    "longitude": "-87.63669070546183", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1174332", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "15", 
+    "block": "076XX S NORMAL AVE"
+}

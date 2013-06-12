@@ -1,1 +1,38 @@
-{"y_coordinate": "1899764", "year": "2013", "domestic": false, "case_number": "HW284372", "id": "9139208", "primary_type": "NARCOTICS", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.75249630746437, 41.881006548313785]}, "community_area": "25", "latitude": "41.881006548313785", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1533", "date": {"$date": 1369139580000}, "ward": "28", "_id": {"$oid": "51a61f0e3c002ed20d78a8dc"}, "iucr": "1811", "longitude": "-87.75249630746437", "location_description": "SIDEWALK", "x_coordinate": "1142423", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "0000X N LECLAIRE AVE"}
+{
+    "y_coordinate": "1899764", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284372", 
+    "id": "9139208", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75249630746437, 
+            41.881006548313785
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.881006548313785", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1533", 
+    "date": {
+        "$date": 1369139580000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a8dc"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.75249630746437", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1142423", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "0000X N LECLAIRE AVE"
+}

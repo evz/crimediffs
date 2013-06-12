@@ -1,1 +1,38 @@
-{"y_coordinate": "1899546", "year": "2013", "domestic": false, "case_number": "HW303220", "id": "9157833", "primary_type": "OTHER OFFENSE", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69274493976808, 41.8800905500621]}, "community_area": "27", "latitude": "41.8800905500621", "type": null, "description": "HARASSMENT BY ELECTRONIC MEANS", "beat": "1125", "date": {"$date": 1370214000000}, "ward": "2", "_id": {"$oid": "51b5f1163c002ed20d78cc09"}, "iucr": "2826", "longitude": "-87.69274493976808", "location_description": "RESIDENCE", "x_coordinate": "1158697", "updated_on": {"$date": 1370651988000}, "fbi_code": "26", "block": "026XX W MONROE ST"}
+{
+    "y_coordinate": "1899546", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303220", 
+    "id": "9157833", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69274493976808, 
+            41.8800905500621
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.8800905500621", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "1125", 
+    "date": {
+        "$date": 1370214000000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b5f1163c002ed20d78cc09"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.69274493976808", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1158697", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "26", 
+    "block": "026XX W MONROE ST"
+}

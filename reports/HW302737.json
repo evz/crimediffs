@@ -1,1 +1,38 @@
-{"y_coordinate": "1861978", "year": "2013", "domestic": false, "case_number": "HW302737", "id": "9157365", "primary_type": "ROBBERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61086259846304, 41.7765080172257]}, "community_area": "42", "latitude": "41.7765080172257", "type": "violent", "description": "ARMED: HANDGUN", "beat": "0321", "date": {"$date": 1369431000000}, "ward": "20", "_id": {"$oid": "51b34a133c002ed20d78cb36"}, "iucr": "031A", "longitude": "-87.61086259846304", "location_description": "SIDEWALK", "x_coordinate": "1181313", "updated_on": {"$date": 1370479286000}, "fbi_code": "03", "block": "065XX S ST LAWRENCE AVE"}
+{
+    "y_coordinate": "1861978", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302737", 
+    "id": "9157365", 
+    "primary_type": "ROBBERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61086259846304, 
+            41.7765080172257
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.7765080172257", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0321", 
+    "date": {
+        "$date": 1369431000000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b34a133c002ed20d78cb36"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.61086259846304", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1181313", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "03", 
+    "block": "065XX S ST LAWRENCE AVE"
+}

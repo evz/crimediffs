@@ -1,1 +1,38 @@
-{"y_coordinate": "1926234", "year": "2013", "domestic": false, "case_number": "HW286170", "id": "9141448", "primary_type": "ROBBERY", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72904890923347, 41.95352536703345]}, "community_area": "16", "latitude": "41.95352536703345", "type": "violent", "description": "ATTEMPT: STRONGARM-NO WEAPON", "beat": "1732", "date": {"$date": 1369231200000}, "ward": "39", "_id": {"$oid": "51a7708b3c002ed20d78ac2a"}, "iucr": "340", "longitude": "-87.72904890923347", "location_description": "CTA PLATFORM", "x_coordinate": "1148622", "updated_on": {"$date": 1370651988000}, "fbi_code": "03", "block": "040XX W IRVING PARK RD"}
+{
+    "y_coordinate": "1926234", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286170", 
+    "id": "9141448", 
+    "primary_type": "ROBBERY", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72904890923347, 
+            41.95352536703345
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.95352536703345", 
+    "type": "violent", 
+    "description": "ATTEMPT: STRONGARM-NO WEAPON", 
+    "beat": "1732", 
+    "date": {
+        "$date": 1369231200000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac2a"
+    }, 
+    "iucr": "340", 
+    "longitude": "-87.72904890923347", 
+    "location_description": "CTA PLATFORM", 
+    "x_coordinate": "1148622", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "03", 
+    "block": "040XX W IRVING PARK RD"
+}

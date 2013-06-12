@@ -1,1 +1,38 @@
-{"y_coordinate": "1905814", "year": "2013", "domestic": true, "case_number": "HW289094", "id": "9144200", "primary_type": "BATTERY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75025232169811, 41.89759786358145]}, "community_area": "25", "latitude": "41.89759786358145", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1531", "date": {"$date": 1369407180000}, "ward": "37", "_id": {"$oid": "51aa13913c002ed20d78afde"}, "iucr": "486", "longitude": "-87.75025232169811", "location_description": "APARTMENT", "x_coordinate": "1142993", "updated_on": {"$date": 1370133629000}, "fbi_code": "08B", "block": "049XX W WALTON ST"}
+{
+    "y_coordinate": "1905814", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289094", 
+    "id": "9144200", 
+    "primary_type": "BATTERY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75025232169811, 
+            41.89759786358145
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.89759786358145", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1531", 
+    "date": {
+        "$date": 1369407180000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78afde"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.75025232169811", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1142993", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "08B", 
+    "block": "049XX W WALTON ST"
+}

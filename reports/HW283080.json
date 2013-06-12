@@ -1,1 +1,38 @@
-{"y_coordinate": "1906469", "year": "2013", "domestic": false, "case_number": "HW283080", "id": "9137828", "primary_type": "WEAPONS VIOLATION", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72512352922867, 41.89926499730028]}, "community_area": "23", "latitude": "41.89926499730028", "type": null, "description": "UNLAWFUL POSS OF HANDGUN", "beat": "1112", "date": {"$date": 1369061400000}, "ward": "27", "_id": {"$oid": "51a4cd913c002ed20d78a4e5"}, "iucr": "143A", "longitude": "-87.72512352922867", "location_description": "SIDEWALK", "x_coordinate": "1149830", "updated_on": {"$date": 1369701613000}, "fbi_code": "15", "block": "010XX N HARDING AVE"}
+{
+    "y_coordinate": "1906469", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283080", 
+    "id": "9137828", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72512352922867, 
+            41.89926499730028
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.89926499730028", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "1112", 
+    "date": {
+        "$date": 1369061400000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a4e5"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.72512352922867", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1149830", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "15", 
+    "block": "010XX N HARDING AVE"
+}

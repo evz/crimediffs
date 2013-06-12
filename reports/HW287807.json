@@ -1,1 +1,38 @@
-{"y_coordinate": "1844225", "year": "2013", "domestic": false, "case_number": "HW287807", "id": "9142873", "primary_type": "BURGLARY", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62090355908384, 41.72785111682815]}, "community_area": "49", "latitude": "41.72785111682815", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "0634", "date": {"$date": 1369317960000}, "ward": "6", "_id": {"$oid": "51aa13973c002ed20d78b30a"}, "iucr": "620", "longitude": "-87.62090355908384", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1178721", "updated_on": {"$date": 1370392932000}, "fbi_code": "05", "block": "091XX S MICHIGAN AVE"}
+{
+    "y_coordinate": "1844225", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287807", 
+    "id": "9142873", 
+    "primary_type": "BURGLARY", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62090355908384, 
+            41.72785111682815
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.72785111682815", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "0634", 
+    "date": {
+        "$date": 1369317960000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b30a"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.62090355908384", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1178721", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "05", 
+    "block": "091XX S MICHIGAN AVE"
+}

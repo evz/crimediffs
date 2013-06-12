@@ -1,1 +1,38 @@
-{"y_coordinate": "1931727", "year": "2013", "domestic": false, "case_number": "HW289718", "id": "9144689", "primary_type": "THEFT", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71294468947772, 41.96851341951965]}, "community_area": "14", "latitude": "41.96851341951965", "type": "property", "description": "$500 AND UNDER", "beat": "1713", "date": {"$date": 1369379400000}, "ward": "39", "_id": {"$oid": "51aa13933c002ed20d78b11d"}, "iucr": "820", "longitude": "-87.71294468947772", "location_description": "STREET", "x_coordinate": "1152963", "updated_on": {"$date": 1369960832000}, "fbi_code": "06", "block": "033XX W LAWRENCE AVE"}
+{
+    "y_coordinate": "1931727", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289718", 
+    "id": "9144689", 
+    "primary_type": "THEFT", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71294468947772, 
+            41.96851341951965
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.96851341951965", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1713", 
+    "date": {
+        "$date": 1369379400000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b11d"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.71294468947772", 
+    "location_description": "STREET", 
+    "x_coordinate": "1152963", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "06", 
+    "block": "033XX W LAWRENCE AVE"
+}

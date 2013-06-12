@@ -1,1 +1,38 @@
-{"y_coordinate": "1865754", "year": "2013", "domestic": false, "case_number": "HW300211", "id": "9154674", "primary_type": "CRIMINAL DAMAGE", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66426296530751, 41.787193868690686]}, "community_area": "67", "latitude": "41.787193868690686", "type": "quality", "description": "TO CITY OF CHICAGO PROPERTY", "beat": "0713", "date": {"$date": 1370106300000}, "ward": "15", "_id": {"$oid": "51b5f11f3c002ed20d78d021"}, "iucr": "1345", "longitude": "-87.66426296530751", "location_description": "STREET", "x_coordinate": "1166717", "updated_on": {"$date": 1370306580000}, "fbi_code": "14", "block": "058XX S ASHLAND AVE"}
+{
+    "y_coordinate": "1865754", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300211", 
+    "id": "9154674", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66426296530751, 
+            41.787193868690686
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.787193868690686", 
+    "type": "quality", 
+    "description": "TO CITY OF CHICAGO PROPERTY", 
+    "beat": "0713", 
+    "date": {
+        "$date": 1370106300000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d021"
+    }, 
+    "iucr": "1345", 
+    "longitude": "-87.66426296530751", 
+    "location_description": "STREET", 
+    "x_coordinate": "1166717", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "14", 
+    "block": "058XX S ASHLAND AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1870623", "year": "2013", "domestic": false, "case_number": "HW303207", "id": "9157752", "primary_type": "BATTERY", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68652040464968, 41.80068327574661]}, "community_area": "63", "latitude": "41.80068327574661", "type": null, "description": "SIMPLE", "beat": "0923", "date": {"$date": 1370285400000}, "ward": "14", "_id": {"$oid": "51b7429a3c002ed20d78d2f9"}, "iucr": "460", "longitude": "-87.68652040464968", "location_description": "SIDEWALK", "x_coordinate": "1160610", "updated_on": {"$date": 1370911182000}, "fbi_code": "08B", "block": "051XX S CAMPBELL AVE"}
+{
+    "y_coordinate": "1870623", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303207", 
+    "id": "9157752", 
+    "primary_type": "BATTERY", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68652040464968, 
+            41.80068327574661
+        ]
+    }, 
+    "community_area": "63", 
+    "latitude": "41.80068327574661", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0923", 
+    "date": {
+        "$date": 1370285400000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51b7429a3c002ed20d78d2f9"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.68652040464968", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1160610", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "08B", 
+    "block": "051XX S CAMPBELL AVE"
+}

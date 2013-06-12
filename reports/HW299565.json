@@ -1,1 +1,38 @@
-{"y_coordinate": "1867870", "year": "2013", "domestic": false, "case_number": "HW299565", "id": "9154268", "primary_type": "WEAPONS VIOLATION", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67291146084635, 41.79305082639257]}, "community_area": "67", "latitude": "41.79305082639257", "type": null, "description": "UNLAWFUL POSS OF HANDGUN", "beat": "0715", "date": {"$date": 1370071800000}, "ward": "15", "_id": {"$oid": "51b5f1213c002ed20d78d17a"}, "iucr": "143A", "longitude": "-87.67291146084635", "location_description": "RESIDENCE", "x_coordinate": "1164342", "updated_on": {"$date": 1370392932000}, "fbi_code": "15", "block": "055XX S WINCHESTER AVE"}
+{
+    "y_coordinate": "1867870", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299565", 
+    "id": "9154268", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67291146084635, 
+            41.79305082639257
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.79305082639257", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "0715", 
+    "date": {
+        "$date": 1370071800000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d17a"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.67291146084635", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1164342", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "15", 
+    "block": "055XX S WINCHESTER AVE"
+}

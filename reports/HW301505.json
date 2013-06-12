@@ -1,1 +1,38 @@
-{"y_coordinate": "1944392", "year": "2013", "domestic": false, "case_number": "HW301505", "id": "9155824", "primary_type": "CRIMINAL DAMAGE", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69685016631863, 42.003180573268324]}, "community_area": "2", "latitude": "42.003180573268324", "type": "quality", "description": "TO PROPERTY", "beat": "2412", "date": {"$date": 1370073600000}, "ward": "50", "_id": {"$oid": "51b5f1213c002ed20d78d16f"}, "iucr": "1310", "longitude": "-87.69685016631863", "location_description": "RESIDENCE", "x_coordinate": "1157246", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "026XX W NORTH SHORE AVE"}
+{
+    "y_coordinate": "1944392", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301505", 
+    "id": "9155824", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69685016631863, 
+            42.003180573268324
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "42.003180573268324", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "2412", 
+    "date": {
+        "$date": 1370073600000
+    }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d16f"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.69685016631863", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1157246", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "026XX W NORTH SHORE AVE"
+}

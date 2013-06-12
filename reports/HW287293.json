@@ -1,1 +1,38 @@
-{"y_coordinate": "1857135", "year": "2013", "domestic": false, "case_number": "HW287293", "id": "9142646", "primary_type": "CRIMINAL DAMAGE", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6687860481678, 41.76356704442415]}, "community_area": "67", "latitude": "41.76356704442415", "type": "quality", "description": "TO PROPERTY", "beat": "0735", "date": {"$date": 1369297800000}, "ward": "17", "_id": {"$oid": "51aa13983c002ed20d78b3f7"}, "iucr": "1310", "longitude": "-87.6687860481678", "location_description": "RESIDENCE", "x_coordinate": "1165550", "updated_on": {"$date": 1369528777000}, "fbi_code": "14", "block": "071XX S WOOD ST"}
+{
+    "y_coordinate": "1857135", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287293", 
+    "id": "9142646", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6687860481678, 
+            41.76356704442415
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.76356704442415", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0735", 
+    "date": {
+        "$date": 1369297800000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3f7"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.6687860481678", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1165550", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "14", 
+    "block": "071XX S WOOD ST"
+}

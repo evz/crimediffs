@@ -1,1 +1,38 @@
-{"y_coordinate": "1890156", "year": "2013", "domestic": true, "case_number": "HW287201", "id": "20890", "primary_type": "HOMICIDE", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70791504597878, 41.85440562466321]}, "community_area": "29", "latitude": "41.85440562466321", "type": "violent", "description": "FIRST DEGREE MURDER", "beat": "1024", "date": {"$date": 1369303260000}, "ward": "24", "_id": {"$oid": "51aa13983c002ed20d78b3b0"}, "iucr": "110", "longitude": "-87.70791504597878", "location_description": "APARTMENT", "x_coordinate": "1154634", "updated_on": {"$date": 1370501090000}, "fbi_code": "01A", "block": "019XX S SPAULDING AVE"}
+{
+    "y_coordinate": "1890156", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW287201", 
+    "id": "20890", 
+    "primary_type": "HOMICIDE", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70791504597878, 
+            41.85440562466321
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85440562466321", 
+    "type": "violent", 
+    "description": "FIRST DEGREE MURDER", 
+    "beat": "1024", 
+    "date": {
+        "$date": 1369303260000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3b0"
+    }, 
+    "iucr": "110", 
+    "longitude": "-87.70791504597878", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1154634", 
+    "updated_on": {
+        "$date": 1370501090000
+    }, 
+    "fbi_code": "01A", 
+    "block": "019XX S SPAULDING AVE"
+}

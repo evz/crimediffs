@@ -1,1 +1,38 @@
-{"y_coordinate": "1926831", "year": "2013", "domestic": false, "case_number": "HW287956", "id": "9143062", "primary_type": "CRIM SEXUAL ASSAULT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66891672656213, 41.95483141694138]}, "community_area": "6", "latitude": "41.95483141694138", "type": "violent", "description": "NON-AGGRAVATED", "beat": "1912", "date": {"$date": 1369224000000}, "ward": "47", "_id": {"$oid": "51a7708c3c002ed20d78ac7c"}, "iucr": "281", "longitude": "-87.66891672656213", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1164975", "updated_on": {"$date": 1369528777000}, "fbi_code": "02", "block": "040XX N ASHLAND AVE"}
+{
+    "y_coordinate": "1926831", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287956", 
+    "id": "9143062", 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66891672656213, 
+            41.95483141694138
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.95483141694138", 
+    "type": "violent", 
+    "description": "NON-AGGRAVATED", 
+    "beat": "1912", 
+    "date": {
+        "$date": 1369224000000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac7c"
+    }, 
+    "iucr": "281", 
+    "longitude": "-87.66891672656213", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1164975", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "02", 
+    "block": "040XX N ASHLAND AVE"
+}

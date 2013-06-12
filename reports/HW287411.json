@@ -1,1 +1,38 @@
-{"y_coordinate": "1856134", "year": "2013", "domestic": false, "case_number": "HW287411", "id": "9142620", "primary_type": "BURGLARY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.59220447688753, 41.760351517944535]}, "community_area": "43", "latitude": "41.760351517944535", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0324", "date": {"$date": 1369306800000}, "ward": "5", "_id": {"$oid": "51aa13983c002ed20d78b394"}, "iucr": "610", "longitude": "-87.59220447688753", "location_description": "RESIDENCE", "x_coordinate": "1186453", "updated_on": {"$date": 1369528777000}, "fbi_code": "05", "block": "074XX S KENWOOD AVE"}
+{
+    "y_coordinate": "1856134", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287411", 
+    "id": "9142620", 
+    "primary_type": "BURGLARY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59220447688753, 
+            41.760351517944535
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.760351517944535", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0324", 
+    "date": {
+        "$date": 1369306800000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b394"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.59220447688753", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1186453", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "05", 
+    "block": "074XX S KENWOOD AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1914273", "year": "2013", "domestic": false, "case_number": "HW291204", "id": "9145709", "primary_type": "THEFT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64165564368207, 41.920208544071556]}, "community_area": "7", "latitude": "41.920208544071556", "type": "property", "description": "$500 AND UNDER", "beat": "1812", "date": {"$date": 1369523700000}, "ward": "43", "_id": {"$oid": "51b34a0d3c002ed20d78c8bc"}, "iucr": "820", "longitude": "-87.64165564368207", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1172492", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "021XX N LINCOLN AVE"}
+{
+    "y_coordinate": "1914273", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291204", 
+    "id": "9145709", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64165564368207, 
+            41.920208544071556
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.920208544071556", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1812", 
+    "date": {
+        "$date": 1369523700000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c8bc"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.64165564368207", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1172492", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "021XX N LINCOLN AVE"
+}

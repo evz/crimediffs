@@ -1,1 +1,38 @@
-{"y_coordinate": "1946193", "year": "2013", "domestic": false, "case_number": "HW289432", "id": "9144276", "primary_type": "CRIMINAL DAMAGE", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66905583655812, 42.0079653735081]}, "community_area": "1", "latitude": "42.0079653735081", "type": "quality", "description": "TO PROPERTY", "beat": "2431", "date": {"$date": 1369371600000}, "ward": "49", "_id": {"$oid": "51aa13933c002ed20d78b13b"}, "iucr": "1310", "longitude": "-87.66905583655812", "location_description": "APARTMENT", "x_coordinate": "1164787", "updated_on": {"$date": 1369787985000}, "fbi_code": "14", "block": "015XX W MORSE AVE"}
+{
+    "y_coordinate": "1946193", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289432", 
+    "id": "9144276", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66905583655812, 
+            42.0079653735081
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "42.0079653735081", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "2431", 
+    "date": {
+        "$date": 1369371600000
+    }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b13b"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.66905583655812", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1164787", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "14", 
+    "block": "015XX W MORSE AVE"
+}

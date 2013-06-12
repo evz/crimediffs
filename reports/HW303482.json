@@ -1,1 +1,38 @@
-{"y_coordinate": "1926365", "year": "2013", "domestic": false, "case_number": "HW303482", "id": "9157958", "primary_type": "ROBBERY", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72776989140968, 41.953878120046305]}, "community_area": "16", "latitude": "41.953878120046305", "type": "violent", "description": "ARMED: HANDGUN", "beat": "1722", "date": {"$date": 1370313600000}, "ward": "39", "_id": {"$oid": "51b742943c002ed20d78d1db"}, "iucr": "031A", "longitude": "-87.72776989140968", "location_description": "SCHOOL, PUBLIC, GROUNDS", "x_coordinate": "1148969", "updated_on": {"$date": 1370479286000}, "fbi_code": "03", "block": "040XX N PULASKI RD"}
+{
+    "y_coordinate": "1926365", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303482", 
+    "id": "9157958", 
+    "primary_type": "ROBBERY", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72776989140968, 
+            41.953878120046305
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.953878120046305", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "1722", 
+    "date": {
+        "$date": 1370313600000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51b742943c002ed20d78d1db"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.72776989140968", 
+    "location_description": "SCHOOL, PUBLIC, GROUNDS", 
+    "x_coordinate": "1148969", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "03", 
+    "block": "040XX N PULASKI RD"
+}

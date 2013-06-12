@@ -1,1 +1,38 @@
-{"y_coordinate": "1905879", "year": "2013", "domestic": false, "case_number": "HW303057", "id": "9157709", "primary_type": "CRIMINAL DAMAGE", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71409077820009, 41.897586931334125]}, "community_area": "23", "latitude": "41.897586931334125", "type": "quality", "description": "TO PROPERTY", "beat": "1121", "date": {"$date": 1370280600000}, "ward": "27", "_id": {"$oid": "51b7429b3c002ed20d78d34c"}, "iucr": "1310", "longitude": "-87.71409077820009", "location_description": "OTHER", "x_coordinate": "1152838", "updated_on": {"$date": 1370479286000}, "fbi_code": "14", "block": "009XX N ST LOUIS AVE"}
+{
+    "y_coordinate": "1905879", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303057", 
+    "id": "9157709", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71409077820009, 
+            41.897586931334125
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.897586931334125", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1121", 
+    "date": {
+        "$date": 1370280600000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b7429b3c002ed20d78d34c"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.71409077820009", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1152838", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "14", 
+    "block": "009XX N ST LOUIS AVE"
+}

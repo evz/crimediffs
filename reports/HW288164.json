@@ -1,1 +1,38 @@
-{"y_coordinate": "1858908", "year": "2013", "domestic": false, "case_number": "HW288164", "id": "9143082", "primary_type": "WEAPONS VIOLATION", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68320357998356, 41.76851517748598]}, "community_area": "66", "latitude": "41.76851517748598", "type": null, "description": "UNLAWFUL USE OTHER DANG WEAPON", "beat": "0832", "date": {"$date": 1369337280000}, "ward": "17", "_id": {"$oid": "51aa13953c002ed20d78b22f"}, "iucr": "141C", "longitude": "-87.68320357998356", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1161603", "updated_on": {"$date": 1369528777000}, "fbi_code": "15", "block": "068XX S WESTERN AVE"}
+{
+    "y_coordinate": "1858908", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288164", 
+    "id": "9143082", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68320357998356, 
+            41.76851517748598
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.76851517748598", 
+    "type": null, 
+    "description": "UNLAWFUL USE OTHER DANG WEAPON", 
+    "beat": "0832", 
+    "date": {
+        "$date": 1369337280000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b22f"
+    }, 
+    "iucr": "141C", 
+    "longitude": "-87.68320357998356", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1161603", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "15", 
+    "block": "068XX S WESTERN AVE"
+}

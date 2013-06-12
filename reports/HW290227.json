@@ -1,1 +1,38 @@
-{"y_coordinate": "1853748", "year": "2013", "domestic": false, "case_number": "HW290227", "id": "9144989", "primary_type": "THEFT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65669319469903, 41.75420151008583]}, "community_area": "71", "latitude": "41.75420151008583", "type": "property", "description": "FINANCIAL ID THEFT: OVER $300", "beat": "0612", "date": {"$date": 1369126800000}, "ward": "17", "_id": {"$oid": "51a61f0f3c002ed20d78a96d"}, "iucr": "840", "longitude": "-87.65669319469903", "location_description": "RESIDENCE", "x_coordinate": "1168876", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "013XX W 77TH ST"}
+{
+    "y_coordinate": "1853748", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290227", 
+    "id": "9144989", 
+    "primary_type": "THEFT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65669319469903, 
+            41.75420151008583
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.75420151008583", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "0612", 
+    "date": {
+        "$date": 1369126800000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a96d"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.65669319469903", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1168876", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "013XX W 77TH ST"
+}

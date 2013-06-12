@@ -1,1 +1,38 @@
-{"y_coordinate": "1924121", "year": "2013", "domestic": false, "case_number": "HW290387", "id": "9146009", "primary_type": "BATTERY", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68114593389006, 41.94746472200224]}, "community_area": "5", "latitude": "41.94746472200224", "type": null, "description": "SIMPLE", "beat": "1921", "date": {"$date": 1369485900000}, "ward": "47", "_id": {"$oid": "51b34a113c002ed20d78ca78"}, "iucr": "460", "longitude": "-87.68114593389006", "location_description": "ALLEY", "x_coordinate": "1161669", "updated_on": {"$date": 1369787985000}, "fbi_code": "08B", "block": "036XX N HOYNE AVE"}
+{
+    "y_coordinate": "1924121", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290387", 
+    "id": "9146009", 
+    "primary_type": "BATTERY", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68114593389006, 
+            41.94746472200224
+        ]
+    }, 
+    "community_area": "5", 
+    "latitude": "41.94746472200224", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1921", 
+    "date": {
+        "$date": 1369485900000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca78"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.68114593389006", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1161669", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "08B", 
+    "block": "036XX N HOYNE AVE"
+}

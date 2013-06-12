@@ -1,1 +1,38 @@
-{"y_coordinate": "1871869", "year": "2013", "domestic": true, "case_number": "HW285607", "id": "9140277", "primary_type": "ASSAULT", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.59687084438136, 41.803562880672594]}, "community_area": "39", "latitude": "41.803562880672594", "type": null, "description": "SIMPLE", "beat": "0222", "date": {"$date": 1369207800000}, "ward": "4", "_id": {"$oid": "51a7708d3c002ed20d78ad10"}, "iucr": "560", "longitude": "-87.59687084438136", "location_description": "RESIDENCE", "x_coordinate": "1185045", "updated_on": {"$date": 1369356045000}, "fbi_code": "08A", "block": "050XX S WOODLAWN AVE"}
+{
+    "y_coordinate": "1871869", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285607", 
+    "id": "9140277", 
+    "primary_type": "ASSAULT", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59687084438136, 
+            41.803562880672594
+        ]
+    }, 
+    "community_area": "39", 
+    "latitude": "41.803562880672594", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0222", 
+    "date": {
+        "$date": 1369207800000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad10"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.59687084438136", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1185045", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08A", 
+    "block": "050XX S WOODLAWN AVE"
+}

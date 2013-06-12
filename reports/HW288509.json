@@ -1,1 +1,38 @@
-{"y_coordinate": "1857306", "year": "2013", "domestic": false, "case_number": "HW288509", "id": "9143726", "primary_type": "THEFT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6582033234282, 41.76397461999031]}, "community_area": "67", "latitude": "41.76397461999031", "type": "property", "description": "$500 AND UNDER", "beat": "0734", "date": {"$date": 1369224000000}, "ward": "17", "_id": {"$oid": "51a7708c3c002ed20d78ac7b"}, "iucr": "820", "longitude": "-87.6582033234282", "location_description": "STREET", "x_coordinate": "1168436", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "013XX W 71ST PL"}
+{
+    "y_coordinate": "1857306", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288509", 
+    "id": "9143726", 
+    "primary_type": "THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6582033234282, 
+            41.76397461999031
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.76397461999031", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0734", 
+    "date": {
+        "$date": 1369224000000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac7b"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.6582033234282", 
+    "location_description": "STREET", 
+    "x_coordinate": "1168436", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "013XX W 71ST PL"
+}

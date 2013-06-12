@@ -1,1 +1,38 @@
-{"y_coordinate": "1907633", "year": "2013", "domestic": false, "case_number": "HW284956", "id": "9141201", "primary_type": "BURGLARY", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63338215961645, 41.90193673009216]}, "community_area": "8", "latitude": "41.90193673009216", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "1824", "date": {"$date": 1369054800000}, "ward": "43", "_id": {"$oid": "51a4cd913c002ed20d78a52e"}, "iucr": "620", "longitude": "-87.63338215961645", "location_description": "RESIDENCE", "x_coordinate": "1174798", "updated_on": {"$date": 1369442383000}, "fbi_code": "05", "block": "001XX W MAPLE ST"}
+{
+    "y_coordinate": "1907633", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284956", 
+    "id": "9141201", 
+    "primary_type": "BURGLARY", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63338215961645, 
+            41.90193673009216
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.90193673009216", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "1824", 
+    "date": {
+        "$date": 1369054800000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a52e"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.63338215961645", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1174798", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "05", 
+    "block": "001XX W MAPLE ST"
+}

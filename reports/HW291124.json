@@ -1,1 +1,38 @@
-{"y_coordinate": "1903188", "year": "2013", "domestic": false, "case_number": "HW291124", "id": "9145721", "primary_type": "THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71752242586935, 41.890220630786246]}, "community_area": "23", "latitude": "41.890220630786246", "type": "property", "description": "$500 AND UNDER", "beat": "1122", "date": {"$date": 1369440060000}, "ward": "27", "_id": {"$oid": "51aa138c3c002ed20d78ae0c"}, "iucr": "820", "longitude": "-87.71752242586935", "location_description": "APARTMENT", "x_coordinate": "1151923", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "005XX N MONTICELLO AVE"}
+{
+    "y_coordinate": "1903188", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291124", 
+    "id": "9145721", 
+    "primary_type": "THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71752242586935, 
+            41.890220630786246
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.890220630786246", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1122", 
+    "date": {
+        "$date": 1369440060000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae0c"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.71752242586935", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1151923", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "005XX N MONTICELLO AVE"
+}

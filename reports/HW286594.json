@@ -1,1 +1,38 @@
-{"y_coordinate": "1862201", "year": "2013", "domestic": false, "case_number": "HW286594", "id": "9141453", "primary_type": "MOTOR VEHICLE THEFT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66557776457337, 41.77745105115082]}, "community_area": "67", "latitude": "41.77745105115082", "type": "property", "description": "THEFT/RECOVERY: AUTOMOBILE", "beat": "0725", "date": {"$date": 1369246500000}, "ward": "15", "_id": {"$oid": "51a7708a3c002ed20d78ab52"}, "iucr": "930", "longitude": "-87.66557776457337", "location_description": "ALLEY", "x_coordinate": "1166386", "updated_on": {"$date": 1369442383000}, "fbi_code": "07", "block": "064XX S MARSHFIELD AVE"}
+{
+    "y_coordinate": "1862201", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286594", 
+    "id": "9141453", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66557776457337, 
+            41.77745105115082
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.77745105115082", 
+    "type": "property", 
+    "description": "THEFT/RECOVERY: AUTOMOBILE", 
+    "beat": "0725", 
+    "date": {
+        "$date": 1369246500000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab52"
+    }, 
+    "iucr": "930", 
+    "longitude": "-87.66557776457337", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1166386", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "07", 
+    "block": "064XX S MARSHFIELD AVE"
+}

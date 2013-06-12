@@ -1,1 +1,38 @@
-{"y_coordinate": "1853683", "year": "2013", "domestic": false, "case_number": "HW287849", "id": "9142887", "primary_type": "CRIMINAL DAMAGE", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66569183740317, 41.754075772853845]}, "community_area": "71", "latitude": "41.754075772853845", "type": "quality", "description": "TO VEHICLE", "beat": "0611", "date": {"$date": 1369326120000}, "ward": "17", "_id": {"$oid": "51aa13963c002ed20d78b2b5"}, "iucr": "1320", "longitude": "-87.66569183740317", "location_description": "STREET", "x_coordinate": "1166421", "updated_on": {"$date": 1369528777000}, "fbi_code": "14", "block": "016XX W 77TH ST"}
+{
+    "y_coordinate": "1853683", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287849", 
+    "id": "9142887", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66569183740317, 
+            41.754075772853845
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.754075772853845", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0611", 
+    "date": {
+        "$date": 1369326120000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b2b5"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.66569183740317", 
+    "location_description": "STREET", 
+    "x_coordinate": "1166421", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "14", 
+    "block": "016XX W 77TH ST"
+}

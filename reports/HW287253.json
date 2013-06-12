@@ -1,1 +1,38 @@
-{"y_coordinate": "1849275", "year": "2013", "domestic": true, "case_number": "HW287253", "id": "9142531", "primary_type": "PUBLIC PEACE VIOLATION", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55378531456591, 41.74127411825651]}, "community_area": "46", "latitude": "41.74127411825651", "type": null, "description": "RECKLESS CONDUCT", "beat": "0423", "date": {"$date": 1369301100000}, "ward": "10", "_id": {"$oid": "51aa13983c002ed20d78b3d6"}, "iucr": "470", "longitude": "-87.55378531456591", "location_description": "APARTMENT", "x_coordinate": "1196998", "updated_on": {"$date": 1370651988000}, "fbi_code": "24", "block": "084XX S ESCANABA AVE"}
+{
+    "y_coordinate": "1849275", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW287253", 
+    "id": "9142531", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55378531456591, 
+            41.74127411825651
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.74127411825651", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "0423", 
+    "date": {
+        "$date": 1369301100000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3d6"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.55378531456591", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1196998", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "24", 
+    "block": "084XX S ESCANABA AVE"
+}

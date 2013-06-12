@@ -1,1 +1,38 @@
-{"y_coordinate": "1891530", "year": "2013", "domestic": false, "case_number": "HW288525", "id": "9143456", "primary_type": "ROBBERY", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6546323451241, 41.85787372415074]}, "community_area": "31", "latitude": "41.85787372415074", "type": "violent", "description": "VEHICULAR HIJACKING", "beat": "1235", "date": {"$date": 1369359000000}, "ward": "25", "_id": {"$oid": "51aa13943c002ed20d78b161"}, "iucr": "325", "longitude": "-87.6546323451241", "location_description": "STREET", "x_coordinate": "1169140", "updated_on": {"$date": 1370392932000}, "fbi_code": "03", "block": "011XX W 18TH ST"}
+{
+    "y_coordinate": "1891530", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288525", 
+    "id": "9143456", 
+    "primary_type": "ROBBERY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6546323451241, 
+            41.85787372415074
+        ]
+    }, 
+    "community_area": "31", 
+    "latitude": "41.85787372415074", 
+    "type": "violent", 
+    "description": "VEHICULAR HIJACKING", 
+    "beat": "1235", 
+    "date": {
+        "$date": 1369359000000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b161"
+    }, 
+    "iucr": "325", 
+    "longitude": "-87.6546323451241", 
+    "location_description": "STREET", 
+    "x_coordinate": "1169140", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "03", 
+    "block": "011XX W 18TH ST"
+}

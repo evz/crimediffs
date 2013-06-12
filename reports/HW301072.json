@@ -1,1 +1,38 @@
-{"y_coordinate": "1923054", "year": "2013", "domestic": false, "case_number": "HW301072", "id": "9155373", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64487599425199, 41.944324887001386]}, "community_area": "6", "latitude": "41.944324887001386", "type": "property", "description": "$500 AND UNDER", "beat": "1925", "date": {"$date": 1370170800000}, "ward": "44", "_id": {"$oid": "51b5f11b3c002ed20d78cded"}, "iucr": "820", "longitude": "-87.64487599425199", "location_description": "STREET", "x_coordinate": "1171545", "updated_on": {"$date": 1370565766000}, "fbi_code": "06", "block": "005XX W HAWTHORNE PL"}
+{
+    "y_coordinate": "1923054", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301072", 
+    "id": "9155373", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64487599425199, 
+            41.944324887001386
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.944324887001386", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1925", 
+    "date": {
+        "$date": 1370170800000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cded"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.64487599425199", 
+    "location_description": "STREET", 
+    "x_coordinate": "1171545", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "06", 
+    "block": "005XX W HAWTHORNE PL"
+}

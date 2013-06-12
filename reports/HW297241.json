@@ -1,1 +1,38 @@
-{"y_coordinate": "1879263", "year": "2013", "domestic": false, "case_number": "HW297241", "id": "9163311", "primary_type": "NARCOTICS", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67375324430806, 41.82432123886423]}, "community_area": "59", "latitude": "41.82432123886423", "type": "quality", "description": "POSS: COCAINE", "beat": "0912", "date": {"$date": 1369930080000}, "ward": "11", "_id": {"$oid": "51b349de3c002ed20d78ba33"}, "iucr": "2022", "longitude": "-87.67375324430806", "location_description": "RESIDENCE", "x_coordinate": "1164025", "updated_on": {"$date": 1370738354000}, "fbi_code": "18", "block": "038XX S WINCHESTER AVE"}
+{
+    "y_coordinate": "1879263", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW297241", 
+    "id": "9163311", 
+    "primary_type": "NARCOTICS", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67375324430806, 
+            41.82432123886423
+        ]
+    }, 
+    "community_area": "59", 
+    "latitude": "41.82432123886423", 
+    "type": "quality", 
+    "description": "POSS: COCAINE", 
+    "beat": "0912", 
+    "date": {
+        "$date": 1369930080000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51b349de3c002ed20d78ba33"
+    }, 
+    "iucr": "2022", 
+    "longitude": "-87.67375324430806", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1164025", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "18", 
+    "block": "038XX S WINCHESTER AVE"
+}

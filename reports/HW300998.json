@@ -1,1 +1,38 @@
-{"y_coordinate": "1884112", "year": "2013", "domestic": false, "case_number": "HW300998", "id": "9155344", "primary_type": "CRIMINAL DAMAGE", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64884062471842, 41.83748243516908]}, "community_area": "60", "latitude": "41.83748243516908", "type": "quality", "description": "CRIMINAL DEFACEMENT", "beat": "0913", "date": {"$date": 1370113200000}, "ward": "11", "_id": {"$oid": "51b5f11f3c002ed20d78cfe3"}, "iucr": "1305", "longitude": "-87.64884062471842", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1170777", "updated_on": {"$date": 1370306580000}, "fbi_code": "14", "block": "031XX S LITUANICA AVE"}
+{
+    "y_coordinate": "1884112", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300998", 
+    "id": "9155344", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64884062471842, 
+            41.83748243516908
+        ]
+    }, 
+    "community_area": "60", 
+    "latitude": "41.83748243516908", 
+    "type": "quality", 
+    "description": "CRIMINAL DEFACEMENT", 
+    "beat": "0913", 
+    "date": {
+        "$date": 1370113200000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cfe3"
+    }, 
+    "iucr": "1305", 
+    "longitude": "-87.64884062471842", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1170777", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "14", 
+    "block": "031XX S LITUANICA AVE"
+}

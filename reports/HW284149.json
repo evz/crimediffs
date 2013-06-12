@@ -1,1 +1,38 @@
-{"y_coordinate": "1846916", "year": "2013", "domestic": false, "case_number": "HW284149", "id": "9138812", "primary_type": "MOTOR VEHICLE THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55843563673945, 41.73483175972909]}, "community_area": "46", "latitude": "41.73483175972909", "type": "property", "description": "AUTOMOBILE", "beat": "0423", "date": {"$date": 1369085400000}, "ward": "7", "_id": {"$oid": "51a4cd8d3c002ed20d78a391"}, "iucr": "910", "longitude": "-87.55843563673945", "location_description": "STREET", "x_coordinate": "1195750", "updated_on": {"$date": 1369701613000}, "fbi_code": "07", "block": "088XX S MARQUETTE AVE"}
+{
+    "y_coordinate": "1846916", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284149", 
+    "id": "9138812", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55843563673945, 
+            41.73483175972909
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.73483175972909", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0423", 
+    "date": {
+        "$date": 1369085400000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51a4cd8d3c002ed20d78a391"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.55843563673945", 
+    "location_description": "STREET", 
+    "x_coordinate": "1195750", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "07", 
+    "block": "088XX S MARQUETTE AVE"
+}

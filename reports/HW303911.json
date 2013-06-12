@@ -1,1 +1,38 @@
-{"y_coordinate": "1924084", "year": "2013", "domestic": false, "case_number": "HW303911", "id": "9158743", "primary_type": "CRIMINAL DAMAGE", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.80724893773272, 41.94801025450771]}, "community_area": "17", "latitude": "41.94801025450771", "type": "quality", "description": "TO VEHICLE", "beat": "1631", "date": {"$date": 1370226600000}, "ward": "36", "_id": {"$oid": "51b5f1143c002ed20d78cbab"}, "iucr": "1320", "longitude": "-87.80724893773272", "location_description": "STREET", "x_coordinate": "1127363", "updated_on": {"$date": 1370565766000}, "fbi_code": "14", "block": "037XX N HARLEM AVE"}
+{
+    "y_coordinate": "1924084", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303911", 
+    "id": "9158743", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.80724893773272, 
+            41.94801025450771
+        ]
+    }, 
+    "community_area": "17", 
+    "latitude": "41.94801025450771", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1631", 
+    "date": {
+        "$date": 1370226600000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51b5f1143c002ed20d78cbab"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.80724893773272", 
+    "location_description": "STREET", 
+    "x_coordinate": "1127363", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "14", 
+    "block": "037XX N HARLEM AVE"
+}

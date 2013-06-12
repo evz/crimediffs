@@ -1,1 +1,38 @@
-{"y_coordinate": "1899495", "year": "2013", "domestic": false, "case_number": "HW288256", "id": "9143175", "primary_type": "NARCOTICS", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.75392770483238, 41.880275575776906]}, "community_area": "25", "latitude": "41.880275575776906", "type": "quality", "description": "POSS: CANNABIS MORE THAN 30GMS", "beat": "1533", "date": {"$date": 1369343700000}, "ward": "28", "_id": {"$oid": "51aa13943c002ed20d78b1e0"}, "iucr": "1812", "longitude": "-87.75392770483238", "location_description": "SIDEWALK", "x_coordinate": "1142035", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "051XX W MADISON ST"}
+{
+    "y_coordinate": "1899495", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288256", 
+    "id": "9143175", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75392770483238, 
+            41.880275575776906
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.880275575776906", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS MORE THAN 30GMS", 
+    "beat": "1533", 
+    "date": {
+        "$date": 1369343700000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1e0"
+    }, 
+    "iucr": "1812", 
+    "longitude": "-87.75392770483238", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1142035", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "051XX W MADISON ST"
+}

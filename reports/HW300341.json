@@ -1,1 +1,38 @@
-{"y_coordinate": "1870609", "year": "2013", "domestic": true, "case_number": "HW300341", "id": "9154771", "primary_type": "ASSAULT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65761123853017, 41.80047844210242]}, "community_area": "61", "latitude": "41.80047844210242", "type": "violent", "description": "AGGRAVATED: HANDGUN", "beat": "0934", "date": {"$date": 1370112000000}, "ward": "16", "_id": {"$oid": "51b5f11f3c002ed20d78cfef"}, "iucr": "051A", "longitude": "-87.65761123853017", "location_description": "SIDEWALK", "x_coordinate": "1168493", "updated_on": {"$date": 1370911182000}, "fbi_code": "04A", "block": "051XX S THROOP ST"}
+{
+    "y_coordinate": "1870609", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300341", 
+    "id": "9154771", 
+    "primary_type": "ASSAULT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65761123853017, 
+            41.80047844210242
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.80047844210242", 
+    "type": "violent", 
+    "description": "AGGRAVATED: HANDGUN", 
+    "beat": "0934", 
+    "date": {
+        "$date": 1370112000000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cfef"
+    }, 
+    "iucr": "051A", 
+    "longitude": "-87.65761123853017", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1168493", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "04A", 
+    "block": "051XX S THROOP ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1857839", "year": "2013", "domestic": false, "case_number": "HW290800", "id": "9145388", "primary_type": "BATTERY", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64249313720245, 41.765343939071855]}, "community_area": "68", "latitude": "41.765343939071855", "type": "violent", "description": "AGG: HANDS/FIST/FEET SERIOUS INJURY", "beat": "0732", "date": {"$date": 1369506960000}, "ward": "6", "_id": {"$oid": "51b34a0f3c002ed20d78c97b"}, "iucr": "479", "longitude": "-87.64249313720245", "location_description": "STREET", "x_coordinate": "1172718", "updated_on": {"$date": 1369701613000}, "fbi_code": "04B", "block": "007XX W 71ST ST"}
+{
+    "y_coordinate": "1857839", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290800", 
+    "id": "9145388", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64249313720245, 
+            41.765343939071855
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.765343939071855", 
+    "type": "violent", 
+    "description": "AGG: HANDS/FIST/FEET SERIOUS INJURY", 
+    "beat": "0732", 
+    "date": {
+        "$date": 1369506960000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c97b"
+    }, 
+    "iucr": "479", 
+    "longitude": "-87.64249313720245", 
+    "location_description": "STREET", 
+    "x_coordinate": "1172718", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "04B", 
+    "block": "007XX W 71ST ST"
+}

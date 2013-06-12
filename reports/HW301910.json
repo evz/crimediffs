@@ -1,1 +1,38 @@
-{"y_coordinate": "1919272", "year": "2013", "domestic": false, "case_number": "HW301910", "id": "9156075", "primary_type": "BATTERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.79329288835004, 41.93474025646861]}, "community_area": "18", "latitude": "41.93474025646861", "type": null, "description": "SIMPLE", "beat": "2511", "date": {"$date": 1370226000000}, "ward": "36", "_id": {"$oid": "51b5f1143c002ed20d78cbad"}, "iucr": "460", "longitude": "-87.79329288835004", "location_description": "STREET", "x_coordinate": "1131190", "updated_on": {"$date": 1370479286000}, "fbi_code": "08B", "block": "030XX N NORMANDY AVE"}
+{
+    "y_coordinate": "1919272", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301910", 
+    "id": "9156075", 
+    "primary_type": "BATTERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.79329288835004, 
+            41.93474025646861
+        ]
+    }, 
+    "community_area": "18", 
+    "latitude": "41.93474025646861", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2511", 
+    "date": {
+        "$date": 1370226000000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51b5f1143c002ed20d78cbad"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.79329288835004", 
+    "location_description": "STREET", 
+    "x_coordinate": "1131190", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08B", 
+    "block": "030XX N NORMANDY AVE"
+}

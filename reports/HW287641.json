@@ -1,1 +1,38 @@
-{"y_coordinate": "1902941", "year": "2013", "domestic": false, "case_number": "HW287641", "id": "9142703", "primary_type": "DECEPTIVE PRACTICE", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63346030169409, 41.88906125157319]}, "community_area": "8", "latitude": "41.88906125157319", "type": null, "description": "CREDIT CARD FRAUD", "beat": "1831", "date": {"$date": 1369180800000}, "ward": "42", "_id": {"$oid": "51a61f073c002ed20d78a6c7"}, "iucr": "1150", "longitude": "-87.63346030169409", "location_description": "RESIDENCE", "x_coordinate": "1174815", "updated_on": {"$date": 1369701613000}, "fbi_code": "11", "block": "001XX W KINZIE ST"}
+{
+    "y_coordinate": "1902941", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287641", 
+    "id": "9142703", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63346030169409, 
+            41.88906125157319
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.88906125157319", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "1831", 
+    "date": {
+        "$date": 1369180800000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a61f073c002ed20d78a6c7"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.63346030169409", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1174815", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "11", 
+    "block": "001XX W KINZIE ST"
+}

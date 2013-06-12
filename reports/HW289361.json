@@ -1,1 +1,38 @@
-{"y_coordinate": "1852303", "year": "2013", "domestic": false, "case_number": "HW289361", "id": "9144287", "primary_type": "ASSAULT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64873168566, 41.750188826982594]}, "community_area": "71", "latitude": "41.750188826982594", "type": null, "description": "SIMPLE", "beat": "0621", "date": {"$date": 1369416000000}, "ward": "17", "_id": {"$oid": "51aa138f3c002ed20d78af49"}, "iucr": "560", "longitude": "-87.64873168566", "location_description": "APARTMENT", "x_coordinate": "1171060", "updated_on": {"$date": 1369615194000}, "fbi_code": "08A", "block": "079XX S MORGAN ST"}
+{
+    "y_coordinate": "1852303", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289361", 
+    "id": "9144287", 
+    "primary_type": "ASSAULT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64873168566, 
+            41.750188826982594
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.750188826982594", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0621", 
+    "date": {
+        "$date": 1369416000000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51aa138f3c002ed20d78af49"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.64873168566", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1171060", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08A", 
+    "block": "079XX S MORGAN ST"
+}

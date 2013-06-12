@@ -1,1 +1,38 @@
-{"y_coordinate": "1940586", "year": "2013", "domestic": false, "case_number": "HW283553", "id": "9138067", "primary_type": "ASSAULT", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68096812355527, 41.99264702332409]}, "community_area": "2", "latitude": "41.99264702332409", "type": null, "description": "SIMPLE", "beat": "2413", "date": {"$date": 1369075500000}, "ward": "40", "_id": {"$oid": "51a4cd8f3c002ed20d78a42a"}, "iucr": "560", "longitude": "-87.68096812355527", "location_description": "APARTMENT", "x_coordinate": "1161592", "updated_on": {"$date": 1369269615000}, "fbi_code": "08A", "block": "061XX N SEELEY AVE"}
+{
+    "y_coordinate": "1940586", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283553", 
+    "id": "9138067", 
+    "primary_type": "ASSAULT", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68096812355527, 
+            41.99264702332409
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "41.99264702332409", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2413", 
+    "date": {
+        "$date": 1369075500000
+    }, 
+    "ward": "40", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a42a"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.68096812355527", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1161592", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "08A", 
+    "block": "061XX N SEELEY AVE"
+}

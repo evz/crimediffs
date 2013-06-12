@@ -1,1 +1,38 @@
-{"y_coordinate": "1831453", "year": "2013", "domestic": false, "case_number": "HW301561", "id": "9155944", "primary_type": "BURGLARY", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6548781212825, 41.693006225199866]}, "community_area": "75", "latitude": "41.693006225199866", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "2234", "date": {"$date": 1370106000000}, "ward": "34", "_id": {"$oid": "51b5f11f3c002ed20d78d027"}, "iucr": "620", "longitude": "-87.6548781212825", "location_description": "APARTMENT", "x_coordinate": "1169547", "updated_on": {"$date": 1370392932000}, "fbi_code": "05", "block": "013XX W 110TH PL"}
+{
+    "y_coordinate": "1831453", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301561", 
+    "id": "9155944", 
+    "primary_type": "BURGLARY", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6548781212825, 
+            41.693006225199866
+        ]
+    }, 
+    "community_area": "75", 
+    "latitude": "41.693006225199866", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "2234", 
+    "date": {
+        "$date": 1370106000000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d027"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.6548781212825", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1169547", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "05", 
+    "block": "013XX W 110TH PL"
+}

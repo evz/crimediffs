@@ -1,1 +1,38 @@
-{"y_coordinate": "1900221", "year": "2013", "domestic": false, "case_number": "HW285370", "id": "9140022", "primary_type": "BATTERY", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70529202297881, 41.88201221984073]}, "community_area": "27", "latitude": "41.88201221984073", "type": null, "description": "SIMPLE", "beat": "1222", "date": {"$date": 1369179600000}, "ward": "28", "_id": {"$oid": "51a61f073c002ed20d78a6d4"}, "iucr": "460", "longitude": "-87.70529202297881", "location_description": "APARTMENT", "x_coordinate": "1155275", "updated_on": {"$date": 1369356045000}, "fbi_code": "08B", "block": "031XX W WARREN BLVD"}
+{
+    "y_coordinate": "1900221", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285370", 
+    "id": "9140022", 
+    "primary_type": "BATTERY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70529202297881, 
+            41.88201221984073
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.88201221984073", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1222", 
+    "date": {
+        "$date": 1369179600000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a61f073c002ed20d78a6d4"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.70529202297881", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1155275", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08B", 
+    "block": "031XX W WARREN BLVD"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1893272", "year": "2013", "domestic": false, "case_number": "HW289177", "id": "9144221", "primary_type": "ASSAULT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71312886284119, 41.86298500628827]}, "community_area": "29", "latitude": "41.86298500628827", "type": null, "description": "SIMPLE", "beat": "1021", "date": {"$date": 1369405800000}, "ward": "24", "_id": {"$oid": "51aa13913c002ed20d78afee"}, "iucr": "560", "longitude": "-87.71312886284119", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1153191", "updated_on": {"$date": 1369615194000}, "fbi_code": "08A", "block": "035XX W DOUGLAS BLVD"}
+{
+    "y_coordinate": "1893272", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289177", 
+    "id": "9144221", 
+    "primary_type": "ASSAULT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71312886284119, 
+            41.86298500628827
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.86298500628827", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1021", 
+    "date": {
+        "$date": 1369405800000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78afee"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.71312886284119", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1153191", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08A", 
+    "block": "035XX W DOUGLAS BLVD"
+}

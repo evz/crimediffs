@@ -1,1 +1,38 @@
-{"y_coordinate": "1902829", "year": "2013", "domestic": false, "case_number": "HW288006", "id": "9142960", "primary_type": "NARCOTICS", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.75429674985284, 41.88942676015571]}, "community_area": "25", "latitude": "41.88942676015571", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "1532", "date": {"$date": 1369331520000}, "ward": "28", "_id": {"$oid": "51aa13963c002ed20d78b27a"}, "iucr": "2024", "longitude": "-87.75429674985284", "location_description": "SIDEWALK", "x_coordinate": "1141912", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "051XX W FERDINAND ST"}
+{
+    "y_coordinate": "1902829", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288006", 
+    "id": "9142960", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75429674985284, 
+            41.88942676015571
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.88942676015571", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "1532", 
+    "date": {
+        "$date": 1369331520000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b27a"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.75429674985284", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1141912", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "051XX W FERDINAND ST"
+}

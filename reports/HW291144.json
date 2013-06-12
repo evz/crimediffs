@@ -1,1 +1,38 @@
-{"y_coordinate": "1856360", "year": "2013", "domestic": true, "case_number": "HW291144", "id": "9145645", "primary_type": "BATTERY", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6663010659436, 41.76142581081958]}, "community_area": "67", "latitude": "41.76142581081958", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0735", "date": {"$date": 1369535400000}, "ward": "17", "_id": {"$oid": "51b34a0c3c002ed20d78c849"}, "iucr": "486", "longitude": "-87.6663010659436", "location_description": "RESIDENCE", "x_coordinate": "1166234", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "072XX S PAULINA ST"}
+{
+    "y_coordinate": "1856360", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW291144", 
+    "id": "9145645", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6663010659436, 
+            41.76142581081958
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.76142581081958", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0735", 
+    "date": {
+        "$date": 1369535400000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51b34a0c3c002ed20d78c849"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.6663010659436", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1166234", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "072XX S PAULINA ST"
+}

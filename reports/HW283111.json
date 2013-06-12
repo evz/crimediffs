@@ -1,1 +1,38 @@
-{"y_coordinate": "1919936", "year": "2013", "domestic": true, "case_number": "HW283111", "id": "9138090", "primary_type": "BATTERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72561413290828, 41.93622415214024]}, "community_area": "21", "latitude": "41.93622415214024", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "2523", "date": {"$date": 1369056600000}, "ward": "31", "_id": {"$oid": "51a4cd913c002ed20d78a519"}, "iucr": "486", "longitude": "-87.72561413290828", "location_description": "APARTMENT", "x_coordinate": "1149601", "updated_on": {"$date": 1369787985000}, "fbi_code": "08B", "block": "030XX N DAVLIN CT"}
+{
+    "y_coordinate": "1919936", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283111", 
+    "id": "9138090", 
+    "primary_type": "BATTERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72561413290828, 
+            41.93622415214024
+        ]
+    }, 
+    "community_area": "21", 
+    "latitude": "41.93622415214024", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "2523", 
+    "date": {
+        "$date": 1369056600000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a519"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.72561413290828", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1149601", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "08B", 
+    "block": "030XX N DAVLIN CT"
+}

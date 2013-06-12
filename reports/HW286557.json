@@ -1,1 +1,38 @@
-{"y_coordinate": "1873855", "year": "2013", "domestic": false, "case_number": "HW286557", "id": "9146512", "primary_type": "ROBBERY", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61251744768545, 41.809112261096665]}, "community_area": "38", "latitude": "41.809112261096665", "type": "violent", "description": "ARMED: HANDGUN", "beat": "0223", "date": {"$date": 1369242900000}, "ward": "3", "_id": {"$oid": "51a7708a3c002ed20d78ab75"}, "iucr": "031A", "longitude": "-87.61251744768545", "location_description": "STREET", "x_coordinate": "1180762", "updated_on": {"$date": 1369787985000}, "fbi_code": "03", "block": "047XX S FORRESTVILLE AVE"}
+{
+    "y_coordinate": "1873855", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286557", 
+    "id": "9146512", 
+    "primary_type": "ROBBERY", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61251744768545, 
+            41.809112261096665
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.809112261096665", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0223", 
+    "date": {
+        "$date": 1369242900000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab75"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.61251744768545", 
+    "location_description": "STREET", 
+    "x_coordinate": "1180762", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "03", 
+    "block": "047XX S FORRESTVILLE AVE"
+}

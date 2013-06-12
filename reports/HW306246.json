@@ -1,1 +1,38 @@
-{"y_coordinate": "1900600", "year": "2013", "domestic": false, "case_number": "HW306246", "id": "9161158", "primary_type": "MOTOR VEHICLE THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74377997852686, 41.88325632452557]}, "community_area": "25", "latitude": "41.88325632452557", "type": "property", "description": "AUTOMOBILE", "beat": "1113", "date": {"$date": 1370174400000}, "ward": "28", "_id": {"$oid": "51b5f11b3c002ed20d78cdc9"}, "iucr": "910", "longitude": "-87.74377997852686", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1144791", "updated_on": {"$date": 1370651988000}, "fbi_code": "07", "block": "047XX W WEST END AVE"}
+{
+    "y_coordinate": "1900600", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW306246", 
+    "id": "9161158", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74377997852686, 
+            41.88325632452557
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.88325632452557", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1113", 
+    "date": {
+        "$date": 1370174400000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cdc9"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.74377997852686", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1144791", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "07", 
+    "block": "047XX W WEST END AVE"
+}

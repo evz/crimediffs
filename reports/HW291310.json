@@ -1,1 +1,33 @@
-{"community_area": "28", "_id": {"$oid": "51b34a0f3c002ed20d78c9c8"}, "primary_type": "THEFT", "beat": "1215", "year": "2013", "domestic": false, "iucr": "820", "arrest": false, "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "location": {"type": "Point", "coordinates": [-87.67083482954078, 41.88530105476745]}, "case_number": "HW291310", "date": {"$date": 1369501200000}, "updated_on": {"$date": 1369874559000}, "ward": "27", "fbi_code": "06", "type": "property", "id": "9147830", "block": "017XX W LAKE ST", "description": "$500 AND UNDER"}
+{
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c9c8"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "1215", 
+    "case_number": "HW291310", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67083482954078, 
+            41.88530105476745
+        ]
+    }, 
+    "community_area": "28", 
+    "date": {
+        "$date": 1369501200000
+    }, 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "ward": "27", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9147830", 
+    "block": "017XX W LAKE ST", 
+    "description": "$500 AND UNDER"
+}

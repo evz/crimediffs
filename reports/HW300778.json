@@ -1,1 +1,38 @@
-{"y_coordinate": "1941961", "year": "2013", "domestic": false, "case_number": "HW300778", "id": "9155161", "primary_type": "THEFT", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65798649989003, 41.9962873815454]}, "community_area": "77", "latitude": "41.9962873815454", "type": "property", "description": "FROM BUILDING", "beat": "2433", "date": {"$date": 1370142000000}, "ward": "48", "_id": {"$oid": "51b5f11d3c002ed20d78ce9e"}, "iucr": "890", "longitude": "-87.65798649989003", "location_description": "APARTMENT", "x_coordinate": "1167829", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "010XX W ROSEMONT AVE"}
+{
+    "y_coordinate": "1941961", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300778", 
+    "id": "9155161", 
+    "primary_type": "THEFT", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65798649989003, 
+            41.9962873815454
+        ]
+    }, 
+    "community_area": "77", 
+    "latitude": "41.9962873815454", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "2433", 
+    "date": {
+        "$date": 1370142000000
+    }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78ce9e"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.65798649989003", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1167829", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "010XX W ROSEMONT AVE"
+}

@@ -1,1 +1,33 @@
-{"community_area": "32", "_id": {"$oid": "51aa13923c002ed20d78b095"}, "primary_type": "BATTERY", "beat": "0123", "year": "2013", "domestic": false, "iucr": "041A", "arrest": false, "location_description": "SIDEWALK", "location": {"type": "Point", "coordinates": [-87.6263634125463, 41.86753584126747]}, "case_number": "HW288765", "date": {"$date": 1369393500000}, "updated_on": {"$date": 1370479286000}, "ward": "2", "fbi_code": "04B", "type": "violent", "id": "9147641", "block": "0000X E ROOSEVELT RD", "description": "AGGRAVATED: HANDGUN"}
+{
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b095"
+    }, 
+    "primary_type": "BATTERY", 
+    "year": "2013", 
+    "beat": "0123", 
+    "case_number": "HW288765", 
+    "domestic": false, 
+    "iucr": "041A", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6263634125463, 
+            41.86753584126747
+        ]
+    }, 
+    "community_area": "32", 
+    "date": {
+        "$date": 1369393500000
+    }, 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "ward": "2", 
+    "fbi_code": "04B", 
+    "type": "violent", 
+    "id": "9147641", 
+    "block": "0000X E ROOSEVELT RD", 
+    "description": "AGGRAVATED: HANDGUN"
+}

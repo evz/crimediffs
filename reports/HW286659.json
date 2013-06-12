@@ -1,1 +1,38 @@
-{"y_coordinate": "1904920", "year": "2013", "domestic": false, "case_number": "HW286659", "id": "9141477", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71005046348347, 41.89493334639882]}, "community_area": "23", "latitude": "41.89493334639882", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "1121", "date": {"$date": 1369251600000}, "ward": "27", "_id": {"$oid": "51a770893c002ed20d78ab17"}, "iucr": "2024", "longitude": "-87.71005046348347", "location_description": "ALLEY", "x_coordinate": "1153945", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "007XX N CHRISTIANA AVE"}
+{
+    "y_coordinate": "1904920", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286659", 
+    "id": "9141477", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71005046348347, 
+            41.89493334639882
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.89493334639882", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "1121", 
+    "date": {
+        "$date": 1369251600000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a770893c002ed20d78ab17"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.71005046348347", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1153945", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "007XX N CHRISTIANA AVE"
+}

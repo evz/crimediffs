@@ -1,1 +1,38 @@
-{"y_coordinate": "1920491", "year": "2013", "domestic": false, "case_number": "HW290093", "id": "9144933", "primary_type": "CRIMINAL DAMAGE", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68688882849328, 41.93753569323419]}, "community_area": "5", "latitude": "41.93753569323419", "type": "quality", "description": "TO VEHICLE", "beat": "1931", "date": {"$date": 1369434600000}, "ward": "1", "_id": {"$oid": "51aa138c3c002ed20d78ae57"}, "iucr": "1320", "longitude": "-87.68688882849328", "location_description": "STREET", "x_coordinate": "1160134", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "023XX W BARRY AVE"}
+{
+    "y_coordinate": "1920491", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290093", 
+    "id": "9144933", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68688882849328, 
+            41.93753569323419
+        ]
+    }, 
+    "community_area": "5", 
+    "latitude": "41.93753569323419", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1931", 
+    "date": {
+        "$date": 1369434600000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae57"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.68688882849328", 
+    "location_description": "STREET", 
+    "x_coordinate": "1160134", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "023XX W BARRY AVE"
+}

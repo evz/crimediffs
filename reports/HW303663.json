@@ -1,1 +1,38 @@
-{"y_coordinate": "1915263", "year": "2013", "domestic": false, "case_number": "HW303663", "id": "9158539", "primary_type": "BURGLARY", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66664473460025, 41.92307313892112]}, "community_area": "7", "latitude": "41.92307313892112", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1811", "date": {"$date": 1370278800000}, "ward": "32", "_id": {"$oid": "51b7429b3c002ed20d78d366"}, "iucr": "610", "longitude": "-87.66664473460025", "location_description": "CONSTRUCTION SITE", "x_coordinate": "1165683", "updated_on": {"$date": 1370479286000}, "fbi_code": "05", "block": "022XX N CLYBOURN AVE"}
+{
+    "y_coordinate": "1915263", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303663", 
+    "id": "9158539", 
+    "primary_type": "BURGLARY", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66664473460025, 
+            41.92307313892112
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.92307313892112", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1811", 
+    "date": {
+        "$date": 1370278800000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51b7429b3c002ed20d78d366"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.66664473460025", 
+    "location_description": "CONSTRUCTION SITE", 
+    "x_coordinate": "1165683", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "05", 
+    "block": "022XX N CLYBOURN AVE"
+}

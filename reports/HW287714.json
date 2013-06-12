@@ -1,1 +1,38 @@
-{"y_coordinate": "1855691", "year": "2013", "domestic": false, "case_number": "HW287714", "id": "9142890", "primary_type": "DECEPTIVE PRACTICE", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60067708060122, 41.75919013600628]}, "community_area": "69", "latitude": "41.75919013600628", "type": null, "description": "FRAUD OR CONFIDENCE GAME", "beat": "0323", "date": {"$date": 1369303200000}, "ward": "8", "_id": {"$oid": "51aa13983c002ed20d78b3b6"}, "iucr": "1130", "longitude": "-87.60067708060122", "location_description": "APARTMENT", "x_coordinate": "1184145", "updated_on": {"$date": 1369787985000}, "fbi_code": "11", "block": "074XX S ELLIS AVE"}
+{
+    "y_coordinate": "1855691", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287714", 
+    "id": "9142890", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60067708060122, 
+            41.75919013600628
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.75919013600628", 
+    "type": null, 
+    "description": "FRAUD OR CONFIDENCE GAME", 
+    "beat": "0323", 
+    "date": {
+        "$date": 1369303200000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3b6"
+    }, 
+    "iucr": "1130", 
+    "longitude": "-87.60067708060122", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1184145", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "11", 
+    "block": "074XX S ELLIS AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1896586", "year": "2013", "domestic": true, "case_number": "HW301013", "id": "9155379", "primary_type": "CRIMINAL DAMAGE", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70181003064569, 41.872017780046505]}, "community_area": "27", "latitude": "41.872017780046505", "type": "quality", "description": "TO PROPERTY", "beat": "1134", "date": {"$date": 1370169900000}, "ward": "28", "_id": {"$oid": "51b5f11b3c002ed20d78cdf9"}, "iucr": "1310", "longitude": "-87.70181003064569", "location_description": "APARTMENT", "x_coordinate": "1156250", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "030XX W LEXINGTON ST"}
+{
+    "y_coordinate": "1896586", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301013", 
+    "id": "9155379", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70181003064569, 
+            41.872017780046505
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.872017780046505", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1134", 
+    "date": {
+        "$date": 1370169900000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cdf9"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.70181003064569", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1156250", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "030XX W LEXINGTON ST"
+}

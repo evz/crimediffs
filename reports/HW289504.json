@@ -1,1 +1,38 @@
-{"y_coordinate": "1861385", "year": "2013", "domestic": false, "case_number": "HW289504", "id": "9144378", "primary_type": "CRIMINAL DAMAGE", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60593201049497, 41.77484954011965]}, "community_area": "42", "latitude": "41.77484954011965", "type": "quality", "description": "TO VEHICLE", "beat": "0321", "date": {"$date": 1369420200000}, "ward": "20", "_id": {"$oid": "51aa138f3c002ed20d78af1f"}, "iucr": "1320", "longitude": "-87.60593201049497", "location_description": "STREET", "x_coordinate": "1182663", "updated_on": {"$date": 1369615194000}, "fbi_code": "14", "block": "007XX E MARQUETTE RD"}
+{
+    "y_coordinate": "1861385", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289504", 
+    "id": "9144378", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60593201049497, 
+            41.77484954011965
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.77484954011965", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0321", 
+    "date": {
+        "$date": 1369420200000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51aa138f3c002ed20d78af1f"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.60593201049497", 
+    "location_description": "STREET", 
+    "x_coordinate": "1182663", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "14", 
+    "block": "007XX E MARQUETTE RD"
+}

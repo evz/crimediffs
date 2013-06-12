@@ -1,1 +1,38 @@
-{"y_coordinate": "1909609", "year": "2013", "domestic": false, "case_number": "HW288633", "id": "9143798", "primary_type": "ASSAULT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7459183183497, 41.907990162854986]}, "community_area": "25", "latitude": "41.907990162854986", "type": "violent", "description": "AGGRAVATED:KNIFE/CUTTING INSTR", "beat": "2533", "date": {"$date": 1369233600000}, "ward": "37", "_id": {"$oid": "51a7708b3c002ed20d78abfc"}, "iucr": "520", "longitude": "-87.7459183183497", "location_description": "OTHER", "x_coordinate": "1144147", "updated_on": {"$date": 1369787985000}, "fbi_code": "04A", "block": "015XX N CICERO AVE"}
+{
+    "y_coordinate": "1909609", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288633", 
+    "id": "9143798", 
+    "primary_type": "ASSAULT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7459183183497, 
+            41.907990162854986
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.907990162854986", 
+    "type": "violent", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
+    "beat": "2533", 
+    "date": {
+        "$date": 1369233600000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78abfc"
+    }, 
+    "iucr": "520", 
+    "longitude": "-87.7459183183497", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1144147", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "04A", 
+    "block": "015XX N CICERO AVE"
+}

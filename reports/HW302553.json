@@ -1,1 +1,38 @@
-{"y_coordinate": "1925886", "year": "2013", "domestic": false, "case_number": "HW302553", "id": "9157321", "primary_type": "BURGLARY", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65462196187201, 41.95215452267122]}, "community_area": "6", "latitude": "41.95215452267122", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1923", "date": {"$date": 1370095200000}, "ward": "44", "_id": {"$oid": "51b5f1203c002ed20d78d09c"}, "iucr": "610", "longitude": "-87.65462196187201", "location_description": "RESIDENCE", "x_coordinate": "1168871", "updated_on": {"$date": 1370651988000}, "fbi_code": "05", "block": "038XX N SHEFFIELD AVE"}
+{
+    "y_coordinate": "1925886", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302553", 
+    "id": "9157321", 
+    "primary_type": "BURGLARY", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65462196187201, 
+            41.95215452267122
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.95215452267122", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1923", 
+    "date": {
+        "$date": 1370095200000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d09c"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.65462196187201", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1168871", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "05", 
+    "block": "038XX N SHEFFIELD AVE"
+}

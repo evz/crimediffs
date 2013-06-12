@@ -1,1 +1,38 @@
-{"y_coordinate": "1904572", "year": "2013", "domestic": false, "case_number": "HW285343", "id": "9139979", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72007887394575, 41.8940323431976]}, "community_area": "23", "latitude": "41.8940323431976", "type": "quality", "description": "POSS: CRACK", "beat": "1112", "date": {"$date": 1369174500000}, "ward": "27", "_id": {"$oid": "51a61f083c002ed20d78a6fd"}, "iucr": "2027", "longitude": "-87.72007887394575", "location_description": "APARTMENT", "x_coordinate": "1151217", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "007XX N RIDGEWAY AVE"}
+{
+    "y_coordinate": "1904572", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285343", 
+    "id": "9139979", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72007887394575, 
+            41.8940323431976
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.8940323431976", 
+    "type": "quality", 
+    "description": "POSS: CRACK", 
+    "beat": "1112", 
+    "date": {
+        "$date": 1369174500000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a61f083c002ed20d78a6fd"
+    }, 
+    "iucr": "2027", 
+    "longitude": "-87.72007887394575", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1151217", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "007XX N RIDGEWAY AVE"
+}

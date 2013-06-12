@@ -1,1 +1,38 @@
-{"y_coordinate": "1911250", "year": "2013", "domestic": false, "case_number": "HW302264", "id": "9156745", "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", "district": "014", "arrest": true, "location": {"type": "Point", "coordinates": [-87.7055722002459, 41.91227996941231]}, "community_area": "23", "latitude": "41.91227996941231", "type": null, "description": "OBSTRUCTING SERVICE", "beat": "1421", "date": {"$date": 1370245620000}, "ward": "26", "_id": {"$oid": "51b7429f3c002ed20d78d4ea"}, "iucr": "3760", "longitude": "-87.7055722002459", "location_description": "STREET", "x_coordinate": "1155118", "updated_on": {"$date": 1370565766000}, "fbi_code": "24", "block": "017XX N TROY ST"}
+{
+    "y_coordinate": "1911250", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302264", 
+    "id": "9156745", 
+    "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", 
+    "district": "014", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7055722002459, 
+            41.91227996941231
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.91227996941231", 
+    "type": null, 
+    "description": "OBSTRUCTING SERVICE", 
+    "beat": "1421", 
+    "date": {
+        "$date": 1370245620000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51b7429f3c002ed20d78d4ea"
+    }, 
+    "iucr": "3760", 
+    "longitude": "-87.7055722002459", 
+    "location_description": "STREET", 
+    "x_coordinate": "1155118", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "24", 
+    "block": "017XX N TROY ST"
+}

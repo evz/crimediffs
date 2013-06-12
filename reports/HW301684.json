@@ -1,1 +1,38 @@
-{"y_coordinate": "1877534", "year": "2013", "domestic": false, "case_number": "HW301684", "id": "9155831", "primary_type": "THEFT", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61630002860991, 41.819232115693154]}, "community_area": "38", "latitude": "41.819232115693154", "type": "property", "description": "$500 AND UNDER", "beat": "0214", "date": {"$date": 1370206500000}, "ward": "3", "_id": {"$oid": "51b5f1173c002ed20d78cc5b"}, "iucr": "820", "longitude": "-87.61630002860991", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1179700", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "004XX E BOWEN AVE"}
+{
+    "y_coordinate": "1877534", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301684", 
+    "id": "9155831", 
+    "primary_type": "THEFT", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61630002860991, 
+            41.819232115693154
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.819232115693154", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0214", 
+    "date": {
+        "$date": 1370206500000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51b5f1173c002ed20d78cc5b"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.61630002860991", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1179700", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "004XX E BOWEN AVE"
+}

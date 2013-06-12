@@ -1,1 +1,38 @@
-{"y_coordinate": "1904809", "year": "2013", "domestic": false, "case_number": "HW300262", "id": "9154710", "primary_type": "THEFT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62948562713915, 41.89416319453401]}, "community_area": "8", "latitude": "41.89416319453401", "type": "property", "description": "RETAIL THEFT", "beat": "1832", "date": {"$date": 1370107560000}, "ward": "42", "_id": {"$oid": "51b5f11f3c002ed20d78d01b"}, "iucr": "860", "longitude": "-87.62948562713915", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1175882", "updated_on": {"$date": 1370306580000}, "fbi_code": "06", "block": "0000X W ERIE ST"}
+{
+    "y_coordinate": "1904809", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300262", 
+    "id": "9154710", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62948562713915, 
+            41.89416319453401
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89416319453401", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "1832", 
+    "date": {
+        "$date": 1370107560000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d01b"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.62948562713915", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1175882", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "06", 
+    "block": "0000X W ERIE ST"
+}

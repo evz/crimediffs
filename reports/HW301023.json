@@ -1,1 +1,33 @@
-{"community_area": "12", "_id": {"$oid": "51b5f1203c002ed20d78d0ca"}, "primary_type": "DECEPTIVE PRACTICE", "beat": "1621", "year": "2013", "domestic": false, "iucr": "1121", "arrest": false, "location_description": "RESIDENCE", "location": {"type": "Point", "coordinates": [-87.78205606896083, 42.00487274860328]}, "case_number": "HW301023", "date": {"$date": 1370091600000}, "updated_on": {"$date": 1370911182000}, "ward": "41", "fbi_code": "10", "type": null, "id": "9162143", "block": "068XX N MENDOTA AVE", "description": "COUNTERFEITING DOCUMENT"}
+{
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0ca"
+    }, 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "year": "2013", 
+    "beat": "1621", 
+    "case_number": "HW301023", 
+    "domestic": false, 
+    "iucr": "1121", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78205606896083, 
+            42.00487274860328
+        ]
+    }, 
+    "community_area": "12", 
+    "date": {
+        "$date": 1370091600000
+    }, 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "ward": "41", 
+    "fbi_code": "10", 
+    "type": null, 
+    "id": "9162143", 
+    "block": "068XX N MENDOTA AVE", 
+    "description": "COUNTERFEITING DOCUMENT"
+}

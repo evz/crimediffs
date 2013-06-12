@@ -1,1 +1,38 @@
-{"y_coordinate": "1818825", "year": "2013", "domestic": true, "case_number": "HW301366", "id": "9155613", "primary_type": "CRIMINAL DAMAGE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.5494039432266, 41.6576796923434]}, "community_area": "55", "latitude": "41.6576796923434", "type": "quality", "description": "TO PROPERTY", "beat": "0433", "date": {"$date": 1370188260000}, "ward": "10", "_id": {"$oid": "51b5f11a3c002ed20d78cd42"}, "iucr": "1310", "longitude": "-87.5494039432266", "location_description": "RESIDENCE", "x_coordinate": "1198471", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "130XX S CARONDOLET AVE"}
+{
+    "y_coordinate": "1818825", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301366", 
+    "id": "9155613", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5494039432266, 
+            41.6576796923434
+        ]
+    }, 
+    "community_area": "55", 
+    "latitude": "41.6576796923434", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0433", 
+    "date": {
+        "$date": 1370188260000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd42"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.5494039432266", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1198471", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "130XX S CARONDOLET AVE"
+}

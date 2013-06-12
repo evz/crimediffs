@@ -1,1 +1,38 @@
-{"y_coordinate": "1820145", "year": "2013", "domestic": false, "case_number": "HW283121", "id": "9137816", "primary_type": "BATTERY", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61776075889823, 41.66174813160561]}, "community_area": "53", "latitude": "41.66174813160561", "type": null, "description": "SIMPLE", "beat": "0532", "date": {"$date": 1369062000000}, "ward": "9", "_id": {"$oid": "51a4cd913c002ed20d78a4d5"}, "iucr": "460", "longitude": "-87.61776075889823", "location_description": "STREET", "x_coordinate": "1179779", "updated_on": {"$date": 1369874559000}, "fbi_code": "08B", "block": "128XX S INDIANA AVE"}
+{
+    "y_coordinate": "1820145", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283121", 
+    "id": "9137816", 
+    "primary_type": "BATTERY", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61776075889823, 
+            41.66174813160561
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.66174813160561", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0532", 
+    "date": {
+        "$date": 1369062000000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a4d5"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.61776075889823", 
+    "location_description": "STREET", 
+    "x_coordinate": "1179779", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "08B", 
+    "block": "128XX S INDIANA AVE"
+}

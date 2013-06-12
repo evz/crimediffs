@@ -1,1 +1,38 @@
-{"y_coordinate": "1903477", "year": "2013", "domestic": false, "case_number": "HW284296", "id": "9139170", "primary_type": "THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71877081431978, 41.89102040480824]}, "community_area": "23", "latitude": "41.89102040480824", "type": "property", "description": "$500 AND UNDER", "beat": "1122", "date": {"$date": 1369087200000}, "ward": "27", "_id": {"$oid": "51a4cd8d3c002ed20d78a380"}, "iucr": "820", "longitude": "-87.71877081431978", "location_description": "STREET", "x_coordinate": "1151581", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "005XX N LAWNDALE AVE"}
+{
+    "y_coordinate": "1903477", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284296", 
+    "id": "9139170", 
+    "primary_type": "THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71877081431978, 
+            41.89102040480824
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.89102040480824", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1122", 
+    "date": {
+        "$date": 1369087200000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a4cd8d3c002ed20d78a380"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.71877081431978", 
+    "location_description": "STREET", 
+    "x_coordinate": "1151581", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "005XX N LAWNDALE AVE"
+}

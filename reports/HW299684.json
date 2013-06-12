@@ -1,1 +1,38 @@
-{"y_coordinate": "1903558", "year": "2013", "domestic": false, "case_number": "HW299684", "id": "9155726", "primary_type": "THEFT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62932500218449, 41.89072916933426]}, "community_area": "8", "latitude": "41.89072916933426", "type": "property", "description": "FROM BUILDING", "beat": "1831", "date": {"$date": 1369342800000}, "ward": "42", "_id": {"$oid": "51b34a183c002ed20d78cb4f"}, "iucr": "890", "longitude": "-87.62932500218449", "location_description": "HOTEL/MOTEL", "x_coordinate": "1175936", "updated_on": {"$date": 1370824784000}, "fbi_code": "06", "block": "0000X W ILLINOIS ST"}
+{
+    "y_coordinate": "1903558", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299684", 
+    "id": "9155726", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62932500218449, 
+            41.89072916933426
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89072916933426", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1831", 
+    "date": {
+        "$date": 1369342800000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b34a183c002ed20d78cb4f"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.62932500218449", 
+    "location_description": "HOTEL/MOTEL", 
+    "x_coordinate": "1175936", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "06", 
+    "block": "0000X W ILLINOIS ST"
+}

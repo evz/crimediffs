@@ -1,1 +1,38 @@
-{"y_coordinate": "1863408", "year": "2013", "domestic": false, "case_number": "HW289397", "id": "9144251", "primary_type": "THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6838304348334, 41.780868055911576]}, "community_area": "66", "latitude": "41.780868055911576", "type": "property", "description": "$500 AND UNDER", "beat": "0825", "date": {"$date": 1369409400000}, "ward": "15", "_id": {"$oid": "51aa13903c002ed20d78afbb"}, "iucr": "820", "longitude": "-87.6838304348334", "location_description": "VEHICLE-COMMERCIAL", "x_coordinate": "1161398", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "062XX S WESTERN AVE"}
+{
+    "y_coordinate": "1863408", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289397", 
+    "id": "9144251", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6838304348334, 
+            41.780868055911576
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.780868055911576", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0825", 
+    "date": {
+        "$date": 1369409400000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78afbb"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.6838304348334", 
+    "location_description": "VEHICLE-COMMERCIAL", 
+    "x_coordinate": "1161398", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "062XX S WESTERN AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1944781", "year": "2013", "domestic": false, "case_number": "HW285094", "id": "9139897", "primary_type": "BATTERY", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6975238250796, 42.00425179593713]}, "community_area": "2", "latitude": "42.00425179593713", "type": null, "description": "SIMPLE", "beat": "2412", "date": {"$date": 1369166400000}, "ward": "50", "_id": {"$oid": "51a61f0a3c002ed20d78a772"}, "iucr": "460", "longitude": "-87.6975238250796", "location_description": "SIDEWALK", "x_coordinate": "1157060", "updated_on": {"$date": 1369356045000}, "fbi_code": "08B", "block": "067XX N WASHTENAW AVE"}
+{
+    "y_coordinate": "1944781", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285094", 
+    "id": "9139897", 
+    "primary_type": "BATTERY", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6975238250796, 
+            42.00425179593713
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "42.00425179593713", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2412", 
+    "date": {
+        "$date": 1369166400000
+    }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a772"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.6975238250796", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1157060", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08B", 
+    "block": "067XX N WASHTENAW AVE"
+}

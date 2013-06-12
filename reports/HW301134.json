@@ -1,1 +1,38 @@
-{"y_coordinate": "1860661", "year": "2013", "domestic": false, "case_number": "HW301134", "id": "9155522", "primary_type": "THEFT", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6702771252068, 41.77325205526615]}, "community_area": "67", "latitude": "41.77325205526615", "type": "property", "description": "$500 AND UNDER", "beat": "0726", "date": {"$date": 1370177760000}, "ward": "15", "_id": {"$oid": "51b5f11b3c002ed20d78cdb1"}, "iucr": "820", "longitude": "-87.6702771252068", "location_description": "STREET", "x_coordinate": "1165116", "updated_on": {"$date": 1370738354000}, "fbi_code": "06", "block": "066XX S HONORE ST"}
+{
+    "y_coordinate": "1860661", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301134", 
+    "id": "9155522", 
+    "primary_type": "THEFT", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6702771252068, 
+            41.77325205526615
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.77325205526615", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0726", 
+    "date": {
+        "$date": 1370177760000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cdb1"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.6702771252068", 
+    "location_description": "STREET", 
+    "x_coordinate": "1165116", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "06", 
+    "block": "066XX S HONORE ST"
+}

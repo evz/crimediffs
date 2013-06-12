@@ -1,1 +1,38 @@
-{"y_coordinate": "1905161", "year": "2013", "domestic": false, "case_number": "HW289771", "id": "9144792", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66305102670131, 41.89532999220134]}, "community_area": "24", "latitude": "41.89532999220134", "type": "property", "description": "$500 AND UNDER", "beat": "1215", "date": {"$date": 1369429200000}, "ward": "27", "_id": {"$oid": "51aa138d3c002ed20d78aea3"}, "iucr": "820", "longitude": "-87.66305102670131", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1166740", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "014XX W SUPERIOR ST"}
+{
+    "y_coordinate": "1905161", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289771", 
+    "id": "9144792", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66305102670131, 
+            41.89532999220134
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.89532999220134", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1215", 
+    "date": {
+        "$date": 1369429200000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78aea3"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.66305102670131", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1166740", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "014XX W SUPERIOR ST"
+}

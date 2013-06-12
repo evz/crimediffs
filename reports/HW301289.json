@@ -1,1 +1,38 @@
-{"y_coordinate": "1851042", "year": "2013", "domestic": false, "case_number": "HW301289", "id": "9155643", "primary_type": "CRIMINAL DAMAGE", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6638431915535, 41.74681730248119]}, "community_area": "71", "latitude": "41.74681730248119", "type": "quality", "description": "TO PROPERTY", "beat": "0611", "date": {"$date": 1370141100000}, "ward": "21", "_id": {"$oid": "51b5f11d3c002ed20d78ceac"}, "iucr": "1310", "longitude": "-87.6638431915535", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1166946", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "016XX W 81ST ST"}
+{
+    "y_coordinate": "1851042", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301289", 
+    "id": "9155643", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6638431915535, 
+            41.74681730248119
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.74681730248119", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0611", 
+    "date": {
+        "$date": 1370141100000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78ceac"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.6638431915535", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1166946", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "016XX W 81ST ST"
+}

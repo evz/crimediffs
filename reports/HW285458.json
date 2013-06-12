@@ -1,1 +1,38 @@
-{"y_coordinate": "1910718", "year": "2013", "domestic": false, "case_number": "HW285458", "id": "9140110", "primary_type": "BATTERY", "district": "014", "arrest": true, "location": {"type": "Point", "coordinates": [-87.7164274829401, 41.91087887007612]}, "community_area": "23", "latitude": "41.91087887007612", "type": null, "description": "SIMPLE", "beat": "1422", "date": {"$date": 1369189260000}, "ward": "26", "_id": {"$oid": "51a61f053c002ed20d78a684"}, "iucr": "460", "longitude": "-87.7164274829401", "location_description": "RESIDENCE", "x_coordinate": "1152167", "updated_on": {"$date": 1369356045000}, "fbi_code": "08B", "block": "016XX N CENTRAL PARK AVE"}
+{
+    "y_coordinate": "1910718", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285458", 
+    "id": "9140110", 
+    "primary_type": "BATTERY", 
+    "district": "014", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7164274829401, 
+            41.91087887007612
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.91087887007612", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1422", 
+    "date": {
+        "$date": 1369189260000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51a61f053c002ed20d78a684"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.7164274829401", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1152167", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08B", 
+    "block": "016XX N CENTRAL PARK AVE"
+}

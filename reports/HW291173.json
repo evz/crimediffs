@@ -1,1 +1,38 @@
-{"y_coordinate": "1898170", "year": "2013", "domestic": false, "case_number": "HW291173", "id": "9145717", "primary_type": "ROBBERY", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64114832085531, 41.87601506826179]}, "community_area": "28", "latitude": "41.87601506826179", "type": "violent", "description": "ARMED:KNIFE/CUTTING INSTRUMENT", "beat": "0121", "date": {"$date": 1369538400000}, "ward": "2", "_id": {"$oid": "51b34a0c3c002ed20d78c835"}, "iucr": "312", "longitude": "-87.64114832085531", "location_description": "CTA PLATFORM", "x_coordinate": "1172760", "updated_on": {"$date": 1369960832000}, "fbi_code": "03", "block": "004XX S CLINTON ST"}
+{
+    "y_coordinate": "1898170", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291173", 
+    "id": "9145717", 
+    "primary_type": "ROBBERY", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64114832085531, 
+            41.87601506826179
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.87601506826179", 
+    "type": "violent", 
+    "description": "ARMED:KNIFE/CUTTING INSTRUMENT", 
+    "beat": "0121", 
+    "date": {
+        "$date": 1369538400000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b34a0c3c002ed20d78c835"
+    }, 
+    "iucr": "312", 
+    "longitude": "-87.64114832085531", 
+    "location_description": "CTA PLATFORM", 
+    "x_coordinate": "1172760", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "03", 
+    "block": "004XX S CLINTON ST"
+}

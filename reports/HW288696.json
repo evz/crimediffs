@@ -1,1 +1,38 @@
-{"y_coordinate": "1894129", "year": "2013", "domestic": false, "case_number": "HW288696", "id": "9143771", "primary_type": "OTHER OFFENSE", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69475089341253, 41.86523611701805]}, "community_area": "29", "latitude": "41.86523611701805", "type": null, "description": "HARASSMENT BY ELECTRONIC MEANS", "beat": "1023", "date": {"$date": 1369344600000}, "ward": "28", "_id": {"$oid": "51aa13943c002ed20d78b1d8"}, "iucr": "2826", "longitude": "-87.69475089341253", "location_description": "APARTMENT", "x_coordinate": "1158191", "updated_on": {"$date": 1369701613000}, "fbi_code": "26", "block": "012XX S FAIRFIELD AVE"}
+{
+    "y_coordinate": "1894129", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288696", 
+    "id": "9143771", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69475089341253, 
+            41.86523611701805
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.86523611701805", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "1023", 
+    "date": {
+        "$date": 1369344600000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1d8"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.69475089341253", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1158191", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "26", 
+    "block": "012XX S FAIRFIELD AVE"
+}

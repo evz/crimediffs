@@ -1,1 +1,38 @@
-{"y_coordinate": "1881382", "year": "2013", "domestic": false, "case_number": "HW285141", "id": "9139817", "primary_type": "CRIMINAL DAMAGE", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68335409136448, 41.83019107898674]}, "community_area": "59", "latitude": "41.83019107898674", "type": "quality", "description": "TO PROPERTY", "beat": "0912", "date": {"$date": 1369123200000}, "ward": "11", "_id": {"$oid": "51a61f0f3c002ed20d78a99d"}, "iucr": "1310", "longitude": "-87.68335409136448", "location_description": "RESIDENCE", "x_coordinate": "1161392", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "023XX W 35TH ST"}
+{
+    "y_coordinate": "1881382", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285141", 
+    "id": "9139817", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68335409136448, 
+            41.83019107898674
+        ]
+    }, 
+    "community_area": "59", 
+    "latitude": "41.83019107898674", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0912", 
+    "date": {
+        "$date": 1369123200000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a99d"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.68335409136448", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1161392", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "023XX W 35TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1862470", "year": "2013", "domestic": false, "case_number": "HW289678", "id": "9144569", "primary_type": "CRIMINAL DAMAGE", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67646195593183, 41.778252014003165]}, "community_area": "67", "latitude": "41.778252014003165", "type": "quality", "description": "TO VEHICLE", "beat": "0726", "date": {"$date": 1369431120000}, "ward": "15", "_id": {"$oid": "51aa138d3c002ed20d78ae80"}, "iucr": "1320", "longitude": "-87.67646195593183", "location_description": "SIDEWALK", "x_coordinate": "1163415", "updated_on": {"$date": 1369615194000}, "fbi_code": "14", "block": "063XX S HOYNE AVE"}
+{
+    "y_coordinate": "1862470", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289678", 
+    "id": "9144569", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67646195593183, 
+            41.778252014003165
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.778252014003165", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0726", 
+    "date": {
+        "$date": 1369431120000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78ae80"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.67646195593183", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1163415", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "14", 
+    "block": "063XX S HOYNE AVE"
+}

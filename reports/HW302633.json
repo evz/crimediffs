@@ -1,1 +1,38 @@
-{"y_coordinate": "1904238", "year": "2013", "domestic": false, "case_number": "HW302633", "id": "9157351", "primary_type": "DECEPTIVE PRACTICE", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61808487363032, 41.89252579140816]}, "community_area": "8", "latitude": "41.89252579140816", "type": null, "description": "CREDIT CARD FRAUD", "beat": "1834", "date": {"$date": 1370264100000}, "ward": "42", "_id": {"$oid": "51b7429d3c002ed20d78d421"}, "iucr": "1150", "longitude": "-87.61808487363032", "location_description": "GOVERNMENT BUILDING/PROPERTY", "x_coordinate": "1178991", "updated_on": {"$date": 1370565766000}, "fbi_code": "11", "block": "003XX E OHIO ST"}
+{
+    "y_coordinate": "1904238", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302633", 
+    "id": "9157351", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61808487363032, 
+            41.89252579140816
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89252579140816", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "1834", 
+    "date": {
+        "$date": 1370264100000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b7429d3c002ed20d78d421"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.61808487363032", 
+    "location_description": "GOVERNMENT BUILDING/PROPERTY", 
+    "x_coordinate": "1178991", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "11", 
+    "block": "003XX E OHIO ST"
+}

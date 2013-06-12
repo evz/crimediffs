@@ -1,1 +1,38 @@
-{"y_coordinate": "1942499", "year": "2013", "domestic": false, "case_number": "HW289436", "id": "9144344", "primary_type": "ROBBERY", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6851339180156, 41.99792026070999]}, "community_area": "2", "latitude": "41.99792026070999", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "2412", "date": {"$date": 1369419180000}, "ward": "50", "_id": {"$oid": "51aa138f3c002ed20d78af24"}, "iucr": "320", "longitude": "-87.6851339180156", "location_description": "SIDEWALK", "x_coordinate": "1160445", "updated_on": {"$date": 1370392932000}, "fbi_code": "03", "block": "022XX W DEVON AVE"}
+{
+    "y_coordinate": "1942499", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289436", 
+    "id": "9144344", 
+    "primary_type": "ROBBERY", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6851339180156, 
+            41.99792026070999
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "41.99792026070999", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "2412", 
+    "date": {
+        "$date": 1369419180000
+    }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51aa138f3c002ed20d78af24"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.6851339180156", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1160445", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "03", 
+    "block": "022XX W DEVON AVE"
+}

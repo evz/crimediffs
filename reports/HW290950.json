@@ -1,1 +1,38 @@
-{"y_coordinate": "1865647", "year": "2013", "domestic": false, "case_number": "HW290950", "id": "9145536", "primary_type": "CRIMINAL TRESPASS", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.65124614465863, 41.786823681488954]}, "community_area": "68", "latitude": "41.786823681488954", "type": null, "description": "TO LAND", "beat": "0712", "date": {"$date": 1369517580000}, "ward": "16", "_id": {"$oid": "51b34a0e3c002ed20d78c8fd"}, "iucr": "1330", "longitude": "-87.65124614465863", "location_description": "CONVENIENCE STORE", "x_coordinate": "1170268", "updated_on": {"$date": 1369701613000}, "fbi_code": "26", "block": "010XX W 59TH ST"}
+{
+    "y_coordinate": "1865647", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290950", 
+    "id": "9145536", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65124614465863, 
+            41.786823681488954
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.786823681488954", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "0712", 
+    "date": {
+        "$date": 1369517580000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c8fd"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.65124614465863", 
+    "location_description": "CONVENIENCE STORE", 
+    "x_coordinate": "1170268", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "26", 
+    "block": "010XX W 59TH ST"
+}

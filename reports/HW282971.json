@@ -1,1 +1,38 @@
-{"y_coordinate": "1850719", "year": "2013", "domestic": false, "case_number": "HW282971", "id": "9137724", "primary_type": "BURGLARY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56750337682251, 41.745329145266986]}, "community_area": "46", "latitude": "41.745329145266986", "type": "property", "description": "ATTEMPT FORCIBLE ENTRY", "beat": "0414", "date": {"$date": 1369059120000}, "ward": "8", "_id": {"$oid": "51a4cd913c002ed20d78a4fc"}, "iucr": "630", "longitude": "-87.56750337682251", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1193241", "updated_on": {"$date": 1369269615000}, "fbi_code": "05", "block": "082XX S OGLESBY AVE"}
+{
+    "y_coordinate": "1850719", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW282971", 
+    "id": "9137724", 
+    "primary_type": "BURGLARY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56750337682251, 
+            41.745329145266986
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.745329145266986", 
+    "type": "property", 
+    "description": "ATTEMPT FORCIBLE ENTRY", 
+    "beat": "0414", 
+    "date": {
+        "$date": 1369059120000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a4fc"
+    }, 
+    "iucr": "630", 
+    "longitude": "-87.56750337682251", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1193241", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "05", 
+    "block": "082XX S OGLESBY AVE"
+}

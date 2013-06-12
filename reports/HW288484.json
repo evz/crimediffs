@@ -1,1 +1,38 @@
-{"y_coordinate": "1918445", "year": "2013", "domestic": false, "case_number": "HW288484", "id": "9143843", "primary_type": "CRIMINAL DAMAGE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73696063760306, 41.932192010036815]}, "community_area": "20", "latitude": "41.932192010036815", "type": "quality", "description": "TO VEHICLE", "beat": "2523", "date": {"$date": 1369346400000}, "ward": "31", "_id": {"$oid": "51aa13943c002ed20d78b1c2"}, "iucr": "1320", "longitude": "-87.73696063760306", "location_description": "STREET", "x_coordinate": "1146524", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "028XX N KOSTNER AVE"}
+{
+    "y_coordinate": "1918445", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288484", 
+    "id": "9143843", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73696063760306, 
+            41.932192010036815
+        ]
+    }, 
+    "community_area": "20", 
+    "latitude": "41.932192010036815", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "2523", 
+    "date": {
+        "$date": 1369346400000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1c2"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.73696063760306", 
+    "location_description": "STREET", 
+    "x_coordinate": "1146524", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "028XX N KOSTNER AVE"
+}

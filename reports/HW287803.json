@@ -1,1 +1,38 @@
-{"y_coordinate": "1943622", "year": "2013", "domestic": false, "case_number": "HW287803", "id": "9142917", "primary_type": "ROBBERY", "district": "024", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66082248249336, 42.00086212896566]}, "community_area": "1", "latitude": "42.00086212896566", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "2432", "date": {"$date": 1369325100000}, "ward": "40", "_id": {"$oid": "51aa13963c002ed20d78b2bd"}, "iucr": "320", "longitude": "-87.66082248249336", "location_description": "CTA TRAIN", "x_coordinate": "1167045", "updated_on": {"$date": 1370392932000}, "fbi_code": "03", "block": "012XX W LOYOLA AVE"}
+{
+    "y_coordinate": "1943622", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287803", 
+    "id": "9142917", 
+    "primary_type": "ROBBERY", 
+    "district": "024", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66082248249336, 
+            42.00086212896566
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "42.00086212896566", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "2432", 
+    "date": {
+        "$date": 1369325100000
+    }, 
+    "ward": "40", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b2bd"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.66082248249336", 
+    "location_description": "CTA TRAIN", 
+    "x_coordinate": "1167045", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "03", 
+    "block": "012XX W LOYOLA AVE"
+}

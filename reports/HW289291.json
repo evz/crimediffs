@@ -1,1 +1,38 @@
-{"y_coordinate": "1899194", "year": "2013", "domestic": false, "case_number": "HW289291", "id": "9144188", "primary_type": "CRIMINAL DAMAGE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66809464896585, 41.87898442889971]}, "community_area": "28", "latitude": "41.87898442889971", "type": "quality", "description": "CRIMINAL DEFACEMENT", "beat": "1224", "date": {"$date": 1369411200000}, "ward": "2", "_id": {"$oid": "51aa13903c002ed20d78afa1"}, "iucr": "1305", "longitude": "-87.66809464896585", "location_description": "RESIDENCE", "x_coordinate": "1165413", "updated_on": {"$date": 1369615194000}, "fbi_code": "14", "block": "016XX W ADAMS ST"}
+{
+    "y_coordinate": "1899194", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289291", 
+    "id": "9144188", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66809464896585, 
+            41.87898442889971
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.87898442889971", 
+    "type": "quality", 
+    "description": "CRIMINAL DEFACEMENT", 
+    "beat": "1224", 
+    "date": {
+        "$date": 1369411200000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78afa1"
+    }, 
+    "iucr": "1305", 
+    "longitude": "-87.66809464896585", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1165413", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "14", 
+    "block": "016XX W ADAMS ST"
+}

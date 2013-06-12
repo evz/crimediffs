@@ -1,1 +1,38 @@
-{"y_coordinate": "1898122", "year": "2013", "domestic": false, "case_number": "HW283184", "id": "9137859", "primary_type": "ROBBERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73763361456729, 41.87642435611848]}, "community_area": "26", "latitude": "41.87642435611848", "type": "violent", "description": "ARMED: HANDGUN", "beat": "1131", "date": {"$date": 1369062000000}, "ward": "24", "_id": {"$oid": "51a4cd913c002ed20d78a4df"}, "iucr": "031A", "longitude": "-87.73763361456729", "location_description": "SIDEWALK", "x_coordinate": "1146482", "updated_on": {"$date": 1369269615000}, "fbi_code": "03", "block": "003XX S KILBOURN AVE"}
+{
+    "y_coordinate": "1898122", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283184", 
+    "id": "9137859", 
+    "primary_type": "ROBBERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73763361456729, 
+            41.87642435611848
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.87642435611848", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "1131", 
+    "date": {
+        "$date": 1369062000000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a4df"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.73763361456729", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1146482", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "03", 
+    "block": "003XX S KILBOURN AVE"
+}

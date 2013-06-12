@@ -1,1 +1,38 @@
-{"y_coordinate": "1899199", "year": "2013", "domestic": true, "case_number": "HW290715", "id": "9145303", "primary_type": "ASSAULT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69555605946199, 41.87915394247299]}, "community_area": "27", "latitude": "41.87915394247299", "type": null, "description": "SIMPLE", "beat": "1125", "date": {"$date": 1369503300000}, "ward": "2", "_id": {"$oid": "51b34a0f3c002ed20d78c9aa"}, "iucr": "560", "longitude": "-87.69555605946199", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1157934", "updated_on": {"$date": 1370047283000}, "fbi_code": "08A", "block": "027XX W WILCOX ST"}
+{
+    "y_coordinate": "1899199", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290715", 
+    "id": "9145303", 
+    "primary_type": "ASSAULT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69555605946199, 
+            41.87915394247299
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.87915394247299", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1125", 
+    "date": {
+        "$date": 1369503300000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c9aa"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.69555605946199", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1157934", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "08A", 
+    "block": "027XX W WILCOX ST"
+}

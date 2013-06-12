@@ -1,1 +1,38 @@
-{"y_coordinate": "1907697", "year": "2013", "domestic": false, "case_number": "HW284466", "id": "9139322", "primary_type": "THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7204963779808, 41.90261032145981]}, "community_area": "23", "latitude": "41.90261032145981", "type": "property", "description": "FINANCIAL ID THEFT: OVER $300", "beat": "1112", "date": {"$date": 1369144800000}, "ward": "27", "_id": {"$oid": "51a61f0d3c002ed20d78a8aa"}, "iucr": "840", "longitude": "-87.7204963779808", "location_description": "RESIDENCE", "x_coordinate": "1151081", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "037XX W DIVISION ST"}
+{
+    "y_coordinate": "1907697", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284466", 
+    "id": "9139322", 
+    "primary_type": "THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7204963779808, 
+            41.90261032145981
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.90261032145981", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "1112", 
+    "date": {
+        "$date": 1369144800000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a61f0d3c002ed20d78a8aa"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.7204963779808", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1151081", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "037XX W DIVISION ST"
+}

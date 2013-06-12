@@ -1,1 +1,38 @@
-{"y_coordinate": "1906259", "year": "2013", "domestic": false, "case_number": "HW301112", "id": "9155486", "primary_type": "BURGLARY", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63260060949447, 41.89816138638883]}, "community_area": "8", "latitude": "41.89816138638883", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1832", "date": {"$date": 1370124000000}, "ward": "42", "_id": {"$oid": "51b5f11e3c002ed20d78cf5c"}, "iucr": "610", "longitude": "-87.63260060949447", "location_description": "APARTMENT", "x_coordinate": "1175022", "updated_on": {"$date": 1370911182000}, "fbi_code": "05", "block": "008XX N LA SALLE DR"}
+{
+    "y_coordinate": "1906259", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301112", 
+    "id": "9155486", 
+    "primary_type": "BURGLARY", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63260060949447, 
+            41.89816138638883
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89816138638883", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1832", 
+    "date": {
+        "$date": 1370124000000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf5c"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.63260060949447", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1175022", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "05", 
+    "block": "008XX N LA SALLE DR"
+}

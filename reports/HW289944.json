@@ -1,1 +1,38 @@
-{"y_coordinate": "1904402", "year": "2013", "domestic": false, "case_number": "HW289944", "id": "9144719", "primary_type": "NARCOTICS", "district": "018", "arrest": true, "location": {"type": "Point", "coordinates": [-87.63575964694755, 41.89308457393425]}, "community_area": "8", "latitude": "41.89308457393425", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1831", "date": {"$date": 1369446840000}, "ward": "42", "_id": {"$oid": "51aa138a3c002ed20d78adc9"}, "iucr": "1811", "longitude": "-87.63575964694755", "location_description": "STREET", "x_coordinate": "1174177", "updated_on": {"$date": 1369917578000}, "fbi_code": "18", "block": "006XX N FRANKLIN ST"}
+{
+    "y_coordinate": "1904402", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289944", 
+    "id": "9144719", 
+    "primary_type": "NARCOTICS", 
+    "district": "018", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63575964694755, 
+            41.89308457393425
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89308457393425", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1831", 
+    "date": {
+        "$date": 1369446840000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51aa138a3c002ed20d78adc9"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.63575964694755", 
+    "location_description": "STREET", 
+    "x_coordinate": "1174177", 
+    "updated_on": {
+        "$date": 1369917578000
+    }, 
+    "fbi_code": "18", 
+    "block": "006XX N FRANKLIN ST"
+}

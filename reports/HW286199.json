@@ -1,1 +1,38 @@
-{"y_coordinate": "1836480", "year": "2013", "domestic": true, "case_number": "HW286199", "id": "9141203", "primary_type": "BATTERY", "district": "022", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6429745001699, 41.70673107588211]}, "community_area": "73", "latitude": "41.70673107588211", "type": null, "description": "SIMPLE", "beat": "2232", "date": {"$date": 1369234020000}, "ward": "34", "_id": {"$oid": "51a7708b3c002ed20d78abf7"}, "iucr": "460", "longitude": "-87.6429745001699", "location_description": "DRUG STORE", "x_coordinate": "1172758", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "103XX S HALSTED ST"}
+{
+    "y_coordinate": "1836480", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW286199", 
+    "id": "9141203", 
+    "primary_type": "BATTERY", 
+    "district": "022", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6429745001699, 
+            41.70673107588211
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.70673107588211", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2232", 
+    "date": {
+        "$date": 1369234020000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78abf7"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.6429745001699", 
+    "location_description": "DRUG STORE", 
+    "x_coordinate": "1172758", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "103XX S HALSTED ST"
+}

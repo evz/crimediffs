@@ -1,1 +1,33 @@
-{"community_area": "25", "_id": {"$oid": "51aa13933c002ed20d78b110"}, "primary_type": "OTHER OFFENSE", "beat": "1523", "year": "2013", "domestic": true, "iucr": "2820", "arrest": false, "location_description": "RESIDENCE", "location": {"type": "Point", "coordinates": [-87.76504246754988, 41.88947220695338]}, "case_number": "HW288557", "date": {"$date": 1369382100000}, "updated_on": {"$date": 1369960832000}, "ward": "37", "fbi_code": "26", "type": null, "id": "9147663", "block": "005XX N CENTRAL AVE", "description": "TELEPHONE THREAT"}
+{
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b110"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "year": "2013", 
+    "beat": "1523", 
+    "case_number": "HW288557", 
+    "domestic": true, 
+    "iucr": "2820", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76504246754988, 
+            41.88947220695338
+        ]
+    }, 
+    "community_area": "25", 
+    "date": {
+        "$date": 1369382100000
+    }, 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "ward": "37", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9147663", 
+    "block": "005XX N CENTRAL AVE", 
+    "description": "TELEPHONE THREAT"
+}

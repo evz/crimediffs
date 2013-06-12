@@ -1,1 +1,38 @@
-{"y_coordinate": "1876528", "year": "2013", "domestic": false, "case_number": "HW289096", "id": "9144111", "primary_type": "NARCOTICS", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.61910397763532, 41.816488847526855]}, "community_area": "38", "latitude": "41.816488847526855", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0215", "date": {"$date": 1369405800000}, "ward": "3", "_id": {"$oid": "51aa13913c002ed20d78aff0"}, "iucr": "1811", "longitude": "-87.61910397763532", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1178944", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "003XX E 43RD ST"}
+{
+    "y_coordinate": "1876528", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289096", 
+    "id": "9144111", 
+    "primary_type": "NARCOTICS", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61910397763532, 
+            41.816488847526855
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.816488847526855", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0215", 
+    "date": {
+        "$date": 1369405800000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78aff0"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.61910397763532", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1178944", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "003XX E 43RD ST"
+}

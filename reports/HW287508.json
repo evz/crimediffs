@@ -1,1 +1,38 @@
-{"y_coordinate": "1844494", "year": "2013", "domestic": false, "case_number": "HW287508", "id": "9142838", "primary_type": "WEAPONS VIOLATION", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60755774447122, 41.72850581632197]}, "community_area": "44", "latitude": "41.72850581632197", "type": null, "description": "UNLAWFUL USE OTHER DANG WEAPON", "beat": "0633", "date": {"$date": 1369305600000}, "ward": "6", "_id": {"$oid": "51aa13983c002ed20d78b39c"}, "iucr": "141C", "longitude": "-87.60755774447122", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1182362", "updated_on": {"$date": 1369528777000}, "fbi_code": "15", "block": "006XX E 91ST PL"}
+{
+    "y_coordinate": "1844494", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287508", 
+    "id": "9142838", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60755774447122, 
+            41.72850581632197
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.72850581632197", 
+    "type": null, 
+    "description": "UNLAWFUL USE OTHER DANG WEAPON", 
+    "beat": "0633", 
+    "date": {
+        "$date": 1369305600000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b39c"
+    }, 
+    "iucr": "141C", 
+    "longitude": "-87.60755774447122", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1182362", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "15", 
+    "block": "006XX E 91ST PL"
+}

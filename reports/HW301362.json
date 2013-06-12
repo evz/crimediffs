@@ -1,1 +1,38 @@
-{"y_coordinate": "1861396", "year": "2013", "domestic": true, "case_number": "HW301362", "id": "9155759", "primary_type": "SEX OFFENSE", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.59986841893658, 41.77484117519514]}, "community_area": "42", "latitude": "41.77484117519514", "type": null, "description": "ATT CRIM SEXUAL ABUSE", "beat": "0321", "date": {"$date": 1370124000000}, "ward": "5", "_id": {"$oid": "51b5f11e3c002ed20d78cf63"}, "iucr": "5004", "longitude": "-87.59986841893658", "location_description": "APARTMENT", "x_coordinate": "1184317", "updated_on": {"$date": 1370392932000}, "fbi_code": "17", "block": "066XX S GREENWOOD AVE"}
+{
+    "y_coordinate": "1861396", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301362", 
+    "id": "9155759", 
+    "primary_type": "SEX OFFENSE", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59986841893658, 
+            41.77484117519514
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.77484117519514", 
+    "type": null, 
+    "description": "ATT CRIM SEXUAL ABUSE", 
+    "beat": "0321", 
+    "date": {
+        "$date": 1370124000000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf63"
+    }, 
+    "iucr": "5004", 
+    "longitude": "-87.59986841893658", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1184317", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "17", 
+    "block": "066XX S GREENWOOD AVE"
+}

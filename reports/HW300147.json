@@ -1,1 +1,38 @@
-{"y_coordinate": "1848558", "year": "2013", "domestic": false, "case_number": "HW300147", "id": "9154832", "primary_type": "BATTERY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56590682611483, 41.73938805286713]}, "community_area": "46", "latitude": "41.73938805286713", "type": null, "description": "SIMPLE", "beat": "0423", "date": {"$date": 1370098800000}, "ward": "7", "_id": {"$oid": "51b5f1203c002ed20d78d078"}, "iucr": "460", "longitude": "-87.56590682611483", "location_description": "STREET", "x_coordinate": "1193696", "updated_on": {"$date": 1370306580000}, "fbi_code": "08B", "block": "085XX S YATES BLVD"}
+{
+    "y_coordinate": "1848558", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300147", 
+    "id": "9154832", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56590682611483, 
+            41.73938805286713
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.73938805286713", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0423", 
+    "date": {
+        "$date": 1370098800000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d078"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.56590682611483", 
+    "location_description": "STREET", 
+    "x_coordinate": "1193696", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08B", 
+    "block": "085XX S YATES BLVD"
+}

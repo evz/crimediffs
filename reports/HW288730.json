@@ -1,1 +1,38 @@
-{"y_coordinate": "1873921", "year": "2013", "domestic": false, "case_number": "HW288730", "id": "9143782", "primary_type": "BATTERY", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6457053365334, 41.80949684491912]}, "community_area": "61", "latitude": "41.80949684491912", "type": null, "description": "SIMPLE", "beat": "0925", "date": {"$date": 1369391040000}, "ward": "11", "_id": {"$oid": "51aa13923c002ed20d78b0ac"}, "iucr": "460", "longitude": "-87.6457053365334", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1171713", "updated_on": {"$date": 1369528777000}, "fbi_code": "08B", "block": "046XX S HALSTED ST"}
+{
+    "y_coordinate": "1873921", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288730", 
+    "id": "9143782", 
+    "primary_type": "BATTERY", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6457053365334, 
+            41.80949684491912
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.80949684491912", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0925", 
+    "date": {
+        "$date": 1369391040000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b0ac"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.6457053365334", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1171713", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "08B", 
+    "block": "046XX S HALSTED ST"
+}

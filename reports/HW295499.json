@@ -1,1 +1,38 @@
-{"y_coordinate": "1871735", "year": "2013", "domestic": false, "case_number": "HW295499", "id": "9149952", "primary_type": "SEX OFFENSE", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.58137657719766, 41.80309476645729]}, "community_area": "39", "latitude": "41.80309476645729", "type": null, "description": "ATT CRIM SEXUAL ABUSE", "beat": "0222", "date": {"$date": 1369319400000}, "ward": "4", "_id": {"$oid": "51aa13973c002ed20d78b2fb"}, "iucr": "5004", "longitude": "-87.58137657719766", "location_description": "PARK PROPERTY", "x_coordinate": "1189271", "updated_on": {"$date": 1370133629000}, "fbi_code": "17", "block": "050XX S LAKE SHORE DR NB"}
+{
+    "y_coordinate": "1871735", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW295499", 
+    "id": "9149952", 
+    "primary_type": "SEX OFFENSE", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58137657719766, 
+            41.80309476645729
+        ]
+    }, 
+    "community_area": "39", 
+    "latitude": "41.80309476645729", 
+    "type": null, 
+    "description": "ATT CRIM SEXUAL ABUSE", 
+    "beat": "0222", 
+    "date": {
+        "$date": 1369319400000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b2fb"
+    }, 
+    "iucr": "5004", 
+    "longitude": "-87.58137657719766", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1189271", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "17", 
+    "block": "050XX S LAKE SHORE DR NB"
+}

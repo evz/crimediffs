@@ -1,1 +1,38 @@
-{"y_coordinate": "1873995", "year": "2013", "domestic": false, "case_number": "HW302605", "id": "9157200", "primary_type": "NARCOTICS", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.61526398621572, 41.80951366152321]}, "community_area": "38", "latitude": "41.80951366152321", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "0221", "date": {"$date": 1370268900000}, "ward": "3", "_id": {"$oid": "51b7429c3c002ed20d78d3e0"}, "iucr": "2024", "longitude": "-87.61526398621572", "location_description": "SIDEWALK", "x_coordinate": "1180012", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "004XX E 47TH ST"}
+{
+    "y_coordinate": "1873995", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302605", 
+    "id": "9157200", 
+    "primary_type": "NARCOTICS", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61526398621572, 
+            41.80951366152321
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.80951366152321", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "0221", 
+    "date": {
+        "$date": 1370268900000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51b7429c3c002ed20d78d3e0"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.61526398621572", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1180012", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "004XX E 47TH ST"
+}

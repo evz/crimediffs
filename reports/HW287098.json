@@ -1,1 +1,38 @@
-{"y_coordinate": "1849802", "year": "2013", "domestic": false, "case_number": "HW287098", "id": "9142078", "primary_type": "THEFT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6097057242317, 41.74308615929401]}, "community_area": "44", "latitude": "41.74308615929401", "type": "property", "description": "OVER $500", "beat": "0632", "date": {"$date": 1369281600000}, "ward": "6", "_id": {"$oid": "51a770843c002ed20d78a9f1"}, "iucr": "810", "longitude": "-87.6097057242317", "location_description": "STREET", "x_coordinate": "1181731", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "083XX S ST LAWRENCE AVE"}
+{
+    "y_coordinate": "1849802", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287098", 
+    "id": "9142078", 
+    "primary_type": "THEFT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6097057242317, 
+            41.74308615929401
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.74308615929401", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0632", 
+    "date": {
+        "$date": 1369281600000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a770843c002ed20d78a9f1"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.6097057242317", 
+    "location_description": "STREET", 
+    "x_coordinate": "1181731", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "083XX S ST LAWRENCE AVE"
+}

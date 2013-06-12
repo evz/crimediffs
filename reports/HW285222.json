@@ -1,1 +1,38 @@
-{"y_coordinate": "1897832", "year": "2013", "domestic": false, "case_number": "HW285222", "id": "9139870", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71513744846496, 41.87550963051112]}, "community_area": "27", "latitude": "41.87550963051112", "type": "violent", "description": "AGGRAVATED:KNIFE/CUTTING INSTR", "beat": "1133", "date": {"$date": 1369162800000}, "ward": "28", "_id": {"$oid": "51a61f0a3c002ed20d78a79f"}, "iucr": "420", "longitude": "-87.71513744846496", "location_description": "SIDEWALK", "x_coordinate": "1152611", "updated_on": {"$date": 1369615194000}, "fbi_code": "04B", "block": "035XX W VAN BUREN ST"}
+{
+    "y_coordinate": "1897832", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285222", 
+    "id": "9139870", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71513744846496, 
+            41.87550963051112
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.87550963051112", 
+    "type": "violent", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
+    "beat": "1133", 
+    "date": {
+        "$date": 1369162800000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a79f"
+    }, 
+    "iucr": "420", 
+    "longitude": "-87.71513744846496", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1152611", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "04B", 
+    "block": "035XX W VAN BUREN ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1844551", "year": "2013", "domestic": false, "case_number": "HW301979", "id": "9156294", "primary_type": "THEFT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64964627710728, 41.72892037691032]}, "community_area": "73", "latitude": "41.72892037691032", "type": "property", "description": "$500 AND UNDER", "beat": "2222", "date": {"$date": 1370196000000}, "ward": "21", "_id": {"$oid": "51b5f1193c002ed20d78cce0"}, "iucr": "820", "longitude": "-87.64964627710728", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1170872", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "090XX S CARPENTER ST"}
+{
+    "y_coordinate": "1844551", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301979", 
+    "id": "9156294", 
+    "primary_type": "THEFT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64964627710728, 
+            41.72892037691032
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.72892037691032", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2222", 
+    "date": {
+        "$date": 1370196000000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78cce0"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.64964627710728", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1170872", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "090XX S CARPENTER ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1907866", "year": "2013", "domestic": false, "case_number": "HW300814", "id": "9155186", "primary_type": "PUBLIC PEACE VIOLATION", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75624727006247, 41.90325932907944]}, "community_area": "25", "latitude": "41.90325932907944", "type": null, "description": "RECKLESS CONDUCT", "beat": "2532", "date": {"$date": 1370148180000}, "ward": "37", "_id": {"$oid": "51b5f11c3c002ed20d78ce6d"}, "iucr": "470", "longitude": "-87.75624727006247", "location_description": "APARTMENT", "x_coordinate": "1141347", "updated_on": {"$date": 1370306580000}, "fbi_code": "24", "block": "052XX W CRYSTAL ST"}
+{
+    "y_coordinate": "1907866", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300814", 
+    "id": "9155186", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75624727006247, 
+            41.90325932907944
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.90325932907944", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "2532", 
+    "date": {
+        "$date": 1370148180000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce6d"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.75624727006247", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1141347", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "24", 
+    "block": "052XX W CRYSTAL ST"
+}

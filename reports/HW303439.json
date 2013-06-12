@@ -1,1 +1,38 @@
-{"y_coordinate": "1904470", "year": "2013", "domestic": true, "case_number": "HW303439", "id": "9157932", "primary_type": "ASSAULT", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75022343142606, 41.893909454736075]}, "community_area": "25", "latitude": "41.893909454736075", "type": null, "description": "SIMPLE", "beat": "1531", "date": {"$date": 1370304900000}, "ward": "37", "_id": {"$oid": "51b742953c002ed20d78d200"}, "iucr": "560", "longitude": "-87.75022343142606", "location_description": "APARTMENT", "x_coordinate": "1143010", "updated_on": {"$date": 1370479286000}, "fbi_code": "08A", "block": "049XX W SUPERIOR ST"}
+{
+    "y_coordinate": "1904470", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW303439", 
+    "id": "9157932", 
+    "primary_type": "ASSAULT", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75022343142606, 
+            41.893909454736075
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.893909454736075", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1531", 
+    "date": {
+        "$date": 1370304900000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51b742953c002ed20d78d200"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.75022343142606", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1143010", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08A", 
+    "block": "049XX W SUPERIOR ST"
+}

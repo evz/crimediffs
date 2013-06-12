@@ -1,1 +1,38 @@
-{"y_coordinate": "1877797", "year": "2013", "domestic": false, "case_number": "HW290697", "id": "9145300", "primary_type": "MOTOR VEHICLE THEFT", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6216478341755, 41.819987117445834]}, "community_area": "38", "latitude": "41.819987117445834", "type": "property", "description": "AUTOMOBILE", "beat": "0213", "date": {"$date": 1369431000000}, "ward": "3", "_id": {"$oid": "51aa138d3c002ed20d78ae8a"}, "iucr": "910", "longitude": "-87.6216478341755", "location_description": "STREET", "x_coordinate": "1178240", "updated_on": {"$date": 1369701613000}, "fbi_code": "07", "block": "041XX S INDIANA AVE"}
+{
+    "y_coordinate": "1877797", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290697", 
+    "id": "9145300", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6216478341755, 
+            41.819987117445834
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.819987117445834", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0213", 
+    "date": {
+        "$date": 1369431000000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78ae8a"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.6216478341755", 
+    "location_description": "STREET", 
+    "x_coordinate": "1178240", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "07", 
+    "block": "041XX S INDIANA AVE"
+}

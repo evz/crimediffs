@@ -1,1 +1,38 @@
-{"y_coordinate": "1909281", "year": "2013", "domestic": false, "case_number": "HW285167", "id": "9139809", "primary_type": "CRIMINAL TRESPASS", "district": "014", "arrest": true, "location": {"type": "Point", "coordinates": [-87.69218407751077, 41.906802601351295]}, "community_area": "24", "latitude": "41.906802601351295", "type": null, "description": "TO LAND", "beat": "1423", "date": {"$date": 1369166700000}, "ward": "26", "_id": {"$oid": "51a61f0a3c002ed20d78a765"}, "iucr": "1330", "longitude": "-87.69218407751077", "location_description": "SCHOOL, PUBLIC, GROUNDS", "x_coordinate": "1158777", "updated_on": {"$date": 1369356045000}, "fbi_code": "26", "block": "014XX N ROCKWELL ST"}
+{
+    "y_coordinate": "1909281", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285167", 
+    "id": "9139809", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "014", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69218407751077, 
+            41.906802601351295
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.906802601351295", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "1423", 
+    "date": {
+        "$date": 1369166700000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a765"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.69218407751077", 
+    "location_description": "SCHOOL, PUBLIC, GROUNDS", 
+    "x_coordinate": "1158777", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "26", 
+    "block": "014XX N ROCKWELL ST"
+}

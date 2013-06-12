@@ -1,1 +1,33 @@
-{"community_area": "17", "_id": {"$oid": "51b5f1173c002ed20d78cc5e"}, "primary_type": "ASSAULT", "beat": "1633", "year": "2013", "domestic": false, "iucr": "560", "arrest": false, "location_description": "RESIDENCE", "location": {"type": "Point", "coordinates": [-87.78487060353032, 41.9384434571263]}, "case_number": "HW301698", "date": {"$date": 1370206200000}, "updated_on": {"$date": 1370479286000}, "ward": "36", "fbi_code": "08A", "type": null, "id": "9157472", "block": "063XX W BELMONT AVE", "description": "SIMPLE"}
+{
+    "_id": {
+        "$oid": "51b5f1173c002ed20d78cc5e"
+    }, 
+    "primary_type": "ASSAULT", 
+    "year": "2013", 
+    "beat": "1633", 
+    "case_number": "HW301698", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78487060353032, 
+            41.9384434571263
+        ]
+    }, 
+    "community_area": "17", 
+    "date": {
+        "$date": 1370206200000
+    }, 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "ward": "36", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9157472", 
+    "block": "063XX W BELMONT AVE", 
+    "description": "SIMPLE"
+}

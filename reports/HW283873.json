@@ -1,1 +1,38 @@
-{"y_coordinate": "1888574", "year": "2013", "domestic": false, "case_number": "HW283873", "id": "9138386", "primary_type": "CRIMINAL DAMAGE", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72457595021271, 41.85015371979763]}, "community_area": "29", "latitude": "41.85015371979763", "type": "quality", "description": "TO PROPERTY", "beat": "1013", "date": {"$date": 1369095240000}, "ward": "22", "_id": {"$oid": "51a4cd8c3c002ed20d78a32e"}, "iucr": "1310", "longitude": "-87.72457595021271", "location_description": "COMMERCIAL / BUSINESS OFFICE", "x_coordinate": "1150106", "updated_on": {"$date": 1369269615000}, "fbi_code": "14", "block": "022XX S PULASKI RD"}
+{
+    "y_coordinate": "1888574", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283873", 
+    "id": "9138386", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72457595021271, 
+            41.85015371979763
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85015371979763", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1013", 
+    "date": {
+        "$date": 1369095240000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51a4cd8c3c002ed20d78a32e"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.72457595021271", 
+    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
+    "x_coordinate": "1150106", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "14", 
+    "block": "022XX S PULASKI RD"
+}

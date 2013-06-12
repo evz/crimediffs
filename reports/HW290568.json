@@ -1,1 +1,38 @@
-{"y_coordinate": "1873824", "year": "2013", "domestic": false, "case_number": "HW290568", "id": "9145193", "primary_type": "DECEPTIVE PRACTICE", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7491821207286, 41.809803464889384]}, "community_area": "56", "latitude": "41.809803464889384", "type": null, "description": "CREDIT CARD FRAUD", "beat": "0814", "date": {"$date": 1369476000000}, "ward": "23", "_id": {"$oid": "51b34a123c002ed20d78cad2"}, "iucr": "1150", "longitude": "-87.7491821207286", "location_description": "RESIDENCE", "x_coordinate": "1143502", "updated_on": {"$date": 1369787985000}, "fbi_code": "11", "block": "045XX S LAWLER AVE"}
+{
+    "y_coordinate": "1873824", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290568", 
+    "id": "9145193", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7491821207286, 
+            41.809803464889384
+        ]
+    }, 
+    "community_area": "56", 
+    "latitude": "41.809803464889384", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "0814", 
+    "date": {
+        "$date": 1369476000000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cad2"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.7491821207286", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1143502", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "11", 
+    "block": "045XX S LAWLER AVE"
+}

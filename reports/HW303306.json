@@ -1,1 +1,38 @@
-{"y_coordinate": "1911438", "year": "2013", "domestic": false, "case_number": "HW303306", "id": "9157901", "primary_type": "MOTOR VEHICLE THEFT", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67033586174996, 41.91259784059493]}, "community_area": "24", "latitude": "41.91259784059493", "type": "property", "description": "CYCLE, SCOOTER, BIKE W-VIN", "beat": "1433", "date": {"$date": 1370088000000}, "ward": "32", "_id": {"$oid": "51b5f1203c002ed20d78d0fd"}, "iucr": "917", "longitude": "-87.67033586174996", "location_description": "STREET", "x_coordinate": "1164708", "updated_on": {"$date": 1370479286000}, "fbi_code": "07", "block": "017XX N PAULINA ST"}
+{
+    "y_coordinate": "1911438", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303306", 
+    "id": "9157901", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67033586174996, 
+            41.91259784059493
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.91259784059493", 
+    "type": "property", 
+    "description": "CYCLE, SCOOTER, BIKE W-VIN", 
+    "beat": "1433", 
+    "date": {
+        "$date": 1370088000000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0fd"
+    }, 
+    "iucr": "917", 
+    "longitude": "-87.67033586174996", 
+    "location_description": "STREET", 
+    "x_coordinate": "1164708", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "07", 
+    "block": "017XX N PAULINA ST"
+}

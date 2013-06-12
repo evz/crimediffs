@@ -1,1 +1,38 @@
-{"y_coordinate": "1928893", "year": "2013", "domestic": false, "case_number": "HW309000", "id": "9164208", "primary_type": "CRIMINAL DAMAGE", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.78423882399096, 41.96109945190013]}, "community_area": "15", "latitude": "41.96109945190013", "type": "quality", "description": "TO VEHICLE", "beat": "1622", "date": {"$date": 1370045100000}, "ward": "38", "_id": {"$oid": "51b5f1213c002ed20d78d1a9"}, "iucr": "1320", "longitude": "-87.78423882399096", "location_description": "DRIVEWAY - RESIDENTIAL", "x_coordinate": "1133592", "updated_on": {"$date": 1370824784000}, "fbi_code": "14", "block": "044XX N MOBILE AVE"}
+{
+    "y_coordinate": "1928893", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW309000", 
+    "id": "9164208", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78423882399096, 
+            41.96109945190013
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.96109945190013", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1622", 
+    "date": {
+        "$date": 1370045100000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d1a9"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.78423882399096", 
+    "location_description": "DRIVEWAY - RESIDENTIAL", 
+    "x_coordinate": "1133592", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "14", 
+    "block": "044XX N MOBILE AVE"
+}

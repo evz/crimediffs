@@ -1,1 +1,38 @@
-{"y_coordinate": "1905531", "year": "2013", "domestic": false, "case_number": "HW284004", "id": "9138513", "primary_type": "BATTERY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75706524788565, 41.8968556341944]}, "community_area": "25", "latitude": "41.8968556341944", "type": null, "description": "SIMPLE", "beat": "1524", "date": {"$date": 1369087200000}, "ward": "37", "_id": {"$oid": "51a4cd8d3c002ed20d78a383"}, "iucr": "460", "longitude": "-87.75706524788565", "location_description": "SIDEWALK", "x_coordinate": "1141140", "updated_on": {"$date": 1369269615000}, "fbi_code": "08B", "block": "052XX W IOWA ST"}
+{
+    "y_coordinate": "1905531", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284004", 
+    "id": "9138513", 
+    "primary_type": "BATTERY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75706524788565, 
+            41.8968556341944
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.8968556341944", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1524", 
+    "date": {
+        "$date": 1369087200000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a4cd8d3c002ed20d78a383"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.75706524788565", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1141140", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "08B", 
+    "block": "052XX W IOWA ST"
+}

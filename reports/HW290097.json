@@ -1,1 +1,38 @@
-{"y_coordinate": "1864696", "year": "2013", "domestic": false, "case_number": "HW290097", "id": "9144884", "primary_type": "NARCOTICS", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.61559277544121, 41.783996644274886]}, "community_area": "42", "latitude": "41.783996644274886", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0313", "date": {"$date": 1369469280000}, "ward": "20", "_id": {"$oid": "51b34a123c002ed20d78caff"}, "iucr": "1811", "longitude": "-87.61559277544121", "location_description": "SIDEWALK", "x_coordinate": "1180000", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "004XX E 61ST ST"}
+{
+    "y_coordinate": "1864696", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290097", 
+    "id": "9144884", 
+    "primary_type": "NARCOTICS", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61559277544121, 
+            41.783996644274886
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.783996644274886", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0313", 
+    "date": {
+        "$date": 1369469280000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78caff"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.61559277544121", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1180000", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "004XX E 61ST ST"
+}

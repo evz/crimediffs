@@ -1,1 +1,38 @@
-{"y_coordinate": "1844696", "year": "2013", "domestic": false, "case_number": "HW287896", "id": "9143231", "primary_type": "ROBBERY", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6144823049354, 41.729103696499415]}, "community_area": "44", "latitude": "41.729103696499415", "type": "violent", "description": "ARMED: HANDGUN", "beat": "0633", "date": {"$date": 1369327500000}, "ward": "6", "_id": {"$oid": "51aa13963c002ed20d78b2a9"}, "iucr": "031A", "longitude": "-87.6144823049354", "location_description": "SIDEWALK", "x_coordinate": "1180470", "updated_on": {"$date": 1369528777000}, "fbi_code": "03", "block": "091XX S DR MARTIN LUTHER KING JR DR"}
+{
+    "y_coordinate": "1844696", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287896", 
+    "id": "9143231", 
+    "primary_type": "ROBBERY", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6144823049354, 
+            41.729103696499415
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.729103696499415", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0633", 
+    "date": {
+        "$date": 1369327500000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b2a9"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.6144823049354", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1180470", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "03", 
+    "block": "091XX S DR MARTIN LUTHER KING JR DR"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1906820", "year": "2013", "domestic": false, "case_number": "HW286867", "id": "9141662", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71754421294571, 41.900187831388294]}, "community_area": "23", "latitude": "41.900187831388294", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "1112", "date": {"$date": 1369258200000}, "ward": "27", "_id": {"$oid": "51a770883c002ed20d78aab9"}, "iucr": "2024", "longitude": "-87.71754421294571", "location_description": "APARTMENT", "x_coordinate": "1151891", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "010XX N MONTICELLO AVE"}
+{
+    "y_coordinate": "1906820", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286867", 
+    "id": "9141662", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71754421294571, 
+            41.900187831388294
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.900187831388294", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "1112", 
+    "date": {
+        "$date": 1369258200000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aab9"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.71754421294571", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1151891", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "010XX N MONTICELLO AVE"
+}

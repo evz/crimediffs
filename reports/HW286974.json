@@ -1,1 +1,38 @@
-{"y_coordinate": "1906612", "year": "2013", "domestic": false, "case_number": "HW286974", "id": "9141756", "primary_type": "BATTERY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74821589411943, 41.89977740981747]}, "community_area": "25", "latitude": "41.89977740981747", "type": null, "description": "SIMPLE", "beat": "1531", "date": {"$date": 1369268700000}, "ward": "37", "_id": {"$oid": "51a770873c002ed20d78aa42"}, "iucr": "460", "longitude": "-87.74821589411943", "location_description": "APARTMENT", "x_coordinate": "1143542", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "010XX N LAMON AVE"}
+{
+    "y_coordinate": "1906612", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286974", 
+    "id": "9141756", 
+    "primary_type": "BATTERY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74821589411943, 
+            41.89977740981747
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.89977740981747", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1531", 
+    "date": {
+        "$date": 1369268700000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a770873c002ed20d78aa42"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.74821589411943", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1143542", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "010XX N LAMON AVE"
+}

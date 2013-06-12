@@ -1,1 +1,38 @@
-{"y_coordinate": "1887371", "year": "2013", "domestic": false, "case_number": "HW299874", "id": "9154498", "primary_type": "ASSAULT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7113438600281, 41.84678147545426]}, "community_area": "30", "latitude": "41.84678147545426", "type": null, "description": "SIMPLE", "beat": "1024", "date": {"$date": 1370088000000}, "ward": "22", "_id": {"$oid": "51b5f1203c002ed20d78d0fc"}, "iucr": "560", "longitude": "-87.7113438600281", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1153720", "updated_on": {"$date": 1370565766000}, "fbi_code": "08A", "block": "024XX S TRUMBULL AVE"}
+{
+    "y_coordinate": "1887371", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299874", 
+    "id": "9154498", 
+    "primary_type": "ASSAULT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7113438600281, 
+            41.84678147545426
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.84678147545426", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1024", 
+    "date": {
+        "$date": 1370088000000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0fc"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.7113438600281", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1153720", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "08A", 
+    "block": "024XX S TRUMBULL AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1903399", "year": "2013", "domestic": true, "case_number": "HW289194", "id": "9144234", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7138810734194, 41.890780081627135]}, "community_area": "23", "latitude": "41.890780081627135", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1121", "date": {"$date": 1369410000000}, "ward": "27", "_id": {"$oid": "51aa13903c002ed20d78afac"}, "iucr": "486", "longitude": "-87.7138810734194", "location_description": "APARTMENT", "x_coordinate": "1152913", "updated_on": {"$date": 1370047283000}, "fbi_code": "08B", "block": "005XX N ST LOUIS AVE"}
+{
+    "y_coordinate": "1903399", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289194", 
+    "id": "9144234", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7138810734194, 
+            41.890780081627135
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.890780081627135", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1121", 
+    "date": {
+        "$date": 1369410000000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78afac"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.7138810734194", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1152913", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "08B", 
+    "block": "005XX N ST LOUIS AVE"
+}

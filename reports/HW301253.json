@@ -1,1 +1,38 @@
-{"y_coordinate": "1910004", "year": "2013", "domestic": false, "case_number": "HW301253", "id": "9155474", "primary_type": "CRIMINAL DAMAGE", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68826293745586, 41.90876472151894]}, "community_area": "24", "latitude": "41.90876472151894", "type": "quality", "description": "TO VEHICLE", "beat": "1423", "date": {"$date": 1370112300000}, "ward": "1", "_id": {"$oid": "51b5f11f3c002ed20d78cfeb"}, "iucr": "1320", "longitude": "-87.68826293745586", "location_description": "STREET", "x_coordinate": "1159839", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "015XX N ARTESIAN AVE"}
+{
+    "y_coordinate": "1910004", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301253", 
+    "id": "9155474", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68826293745586, 
+            41.90876472151894
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.90876472151894", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1423", 
+    "date": {
+        "$date": 1370112300000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cfeb"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.68826293745586", 
+    "location_description": "STREET", 
+    "x_coordinate": "1159839", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "015XX N ARTESIAN AVE"
+}

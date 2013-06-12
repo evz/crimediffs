@@ -1,1 +1,38 @@
-{"y_coordinate": "1852935", "year": "2013", "domestic": false, "case_number": "HW283421", "id": "9138059", "primary_type": "BATTERY", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.60994996956131, 41.751685602442535]}, "community_area": "69", "latitude": "41.751685602442535", "type": null, "description": "SIMPLE", "beat": "0624", "date": {"$date": 1369073700000}, "ward": "6", "_id": {"$oid": "51a4cd8f3c002ed20d78a43d"}, "iucr": "460", "longitude": "-87.60994996956131", "location_description": "STREET", "x_coordinate": "1181638", "updated_on": {"$date": 1369269615000}, "fbi_code": "08B", "block": "078XX S ST LAWRENCE AVE"}
+{
+    "y_coordinate": "1852935", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283421", 
+    "id": "9138059", 
+    "primary_type": "BATTERY", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60994996956131, 
+            41.751685602442535
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.751685602442535", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0624", 
+    "date": {
+        "$date": 1369073700000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a43d"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.60994996956131", 
+    "location_description": "STREET", 
+    "x_coordinate": "1181638", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "08B", 
+    "block": "078XX S ST LAWRENCE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1899637", "year": "2013", "domestic": false, "case_number": "HW300606", "id": "9154984", "primary_type": "CRIMINAL DAMAGE", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70834071844817, 41.88042621181606]}, "community_area": "27", "latitude": "41.88042621181606", "type": "quality", "description": "TO VEHICLE", "beat": "1124", "date": {"$date": 1370128860000}, "ward": "28", "_id": {"$oid": "51b5f11e3c002ed20d78cf20"}, "iucr": "1320", "longitude": "-87.70834071844817", "location_description": "STREET", "x_coordinate": "1154449", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "0000X S SPAULDING AVE"}
+{
+    "y_coordinate": "1899637", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300606", 
+    "id": "9154984", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70834071844817, 
+            41.88042621181606
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.88042621181606", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1124", 
+    "date": {
+        "$date": 1370128860000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf20"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.70834071844817", 
+    "location_description": "STREET", 
+    "x_coordinate": "1154449", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "0000X S SPAULDING AVE"
+}

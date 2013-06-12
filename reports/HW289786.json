@@ -1,1 +1,38 @@
-{"y_coordinate": "1825680", "year": "2013", "domestic": false, "case_number": "HW289786", "id": "9144622", "primary_type": "NARCOTICS", "district": "005", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62371615369722, 41.676974987673034]}, "community_area": "53", "latitude": "41.676974987673034", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0522", "date": {"$date": 1369436880000}, "ward": "9", "_id": {"$oid": "51aa138c3c002ed20d78ae36"}, "iucr": "1811", "longitude": "-87.62371615369722", "location_description": "SIDEWALK", "x_coordinate": "1178106", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "119XX S LAFAYETTE AVE"}
+{
+    "y_coordinate": "1825680", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289786", 
+    "id": "9144622", 
+    "primary_type": "NARCOTICS", 
+    "district": "005", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62371615369722, 
+            41.676974987673034
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.676974987673034", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0522", 
+    "date": {
+        "$date": 1369436880000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae36"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.62371615369722", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1178106", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "119XX S LAFAYETTE AVE"
+}

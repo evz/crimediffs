@@ -1,1 +1,38 @@
-{"y_coordinate": "1860746", "year": "2013", "domestic": true, "case_number": "HW283804", "id": "9138364", "primary_type": "BATTERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6122568546016, 41.773135809748425]}, "community_area": "42", "latitude": "41.773135809748425", "type": "violent", "description": "AGGRAVATED DOMESTIC BATTERY: OTHER DANG WEAPON", "beat": "0321", "date": {"$date": 1369089900000}, "ward": "20", "_id": {"$oid": "51a4cd8c3c002ed20d78a35a"}, "iucr": "497", "longitude": "-87.6122568546016", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1180943", "updated_on": {"$date": 1369356045000}, "fbi_code": "04B", "block": "005XX E 67TH ST"}
+{
+    "y_coordinate": "1860746", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283804", 
+    "id": "9138364", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6122568546016, 
+            41.773135809748425
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.773135809748425", 
+    "type": "violent", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: OTHER DANG WEAPON", 
+    "beat": "0321", 
+    "date": {
+        "$date": 1369089900000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a4cd8c3c002ed20d78a35a"
+    }, 
+    "iucr": "497", 
+    "longitude": "-87.6122568546016", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1180943", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "04B", 
+    "block": "005XX E 67TH ST"
+}

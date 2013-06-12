@@ -1,1 +1,38 @@
-{"y_coordinate": "1914321", "year": "2013", "domestic": false, "case_number": "HW285261", "id": "9139921", "primary_type": "BATTERY", "district": "025", "arrest": true, "location": {"type": "Point", "coordinates": [-87.7571385354022, 41.92097784333012]}, "community_area": "19", "latitude": "41.92097784333012", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "2515", "date": {"$date": 1369171800000}, "ward": "37", "_id": {"$oid": "51a61f093c002ed20d78a72a"}, "iucr": "486", "longitude": "-87.7571385354022", "location_description": "RESIDENCE", "x_coordinate": "1141061", "updated_on": {"$date": 1369356045000}, "fbi_code": "08B", "block": "022XX N LATROBE AVE"}
+{
+    "y_coordinate": "1914321", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285261", 
+    "id": "9139921", 
+    "primary_type": "BATTERY", 
+    "district": "025", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7571385354022, 
+            41.92097784333012
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.92097784333012", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "2515", 
+    "date": {
+        "$date": 1369171800000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51a61f093c002ed20d78a72a"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.7571385354022", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1141061", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08B", 
+    "block": "022XX N LATROBE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1853139", "year": "2013", "domestic": false, "case_number": "HW286709", "id": "9141504", "primary_type": "NARCOTICS", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.56014680105883, 41.751921081712226]}, "community_area": "43", "latitude": "41.751921081712226", "type": "quality", "description": "SOLICIT NARCOTICS ON PUBLICWAY", "beat": "0421", "date": {"$date": 1369254180000}, "ward": "7", "_id": {"$oid": "51a770893c002ed20d78aaf0"}, "iucr": "2092", "longitude": "-87.56014680105883", "location_description": "SIDEWALK", "x_coordinate": "1195227", "updated_on": {"$date": 1369528777000}, "fbi_code": "26", "block": "026XX E 79TH ST"}
+{
+    "y_coordinate": "1853139", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286709", 
+    "id": "9141504", 
+    "primary_type": "NARCOTICS", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56014680105883, 
+            41.751921081712226
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.751921081712226", 
+    "type": "quality", 
+    "description": "SOLICIT NARCOTICS ON PUBLICWAY", 
+    "beat": "0421", 
+    "date": {
+        "$date": 1369254180000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51a770893c002ed20d78aaf0"
+    }, 
+    "iucr": "2092", 
+    "longitude": "-87.56014680105883", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1195227", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "26", 
+    "block": "026XX E 79TH ST"
+}

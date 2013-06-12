@@ -1,1 +1,38 @@
-{"y_coordinate": "1871006", "year": "2013", "domestic": true, "case_number": "HW288150", "id": "9143032", "primary_type": "CRIMINAL DAMAGE", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65542504000744, 41.80155504142217]}, "community_area": "61", "latitude": "41.80155504142217", "type": "quality", "description": "TO VEHICLE", "beat": "0933", "date": {"$date": 1369338600000}, "ward": "16", "_id": {"$oid": "51aa13953c002ed20d78b220"}, "iucr": "1320", "longitude": "-87.65542504000744", "location_description": "STREET", "x_coordinate": "1169086", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "012XX W 51ST ST"}
+{
+    "y_coordinate": "1871006", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW288150", 
+    "id": "9143032", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65542504000744, 
+            41.80155504142217
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.80155504142217", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0933", 
+    "date": {
+        "$date": 1369338600000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b220"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.65542504000744", 
+    "location_description": "STREET", 
+    "x_coordinate": "1169086", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "012XX W 51ST ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1831463", "year": "2013", "domestic": false, "case_number": "HW283701", "id": "9138233", "primary_type": "CRIMINAL TRESPASS", "district": "005", "arrest": true, "location": {"type": "Point", "coordinates": [-87.60442320143096, 41.69272472545141]}, "community_area": "50", "latitude": "41.69272472545141", "type": null, "description": "TO LAND", "beat": "0531", "date": {"$date": 1369084740000}, "ward": "9", "_id": {"$oid": "51a4cd8d3c002ed20d78a39d"}, "iucr": "1330", "longitude": "-87.60442320143096", "location_description": "POLICE FACILITY/VEH PARKING LOT", "x_coordinate": "1183328", "updated_on": {"$date": 1369269615000}, "fbi_code": "26", "block": "007XX E 111TH ST"}
+{
+    "y_coordinate": "1831463", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283701", 
+    "id": "9138233", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "005", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60442320143096, 
+            41.69272472545141
+        ]
+    }, 
+    "community_area": "50", 
+    "latitude": "41.69272472545141", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "0531", 
+    "date": {
+        "$date": 1369084740000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51a4cd8d3c002ed20d78a39d"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.60442320143096", 
+    "location_description": "POLICE FACILITY/VEH PARKING LOT", 
+    "x_coordinate": "1183328", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "26", 
+    "block": "007XX E 111TH ST"
+}

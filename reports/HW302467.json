@@ -1,1 +1,38 @@
-{"y_coordinate": "1860805", "year": "2013", "domestic": false, "case_number": "HW302467", "id": "9156980", "primary_type": "THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77609141025731, 41.77420919931081]}, "community_area": "64", "latitude": "41.77420919931081", "type": "property", "description": "$500 AND UNDER", "beat": "0812", "date": {"$date": 1370181600000}, "ward": "13", "_id": {"$oid": "51b5f11a3c002ed20d78cd80"}, "iucr": "820", "longitude": "-87.77609141025731", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1136250", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "064XX S MELVINA AVE"}
+{
+    "y_coordinate": "1860805", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302467", 
+    "id": "9156980", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77609141025731, 
+            41.77420919931081
+        ]
+    }, 
+    "community_area": "64", 
+    "latitude": "41.77420919931081", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0812", 
+    "date": {
+        "$date": 1370181600000
+    }, 
+    "ward": "13", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd80"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.77609141025731", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1136250", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "064XX S MELVINA AVE"
+}

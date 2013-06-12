@@ -1,1 +1,38 @@
-{"y_coordinate": "1852515", "year": "2013", "domestic": false, "case_number": "HW290204", "id": "9144963", "primary_type": "CRIMINAL TRESPASS", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.57123010835785, 41.750282689869124]}, "community_area": "46", "latitude": "41.750282689869124", "type": null, "description": "TO RESIDENCE", "beat": "0414", "date": {"$date": 1369409400000}, "ward": "8", "_id": {"$oid": "51aa13903c002ed20d78afb9"}, "iucr": "1365", "longitude": "-87.57123010835785", "location_description": "APARTMENT", "x_coordinate": "1192208", "updated_on": {"$date": 1369701613000}, "fbi_code": "26", "block": "079XX S PAXTON AVE"}
+{
+    "y_coordinate": "1852515", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290204", 
+    "id": "9144963", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57123010835785, 
+            41.750282689869124
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.750282689869124", 
+    "type": null, 
+    "description": "TO RESIDENCE", 
+    "beat": "0414", 
+    "date": {
+        "$date": 1369409400000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78afb9"
+    }, 
+    "iucr": "1365", 
+    "longitude": "-87.57123010835785", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1192208", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "26", 
+    "block": "079XX S PAXTON AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1855602", "year": "2013", "domestic": false, "case_number": "HW288386", "id": "9143307", "primary_type": "THEFT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60920809909297, 41.75899997844923]}, "community_area": "69", "latitude": "41.75899997844923", "type": "property", "description": "$500 AND UNDER", "beat": "0323", "date": {"$date": 1369351800000}, "ward": "6", "_id": {"$oid": "51aa13943c002ed20d78b193"}, "iucr": "820", "longitude": "-87.60920809909297", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1181818", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "074XX S CHAMPLAIN AVE"}
+{
+    "y_coordinate": "1855602", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288386", 
+    "id": "9143307", 
+    "primary_type": "THEFT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60920809909297, 
+            41.75899997844923
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.75899997844923", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0323", 
+    "date": {
+        "$date": 1369351800000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b193"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.60920809909297", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1181818", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "074XX S CHAMPLAIN AVE"
+}

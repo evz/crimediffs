@@ -1,1 +1,38 @@
-{"y_coordinate": "1901500", "year": "2013", "domestic": false, "case_number": "HW289969", "id": "9144748", "primary_type": "BATTERY", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66343512878711, 41.88528557004349]}, "community_area": "28", "latitude": "41.88528557004349", "type": "violent", "description": "AGGRAVATED:KNIFE/CUTTING INSTR", "beat": "1224", "date": {"$date": 1369451280000}, "ward": "27", "_id": {"$oid": "51aa13893c002ed20d78ad9d"}, "iucr": "420", "longitude": "-87.66343512878711", "location_description": "BAR OR TAVERN", "x_coordinate": "1166664", "updated_on": {"$date": 1369701613000}, "fbi_code": "04B", "block": "014XX W LAKE ST"}
+{
+    "y_coordinate": "1901500", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289969", 
+    "id": "9144748", 
+    "primary_type": "BATTERY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66343512878711, 
+            41.88528557004349
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.88528557004349", 
+    "type": "violent", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
+    "beat": "1224", 
+    "date": {
+        "$date": 1369451280000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa13893c002ed20d78ad9d"
+    }, 
+    "iucr": "420", 
+    "longitude": "-87.66343512878711", 
+    "location_description": "BAR OR TAVERN", 
+    "x_coordinate": "1166664", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "04B", 
+    "block": "014XX W LAKE ST"
+}

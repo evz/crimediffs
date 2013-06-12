@@ -1,1 +1,38 @@
-{"y_coordinate": "1902604", "year": "2013", "domestic": false, "case_number": "HW285357", "id": "9140011", "primary_type": "NARCOTICS", "district": "001", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62398117695169, 41.88807828090852]}, "community_area": "32", "latitude": "41.88807828090852", "type": "quality", "description": "POSS: COCAINE", "beat": "0114", "date": {"$date": 1369175760000}, "ward": "42", "_id": {"$oid": "51a61f083c002ed20d78a6e8"}, "iucr": "2022", "longitude": "-87.62398117695169", "location_description": "RESTAURANT", "x_coordinate": "1177399", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "001XX E WACKER DR"}
+{
+    "y_coordinate": "1902604", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285357", 
+    "id": "9140011", 
+    "primary_type": "NARCOTICS", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62398117695169, 
+            41.88807828090852
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88807828090852", 
+    "type": "quality", 
+    "description": "POSS: COCAINE", 
+    "beat": "0114", 
+    "date": {
+        "$date": 1369175760000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a61f083c002ed20d78a6e8"
+    }, 
+    "iucr": "2022", 
+    "longitude": "-87.62398117695169", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1177399", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "001XX E WACKER DR"
+}

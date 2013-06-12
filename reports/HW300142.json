@@ -1,1 +1,33 @@
-{"community_area": "7", "_id": {"$oid": "51b5f11f3c002ed20d78d067"}, "primary_type": "THEFT", "beat": "1814", "year": "2013", "domestic": false, "iucr": "820", "arrest": false, "location_description": "STREET", "location": {"type": "Point", "coordinates": [-87.63010445838422, 41.91676298365158]}, "case_number": "HW300142", "date": {"$date": 1370098800000}, "updated_on": {"$date": 1370824784000}, "ward": "43", "fbi_code": "06", "type": "property", "id": "9163801", "block": "019XX N CANNON DR", "description": "$500 AND UNDER"}
+{
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d067"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "1814", 
+    "case_number": "HW300142", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63010445838422, 
+            41.91676298365158
+        ]
+    }, 
+    "community_area": "7", 
+    "date": {
+        "$date": 1370098800000
+    }, 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "ward": "43", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9163801", 
+    "block": "019XX N CANNON DR", 
+    "description": "$500 AND UNDER"
+}

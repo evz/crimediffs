@@ -1,1 +1,38 @@
-{"y_coordinate": "1852610", "year": "2013", "domestic": false, "case_number": "HW286380", "id": "9141389", "primary_type": "BURGLARY", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66452039090663, 41.75112432000631]}, "community_area": "71", "latitude": "41.75112432000631", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0611", "date": {"$date": 1369208700000}, "ward": "17", "_id": {"$oid": "51a7708d3c002ed20d78ad06"}, "iucr": "610", "longitude": "-87.66452039090663", "location_description": "RESIDENCE", "x_coordinate": "1166749", "updated_on": {"$date": 1369787985000}, "fbi_code": "05", "block": "078XX S MARSHFIELD AVE"}
+{
+    "y_coordinate": "1852610", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286380", 
+    "id": "9141389", 
+    "primary_type": "BURGLARY", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66452039090663, 
+            41.75112432000631
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.75112432000631", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0611", 
+    "date": {
+        "$date": 1369208700000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad06"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.66452039090663", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1166749", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "05", 
+    "block": "078XX S MARSHFIELD AVE"
+}

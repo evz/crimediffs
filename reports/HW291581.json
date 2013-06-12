@@ -1,1 +1,38 @@
-{"y_coordinate": "1917944", "year": "2013", "domestic": false, "case_number": "HW291581", "id": "9146013", "primary_type": "CRIMINAL DAMAGE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.80513837689979, 41.93115102507]}, "community_area": "18", "latitude": "41.93115102507", "type": "quality", "description": "TO PROPERTY", "beat": "2511", "date": {"$date": 1369540800000}, "ward": "36", "_id": {"$oid": "51b34a0c3c002ed20d78c828"}, "iucr": "1310", "longitude": "-87.80513837689979", "location_description": "RESIDENCE", "x_coordinate": "1127975", "updated_on": {"$date": 1369787985000}, "fbi_code": "14", "block": "028XX N NEVA AVE"}
+{
+    "y_coordinate": "1917944", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291581", 
+    "id": "9146013", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.80513837689979, 
+            41.93115102507
+        ]
+    }, 
+    "community_area": "18", 
+    "latitude": "41.93115102507", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "2511", 
+    "date": {
+        "$date": 1369540800000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51b34a0c3c002ed20d78c828"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.80513837689979", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1127975", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "14", 
+    "block": "028XX N NEVA AVE"
+}

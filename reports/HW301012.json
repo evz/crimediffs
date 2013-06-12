@@ -1,1 +1,38 @@
-{"y_coordinate": "1856614", "year": "2013", "domestic": false, "case_number": "HW301012", "id": "9155381", "primary_type": "MOTOR VEHICLE THEFT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56031087707899, 41.76145861530974]}, "community_area": "43", "latitude": "41.76145861530974", "type": "property", "description": "AUTOMOBILE", "beat": "0334", "date": {"$date": 1370129400000}, "ward": "7", "_id": {"$oid": "51b5f11e3c002ed20d78cf18"}, "iucr": "910", "longitude": "-87.56031087707899", "location_description": "STREET", "x_coordinate": "1195151", "updated_on": {"$date": 1370738354000}, "fbi_code": "07", "block": "074XX S COLES AVE"}
+{
+    "y_coordinate": "1856614", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301012", 
+    "id": "9155381", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56031087707899, 
+            41.76145861530974
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76145861530974", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0334", 
+    "date": {
+        "$date": 1370129400000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf18"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.56031087707899", 
+    "location_description": "STREET", 
+    "x_coordinate": "1195151", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "07", 
+    "block": "074XX S COLES AVE"
+}

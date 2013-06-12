@@ -1,1 +1,38 @@
-{"y_coordinate": "1861346", "year": "2013", "domestic": true, "case_number": "HW290166", "id": "9145058", "primary_type": "BATTERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66424572931385, 41.77509692954067]}, "community_area": "67", "latitude": "41.77509692954067", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0725", "date": {"$date": 1369474200000}, "ward": "15", "_id": {"$oid": "51b34a123c002ed20d78cadd"}, "iucr": "486", "longitude": "-87.66424572931385", "location_description": "SIDEWALK", "x_coordinate": "1166756", "updated_on": {"$date": 1370047283000}, "fbi_code": "08B", "block": "065XX S ASHLAND AVE"}
+{
+    "y_coordinate": "1861346", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290166", 
+    "id": "9145058", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66424572931385, 
+            41.77509692954067
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.77509692954067", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0725", 
+    "date": {
+        "$date": 1369474200000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cadd"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.66424572931385", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1166756", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "08B", 
+    "block": "065XX S ASHLAND AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1864741", "year": "2013", "domestic": true, "case_number": "HW303396", "id": "9157948", "primary_type": "CRIMINAL DAMAGE", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65326334557867, 41.78434931472938]}, "community_area": "68", "latitude": "41.78434931472938", "type": "quality", "description": "TO VEHICLE", "beat": "0712", "date": {"$date": 1370302200000}, "ward": "16", "_id": {"$oid": "51b742963c002ed20d78d218"}, "iucr": "1320", "longitude": "-87.65326334557867", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1169725", "updated_on": {"$date": 1370911182000}, "fbi_code": "14", "block": "060XX S MAY ST"}
+{
+    "y_coordinate": "1864741", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW303396", 
+    "id": "9157948", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65326334557867, 
+            41.78434931472938
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.78434931472938", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0712", 
+    "date": {
+        "$date": 1370302200000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51b742963c002ed20d78d218"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.65326334557867", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1169725", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "14", 
+    "block": "060XX S MAY ST"
+}

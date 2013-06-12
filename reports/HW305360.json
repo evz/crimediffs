@@ -1,1 +1,38 @@
-{"y_coordinate": "1932302", "year": "2013", "domestic": true, "case_number": "HW305360", "id": "9160430", "primary_type": "OTHER OFFENSE", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74528402274578, 41.97026154212643]}, "community_area": "14", "latitude": "41.97026154212643", "type": null, "description": "VIOLATE ORDER OF PROTECTION", "beat": "1712", "date": {"$date": 1370077200000}, "ward": "39", "_id": {"$oid": "51b5f1213c002ed20d78d15f"}, "iucr": "4387", "longitude": "-87.74528402274578", "location_description": "RESIDENCE", "x_coordinate": "1144164", "updated_on": {"$date": 1370651988000}, "fbi_code": "26", "block": "049XX N KRUGER AVE"}
+{
+    "y_coordinate": "1932302", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW305360", 
+    "id": "9160430", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74528402274578, 
+            41.97026154212643
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.97026154212643", 
+    "type": null, 
+    "description": "VIOLATE ORDER OF PROTECTION", 
+    "beat": "1712", 
+    "date": {
+        "$date": 1370077200000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d15f"
+    }, 
+    "iucr": "4387", 
+    "longitude": "-87.74528402274578", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1144164", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "26", 
+    "block": "049XX N KRUGER AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1852180", "year": "2013", "domestic": false, "case_number": "HW283273", "id": "9137894", "primary_type": "NARCOTICS", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.55876761770408, 41.749280009366544]}, "community_area": "46", "latitude": "41.749280009366544", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0422", "date": {"$date": 1369069500000}, "ward": "7", "_id": {"$oid": "51a4cd903c002ed20d78a47b"}, "iucr": "1811", "longitude": "-87.55876761770408", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1195612", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "080XX S MARQUETTE AVE"}
+{
+    "y_coordinate": "1852180", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283273", 
+    "id": "9137894", 
+    "primary_type": "NARCOTICS", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55876761770408, 
+            41.749280009366544
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.749280009366544", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0422", 
+    "date": {
+        "$date": 1369069500000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51a4cd903c002ed20d78a47b"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.55876761770408", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1195612", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "080XX S MARQUETTE AVE"
+}

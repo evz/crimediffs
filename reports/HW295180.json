@@ -1,1 +1,33 @@
-{"community_area": "39", "_id": {"$oid": "51a770903c002ed20d78ad41"}, "primary_type": "THEFT", "beat": "0222", "year": "2013", "domestic": false, "iucr": "843", "arrest": false, "location_description": "APARTMENT", "location": {"type": "Point", "coordinates": [-87.604416230902, 41.80477732525262]}, "case_number": "HW295180", "date": {"$date": 1369126800000}, "updated_on": {"$date": 1369874559000}, "ward": "4", "fbi_code": "06", "type": "property", "id": "9149913", "block": "049XX S DREXEL BLVD", "description": "ATTEMPT FINANCIAL IDENTITY THEFT"}
+{
+    "_id": {
+        "$oid": "51a770903c002ed20d78ad41"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "0222", 
+    "case_number": "HW295180", 
+    "domestic": false, 
+    "iucr": "843", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.604416230902, 
+            41.80477732525262
+        ]
+    }, 
+    "community_area": "39", 
+    "date": {
+        "$date": 1369126800000
+    }, 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "ward": "4", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9149913", 
+    "block": "049XX S DREXEL BLVD", 
+    "description": "ATTEMPT FINANCIAL IDENTITY THEFT"
+}

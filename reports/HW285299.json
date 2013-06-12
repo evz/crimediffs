@@ -1,1 +1,38 @@
-{"y_coordinate": "1931008", "year": "2013", "domestic": false, "case_number": "HW285299", "id": "9140013", "primary_type": "CRIMINAL DAMAGE", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72244279382383, 41.966591268493396]}, "community_area": "14", "latitude": "41.966591268493396", "type": "quality", "description": "TO PROPERTY", "beat": "1723", "date": {"$date": 1369175100000}, "ward": "39", "_id": {"$oid": "51a61f083c002ed20d78a6f7"}, "iucr": "1310", "longitude": "-87.72244279382383", "location_description": "APARTMENT", "x_coordinate": "1150385", "updated_on": {"$date": 1369356045000}, "fbi_code": "14", "block": "037XX W LELAND AVE"}
+{
+    "y_coordinate": "1931008", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285299", 
+    "id": "9140013", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72244279382383, 
+            41.966591268493396
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.966591268493396", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1723", 
+    "date": {
+        "$date": 1369175100000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51a61f083c002ed20d78a6f7"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.72244279382383", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1150385", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "14", 
+    "block": "037XX W LELAND AVE"
+}

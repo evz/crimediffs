@@ -1,1 +1,38 @@
-{"y_coordinate": "1901297", "year": "2013", "domestic": false, "case_number": "HW287544", "id": "9142752", "primary_type": "BATTERY", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64733869002646, 41.88463346346285]}, "community_area": "28", "latitude": "41.88463346346285", "type": null, "description": "SIMPLE", "beat": "1224", "date": {"$date": 1369313100000}, "ward": "27", "_id": {"$oid": "51aa13973c002ed20d78b341"}, "iucr": "460", "longitude": "-87.64733869002646", "location_description": "STREET", "x_coordinate": "1171049", "updated_on": {"$date": 1369874559000}, "fbi_code": "08B", "block": "007XX W RANDOLPH ST"}
+{
+    "y_coordinate": "1901297", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287544", 
+    "id": "9142752", 
+    "primary_type": "BATTERY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64733869002646, 
+            41.88463346346285
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.88463346346285", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1224", 
+    "date": {
+        "$date": 1369313100000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b341"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.64733869002646", 
+    "location_description": "STREET", 
+    "x_coordinate": "1171049", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "08B", 
+    "block": "007XX W RANDOLPH ST"
+}

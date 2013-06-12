@@ -1,1 +1,38 @@
-{"y_coordinate": "1901806", "year": "2013", "domestic": false, "case_number": "HW285580", "id": "9141174", "primary_type": "CRIMINAL TRESPASS", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76983761216253, 41.886696704018625]}, "community_area": "25", "latitude": "41.886696704018625", "type": null, "description": "TO LAND", "beat": "1512", "date": {"$date": 1369209060000}, "ward": "29", "_id": {"$oid": "51a7708d3c002ed20d78ad04"}, "iucr": "1330", "longitude": "-87.76983761216253", "location_description": "NURSING HOME/RETIREMENT HOME", "x_coordinate": "1137687", "updated_on": {"$date": 1369442383000}, "fbi_code": "26", "block": "003XX N MENARD AVE"}
+{
+    "y_coordinate": "1901806", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285580", 
+    "id": "9141174", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76983761216253, 
+            41.886696704018625
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.886696704018625", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "1512", 
+    "date": {
+        "$date": 1369209060000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad04"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.76983761216253", 
+    "location_description": "NURSING HOME/RETIREMENT HOME", 
+    "x_coordinate": "1137687", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "26", 
+    "block": "003XX N MENARD AVE"
+}

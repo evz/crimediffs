@@ -1,1 +1,38 @@
-{"y_coordinate": "1857475", "year": "2013", "domestic": false, "case_number": "HW301434", "id": "9155607", "primary_type": "CRIMINAL DAMAGE", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56055740380071, 41.76382311046771]}, "community_area": "43", "latitude": "41.76382311046771", "type": "quality", "description": "TO VEHICLE", "beat": "0334", "date": {"$date": 1370124000000}, "ward": "7", "_id": {"$oid": "51b5f11e3c002ed20d78cf64"}, "iucr": "1320", "longitude": "-87.56055740380071", "location_description": "STREET", "x_coordinate": "1195076", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "073XX S SOUTH SHORE DR"}
+{
+    "y_coordinate": "1857475", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301434", 
+    "id": "9155607", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56055740380071, 
+            41.76382311046771
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76382311046771", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0334", 
+    "date": {
+        "$date": 1370124000000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf64"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.56055740380071", 
+    "location_description": "STREET", 
+    "x_coordinate": "1195076", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "073XX S SOUTH SHORE DR"
+}

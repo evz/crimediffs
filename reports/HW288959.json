@@ -1,1 +1,38 @@
-{"y_coordinate": "1862147", "year": "2013", "domestic": true, "case_number": "HW288959", "id": "9144015", "primary_type": "BATTERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70295802485538, 41.77751404668785]}, "community_area": "66", "latitude": "41.77751404668785", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0823", "date": {"$date": 1369378800000}, "ward": "15", "_id": {"$oid": "51aa13933c002ed20d78b121"}, "iucr": "486", "longitude": "-87.70295802485538", "location_description": "APARTMENT", "x_coordinate": "1156190", "updated_on": {"$date": 1369615194000}, "fbi_code": "08B", "block": "063XX S KEDZIE AVE"}
+{
+    "y_coordinate": "1862147", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW288959", 
+    "id": "9144015", 
+    "primary_type": "BATTERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70295802485538, 
+            41.77751404668785
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.77751404668785", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0823", 
+    "date": {
+        "$date": 1369378800000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b121"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.70295802485538", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1156190", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08B", 
+    "block": "063XX S KEDZIE AVE"
+}

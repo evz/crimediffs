@@ -1,1 +1,38 @@
-{"y_coordinate": "1834479", "year": "2013", "domestic": true, "case_number": "HW301438", "id": "9155662", "primary_type": "BATTERY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56414013207217, 41.70073904536776]}, "community_area": "51", "latitude": "41.70073904536776", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0434", "date": {"$date": 1370125800000}, "ward": "10", "_id": {"$oid": "51b5f11e3c002ed20d78cf48"}, "iucr": "486", "longitude": "-87.56414013207217", "location_description": "APARTMENT", "x_coordinate": "1194304", "updated_on": {"$date": 1370565766000}, "fbi_code": "08B", "block": "107XX S YATES AVE"}
+{
+    "y_coordinate": "1834479", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301438", 
+    "id": "9155662", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56414013207217, 
+            41.70073904536776
+        ]
+    }, 
+    "community_area": "51", 
+    "latitude": "41.70073904536776", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0434", 
+    "date": {
+        "$date": 1370125800000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf48"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.56414013207217", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1194304", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "08B", 
+    "block": "107XX S YATES AVE"
+}

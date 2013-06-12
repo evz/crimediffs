@@ -1,1 +1,38 @@
-{"y_coordinate": "1832361", "year": "2013", "domestic": false, "case_number": "HW283781", "id": "9138437", "primary_type": "CRIMINAL DAMAGE", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61939935701129, 41.69528314702288]}, "community_area": "49", "latitude": "41.69528314702288", "type": "quality", "description": "TO PROPERTY", "beat": "0513", "date": {"$date": 1369089000000}, "ward": "9", "_id": {"$oid": "51a4cd8d3c002ed20d78a36a"}, "iucr": "1310", "longitude": "-87.61939935701129", "location_description": "RESIDENCE", "x_coordinate": "1179230", "updated_on": {"$date": 1369269615000}, "fbi_code": "14", "block": "109XX S EDBROOKE AVE"}
+{
+    "y_coordinate": "1832361", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283781", 
+    "id": "9138437", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61939935701129, 
+            41.69528314702288
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.69528314702288", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0513", 
+    "date": {
+        "$date": 1369089000000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51a4cd8d3c002ed20d78a36a"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.61939935701129", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1179230", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "14", 
+    "block": "109XX S EDBROOKE AVE"
+}

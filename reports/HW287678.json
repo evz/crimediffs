@@ -1,1 +1,38 @@
-{"y_coordinate": "1915442", "year": "2013", "domestic": false, "case_number": "HW287678", "id": "9143037", "primary_type": "BATTERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76551801133897, 41.92409586892551]}, "community_area": "19", "latitude": "41.92409586892551", "type": null, "description": "SIMPLE", "beat": "2515", "date": {"$date": 1369319700000}, "ward": "30", "_id": {"$oid": "51aa13973c002ed20d78b2fa"}, "iucr": "460", "longitude": "-87.76551801133897", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1138773", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "055XX W FULLERTON AVE"}
+{
+    "y_coordinate": "1915442", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287678", 
+    "id": "9143037", 
+    "primary_type": "BATTERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76551801133897, 
+            41.92409586892551
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.92409586892551", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2515", 
+    "date": {
+        "$date": 1369319700000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b2fa"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.76551801133897", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1138773", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "055XX W FULLERTON AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1867112", "year": "2013", "domestic": false, "case_number": "HW300150", "id": "9154613", "primary_type": "BURGLARY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70947249231327, 41.79117502255194]}, "community_area": "63", "latitude": "41.79117502255194", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "0822", "date": {"$date": 1370102400000}, "ward": "14", "_id": {"$oid": "51b5f11f3c002ed20d78d045"}, "iucr": "620", "longitude": "-87.70947249231327", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1154377", "updated_on": {"$date": 1370306580000}, "fbi_code": "05", "block": "056XX S TRUMBULL AVE"}
+{
+    "y_coordinate": "1867112", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300150", 
+    "id": "9154613", 
+    "primary_type": "BURGLARY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70947249231327, 
+            41.79117502255194
+        ]
+    }, 
+    "community_area": "63", 
+    "latitude": "41.79117502255194", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "0822", 
+    "date": {
+        "$date": 1370102400000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d045"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.70947249231327", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1154377", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "05", 
+    "block": "056XX S TRUMBULL AVE"
+}

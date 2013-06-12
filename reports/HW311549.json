@@ -1,1 +1,38 @@
-{"y_coordinate": "1942985", "year": "2013", "domestic": true, "case_number": "HW311549", "id": "9165953", "primary_type": "ASSAULT", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6912932887414, 41.99928855257343]}, "community_area": "2", "latitude": "41.99928855257343", "type": null, "description": "SIMPLE", "beat": "2412", "date": {"$date": 1370095200000}, "ward": "50", "_id": {"$oid": "51b5f1203c002ed20d78d096"}, "iucr": "560", "longitude": "-87.6912932887414", "location_description": "RESIDENCE", "x_coordinate": "1158767", "updated_on": {"$date": 1370911182000}, "fbi_code": "08A", "block": "064XX N ARTESIAN AVE"}
+{
+    "y_coordinate": "1942985", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW311549", 
+    "id": "9165953", 
+    "primary_type": "ASSAULT", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6912932887414, 
+            41.99928855257343
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "41.99928855257343", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2412", 
+    "date": {
+        "$date": 1370095200000
+    }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d096"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.6912932887414", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1158767", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "08A", 
+    "block": "064XX N ARTESIAN AVE"
+}

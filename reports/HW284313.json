@@ -1,1 +1,38 @@
-{"y_coordinate": "1825551", "year": "2013", "domestic": false, "case_number": "HW284313", "id": "9143826", "primary_type": "BATTERY", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63570737439336, 41.67669438098432]}, "community_area": "53", "latitude": "41.67669438098432", "type": null, "description": "SIMPLE", "beat": "0524", "date": {"$date": 1369127520000}, "ward": "34", "_id": {"$oid": "51a61f0f3c002ed20d78a965"}, "iucr": "460", "longitude": "-87.63570737439336", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1174831", "updated_on": {"$date": 1369615194000}, "fbi_code": "08B", "block": "119XX S PARNELL AVE"}
+{
+    "y_coordinate": "1825551", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284313", 
+    "id": "9143826", 
+    "primary_type": "BATTERY", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63570737439336, 
+            41.67669438098432
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.67669438098432", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0524", 
+    "date": {
+        "$date": 1369127520000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a965"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.63570737439336", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1174831", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08B", 
+    "block": "119XX S PARNELL AVE"
+}

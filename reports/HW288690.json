@@ -1,1 +1,38 @@
-{"y_coordinate": "1871420", "year": "2013", "domestic": false, "case_number": "HW288690", "id": "9143806", "primary_type": "PUBLIC PEACE VIOLATION", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72197769916153, 41.803064644504914]}, "community_area": "57", "latitude": "41.803064644504914", "type": null, "description": "RECKLESS CONDUCT", "beat": "0821", "date": {"$date": 1369386000000}, "ward": "14", "_id": {"$oid": "51aa13933c002ed20d78b0ec"}, "iucr": "470", "longitude": "-87.72197769916153", "location_description": "SCHOOL, PUBLIC, GROUNDS", "x_coordinate": "1150936", "updated_on": {"$date": 1369528777000}, "fbi_code": "24", "block": "049XX S ARCHER AVE"}
+{
+    "y_coordinate": "1871420", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288690", 
+    "id": "9143806", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72197769916153, 
+            41.803064644504914
+        ]
+    }, 
+    "community_area": "57", 
+    "latitude": "41.803064644504914", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "0821", 
+    "date": {
+        "$date": 1369386000000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b0ec"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.72197769916153", 
+    "location_description": "SCHOOL, PUBLIC, GROUNDS", 
+    "x_coordinate": "1150936", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "24", 
+    "block": "049XX S ARCHER AVE"
+}

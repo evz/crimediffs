@@ -1,1 +1,38 @@
-{"y_coordinate": "1881731", "year": "2013", "domestic": true, "case_number": "HW286506", "id": "9141518", "primary_type": "MOTOR VEHICLE THEFT", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60806668324996, 41.83069811576325]}, "community_area": "36", "latitude": "41.83069811576325", "type": "property", "description": "AUTOMOBILE", "beat": "0212", "date": {"$date": 1369236600000}, "ward": "4", "_id": {"$oid": "51a7708b3c002ed20d78abc9"}, "iucr": "910", "longitude": "-87.60806668324996", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1181909", "updated_on": {"$date": 1369442383000}, "fbi_code": "07", "block": "035XX S LAKE PARK AVE"}
+{
+    "y_coordinate": "1881731", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW286506", 
+    "id": "9141518", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60806668324996, 
+            41.83069811576325
+        ]
+    }, 
+    "community_area": "36", 
+    "latitude": "41.83069811576325", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0212", 
+    "date": {
+        "$date": 1369236600000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78abc9"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.60806668324996", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1181909", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "07", 
+    "block": "035XX S LAKE PARK AVE"
+}

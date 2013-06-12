@@ -1,1 +1,38 @@
-{"y_coordinate": "1895724", "year": "2013", "domestic": false, "case_number": "HW300124", "id": "9154625", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.74473633510372, 41.86988025998651]}, "community_area": "25", "latitude": "41.86988025998651", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "1131", "date": {"$date": 1370101500000}, "ward": "24", "_id": {"$oid": "51b5f11f3c002ed20d78d04e"}, "iucr": "2024", "longitude": "-87.74473633510372", "location_description": "ALLEY", "x_coordinate": "1144564", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "008XX S CICERO AVE"}
+{
+    "y_coordinate": "1895724", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300124", 
+    "id": "9154625", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74473633510372, 
+            41.86988025998651
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.86988025998651", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "1131", 
+    "date": {
+        "$date": 1370101500000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d04e"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.74473633510372", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1144564", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "008XX S CICERO AVE"
+}

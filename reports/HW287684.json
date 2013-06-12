@@ -1,1 +1,38 @@
-{"y_coordinate": "1942505", "year": "2013", "domestic": false, "case_number": "HW287684", "id": "9142736", "primary_type": "BURGLARY", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68436859210469, 41.99793240169116]}, "community_area": "2", "latitude": "41.99793240169116", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "2412", "date": {"$date": 1369281600000}, "ward": "50", "_id": {"$oid": "51a770843c002ed20d78a9f0"}, "iucr": "620", "longitude": "-87.68436859210469", "location_description": "APARTMENT", "x_coordinate": "1160653", "updated_on": {"$date": 1370133629000}, "fbi_code": "05", "block": "021XX W DEVON AVE"}
+{
+    "y_coordinate": "1942505", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287684", 
+    "id": "9142736", 
+    "primary_type": "BURGLARY", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68436859210469, 
+            41.99793240169116
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "41.99793240169116", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "2412", 
+    "date": {
+        "$date": 1369281600000
+    }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51a770843c002ed20d78a9f0"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.68436859210469", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1160653", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "05", 
+    "block": "021XX W DEVON AVE"
+}

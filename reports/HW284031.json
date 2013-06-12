@@ -1,1 +1,38 @@
-{"y_coordinate": "1940740", "year": "2013", "domestic": false, "case_number": "HW284031", "id": "9138710", "primary_type": "THEFT", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67605687241264, 41.9930416135271]}, "community_area": "2", "latitude": "41.9930416135271", "type": "property", "description": "OVER $500", "beat": "2413", "date": {"$date": 1369117800000}, "ward": "40", "_id": {"$oid": "51a61f103c002ed20d78a9c2"}, "iucr": "810", "longitude": "-87.67605687241264", "location_description": "RESIDENCE", "x_coordinate": "1162926", "updated_on": {"$date": 1369269615000}, "fbi_code": "06", "block": "018XX W HOOD AVE"}
+{
+    "y_coordinate": "1940740", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284031", 
+    "id": "9138710", 
+    "primary_type": "THEFT", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67605687241264, 
+            41.9930416135271
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "41.9930416135271", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "2413", 
+    "date": {
+        "$date": 1369117800000
+    }, 
+    "ward": "40", 
+    "_id": {
+        "$oid": "51a61f103c002ed20d78a9c2"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.67605687241264", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1162926", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "06", 
+    "block": "018XX W HOOD AVE"
+}

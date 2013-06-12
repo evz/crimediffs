@@ -1,1 +1,38 @@
-{"y_coordinate": "1905766", "year": "2013", "domestic": false, "case_number": "HW288958", "id": "9144184", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69688633978546, 41.897182768094204]}, "community_area": "24", "latitude": "41.897182768094204", "type": "property", "description": "RETAIL THEFT", "beat": "1211", "date": {"$date": 1369398900000}, "ward": "26", "_id": {"$oid": "51aa13913c002ed20d78b043"}, "iucr": "860", "longitude": "-87.69688633978546", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1157523", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "008XX N CALIFORNIA AVE"}
+{
+    "y_coordinate": "1905766", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288958", 
+    "id": "9144184", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69688633978546, 
+            41.897182768094204
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.897182768094204", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "1211", 
+    "date": {
+        "$date": 1369398900000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b043"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.69688633978546", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1157523", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "008XX N CALIFORNIA AVE"
+}

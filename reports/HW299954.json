@@ -1,1 +1,38 @@
-{"y_coordinate": "1918009", "year": "2013", "domestic": true, "case_number": "HW299954", "id": "9155376", "primary_type": "BATTERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77893496209308, 41.931205869455376]}, "community_area": "19", "latitude": "41.931205869455376", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "2511", "date": {"$date": 1370094300000}, "ward": "29", "_id": {"$oid": "51b5f1203c002ed20d78d0ac"}, "iucr": "486", "longitude": "-87.77893496209308", "location_description": "APARTMENT", "x_coordinate": "1135105", "updated_on": {"$date": 1370479286000}, "fbi_code": "08B", "block": "061XX W DIVERSEY AVE"}
+{
+    "y_coordinate": "1918009", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW299954", 
+    "id": "9155376", 
+    "primary_type": "BATTERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77893496209308, 
+            41.931205869455376
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.931205869455376", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "2511", 
+    "date": {
+        "$date": 1370094300000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0ac"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.77893496209308", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1135105", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08B", 
+    "block": "061XX W DIVERSEY AVE"
+}

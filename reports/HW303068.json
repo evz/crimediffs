@@ -1,1 +1,38 @@
-{"y_coordinate": "1885052", "year": "2013", "domestic": false, "case_number": "HW303068", "id": "9157874", "primary_type": "ROBBERY", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.719419974503, 41.84046097500618]}, "community_area": "30", "latitude": "41.84046097500618", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "1031", "date": {"$date": 1370278500000}, "ward": "22", "_id": {"$oid": "51b7429b3c002ed20d78d369"}, "iucr": "320", "longitude": "-87.719419974503", "location_description": "ALLEY", "x_coordinate": "1151536", "updated_on": {"$date": 1370824784000}, "fbi_code": "03", "block": "028XX S HAMLIN AVE"}
+{
+    "y_coordinate": "1885052", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303068", 
+    "id": "9157874", 
+    "primary_type": "ROBBERY", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.719419974503, 
+            41.84046097500618
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.84046097500618", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "1031", 
+    "date": {
+        "$date": 1370278500000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51b7429b3c002ed20d78d369"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.719419974503", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1151536", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "03", 
+    "block": "028XX S HAMLIN AVE"
+}

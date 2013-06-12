@@ -1,1 +1,38 @@
-{"y_coordinate": "1861949", "year": "2013", "domestic": true, "case_number": "HW289003", "id": "9144018", "primary_type": "OFFENSE INVOLVING CHILDREN", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66767087429434, 41.776771635985526]}, "community_area": "67", "latitude": "41.776771635985526", "type": null, "description": "OTHER OFFENSE", "beat": "0725", "date": {"$date": 1369402800000}, "ward": "15", "_id": {"$oid": "51aa13913c002ed20d78b013"}, "iucr": "1780", "longitude": "-87.66767087429434", "location_description": "STREET", "x_coordinate": "1165817", "updated_on": {"$date": 1370306580000}, "fbi_code": "26", "block": "064XX S HERMITAGE AVE"}
+{
+    "y_coordinate": "1861949", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289003", 
+    "id": "9144018", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66767087429434, 
+            41.776771635985526
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.776771635985526", 
+    "type": null, 
+    "description": "OTHER OFFENSE", 
+    "beat": "0725", 
+    "date": {
+        "$date": 1369402800000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b013"
+    }, 
+    "iucr": "1780", 
+    "longitude": "-87.66767087429434", 
+    "location_description": "STREET", 
+    "x_coordinate": "1165817", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "26", 
+    "block": "064XX S HERMITAGE AVE"
+}

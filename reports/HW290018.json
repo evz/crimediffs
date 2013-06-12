@@ -1,1 +1,38 @@
-{"y_coordinate": "1921459", "year": "2013", "domestic": false, "case_number": "HW290018", "id": "9144790", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65497866731077, 41.94000799837905]}, "community_area": "6", "latitude": "41.94000799837905", "type": "property", "description": "$500 AND UNDER", "beat": "1924", "date": {"$date": 1369447200000}, "ward": "44", "_id": {"$oid": "51aa138a3c002ed20d78adbc"}, "iucr": "820", "longitude": "-87.65497866731077", "location_description": "RESTAURANT", "x_coordinate": "1168809", "updated_on": {"$date": 1369960832000}, "fbi_code": "06", "block": "010XX W BELMONT AVE"}
+{
+    "y_coordinate": "1921459", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290018", 
+    "id": "9144790", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65497866731077, 
+            41.94000799837905
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.94000799837905", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1924", 
+    "date": {
+        "$date": 1369447200000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51aa138a3c002ed20d78adbc"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.65497866731077", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1168809", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "06", 
+    "block": "010XX W BELMONT AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1861088", "year": "2013", "domestic": false, "case_number": "HW288370", "id": "9143278", "primary_type": "ASSAULT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66178964967702, 41.77437457114818]}, "community_area": "67", "latitude": "41.77437457114818", "type": "violent", "description": "AGGRAVATED: HANDGUN", "beat": "0725", "date": {"$date": 1369352520000}, "ward": "17", "_id": {"$oid": "51aa13943c002ed20d78b190"}, "iucr": "051A", "longitude": "-87.66178964967702", "location_description": "RESIDENCE", "x_coordinate": "1167428", "updated_on": {"$date": 1370047283000}, "fbi_code": "04A", "block": "065XX S LAFLIN ST"}
+{
+    "y_coordinate": "1861088", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288370", 
+    "id": "9143278", 
+    "primary_type": "ASSAULT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66178964967702, 
+            41.77437457114818
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.77437457114818", 
+    "type": "violent", 
+    "description": "AGGRAVATED: HANDGUN", 
+    "beat": "0725", 
+    "date": {
+        "$date": 1369352520000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b190"
+    }, 
+    "iucr": "051A", 
+    "longitude": "-87.66178964967702", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1167428", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "04A", 
+    "block": "065XX S LAFLIN ST"
+}

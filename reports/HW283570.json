@@ -1,1 +1,38 @@
-{"y_coordinate": "1909325", "year": "2013", "domestic": false, "case_number": "HW283570", "id": "9138138", "primary_type": "NARCOTICS", "district": "018", "arrest": true, "location": {"type": "Point", "coordinates": [-87.63917209293339, 41.906615117486645]}, "community_area": "8", "latitude": "41.906615117486645", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1821", "date": {"$date": 1369078200000}, "ward": "27", "_id": {"$oid": "51a4cd8f3c002ed20d78a3fa"}, "iucr": "1811", "longitude": "-87.63917209293339", "location_description": "STREET", "x_coordinate": "1173208", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "004XX W EVERGREEN AVE"}
+{
+    "y_coordinate": "1909325", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283570", 
+    "id": "9138138", 
+    "primary_type": "NARCOTICS", 
+    "district": "018", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63917209293339, 
+            41.906615117486645
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.906615117486645", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1821", 
+    "date": {
+        "$date": 1369078200000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a3fa"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.63917209293339", 
+    "location_description": "STREET", 
+    "x_coordinate": "1173208", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "004XX W EVERGREEN AVE"
+}

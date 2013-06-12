@@ -1,1 +1,38 @@
-{"y_coordinate": "1933730", "year": "2013", "domestic": false, "case_number": "HW300077", "id": "9154644", "primary_type": "THEFT", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69211471595708, 41.97389560660284]}, "community_area": "4", "latitude": "41.97389560660284", "type": "property", "description": "FROM BUILDING", "beat": "2031", "date": {"$date": 1370097900000}, "ward": "40", "_id": {"$oid": "51b5f1203c002ed20d78d07f"}, "iucr": "890", "longitude": "-87.69211471595708", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1158613", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "050XX N LINCOLN AVE"}
+{
+    "y_coordinate": "1933730", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300077", 
+    "id": "9154644", 
+    "primary_type": "THEFT", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69211471595708, 
+            41.97389560660284
+        ]
+    }, 
+    "community_area": "4", 
+    "latitude": "41.97389560660284", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "2031", 
+    "date": {
+        "$date": 1370097900000
+    }, 
+    "ward": "40", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d07f"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.69211471595708", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1158613", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "050XX N LINCOLN AVE"
+}

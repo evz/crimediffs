@@ -1,1 +1,38 @@
-{"y_coordinate": "1847547", "year": "2013", "domestic": true, "case_number": "HW301895", "id": "9156084", "primary_type": "BATTERY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55294508111821, 41.73652625701117]}, "community_area": "46", "latitude": "41.73652625701117", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0423", "date": {"$date": 1370225100000}, "ward": "10", "_id": {"$oid": "51b5f1143c002ed20d78cbb2"}, "iucr": "486", "longitude": "-87.55294508111821", "location_description": "APARTMENT", "x_coordinate": "1197243", "updated_on": {"$date": 1370824784000}, "fbi_code": "08B", "block": "087XX S EXCHANGE AVE"}
+{
+    "y_coordinate": "1847547", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301895", 
+    "id": "9156084", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55294508111821, 
+            41.73652625701117
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.73652625701117", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0423", 
+    "date": {
+        "$date": 1370225100000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51b5f1143c002ed20d78cbb2"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.55294508111821", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1197243", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "08B", 
+    "block": "087XX S EXCHANGE AVE"
+}

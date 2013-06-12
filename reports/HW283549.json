@@ -1,1 +1,38 @@
-{"y_coordinate": "1847065", "year": "2013", "domestic": false, "case_number": "HW283549", "id": "9138172", "primary_type": "PUBLIC PEACE VIOLATION", "district": "022", "arrest": true, "location": {"type": "Point", "coordinates": [-87.65259194578346, 41.735837071730145]}, "community_area": "71", "latitude": "41.735837071730145", "type": null, "description": "RECKLESS CONDUCT", "beat": "2222", "date": {"$date": 1369076100000}, "ward": "21", "_id": {"$oid": "51a4cd8f3c002ed20d78a421"}, "iucr": "470", "longitude": "-87.65259194578346", "location_description": "STREET", "x_coordinate": "1170048", "updated_on": {"$date": 1369269615000}, "fbi_code": "24", "block": "011XX W 87TH ST"}
+{
+    "y_coordinate": "1847065", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283549", 
+    "id": "9138172", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "022", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65259194578346, 
+            41.735837071730145
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.735837071730145", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "2222", 
+    "date": {
+        "$date": 1369076100000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a421"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.65259194578346", 
+    "location_description": "STREET", 
+    "x_coordinate": "1170048", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "24", 
+    "block": "011XX W 87TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1912794", "year": "2013", "domestic": false, "case_number": "HW286815", "id": "9141725", "primary_type": "THEFT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64103448992499, 41.916146090890585]}, "community_area": "7", "latitude": "41.916146090890585", "type": "property", "description": "OVER $500", "beat": "1813", "date": {"$date": 1369138500000}, "ward": "43", "_id": {"$oid": "51a61f0e3c002ed20d78a8e6"}, "iucr": "810", "longitude": "-87.64103448992499", "location_description": "STREET", "x_coordinate": "1172673", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "018XX N CLEVELAND AVE"}
+{
+    "y_coordinate": "1912794", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286815", 
+    "id": "9141725", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64103448992499, 
+            41.916146090890585
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.916146090890585", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1813", 
+    "date": {
+        "$date": 1369138500000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a8e6"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.64103448992499", 
+    "location_description": "STREET", 
+    "x_coordinate": "1172673", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "018XX N CLEVELAND AVE"
+}

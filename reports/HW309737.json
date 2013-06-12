@@ -1,1 +1,38 @@
-{"y_coordinate": "1853308", "year": "2013", "domestic": false, "case_number": "HW309737", "id": "9164713", "primary_type": "THEFT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66486330413782, 41.75304184097544]}, "community_area": "71", "latitude": "41.75304184097544", "type": "property", "description": "ATTEMPT FINANCIAL IDENTITY THEFT", "beat": "0611", "date": {"$date": 1369900800000}, "ward": "17", "_id": {"$oid": "51b5f1253c002ed20d78d1b3"}, "iucr": "843", "longitude": "-87.66486330413782", "location_description": "RESIDENCE", "x_coordinate": "1166650", "updated_on": {"$date": 1370824784000}, "fbi_code": "06", "block": "077XX S MARSHFIELD AVE"}
+{
+    "y_coordinate": "1853308", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW309737", 
+    "id": "9164713", 
+    "primary_type": "THEFT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66486330413782, 
+            41.75304184097544
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.75304184097544", 
+    "type": "property", 
+    "description": "ATTEMPT FINANCIAL IDENTITY THEFT", 
+    "beat": "0611", 
+    "date": {
+        "$date": 1369900800000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51b5f1253c002ed20d78d1b3"
+    }, 
+    "iucr": "843", 
+    "longitude": "-87.66486330413782", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1166650", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "06", 
+    "block": "077XX S MARSHFIELD AVE"
+}

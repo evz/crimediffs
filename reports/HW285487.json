@@ -1,1 +1,38 @@
-{"y_coordinate": "1898106", "year": "2013", "domestic": false, "case_number": "HW285487", "id": "9140099", "primary_type": "THEFT", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70122556141132, 41.87618582487028]}, "community_area": "27", "latitude": "41.87618582487028", "type": "property", "description": "RETAIL THEFT", "beat": "1124", "date": {"$date": 1369194180000}, "ward": "28", "_id": {"$oid": "51a61f053c002ed20d78a66c"}, "iucr": "860", "longitude": "-87.70122556141132", "location_description": "GAS STATION", "x_coordinate": "1156398", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "003XX S SACRAMENTO BLVD"}
+{
+    "y_coordinate": "1898106", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285487", 
+    "id": "9140099", 
+    "primary_type": "THEFT", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70122556141132, 
+            41.87618582487028
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.87618582487028", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "1124", 
+    "date": {
+        "$date": 1369194180000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a61f053c002ed20d78a66c"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.70122556141132", 
+    "location_description": "GAS STATION", 
+    "x_coordinate": "1156398", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "003XX S SACRAMENTO BLVD"
+}

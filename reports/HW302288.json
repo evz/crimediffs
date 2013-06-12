@@ -1,1 +1,38 @@
-{"y_coordinate": "1856111", "year": "2013", "domestic": false, "case_number": "HW302288", "id": "9156944", "primary_type": "THEFT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.5665431764654, 41.76011999925317]}, "community_area": "43", "latitude": "41.76011999925317", "type": "property", "description": "$500 AND UNDER", "beat": "0334", "date": {"$date": 1370113200000}, "ward": "7", "_id": {"$oid": "51b5f11f3c002ed20d78cfdd"}, "iucr": "820", "longitude": "-87.5665431764654", "location_description": "APARTMENT", "x_coordinate": "1193455", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "074XX S YATES BLVD"}
+{
+    "y_coordinate": "1856111", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302288", 
+    "id": "9156944", 
+    "primary_type": "THEFT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5665431764654, 
+            41.76011999925317
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76011999925317", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0334", 
+    "date": {
+        "$date": 1370113200000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cfdd"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.5665431764654", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1193455", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "074XX S YATES BLVD"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1866384", "year": "2013", "domestic": true, "case_number": "HW284110", "id": "9138852", "primary_type": "BATTERY", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61730107974903, 41.78863965992841]}, "community_area": "40", "latitude": "41.78863965992841", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0232", "date": {"$date": 1369117800000}, "ward": "20", "_id": {"$oid": "51a61f103c002ed20d78a9c1"}, "iucr": "486", "longitude": "-87.61730107974903", "location_description": "RESIDENCE", "x_coordinate": "1179520", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "058XX S CALUMET AVE"}
+{
+    "y_coordinate": "1866384", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW284110", 
+    "id": "9138852", 
+    "primary_type": "BATTERY", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61730107974903, 
+            41.78863965992841
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.78863965992841", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0232", 
+    "date": {
+        "$date": 1369117800000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a61f103c002ed20d78a9c1"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.61730107974903", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1179520", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "058XX S CALUMET AVE"
+}

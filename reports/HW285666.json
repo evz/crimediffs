@@ -1,1 +1,38 @@
-{"y_coordinate": "1892848", "year": "2013", "domestic": false, "case_number": "HW285666", "id": "9140299", "primary_type": "CRIMINAL DAMAGE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64866210041825, 41.861455214429924]}, "community_area": "28", "latitude": "41.861455214429924", "type": "quality", "description": "TO VEHICLE", "beat": "1232", "date": {"$date": 1369126800000}, "ward": "25", "_id": {"$oid": "51a61f0f3c002ed20d78a976"}, "iucr": "1320", "longitude": "-87.64866210041825", "location_description": "STREET", "x_coordinate": "1170756", "updated_on": {"$date": 1369356045000}, "fbi_code": "14", "block": "015XX S PEORIA ST"}
+{
+    "y_coordinate": "1892848", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285666", 
+    "id": "9140299", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64866210041825, 
+            41.861455214429924
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.861455214429924", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1232", 
+    "date": {
+        "$date": 1369126800000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a976"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.64866210041825", 
+    "location_description": "STREET", 
+    "x_coordinate": "1170756", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "14", 
+    "block": "015XX S PEORIA ST"
+}

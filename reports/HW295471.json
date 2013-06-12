@@ -1,1 +1,38 @@
-{"y_coordinate": "1849323", "year": "2013", "domestic": false, "case_number": "HW295471", "id": "9149978", "primary_type": "THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55257464602312, 41.741397624446456]}, "community_area": "46", "latitude": "41.741397624446456", "type": "property", "description": "FINANCIAL ID THEFT: OVER $300", "beat": "0423", "date": {"$date": 1369404000000}, "ward": "10", "_id": {"$oid": "51aa13913c002ed20d78affc"}, "iucr": "840", "longitude": "-87.55257464602312", "location_description": "RESIDENCE", "x_coordinate": "1197328", "updated_on": {"$date": 1370047283000}, "fbi_code": "06", "block": "084XX S EXCHANGE AVE"}
+{
+    "y_coordinate": "1849323", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW295471", 
+    "id": "9149978", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55257464602312, 
+            41.741397624446456
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.741397624446456", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "0423", 
+    "date": {
+        "$date": 1369404000000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78affc"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.55257464602312", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1197328", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "06", 
+    "block": "084XX S EXCHANGE AVE"
+}

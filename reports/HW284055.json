@@ -1,1 +1,38 @@
-{"y_coordinate": "1905192", "year": "2013", "domestic": true, "case_number": "HW284055", "id": "9138627", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7066789298346, 41.89566143077361]}, "community_area": "23", "latitude": "41.89566143077361", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1121", "date": {"$date": 1369125000000}, "ward": "27", "_id": {"$oid": "51a61f0f3c002ed20d78a985"}, "iucr": "486", "longitude": "-87.7066789298346", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1154861", "updated_on": {"$date": 1369787985000}, "fbi_code": "08B", "block": "032XX W CHICAGO AVE"}
+{
+    "y_coordinate": "1905192", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW284055", 
+    "id": "9138627", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7066789298346, 
+            41.89566143077361
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.89566143077361", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1121", 
+    "date": {
+        "$date": 1369125000000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a985"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.7066789298346", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1154861", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "08B", 
+    "block": "032XX W CHICAGO AVE"
+}

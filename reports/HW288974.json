@@ -1,1 +1,38 @@
-{"y_coordinate": "1856319", "year": "2013", "domestic": false, "case_number": "HW288974", "id": "9144107", "primary_type": "ROBBERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.5665290513604, 41.76069071833715]}, "community_area": "43", "latitude": "41.76069071833715", "type": "violent", "description": "ARMED: HANDGUN", "beat": "0334", "date": {"$date": 1369402140000}, "ward": "7", "_id": {"$oid": "51aa13913c002ed20d78b01f"}, "iucr": "031A", "longitude": "-87.5665290513604", "location_description": "STREET", "x_coordinate": "1193457", "updated_on": {"$date": 1370047283000}, "fbi_code": "03", "block": "023XX E 74TH ST"}
+{
+    "y_coordinate": "1856319", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288974", 
+    "id": "9144107", 
+    "primary_type": "ROBBERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5665290513604, 
+            41.76069071833715
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76069071833715", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0334", 
+    "date": {
+        "$date": 1369402140000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b01f"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.5665290513604", 
+    "location_description": "STREET", 
+    "x_coordinate": "1193457", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "03", 
+    "block": "023XX E 74TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1919633", "year": "2013", "domestic": true, "case_number": "HW289515", "id": "9144388", "primary_type": "OTHER OFFENSE", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71080413023897, 41.935313309696774]}, "community_area": "21", "latitude": "41.935313309696774", "type": null, "description": "TELEPHONE THREAT", "beat": "1412", "date": {"$date": 1369386000000}, "ward": "35", "_id": {"$oid": "51aa13933c002ed20d78b0dd"}, "iucr": "2820", "longitude": "-87.71080413023897", "location_description": "RESIDENCE", "x_coordinate": "1153633", "updated_on": {"$date": 1369874559000}, "fbi_code": "26", "block": "029XX N DAWSON AVE"}
+{
+    "y_coordinate": "1919633", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289515", 
+    "id": "9144388", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71080413023897, 
+            41.935313309696774
+        ]
+    }, 
+    "community_area": "21", 
+    "latitude": "41.935313309696774", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "1412", 
+    "date": {
+        "$date": 1369386000000
+    }, 
+    "ward": "35", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b0dd"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.71080413023897", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1153633", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "26", 
+    "block": "029XX N DAWSON AVE"
+}

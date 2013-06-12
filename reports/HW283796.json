@@ -1,1 +1,38 @@
-{"y_coordinate": "1927743", "year": "2013", "domestic": true, "case_number": "HW283796", "id": "9138287", "primary_type": "BATTERY", "district": "019", "arrest": true, "location": {"type": "Point", "coordinates": [-87.65606414310487, 41.95725903594806]}, "community_area": "3", "latitude": "41.95725903594806", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1915", "date": {"$date": 1369086000000}, "ward": "46", "_id": {"$oid": "51a4cd8d3c002ed20d78a38d"}, "iucr": "486", "longitude": "-87.65606414310487", "location_description": "APARTMENT", "x_coordinate": "1168464", "updated_on": {"$date": 1369269615000}, "fbi_code": "08B", "block": "041XX N KENMORE AVE"}
+{
+    "y_coordinate": "1927743", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283796", 
+    "id": "9138287", 
+    "primary_type": "BATTERY", 
+    "district": "019", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65606414310487, 
+            41.95725903594806
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.95725903594806", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1915", 
+    "date": {
+        "$date": 1369086000000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51a4cd8d3c002ed20d78a38d"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.65606414310487", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1168464", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "08B", 
+    "block": "041XX N KENMORE AVE"
+}

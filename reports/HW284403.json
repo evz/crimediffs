@@ -1,1 +1,38 @@
-{"y_coordinate": "1910795", "year": "2013", "domestic": false, "case_number": "HW284403", "id": "9139200", "primary_type": "CRIMINAL DAMAGE", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67488371272994, 41.910859468984796]}, "community_area": "24", "latitude": "41.910859468984796", "type": "quality", "description": "TO VEHICLE", "beat": "1434", "date": {"$date": 1369140540000}, "ward": "32", "_id": {"$oid": "51a61f0e3c002ed20d78a8cf"}, "iucr": "1320", "longitude": "-87.67488371272994", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1163475", "updated_on": {"$date": 1369356045000}, "fbi_code": "14", "block": "016XX N WOLCOTT AVE"}
+{
+    "y_coordinate": "1910795", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284403", 
+    "id": "9139200", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67488371272994, 
+            41.910859468984796
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.910859468984796", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1434", 
+    "date": {
+        "$date": 1369140540000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a8cf"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.67488371272994", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1163475", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "14", 
+    "block": "016XX N WOLCOTT AVE"
+}

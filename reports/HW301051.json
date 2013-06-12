@@ -1,1 +1,38 @@
-{"y_coordinate": "1863245", "year": "2013", "domestic": true, "case_number": "HW301051", "id": "9155365", "primary_type": "BATTERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67136259394124, 41.78034957160023]}, "community_area": "67", "latitude": "41.78034957160023", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0714", "date": {"$date": 1370172900000}, "ward": "15", "_id": {"$oid": "51b5f11b3c002ed20d78cddd"}, "iucr": "486", "longitude": "-87.67136259394124", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1164800", "updated_on": {"$date": 1370565766000}, "fbi_code": "08B", "block": "062XX S WOLCOTT AVE"}
+{
+    "y_coordinate": "1863245", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301051", 
+    "id": "9155365", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67136259394124, 
+            41.78034957160023
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.78034957160023", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0714", 
+    "date": {
+        "$date": 1370172900000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cddd"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.67136259394124", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1164800", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "08B", 
+    "block": "062XX S WOLCOTT AVE"
+}

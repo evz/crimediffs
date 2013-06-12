@@ -1,1 +1,38 @@
-{"y_coordinate": "1875856", "year": "2013", "domestic": true, "case_number": "HW283788", "id": "9138435", "primary_type": "ASSAULT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68844845375106, 41.81505493695872]}, "community_area": "58", "latitude": "41.81505493695872", "type": null, "description": "SIMPLE", "beat": "0922", "date": {"$date": 1369083600000}, "ward": "12", "_id": {"$oid": "51a4cd8e3c002ed20d78a3b4"}, "iucr": "560", "longitude": "-87.68844845375106", "location_description": "APARTMENT", "x_coordinate": "1160045", "updated_on": {"$date": 1370306580000}, "fbi_code": "08A", "block": "043XX S MAPLEWOOD AVE"}
+{
+    "y_coordinate": "1875856", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283788", 
+    "id": "9138435", 
+    "primary_type": "ASSAULT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68844845375106, 
+            41.81505493695872
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.81505493695872", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0922", 
+    "date": {
+        "$date": 1369083600000
+    }, 
+    "ward": "12", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3b4"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.68844845375106", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1160045", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08A", 
+    "block": "043XX S MAPLEWOOD AVE"
+}

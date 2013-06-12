@@ -1,1 +1,38 @@
-{"y_coordinate": "1886496", "year": "2013", "domestic": false, "case_number": "HW283428", "id": "9138000", "primary_type": "ASSAULT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70824039860494, 41.84436339585296]}, "community_area": "30", "latitude": "41.84436339585296", "type": "violent", "description": "AGGRAVATED:KNIFE/CUTTING INSTR", "beat": "1032", "date": {"$date": 1369073220000}, "ward": "22", "_id": {"$oid": "51a4cd8f3c002ed20d78a443"}, "iucr": "520", "longitude": "-87.70824039860494", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1154572", "updated_on": {"$date": 1369269615000}, "fbi_code": "04A", "block": "033XX W 26TH ST"}
+{
+    "y_coordinate": "1886496", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283428", 
+    "id": "9138000", 
+    "primary_type": "ASSAULT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70824039860494, 
+            41.84436339585296
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.84436339585296", 
+    "type": "violent", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
+    "beat": "1032", 
+    "date": {
+        "$date": 1369073220000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a443"
+    }, 
+    "iucr": "520", 
+    "longitude": "-87.70824039860494", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1154572", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "04A", 
+    "block": "033XX W 26TH ST"
+}

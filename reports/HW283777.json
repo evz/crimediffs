@@ -1,1 +1,38 @@
-{"y_coordinate": "1876707", "year": "2013", "domestic": false, "case_number": "HW283777", "id": "9138375", "primary_type": "CRIMINAL DAMAGE", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.60757297969151, 41.8169077947485]}, "community_area": "38", "latitude": "41.8169077947485", "type": "quality", "description": "TO PROPERTY", "beat": "0214", "date": {"$date": 1369088100000}, "ward": "4", "_id": {"$oid": "51a4cd8d3c002ed20d78a373"}, "iucr": "1310", "longitude": "-87.60757297969151", "location_description": "CHA HALLWAY/STAIRWELL/ELEVATOR", "x_coordinate": "1182086", "updated_on": {"$date": 1369269615000}, "fbi_code": "14", "block": "007XX E 43RD ST"}
+{
+    "y_coordinate": "1876707", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283777", 
+    "id": "9138375", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60757297969151, 
+            41.8169077947485
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.8169077947485", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0214", 
+    "date": {
+        "$date": 1369088100000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51a4cd8d3c002ed20d78a373"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.60757297969151", 
+    "location_description": "CHA HALLWAY/STAIRWELL/ELEVATOR", 
+    "x_coordinate": "1182086", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "14", 
+    "block": "007XX E 43RD ST"
+}

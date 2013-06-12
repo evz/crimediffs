@@ -1,1 +1,38 @@
-{"y_coordinate": "1856506", "year": "2013", "domestic": false, "case_number": "HW300355", "id": "9154862", "primary_type": "BATTERY", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.59223671086998, 41.76137260421941]}, "community_area": "43", "latitude": "41.76137260421941", "type": null, "description": "SIMPLE", "beat": "0324", "date": {"$date": 1370110200000}, "ward": "5", "_id": {"$oid": "51b5f11f3c002ed20d78cffd"}, "iucr": "460", "longitude": "-87.59223671086998", "location_description": "STREET", "x_coordinate": "1186441", "updated_on": {"$date": 1370392932000}, "fbi_code": "08B", "block": "073XX S KENWOOD AVE"}
+{
+    "y_coordinate": "1856506", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300355", 
+    "id": "9154862", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59223671086998, 
+            41.76137260421941
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76137260421941", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0324", 
+    "date": {
+        "$date": 1370110200000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cffd"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.59223671086998", 
+    "location_description": "STREET", 
+    "x_coordinate": "1186441", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "08B", 
+    "block": "073XX S KENWOOD AVE"
+}

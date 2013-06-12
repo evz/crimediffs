@@ -1,1 +1,33 @@
-{"community_area": "22", "_id": {"$oid": "51b742a13c002ed20d78d516"}, "primary_type": "BATTERY", "beat": "1412", "year": "2013", "domestic": true, "iucr": "486", "arrest": false, "location_description": "SIDEWALK", "location": {"type": "Point", "coordinates": [-87.7125113896294, 41.932081626703905]}, "case_number": "HW312302", "date": {"$date": 1370132940000}, "updated_on": {"$date": 1370911182000}, "ward": "35", "fbi_code": "08B", "type": null, "id": "9166800", "block": "034XX W DIVERSEY AVE", "description": "DOMESTIC BATTERY SIMPLE"}
+{
+    "_id": {
+        "$oid": "51b742a13c002ed20d78d516"
+    }, 
+    "primary_type": "BATTERY", 
+    "year": "2013", 
+    "beat": "1412", 
+    "case_number": "HW312302", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7125113896294, 
+            41.932081626703905
+        ]
+    }, 
+    "community_area": "22", 
+    "date": {
+        "$date": 1370132940000
+    }, 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "ward": "35", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9166800", 
+    "block": "034XX W DIVERSEY AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1819092", "year": "2013", "domestic": false, "case_number": "HW305149", "id": "9160265", "primary_type": "DECEPTIVE PRACTICE", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64385759622898, 41.65901784577356]}, "community_area": "53", "latitude": "41.65901784577356", "type": null, "description": "ILLEGAL USE CASH CARD", "beat": "0523", "date": {"$date": 1370082300000}, "ward": "34", "_id": {"$oid": "51b5f1213c002ed20d78d133"}, "iucr": "1152", "longitude": "-87.64385759622898", "location_description": "RESIDENCE", "x_coordinate": "1172656", "updated_on": {"$date": 1370651988000}, "fbi_code": "11", "block": "129XX S PEORIA ST"}
+{
+    "y_coordinate": "1819092", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW305149", 
+    "id": "9160265", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64385759622898, 
+            41.65901784577356
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.65901784577356", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "0523", 
+    "date": {
+        "$date": 1370082300000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d133"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.64385759622898", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1172656", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "11", 
+    "block": "129XX S PEORIA ST"
+}

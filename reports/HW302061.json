@@ -1,1 +1,38 @@
-{"y_coordinate": "1927928", "year": "2013", "domestic": false, "case_number": "HW302061", "id": "9156355", "primary_type": "CRIMINAL DAMAGE", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70066379944683, 41.958021152020635]}, "community_area": "16", "latitude": "41.958021152020635", "type": "quality", "description": "CRIMINAL DEFACEMENT", "beat": "1724", "date": {"$date": 1370124000000}, "ward": "33", "_id": {"$oid": "51b5f11e3c002ed20d78cf61"}, "iucr": "1305", "longitude": "-87.70066379944683", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1156331", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "042XX N FRANCISCO AVE"}
+{
+    "y_coordinate": "1927928", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302061", 
+    "id": "9156355", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70066379944683, 
+            41.958021152020635
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.958021152020635", 
+    "type": "quality", 
+    "description": "CRIMINAL DEFACEMENT", 
+    "beat": "1724", 
+    "date": {
+        "$date": 1370124000000
+    }, 
+    "ward": "33", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf61"
+    }, 
+    "iucr": "1305", 
+    "longitude": "-87.70066379944683", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1156331", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "042XX N FRANCISCO AVE"
+}

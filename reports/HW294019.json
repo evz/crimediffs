@@ -1,1 +1,38 @@
-{"y_coordinate": "1892211", "year": "2013", "domestic": false, "case_number": "HW294019", "id": "9148297", "primary_type": "THEFT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72880913664679, 41.86015695517821]}, "community_area": "29", "latitude": "41.86015695517821", "type": "property", "description": "$500 AND UNDER", "beat": "1012", "date": {"$date": 1369418400000}, "ward": "24", "_id": {"$oid": "51aa138f3c002ed20d78af2e"}, "iucr": "820", "longitude": "-87.72880913664679", "location_description": "STREET", "x_coordinate": "1148927", "updated_on": {"$date": 1369960832000}, "fbi_code": "06", "block": "015XX S KEDVALE AVE"}
+{
+    "y_coordinate": "1892211", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW294019", 
+    "id": "9148297", 
+    "primary_type": "THEFT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72880913664679, 
+            41.86015695517821
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.86015695517821", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1012", 
+    "date": {
+        "$date": 1369418400000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa138f3c002ed20d78af2e"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.72880913664679", 
+    "location_description": "STREET", 
+    "x_coordinate": "1148927", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "06", 
+    "block": "015XX S KEDVALE AVE"
+}

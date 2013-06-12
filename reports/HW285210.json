@@ -1,1 +1,38 @@
-{"y_coordinate": "1893247", "year": "2013", "domestic": false, "case_number": "HW285210", "id": "9139854", "primary_type": "CRIMINAL DAMAGE", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71723361568407, 41.86293849305115]}, "community_area": "29", "latitude": "41.86293849305115", "type": "quality", "description": "TO PROPERTY", "beat": "1011", "date": {"$date": 1369170000000}, "ward": "24", "_id": {"$oid": "51a61f093c002ed20d78a746"}, "iucr": "1310", "longitude": "-87.71723361568407", "location_description": "APARTMENT", "x_coordinate": "1152073", "updated_on": {"$date": 1369356045000}, "fbi_code": "14", "block": "036XX W DOUGLAS BLVD"}
+{
+    "y_coordinate": "1893247", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285210", 
+    "id": "9139854", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71723361568407, 
+            41.86293849305115
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.86293849305115", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1011", 
+    "date": {
+        "$date": 1369170000000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a61f093c002ed20d78a746"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.71723361568407", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1152073", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "14", 
+    "block": "036XX W DOUGLAS BLVD"
+}

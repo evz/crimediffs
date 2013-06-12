@@ -1,1 +1,38 @@
-{"y_coordinate": "1872106", "year": "2013", "domestic": true, "case_number": "HW283853", "id": "9138373", "primary_type": "BATTERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73192472489697, 41.804999731089744]}, "community_area": "57", "latitude": "41.804999731089744", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0815", "date": {"$date": 1369094100000}, "ward": "23", "_id": {"$oid": "51a4cd8c3c002ed20d78a339"}, "iucr": "486", "longitude": "-87.73192472489697", "location_description": "RESIDENCE", "x_coordinate": "1148219", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "048XX S KOLIN AVE"}
+{
+    "y_coordinate": "1872106", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283853", 
+    "id": "9138373", 
+    "primary_type": "BATTERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73192472489697, 
+            41.804999731089744
+        ]
+    }, 
+    "community_area": "57", 
+    "latitude": "41.804999731089744", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0815", 
+    "date": {
+        "$date": 1369094100000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51a4cd8c3c002ed20d78a339"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.73192472489697", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1148219", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "048XX S KOLIN AVE"
+}

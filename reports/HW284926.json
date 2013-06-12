@@ -1,1 +1,38 @@
-{"y_coordinate": "1872319", "year": "2013", "domestic": false, "case_number": "HW284926", "id": "9139745", "primary_type": "THEFT", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61120404094564, 41.80488880363096]}, "community_area": "38", "latitude": "41.80488880363096", "type": "property", "description": "FINANCIAL ID THEFT: OVER $300", "beat": "0223", "date": {"$date": 1369152000000}, "ward": "4", "_id": {"$oid": "51a61f0c3c002ed20d78a849"}, "iucr": "840", "longitude": "-87.61120404094564", "location_description": "APARTMENT", "x_coordinate": "1181133", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "049XX S ST LAWRENCE AVE"}
+{
+    "y_coordinate": "1872319", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284926", 
+    "id": "9139745", 
+    "primary_type": "THEFT", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61120404094564, 
+            41.80488880363096
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.80488880363096", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "0223", 
+    "date": {
+        "$date": 1369152000000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51a61f0c3c002ed20d78a849"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.61120404094564", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1181133", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "049XX S ST LAWRENCE AVE"
+}

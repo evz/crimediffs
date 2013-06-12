@@ -1,1 +1,38 @@
-{"y_coordinate": "1844968", "year": "2013", "domestic": false, "case_number": "HW285900", "id": "9141038", "primary_type": "THEFT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65302269742068, 41.73008479652932]}, "community_area": "73", "latitude": "41.73008479652932", "type": "property", "description": "OVER $500", "beat": "2222", "date": {"$date": 1369123200000}, "ward": "21", "_id": {"$oid": "51a61f0f3c002ed20d78a99b"}, "iucr": "810", "longitude": "-87.65302269742068", "location_description": "ALLEY", "x_coordinate": "1169947", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "090XX S RACINE AVE"}
+{
+    "y_coordinate": "1844968", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285900", 
+    "id": "9141038", 
+    "primary_type": "THEFT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65302269742068, 
+            41.73008479652932
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.73008479652932", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "2222", 
+    "date": {
+        "$date": 1369123200000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a99b"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.65302269742068", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1169947", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "090XX S RACINE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1910434", "year": "2013", "domestic": false, "case_number": "HW286614", "id": "9141407", "primary_type": "CRIMINAL DAMAGE", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69317000424783, 41.909972203232165]}, "community_area": "24", "latitude": "41.909972203232165", "type": "quality", "description": "TO PROPERTY", "beat": "1423", "date": {"$date": 1369213200000}, "ward": "26", "_id": {"$oid": "51a7708d3c002ed20d78ace8"}, "iucr": "1310", "longitude": "-87.69317000424783", "location_description": "APARTMENT", "x_coordinate": "1158500", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "015XX N TALMAN AVE"}
+{
+    "y_coordinate": "1910434", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286614", 
+    "id": "9141407", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69317000424783, 
+            41.909972203232165
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.909972203232165", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1423", 
+    "date": {
+        "$date": 1369213200000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ace8"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.69317000424783", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1158500", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "015XX N TALMAN AVE"
+}

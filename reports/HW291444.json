@@ -1,1 +1,38 @@
-{"y_coordinate": "1890225", "year": "2013", "domestic": false, "case_number": "HW291444", "id": "9145929", "primary_type": "MOTOR VEHICLE THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67605392786548, 41.854417061111036]}, "community_area": "31", "latitude": "41.854417061111036", "type": "property", "description": "AUTOMOBILE", "beat": "1234", "date": {"$date": 1369526460000}, "ward": "25", "_id": {"$oid": "51b34a0d3c002ed20d78c89e"}, "iucr": "910", "longitude": "-87.67605392786548", "location_description": "STREET", "x_coordinate": "1163314", "updated_on": {"$date": 1369701613000}, "fbi_code": "07", "block": "020XX S DAMEN AVE"}
+{
+    "y_coordinate": "1890225", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291444", 
+    "id": "9145929", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67605392786548, 
+            41.854417061111036
+        ]
+    }, 
+    "community_area": "31", 
+    "latitude": "41.854417061111036", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1234", 
+    "date": {
+        "$date": 1369526460000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c89e"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.67605392786548", 
+    "location_description": "STREET", 
+    "x_coordinate": "1163314", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "07", 
+    "block": "020XX S DAMEN AVE"
+}

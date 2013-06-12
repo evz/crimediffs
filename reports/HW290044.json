@@ -1,1 +1,38 @@
-{"y_coordinate": "1904598", "year": "2013", "domestic": false, "case_number": "HW290044", "id": "9144848", "primary_type": "BATTERY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75946085720307, 41.89430725203303]}, "community_area": "25", "latitude": "41.89430725203303", "type": null, "description": "SIMPLE", "beat": "1524", "date": {"$date": 1369461600000}, "ward": "37", "_id": {"$oid": "51b34a123c002ed20d78cb27"}, "iucr": "460", "longitude": "-87.75946085720307", "location_description": "STREET", "x_coordinate": "1140494", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "007XX N LOREL AVE"}
+{
+    "y_coordinate": "1904598", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290044", 
+    "id": "9144848", 
+    "primary_type": "BATTERY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75946085720307, 
+            41.89430725203303
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.89430725203303", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1524", 
+    "date": {
+        "$date": 1369461600000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cb27"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.75946085720307", 
+    "location_description": "STREET", 
+    "x_coordinate": "1140494", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "007XX N LOREL AVE"
+}

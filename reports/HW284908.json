@@ -1,1 +1,38 @@
-{"y_coordinate": "1898018", "year": "2013", "domestic": false, "case_number": "HW284908", "id": "9139934", "primary_type": "BATTERY", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67261116859451, 41.875783268592855]}, "community_area": "28", "latitude": "41.875783268592855", "type": "violent", "description": "AGGRAVATED OF A SENIOR CITIZEN", "beat": "1231", "date": {"$date": 1369157400000}, "ward": "2", "_id": {"$oid": "51a61f0b3c002ed20d78a7f5"}, "iucr": "495", "longitude": "-87.67261116859451", "location_description": "CTA PLATFORM", "x_coordinate": "1164192", "updated_on": {"$date": 1369356045000}, "fbi_code": "04B", "block": "018XX W OGDEN AVE"}
+{
+    "y_coordinate": "1898018", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284908", 
+    "id": "9139934", 
+    "primary_type": "BATTERY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67261116859451, 
+            41.875783268592855
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.875783268592855", 
+    "type": "violent", 
+    "description": "AGGRAVATED OF A SENIOR CITIZEN", 
+    "beat": "1231", 
+    "date": {
+        "$date": 1369157400000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a7f5"
+    }, 
+    "iucr": "495", 
+    "longitude": "-87.67261116859451", 
+    "location_description": "CTA PLATFORM", 
+    "x_coordinate": "1164192", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "04B", 
+    "block": "018XX W OGDEN AVE"
+}

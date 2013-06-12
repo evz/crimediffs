@@ -1,1 +1,38 @@
-{"y_coordinate": "1901447", "year": "2013", "domestic": false, "case_number": "HW286924", "id": "9141686", "primary_type": "PUBLIC PEACE VIOLATION", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70067250130207, 41.885351308634505]}, "community_area": "27", "latitude": "41.885351308634505", "type": null, "description": "RECKLESS CONDUCT", "beat": "1222", "date": {"$date": 1369263000000}, "ward": "2", "_id": {"$oid": "51a770873c002ed20d78aa77"}, "iucr": "470", "longitude": "-87.70067250130207", "location_description": "STREET", "x_coordinate": "1156524", "updated_on": {"$date": 1369442383000}, "fbi_code": "24", "block": "029XX W WALNUT ST"}
+{
+    "y_coordinate": "1901447", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286924", 
+    "id": "9141686", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70067250130207, 
+            41.885351308634505
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.885351308634505", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "1222", 
+    "date": {
+        "$date": 1369263000000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a770873c002ed20d78aa77"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.70067250130207", 
+    "location_description": "STREET", 
+    "x_coordinate": "1156524", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "24", 
+    "block": "029XX W WALNUT ST"
+}

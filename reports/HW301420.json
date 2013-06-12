@@ -1,1 +1,38 @@
-{"y_coordinate": "1898183", "year": "2013", "domestic": true, "case_number": "HW301420", "id": "9155628", "primary_type": "ASSAULT", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74767789447031, 41.876643416758064]}, "community_area": "25", "latitude": "41.876643416758064", "type": null, "description": "SIMPLE", "beat": "1533", "date": {"$date": 1370191500000}, "ward": "24", "_id": {"$oid": "51b5f1193c002ed20d78cd19"}, "iucr": "560", "longitude": "-87.74767789447031", "location_description": "APARTMENT", "x_coordinate": "1143746", "updated_on": {"$date": 1370651988000}, "fbi_code": "08A", "block": "049XX W JACKSON BLVD"}
+{
+    "y_coordinate": "1898183", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301420", 
+    "id": "9155628", 
+    "primary_type": "ASSAULT", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74767789447031, 
+            41.876643416758064
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.876643416758064", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1533", 
+    "date": {
+        "$date": 1370191500000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78cd19"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.74767789447031", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1143746", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "08A", 
+    "block": "049XX W JACKSON BLVD"
+}

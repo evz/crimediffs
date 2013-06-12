@@ -1,1 +1,38 @@
-{"y_coordinate": "1920582", "year": "2013", "domestic": false, "case_number": "HW288510", "id": "9143865", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64446383956691, 41.93753871506054]}, "community_area": "6", "latitude": "41.93753871506054", "type": "property", "description": "OVER $500", "beat": "1934", "date": {"$date": 1369357200000}, "ward": "44", "_id": {"$oid": "51aa13943c002ed20d78b167"}, "iucr": "810", "longitude": "-87.64446383956691", "location_description": "STREET", "x_coordinate": "1171677", "updated_on": {"$date": 1369874559000}, "fbi_code": "06", "block": "030XX N BROADWAY"}
+{
+    "y_coordinate": "1920582", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288510", 
+    "id": "9143865", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64446383956691, 
+            41.93753871506054
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.93753871506054", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1934", 
+    "date": {
+        "$date": 1369357200000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b167"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.64446383956691", 
+    "location_description": "STREET", 
+    "x_coordinate": "1171677", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "06", 
+    "block": "030XX N BROADWAY"
+}

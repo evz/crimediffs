@@ -1,1 +1,38 @@
-{"y_coordinate": "1916725", "year": "2013", "domestic": false, "case_number": "HW288907", "id": "9144416", "primary_type": "MOTOR VEHICLE THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77207546387424, 41.927648955599096]}, "community_area": "19", "latitude": "41.927648955599096", "type": "property", "description": "AUTOMOBILE", "beat": "2514", "date": {"$date": 1369395000000}, "ward": "30", "_id": {"$oid": "51aa13923c002ed20d78b084"}, "iucr": "910", "longitude": "-87.77207546387424", "location_description": "STREET", "x_coordinate": "1136980", "updated_on": {"$date": 1369787985000}, "fbi_code": "07", "block": "058XX W WRIGHTWOOD AVE"}
+{
+    "y_coordinate": "1916725", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288907", 
+    "id": "9144416", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77207546387424, 
+            41.927648955599096
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.927648955599096", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "2514", 
+    "date": {
+        "$date": 1369395000000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b084"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.77207546387424", 
+    "location_description": "STREET", 
+    "x_coordinate": "1136980", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "07", 
+    "block": "058XX W WRIGHTWOOD AVE"
+}

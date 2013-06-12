@@ -1,1 +1,38 @@
-{"y_coordinate": "1910475", "year": "2013", "domestic": false, "case_number": "HW304657", "id": "9159383", "primary_type": "THEFT", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6696578796723, 41.909951229822944]}, "community_area": "24", "latitude": "41.909951229822944", "type": "property", "description": "OVER $500", "beat": "1433", "date": {"$date": 1370293200000}, "ward": "1", "_id": {"$oid": "51b742983c002ed20d78d285"}, "iucr": "810", "longitude": "-87.6696578796723", "location_description": "SIDEWALK", "x_coordinate": "1164900", "updated_on": {"$date": 1370651988000}, "fbi_code": "06", "block": "016XX W PIERCE AVE"}
+{
+    "y_coordinate": "1910475", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW304657", 
+    "id": "9159383", 
+    "primary_type": "THEFT", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6696578796723, 
+            41.909951229822944
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.909951229822944", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1433", 
+    "date": {
+        "$date": 1370293200000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51b742983c002ed20d78d285"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.6696578796723", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1164900", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "06", 
+    "block": "016XX W PIERCE AVE"
+}

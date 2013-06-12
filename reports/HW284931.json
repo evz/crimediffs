@@ -1,1 +1,38 @@
-{"y_coordinate": "1881754", "year": "2013", "domestic": false, "case_number": "HW284931", "id": "9139620", "primary_type": "CRIMINAL TRESPASS", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61462248466025, 41.830802442256264]}, "community_area": "35", "latitude": "41.830802442256264", "type": null, "description": "TO LAND", "beat": "0212", "date": {"$date": 1369160100000}, "ward": "4", "_id": {"$oid": "51a61f0b3c002ed20d78a7c5"}, "iucr": "1330", "longitude": "-87.61462248466025", "location_description": "OTHER", "x_coordinate": "1180122", "updated_on": {"$date": 1369356045000}, "fbi_code": "26", "block": "035XX S RHODES AVE"}
+{
+    "y_coordinate": "1881754", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284931", 
+    "id": "9139620", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61462248466025, 
+            41.830802442256264
+        ]
+    }, 
+    "community_area": "35", 
+    "latitude": "41.830802442256264", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "0212", 
+    "date": {
+        "$date": 1369160100000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a7c5"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.61462248466025", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1180122", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "26", 
+    "block": "035XX S RHODES AVE"
+}

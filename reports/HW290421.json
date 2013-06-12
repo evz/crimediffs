@@ -1,1 +1,38 @@
-{"y_coordinate": "1863354", "year": "2013", "domestic": false, "case_number": "HW290421", "id": "9145139", "primary_type": "THEFT", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6170892974181, 41.78032314941541]}, "community_area": "40", "latitude": "41.78032314941541", "type": "property", "description": "RETAIL THEFT", "beat": "0311", "date": {"$date": 1369485900000}, "ward": "20", "_id": {"$oid": "51b34a113c002ed20d78ca7c"}, "iucr": "860", "longitude": "-87.6170892974181", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1179603", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "003XX E 63RD ST"}
+{
+    "y_coordinate": "1863354", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290421", 
+    "id": "9145139", 
+    "primary_type": "THEFT", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6170892974181, 
+            41.78032314941541
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.78032314941541", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0311", 
+    "date": {
+        "$date": 1369485900000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca7c"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.6170892974181", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1179603", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "003XX E 63RD ST"
+}

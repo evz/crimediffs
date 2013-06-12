@@ -1,1 +1,38 @@
-{"y_coordinate": "1837716", "year": "2013", "domestic": true, "case_number": "HW290029", "id": "9144794", "primary_type": "BATTERY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56196884318021, 41.70960785732887]}, "community_area": "51", "latitude": "41.70960785732887", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0431", "date": {"$date": 1369458000000}, "ward": "10", "_id": {"$oid": "51aa13873c002ed20d78ad74"}, "iucr": "486", "longitude": "-87.56196884318021", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1194868", "updated_on": {"$date": 1369960832000}, "fbi_code": "08B", "block": "102XX S CALHOUN AVE"}
+{
+    "y_coordinate": "1837716", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290029", 
+    "id": "9144794", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56196884318021, 
+            41.70960785732887
+        ]
+    }, 
+    "community_area": "51", 
+    "latitude": "41.70960785732887", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0431", 
+    "date": {
+        "$date": 1369458000000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51aa13873c002ed20d78ad74"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.56196884318021", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1194868", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "08B", 
+    "block": "102XX S CALHOUN AVE"
+}

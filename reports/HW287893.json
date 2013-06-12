@@ -1,1 +1,38 @@
-{"y_coordinate": "1860838", "year": "2013", "domestic": false, "case_number": "HW287893", "id": "9142847", "primary_type": "LIQUOR LAW VIOLATION", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.60688373090926, 41.77335443466164]}, "community_area": "42", "latitude": "41.77335443466164", "type": null, "description": "ILLEGAL POSSESSION BY MINOR", "beat": "0321", "date": {"$date": 1369328100000}, "ward": "20", "_id": {"$oid": "51aa13963c002ed20d78b2a2"}, "iucr": "2220", "longitude": "-87.60688373090926", "location_description": "SIDEWALK", "x_coordinate": "1182408", "updated_on": {"$date": 1369528777000}, "fbi_code": "22", "block": "066XX S EVANS AVE"}
+{
+    "y_coordinate": "1860838", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287893", 
+    "id": "9142847", 
+    "primary_type": "LIQUOR LAW VIOLATION", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60688373090926, 
+            41.77335443466164
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.77335443466164", 
+    "type": null, 
+    "description": "ILLEGAL POSSESSION BY MINOR", 
+    "beat": "0321", 
+    "date": {
+        "$date": 1369328100000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b2a2"
+    }, 
+    "iucr": "2220", 
+    "longitude": "-87.60688373090926", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1182408", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "22", 
+    "block": "066XX S EVANS AVE"
+}

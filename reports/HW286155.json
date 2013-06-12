@@ -1,1 +1,38 @@
-{"y_coordinate": "1900741", "year": "2013", "domestic": false, "case_number": "HW286155", "id": "9141156", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71002973407121, 41.883465040116796]}, "community_area": "27", "latitude": "41.883465040116796", "type": null, "description": "SIMPLE", "beat": "1123", "date": {"$date": 1369231200000}, "ward": "28", "_id": {"$oid": "51a7708b3c002ed20d78ac25"}, "iucr": "460", "longitude": "-87.71002973407121", "location_description": "NURSING HOME/RETIREMENT HOME", "x_coordinate": "1153981", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "033XX W MAYPOLE AVE"}
+{
+    "y_coordinate": "1900741", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286155", 
+    "id": "9141156", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71002973407121, 
+            41.883465040116796
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.883465040116796", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1123", 
+    "date": {
+        "$date": 1369231200000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac25"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.71002973407121", 
+    "location_description": "NURSING HOME/RETIREMENT HOME", 
+    "x_coordinate": "1153981", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "033XX W MAYPOLE AVE"
+}

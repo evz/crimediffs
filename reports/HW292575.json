@@ -1,1 +1,38 @@
-{"y_coordinate": "1829287", "year": "2013", "domestic": false, "case_number": "HW292575", "id": "9146922", "primary_type": "THEFT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63168319121858, 41.68692272538208]}, "community_area": "49", "latitude": "41.68692272538208", "type": "property", "description": "FROM BUILDING", "beat": "0522", "date": {"$date": 1369292400000}, "ward": "34", "_id": {"$oid": "51aa13983c002ed20d78b423"}, "iucr": "890", "longitude": "-87.63168319121858", "location_description": "RESIDENCE", "x_coordinate": "1175900", "updated_on": {"$date": 1370047283000}, "fbi_code": "06", "block": "003XX W 114TH ST"}
+{
+    "y_coordinate": "1829287", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW292575", 
+    "id": "9146922", 
+    "primary_type": "THEFT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63168319121858, 
+            41.68692272538208
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.68692272538208", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0522", 
+    "date": {
+        "$date": 1369292400000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b423"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.63168319121858", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1175900", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "06", 
+    "block": "003XX W 114TH ST"
+}

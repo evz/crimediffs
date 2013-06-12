@@ -1,1 +1,38 @@
-{"y_coordinate": "1860816", "year": "2013", "domestic": false, "case_number": "HW288615", "id": "9143805", "primary_type": "ROBBERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6943314446533, 41.77381373017417]}, "community_area": "66", "latitude": "41.77381373017417", "type": "violent", "description": "ARMED: HANDGUN", "beat": "0831", "date": {"$date": 1369386000000}, "ward": "15", "_id": {"$oid": "51aa13933c002ed20d78b0e8"}, "iucr": "031A", "longitude": "-87.6943314446533", "location_description": "SIDEWALK", "x_coordinate": "1158553", "updated_on": {"$date": 1369615194000}, "fbi_code": "03", "block": "065XX S MOZART ST"}
+{
+    "y_coordinate": "1860816", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288615", 
+    "id": "9143805", 
+    "primary_type": "ROBBERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6943314446533, 
+            41.77381373017417
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.77381373017417", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0831", 
+    "date": {
+        "$date": 1369386000000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b0e8"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.6943314446533", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1158553", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "03", 
+    "block": "065XX S MOZART ST"
+}

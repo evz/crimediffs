@@ -1,1 +1,38 @@
-{"y_coordinate": "1867836", "year": "2013", "domestic": true, "case_number": "HW288288", "id": "9146468", "primary_type": "THEFT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65013007078579, 41.79282429355155]}, "community_area": "68", "latitude": "41.79282429355155", "type": "property", "description": "OVER $500", "beat": "0712", "date": {"$date": 1369346700000}, "ward": "16", "_id": {"$oid": "51aa13943c002ed20d78b1ba"}, "iucr": "810", "longitude": "-87.65013007078579", "location_description": "RESIDENCE", "x_coordinate": "1170555", "updated_on": {"$date": 1370133629000}, "fbi_code": "06", "block": "055XX S MORGAN ST"}
+{
+    "y_coordinate": "1867836", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW288288", 
+    "id": "9146468", 
+    "primary_type": "THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65013007078579, 
+            41.79282429355155
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.79282429355155", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0712", 
+    "date": {
+        "$date": 1369346700000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1ba"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.65013007078579", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1170555", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "06", 
+    "block": "055XX S MORGAN ST"
+}

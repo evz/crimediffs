@@ -1,1 +1,38 @@
-{"y_coordinate": "1906605", "year": "2013", "domestic": true, "case_number": "HW302450", "id": "9157255", "primary_type": "THEFT", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7702875014133, 41.89986854195535]}, "community_area": "25", "latitude": "41.89986854195535", "type": "property", "description": "OVER $500", "beat": "1511", "date": {"$date": 1370263080000}, "ward": "29", "_id": {"$oid": "51b7429d3c002ed20d78d42a"}, "iucr": "810", "longitude": "-87.7702875014133", "location_description": "APARTMENT", "x_coordinate": "1137533", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "010XX N MENARD AVE"}
+{
+    "y_coordinate": "1906605", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW302450", 
+    "id": "9157255", 
+    "primary_type": "THEFT", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7702875014133, 
+            41.89986854195535
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.89986854195535", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1511", 
+    "date": {
+        "$date": 1370263080000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51b7429d3c002ed20d78d42a"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.7702875014133", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1137533", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "010XX N MENARD AVE"
+}

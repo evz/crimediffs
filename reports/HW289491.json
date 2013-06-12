@@ -1,1 +1,38 @@
-{"y_coordinate": "1901819", "year": "2013", "domestic": false, "case_number": "HW289491", "id": "9144355", "primary_type": "BURGLARY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71591332786002, 41.88645512030084]}, "community_area": "27", "latitude": "41.88645512030084", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1123", "date": {"$date": 1369414800000}, "ward": "28", "_id": {"$oid": "51aa138f3c002ed20d78af62"}, "iucr": "610", "longitude": "-87.71591332786002", "location_description": "RESIDENCE", "x_coordinate": "1152371", "updated_on": {"$date": 1369787985000}, "fbi_code": "05", "block": "003XX N CENTRAL PARK AVE"}
+{
+    "y_coordinate": "1901819", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289491", 
+    "id": "9144355", 
+    "primary_type": "BURGLARY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71591332786002, 
+            41.88645512030084
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.88645512030084", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1123", 
+    "date": {
+        "$date": 1369414800000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51aa138f3c002ed20d78af62"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.71591332786002", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1152371", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "05", 
+    "block": "003XX N CENTRAL PARK AVE"
+}

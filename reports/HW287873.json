@@ -1,1 +1,38 @@
-{"y_coordinate": "1913242", "year": "2013", "domestic": false, "case_number": "HW287873", "id": "9142928", "primary_type": "THEFT", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68726597544108, 41.91764493604349]}, "community_area": "22", "latitude": "41.91764493604349", "type": "property", "description": "OVER $500", "beat": "1432", "date": {"$date": 1369183800000}, "ward": "32", "_id": {"$oid": "51a61f073c002ed20d78a6ac"}, "iucr": "810", "longitude": "-87.68726597544108", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1160086", "updated_on": {"$date": 1369874559000}, "fbi_code": "06", "block": "020XX N WESTERN AVE"}
+{
+    "y_coordinate": "1913242", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287873", 
+    "id": "9142928", 
+    "primary_type": "THEFT", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68726597544108, 
+            41.91764493604349
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.91764493604349", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1432", 
+    "date": {
+        "$date": 1369183800000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51a61f073c002ed20d78a6ac"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.68726597544108", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1160086", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "06", 
+    "block": "020XX N WESTERN AVE"
+}

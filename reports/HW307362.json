@@ -1,1 +1,38 @@
-{"y_coordinate": "1895286", "year": "2013", "domestic": false, "case_number": "HW307362", "id": "9162502", "primary_type": "MOTOR VEHICLE THEFT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63276433818429, 41.8680498211835]}, "community_area": "32", "latitude": "41.8680498211835", "type": "property", "description": "CYCLE, SCOOTER, BIKE W-VIN", "beat": "0123", "date": {"$date": 1370077200000}, "ward": "2", "_id": {"$oid": "51b5f1213c002ed20d78d15d"}, "iucr": "917", "longitude": "-87.63276433818429", "location_description": "OTHER", "x_coordinate": "1175067", "updated_on": {"$date": 1370738354000}, "fbi_code": "07", "block": "011XX S DELANO CT W"}
+{
+    "y_coordinate": "1895286", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW307362", 
+    "id": "9162502", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63276433818429, 
+            41.8680498211835
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.8680498211835", 
+    "type": "property", 
+    "description": "CYCLE, SCOOTER, BIKE W-VIN", 
+    "beat": "0123", 
+    "date": {
+        "$date": 1370077200000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d15d"
+    }, 
+    "iucr": "917", 
+    "longitude": "-87.63276433818429", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1175067", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "07", 
+    "block": "011XX S DELANO CT W"
+}

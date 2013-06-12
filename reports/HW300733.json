@@ -1,1 +1,33 @@
-{"community_area": "66", "_id": {"$oid": "51b5f11d3c002ed20d78cec6"}, "primary_type": "BATTERY", "beat": "0832", "year": "2013", "domestic": true, "iucr": "486", "arrest": false, "location_description": "RESIDENCE", "location": {"type": "Point", "coordinates": [-87.68559710606773, 41.76671197060551]}, "case_number": "HW300733", "date": {"$date": 1370136900000}, "updated_on": {"$date": 1370911182000}, "ward": "15", "fbi_code": "08B", "type": null, "id": "9155868", "block": "069XX S CAMPBELL AVE", "description": "DOMESTIC BATTERY SIMPLE"}
+{
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78cec6"
+    }, 
+    "primary_type": "BATTERY", 
+    "year": "2013", 
+    "beat": "0832", 
+    "case_number": "HW300733", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68559710606773, 
+            41.76671197060551
+        ]
+    }, 
+    "community_area": "66", 
+    "date": {
+        "$date": 1370136900000
+    }, 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "ward": "15", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9155868", 
+    "block": "069XX S CAMPBELL AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}

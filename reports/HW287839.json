@@ -1,1 +1,38 @@
-{"y_coordinate": "1918443", "year": "2013", "domestic": false, "case_number": "HW287839", "id": "9142962", "primary_type": "THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76520243276255, 41.93232973629154]}, "community_area": "19", "latitude": "41.93232973629154", "type": "property", "description": "OVER $500", "beat": "2514", "date": {"$date": 1369278900000}, "ward": "31", "_id": {"$oid": "51a770843c002ed20d78a9f7"}, "iucr": "810", "longitude": "-87.76520243276255", "location_description": "STREET", "x_coordinate": "1138839", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "028XX N LUNA AVE"}
+{
+    "y_coordinate": "1918443", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287839", 
+    "id": "9142962", 
+    "primary_type": "THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76520243276255, 
+            41.93232973629154
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.93232973629154", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "2514", 
+    "date": {
+        "$date": 1369278900000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51a770843c002ed20d78a9f7"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.76520243276255", 
+    "location_description": "STREET", 
+    "x_coordinate": "1138839", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "028XX N LUNA AVE"
+}

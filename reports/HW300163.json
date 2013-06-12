@@ -1,1 +1,38 @@
-{"y_coordinate": "1884914", "year": "2013", "domestic": false, "case_number": "HW300163", "id": "9154671", "primary_type": "CRIMINAL TRESPASS", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66213397334157, 41.839761787231005]}, "community_area": "60", "latitude": "41.839761787231005", "type": null, "description": "TO LAND", "beat": "0913", "date": {"$date": 1370103300000}, "ward": "11", "_id": {"$oid": "51b5f11f3c002ed20d78d03b"}, "iucr": "1330", "longitude": "-87.66213397334157", "location_description": "APARTMENT", "x_coordinate": "1167148", "updated_on": {"$date": 1370306580000}, "fbi_code": "26", "block": "030XX S ARCHER AVE"}
+{
+    "y_coordinate": "1884914", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300163", 
+    "id": "9154671", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66213397334157, 
+            41.839761787231005
+        ]
+    }, 
+    "community_area": "60", 
+    "latitude": "41.839761787231005", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "0913", 
+    "date": {
+        "$date": 1370103300000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d03b"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.66213397334157", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1167148", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "26", 
+    "block": "030XX S ARCHER AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1900924", "year": "2013", "domestic": false, "case_number": "HW290549", "id": "9145232", "primary_type": "CRIM SEXUAL ASSAULT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68094176783502, 41.883805674592075]}, "community_area": "28", "latitude": "41.883805674592075", "type": "violent", "description": "NON-AGGRAVATED", "beat": "1223", "date": {"$date": 1369371600000}, "ward": "2", "_id": {"$oid": "51aa13933c002ed20d78b13c"}, "iucr": "281", "longitude": "-87.68094176783502", "location_description": "CHA APARTMENT", "x_coordinate": "1161901", "updated_on": {"$date": 1370306580000}, "fbi_code": "02", "block": "021XX W MAYPOLE AVE"}
+{
+    "y_coordinate": "1900924", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290549", 
+    "id": "9145232", 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68094176783502, 
+            41.883805674592075
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.883805674592075", 
+    "type": "violent", 
+    "description": "NON-AGGRAVATED", 
+    "beat": "1223", 
+    "date": {
+        "$date": 1369371600000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b13c"
+    }, 
+    "iucr": "281", 
+    "longitude": "-87.68094176783502", 
+    "location_description": "CHA APARTMENT", 
+    "x_coordinate": "1161901", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "02", 
+    "block": "021XX W MAYPOLE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1901143", "year": "2013", "domestic": false, "case_number": "HW287934", "id": "9142918", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.73390279253498, 41.88469531962112]}, "community_area": "26", "latitude": "41.88469531962112", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1114", "date": {"$date": 1369327200000}, "ward": "28", "_id": {"$oid": "51aa13963c002ed20d78b2ac"}, "iucr": "1811", "longitude": "-87.73390279253498", "location_description": "STREET", "x_coordinate": "1147477", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "043XX W MAYPOLE AVE"}
+{
+    "y_coordinate": "1901143", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287934", 
+    "id": "9142918", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73390279253498, 
+            41.88469531962112
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.88469531962112", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1114", 
+    "date": {
+        "$date": 1369327200000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b2ac"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.73390279253498", 
+    "location_description": "STREET", 
+    "x_coordinate": "1147477", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "043XX W MAYPOLE AVE"
+}

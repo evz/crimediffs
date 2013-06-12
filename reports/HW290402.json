@@ -1,1 +1,38 @@
-{"y_coordinate": "1945858", "year": "2013", "domestic": false, "case_number": "HW290402", "id": "9145064", "primary_type": "WEAPONS VIOLATION", "district": "024", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68569892942328, 42.00714117880104]}, "community_area": "2", "latitude": "42.00714117880104", "type": null, "description": "UNLAWFUL USE OTHER DANG WEAPON", "beat": "2411", "date": {"$date": 1369485900000}, "ward": "50", "_id": {"$oid": "51b34a113c002ed20d78ca7a"}, "iucr": "141C", "longitude": "-87.68569892942328", "location_description": "SIDEWALK", "x_coordinate": "1160266", "updated_on": {"$date": 1369701613000}, "fbi_code": "15", "block": "021XX W MORSE AVE"}
+{
+    "y_coordinate": "1945858", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290402", 
+    "id": "9145064", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "024", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68569892942328, 
+            42.00714117880104
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "42.00714117880104", 
+    "type": null, 
+    "description": "UNLAWFUL USE OTHER DANG WEAPON", 
+    "beat": "2411", 
+    "date": {
+        "$date": 1369485900000
+    }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78ca7a"
+    }, 
+    "iucr": "141C", 
+    "longitude": "-87.68569892942328", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1160266", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "15", 
+    "block": "021XX W MORSE AVE"
+}

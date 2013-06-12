@@ -1,1 +1,38 @@
-{"y_coordinate": "1925484", "year": "2013", "domestic": false, "case_number": "HW287181", "id": "9142060", "primary_type": "CRIMINAL DAMAGE", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.78917887109472, 41.95176794067329]}, "community_area": "17", "latitude": "41.95176794067329", "type": "quality", "description": "TO PROPERTY", "beat": "1632", "date": {"$date": 1369280460000}, "ward": "38", "_id": {"$oid": "51a770843c002ed20d78a9f2"}, "iucr": "1310", "longitude": "-87.78917887109472", "location_description": "OTHER", "x_coordinate": "1132270", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "065XX W DAKIN ST"}
+{
+    "y_coordinate": "1925484", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287181", 
+    "id": "9142060", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78917887109472, 
+            41.95176794067329
+        ]
+    }, 
+    "community_area": "17", 
+    "latitude": "41.95176794067329", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1632", 
+    "date": {
+        "$date": 1369280460000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51a770843c002ed20d78a9f2"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.78917887109472", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1132270", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "065XX W DAKIN ST"
+}

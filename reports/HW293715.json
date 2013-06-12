@@ -1,1 +1,38 @@
-{"y_coordinate": "1902134", "year": "2013", "domestic": false, "case_number": "HW293715", "id": "9148096", "primary_type": "BURGLARY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75547076439196, 41.887525422548514]}, "community_area": "25", "latitude": "41.887525422548514", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1523", "date": {"$date": 1369497600000}, "ward": "28", "_id": {"$oid": "51b34a103c002ed20d78c9f6"}, "iucr": "610", "longitude": "-87.75547076439196", "location_description": "BARBERSHOP", "x_coordinate": "1141597", "updated_on": {"$date": 1369960832000}, "fbi_code": "05", "block": "003XX N LARAMIE AVE"}
+{
+    "y_coordinate": "1902134", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293715", 
+    "id": "9148096", 
+    "primary_type": "BURGLARY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75547076439196, 
+            41.887525422548514
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.887525422548514", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1523", 
+    "date": {
+        "$date": 1369497600000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78c9f6"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.75547076439196", 
+    "location_description": "BARBERSHOP", 
+    "x_coordinate": "1141597", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "05", 
+    "block": "003XX N LARAMIE AVE"
+}

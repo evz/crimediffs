@@ -1,1 +1,38 @@
-{"y_coordinate": "1873328", "year": "2013", "domestic": true, "case_number": "HW289667", "id": "9144522", "primary_type": "OTHER OFFENSE", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62131778363185, 41.80772091309678]}, "community_area": "38", "latitude": "41.80772091309678", "type": null, "description": "VIOLATE ORDER OF PROTECTION", "beat": "0224", "date": {"$date": 1369429380000}, "ward": "3", "_id": {"$oid": "51aa138d3c002ed20d78ae93"}, "iucr": "4387", "longitude": "-87.62131778363185", "location_description": "APARTMENT", "x_coordinate": "1178367", "updated_on": {"$date": 1369787985000}, "fbi_code": "26", "block": "047XX S INDIANA AVE"}
+{
+    "y_coordinate": "1873328", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289667", 
+    "id": "9144522", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62131778363185, 
+            41.80772091309678
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.80772091309678", 
+    "type": null, 
+    "description": "VIOLATE ORDER OF PROTECTION", 
+    "beat": "0224", 
+    "date": {
+        "$date": 1369429380000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78ae93"
+    }, 
+    "iucr": "4387", 
+    "longitude": "-87.62131778363185", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1178367", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "26", 
+    "block": "047XX S INDIANA AVE"
+}

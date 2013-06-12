@@ -1,1 +1,38 @@
-{"y_coordinate": "1849757", "year": "2013", "domestic": true, "case_number": "HW301210", "id": "9155534", "primary_type": "ASSAULT", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64397303366442, 41.743173368997375]}, "community_area": "71", "latitude": "41.743173368997375", "type": "violent", "description": "AGGRAVATED: OTHER DANG WEAPON", "beat": "0613", "date": {"$date": 1370181180000}, "ward": "21", "_id": {"$oid": "51b5f11a3c002ed20d78cd8d"}, "iucr": "530", "longitude": "-87.64397303366442", "location_description": "STREET", "x_coordinate": "1172379", "updated_on": {"$date": 1370392932000}, "fbi_code": "04A", "block": "083XX S HALSTED ST"}
+{
+    "y_coordinate": "1849757", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301210", 
+    "id": "9155534", 
+    "primary_type": "ASSAULT", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64397303366442, 
+            41.743173368997375
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.743173368997375", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "0613", 
+    "date": {
+        "$date": 1370181180000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd8d"
+    }, 
+    "iucr": "530", 
+    "longitude": "-87.64397303366442", 
+    "location_description": "STREET", 
+    "x_coordinate": "1172379", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "04A", 
+    "block": "083XX S HALSTED ST"
+}

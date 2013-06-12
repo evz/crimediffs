@@ -1,1 +1,38 @@
-{"y_coordinate": "1902181", "year": "2013", "domestic": false, "case_number": "HW289952", "id": "9144701", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66448423697322, 41.887160514103385]}, "community_area": "28", "latitude": "41.887160514103385", "type": "property", "description": "$500 AND UNDER", "beat": "1215", "date": {"$date": 1369440900000}, "ward": "27", "_id": {"$oid": "51aa138b3c002ed20d78ae03"}, "iucr": "820", "longitude": "-87.66448423697322", "location_description": "STREET", "x_coordinate": "1166373", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "003XX N LAFLIN ST"}
+{
+    "y_coordinate": "1902181", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289952", 
+    "id": "9144701", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66448423697322, 
+            41.887160514103385
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.887160514103385", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1215", 
+    "date": {
+        "$date": 1369440900000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa138b3c002ed20d78ae03"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.66448423697322", 
+    "location_description": "STREET", 
+    "x_coordinate": "1166373", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "003XX N LAFLIN ST"
+}

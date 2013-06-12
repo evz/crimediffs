@@ -1,1 +1,38 @@
-{"y_coordinate": "1892715", "year": "2013", "domestic": false, "case_number": "HW300512", "id": "9154941", "primary_type": "ASSAULT", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.69454722791046, 41.86135460795569]}, "community_area": "29", "latitude": "41.86135460795569", "type": null, "description": "SIMPLE", "beat": "1023", "date": {"$date": 1370116800000}, "ward": "28", "_id": {"$oid": "51b5f11e3c002ed20d78cfba"}, "iucr": "560", "longitude": "-87.69454722791046", "location_description": "HOSPITAL BUILDING/GROUNDS", "x_coordinate": "1158257", "updated_on": {"$date": 1370306580000}, "fbi_code": "08A", "block": "015XX S FAIRFIELD AVE"}
+{
+    "y_coordinate": "1892715", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300512", 
+    "id": "9154941", 
+    "primary_type": "ASSAULT", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69454722791046, 
+            41.86135460795569
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.86135460795569", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1023", 
+    "date": {
+        "$date": 1370116800000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cfba"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.69454722791046", 
+    "location_description": "HOSPITAL BUILDING/GROUNDS", 
+    "x_coordinate": "1158257", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08A", 
+    "block": "015XX S FAIRFIELD AVE"
+}

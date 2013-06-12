@@ -1,1 +1,38 @@
-{"y_coordinate": "1844953", "year": "2013", "domestic": false, "case_number": "HW288681", "id": "9143674", "primary_type": "ASSAULT", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.57660391757128, 41.729565771756256]}, "community_area": "48", "latitude": "41.729565771756256", "type": null, "description": "PRO EMP HANDS NO/MIN INJURY", "beat": "0413", "date": {"$date": 1369388700000}, "ward": "8", "_id": {"$oid": "51aa13933c002ed20d78b0c9"}, "iucr": "545", "longitude": "-87.57660391757128", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1190808", "updated_on": {"$date": 1369615194000}, "fbi_code": "08A", "block": "091XX S EUCLID AVE"}
+{
+    "y_coordinate": "1844953", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288681", 
+    "id": "9143674", 
+    "primary_type": "ASSAULT", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57660391757128, 
+            41.729565771756256
+        ]
+    }, 
+    "community_area": "48", 
+    "latitude": "41.729565771756256", 
+    "type": null, 
+    "description": "PRO EMP HANDS NO/MIN INJURY", 
+    "beat": "0413", 
+    "date": {
+        "$date": 1369388700000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b0c9"
+    }, 
+    "iucr": "545", 
+    "longitude": "-87.57660391757128", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1190808", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08A", 
+    "block": "091XX S EUCLID AVE"
+}

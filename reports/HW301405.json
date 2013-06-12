@@ -1,1 +1,38 @@
-{"y_coordinate": "1837984", "year": "2013", "domestic": false, "case_number": "HW301405", "id": "9155632", "primary_type": "THEFT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68807829337563, 41.71112065455494]}, "community_area": "72", "latitude": "41.71112065455494", "type": "property", "description": "$500 AND UNDER", "beat": "2211", "date": {"$date": 1370104200000}, "ward": "19", "_id": {"$oid": "51b5f11f3c002ed20d78d034"}, "iucr": "820", "longitude": "-87.68807829337563", "location_description": "STREET", "x_coordinate": "1160430", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "100XX S TALMAN AVE"}
+{
+    "y_coordinate": "1837984", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301405", 
+    "id": "9155632", 
+    "primary_type": "THEFT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68807829337563, 
+            41.71112065455494
+        ]
+    }, 
+    "community_area": "72", 
+    "latitude": "41.71112065455494", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2211", 
+    "date": {
+        "$date": 1370104200000
+    }, 
+    "ward": "19", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d034"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.68807829337563", 
+    "location_description": "STREET", 
+    "x_coordinate": "1160430", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "100XX S TALMAN AVE"
+}

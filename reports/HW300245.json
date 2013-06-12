@@ -1,1 +1,38 @@
-{"y_coordinate": "1895381", "year": "2013", "domestic": false, "case_number": "HW300245", "id": "9154724", "primary_type": "ASSAULT", "district": "001", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64207893016994, 41.86836696739575]}, "community_area": "28", "latitude": "41.86836696739575", "type": null, "description": "SIMPLE", "beat": "0124", "date": {"$date": 1370107800000}, "ward": "2", "_id": {"$oid": "51b5f11f3c002ed20d78d017"}, "iucr": "560", "longitude": "-87.64207893016994", "location_description": "CONVENIENCE STORE", "x_coordinate": "1172529", "updated_on": {"$date": 1370306580000}, "fbi_code": "08A", "block": "011XX S JEFFERSON ST"}
+{
+    "y_coordinate": "1895381", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300245", 
+    "id": "9154724", 
+    "primary_type": "ASSAULT", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64207893016994, 
+            41.86836696739575
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.86836696739575", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0124", 
+    "date": {
+        "$date": 1370107800000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d017"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.64207893016994", 
+    "location_description": "CONVENIENCE STORE", 
+    "x_coordinate": "1172529", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08A", 
+    "block": "011XX S JEFFERSON ST"
+}

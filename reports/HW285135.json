@@ -1,1 +1,38 @@
-{"y_coordinate": "1861514", "year": "2013", "domestic": false, "case_number": "HW285135", "id": "9139850", "primary_type": "ROBBERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66913858122419, 41.77558636261191]}, "community_area": "67", "latitude": "41.77558636261191", "type": "violent", "description": "ARMED: HANDGUN", "beat": "0726", "date": {"$date": 1369167900000}, "ward": "15", "_id": {"$oid": "51a61f093c002ed20d78a75d"}, "iucr": "031A", "longitude": "-87.66913858122419", "location_description": "SIDEWALK", "x_coordinate": "1165420", "updated_on": {"$date": 1370651988000}, "fbi_code": "03", "block": "065XX S WOOD ST"}
+{
+    "y_coordinate": "1861514", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285135", 
+    "id": "9139850", 
+    "primary_type": "ROBBERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66913858122419, 
+            41.77558636261191
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.77558636261191", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0726", 
+    "date": {
+        "$date": 1369167900000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51a61f093c002ed20d78a75d"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.66913858122419", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1165420", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "03", 
+    "block": "065XX S WOOD ST"
+}

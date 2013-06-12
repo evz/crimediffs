@@ -1,1 +1,38 @@
-{"y_coordinate": "1913179", "year": "2013", "domestic": false, "case_number": "HW290713", "id": "9145364", "primary_type": "CRIM SEXUAL ASSAULT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63649673719732, 41.91717516930457]}, "community_area": "7", "latitude": "41.91717516930457", "type": "violent", "description": "NON-AGGRAVATED", "beat": "1814", "date": {"$date": 1369438200000}, "ward": "43", "_id": {"$oid": "51aa138c3c002ed20d78ae26"}, "iucr": "281", "longitude": "-87.63649673719732", "location_description": "RESIDENCE", "x_coordinate": "1173905", "updated_on": {"$date": 1370479286000}, "fbi_code": "02", "block": "019XX N LINCOLN PARK WEST"}
+{
+    "y_coordinate": "1913179", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290713", 
+    "id": "9145364", 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63649673719732, 
+            41.91717516930457
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.91717516930457", 
+    "type": "violent", 
+    "description": "NON-AGGRAVATED", 
+    "beat": "1814", 
+    "date": {
+        "$date": 1369438200000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae26"
+    }, 
+    "iucr": "281", 
+    "longitude": "-87.63649673719732", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1173905", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "02", 
+    "block": "019XX N LINCOLN PARK WEST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1898724", "year": "2013", "domestic": false, "case_number": "HW284843", "id": "9139598", "primary_type": "DECEPTIVE PRACTICE", "district": "001", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6291291423108, 41.877462307437476]}, "community_area": "32", "latitude": "41.877462307437476", "type": null, "description": "DECEPTIVE COLLECTION PRACTICES", "beat": "0113", "date": {"$date": 1369153800000}, "ward": "2", "_id": {"$oid": "51a61f0c3c002ed20d78a82e"}, "iucr": "1185", "longitude": "-87.6291291423108", "location_description": "SIDEWALK", "x_coordinate": "1176029", "updated_on": {"$date": 1369356045000}, "fbi_code": "11", "block": "003XX S DEARBORN ST"}
+{
+    "y_coordinate": "1898724", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284843", 
+    "id": "9139598", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6291291423108, 
+            41.877462307437476
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.877462307437476", 
+    "type": null, 
+    "description": "DECEPTIVE COLLECTION PRACTICES", 
+    "beat": "0113", 
+    "date": {
+        "$date": 1369153800000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a61f0c3c002ed20d78a82e"
+    }, 
+    "iucr": "1185", 
+    "longitude": "-87.6291291423108", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1176029", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "11", 
+    "block": "003XX S DEARBORN ST"
+}

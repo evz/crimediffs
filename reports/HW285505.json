@@ -1,1 +1,38 @@
-{"y_coordinate": "1918729", "year": "2013", "domestic": false, "case_number": "HW285505", "id": "9140172", "primary_type": "ROBBERY", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6637197188382, 41.932567593451004]}, "community_area": "6", "latitude": "41.932567593451004", "type": "violent", "description": "ARMED: OTHER DANGEROUS WEAPON", "beat": "1932", "date": {"$date": 1369191600000}, "ward": "32", "_id": {"$oid": "51a61f053c002ed20d78a67b"}, "iucr": "313", "longitude": "-87.6637197188382", "location_description": "SIDEWALK", "x_coordinate": "1166452", "updated_on": {"$date": 1370651988000}, "fbi_code": "03", "block": "028XX N SOUTHPORT AVE"}
+{
+    "y_coordinate": "1918729", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285505", 
+    "id": "9140172", 
+    "primary_type": "ROBBERY", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6637197188382, 
+            41.932567593451004
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.932567593451004", 
+    "type": "violent", 
+    "description": "ARMED: OTHER DANGEROUS WEAPON", 
+    "beat": "1932", 
+    "date": {
+        "$date": 1369191600000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51a61f053c002ed20d78a67b"
+    }, 
+    "iucr": "313", 
+    "longitude": "-87.6637197188382", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1166452", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "03", 
+    "block": "028XX N SOUTHPORT AVE"
+}

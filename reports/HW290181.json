@@ -1,1 +1,38 @@
-{"y_coordinate": "1863240", "year": "2013", "domestic": false, "case_number": "HW290181", "id": "9144956", "primary_type": "CRIMINAL DAMAGE", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72510927932645, 41.78063297127415]}, "community_area": "65", "latitude": "41.78063297127415", "type": "quality", "description": "CRIMINAL DEFACEMENT", "beat": "0813", "date": {"$date": 1369443600000}, "ward": "13", "_id": {"$oid": "51aa138b3c002ed20d78adf0"}, "iucr": "1305", "longitude": "-87.72510927932645", "location_description": "RESIDENCE", "x_coordinate": "1150140", "updated_on": {"$date": 1369615194000}, "fbi_code": "14", "block": "061XX S KARLOV AVE"}
+{
+    "y_coordinate": "1863240", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290181", 
+    "id": "9144956", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72510927932645, 
+            41.78063297127415
+        ]
+    }, 
+    "community_area": "65", 
+    "latitude": "41.78063297127415", 
+    "type": "quality", 
+    "description": "CRIMINAL DEFACEMENT", 
+    "beat": "0813", 
+    "date": {
+        "$date": 1369443600000
+    }, 
+    "ward": "13", 
+    "_id": {
+        "$oid": "51aa138b3c002ed20d78adf0"
+    }, 
+    "iucr": "1305", 
+    "longitude": "-87.72510927932645", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1150140", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "14", 
+    "block": "061XX S KARLOV AVE"
+}

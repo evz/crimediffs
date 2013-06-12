@@ -1,1 +1,38 @@
-{"y_coordinate": "1834948", "year": "2013", "domestic": false, "case_number": "HW302412", "id": "9156941", "primary_type": "THEFT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65228000185103, 41.702582292752886]}, "community_area": "73", "latitude": "41.702582292752886", "type": "property", "description": "FROM BUILDING", "beat": "2232", "date": {"$date": 1370210400000}, "ward": "34", "_id": {"$oid": "51b5f1163c002ed20d78cc2f"}, "iucr": "890", "longitude": "-87.65228000185103", "location_description": "ABANDONED BUILDING", "x_coordinate": "1170229", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "105XX S RACINE AVE"}
+{
+    "y_coordinate": "1834948", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302412", 
+    "id": "9156941", 
+    "primary_type": "THEFT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65228000185103, 
+            41.702582292752886
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.702582292752886", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "2232", 
+    "date": {
+        "$date": 1370210400000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b5f1163c002ed20d78cc2f"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.65228000185103", 
+    "location_description": "ABANDONED BUILDING", 
+    "x_coordinate": "1170229", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "105XX S RACINE AVE"
+}

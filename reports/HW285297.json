@@ -1,1 +1,38 @@
-{"y_coordinate": "1899535", "year": "2013", "domestic": false, "case_number": "HW285297", "id": "9141452", "primary_type": "ROBBERY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76026449744316, 41.88041714177528]}, "community_area": "25", "latitude": "41.88041714177528", "type": "violent", "description": "ATTEMPT: STRONGARM-NO WEAPON", "beat": "1522", "date": {"$date": 1369171800000}, "ward": "28", "_id": {"$oid": "51a61f093c002ed20d78a724"}, "iucr": "340", "longitude": "-87.76026449744316", "location_description": "SIDEWALK", "x_coordinate": "1140309", "updated_on": {"$date": 1370047283000}, "fbi_code": "03", "block": "054XX W MADISON ST"}
+{
+    "y_coordinate": "1899535", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285297", 
+    "id": "9141452", 
+    "primary_type": "ROBBERY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76026449744316, 
+            41.88041714177528
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.88041714177528", 
+    "type": "violent", 
+    "description": "ATTEMPT: STRONGARM-NO WEAPON", 
+    "beat": "1522", 
+    "date": {
+        "$date": 1369171800000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a61f093c002ed20d78a724"
+    }, 
+    "iucr": "340", 
+    "longitude": "-87.76026449744316", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1140309", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "03", 
+    "block": "054XX W MADISON ST"
+}

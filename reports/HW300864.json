@@ -1,1 +1,38 @@
-{"y_coordinate": "1900329", "year": "2013", "domestic": true, "case_number": "HW300864", "id": "9155397", "primary_type": "OTHER OFFENSE", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75255203508922, 41.8825573310823]}, "community_area": "25", "latitude": "41.8825573310823", "type": null, "description": "TELEPHONE THREAT", "beat": "1532", "date": {"$date": 1370154600000}, "ward": "28", "_id": {"$oid": "51b5f11c3c002ed20d78ce51"}, "iucr": "2820", "longitude": "-87.75255203508922", "location_description": "APARTMENT", "x_coordinate": "1142404", "updated_on": {"$date": 1370565766000}, "fbi_code": "26", "block": "001XX N LECLAIRE AVE"}
+{
+    "y_coordinate": "1900329", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300864", 
+    "id": "9155397", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75255203508922, 
+            41.8825573310823
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.8825573310823", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "1532", 
+    "date": {
+        "$date": 1370154600000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce51"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.75255203508922", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1142404", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "26", 
+    "block": "001XX N LECLAIRE AVE"
+}

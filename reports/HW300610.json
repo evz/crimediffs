@@ -1,1 +1,38 @@
-{"y_coordinate": "1908669", "year": "2013", "domestic": false, "case_number": "HW300610", "id": "9154993", "primary_type": "WEAPONS VIOLATION", "district": "025", "arrest": true, "location": {"type": "Point", "coordinates": [-87.76683984784384, 41.9055156977044]}, "community_area": "25", "latitude": "41.9055156977044", "type": null, "description": "UNLAWFUL USE/SALE AIR RIFLE", "beat": "2531", "date": {"$date": 1370128020000}, "ward": "29", "_id": {"$oid": "51b5f11e3c002ed20d78cf26"}, "iucr": "2900", "longitude": "-87.76683984784384", "location_description": "STREET", "x_coordinate": "1138458", "updated_on": {"$date": 1370306580000}, "fbi_code": "15", "block": "013XX N PARKSIDE AVE"}
+{
+    "y_coordinate": "1908669", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300610", 
+    "id": "9154993", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "025", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76683984784384, 
+            41.9055156977044
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.9055156977044", 
+    "type": null, 
+    "description": "UNLAWFUL USE/SALE AIR RIFLE", 
+    "beat": "2531", 
+    "date": {
+        "$date": 1370128020000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf26"
+    }, 
+    "iucr": "2900", 
+    "longitude": "-87.76683984784384", 
+    "location_description": "STREET", 
+    "x_coordinate": "1138458", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "15", 
+    "block": "013XX N PARKSIDE AVE"
+}

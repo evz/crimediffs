@@ -1,1 +1,38 @@
-{"y_coordinate": "1932601", "year": "2013", "domestic": false, "case_number": "HW286544", "id": "9141408", "primary_type": "MOTOR VEHICLE THEFT", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71235881928989, 41.97090868766105]}, "community_area": "14", "latitude": "41.97090868766105", "type": "property", "description": "AUTOMOBILE", "beat": "1713", "date": {"$date": 1369177200000}, "ward": "39", "_id": {"$oid": "51a61f073c002ed20d78a6e0"}, "iucr": "910", "longitude": "-87.71235881928989", "location_description": "STREET", "x_coordinate": "1153116", "updated_on": {"$date": 1369442383000}, "fbi_code": "07", "block": "049XX N CHRISTIANA AVE"}
+{
+    "y_coordinate": "1932601", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286544", 
+    "id": "9141408", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71235881928989, 
+            41.97090868766105
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.97090868766105", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1713", 
+    "date": {
+        "$date": 1369177200000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51a61f073c002ed20d78a6e0"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.71235881928989", 
+    "location_description": "STREET", 
+    "x_coordinate": "1153116", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "07", 
+    "block": "049XX N CHRISTIANA AVE"
+}

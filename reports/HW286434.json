@@ -1,1 +1,38 @@
-{"y_coordinate": "1842302", "year": "2013", "domestic": false, "case_number": "HW286434", "id": "9141308", "primary_type": "THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.57549886889744, 41.72228331808236]}, "community_area": "51", "latitude": "41.72228331808236", "type": "property", "description": "OVER $500", "beat": "0431", "date": {"$date": 1369242600000}, "ward": "7", "_id": {"$oid": "51a7708a3c002ed20d78ab79"}, "iucr": "810", "longitude": "-87.57549886889744", "location_description": "CTA BUS", "x_coordinate": "1191133", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "095XX S JEFFERY AVE"}
+{
+    "y_coordinate": "1842302", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286434", 
+    "id": "9141308", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57549886889744, 
+            41.72228331808236
+        ]
+    }, 
+    "community_area": "51", 
+    "latitude": "41.72228331808236", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0431", 
+    "date": {
+        "$date": 1369242600000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab79"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.57549886889744", 
+    "location_description": "CTA BUS", 
+    "x_coordinate": "1191133", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "095XX S JEFFERY AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1839894", "year": "2013", "domestic": false, "case_number": "HW290914", "id": "9145583", "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", "district": "005", "arrest": true, "location": {"type": "Point", "coordinates": [-87.61413839252026, 41.71592333778248]}, "community_area": "49", "latitude": "41.71592333778248", "type": null, "description": "RESIST/OBSTRUCT/DISARM OFFICER", "beat": "0511", "date": {"$date": 1369511700000}, "ward": "6", "_id": {"$oid": "51b34a0f3c002ed20d78c946"}, "iucr": "3710", "longitude": "-87.61413839252026", "location_description": "SIDEWALK", "x_coordinate": "1180604", "updated_on": {"$date": 1369701613000}, "fbi_code": "24", "block": "098XX S DR MARTIN LUTHER KING JR DR"}
+{
+    "y_coordinate": "1839894", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290914", 
+    "id": "9145583", 
+    "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", 
+    "district": "005", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61413839252026, 
+            41.71592333778248
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.71592333778248", 
+    "type": null, 
+    "description": "RESIST/OBSTRUCT/DISARM OFFICER", 
+    "beat": "0511", 
+    "date": {
+        "$date": 1369511700000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c946"
+    }, 
+    "iucr": "3710", 
+    "longitude": "-87.61413839252026", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1180604", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "24", 
+    "block": "098XX S DR MARTIN LUTHER KING JR DR"
+}

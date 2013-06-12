@@ -1,1 +1,38 @@
-{"y_coordinate": "1873385", "year": "2013", "domestic": false, "case_number": "HW302940", "id": "9157536", "primary_type": "THEFT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6979940217634, 41.80832701548836]}, "community_area": "58", "latitude": "41.80832701548836", "type": "property", "description": "PURSE-SNATCHING", "beat": "0922", "date": {"$date": 1370181600000}, "ward": "14", "_id": {"$oid": "51b5f11a3c002ed20d78cd7c"}, "iucr": "880", "longitude": "-87.6979940217634", "location_description": "SIDEWALK", "x_coordinate": "1157461", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "029XX W 47TH ST"}
+{
+    "y_coordinate": "1873385", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302940", 
+    "id": "9157536", 
+    "primary_type": "THEFT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6979940217634, 
+            41.80832701548836
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.80832701548836", 
+    "type": "property", 
+    "description": "PURSE-SNATCHING", 
+    "beat": "0922", 
+    "date": {
+        "$date": 1370181600000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd7c"
+    }, 
+    "iucr": "880", 
+    "longitude": "-87.6979940217634", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1157461", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "029XX W 47TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1817214", "year": "2013", "domestic": true, "case_number": "HW284916", "id": "9139746", "primary_type": "CRIMINAL DAMAGE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.54729882152789, 41.653244178542714]}, "community_area": "55", "latitude": "41.653244178542714", "type": "quality", "description": "TO VEHICLE", "beat": "0433", "date": {"$date": 1369159200000}, "ward": "10", "_id": {"$oid": "51a61f0b3c002ed20d78a7d9"}, "iucr": "1320", "longitude": "-87.54729882152789", "location_description": "STREET", "x_coordinate": "1199061", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "133XX S BALTIMORE AVE"}
+{
+    "y_coordinate": "1817214", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW284916", 
+    "id": "9139746", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.54729882152789, 
+            41.653244178542714
+        ]
+    }, 
+    "community_area": "55", 
+    "latitude": "41.653244178542714", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0433", 
+    "date": {
+        "$date": 1369159200000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a7d9"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.54729882152789", 
+    "location_description": "STREET", 
+    "x_coordinate": "1199061", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "133XX S BALTIMORE AVE"
+}

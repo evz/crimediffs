@@ -1,1 +1,38 @@
-{"y_coordinate": "1904125", "year": "2013", "domestic": false, "case_number": "HW300763", "id": "9155137", "primary_type": "BATTERY", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63222391336026, 41.89230288758429]}, "community_area": "8", "latitude": "41.89230288758429", "type": "violent", "description": "AGGRAVATED:KNIFE/CUTTING INSTR", "beat": "1831", "date": {"$date": 1370140800000}, "ward": "42", "_id": {"$oid": "51b5f11d3c002ed20d78ceae"}, "iucr": "420", "longitude": "-87.63222391336026", "location_description": "SIDEWALK", "x_coordinate": "1175142", "updated_on": {"$date": 1370392932000}, "fbi_code": "04B", "block": "001XX W OHIO ST"}
+{
+    "y_coordinate": "1904125", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300763", 
+    "id": "9155137", 
+    "primary_type": "BATTERY", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63222391336026, 
+            41.89230288758429
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89230288758429", 
+    "type": "violent", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
+    "beat": "1831", 
+    "date": {
+        "$date": 1370140800000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78ceae"
+    }, 
+    "iucr": "420", 
+    "longitude": "-87.63222391336026", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1175142", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "04B", 
+    "block": "001XX W OHIO ST"
+}

@@ -1,1 +1,33 @@
-{"community_area": "42", "_id": {"$oid": "51aa138b3c002ed20d78ae0b"}, "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", "beat": "0312", "year": "2013", "domestic": false, "iucr": "3731", "arrest": true, "location_description": "STREET", "location": {"type": "Point", "coordinates": [-87.61460543747046, 41.78014846797536]}, "case_number": "HW289810", "date": {"$date": 1369440060000}, "updated_on": {"$date": 1369874559000}, "ward": "20", "fbi_code": "24", "type": null, "id": "9148059", "block": "004XX E 63RD ST", "description": "OBSTRUCTING IDENTIFICATION"}
+{
+    "_id": {
+        "$oid": "51aa138b3c002ed20d78ae0b"
+    }, 
+    "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", 
+    "year": "2013", 
+    "beat": "0312", 
+    "case_number": "HW289810", 
+    "domestic": false, 
+    "iucr": "3731", 
+    "arrest": true, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61460543747046, 
+            41.78014846797536
+        ]
+    }, 
+    "community_area": "42", 
+    "date": {
+        "$date": 1369440060000
+    }, 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "ward": "20", 
+    "fbi_code": "24", 
+    "type": null, 
+    "id": "9148059", 
+    "block": "004XX E 63RD ST", 
+    "description": "OBSTRUCTING IDENTIFICATION"
+}

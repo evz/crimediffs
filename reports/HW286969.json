@@ -1,1 +1,38 @@
-{"y_coordinate": "1902211", "year": "2013", "domestic": false, "case_number": "HW286969", "id": "9141755", "primary_type": "CRIMINAL TRESPASS", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.75343436876994, 41.887726464416126]}, "community_area": "25", "latitude": "41.887726464416126", "type": null, "description": "TO VEHICLE", "beat": "1532", "date": {"$date": 1369260780000}, "ward": "28", "_id": {"$oid": "51a770883c002ed20d78aa8d"}, "iucr": "1360", "longitude": "-87.75343436876994", "location_description": "STREET", "x_coordinate": "1142151", "updated_on": {"$date": 1369442383000}, "fbi_code": "26", "block": "051XX W KINZIE ST"}
+{
+    "y_coordinate": "1902211", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286969", 
+    "id": "9141755", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75343436876994, 
+            41.887726464416126
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.887726464416126", 
+    "type": null, 
+    "description": "TO VEHICLE", 
+    "beat": "1532", 
+    "date": {
+        "$date": 1369260780000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aa8d"
+    }, 
+    "iucr": "1360", 
+    "longitude": "-87.75343436876994", 
+    "location_description": "STREET", 
+    "x_coordinate": "1142151", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "26", 
+    "block": "051XX W KINZIE ST"
+}

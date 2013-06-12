@@ -1,1 +1,38 @@
-{"y_coordinate": "1860877", "year": "2013", "domestic": false, "case_number": "HW299916", "id": "9154505", "primary_type": "THEFT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.57663303442608, 41.773266196049754]}, "community_area": "43", "latitude": "41.773266196049754", "type": "property", "description": "OVER $500", "beat": "0332", "date": {"$date": 1370091000000}, "ward": "5", "_id": {"$oid": "51b5f1203c002ed20d78d0d9"}, "iucr": "810", "longitude": "-87.57663303442608", "location_description": "SIDEWALK", "x_coordinate": "1190660", "updated_on": {"$date": 1370306580000}, "fbi_code": "06", "block": "067XX S JEFFERY BLVD"}
+{
+    "y_coordinate": "1860877", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299916", 
+    "id": "9154505", 
+    "primary_type": "THEFT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57663303442608, 
+            41.773266196049754
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.773266196049754", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0332", 
+    "date": {
+        "$date": 1370091000000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0d9"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.57663303442608", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1190660", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "06", 
+    "block": "067XX S JEFFERY BLVD"
+}

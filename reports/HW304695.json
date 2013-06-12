@@ -1,1 +1,33 @@
-{"community_area": "68", "_id": {"$oid": "51b5f11a3c002ed20d78cd43"}, "primary_type": "OFFENSE INVOLVING CHILDREN", "beat": "0723", "year": "2013", "domestic": true, "iucr": "1750", "arrest": false, "location_description": "RESIDENCE", "location": {"type": "Point", "coordinates": [-87.64461024990008, 41.77851280014533]}, "case_number": "HW304695", "date": {"$date": 1370188200000}, "updated_on": {"$date": 1370651988000}, "ward": "20", "fbi_code": "20", "type": null, "id": "9160865", "block": "063XX S HALSTED ST", "description": "CHILD ABUSE"}
+{
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd43"
+    }, 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "year": "2013", 
+    "beat": "0723", 
+    "case_number": "HW304695", 
+    "domestic": true, 
+    "iucr": "1750", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64461024990008, 
+            41.77851280014533
+        ]
+    }, 
+    "community_area": "68", 
+    "date": {
+        "$date": 1370188200000
+    }, 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "ward": "20", 
+    "fbi_code": "20", 
+    "type": null, 
+    "id": "9160865", 
+    "block": "063XX S HALSTED ST", 
+    "description": "CHILD ABUSE"
+}

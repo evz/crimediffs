@@ -1,1 +1,38 @@
-{"y_coordinate": "1845648", "year": "2013", "domestic": true, "case_number": "HW285433", "id": "9140035", "primary_type": "CRIMINAL DAMAGE", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.54553871645412, 41.73126427849275]}, "community_area": "46", "latitude": "41.73126427849275", "type": "quality", "description": "TO PROPERTY", "beat": "0424", "date": {"$date": 1369184760000}, "ward": "10", "_id": {"$oid": "51a61f063c002ed20d78a6a0"}, "iucr": "1310", "longitude": "-87.54553871645412", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1199282", "updated_on": {"$date": 1369356045000}, "fbi_code": "14", "block": "090XX S BURLEY AVE"}
+{
+    "y_coordinate": "1845648", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285433", 
+    "id": "9140035", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.54553871645412, 
+            41.73126427849275
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.73126427849275", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0424", 
+    "date": {
+        "$date": 1369184760000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51a61f063c002ed20d78a6a0"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.54553871645412", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1199282", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "14", 
+    "block": "090XX S BURLEY AVE"
+}

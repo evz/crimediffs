@@ -1,1 +1,38 @@
-{"y_coordinate": "1898216", "year": "2013", "domestic": false, "case_number": "HW286723", "id": "9144237", "primary_type": "CRIMINAL DAMAGE", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74499670347674, 41.8767202726888]}, "community_area": "25", "latitude": "41.8767202726888", "type": "quality", "description": "TO VEHICLE", "beat": "1131", "date": {"$date": 1369254900000}, "ward": "24", "_id": {"$oid": "51a770893c002ed20d78aae7"}, "iucr": "1320", "longitude": "-87.74499670347674", "location_description": "STREET", "x_coordinate": "1144476", "updated_on": {"$date": 1369701613000}, "fbi_code": "14", "block": "003XX S CICERO AVE"}
+{
+    "y_coordinate": "1898216", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286723", 
+    "id": "9144237", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74499670347674, 
+            41.8767202726888
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.8767202726888", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1131", 
+    "date": {
+        "$date": 1369254900000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a770893c002ed20d78aae7"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.74499670347674", 
+    "location_description": "STREET", 
+    "x_coordinate": "1144476", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "14", 
+    "block": "003XX S CICERO AVE"
+}

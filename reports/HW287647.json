@@ -1,1 +1,38 @@
-{"y_coordinate": "1849780", "year": "2013", "domestic": false, "case_number": "HW287647", "id": "9142791", "primary_type": "DECEPTIVE PRACTICE", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.65854795681255, 41.743323008615846]}, "community_area": "71", "latitude": "41.743323008615846", "type": null, "description": "FRAUD OR CONFIDENCE GAME", "beat": "0614", "date": {"$date": 1369312200000}, "ward": "21", "_id": {"$oid": "51aa13973c002ed20d78b348"}, "iucr": "1130", "longitude": "-87.65854795681255", "location_description": "STREET", "x_coordinate": "1168401", "updated_on": {"$date": 1369701613000}, "fbi_code": "11", "block": "082XX S LOOMIS BLVD"}
+{
+    "y_coordinate": "1849780", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287647", 
+    "id": "9142791", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65854795681255, 
+            41.743323008615846
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.743323008615846", 
+    "type": null, 
+    "description": "FRAUD OR CONFIDENCE GAME", 
+    "beat": "0614", 
+    "date": {
+        "$date": 1369312200000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b348"
+    }, 
+    "iucr": "1130", 
+    "longitude": "-87.65854795681255", 
+    "location_description": "STREET", 
+    "x_coordinate": "1168401", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "11", 
+    "block": "082XX S LOOMIS BLVD"
+}

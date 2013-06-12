@@ -1,1 +1,38 @@
-{"y_coordinate": "1829141", "year": "2013", "domestic": true, "case_number": "HW300834", "id": "9155322", "primary_type": "CRIMINAL DAMAGE", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66019443187116, 41.68669258560382]}, "community_area": "75", "latitude": "41.68669258560382", "type": "quality", "description": "TO PROPERTY", "beat": "2234", "date": {"$date": 1370151120000}, "ward": "34", "_id": {"$oid": "51b5f11c3c002ed20d78ce5d"}, "iucr": "1310", "longitude": "-87.66019443187116", "location_description": "RESIDENCE", "x_coordinate": "1168113", "updated_on": {"$date": 1370479286000}, "fbi_code": "14", "block": "113XX S LAFLIN ST"}
+{
+    "y_coordinate": "1829141", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300834", 
+    "id": "9155322", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66019443187116, 
+            41.68669258560382
+        ]
+    }, 
+    "community_area": "75", 
+    "latitude": "41.68669258560382", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "2234", 
+    "date": {
+        "$date": 1370151120000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce5d"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.66019443187116", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1168113", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "14", 
+    "block": "113XX S LAFLIN ST"
+}

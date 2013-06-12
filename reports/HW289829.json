@@ -1,1 +1,38 @@
-{"y_coordinate": "1906527", "year": "2013", "domestic": true, "case_number": "HW289829", "id": "9145223", "primary_type": "BATTERY", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64205769651329, 41.89895416134677]}, "community_area": "8", "latitude": "41.89895416134677", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1823", "date": {"$date": 1369437300000}, "ward": "27", "_id": {"$oid": "51aa138c3c002ed20d78ae33"}, "iucr": "486", "longitude": "-87.64205769651329", "location_description": "RESIDENCE", "x_coordinate": "1172445", "updated_on": {"$date": 1369787985000}, "fbi_code": "08B", "block": "005XX W LOCUST ST"}
+{
+    "y_coordinate": "1906527", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289829", 
+    "id": "9145223", 
+    "primary_type": "BATTERY", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64205769651329, 
+            41.89895416134677
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89895416134677", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1823", 
+    "date": {
+        "$date": 1369437300000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae33"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.64205769651329", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1172445", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "08B", 
+    "block": "005XX W LOCUST ST"
+}

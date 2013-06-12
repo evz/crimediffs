@@ -1,1 +1,38 @@
-{"y_coordinate": "1835230", "year": "2013", "domestic": true, "case_number": "HW300921", "id": "9155316", "primary_type": "OTHER OFFENSE", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68046403770012, 41.703519768549185]}, "community_area": "72", "latitude": "41.703519768549185", "type": null, "description": "HARASSMENT BY ELECTRONIC MEANS", "beat": "2212", "date": {"$date": 1370083380000}, "ward": "19", "_id": {"$oid": "51b5f1203c002ed20d78d128"}, "iucr": "2826", "longitude": "-87.68046403770012", "location_description": "RESIDENCE", "x_coordinate": "1162530", "updated_on": {"$date": 1370392932000}, "fbi_code": "26", "block": "104XX S CLAREMONT AVE"}
+{
+    "y_coordinate": "1835230", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300921", 
+    "id": "9155316", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68046403770012, 
+            41.703519768549185
+        ]
+    }, 
+    "community_area": "72", 
+    "latitude": "41.703519768549185", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "2212", 
+    "date": {
+        "$date": 1370083380000
+    }, 
+    "ward": "19", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d128"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.68046403770012", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1162530", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "26", 
+    "block": "104XX S CLAREMONT AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1862865", "year": "2013", "domestic": true, "case_number": "HW287416", "id": "9142488", "primary_type": "BATTERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61574412270227, 41.77897279741727]}, "community_area": "69", "latitude": "41.77897279741727", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0312", "date": {"$date": 1369303200000}, "ward": "20", "_id": {"$oid": "51aa13983c002ed20d78b3c0"}, "iucr": "486", "longitude": "-87.61574412270227", "location_description": "APARTMENT", "x_coordinate": "1179974", "updated_on": {"$date": 1369442383000}, "fbi_code": "08B", "block": "063XX S DR MARTIN LUTHER KING JR DR"}
+{
+    "y_coordinate": "1862865", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW287416", 
+    "id": "9142488", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61574412270227, 
+            41.77897279741727
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.77897279741727", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0312", 
+    "date": {
+        "$date": 1369303200000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3c0"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.61574412270227", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1179974", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08B", 
+    "block": "063XX S DR MARTIN LUTHER KING JR DR"
+}

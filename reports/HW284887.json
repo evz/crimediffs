@@ -1,1 +1,38 @@
-{"y_coordinate": "1837976", "year": "2013", "domestic": true, "case_number": "HW284887", "id": "9139658", "primary_type": "BATTERY", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65623904775484, 41.71091550843637]}, "community_area": "73", "latitude": "41.71091550843637", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "2213", "date": {"$date": 1369157400000}, "ward": "21", "_id": {"$oid": "51a61f0b3c002ed20d78a7ec"}, "iucr": "486", "longitude": "-87.65623904775484", "location_description": "SIDEWALK", "x_coordinate": "1169124", "updated_on": {"$date": 1369874559000}, "fbi_code": "08B", "block": "101XX S WINSTON AVE"}
+{
+    "y_coordinate": "1837976", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW284887", 
+    "id": "9139658", 
+    "primary_type": "BATTERY", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65623904775484, 
+            41.71091550843637
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.71091550843637", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "2213", 
+    "date": {
+        "$date": 1369157400000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a7ec"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.65623904775484", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1169124", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "08B", 
+    "block": "101XX S WINSTON AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1908249", "year": "2013", "domestic": false, "case_number": "HW287471", "id": "9142612", "primary_type": "THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74740348549288, 41.90426558755216]}, "community_area": "25", "latitude": "41.90426558755216", "type": "property", "description": "$500 AND UNDER", "beat": "2533", "date": {"$date": 1369308600000}, "ward": "37", "_id": {"$oid": "51aa13973c002ed20d78b376"}, "iucr": "820", "longitude": "-87.74740348549288", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1143752", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "048XX W POTOMAC AVE"}
+{
+    "y_coordinate": "1908249", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287471", 
+    "id": "9142612", 
+    "primary_type": "THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74740348549288, 
+            41.90426558755216
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.90426558755216", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2533", 
+    "date": {
+        "$date": 1369308600000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b376"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.74740348549288", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1143752", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "048XX W POTOMAC AVE"
+}

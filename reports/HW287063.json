@@ -1,1 +1,38 @@
-{"y_coordinate": "1875670", "year": "2013", "domestic": false, "case_number": "HW287063", "id": "9141855", "primary_type": "BURGLARY", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70359934915453, 41.814628560800124]}, "community_area": "58", "latitude": "41.814628560800124", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0922", "date": {"$date": 1369278840000}, "ward": "14", "_id": {"$oid": "51a770843c002ed20d78a9f8"}, "iucr": "610", "longitude": "-87.70359934915453", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1155916", "updated_on": {"$date": 1369874559000}, "fbi_code": "05", "block": "043XX S ARCHER AVE"}
+{
+    "y_coordinate": "1875670", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287063", 
+    "id": "9141855", 
+    "primary_type": "BURGLARY", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70359934915453, 
+            41.814628560800124
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.814628560800124", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0922", 
+    "date": {
+        "$date": 1369278840000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51a770843c002ed20d78a9f8"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.70359934915453", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1155916", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "05", 
+    "block": "043XX S ARCHER AVE"
+}

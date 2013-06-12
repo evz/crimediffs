@@ -1,1 +1,38 @@
-{"y_coordinate": "1873376", "year": "2013", "domestic": false, "case_number": "HW290863", "id": "9145413", "primary_type": "MOTOR VEHICLE THEFT", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.59370962681906, 41.807678193499044]}, "community_area": "39", "latitude": "41.807678193499044", "type": "property", "description": "AUTOMOBILE", "beat": "0222", "date": {"$date": 1369501200000}, "ward": "4", "_id": {"$oid": "51b34a103c002ed20d78c9d2"}, "iucr": "910", "longitude": "-87.59370962681906", "location_description": "STREET", "x_coordinate": "1185894", "updated_on": {"$date": 1369701613000}, "fbi_code": "07", "block": "048XX S KENWOOD AVE"}
+{
+    "y_coordinate": "1873376", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290863", 
+    "id": "9145413", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59370962681906, 
+            41.807678193499044
+        ]
+    }, 
+    "community_area": "39", 
+    "latitude": "41.807678193499044", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0222", 
+    "date": {
+        "$date": 1369501200000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78c9d2"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.59370962681906", 
+    "location_description": "STREET", 
+    "x_coordinate": "1185894", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "07", 
+    "block": "048XX S KENWOOD AVE"
+}

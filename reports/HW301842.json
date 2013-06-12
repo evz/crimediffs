@@ -1,1 +1,38 @@
-{"y_coordinate": "1858364", "year": "2013", "domestic": false, "case_number": "HW301842", "id": "9156020", "primary_type": "PUBLIC PEACE VIOLATION", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.61422137351944, 41.76661121509078]}, "community_area": "69", "latitude": "41.76661121509078", "type": null, "description": "RECKLESS CONDUCT", "beat": "0322", "date": {"$date": 1370216700000}, "ward": "6", "_id": {"$oid": "51b5f1153c002ed20d78cbf2"}, "iucr": "470", "longitude": "-87.61422137351944", "location_description": "ALLEY", "x_coordinate": "1180427", "updated_on": {"$date": 1370392932000}, "fbi_code": "24", "block": "070XX S VERNON AVE"}
+{
+    "y_coordinate": "1858364", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301842", 
+    "id": "9156020", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61422137351944, 
+            41.76661121509078
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.76661121509078", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "0322", 
+    "date": {
+        "$date": 1370216700000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbf2"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.61422137351944", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1180427", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "24", 
+    "block": "070XX S VERNON AVE"
+}

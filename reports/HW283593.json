@@ -1,1 +1,38 @@
-{"y_coordinate": "1951084", "year": "2013", "domestic": false, "case_number": "HW283593", "id": "9138170", "primary_type": "BATTERY", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66540913282495, 42.021366003786596]}, "community_area": "1", "latitude": "42.021366003786596", "type": null, "description": "SIMPLE", "beat": "2422", "date": {"$date": 1369078980000}, "ward": "49", "_id": {"$oid": "51a4cd8e3c002ed20d78a3f1"}, "iucr": "460", "longitude": "-87.66540913282495", "location_description": "SIDEWALK", "x_coordinate": "1165740", "updated_on": {"$date": 1369269615000}, "fbi_code": "08B", "block": "077XX N EASTLAKE TER"}
+{
+    "y_coordinate": "1951084", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283593", 
+    "id": "9138170", 
+    "primary_type": "BATTERY", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66540913282495, 
+            42.021366003786596
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "42.021366003786596", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2422", 
+    "date": {
+        "$date": 1369078980000
+    }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3f1"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.66540913282495", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1165740", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "08B", 
+    "block": "077XX N EASTLAKE TER"
+}

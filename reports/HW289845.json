@@ -1,1 +1,38 @@
-{"y_coordinate": "1887342", "year": "2013", "domestic": false, "case_number": "HW289845", "id": "9144681", "primary_type": "PUBLIC PEACE VIOLATION", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71348423613064, 41.84671346290797]}, "community_area": "30", "latitude": "41.84671346290797", "type": null, "description": "RECKLESS CONDUCT", "beat": "1024", "date": {"$date": 1369439400000}, "ward": "22", "_id": {"$oid": "51aa138c3c002ed20d78ae1e"}, "iucr": "470", "longitude": "-87.71348423613064", "location_description": "SIDEWALK", "x_coordinate": "1153137", "updated_on": {"$date": 1369615194000}, "fbi_code": "24", "block": "024XX S DRAKE AVE"}
+{
+    "y_coordinate": "1887342", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289845", 
+    "id": "9144681", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71348423613064, 
+            41.84671346290797
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.84671346290797", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
+    "beat": "1024", 
+    "date": {
+        "$date": 1369439400000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae1e"
+    }, 
+    "iucr": "470", 
+    "longitude": "-87.71348423613064", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1153137", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "24", 
+    "block": "024XX S DRAKE AVE"
+}

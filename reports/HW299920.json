@@ -1,1 +1,38 @@
-{"y_coordinate": "1868274", "year": "2013", "domestic": false, "case_number": "HW299920", "id": "9154629", "primary_type": "BATTERY", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6659475226027, 41.794119271875566]}, "community_area": "61", "latitude": "41.794119271875566", "type": null, "description": "AGG PO HANDS NO/MIN INJURY", "beat": "0932", "date": {"$date": 1370089440000}, "ward": "16", "_id": {"$oid": "51b5f1203c002ed20d78d0eb"}, "iucr": "454", "longitude": "-87.6659475226027", "location_description": "STREET", "x_coordinate": "1166238", "updated_on": {"$date": 1370738354000}, "fbi_code": "08B", "block": "016XX W GARFIELD BLVD"}
+{
+    "y_coordinate": "1868274", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299920", 
+    "id": "9154629", 
+    "primary_type": "BATTERY", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6659475226027, 
+            41.794119271875566
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.794119271875566", 
+    "type": null, 
+    "description": "AGG PO HANDS NO/MIN INJURY", 
+    "beat": "0932", 
+    "date": {
+        "$date": 1370089440000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0eb"
+    }, 
+    "iucr": "454", 
+    "longitude": "-87.6659475226027", 
+    "location_description": "STREET", 
+    "x_coordinate": "1166238", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "08B", 
+    "block": "016XX W GARFIELD BLVD"
+}

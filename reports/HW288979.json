@@ -1,1 +1,38 @@
-{"y_coordinate": "1917169", "year": "2013", "domestic": false, "case_number": "HW288979", "id": "9144101", "primary_type": "NARCOTICS", "district": "014", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70433262724193, 41.92851627406227]}, "community_area": "22", "latitude": "41.92851627406227", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1411", "date": {"$date": 1369401240000}, "ward": "35", "_id": {"$oid": "51aa13913c002ed20d78b02a"}, "iucr": "1811", "longitude": "-87.70433262724193", "location_description": "STREET", "x_coordinate": "1155412", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "030XX W LOGAN BLVD"}
+{
+    "y_coordinate": "1917169", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288979", 
+    "id": "9144101", 
+    "primary_type": "NARCOTICS", 
+    "district": "014", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70433262724193, 
+            41.92851627406227
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.92851627406227", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1411", 
+    "date": {
+        "$date": 1369401240000
+    }, 
+    "ward": "35", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b02a"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.70433262724193", 
+    "location_description": "STREET", 
+    "x_coordinate": "1155412", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "030XX W LOGAN BLVD"
+}

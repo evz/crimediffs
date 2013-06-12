@@ -1,1 +1,38 @@
-{"y_coordinate": "1860436", "year": "2013", "domestic": false, "case_number": "HW283400", "id": "9137963", "primary_type": "CRIMINAL TRESPASS", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64957946900023, 41.77251326982595]}, "community_area": "68", "latitude": "41.77251326982595", "type": null, "description": "TO LAND", "beat": "0724", "date": {"$date": 1369073280000}, "ward": "17", "_id": {"$oid": "51a4cd8f3c002ed20d78a442"}, "iucr": "1330", "longitude": "-87.64957946900023", "location_description": "SIDEWALK", "x_coordinate": "1170764", "updated_on": {"$date": 1369269615000}, "fbi_code": "26", "block": "010XX W MARQUETTE RD"}
+{
+    "y_coordinate": "1860436", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283400", 
+    "id": "9137963", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64957946900023, 
+            41.77251326982595
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.77251326982595", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "0724", 
+    "date": {
+        "$date": 1369073280000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a442"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.64957946900023", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1170764", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "26", 
+    "block": "010XX W MARQUETTE RD"
+}

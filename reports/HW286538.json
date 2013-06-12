@@ -1,1 +1,38 @@
-{"y_coordinate": "1905460", "year": "2013", "domestic": false, "case_number": "HW286538", "id": "9141405", "primary_type": "DECEPTIVE PRACTICE", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62086077561553, 41.89589650365416]}, "community_area": "8", "latitude": "41.89589650365416", "type": null, "description": "CREDIT CARD FRAUD", "beat": "1833", "date": {"$date": 1369054800000}, "ward": "42", "_id": {"$oid": "51a4cd913c002ed20d78a52c"}, "iucr": "1150", "longitude": "-87.62086077561553", "location_description": "HOSPITAL BUILDING/GROUNDS", "x_coordinate": "1178225", "updated_on": {"$date": 1369701613000}, "fbi_code": "11", "block": "002XX E SUPERIOR ST"}
+{
+    "y_coordinate": "1905460", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286538", 
+    "id": "9141405", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62086077561553, 
+            41.89589650365416
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89589650365416", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "1833", 
+    "date": {
+        "$date": 1369054800000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a52c"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.62086077561553", 
+    "location_description": "HOSPITAL BUILDING/GROUNDS", 
+    "x_coordinate": "1178225", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "11", 
+    "block": "002XX E SUPERIOR ST"
+}

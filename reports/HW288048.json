@@ -1,1 +1,38 @@
-{"y_coordinate": "1847802", "year": "2013", "domestic": false, "case_number": "HW288048", "id": "9142927", "primary_type": "THEFT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64466423614431, 41.737812388158005]}, "community_area": "71", "latitude": "41.737812388158005", "type": "property", "description": "$500 AND UNDER", "beat": "0613", "date": {"$date": 1369290600000}, "ward": "21", "_id": {"$oid": "51aa13993c002ed20d78b433"}, "iucr": "820", "longitude": "-87.64466423614431", "location_description": "STREET", "x_coordinate": "1172206", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "086XX S SUMMIT AVE"}
+{
+    "y_coordinate": "1847802", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288048", 
+    "id": "9142927", 
+    "primary_type": "THEFT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64466423614431, 
+            41.737812388158005
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.737812388158005", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0613", 
+    "date": {
+        "$date": 1369290600000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51aa13993c002ed20d78b433"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.64466423614431", 
+    "location_description": "STREET", 
+    "x_coordinate": "1172206", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "086XX S SUMMIT AVE"
+}

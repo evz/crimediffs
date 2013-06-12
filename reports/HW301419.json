@@ -1,1 +1,38 @@
-{"y_coordinate": "1869436", "year": "2013", "domestic": false, "case_number": "HW301419", "id": "9155609", "primary_type": "THEFT", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62267548929255, 41.79704858623467]}, "community_area": "40", "latitude": "41.79704858623467", "type": "property", "description": "$500 AND UNDER", "beat": "0225", "date": {"$date": 1370192400000}, "ward": "3", "_id": {"$oid": "51b5f1193c002ed20d78cd06"}, "iucr": "820", "longitude": "-87.62267548929255", "location_description": "APARTMENT", "x_coordinate": "1178029", "updated_on": {"$date": 1370651988000}, "fbi_code": "06", "block": "053XX S MICHIGAN AVE"}
+{
+    "y_coordinate": "1869436", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301419", 
+    "id": "9155609", 
+    "primary_type": "THEFT", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62267548929255, 
+            41.79704858623467
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.79704858623467", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0225", 
+    "date": {
+        "$date": 1370192400000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78cd06"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.62267548929255", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1178029", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "06", 
+    "block": "053XX S MICHIGAN AVE"
+}

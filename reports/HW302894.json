@@ -1,1 +1,38 @@
-{"y_coordinate": "1842341", "year": "2013", "domestic": false, "case_number": "HW302894", "id": "9157461", "primary_type": "THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58481213613432, 41.72245139144682]}, "community_area": "51", "latitude": "41.72245139144682", "type": "property", "description": "$500 AND UNDER", "beat": "0413", "date": {"$date": 1370279700000}, "ward": "8", "_id": {"$oid": "51b7429b3c002ed20d78d357"}, "iucr": "820", "longitude": "-87.58481213613432", "location_description": "STREET", "x_coordinate": "1188590", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "016XX E 95TH ST"}
+{
+    "y_coordinate": "1842341", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302894", 
+    "id": "9157461", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58481213613432, 
+            41.72245139144682
+        ]
+    }, 
+    "community_area": "51", 
+    "latitude": "41.72245139144682", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0413", 
+    "date": {
+        "$date": 1370279700000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51b7429b3c002ed20d78d357"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.58481213613432", 
+    "location_description": "STREET", 
+    "x_coordinate": "1188590", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "016XX E 95TH ST"
+}

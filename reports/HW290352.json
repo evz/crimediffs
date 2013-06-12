@@ -1,1 +1,38 @@
-{"y_coordinate": "1900569", "year": "2013", "domestic": false, "case_number": "HW290352", "id": "9145167", "primary_type": "THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73603263944379, 41.88313121903545]}, "community_area": "26", "latitude": "41.88313121903545", "type": "property", "description": "$500 AND UNDER", "beat": "1113", "date": {"$date": 1369465200000}, "ward": "28", "_id": {"$oid": "51b34a123c002ed20d78cb1d"}, "iucr": "820", "longitude": "-87.73603263944379", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1146901", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "044XX W WEST END AVE"}
+{
+    "y_coordinate": "1900569", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290352", 
+    "id": "9145167", 
+    "primary_type": "THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73603263944379, 
+            41.88313121903545
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.88313121903545", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1113", 
+    "date": {
+        "$date": 1369465200000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cb1d"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.73603263944379", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1146901", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "044XX W WEST END AVE"
+}

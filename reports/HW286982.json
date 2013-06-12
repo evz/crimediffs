@@ -1,1 +1,38 @@
-{"y_coordinate": "1845800", "year": "2013", "domestic": false, "case_number": "HW286982", "id": "9141915", "primary_type": "CRIMINAL DAMAGE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55114580982226, 41.73171971960259]}, "community_area": "46", "latitude": "41.73171971960259", "type": "quality", "description": "TO PROPERTY", "beat": "0424", "date": {"$date": 1369270320000}, "ward": "10", "_id": {"$oid": "51a770863c002ed20d78aa36"}, "iucr": "1310", "longitude": "-87.55114580982226", "location_description": "COMMERCIAL / BUSINESS OFFICE", "x_coordinate": "1197750", "updated_on": {"$date": 1369528777000}, "fbi_code": "14", "block": "090XX S COMMERCIAL AVE"}
+{
+    "y_coordinate": "1845800", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286982", 
+    "id": "9141915", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55114580982226, 
+            41.73171971960259
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.73171971960259", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0424", 
+    "date": {
+        "$date": 1369270320000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51a770863c002ed20d78aa36"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.55114580982226", 
+    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
+    "x_coordinate": "1197750", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "14", 
+    "block": "090XX S COMMERCIAL AVE"
+}

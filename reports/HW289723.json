@@ -1,1 +1,38 @@
-{"y_coordinate": "1858138", "year": "2013", "domestic": true, "case_number": "HW289723", "id": "9144663", "primary_type": "THEFT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58258579796272, 41.76578863487747]}, "community_area": "43", "latitude": "41.76578863487747", "type": "property", "description": "OVER $500", "beat": "0324", "date": {"$date": 1369413000000}, "ward": "5", "_id": {"$oid": "51aa13903c002ed20d78af7f"}, "iucr": "810", "longitude": "-87.58258579796272", "location_description": "APARTMENT", "x_coordinate": "1189060", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "071XX S RIDGELAND AVE"}
+{
+    "y_coordinate": "1858138", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289723", 
+    "id": "9144663", 
+    "primary_type": "THEFT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58258579796272, 
+            41.76578863487747
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76578863487747", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0324", 
+    "date": {
+        "$date": 1369413000000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78af7f"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.58258579796272", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1189060", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "071XX S RIDGELAND AVE"
+}

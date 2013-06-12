@@ -1,1 +1,38 @@
-{"y_coordinate": "1923140", "year": "2013", "domestic": false, "case_number": "HW286985", "id": "9141783", "primary_type": "CRIMINAL DAMAGE", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.79610344674646, 41.94536809959727]}, "community_area": "17", "latitude": "41.94536809959727", "type": "quality", "description": "TO PROPERTY", "beat": "1632", "date": {"$date": 1369268100000}, "ward": "36", "_id": {"$oid": "51a770873c002ed20d78aa47"}, "iucr": "1310", "longitude": "-87.79610344674646", "location_description": "RESTAURANT", "x_coordinate": "1130401", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "068XX W ADDISON ST"}
+{
+    "y_coordinate": "1923140", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286985", 
+    "id": "9141783", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.79610344674646, 
+            41.94536809959727
+        ]
+    }, 
+    "community_area": "17", 
+    "latitude": "41.94536809959727", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1632", 
+    "date": {
+        "$date": 1369268100000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51a770873c002ed20d78aa47"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.79610344674646", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1130401", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "068XX W ADDISON ST"
+}

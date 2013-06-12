@@ -1,1 +1,38 @@
-{"y_coordinate": "1864437", "year": "2013", "domestic": false, "case_number": "HW286922", "id": "9141722", "primary_type": "BATTERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62231737169587, 41.78332769008546]}, "community_area": "40", "latitude": "41.78332769008546", "type": null, "description": "SIMPLE", "beat": "0311", "date": {"$date": 1369260000000}, "ward": "20", "_id": {"$oid": "51a770883c002ed20d78aaa4"}, "iucr": "460", "longitude": "-87.62231737169587", "location_description": "SIDEWALK", "x_coordinate": "1178168", "updated_on": {"$date": 1370306580000}, "fbi_code": "08B", "block": "061XX S MICHIGAN AVE"}
+{
+    "y_coordinate": "1864437", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286922", 
+    "id": "9141722", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62231737169587, 
+            41.78332769008546
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.78332769008546", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0311", 
+    "date": {
+        "$date": 1369260000000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aaa4"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.62231737169587", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1178168", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08B", 
+    "block": "061XX S MICHIGAN AVE"
+}

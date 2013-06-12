@@ -1,1 +1,38 @@
-{"y_coordinate": "1840358", "year": "2013", "domestic": false, "case_number": "HW286058", "id": "9142135", "primary_type": "BATTERY", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.59689931419943, 41.717087513655905]}, "community_area": "50", "latitude": "41.717087513655905", "type": "violent", "description": "AGGRAVATED: OTHER DANG WEAPON", "beat": "0511", "date": {"$date": 1369222200000}, "ward": "8", "_id": {"$oid": "51a7708c3c002ed20d78ac8d"}, "iucr": "430", "longitude": "-87.59689931419943", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1185307", "updated_on": {"$date": 1369528777000}, "fbi_code": "04B", "block": "097XX S GREENWOOD AVE"}
+{
+    "y_coordinate": "1840358", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286058", 
+    "id": "9142135", 
+    "primary_type": "BATTERY", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59689931419943, 
+            41.717087513655905
+        ]
+    }, 
+    "community_area": "50", 
+    "latitude": "41.717087513655905", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "0511", 
+    "date": {
+        "$date": 1369222200000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac8d"
+    }, 
+    "iucr": "430", 
+    "longitude": "-87.59689931419943", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1185307", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "04B", 
+    "block": "097XX S GREENWOOD AVE"
+}

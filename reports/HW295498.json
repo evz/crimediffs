@@ -1,1 +1,38 @@
-{"y_coordinate": "1923559", "year": "2013", "domestic": false, "case_number": "HW295498", "id": "9150166", "primary_type": "DECEPTIVE PRACTICE", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70825132685096, 41.9460732442362]}, "community_area": "21", "latitude": "41.9460732442362", "type": null, "description": "FORGERY", "beat": "1733", "date": {"$date": 1369353660000}, "ward": "35", "_id": {"$oid": "51aa13943c002ed20d78b181"}, "iucr": "1120", "longitude": "-87.70825132685096", "location_description": "BANK", "x_coordinate": "1154299", "updated_on": {"$date": 1370047283000}, "fbi_code": "10", "block": "035XX N ELSTON AVE"}
+{
+    "y_coordinate": "1923559", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW295498", 
+    "id": "9150166", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70825132685096, 
+            41.9460732442362
+        ]
+    }, 
+    "community_area": "21", 
+    "latitude": "41.9460732442362", 
+    "type": null, 
+    "description": "FORGERY", 
+    "beat": "1733", 
+    "date": {
+        "$date": 1369353660000
+    }, 
+    "ward": "35", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b181"
+    }, 
+    "iucr": "1120", 
+    "longitude": "-87.70825132685096", 
+    "location_description": "BANK", 
+    "x_coordinate": "1154299", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "10", 
+    "block": "035XX N ELSTON AVE"
+}

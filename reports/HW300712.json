@@ -1,1 +1,38 @@
-{"y_coordinate": "1859229", "year": "2013", "domestic": false, "case_number": "HW300712", "id": "9155163", "primary_type": "ROBBERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62193271305834, 41.76903303874471]}, "community_area": "69", "latitude": "41.76903303874471", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "0322", "date": {"$date": 1370137200000}, "ward": "6", "_id": {"$oid": "51b5f11d3c002ed20d78cec4"}, "iucr": "320", "longitude": "-87.62193271305834", "location_description": "STREET", "x_coordinate": "1178316", "updated_on": {"$date": 1370306580000}, "fbi_code": "03", "block": "069XX S MICHIGAN AVE"}
+{
+    "y_coordinate": "1859229", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300712", 
+    "id": "9155163", 
+    "primary_type": "ROBBERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62193271305834, 
+            41.76903303874471
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.76903303874471", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0322", 
+    "date": {
+        "$date": 1370137200000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78cec4"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.62193271305834", 
+    "location_description": "STREET", 
+    "x_coordinate": "1178316", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "03", 
+    "block": "069XX S MICHIGAN AVE"
+}

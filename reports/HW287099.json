@@ -1,1 +1,38 @@
-{"y_coordinate": "1871878", "year": "2013", "domestic": false, "case_number": "HW287099", "id": "9141988", "primary_type": "BURGLARY", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66143287504244, 41.803983351987355]}, "community_area": "61", "latitude": "41.803983351987355", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "0933", "date": {"$date": 1369267260000}, "ward": "16", "_id": {"$oid": "51a770873c002ed20d78aa4f"}, "iucr": "620", "longitude": "-87.66143287504244", "location_description": "RESIDENCE", "x_coordinate": "1167441", "updated_on": {"$date": 1370392932000}, "fbi_code": "05", "block": "014XX W 49TH PL"}
+{
+    "y_coordinate": "1871878", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287099", 
+    "id": "9141988", 
+    "primary_type": "BURGLARY", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66143287504244, 
+            41.803983351987355
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.803983351987355", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "0933", 
+    "date": {
+        "$date": 1369267260000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a770873c002ed20d78aa4f"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.66143287504244", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1167441", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "05", 
+    "block": "014XX W 49TH PL"
+}

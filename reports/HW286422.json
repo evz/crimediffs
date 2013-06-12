@@ -1,1 +1,38 @@
-{"y_coordinate": "1868145", "year": "2013", "domestic": false, "case_number": "HW286422", "id": "9141318", "primary_type": "THEFT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65425368686125, 41.79369672785857]}, "community_area": "68", "latitude": "41.79369672785857", "type": "property", "description": "$500 AND UNDER", "beat": "0712", "date": {"$date": 1369094460000}, "ward": "16", "_id": {"$oid": "51a4cd8c3c002ed20d78a332"}, "iucr": "820", "longitude": "-87.65425368686125", "location_description": "RESIDENCE", "x_coordinate": "1169428", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "011XX W GARFIELD BLVD"}
+{
+    "y_coordinate": "1868145", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286422", 
+    "id": "9141318", 
+    "primary_type": "THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65425368686125, 
+            41.79369672785857
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.79369672785857", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0712", 
+    "date": {
+        "$date": 1369094460000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a4cd8c3c002ed20d78a332"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.65425368686125", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1169428", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "011XX W GARFIELD BLVD"
+}

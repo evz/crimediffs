@@ -1,1 +1,38 @@
-{"y_coordinate": "1836776", "year": "2013", "domestic": false, "case_number": "HW283987", "id": "9139080", "primary_type": "BURGLARY", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61655546034633, 41.707381645505095]}, "community_area": "49", "latitude": "41.707381645505095", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0511", "date": {"$date": 1369108800000}, "ward": "9", "_id": {"$oid": "51a4cd8a3c002ed20d78a2f2"}, "iucr": "610", "longitude": "-87.61655546034633", "location_description": "OTHER", "x_coordinate": "1179970", "updated_on": {"$date": 1369356045000}, "fbi_code": "05", "block": "002XX E 103RD ST"}
+{
+    "y_coordinate": "1836776", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283987", 
+    "id": "9139080", 
+    "primary_type": "BURGLARY", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61655546034633, 
+            41.707381645505095
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.707381645505095", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0511", 
+    "date": {
+        "$date": 1369108800000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51a4cd8a3c002ed20d78a2f2"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.61655546034633", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1179970", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "05", 
+    "block": "002XX E 103RD ST"
+}

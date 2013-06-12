@@ -1,1 +1,33 @@
-{"community_area": "20", "_id": {"$oid": "51b5f11d3c002ed20d78cebe"}, "primary_type": "THEFT", "beat": "2534", "year": "2013", "domestic": false, "iucr": "810", "arrest": false, "location_description": "STREET", "location": {"type": "Point", "coordinates": [-87.73265810246676, 41.91210652234189]}, "case_number": "HW301129", "date": {"$date": 1370138400000}, "updated_on": {"$date": 1370392932000}, "ward": "30", "fbi_code": "06", "type": "property", "id": "9155744", "block": "017XX N TRIPP AVE", "description": "OVER $500"}
+{
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78cebe"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "2534", 
+    "case_number": "HW301129", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73265810246676, 
+            41.91210652234189
+        ]
+    }, 
+    "community_area": "20", 
+    "date": {
+        "$date": 1370138400000
+    }, 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "ward": "30", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9155744", 
+    "block": "017XX N TRIPP AVE", 
+    "description": "OVER $500"
+}

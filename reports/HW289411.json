@@ -1,1 +1,38 @@
-{"y_coordinate": "1899859", "year": "2013", "domestic": false, "case_number": "HW289411", "id": "9144321", "primary_type": "THEFT", "district": "001", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6424752588028, 41.88065808754998]}, "community_area": "28", "latitude": "41.88065808754998", "type": "property", "description": "RETAIL THEFT", "beat": "0121", "date": {"$date": 1369417620000}, "ward": "2", "_id": {"$oid": "51aa138f3c002ed20d78af3b"}, "iucr": "860", "longitude": "-87.6424752588028", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1172385", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "005XX W MONROE ST"}
+{
+    "y_coordinate": "1899859", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289411", 
+    "id": "9144321", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6424752588028, 
+            41.88065808754998
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.88065808754998", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0121", 
+    "date": {
+        "$date": 1369417620000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51aa138f3c002ed20d78af3b"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.6424752588028", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1172385", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "005XX W MONROE ST"
+}

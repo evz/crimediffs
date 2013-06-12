@@ -1,1 +1,38 @@
-{"y_coordinate": "1828487", "year": "2013", "domestic": true, "case_number": "HW290939", "id": "9145534", "primary_type": "BATTERY", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62902008115478, 41.68471096769798]}, "community_area": "53", "latitude": "41.68471096769798", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0522", "date": {"$date": 1369501200000}, "ward": "34", "_id": {"$oid": "51b34a0f3c002ed20d78c9c7"}, "iucr": "486", "longitude": "-87.62902008115478", "location_description": "RESIDENCE", "x_coordinate": "1176634", "updated_on": {"$date": 1370824784000}, "fbi_code": "08B", "block": "115XX S YALE AVE"}
+{
+    "y_coordinate": "1828487", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290939", 
+    "id": "9145534", 
+    "primary_type": "BATTERY", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62902008115478, 
+            41.68471096769798
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.68471096769798", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0522", 
+    "date": {
+        "$date": 1369501200000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c9c7"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.62902008115478", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1176634", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "08B", 
+    "block": "115XX S YALE AVE"
+}

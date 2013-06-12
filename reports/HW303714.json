@@ -1,1 +1,33 @@
-{"community_area": "68", "_id": {"$oid": "51b5f1133c002ed20d78cba1"}, "primary_type": "THEFT", "beat": "0723", "year": "2013", "domestic": false, "iucr": "810", "arrest": false, "location_description": "RESIDENCE", "location": {"type": "Point", "coordinates": [-87.64832451424667, 41.770214307279744]}, "case_number": "HW303714", "date": {"$date": 1370232000000}, "updated_on": {"$date": 1370651988000}, "ward": "17", "fbi_code": "06", "type": "property", "id": "9161030", "block": "068XX S SANGAMON ST", "description": "OVER $500"}
+{
+    "_id": {
+        "$oid": "51b5f1133c002ed20d78cba1"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "0723", 
+    "case_number": "HW303714", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64832451424667, 
+            41.770214307279744
+        ]
+    }, 
+    "community_area": "68", 
+    "date": {
+        "$date": 1370232000000
+    }, 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "ward": "17", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9161030", 
+    "block": "068XX S SANGAMON ST", 
+    "description": "OVER $500"
+}

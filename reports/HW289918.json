@@ -1,1 +1,38 @@
-{"y_coordinate": "1901684", "year": "2013", "domestic": false, "case_number": "HW289918", "id": "9144749", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65112436029266, 41.8857180367043]}, "community_area": "28", "latitude": "41.8857180367043", "type": "property", "description": "$500 AND UNDER", "beat": "1214", "date": {"$date": 1369441800000}, "ward": "27", "_id": {"$oid": "51aa138b3c002ed20d78adff"}, "iucr": "820", "longitude": "-87.65112436029266", "location_description": "STREET", "x_coordinate": "1170015", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "002XX N SANGAMON ST"}
+{
+    "y_coordinate": "1901684", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289918", 
+    "id": "9144749", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65112436029266, 
+            41.8857180367043
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.8857180367043", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1214", 
+    "date": {
+        "$date": 1369441800000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa138b3c002ed20d78adff"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.65112436029266", 
+    "location_description": "STREET", 
+    "x_coordinate": "1170015", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "002XX N SANGAMON ST"
+}

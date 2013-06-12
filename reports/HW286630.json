@@ -1,1 +1,38 @@
-{"y_coordinate": "1843851", "year": "2013", "domestic": false, "case_number": "HW286630", "id": "9141485", "primary_type": "BURGLARY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58483730138546, 41.726595468339774]}, "community_area": "48", "latitude": "41.726595468339774", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0413", "date": {"$date": 1369207800000}, "ward": "8", "_id": {"$oid": "51a7708d3c002ed20d78ad0d"}, "iucr": "610", "longitude": "-87.58483730138546", "location_description": "APARTMENT", "x_coordinate": "1188570", "updated_on": {"$date": 1370220023000}, "fbi_code": "05", "block": "092XX S STONY ISLAND AVE"}
+{
+    "y_coordinate": "1843851", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286630", 
+    "id": "9141485", 
+    "primary_type": "BURGLARY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58483730138546, 
+            41.726595468339774
+        ]
+    }, 
+    "community_area": "48", 
+    "latitude": "41.726595468339774", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0413", 
+    "date": {
+        "$date": 1369207800000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad0d"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.58483730138546", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1188570", 
+    "updated_on": {
+        "$date": 1370220023000
+    }, 
+    "fbi_code": "05", 
+    "block": "092XX S STONY ISLAND AVE"
+}

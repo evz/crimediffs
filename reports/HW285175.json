@@ -1,1 +1,38 @@
-{"y_coordinate": "1860578", "year": "2013", "domestic": false, "case_number": "HW285175", "id": "9139890", "primary_type": "WEAPONS VIOLATION", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58795489860354, 41.77251966773854]}, "community_area": "43", "latitude": "41.77251966773854", "type": null, "description": "UNLAWFUL POSS OF HANDGUN", "beat": "0332", "date": {"$date": 1369168920000}, "ward": "5", "_id": {"$oid": "51a61f093c002ed20d78a74f"}, "iucr": "143A", "longitude": "-87.58795489860354", "location_description": "APARTMENT", "x_coordinate": "1187574", "updated_on": {"$date": 1369528777000}, "fbi_code": "15", "block": "015XX E 67TH PL"}
+{
+    "y_coordinate": "1860578", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285175", 
+    "id": "9139890", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58795489860354, 
+            41.77251966773854
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.77251966773854", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "0332", 
+    "date": {
+        "$date": 1369168920000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51a61f093c002ed20d78a74f"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.58795489860354", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1187574", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "15", 
+    "block": "015XX E 67TH PL"
+}

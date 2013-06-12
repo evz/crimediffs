@@ -1,1 +1,38 @@
-{"y_coordinate": "1943508", "year": "2013", "domestic": false, "case_number": "HW286133", "id": "9141129", "primary_type": "THEFT", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66056826182027, 42.000547801886576]}, "community_area": "1", "latitude": "42.000547801886576", "type": "property", "description": "FROM BUILDING", "beat": "2432", "date": {"$date": 1369225800000}, "ward": "49", "_id": {"$oid": "51a7708c3c002ed20d78ac6a"}, "iucr": "890", "longitude": "-87.66056826182027", "location_description": "COLLEGE/UNIVERSITY RESIDENCE HALL", "x_coordinate": "1167115", "updated_on": {"$date": 1370133629000}, "fbi_code": "06", "block": "065XX N SHERIDAN RD"}
+{
+    "y_coordinate": "1943508", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286133", 
+    "id": "9141129", 
+    "primary_type": "THEFT", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66056826182027, 
+            42.000547801886576
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "42.000547801886576", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "2432", 
+    "date": {
+        "$date": 1369225800000
+    }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac6a"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.66056826182027", 
+    "location_description": "COLLEGE/UNIVERSITY RESIDENCE HALL", 
+    "x_coordinate": "1167115", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "06", 
+    "block": "065XX N SHERIDAN RD"
+}

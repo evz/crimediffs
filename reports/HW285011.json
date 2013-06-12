@@ -1,1 +1,38 @@
-{"y_coordinate": "1871683", "year": "2013", "domestic": false, "case_number": "HW285011", "id": "9139693", "primary_type": "ROBBERY", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66711940530388, 41.803481337313094]}, "community_area": "61", "latitude": "41.803481337313094", "type": "violent", "description": "STRONGARM - NO WEAPON", "beat": "0931", "date": {"$date": 1369160640000}, "ward": "16", "_id": {"$oid": "51a61f0a3c002ed20d78a7bb"}, "iucr": "320", "longitude": "-87.66711940530388", "location_description": "SIDEWALK", "x_coordinate": "1165892", "updated_on": {"$date": 1370392932000}, "fbi_code": "03", "block": "049XX S PAULINA ST"}
+{
+    "y_coordinate": "1871683", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285011", 
+    "id": "9139693", 
+    "primary_type": "ROBBERY", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66711940530388, 
+            41.803481337313094
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.803481337313094", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0931", 
+    "date": {
+        "$date": 1369160640000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a7bb"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.66711940530388", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1165892", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "03", 
+    "block": "049XX S PAULINA ST"
+}

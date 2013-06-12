@@ -1,1 +1,38 @@
-{"y_coordinate": "1942215", "year": "2013", "domestic": false, "case_number": "HW293896", "id": "9149418", "primary_type": "ROBBERY", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70955679745775, 41.997276221984805]}, "community_area": "2", "latitude": "41.997276221984805", "type": "violent", "description": "ARMED:KNIFE/CUTTING INSTRUMENT", "beat": "2413", "date": {"$date": 1369457400000}, "ward": "50", "_id": {"$oid": "51b34a123c002ed20d78cb30"}, "iucr": "312", "longitude": "-87.70955679745775", "location_description": "SIDEWALK", "x_coordinate": "1153808", "updated_on": {"$date": 1370392932000}, "fbi_code": "03", "block": "032XX W DEVON AVE"}
+{
+    "y_coordinate": "1942215", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293896", 
+    "id": "9149418", 
+    "primary_type": "ROBBERY", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70955679745775, 
+            41.997276221984805
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "41.997276221984805", 
+    "type": "violent", 
+    "description": "ARMED:KNIFE/CUTTING INSTRUMENT", 
+    "beat": "2413", 
+    "date": {
+        "$date": 1369457400000
+    }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cb30"
+    }, 
+    "iucr": "312", 
+    "longitude": "-87.70955679745775", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1153808", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "03", 
+    "block": "032XX W DEVON AVE"
+}

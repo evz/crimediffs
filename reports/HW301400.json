@@ -1,1 +1,38 @@
-{"y_coordinate": "1888810", "year": "2013", "domestic": false, "case_number": "HW301400", "id": "9155741", "primary_type": "CRIMINAL DAMAGE", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72782530906503, 41.850818542381745]}, "community_area": "29", "latitude": "41.850818542381745", "type": "quality", "description": "TO VEHICLE", "beat": "1013", "date": {"$date": 1370190300000}, "ward": "22", "_id": {"$oid": "51b5f1193c002ed20d78cd25"}, "iucr": "1320", "longitude": "-87.72782530906503", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1149219", "updated_on": {"$date": 1370651988000}, "fbi_code": "14", "block": "022XX S KEDVALE AVE"}
+{
+    "y_coordinate": "1888810", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301400", 
+    "id": "9155741", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72782530906503, 
+            41.850818542381745
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.850818542381745", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1013", 
+    "date": {
+        "$date": 1370190300000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78cd25"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.72782530906503", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1149219", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "14", 
+    "block": "022XX S KEDVALE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1825155", "year": "2013", "domestic": false, "case_number": "HW300772", "id": "9155148", "primary_type": "ASSAULT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62393328937202, 41.67553555030041]}, "community_area": "53", "latitude": "41.67553555030041", "type": "violent", "description": "AGGRAVATED: HANDGUN", "beat": "0523", "date": {"$date": 1370141700000}, "ward": "9", "_id": {"$oid": "51b5f11d3c002ed20d78cea6"}, "iucr": "051A", "longitude": "-87.62393328937202", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1178051", "updated_on": {"$date": 1370651988000}, "fbi_code": "04A", "block": "120XX S LAFAYETTE AVE"}
+{
+    "y_coordinate": "1825155", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300772", 
+    "id": "9155148", 
+    "primary_type": "ASSAULT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62393328937202, 
+            41.67553555030041
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.67553555030041", 
+    "type": "violent", 
+    "description": "AGGRAVATED: HANDGUN", 
+    "beat": "0523", 
+    "date": {
+        "$date": 1370141700000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78cea6"
+    }, 
+    "iucr": "051A", 
+    "longitude": "-87.62393328937202", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1178051", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "04A", 
+    "block": "120XX S LAFAYETTE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1850964", "year": "2013", "domestic": false, "case_number": "HW286542", "id": "9141514", "primary_type": "BURGLARY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7094802888305, 41.746860101211816]}, "community_area": "70", "latitude": "41.746860101211816", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0834", "date": {"$date": 1369216800000}, "ward": "18", "_id": {"$oid": "51a7708d3c002ed20d78acc6"}, "iucr": "610", "longitude": "-87.7094802888305", "location_description": "RESIDENCE", "x_coordinate": "1154492", "updated_on": {"$date": 1369442383000}, "fbi_code": "05", "block": "080XX S ST LOUIS AVE"}
+{
+    "y_coordinate": "1850964", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286542", 
+    "id": "9141514", 
+    "primary_type": "BURGLARY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7094802888305, 
+            41.746860101211816
+        ]
+    }, 
+    "community_area": "70", 
+    "latitude": "41.746860101211816", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0834", 
+    "date": {
+        "$date": 1369216800000
+    }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78acc6"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.7094802888305", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1154492", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "05", 
+    "block": "080XX S ST LOUIS AVE"
+}

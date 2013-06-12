@@ -1,1 +1,38 @@
-{"y_coordinate": "1950307", "year": "2013", "domestic": false, "case_number": "HW290938", "id": "9145537", "primary_type": "BATTERY", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67505429659552, 42.01928949718672]}, "community_area": "1", "latitude": "42.01928949718672", "type": null, "description": "SIMPLE", "beat": "2422", "date": {"$date": 1369516800000}, "ward": "49", "_id": {"$oid": "51b34a0e3c002ed20d78c905"}, "iucr": "460", "longitude": "-87.67505429659552", "location_description": "GROCERY FOOD STORE", "x_coordinate": "1163125", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "017XX W HOWARD ST"}
+{
+    "y_coordinate": "1950307", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290938", 
+    "id": "9145537", 
+    "primary_type": "BATTERY", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67505429659552, 
+            42.01928949718672
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "42.01928949718672", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2422", 
+    "date": {
+        "$date": 1369516800000
+    }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c905"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.67505429659552", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1163125", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "017XX W HOWARD ST"
+}

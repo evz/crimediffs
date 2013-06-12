@@ -1,1 +1,38 @@
-{"y_coordinate": "1851509", "year": "2013", "domestic": false, "case_number": "HW290096", "id": "9145008", "primary_type": "ASSAULT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6538189275892, 41.748040047059334]}, "community_area": "71", "latitude": "41.748040047059334", "type": null, "description": "SIMPLE", "beat": "0612", "date": {"$date": 1369469100000}, "ward": "21", "_id": {"$oid": "51b34a123c002ed20d78cb00"}, "iucr": "560", "longitude": "-87.6538189275892", "location_description": "BAR OR TAVERN", "x_coordinate": "1169678", "updated_on": {"$date": 1370047283000}, "fbi_code": "08A", "block": "080XX S RACINE AVE"}
+{
+    "y_coordinate": "1851509", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290096", 
+    "id": "9145008", 
+    "primary_type": "ASSAULT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6538189275892, 
+            41.748040047059334
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.748040047059334", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0612", 
+    "date": {
+        "$date": 1369469100000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cb00"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.6538189275892", 
+    "location_description": "BAR OR TAVERN", 
+    "x_coordinate": "1169678", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "08A", 
+    "block": "080XX S RACINE AVE"
+}

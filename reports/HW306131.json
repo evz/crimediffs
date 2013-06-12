@@ -1,1 +1,33 @@
-{"community_area": "50", "_id": {"$oid": "51b34a1e3c002ed20d78cb75"}, "primary_type": "THEFT", "beat": "0513", "year": "2013", "domestic": false, "iucr": "840", "arrest": false, "location_description": "BANK", "location": {"type": "Point", "coordinates": [-87.59873456863058, 41.69261989518664]}, "case_number": "HW306131", "date": {"$date": 1369213200000}, "updated_on": {"$date": 1370651988000}, "ward": "9", "fbi_code": "06", "type": "property", "id": "9161289", "block": "010XX E 111TH ST", "description": "FINANCIAL ID THEFT: OVER $300"}
+{
+    "_id": {
+        "$oid": "51b34a1e3c002ed20d78cb75"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "0513", 
+    "case_number": "HW306131", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "BANK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59873456863058, 
+            41.69261989518664
+        ]
+    }, 
+    "community_area": "50", 
+    "date": {
+        "$date": 1369213200000
+    }, 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "ward": "9", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9161289", 
+    "block": "010XX E 111TH ST", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}

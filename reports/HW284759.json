@@ -1,1 +1,38 @@
-{"y_coordinate": "1900781", "year": "2013", "domestic": false, "case_number": "HW284759", "id": "9139506", "primary_type": "MOTOR VEHICLE THEFT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6290157561693, 41.883106519519856]}, "community_area": "32", "latitude": "41.883106519519856", "type": "property", "description": "AUTOMOBILE", "beat": "0112", "date": {"$date": 1369132200000}, "ward": "42", "_id": {"$oid": "51a61f0e3c002ed20d78a93a"}, "iucr": "910", "longitude": "-87.6290157561693", "location_description": "STREET", "x_coordinate": "1176043", "updated_on": {"$date": 1369356045000}, "fbi_code": "07", "block": "0000X W WASHINGTON ST"}
+{
+    "y_coordinate": "1900781", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284759", 
+    "id": "9139506", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6290157561693, 
+            41.883106519519856
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.883106519519856", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0112", 
+    "date": {
+        "$date": 1369132200000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a61f0e3c002ed20d78a93a"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.6290157561693", 
+    "location_description": "STREET", 
+    "x_coordinate": "1176043", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "07", 
+    "block": "0000X W WASHINGTON ST"
+}

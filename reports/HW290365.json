@@ -1,1 +1,38 @@
-{"y_coordinate": "1859410", "year": "2013", "domestic": false, "case_number": "HW290365", "id": "9145047", "primary_type": "THEFT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64709846512027, 41.76968282994656]}, "community_area": "68", "latitude": "41.76968282994656", "type": "property", "description": "PURSE-SNATCHING", "beat": "0723", "date": {"$date": 1369431000000}, "ward": "17", "_id": {"$oid": "51aa138d3c002ed20d78ae89"}, "iucr": "880", "longitude": "-87.64709846512027", "location_description": "STREET", "x_coordinate": "1171449", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "068XX S PEORIA ST"}
+{
+    "y_coordinate": "1859410", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290365", 
+    "id": "9145047", 
+    "primary_type": "THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64709846512027, 
+            41.76968282994656
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.76968282994656", 
+    "type": "property", 
+    "description": "PURSE-SNATCHING", 
+    "beat": "0723", 
+    "date": {
+        "$date": 1369431000000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78ae89"
+    }, 
+    "iucr": "880", 
+    "longitude": "-87.64709846512027", 
+    "location_description": "STREET", 
+    "x_coordinate": "1171449", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "068XX S PEORIA ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1893668", "year": "2013", "domestic": false, "case_number": "HW300917", "id": "9155294", "primary_type": "OTHER OFFENSE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66133214987498, 41.863780336234846]}, "community_area": "28", "latitude": "41.863780336234846", "type": null, "description": "OTHER VEHICLE OFFENSE", "beat": "1233", "date": {"$date": 1370161800000}, "ward": "2", "_id": {"$oid": "51b5f11c3c002ed20d78ce2b"}, "iucr": "5002", "longitude": "-87.66133214987498", "location_description": "STREET", "x_coordinate": "1167298", "updated_on": {"$date": 1370392932000}, "fbi_code": "26", "block": "013XX S LOOMIS ST"}
+{
+    "y_coordinate": "1893668", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300917", 
+    "id": "9155294", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66133214987498, 
+            41.863780336234846
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.863780336234846", 
+    "type": null, 
+    "description": "OTHER VEHICLE OFFENSE", 
+    "beat": "1233", 
+    "date": {
+        "$date": 1370161800000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce2b"
+    }, 
+    "iucr": "5002", 
+    "longitude": "-87.66133214987498", 
+    "location_description": "STREET", 
+    "x_coordinate": "1167298", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "26", 
+    "block": "013XX S LOOMIS ST"
+}

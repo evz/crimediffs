@@ -1,1 +1,38 @@
-{"y_coordinate": "1859026", "year": "2013", "domestic": false, "case_number": "HW289378", "id": "9144241", "primary_type": "CRIMINAL DAMAGE", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66405896766315, 41.76872907435348]}, "community_area": "67", "latitude": "41.76872907435348", "type": "quality", "description": "TO PROPERTY", "beat": "0725", "date": {"$date": 1369411200000}, "ward": "17", "_id": {"$oid": "51aa13903c002ed20d78afa2"}, "iucr": "1310", "longitude": "-87.66405896766315", "location_description": "CURRENCY EXCHANGE", "x_coordinate": "1166825", "updated_on": {"$date": 1369615194000}, "fbi_code": "14", "block": "068XX S ASHLAND AVE"}
+{
+    "y_coordinate": "1859026", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289378", 
+    "id": "9144241", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66405896766315, 
+            41.76872907435348
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.76872907435348", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0725", 
+    "date": {
+        "$date": 1369411200000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78afa2"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.66405896766315", 
+    "location_description": "CURRENCY EXCHANGE", 
+    "x_coordinate": "1166825", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "14", 
+    "block": "068XX S ASHLAND AVE"
+}

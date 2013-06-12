@@ -1,1 +1,38 @@
-{"y_coordinate": "1837976", "year": "2013", "domestic": false, "case_number": "HW303401", "id": "9157914", "primary_type": "WEAPONS VIOLATION", "district": "022", "arrest": true, "location": {"type": "Point", "coordinates": [-87.65623904775484, 41.71091550843637]}, "community_area": "73", "latitude": "41.71091550843637", "type": null, "description": "UNLAWFUL POSS OF HANDGUN", "beat": "2213", "date": {"$date": 1370301480000}, "ward": "21", "_id": {"$oid": "51b742963c002ed20d78d224"}, "iucr": "143A", "longitude": "-87.65623904775484", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1169124", "updated_on": {"$date": 1370479286000}, "fbi_code": "15", "block": "101XX S WINSTON AVE"}
+{
+    "y_coordinate": "1837976", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303401", 
+    "id": "9157914", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "022", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65623904775484, 
+            41.71091550843637
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.71091550843637", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "2213", 
+    "date": {
+        "$date": 1370301480000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b742963c002ed20d78d224"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.65623904775484", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1169124", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "15", 
+    "block": "101XX S WINSTON AVE"
+}

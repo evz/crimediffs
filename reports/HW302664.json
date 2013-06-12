@@ -1,1 +1,38 @@
-{"y_coordinate": "1889377", "year": "2013", "domestic": false, "case_number": "HW302664", "id": "9157464", "primary_type": "ASSAULT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68518371235685, 41.852141815106876]}, "community_area": "31", "latitude": "41.852141815106876", "type": null, "description": "SIMPLE", "beat": "1234", "date": {"$date": 1370268000000}, "ward": "25", "_id": {"$oid": "51b7429c3c002ed20d78d3f0"}, "iucr": "560", "longitude": "-87.68518371235685", "location_description": "RESTAURANT", "x_coordinate": "1160833", "updated_on": {"$date": 1370479286000}, "fbi_code": "08A", "block": "023XX W CERMAK RD"}
+{
+    "y_coordinate": "1889377", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302664", 
+    "id": "9157464", 
+    "primary_type": "ASSAULT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68518371235685, 
+            41.852141815106876
+        ]
+    }, 
+    "community_area": "31", 
+    "latitude": "41.852141815106876", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1234", 
+    "date": {
+        "$date": 1370268000000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51b7429c3c002ed20d78d3f0"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.68518371235685", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1160833", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08A", 
+    "block": "023XX W CERMAK RD"
+}

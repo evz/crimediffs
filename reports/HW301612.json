@@ -1,1 +1,38 @@
-{"y_coordinate": "1904713", "year": "2013", "domestic": false, "case_number": "HW301612", "id": "9155861", "primary_type": "NARCOTICS", "district": "018", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62408241173291, 41.893866502922364]}, "community_area": "8", "latitude": "41.893866502922364", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1834", "date": {"$date": 1370202060000}, "ward": "42", "_id": {"$oid": "51b5f1183c002ed20d78cc90"}, "iucr": "1811", "longitude": "-87.62408241173291", "location_description": "STREET", "x_coordinate": "1177354", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "006XX N MICHIGAN AVE"}
+{
+    "y_coordinate": "1904713", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301612", 
+    "id": "9155861", 
+    "primary_type": "NARCOTICS", 
+    "district": "018", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62408241173291, 
+            41.893866502922364
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.893866502922364", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1834", 
+    "date": {
+        "$date": 1370202060000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b5f1183c002ed20d78cc90"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.62408241173291", 
+    "location_description": "STREET", 
+    "x_coordinate": "1177354", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "006XX N MICHIGAN AVE"
+}

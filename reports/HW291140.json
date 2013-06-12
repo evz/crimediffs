@@ -1,1 +1,38 @@
-{"y_coordinate": "1942305", "year": "2013", "domestic": true, "case_number": "HW291140", "id": "9145734", "primary_type": "BATTERY", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70828157566199, 41.997516262678616]}, "community_area": "2", "latitude": "41.997516262678616", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "2412", "date": {"$date": 1369535100000}, "ward": "50", "_id": {"$oid": "51b34a0c3c002ed20d78c84b"}, "iucr": "486", "longitude": "-87.70828157566199", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1154154", "updated_on": {"$date": 1370047283000}, "fbi_code": "08B", "block": "031XX W DEVON AVE"}
+{
+    "y_coordinate": "1942305", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW291140", 
+    "id": "9145734", 
+    "primary_type": "BATTERY", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70828157566199, 
+            41.997516262678616
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "41.997516262678616", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "2412", 
+    "date": {
+        "$date": 1369535100000
+    }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51b34a0c3c002ed20d78c84b"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.70828157566199", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1154154", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "08B", 
+    "block": "031XX W DEVON AVE"
+}

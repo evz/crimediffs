@@ -1,1 +1,38 @@
-{"y_coordinate": "1857513", "year": "2013", "domestic": false, "case_number": "HW284748", "id": "9139589", "primary_type": "THEFT", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.68867053078596, 41.764717684713105]}, "community_area": "66", "latitude": "41.764717684713105", "type": "property", "description": "RETAIL THEFT", "beat": "0831", "date": {"$date": 1369151700000}, "ward": "18", "_id": {"$oid": "51a61f0c3c002ed20d78a84f"}, "iucr": "860", "longitude": "-87.68867053078596", "location_description": "DEPARTMENT STORE", "x_coordinate": "1160122", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "026XX W 71ST ST"}
+{
+    "y_coordinate": "1857513", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284748", 
+    "id": "9139589", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68867053078596, 
+            41.764717684713105
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.764717684713105", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0831", 
+    "date": {
+        "$date": 1369151700000
+    }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51a61f0c3c002ed20d78a84f"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.68867053078596", 
+    "location_description": "DEPARTMENT STORE", 
+    "x_coordinate": "1160122", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "026XX W 71ST ST"
+}

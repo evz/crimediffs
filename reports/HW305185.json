@@ -1,1 +1,38 @@
-{"y_coordinate": "1933639", "year": "2013", "domestic": false, "case_number": "HW305185", "id": "9160020", "primary_type": "WEAPONS VIOLATION", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65442923325513, 41.973429207644465]}, "community_area": "3", "latitude": "41.973429207644465", "type": null, "description": "RECKLESS FIREARM DISCHARGE", "beat": "2024", "date": {"$date": 1369531800000}, "ward": "48", "_id": {"$oid": "51b34a0d3c002ed20d78c86a"}, "iucr": "1477", "longitude": "-87.65442923325513", "location_description": "SIDEWALK", "x_coordinate": "1168862", "updated_on": {"$date": 1370565766000}, "fbi_code": "15", "block": "009XX W ARGYLE ST"}
+{
+    "y_coordinate": "1933639", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW305185", 
+    "id": "9160020", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65442923325513, 
+            41.973429207644465
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.973429207644465", 
+    "type": null, 
+    "description": "RECKLESS FIREARM DISCHARGE", 
+    "beat": "2024", 
+    "date": {
+        "$date": 1369531800000
+    }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c86a"
+    }, 
+    "iucr": "1477", 
+    "longitude": "-87.65442923325513", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1168862", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "15", 
+    "block": "009XX W ARGYLE ST"
+}

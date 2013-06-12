@@ -1,1 +1,38 @@
-{"y_coordinate": "1903845", "year": "2013", "domestic": false, "case_number": "HW303344", "id": "9157854", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.7090104221556, 41.89197763711997]}, "community_area": "23", "latitude": "41.89197763711997", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1121", "date": {"$date": 1370297940000}, "ward": "27", "_id": {"$oid": "51b742973c002ed20d78d248"}, "iucr": "1811", "longitude": "-87.7090104221556", "location_description": "STREET", "x_coordinate": "1154236", "updated_on": {"$date": 1370738354000}, "fbi_code": "18", "block": "033XX W OHIO ST"}
+{
+    "y_coordinate": "1903845", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303344", 
+    "id": "9157854", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7090104221556, 
+            41.89197763711997
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.89197763711997", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1121", 
+    "date": {
+        "$date": 1370297940000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b742973c002ed20d78d248"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.7090104221556", 
+    "location_description": "STREET", 
+    "x_coordinate": "1154236", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "18", 
+    "block": "033XX W OHIO ST"
+}

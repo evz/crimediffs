@@ -1,1 +1,38 @@
-{"y_coordinate": "1847161", "year": "2013", "domestic": false, "case_number": "HW287856", "id": "9142901", "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", "district": "022", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64376711892801, 41.736047904084955]}, "community_area": "71", "latitude": "41.736047904084955", "type": null, "description": "RESIST/OBSTRUCT/DISARM OFFICER", "beat": "2223", "date": {"$date": 1369323660000}, "ward": "21", "_id": {"$oid": "51aa13963c002ed20d78b2d4"}, "iucr": "3710", "longitude": "-87.64376711892801", "location_description": "STREET", "x_coordinate": "1172456", "updated_on": {"$date": 1369528777000}, "fbi_code": "24", "block": "086XX S HALSTED ST"}
+{
+    "y_coordinate": "1847161", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287856", 
+    "id": "9142901", 
+    "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", 
+    "district": "022", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64376711892801, 
+            41.736047904084955
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.736047904084955", 
+    "type": null, 
+    "description": "RESIST/OBSTRUCT/DISARM OFFICER", 
+    "beat": "2223", 
+    "date": {
+        "$date": 1369323660000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b2d4"
+    }, 
+    "iucr": "3710", 
+    "longitude": "-87.64376711892801", 
+    "location_description": "STREET", 
+    "x_coordinate": "1172456", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "24", 
+    "block": "086XX S HALSTED ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1847090", "year": "2013", "domestic": false, "case_number": "HW286190", "id": "9141162", "primary_type": "DECEPTIVE PRACTICE", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64913275289359, 41.735885133478334]}, "community_area": "71", "latitude": "41.735885133478334", "type": null, "description": "THEFT BY LESSEE,MOTOR VEH", "beat": "2222", "date": {"$date": 1369224000000}, "ward": "21", "_id": {"$oid": "51a7708c3c002ed20d78ac84"}, "iucr": "1206", "longitude": "-87.64913275289359", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1170992", "updated_on": {"$date": 1369442383000}, "fbi_code": "11", "block": "010XX W 87TH ST"}
+{
+    "y_coordinate": "1847090", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286190", 
+    "id": "9141162", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64913275289359, 
+            41.735885133478334
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.735885133478334", 
+    "type": null, 
+    "description": "THEFT BY LESSEE,MOTOR VEH", 
+    "beat": "2222", 
+    "date": {
+        "$date": 1369224000000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac84"
+    }, 
+    "iucr": "1206", 
+    "longitude": "-87.64913275289359", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1170992", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "11", 
+    "block": "010XX W 87TH ST"
+}

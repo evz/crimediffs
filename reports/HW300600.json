@@ -1,1 +1,38 @@
-{"y_coordinate": "1857551", "year": "2013", "domestic": false, "case_number": "HW300600", "id": "9154996", "primary_type": "CRIMINAL DAMAGE", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.67122267884237, 41.76472274143056]}, "community_area": "67", "latitude": "41.76472274143056", "type": "quality", "description": "TO CITY OF CHICAGO PROPERTY", "beat": "0735", "date": {"$date": 1370125260000}, "ward": "17", "_id": {"$oid": "51b5f11e3c002ed20d78cf4d"}, "iucr": "1345", "longitude": "-87.67122267884237", "location_description": "STREET", "x_coordinate": "1164882", "updated_on": {"$date": 1370306580000}, "fbi_code": "14", "block": "019XX W 71ST ST"}
+{
+    "y_coordinate": "1857551", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300600", 
+    "id": "9154996", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67122267884237, 
+            41.76472274143056
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.76472274143056", 
+    "type": "quality", 
+    "description": "TO CITY OF CHICAGO PROPERTY", 
+    "beat": "0735", 
+    "date": {
+        "$date": 1370125260000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf4d"
+    }, 
+    "iucr": "1345", 
+    "longitude": "-87.67122267884237", 
+    "location_description": "STREET", 
+    "x_coordinate": "1164882", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "14", 
+    "block": "019XX W 71ST ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1905804", "year": "2013", "domestic": false, "case_number": "HW289356", "id": "9144365", "primary_type": "MOTOR VEHICLE THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71649483913849, 41.89739405212781]}, "community_area": "23", "latitude": "41.89739405212781", "type": "property", "description": "AUTOMOBILE", "beat": "1112", "date": {"$date": 1369364400000}, "ward": "27", "_id": {"$oid": "51aa13943c002ed20d78b14a"}, "iucr": "910", "longitude": "-87.71649483913849", "location_description": "STREET", "x_coordinate": "1152184", "updated_on": {"$date": 1370479286000}, "fbi_code": "07", "block": "036XX W IOWA ST"}
+{
+    "y_coordinate": "1905804", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289356", 
+    "id": "9144365", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71649483913849, 
+            41.89739405212781
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.89739405212781", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1112", 
+    "date": {
+        "$date": 1369364400000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b14a"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.71649483913849", 
+    "location_description": "STREET", 
+    "x_coordinate": "1152184", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "07", 
+    "block": "036XX W IOWA ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1859936", "year": "2013", "domestic": false, "case_number": "HW301704", "id": "9155959", "primary_type": "NARCOTICS", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.61070187829866, 41.77090316239343]}, "community_area": "42", "latitude": "41.77090316239343", "type": "quality", "description": "POSS: HEROIN(BRN/TAN)", "beat": "0321", "date": {"$date": 1370205780000}, "ward": "20", "_id": {"$oid": "51b5f1173c002ed20d78cc65"}, "iucr": "2023", "longitude": "-87.61070187829866", "location_description": "STREET", "x_coordinate": "1181374", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "068XX S ST LAWRENCE AVE"}
+{
+    "y_coordinate": "1859936", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301704", 
+    "id": "9155959", 
+    "primary_type": "NARCOTICS", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61070187829866, 
+            41.77090316239343
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.77090316239343", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(BRN/TAN)", 
+    "beat": "0321", 
+    "date": {
+        "$date": 1370205780000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51b5f1173c002ed20d78cc65"
+    }, 
+    "iucr": "2023", 
+    "longitude": "-87.61070187829866", 
+    "location_description": "STREET", 
+    "x_coordinate": "1181374", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "068XX S ST LAWRENCE AVE"
+}

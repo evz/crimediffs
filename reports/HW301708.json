@@ -1,1 +1,33 @@
-{"community_area": "24", "_id": {"$oid": "51b5f11c3c002ed20d78ce50"}, "primary_type": "BURGLARY", "beat": "1423", "year": "2013", "domestic": false, "iucr": "620", "arrest": false, "location_description": "APARTMENT", "location": {"type": "Point", "coordinates": [-87.69471233012929, 41.90487926026722]}, "case_number": "HW301708", "date": {"$date": 1370154600000}, "updated_on": {"$date": 1370738354000}, "ward": "26", "fbi_code": "05", "type": "property", "id": "9162777", "block": "027XX W POTOMAC AVE", "description": "UNLAWFUL ENTRY"}
+{
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce50"
+    }, 
+    "primary_type": "BURGLARY", 
+    "year": "2013", 
+    "beat": "1423", 
+    "case_number": "HW301708", 
+    "domestic": false, 
+    "iucr": "620", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69471233012929, 
+            41.90487926026722
+        ]
+    }, 
+    "community_area": "24", 
+    "date": {
+        "$date": 1370154600000
+    }, 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "ward": "26", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9162777", 
+    "block": "027XX W POTOMAC AVE", 
+    "description": "UNLAWFUL ENTRY"
+}

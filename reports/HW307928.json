@@ -1,1 +1,38 @@
-{"y_coordinate": "1835561", "year": "2013", "domestic": false, "case_number": "HW307928", "id": "9163066", "primary_type": "OTHER OFFENSE", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64852717875435, 41.704242263405064]}, "community_area": "73", "latitude": "41.704242263405064", "type": null, "description": "HARASSMENT BY ELECTRONIC MEANS", "beat": "2232", "date": {"$date": 1370008800000}, "ward": "34", "_id": {"$oid": "51b349c83c002ed20d78b749"}, "iucr": "2826", "longitude": "-87.64852717875435", "location_description": "RESIDENCE", "x_coordinate": "1171249", "updated_on": {"$date": 1370911182000}, "fbi_code": "26", "block": "010XX W 104TH PL"}
+{
+    "y_coordinate": "1835561", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW307928", 
+    "id": "9163066", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64852717875435, 
+            41.704242263405064
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.704242263405064", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "2232", 
+    "date": {
+        "$date": 1370008800000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b349c83c002ed20d78b749"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.64852717875435", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1171249", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "26", 
+    "block": "010XX W 104TH PL"
+}

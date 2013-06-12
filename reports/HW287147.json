@@ -1,1 +1,38 @@
-{"y_coordinate": "1915530", "year": "2013", "domestic": false, "case_number": "HW287147", "id": "9142073", "primary_type": "MOTOR VEHICLE THEFT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.79541883864587, 41.92448133143052]}, "community_area": "18", "latitude": "41.92448133143052", "type": "property", "description": "AUTOMOBILE", "beat": "2512", "date": {"$date": 1369254600000}, "ward": "36", "_id": {"$oid": "51a770893c002ed20d78aaee"}, "iucr": "910", "longitude": "-87.79541883864587", "location_description": "STREET", "x_coordinate": "1130635", "updated_on": {"$date": 1369442383000}, "fbi_code": "07", "block": "024XX N OAK PARK AVE"}
+{
+    "y_coordinate": "1915530", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287147", 
+    "id": "9142073", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.79541883864587, 
+            41.92448133143052
+        ]
+    }, 
+    "community_area": "18", 
+    "latitude": "41.92448133143052", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "2512", 
+    "date": {
+        "$date": 1369254600000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51a770893c002ed20d78aaee"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.79541883864587", 
+    "location_description": "STREET", 
+    "x_coordinate": "1130635", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "07", 
+    "block": "024XX N OAK PARK AVE"
+}

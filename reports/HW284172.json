@@ -1,1 +1,38 @@
-{"y_coordinate": "1858594", "year": "2013", "domestic": false, "case_number": "HW284172", "id": "9138883", "primary_type": "MOTOR VEHICLE THEFT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65767143380492, 41.767506150041825]}, "community_area": "67", "latitude": "41.767506150041825", "type": "property", "description": "AUTOMOBILE", "beat": "0734", "date": {"$date": 1369101600000}, "ward": "17", "_id": {"$oid": "51a4cd8a3c002ed20d78a306"}, "iucr": "910", "longitude": "-87.65767143380492", "location_description": "STREET", "x_coordinate": "1168571", "updated_on": {"$date": 1369701613000}, "fbi_code": "07", "block": "069XX S ADA ST"}
+{
+    "y_coordinate": "1858594", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284172", 
+    "id": "9138883", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65767143380492, 
+            41.767506150041825
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.767506150041825", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0734", 
+    "date": {
+        "$date": 1369101600000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51a4cd8a3c002ed20d78a306"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.65767143380492", 
+    "location_description": "STREET", 
+    "x_coordinate": "1168571", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "07", 
+    "block": "069XX S ADA ST"
+}

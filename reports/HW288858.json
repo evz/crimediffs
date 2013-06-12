@@ -1,1 +1,38 @@
-{"y_coordinate": "1835225", "year": "2013", "domestic": false, "case_number": "HW288858", "id": "9143854", "primary_type": "THEFT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61228553848875, 41.70309848571583]}, "community_area": "49", "latitude": "41.70309848571583", "type": "property", "description": "$500 AND UNDER", "beat": "0512", "date": {"$date": 1369342800000}, "ward": "9", "_id": {"$oid": "51aa13953c002ed20d78b1ef"}, "iucr": "820", "longitude": "-87.61228553848875", "location_description": "STREET", "x_coordinate": "1181149", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "105XX S VERNON AVE"}
+{
+    "y_coordinate": "1835225", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288858", 
+    "id": "9143854", 
+    "primary_type": "THEFT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61228553848875, 
+            41.70309848571583
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.70309848571583", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0512", 
+    "date": {
+        "$date": 1369342800000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b1ef"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.61228553848875", 
+    "location_description": "STREET", 
+    "x_coordinate": "1181149", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "105XX S VERNON AVE"
+}

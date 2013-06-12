@@ -1,1 +1,38 @@
-{"y_coordinate": "1860692", "year": "2013", "domestic": true, "case_number": "HW291080", "id": "9145614", "primary_type": "BATTERY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.57417567275847, 41.772742290542425]}, "community_area": "43", "latitude": "41.772742290542425", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0331", "date": {"$date": 1369530000000}, "ward": "5", "_id": {"$oid": "51b34a0d3c002ed20d78c876"}, "iucr": "486", "longitude": "-87.57417567275847", "location_description": "APARTMENT", "x_coordinate": "1191332", "updated_on": {"$date": 1370047283000}, "fbi_code": "08B", "block": "067XX S CLYDE AVE"}
+{
+    "y_coordinate": "1860692", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW291080", 
+    "id": "9145614", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57417567275847, 
+            41.772742290542425
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.772742290542425", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0331", 
+    "date": {
+        "$date": 1369530000000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c876"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.57417567275847", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1191332", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "08B", 
+    "block": "067XX S CLYDE AVE"
+}

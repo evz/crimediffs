@@ -1,1 +1,38 @@
-{"y_coordinate": "1930155", "year": "2013", "domestic": false, "case_number": "HW300829", "id": "9155393", "primary_type": "ROBBERY", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66084725505837, 41.963906179534746]}, "community_area": "3", "latitude": "41.963906179534746", "type": "violent", "description": "ARMED: HANDGUN", "beat": "1913", "date": {"$date": 1370149800000}, "ward": "46", "_id": {"$oid": "51b5f11c3c002ed20d78ce62"}, "iucr": "031A", "longitude": "-87.66084725505837", "location_description": "ALLEY", "x_coordinate": "1167144", "updated_on": {"$date": 1370738354000}, "fbi_code": "03", "block": "045XX N MAGNOLIA AVE"}
+{
+    "y_coordinate": "1930155", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300829", 
+    "id": "9155393", 
+    "primary_type": "ROBBERY", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66084725505837, 
+            41.963906179534746
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.963906179534746", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "1913", 
+    "date": {
+        "$date": 1370149800000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce62"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.66084725505837", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1167144", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "03", 
+    "block": "045XX N MAGNOLIA AVE"
+}

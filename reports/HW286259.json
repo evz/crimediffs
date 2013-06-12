@@ -1,1 +1,38 @@
-{"y_coordinate": "1910813", "year": "2013", "domestic": false, "case_number": "HW286259", "id": "9141436", "primary_type": "THEFT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65079890584967, 41.91076823053564]}, "community_area": "8", "latitude": "41.91076823053564", "type": "property", "description": "RETAIL THEFT", "beat": "1822", "date": {"$date": 1369236600000}, "ward": "43", "_id": {"$oid": "51a7708b3c002ed20d78abc7"}, "iucr": "860", "longitude": "-87.65079890584967", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1170031", "updated_on": {"$date": 1370824784000}, "fbi_code": "06", "block": "008XX W NORTH AVE"}
+{
+    "y_coordinate": "1910813", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286259", 
+    "id": "9141436", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65079890584967, 
+            41.91076823053564
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.91076823053564", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "1822", 
+    "date": {
+        "$date": 1369236600000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78abc7"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.65079890584967", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1170031", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "06", 
+    "block": "008XX W NORTH AVE"
+}

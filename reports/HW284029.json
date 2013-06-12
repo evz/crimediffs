@@ -1,1 +1,38 @@
-{"y_coordinate": "1898850", "year": "2013", "domestic": false, "case_number": "HW284029", "id": "9138676", "primary_type": "WEAPONS VIOLATION", "district": "015", "arrest": true, "location": {"type": "Point", "coordinates": [-87.75905856794336, 41.878531305902335]}, "community_area": "25", "latitude": "41.878531305902335", "type": null, "description": "UNLAWFUL POSS OF HANDGUN", "beat": "1522", "date": {"$date": 1369121400000}, "ward": "29", "_id": {"$oid": "51a61f103c002ed20d78a9af"}, "iucr": "143A", "longitude": "-87.75905856794336", "location_description": "APARTMENT", "x_coordinate": "1140642", "updated_on": {"$date": 1369269615000}, "fbi_code": "15", "block": "053XX W ADAMS ST"}
+{
+    "y_coordinate": "1898850", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284029", 
+    "id": "9138676", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75905856794336, 
+            41.878531305902335
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.878531305902335", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "1522", 
+    "date": {
+        "$date": 1369121400000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51a61f103c002ed20d78a9af"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.75905856794336", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1140642", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "15", 
+    "block": "053XX W ADAMS ST"
+}

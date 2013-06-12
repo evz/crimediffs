@@ -1,1 +1,38 @@
-{"y_coordinate": "1851265", "year": "2013", "domestic": false, "case_number": "HW288385", "id": "9158270", "primary_type": "NARCOTICS", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65472007437816, 41.74737576206303]}, "community_area": "71", "latitude": "41.74737576206303", "type": "quality", "description": "POSS: CANNABIS MORE THAN 30GMS", "beat": "0612", "date": {"$date": 1369350882000}, "ward": "21", "_id": {"$oid": "51b34a183c002ed20d78cb4e"}, "iucr": "1812", "longitude": "-87.65472007437816", "location_description": "RESIDENCE", "x_coordinate": "1169434", "updated_on": {"$date": 1370479286000}, "fbi_code": "18", "block": "080XX S ELIZABETH ST"}
+{
+    "y_coordinate": "1851265", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288385", 
+    "id": "9158270", 
+    "primary_type": "NARCOTICS", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65472007437816, 
+            41.74737576206303
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.74737576206303", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS MORE THAN 30GMS", 
+    "beat": "0612", 
+    "date": {
+        "$date": 1369350882000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b34a183c002ed20d78cb4e"
+    }, 
+    "iucr": "1812", 
+    "longitude": "-87.65472007437816", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1169434", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "18", 
+    "block": "080XX S ELIZABETH ST"
+}

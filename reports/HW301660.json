@@ -1,1 +1,38 @@
-{"y_coordinate": "1942757", "year": "2013", "domestic": false, "case_number": "HW301660", "id": "9155961", "primary_type": "ASSAULT", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66566652621734, 41.99851668304363]}, "community_area": "1", "latitude": "41.99851668304363", "type": null, "description": "SIMPLE", "beat": "2432", "date": {"$date": 1370196000000}, "ward": "40", "_id": {"$oid": "51b5f1193c002ed20d78cce2"}, "iucr": "560", "longitude": "-87.66566652621734", "location_description": "APARTMENT", "x_coordinate": "1165735", "updated_on": {"$date": 1370392932000}, "fbi_code": "08A", "block": "064XX N GLENWOOD AVE"}
+{
+    "y_coordinate": "1942757", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301660", 
+    "id": "9155961", 
+    "primary_type": "ASSAULT", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66566652621734, 
+            41.99851668304363
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "41.99851668304363", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2432", 
+    "date": {
+        "$date": 1370196000000
+    }, 
+    "ward": "40", 
+    "_id": {
+        "$oid": "51b5f1193c002ed20d78cce2"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.66566652621734", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1165735", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "08A", 
+    "block": "064XX N GLENWOOD AVE"
+}

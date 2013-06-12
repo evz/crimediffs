@@ -1,1 +1,38 @@
-{"y_coordinate": "1902676", "year": "2013", "domestic": false, "case_number": "HW290294", "id": "9145108", "primary_type": "BURGLARY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75835491739956, 41.88902728097084]}, "community_area": "25", "latitude": "41.88902728097084", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "1523", "date": {"$date": 1369479840000}, "ward": "37", "_id": {"$oid": "51b34a113c002ed20d78cab4"}, "iucr": "620", "longitude": "-87.75835491739956", "location_description": "ABANDONED BUILDING", "x_coordinate": "1140808", "updated_on": {"$date": 1369787985000}, "fbi_code": "05", "block": "053XX W FERDINAND ST"}
+{
+    "y_coordinate": "1902676", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290294", 
+    "id": "9145108", 
+    "primary_type": "BURGLARY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75835491739956, 
+            41.88902728097084
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.88902728097084", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "1523", 
+    "date": {
+        "$date": 1369479840000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78cab4"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.75835491739956", 
+    "location_description": "ABANDONED BUILDING", 
+    "x_coordinate": "1140808", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "05", 
+    "block": "053XX W FERDINAND ST"
+}

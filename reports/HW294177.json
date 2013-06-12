@@ -1,1 +1,38 @@
-{"y_coordinate": "1926558", "year": "2013", "domestic": false, "case_number": "HW294177", "id": "9148302", "primary_type": "CRIMINAL DAMAGE", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71991257763688, 41.95436604111939]}, "community_area": "16", "latitude": "41.95436604111939", "type": "quality", "description": "TO VEHICLE", "beat": "1723", "date": {"$date": 1369468800000}, "ward": "33", "_id": {"$oid": "51b34a123c002ed20d78cb04"}, "iucr": "1320", "longitude": "-87.71991257763688", "location_description": "STREET", "x_coordinate": "1151105", "updated_on": {"$date": 1369960832000}, "fbi_code": "14", "block": "040XX N ELSTON AVE"}
+{
+    "y_coordinate": "1926558", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW294177", 
+    "id": "9148302", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71991257763688, 
+            41.95436604111939
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.95436604111939", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1723", 
+    "date": {
+        "$date": 1369468800000
+    }, 
+    "ward": "33", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cb04"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.71991257763688", 
+    "location_description": "STREET", 
+    "x_coordinate": "1151105", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "14", 
+    "block": "040XX N ELSTON AVE"
+}

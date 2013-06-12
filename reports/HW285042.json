@@ -1,1 +1,38 @@
-{"y_coordinate": "1847427", "year": "2013", "domestic": false, "case_number": "HW285042", "id": "9139823", "primary_type": "THEFT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.61519375040486, 41.73660285970452]}, "community_area": "44", "latitude": "41.73660285970452", "type": "property", "description": "RETAIL THEFT", "beat": "0632", "date": {"$date": 1369164600000}, "ward": "6", "_id": {"$oid": "51a61f0a3c002ed20d78a786"}, "iucr": "860", "longitude": "-87.61519375040486", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1180253", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "003XX E 87TH ST"}
+{
+    "y_coordinate": "1847427", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285042", 
+    "id": "9139823", 
+    "primary_type": "THEFT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61519375040486, 
+            41.73660285970452
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.73660285970452", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0632", 
+    "date": {
+        "$date": 1369164600000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a786"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.61519375040486", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1180253", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "003XX E 87TH ST"
+}

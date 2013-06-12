@@ -1,1 +1,38 @@
-{"y_coordinate": "1851084", "year": "2013", "domestic": false, "case_number": "HW290481", "id": "9145138", "primary_type": "THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58600651867926, 41.74645265591839]}, "community_area": "45", "latitude": "41.74645265591839", "type": "property", "description": "FROM BUILDING", "beat": "0411", "date": {"$date": 1369472400000}, "ward": "8", "_id": {"$oid": "51b34a123c002ed20d78caf1"}, "iucr": "890", "longitude": "-87.58600651867926", "location_description": "LIBRARY", "x_coordinate": "1188188", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "081XX S STONY ISLAND AVE"}
+{
+    "y_coordinate": "1851084", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290481", 
+    "id": "9145138", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58600651867926, 
+            41.74645265591839
+        ]
+    }, 
+    "community_area": "45", 
+    "latitude": "41.74645265591839", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0411", 
+    "date": {
+        "$date": 1369472400000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78caf1"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.58600651867926", 
+    "location_description": "LIBRARY", 
+    "x_coordinate": "1188188", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "081XX S STONY ISLAND AVE"
+}

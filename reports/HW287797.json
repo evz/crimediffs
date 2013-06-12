@@ -1,1 +1,38 @@
-{"y_coordinate": "1855897", "year": "2013", "domestic": false, "case_number": "HW287797", "id": "9142906", "primary_type": "MOTOR VEHICLE THEFT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65141227327256, 41.76006779414828]}, "community_area": "68", "latitude": "41.76006779414828", "type": "property", "description": "AUTOMOBILE", "beat": "0733", "date": {"$date": 1369267200000}, "ward": "17", "_id": {"$oid": "51a770873c002ed20d78aa52"}, "iucr": "910", "longitude": "-87.65141227327256", "location_description": "STREET", "x_coordinate": "1170300", "updated_on": {"$date": 1370392932000}, "fbi_code": "07", "block": "073XX S ABERDEEN ST"}
+{
+    "y_coordinate": "1855897", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287797", 
+    "id": "9142906", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65141227327256, 
+            41.76006779414828
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.76006779414828", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0733", 
+    "date": {
+        "$date": 1369267200000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51a770873c002ed20d78aa52"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.65141227327256", 
+    "location_description": "STREET", 
+    "x_coordinate": "1170300", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "07", 
+    "block": "073XX S ABERDEEN ST"
+}

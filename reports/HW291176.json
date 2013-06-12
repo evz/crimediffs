@@ -1,1 +1,38 @@
-{"y_coordinate": "1922314", "year": "2013", "domestic": true, "case_number": "HW291176", "id": "9145672", "primary_type": "BATTERY", "district": "016", "arrest": true, "location": {"type": "Point", "coordinates": [-87.78640428231125, 41.943055579477026]}, "community_area": "17", "latitude": "41.943055579477026", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1632", "date": {"$date": 1369538940000}, "ward": "36", "_id": {"$oid": "51b34a0c3c002ed20d78c833"}, "iucr": "486", "longitude": "-87.78640428231125", "location_description": "RESIDENCE", "x_coordinate": "1133045", "updated_on": {"$date": 1369787985000}, "fbi_code": "08B", "block": "034XX N NARRAGANSETT AVE"}
+{
+    "y_coordinate": "1922314", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW291176", 
+    "id": "9145672", 
+    "primary_type": "BATTERY", 
+    "district": "016", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78640428231125, 
+            41.943055579477026
+        ]
+    }, 
+    "community_area": "17", 
+    "latitude": "41.943055579477026", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1632", 
+    "date": {
+        "$date": 1369538940000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51b34a0c3c002ed20d78c833"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.78640428231125", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1133045", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "08B", 
+    "block": "034XX N NARRAGANSETT AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1923410", "year": "2013", "domestic": false, "case_number": "HW285693", "id": "9140344", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65110296840494, 41.945338997271165]}, "community_area": "6", "latitude": "41.945338997271165", "type": "property", "description": "FROM COIN-OP MACHINE/DEVICE", "beat": "1924", "date": {"$date": 1369180860000}, "ward": "44", "_id": {"$oid": "51a61f073c002ed20d78a6c3"}, "iucr": "895", "longitude": "-87.65110296840494", "location_description": "RESIDENCE", "x_coordinate": "1169848", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "008XX W CORNELIA AVE"}
+{
+    "y_coordinate": "1923410", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285693", 
+    "id": "9140344", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65110296840494, 
+            41.945338997271165
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.945338997271165", 
+    "type": "property", 
+    "description": "FROM COIN-OP MACHINE/DEVICE", 
+    "beat": "1924", 
+    "date": {
+        "$date": 1369180860000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51a61f073c002ed20d78a6c3"
+    }, 
+    "iucr": "895", 
+    "longitude": "-87.65110296840494", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1169848", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "008XX W CORNELIA AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1866051", "year": "2013", "domestic": false, "case_number": "HW288180", "id": "9143220", "primary_type": "NARCOTICS", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.7416904231891, 41.78843377232491]}, "community_area": "56", "latitude": "41.78843377232491", "type": "quality", "description": "FORFEIT PROPERTY", "beat": "0813", "date": {"$date": 1369338240000}, "ward": "23", "_id": {"$oid": "51aa13953c002ed20d78b227"}, "iucr": "2091", "longitude": "-87.7416904231891", "location_description": "AIRPORT TERMINAL UPPER LEVEL - SECURE AREA", "x_coordinate": "1145598", "updated_on": {"$date": 1369528777000}, "fbi_code": "26", "block": "0000X S CHECKPOINT ST"}
+{
+    "y_coordinate": "1866051", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288180", 
+    "id": "9143220", 
+    "primary_type": "NARCOTICS", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7416904231891, 
+            41.78843377232491
+        ]
+    }, 
+    "community_area": "56", 
+    "latitude": "41.78843377232491", 
+    "type": "quality", 
+    "description": "FORFEIT PROPERTY", 
+    "beat": "0813", 
+    "date": {
+        "$date": 1369338240000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b227"
+    }, 
+    "iucr": "2091", 
+    "longitude": "-87.7416904231891", 
+    "location_description": "AIRPORT TERMINAL UPPER LEVEL - SECURE AREA", 
+    "x_coordinate": "1145598", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "26", 
+    "block": "0000X S CHECKPOINT ST"
+}

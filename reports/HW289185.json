@@ -1,1 +1,38 @@
-{"y_coordinate": "1875807", "year": "2013", "domestic": false, "case_number": "HW289185", "id": "9144210", "primary_type": "BATTERY", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66863079206806, 41.81480749914071]}, "community_area": "61", "latitude": "41.81480749914071", "type": null, "description": "SIMPLE", "beat": "0924", "date": {"$date": 1369409700000}, "ward": "12", "_id": {"$oid": "51aa13903c002ed20d78afb1"}, "iucr": "460", "longitude": "-87.66863079206806", "location_description": "SIDEWALK", "x_coordinate": "1165448", "updated_on": {"$date": 1369615194000}, "fbi_code": "08B", "block": "043XX S HERMITAGE AVE"}
+{
+    "y_coordinate": "1875807", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289185", 
+    "id": "9144210", 
+    "primary_type": "BATTERY", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66863079206806, 
+            41.81480749914071
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.81480749914071", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0924", 
+    "date": {
+        "$date": 1369409700000
+    }, 
+    "ward": "12", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78afb1"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.66863079206806", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1165448", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08B", 
+    "block": "043XX S HERMITAGE AVE"
+}

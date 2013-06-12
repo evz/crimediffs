@@ -1,1 +1,38 @@
-{"y_coordinate": "1825971", "year": "2013", "domestic": false, "case_number": "HW289674", "id": "9144498", "primary_type": "BATTERY", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63118540860127, 41.67781946573388]}, "community_area": "53", "latitude": "41.67781946573388", "type": null, "description": "SIMPLE", "beat": "0522", "date": {"$date": 1369429200000}, "ward": "34", "_id": {"$oid": "51aa138d3c002ed20d78ae9a"}, "iucr": "460", "longitude": "-87.63118540860127", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1176063", "updated_on": {"$date": 1369874559000}, "fbi_code": "08B", "block": "003XX W 119TH ST"}
+{
+    "y_coordinate": "1825971", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289674", 
+    "id": "9144498", 
+    "primary_type": "BATTERY", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63118540860127, 
+            41.67781946573388
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.67781946573388", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0522", 
+    "date": {
+        "$date": 1369429200000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51aa138d3c002ed20d78ae9a"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.63118540860127", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1176063", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "08B", 
+    "block": "003XX W 119TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1903430", "year": "2013", "domestic": false, "case_number": "HW289544", "id": "9144401", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.745519140375, 41.89103145727407]}, "community_area": "25", "latitude": "41.89103145727407", "type": "quality", "description": "POSS: PCP", "beat": "1111", "date": {"$date": 1369423800000}, "ward": "28", "_id": {"$oid": "51aa138e3c002ed20d78aef3"}, "iucr": "2026", "longitude": "-87.745519140375", "location_description": "SIDEWALK", "x_coordinate": "1144298", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "005XX N CICERO AVE"}
+{
+    "y_coordinate": "1903430", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289544", 
+    "id": "9144401", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.745519140375, 
+            41.89103145727407
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.89103145727407", 
+    "type": "quality", 
+    "description": "POSS: PCP", 
+    "beat": "1111", 
+    "date": {
+        "$date": 1369423800000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51aa138e3c002ed20d78aef3"
+    }, 
+    "iucr": "2026", 
+    "longitude": "-87.745519140375", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1144298", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "005XX N CICERO AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1886348", "year": "2013", "domestic": false, "case_number": "HW303543", "id": "9158032", "primary_type": "THEFT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70731588442021, 41.84395220937554]}, "community_area": "30", "latitude": "41.84395220937554", "type": "property", "description": "$500 AND UNDER", "beat": "1032", "date": {"$date": 1370295000000}, "ward": "22", "_id": {"$oid": "51b742973c002ed20d78d26e"}, "iucr": "820", "longitude": "-87.70731588442021", "location_description": "APARTMENT", "x_coordinate": "1154825", "updated_on": {"$date": 1370911182000}, "fbi_code": "06", "block": "026XX S SPAULDING AVE"}
+{
+    "y_coordinate": "1886348", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303543", 
+    "id": "9158032", 
+    "primary_type": "THEFT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70731588442021, 
+            41.84395220937554
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.84395220937554", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1032", 
+    "date": {
+        "$date": 1370295000000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51b742973c002ed20d78d26e"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.70731588442021", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1154825", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "06", 
+    "block": "026XX S SPAULDING AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1827465", "year": "2013", "domestic": false, "case_number": "HW287137", "id": "9142101", "primary_type": "THEFT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62293022964225, 41.681868774276225]}, "community_area": "53", "latitude": "41.681868774276225", "type": "property", "description": "$500 AND UNDER", "beat": "0522", "date": {"$date": 1369261800000}, "ward": "34", "_id": {"$oid": "51a770883c002ed20d78aa81"}, "iucr": "820", "longitude": "-87.62293022964225", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1178306", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "116XX S STATE ST"}
+{
+    "y_coordinate": "1827465", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287137", 
+    "id": "9142101", 
+    "primary_type": "THEFT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62293022964225, 
+            41.681868774276225
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.681868774276225", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0522", 
+    "date": {
+        "$date": 1369261800000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aa81"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.62293022964225", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1178306", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "116XX S STATE ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1903396", "year": "2013", "domestic": false, "case_number": "HW284061", "id": "9138729", "primary_type": "THEFT", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7553073404704, 41.890987838573686]}, "community_area": "25", "latitude": "41.890987838573686", "type": "property", "description": "OVER $500", "beat": "1532", "date": {"$date": 1369080000000}, "ward": "28", "_id": {"$oid": "51a4cd8e3c002ed20d78a3e4"}, "iucr": "810", "longitude": "-87.7553073404704", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1141633", "updated_on": {"$date": 1369269615000}, "fbi_code": "06", "block": "005XX N LARAMIE AVE"}
+{
+    "y_coordinate": "1903396", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284061", 
+    "id": "9138729", 
+    "primary_type": "THEFT", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7553073404704, 
+            41.890987838573686
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.890987838573686", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1532", 
+    "date": {
+        "$date": 1369080000000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3e4"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.7553073404704", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1141633", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "06", 
+    "block": "005XX N LARAMIE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1917801", "year": "2013", "domestic": false, "case_number": "HW311251", "id": "9165742", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63603534202426, 41.92985616617268]}, "community_area": "7", "latitude": "41.92985616617268", "type": "property", "description": "OVER $500", "beat": "1935", "date": {"$date": 1370262600000}, "ward": "43", "_id": {"$oid": "51b7429d3c002ed20d78d42f"}, "iucr": "810", "longitude": "-87.63603534202426", "location_description": "BOAT/WATERCRAFT", "x_coordinate": "1173993", "updated_on": {"$date": 1370911182000}, "fbi_code": "06", "block": "026XX N CANNON DR"}
+{
+    "y_coordinate": "1917801", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW311251", 
+    "id": "9165742", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63603534202426, 
+            41.92985616617268
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.92985616617268", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1935", 
+    "date": {
+        "$date": 1370262600000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51b7429d3c002ed20d78d42f"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.63603534202426", 
+    "location_description": "BOAT/WATERCRAFT", 
+    "x_coordinate": "1173993", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "06", 
+    "block": "026XX N CANNON DR"
+}

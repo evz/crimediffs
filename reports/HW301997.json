@@ -1,1 +1,38 @@
-{"y_coordinate": "1832858", "year": "2013", "domestic": false, "case_number": "HW301997", "id": "9156423", "primary_type": "CRIMINAL DAMAGE", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66165883101043, 41.69690184297394]}, "community_area": "75", "latitude": "41.69690184297394", "type": "quality", "description": "TO VEHICLE", "beat": "2212", "date": {"$date": 1370199600000}, "ward": "19", "_id": {"$oid": "51b5f1183c002ed20d78ccb0"}, "iucr": "1320", "longitude": "-87.66165883101043", "location_description": "STREET", "x_coordinate": "1167684", "updated_on": {"$date": 1370479286000}, "fbi_code": "14", "block": "108XX S CHURCH ST"}
+{
+    "y_coordinate": "1832858", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301997", 
+    "id": "9156423", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66165883101043, 
+            41.69690184297394
+        ]
+    }, 
+    "community_area": "75", 
+    "latitude": "41.69690184297394", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "2212", 
+    "date": {
+        "$date": 1370199600000
+    }, 
+    "ward": "19", 
+    "_id": {
+        "$oid": "51b5f1183c002ed20d78ccb0"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.66165883101043", 
+    "location_description": "STREET", 
+    "x_coordinate": "1167684", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "14", 
+    "block": "108XX S CHURCH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1942424", "year": "2013", "domestic": false, "case_number": "HW288088", "id": "9143029", "primary_type": "THEFT", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68458788987529, 41.997711361825694]}, "community_area": "2", "latitude": "41.997711361825694", "type": "property", "description": "RETAIL THEFT", "beat": "2413", "date": {"$date": 1369335000000}, "ward": "50", "_id": {"$oid": "51aa13953c002ed20d78b250"}, "iucr": "860", "longitude": "-87.68458788987529", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1160594", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "021XX W DEVON AVE"}
+{
+    "y_coordinate": "1942424", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288088", 
+    "id": "9143029", 
+    "primary_type": "THEFT", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68458788987529, 
+            41.997711361825694
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "41.997711361825694", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "2413", 
+    "date": {
+        "$date": 1369335000000
+    }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b250"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.68458788987529", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1160594", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "021XX W DEVON AVE"
+}

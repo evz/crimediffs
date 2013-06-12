@@ -1,1 +1,38 @@
-{"y_coordinate": "1901470", "year": "2013", "domestic": false, "case_number": "HW287221", "id": "9142069", "primary_type": "MOTOR VEHICLE THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70944844239128, 41.88546243877634]}, "community_area": "27", "latitude": "41.88546243877634", "type": "property", "description": "AUTOMOBILE", "beat": "1123", "date": {"$date": 1369260000000}, "ward": "28", "_id": {"$oid": "51a770883c002ed20d78aaa9"}, "iucr": "910", "longitude": "-87.70944844239128", "location_description": "STREET", "x_coordinate": "1154134", "updated_on": {"$date": 1369442383000}, "fbi_code": "07", "block": "033XX W WALNUT ST"}
+{
+    "y_coordinate": "1901470", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287221", 
+    "id": "9142069", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70944844239128, 
+            41.88546243877634
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.88546243877634", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1123", 
+    "date": {
+        "$date": 1369260000000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aaa9"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.70944844239128", 
+    "location_description": "STREET", 
+    "x_coordinate": "1154134", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "07", 
+    "block": "033XX W WALNUT ST"
+}

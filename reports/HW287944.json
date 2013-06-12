@@ -1,1 +1,38 @@
-{"y_coordinate": "1852879", "year": "2013", "domestic": false, "case_number": "HW287944", "id": "9142976", "primary_type": "BATTERY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.5818195434987, 41.751351367420106]}, "community_area": "46", "latitude": "41.751351367420106", "type": null, "description": "SIMPLE", "beat": "0414", "date": {"$date": 1369329000000}, "ward": "8", "_id": {"$oid": "51aa13963c002ed20d78b28f"}, "iucr": "460", "longitude": "-87.5818195434987", "location_description": "SIDEWALK", "x_coordinate": "1189315", "updated_on": {"$date": 1370479286000}, "fbi_code": "08B", "block": "079XX S RIDGELAND AVE"}
+{
+    "y_coordinate": "1852879", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287944", 
+    "id": "9142976", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5818195434987, 
+            41.751351367420106
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.751351367420106", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0414", 
+    "date": {
+        "$date": 1369329000000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b28f"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.5818195434987", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1189315", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08B", 
+    "block": "079XX S RIDGELAND AVE"
+}

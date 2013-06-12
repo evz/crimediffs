@@ -1,1 +1,38 @@
-{"y_coordinate": "1845086", "year": "2013", "domestic": false, "case_number": "HW300158", "id": "9154668", "primary_type": "CRIMINAL DAMAGE", "district": "022", "arrest": true, "location": {"type": "Point", "coordinates": [-87.66305313397206, 41.7304675743577]}, "community_area": "73", "latitude": "41.7304675743577", "type": "quality", "description": "TO VEHICLE", "beat": "2221", "date": {"$date": 1370103300000}, "ward": "21", "_id": {"$oid": "51b5f11f3c002ed20d78d03a"}, "iucr": "1320", "longitude": "-87.66305313397206", "location_description": "ALLEY", "x_coordinate": "1167208", "updated_on": {"$date": 1370651988000}, "fbi_code": "14", "block": "089XX S ASHLAND AVE"}
+{
+    "y_coordinate": "1845086", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300158", 
+    "id": "9154668", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "022", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66305313397206, 
+            41.7304675743577
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.7304675743577", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "2221", 
+    "date": {
+        "$date": 1370103300000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d03a"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.66305313397206", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1167208", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "14", 
+    "block": "089XX S ASHLAND AVE"
+}

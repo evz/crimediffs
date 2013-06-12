@@ -1,1 +1,38 @@
-{"y_coordinate": "1914659", "year": "2013", "domestic": false, "case_number": "HW303730", "id": "9158476", "primary_type": "CRIMINAL DAMAGE", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70174377699216, 41.92161405537383]}, "community_area": "22", "latitude": "41.92161405537383", "type": "quality", "description": "TO VEHICLE", "beat": "1414", "date": {"$date": 1370230200000}, "ward": "35", "_id": {"$oid": "51b5f1133c002ed20d78cba3"}, "iucr": "1320", "longitude": "-87.70174377699216", "location_description": "STREET", "x_coordinate": "1156135", "updated_on": {"$date": 1370479286000}, "fbi_code": "14", "block": "029XX W PALMER ST"}
+{
+    "y_coordinate": "1914659", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303730", 
+    "id": "9158476", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70174377699216, 
+            41.92161405537383
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.92161405537383", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1414", 
+    "date": {
+        "$date": 1370230200000
+    }, 
+    "ward": "35", 
+    "_id": {
+        "$oid": "51b5f1133c002ed20d78cba3"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.70174377699216", 
+    "location_description": "STREET", 
+    "x_coordinate": "1156135", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "14", 
+    "block": "029XX W PALMER ST"
+}

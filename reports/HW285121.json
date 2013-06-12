@@ -1,1 +1,38 @@
-{"y_coordinate": "1902233", "year": "2013", "domestic": false, "case_number": "HW285121", "id": "9139722", "primary_type": "ROBBERY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76434077578871, 41.887841394039164]}, "community_area": "25", "latitude": "41.887841394039164", "type": "violent", "description": "ARMED: OTHER DANGEROUS WEAPON", "beat": "1523", "date": {"$date": 1369159200000}, "ward": "28", "_id": {"$oid": "51a61f0b3c002ed20d78a7d8"}, "iucr": "313", "longitude": "-87.76434077578871", "location_description": "STREET", "x_coordinate": "1139181", "updated_on": {"$date": 1370047283000}, "fbi_code": "03", "block": "055XX W LAKE ST"}
+{
+    "y_coordinate": "1902233", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285121", 
+    "id": "9139722", 
+    "primary_type": "ROBBERY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76434077578871, 
+            41.887841394039164
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.887841394039164", 
+    "type": "violent", 
+    "description": "ARMED: OTHER DANGEROUS WEAPON", 
+    "beat": "1523", 
+    "date": {
+        "$date": 1369159200000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a7d8"
+    }, 
+    "iucr": "313", 
+    "longitude": "-87.76434077578871", 
+    "location_description": "STREET", 
+    "x_coordinate": "1139181", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "03", 
+    "block": "055XX W LAKE ST"
+}

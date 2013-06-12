@@ -1,1 +1,38 @@
-{"y_coordinate": "1950037", "year": "2013", "domestic": false, "case_number": "HW303098", "id": "9157912", "primary_type": "BATTERY", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68881716567827, 42.01862667336367]}, "community_area": "2", "latitude": "42.01862667336367", "type": null, "description": "SIMPLE", "beat": "2411", "date": {"$date": 1370283600000}, "ward": "49", "_id": {"$oid": "51b7429a3c002ed20d78d30f"}, "iucr": "460", "longitude": "-87.68881716567827", "location_description": "STREET", "x_coordinate": "1159387", "updated_on": {"$date": 1370479286000}, "fbi_code": "08B", "block": "075XX N CLAREMONT AVE"}
+{
+    "y_coordinate": "1950037", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303098", 
+    "id": "9157912", 
+    "primary_type": "BATTERY", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68881716567827, 
+            42.01862667336367
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "42.01862667336367", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2411", 
+    "date": {
+        "$date": 1370283600000
+    }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51b7429a3c002ed20d78d30f"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.68881716567827", 
+    "location_description": "STREET", 
+    "x_coordinate": "1159387", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08B", 
+    "block": "075XX N CLAREMONT AVE"
+}

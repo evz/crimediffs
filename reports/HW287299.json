@@ -1,1 +1,38 @@
-{"y_coordinate": "1905936", "year": "2013", "domestic": false, "case_number": "HW287299", "id": "9142911", "primary_type": "CRIMINAL TRESPASS", "district": "018", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62836084162673, 41.897249048269174]}, "community_area": "8", "latitude": "41.897249048269174", "type": null, "description": "TO LAND", "beat": "1832", "date": {"$date": 1369302000000}, "ward": "42", "_id": {"$oid": "51aa13983c002ed20d78b3c7"}, "iucr": "1330", "longitude": "-87.62836084162673", "location_description": "CONVENIENCE STORE", "x_coordinate": "1176179", "updated_on": {"$date": 1370738354000}, "fbi_code": "26", "block": "008XX N STATE ST"}
+{
+    "y_coordinate": "1905936", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287299", 
+    "id": "9142911", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "018", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62836084162673, 
+            41.897249048269174
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.897249048269174", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "1832", 
+    "date": {
+        "$date": 1369302000000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3c7"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.62836084162673", 
+    "location_description": "CONVENIENCE STORE", 
+    "x_coordinate": "1176179", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "26", 
+    "block": "008XX N STATE ST"
+}

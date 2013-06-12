@@ -1,1 +1,38 @@
-{"y_coordinate": "1882503", "year": "2013", "domestic": false, "case_number": "HW288738", "id": "9143739", "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.73291626509754, 41.833537176267434]}, "community_area": "30", "latitude": "41.833537176267434", "type": null, "description": "OBSTRUCTING IDENTIFICATION", "beat": "1031", "date": {"$date": 1369391400000}, "ward": "22", "_id": {"$oid": "51aa13923c002ed20d78b0a8"}, "iucr": "3731", "longitude": "-87.73291626509754", "location_description": "STREET", "x_coordinate": "1147876", "updated_on": {"$date": 1369528777000}, "fbi_code": "24", "block": "032XX S KOLIN AVE"}
+{
+    "y_coordinate": "1882503", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288738", 
+    "id": "9143739", 
+    "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73291626509754, 
+            41.833537176267434
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.833537176267434", 
+    "type": null, 
+    "description": "OBSTRUCTING IDENTIFICATION", 
+    "beat": "1031", 
+    "date": {
+        "$date": 1369391400000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b0a8"
+    }, 
+    "iucr": "3731", 
+    "longitude": "-87.73291626509754", 
+    "location_description": "STREET", 
+    "x_coordinate": "1147876", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "24", 
+    "block": "032XX S KOLIN AVE"
+}

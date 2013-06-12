@@ -1,1 +1,38 @@
-{"y_coordinate": "1891140", "year": "2013", "domestic": false, "case_number": "HW287570", "id": "9142720", "primary_type": "NARCOTICS", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72627473507097, 41.85720448577565]}, "community_area": "29", "latitude": "41.85720448577565", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1012", "date": {"$date": 1369315740000}, "ward": "24", "_id": {"$oid": "51aa13973c002ed20d78b326"}, "iucr": "1811", "longitude": "-87.72627473507097", "location_description": "SIDEWALK", "x_coordinate": "1149625", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "016XX S KOMENSKY AVE"}
+{
+    "y_coordinate": "1891140", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287570", 
+    "id": "9142720", 
+    "primary_type": "NARCOTICS", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72627473507097, 
+            41.85720448577565
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85720448577565", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1012", 
+    "date": {
+        "$date": 1369315740000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b326"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.72627473507097", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1149625", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "016XX S KOMENSKY AVE"
+}

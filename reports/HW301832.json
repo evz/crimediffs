@@ -1,1 +1,38 @@
-{"y_coordinate": "1860450", "year": "2013", "domestic": true, "case_number": "HW301832", "id": "9155997", "primary_type": "CRIMINAL DAMAGE", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63748588628633, 41.77247907768035]}, "community_area": "68", "latitude": "41.77247907768035", "type": "quality", "description": "TO PROPERTY", "beat": "0722", "date": {"$date": 1370217000000}, "ward": "6", "_id": {"$oid": "51b5f1153c002ed20d78cbf0"}, "iucr": "1310", "longitude": "-87.63748588628633", "location_description": "SIDEWALK", "x_coordinate": "1174063", "updated_on": {"$date": 1370911182000}, "fbi_code": "14", "block": "005XX W MARQUETTE RD"}
+{
+    "y_coordinate": "1860450", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301832", 
+    "id": "9155997", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63748588628633, 
+            41.77247907768035
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.77247907768035", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0722", 
+    "date": {
+        "$date": 1370217000000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbf0"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.63748588628633", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1174063", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "14", 
+    "block": "005XX W MARQUETTE RD"
+}

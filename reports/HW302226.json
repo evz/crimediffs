@@ -1,1 +1,33 @@
-{"community_area": "20", "_id": {"$oid": "51b7429e3c002ed20d78d48a"}, "primary_type": "ASSAULT", "beat": "2534", "year": "2013", "domestic": false, "iucr": "560", "arrest": false, "location_description": "SIDEWALK", "location": {"type": "Point", "coordinates": [-87.7302931017727, 41.91473133453553]}, "case_number": "HW302226", "date": {"$date": 1370254080000}, "updated_on": {"$date": 1370565766000}, "ward": "30", "fbi_code": "08A", "type": null, "id": "9158756", "block": "018XX N KEDVALE AVE", "description": "SIMPLE"}
+{
+    "_id": {
+        "$oid": "51b7429e3c002ed20d78d48a"
+    }, 
+    "primary_type": "ASSAULT", 
+    "year": "2013", 
+    "beat": "2534", 
+    "case_number": "HW302226", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7302931017727, 
+            41.91473133453553
+        ]
+    }, 
+    "community_area": "20", 
+    "date": {
+        "$date": 1370254080000
+    }, 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "ward": "30", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9158756", 
+    "block": "018XX N KEDVALE AVE", 
+    "description": "SIMPLE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1880407", "year": "2013", "domestic": false, "case_number": "HW285035", "id": "9139717", "primary_type": "BURGLARY", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67871801889078, 41.8274890873388]}, "community_area": "59", "latitude": "41.8274890873388", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "0912", "date": {"$date": 1369158300000}, "ward": "11", "_id": {"$oid": "51a61f0b3c002ed20d78a7e3"}, "iucr": "620", "longitude": "-87.67871801889078", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1162663", "updated_on": {"$date": 1369356045000}, "fbi_code": "05", "block": "036XX S HAMILTON AVE"}
+{
+    "y_coordinate": "1880407", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285035", 
+    "id": "9139717", 
+    "primary_type": "BURGLARY", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67871801889078, 
+            41.8274890873388
+        ]
+    }, 
+    "community_area": "59", 
+    "latitude": "41.8274890873388", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "0912", 
+    "date": {
+        "$date": 1369158300000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a7e3"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.67871801889078", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1162663", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "05", 
+    "block": "036XX S HAMILTON AVE"
+}

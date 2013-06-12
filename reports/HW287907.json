@@ -1,1 +1,38 @@
-{"y_coordinate": "1939576", "year": "2013", "domestic": false, "case_number": "HW287907", "id": "9142934", "primary_type": "BURGLARY", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.78107007374625, 41.99040060852379]}, "community_area": "10", "latitude": "41.99040060852379", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1611", "date": {"$date": 1369305000000}, "ward": "45", "_id": {"$oid": "51aa13983c002ed20d78b3a1"}, "iucr": "610", "longitude": "-87.78107007374625", "location_description": "APARTMENT", "x_coordinate": "1134385", "updated_on": {"$date": 1369960832000}, "fbi_code": "05", "block": "060XX N MILWAUKEE AVE"}
+{
+    "y_coordinate": "1939576", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287907", 
+    "id": "9142934", 
+    "primary_type": "BURGLARY", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78107007374625, 
+            41.99040060852379
+        ]
+    }, 
+    "community_area": "10", 
+    "latitude": "41.99040060852379", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1611", 
+    "date": {
+        "$date": 1369305000000
+    }, 
+    "ward": "45", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3a1"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.78107007374625", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1134385", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "05", 
+    "block": "060XX N MILWAUKEE AVE"
+}

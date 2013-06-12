@@ -1,1 +1,38 @@
-{"y_coordinate": "1924062", "year": "2013", "domestic": false, "case_number": "HW288647", "id": "9144842", "primary_type": "MOTOR VEHICLE THEFT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7691126228701, 41.9477688043689]}, "community_area": "15", "latitude": "41.9477688043689", "type": "property", "description": "AUTOMOBILE", "beat": "1633", "date": {"$date": 1369348200000}, "ward": "38", "_id": {"$oid": "51aa13943c002ed20d78b1af"}, "iucr": "910", "longitude": "-87.7691126228701", "location_description": "STREET", "x_coordinate": "1137738", "updated_on": {"$date": 1370306580000}, "fbi_code": "07", "block": "037XX N MAJOR AVE"}
+{
+    "y_coordinate": "1924062", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288647", 
+    "id": "9144842", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7691126228701, 
+            41.9477688043689
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.9477688043689", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1633", 
+    "date": {
+        "$date": 1369348200000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1af"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.7691126228701", 
+    "location_description": "STREET", 
+    "x_coordinate": "1137738", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "07", 
+    "block": "037XX N MAJOR AVE"
+}

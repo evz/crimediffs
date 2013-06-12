@@ -1,1 +1,33 @@
-{"community_area": "71", "_id": {"$oid": "51b5f11b3c002ed20d78ce0d"}, "primary_type": "THEFT", "beat": "0614", "year": "2013", "domestic": false, "iucr": "890", "arrest": false, "location_description": "RESIDENCE", "location": {"type": "Point", "coordinates": [-87.66222795771978, 41.74462889847566]}, "case_number": "HW303850", "date": {"$date": 1370167200000}, "updated_on": {"$date": 1370651988000}, "ward": "21", "fbi_code": "06", "type": "property", "id": "9160621", "block": "082XX S JUSTINE ST", "description": "FROM BUILDING"}
+{
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78ce0d"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "0614", 
+    "case_number": "HW303850", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66222795771978, 
+            41.74462889847566
+        ]
+    }, 
+    "community_area": "71", 
+    "date": {
+        "$date": 1370167200000
+    }, 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "ward": "21", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9160621", 
+    "block": "082XX S JUSTINE ST", 
+    "description": "FROM BUILDING"
+}

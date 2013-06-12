@@ -1,1 +1,38 @@
-{"y_coordinate": "1899481", "year": "2013", "domestic": false, "case_number": "HW287774", "id": "9142889", "primary_type": "BATTERY", "district": "012", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6803064230979, 41.879842117538736]}, "community_area": "28", "latitude": "41.879842117538736", "type": null, "description": "SIMPLE", "beat": "1223", "date": {"$date": 1369321800000}, "ward": "2", "_id": {"$oid": "51aa13963c002ed20d78b2e7"}, "iucr": "460", "longitude": "-87.6803064230979", "location_description": "SCHOOL, PUBLIC, GROUNDS", "x_coordinate": "1162085", "updated_on": {"$date": 1369874559000}, "fbi_code": "08B", "block": "021XX W MONROE ST"}
+{
+    "y_coordinate": "1899481", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287774", 
+    "id": "9142889", 
+    "primary_type": "BATTERY", 
+    "district": "012", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6803064230979, 
+            41.879842117538736
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.879842117538736", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1223", 
+    "date": {
+        "$date": 1369321800000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b2e7"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.6803064230979", 
+    "location_description": "SCHOOL, PUBLIC, GROUNDS", 
+    "x_coordinate": "1162085", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "08B", 
+    "block": "021XX W MONROE ST"
+}

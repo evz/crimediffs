@@ -1,1 +1,38 @@
-{"y_coordinate": "1920974", "year": "2013", "domestic": false, "case_number": "HW288362", "id": "9143260", "primary_type": "OTHER OFFENSE", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.644202348616, 41.938612878723305]}, "community_area": "6", "latitude": "41.938612878723305", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "1934", "date": {"$date": 1369304100000}, "ward": "44", "_id": {"$oid": "51aa13983c002ed20d78b3aa"}, "iucr": "2825", "longitude": "-87.644202348616", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1171745", "updated_on": {"$date": 1370133629000}, "fbi_code": "26", "block": "031XX N BROADWAY"}
+{
+    "y_coordinate": "1920974", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288362", 
+    "id": "9143260", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.644202348616, 
+            41.938612878723305
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.938612878723305", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "1934", 
+    "date": {
+        "$date": 1369304100000
+    }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3aa"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.644202348616", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1171745", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "26", 
+    "block": "031XX N BROADWAY"
+}

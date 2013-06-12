@@ -1,1 +1,38 @@
-{"y_coordinate": "1928811", "year": "2013", "domestic": false, "case_number": "HW300962", "id": "9155339", "primary_type": "CRIMINAL DAMAGE", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70073909683562, 41.96044470420974]}, "community_area": "16", "latitude": "41.96044470420974", "type": "quality", "description": "TO VEHICLE", "beat": "1724", "date": {"$date": 1370127600000}, "ward": "33", "_id": {"$oid": "51b5f11e3c002ed20d78cf30"}, "iucr": "1320", "longitude": "-87.70073909683562", "location_description": "STREET", "x_coordinate": "1156304", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "043XX N FRANCISCO AVE"}
+{
+    "y_coordinate": "1928811", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300962", 
+    "id": "9155339", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70073909683562, 
+            41.96044470420974
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.96044470420974", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1724", 
+    "date": {
+        "$date": 1370127600000
+    }, 
+    "ward": "33", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf30"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.70073909683562", 
+    "location_description": "STREET", 
+    "x_coordinate": "1156304", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "043XX N FRANCISCO AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1855194", "year": "2013", "domestic": false, "case_number": "HW296804", "id": "9151425", "primary_type": "BURGLARY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55600387361389, 41.75753265702267]}, "community_area": "43", "latitude": "41.75753265702267", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0421", "date": {"$date": 1369472400000}, "ward": "7", "_id": {"$oid": "51b34a123c002ed20d78cae9"}, "iucr": "610", "longitude": "-87.55600387361389", "location_description": "RESIDENCE", "x_coordinate": "1196339", "updated_on": {"$date": 1370651988000}, "fbi_code": "05", "block": "076XX S COLES AVE"}
+{
+    "y_coordinate": "1855194", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW296804", 
+    "id": "9151425", 
+    "primary_type": "BURGLARY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55600387361389, 
+            41.75753265702267
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.75753265702267", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0421", 
+    "date": {
+        "$date": 1369472400000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cae9"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.55600387361389", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1196339", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "05", 
+    "block": "076XX S COLES AVE"
+}

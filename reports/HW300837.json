@@ -1,1 +1,33 @@
-{"community_area": "25", "_id": {"$oid": "51b5f11c3c002ed20d78ce5a"}, "primary_type": "BATTERY", "beat": "2531", "year": "2013", "domestic": false, "iucr": "460", "arrest": false, "location_description": "OTHER", "location": {"type": "Point", "coordinates": [-87.7745096266908, 41.90853352185428]}, "case_number": "HW300837", "date": {"$date": 1370151900000}, "updated_on": {"$date": 1370479286000}, "ward": "29", "fbi_code": "08B", "type": null, "id": "9155407", "block": "015XX N MASON AVE", "description": "SIMPLE"}
+{
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce5a"
+    }, 
+    "primary_type": "BATTERY", 
+    "year": "2013", 
+    "beat": "2531", 
+    "case_number": "HW300837", 
+    "domestic": false, 
+    "iucr": "460", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7745096266908, 
+            41.90853352185428
+        ]
+    }, 
+    "community_area": "25", 
+    "date": {
+        "$date": 1370151900000
+    }, 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "ward": "29", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9155407", 
+    "block": "015XX N MASON AVE", 
+    "description": "SIMPLE"
+}

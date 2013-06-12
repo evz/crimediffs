@@ -1,1 +1,38 @@
-{"y_coordinate": "1896187", "year": "2013", "domestic": false, "case_number": "HW305313", "id": "9160760", "primary_type": "THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69986396872834, 41.87091210595282]}, "community_area": "27", "latitude": "41.87091210595282", "type": "property", "description": "FROM BUILDING", "beat": "1135", "date": {"$date": 1370170200000}, "ward": "28", "_id": {"$oid": "51b5f11b3c002ed20d78cdf5"}, "iucr": "890", "longitude": "-87.69986396872834", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1156783", "updated_on": {"$date": 1370738354000}, "fbi_code": "06", "block": "029XX W POLK ST"}
+{
+    "y_coordinate": "1896187", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW305313", 
+    "id": "9160760", 
+    "primary_type": "THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69986396872834, 
+            41.87091210595282
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.87091210595282", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1135", 
+    "date": {
+        "$date": 1370170200000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cdf5"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.69986396872834", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1156783", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "06", 
+    "block": "029XX W POLK ST"
+}

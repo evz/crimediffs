@@ -1,1 +1,38 @@
-{"y_coordinate": "1905629", "year": "2013", "domestic": false, "case_number": "HW293630", "id": "9147743", "primary_type": "DECEPTIVE PRACTICE", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63635839852631, 41.89645538765004]}, "community_area": "8", "latitude": "41.89645538765004", "type": null, "description": "ILLEGAL USE CASH CARD", "beat": "1831", "date": {"$date": 1369180860000}, "ward": "42", "_id": {"$oid": "51a61f073c002ed20d78a6bd"}, "iucr": "1152", "longitude": "-87.63635839852631", "location_description": "ATM (AUTOMATIC TELLER MACHINE)", "x_coordinate": "1174004", "updated_on": {"$date": 1369874559000}, "fbi_code": "11", "block": "003XX W CHICAGO AVE"}
+{
+    "y_coordinate": "1905629", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293630", 
+    "id": "9147743", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63635839852631, 
+            41.89645538765004
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.89645538765004", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "1831", 
+    "date": {
+        "$date": 1369180860000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a61f073c002ed20d78a6bd"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.63635839852631", 
+    "location_description": "ATM (AUTOMATIC TELLER MACHINE)", 
+    "x_coordinate": "1174004", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "11", 
+    "block": "003XX W CHICAGO AVE"
+}

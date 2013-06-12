@@ -1,1 +1,38 @@
-{"y_coordinate": "1892036", "year": "2013", "domestic": false, "case_number": "HW287702", "id": "9143146", "primary_type": "MOTOR VEHICLE THEFT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68749599128007, 41.85945182288739]}, "community_area": "28", "latitude": "41.85945182288739", "type": "property", "description": "AUTOMOBILE", "beat": "1023", "date": {"$date": 1369206300000}, "ward": "28", "_id": {"$oid": "51a7708d3c002ed20d78ad14"}, "iucr": "910", "longitude": "-87.68749599128007", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1160183", "updated_on": {"$date": 1369960832000}, "fbi_code": "07", "block": "024XX W 16TH ST"}
+{
+    "y_coordinate": "1892036", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287702", 
+    "id": "9143146", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68749599128007, 
+            41.85945182288739
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.85945182288739", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1023", 
+    "date": {
+        "$date": 1369206300000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad14"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.68749599128007", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1160183", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "07", 
+    "block": "024XX W 16TH ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1897269", "year": "2013", "domestic": true, "case_number": "HW284968", "id": "9139678", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69914073055729, 41.87387739382295]}, "community_area": "27", "latitude": "41.87387739382295", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1135", "date": {"$date": 1369160400000}, "ward": "2", "_id": {"$oid": "51a61f0b3c002ed20d78a7bf"}, "iucr": "486", "longitude": "-87.69914073055729", "location_description": "SIDEWALK", "x_coordinate": "1156972", "updated_on": {"$date": 1369356045000}, "fbi_code": "08B", "block": "029XX W HARRISON ST"}
+{
+    "y_coordinate": "1897269", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW284968", 
+    "id": "9139678", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69914073055729, 
+            41.87387739382295
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.87387739382295", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1135", 
+    "date": {
+        "$date": 1369160400000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a7bf"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.69914073055729", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1156972", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08B", 
+    "block": "029XX W HARRISON ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1876343", "year": "2013", "domestic": false, "case_number": "HW301418", "id": "9155648", "primary_type": "OTHER OFFENSE", "district": "009", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64254929381907, 41.81612454446965]}, "community_area": "61", "latitude": "41.81612454446965", "type": null, "description": "PROBATION VIOLATION", "beat": "0925", "date": {"$date": 1370189640000}, "ward": "11", "_id": {"$oid": "51b5f11a3c002ed20d78cd2c"}, "iucr": "4510", "longitude": "-87.64254929381907", "location_description": "SIDEWALK", "x_coordinate": "1172554", "updated_on": {"$date": 1370392932000}, "fbi_code": "26", "block": "006XX W 43RD ST"}
+{
+    "y_coordinate": "1876343", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301418", 
+    "id": "9155648", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "009", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64254929381907, 
+            41.81612454446965
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.81612454446965", 
+    "type": null, 
+    "description": "PROBATION VIOLATION", 
+    "beat": "0925", 
+    "date": {
+        "$date": 1370189640000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd2c"
+    }, 
+    "iucr": "4510", 
+    "longitude": "-87.64254929381907", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1172554", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "26", 
+    "block": "006XX W 43RD ST"
+}

@@ -1,1 +1,33 @@
-{"community_area": "10", "_id": {"$oid": "51aa138b3c002ed20d78ae02"}, "primary_type": "CRIMINAL DAMAGE", "beat": "1613", "year": "2013", "domestic": true, "iucr": "1320", "arrest": false, "location_description": "STREET", "location": {"type": "Point", "coordinates": [-87.79984496804025, 41.97980621478145]}, "case_number": "HW289842", "date": {"$date": 1369440900000}, "updated_on": {"$date": 1369874559000}, "ward": "41", "fbi_code": "14", "type": "quality", "id": "9147397", "block": "054XX N NEWLAND AVE", "description": "TO VEHICLE"}
+{
+    "_id": {
+        "$oid": "51aa138b3c002ed20d78ae02"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "year": "2013", 
+    "beat": "1613", 
+    "case_number": "HW289842", 
+    "domestic": true, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.79984496804025, 
+            41.97980621478145
+        ]
+    }, 
+    "community_area": "10", 
+    "date": {
+        "$date": 1369440900000
+    }, 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "ward": "41", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9147397", 
+    "block": "054XX N NEWLAND AVE", 
+    "description": "TO VEHICLE"
+}

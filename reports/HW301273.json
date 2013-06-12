@@ -1,1 +1,38 @@
-{"y_coordinate": "1891168", "year": "2013", "domestic": true, "case_number": "HW301273", "id": "9155539", "primary_type": "THEFT", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71737279981046, 41.85723392772675]}, "community_area": "29", "latitude": "41.85723392772675", "type": "property", "description": "$500 AND UNDER", "beat": "1014", "date": {"$date": 1370184600000}, "ward": "24", "_id": {"$oid": "51b5f11a3c002ed20d78cd60"}, "iucr": "820", "longitude": "-87.71737279981046", "location_description": "APARTMENT", "x_coordinate": "1152050", "updated_on": {"$date": 1370911182000}, "fbi_code": "06", "block": "036XX W 18TH ST"}
+{
+    "y_coordinate": "1891168", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301273", 
+    "id": "9155539", 
+    "primary_type": "THEFT", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71737279981046, 
+            41.85723392772675
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85723392772675", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1014", 
+    "date": {
+        "$date": 1370184600000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd60"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.71737279981046", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1152050", 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "fbi_code": "06", 
+    "block": "036XX W 18TH ST"
+}

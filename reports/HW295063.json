@@ -1,1 +1,33 @@
-{"community_area": "23", "_id": {"$oid": "51aa138f3c002ed20d78af25"}, "primary_type": "ASSAULT", "beat": "2534", "year": "2013", "domestic": false, "iucr": "560", "arrest": false, "location_description": "RESIDENCE", "location": {"type": "Point", "coordinates": [-87.73354627629512, 41.911027192502445]}, "case_number": "HW295063", "date": {"$date": 1369418400000}, "updated_on": {"$date": 1370306580000}, "ward": "30", "fbi_code": "08A", "type": null, "id": "9153011", "block": "016XX N KILDARE AVE", "description": "SIMPLE"}
+{
+    "_id": {
+        "$oid": "51aa138f3c002ed20d78af25"
+    }, 
+    "primary_type": "ASSAULT", 
+    "year": "2013", 
+    "beat": "2534", 
+    "case_number": "HW295063", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73354627629512, 
+            41.911027192502445
+        ]
+    }, 
+    "community_area": "23", 
+    "date": {
+        "$date": 1369418400000
+    }, 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "ward": "30", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9153011", 
+    "block": "016XX N KILDARE AVE", 
+    "description": "SIMPLE"
+}

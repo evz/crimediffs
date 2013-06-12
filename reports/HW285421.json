@@ -1,1 +1,38 @@
-{"y_coordinate": "1915502", "year": "2013", "domestic": true, "case_number": "HW285421", "id": "9142723", "primary_type": "BATTERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75627160013482, 41.92421442565255]}, "community_area": "19", "latitude": "41.92421442565255", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "2515", "date": {"$date": 1369179000000}, "ward": "31", "_id": {"$oid": "51a61f073c002ed20d78a6d7"}, "iucr": "486", "longitude": "-87.75627160013482", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1141289", "updated_on": {"$date": 1369528777000}, "fbi_code": "08B", "block": "052XX W FULLERTON AVE"}
+{
+    "y_coordinate": "1915502", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285421", 
+    "id": "9142723", 
+    "primary_type": "BATTERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75627160013482, 
+            41.92421442565255
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.92421442565255", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "2515", 
+    "date": {
+        "$date": 1369179000000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51a61f073c002ed20d78a6d7"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.75627160013482", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1141289", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "08B", 
+    "block": "052XX W FULLERTON AVE"
+}

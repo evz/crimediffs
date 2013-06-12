@@ -1,1 +1,38 @@
-{"y_coordinate": "1899110", "year": "2013", "domestic": true, "case_number": "HW286060", "id": "9145921", "primary_type": "BATTERY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74951998018234, 41.87919671669227]}, "community_area": "25", "latitude": "41.87919671669227", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1533", "date": {"$date": 1369078200000}, "ward": "28", "_id": {"$oid": "51a4cd8f3c002ed20d78a3f8"}, "iucr": "486", "longitude": "-87.74951998018234", "location_description": "APARTMENT", "x_coordinate": "1143238", "updated_on": {"$date": 1370306580000}, "fbi_code": "08B", "block": "001XX S LAVERGNE AVE"}
+{
+    "y_coordinate": "1899110", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW286060", 
+    "id": "9145921", 
+    "primary_type": "BATTERY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74951998018234, 
+            41.87919671669227
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.87919671669227", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1533", 
+    "date": {
+        "$date": 1369078200000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a3f8"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.74951998018234", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1143238", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08B", 
+    "block": "001XX S LAVERGNE AVE"
+}

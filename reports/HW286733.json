@@ -1,1 +1,38 @@
-{"y_coordinate": "1917227", "year": "2013", "domestic": false, "case_number": "HW286733", "id": "9141620", "primary_type": "CRIM SEXUAL ASSAULT", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73519116067058, 41.928840339225914]}, "community_area": "20", "latitude": "41.928840339225914", "type": "violent", "description": "NON-AGGRAVATED", "beat": "2524", "date": {"$date": 1369252800000}, "ward": "31", "_id": {"$oid": "51a770893c002ed20d78ab04"}, "iucr": "281", "longitude": "-87.73519116067058", "location_description": "RESIDENCE", "x_coordinate": "1147014", "updated_on": {"$date": 1370651988000}, "fbi_code": "02", "block": "043XX W DRUMMOND PL"}
+{
+    "y_coordinate": "1917227", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286733", 
+    "id": "9141620", 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73519116067058, 
+            41.928840339225914
+        ]
+    }, 
+    "community_area": "20", 
+    "latitude": "41.928840339225914", 
+    "type": "violent", 
+    "description": "NON-AGGRAVATED", 
+    "beat": "2524", 
+    "date": {
+        "$date": 1369252800000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51a770893c002ed20d78ab04"
+    }, 
+    "iucr": "281", 
+    "longitude": "-87.73519116067058", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1147014", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "02", 
+    "block": "043XX W DRUMMOND PL"
+}

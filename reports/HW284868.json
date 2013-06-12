@@ -1,1 +1,38 @@
-{"y_coordinate": "1902189", "year": "2013", "domestic": false, "case_number": "HW284868", "id": "9139599", "primary_type": "THEFT", "district": "001", "arrest": true, "location": {"type": "Point", "coordinates": [-87.62468782603405, 41.88694378453887]}, "community_area": "32", "latitude": "41.88694378453887", "type": "property", "description": "RETAIL THEFT", "beat": "0111", "date": {"$date": 1369154700000}, "ward": "42", "_id": {"$oid": "51a61f0b3c002ed20d78a81b"}, "iucr": "860", "longitude": "-87.62468782603405", "location_description": "DRUG STORE", "x_coordinate": "1177210", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "003XX N MICHIGAN AVE"}
+{
+    "y_coordinate": "1902189", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284868", 
+    "id": "9139599", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62468782603405, 
+            41.88694378453887
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88694378453887", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0111", 
+    "date": {
+        "$date": 1369154700000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a81b"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.62468782603405", 
+    "location_description": "DRUG STORE", 
+    "x_coordinate": "1177210", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "003XX N MICHIGAN AVE"
+}

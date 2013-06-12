@@ -1,1 +1,38 @@
-{"y_coordinate": "1823536", "year": "2013", "domestic": false, "case_number": "HW309096", "id": "9164170", "primary_type": "MOTOR VEHICLE THEFT", "district": "005", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64275758834904, 41.671207112508306]}, "community_area": "53", "latitude": "41.671207112508306", "type": "property", "description": "AUTOMOBILE", "beat": "0524", "date": {"$date": 1370023200000}, "ward": "34", "_id": {"$oid": "51b349c13c002ed20d78b687"}, "iucr": "910", "longitude": "-87.64275758834904", "location_description": "OTHER", "x_coordinate": "1172921", "updated_on": {"$date": 1370824784000}, "fbi_code": "07", "block": "122XX S GREEN ST"}
+{
+    "y_coordinate": "1823536", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW309096", 
+    "id": "9164170", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64275758834904, 
+            41.671207112508306
+        ]
+    }, 
+    "community_area": "53", 
+    "latitude": "41.671207112508306", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0524", 
+    "date": {
+        "$date": 1370023200000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51b349c13c002ed20d78b687"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.64275758834904", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1172921", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "07", 
+    "block": "122XX S GREEN ST"
+}

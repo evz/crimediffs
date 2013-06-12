@@ -1,1 +1,38 @@
-{"y_coordinate": "1877557", "year": "2013", "domestic": false, "case_number": "HW302540", "id": "9157152", "primary_type": "DECEPTIVE PRACTICE", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70181711044965, 41.81979722740519]}, "community_area": "58", "latitude": "41.81979722740519", "type": null, "description": "ILLEGAL USE CASH CARD", "beat": "0921", "date": {"$date": 1370140200000}, "ward": "14", "_id": {"$oid": "51b5f11d3c002ed20d78ceb3"}, "iucr": "1152", "longitude": "-87.70181711044965", "location_description": "GAS STATION", "x_coordinate": "1156388", "updated_on": {"$date": 1370565766000}, "fbi_code": "11", "block": "040XX S ALBANY AVE"}
+{
+    "y_coordinate": "1877557", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302540", 
+    "id": "9157152", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70181711044965, 
+            41.81979722740519
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.81979722740519", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "0921", 
+    "date": {
+        "$date": 1370140200000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78ceb3"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.70181711044965", 
+    "location_description": "GAS STATION", 
+    "x_coordinate": "1156388", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "11", 
+    "block": "040XX S ALBANY AVE"
+}

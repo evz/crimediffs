@@ -1,1 +1,38 @@
-{"y_coordinate": "1857716", "year": "2013", "domestic": false, "case_number": "HW286424", "id": "9141604", "primary_type": "MOTOR VEHICLE THEFT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64455298135435, 41.7650187579422]}, "community_area": "68", "latitude": "41.7650187579422", "type": "property", "description": "THEFT/RECOVERY: AUTOMOBILE", "beat": "0733", "date": {"$date": 1369241100000}, "ward": "6", "_id": {"$oid": "51a7708a3c002ed20d78ab8f"}, "iucr": "930", "longitude": "-87.64455298135435", "location_description": "STREET", "x_coordinate": "1172157", "updated_on": {"$date": 1369442383000}, "fbi_code": "07", "block": "071XX S HALSTED ST"}
+{
+    "y_coordinate": "1857716", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286424", 
+    "id": "9141604", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64455298135435, 
+            41.7650187579422
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.7650187579422", 
+    "type": "property", 
+    "description": "THEFT/RECOVERY: AUTOMOBILE", 
+    "beat": "0733", 
+    "date": {
+        "$date": 1369241100000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab8f"
+    }, 
+    "iucr": "930", 
+    "longitude": "-87.64455298135435", 
+    "location_description": "STREET", 
+    "x_coordinate": "1172157", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "07", 
+    "block": "071XX S HALSTED ST"
+}

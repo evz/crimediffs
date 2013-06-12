@@ -1,1 +1,38 @@
-{"y_coordinate": "1903510", "year": "2013", "domestic": false, "case_number": "HW286014", "id": "9140999", "primary_type": "CRIMINAL TRESPASS", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71145058766434, 41.891071556291784]}, "community_area": "23", "latitude": "41.891071556291784", "type": null, "description": "TO RESIDENCE", "beat": "1121", "date": {"$date": 1369225800000}, "ward": "27", "_id": {"$oid": "51a7708c3c002ed20d78ac67"}, "iucr": "1365", "longitude": "-87.71145058766434", "location_description": "RESIDENCE", "x_coordinate": "1153574", "updated_on": {"$date": 1369442383000}, "fbi_code": "26", "block": "005XX N HOMAN AVE"}
+{
+    "y_coordinate": "1903510", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286014", 
+    "id": "9140999", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71145058766434, 
+            41.891071556291784
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.891071556291784", 
+    "type": null, 
+    "description": "TO RESIDENCE", 
+    "beat": "1121", 
+    "date": {
+        "$date": 1369225800000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51a7708c3c002ed20d78ac67"
+    }, 
+    "iucr": "1365", 
+    "longitude": "-87.71145058766434", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1153574", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "26", 
+    "block": "005XX N HOMAN AVE"
+}

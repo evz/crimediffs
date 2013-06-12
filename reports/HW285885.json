@@ -1,1 +1,38 @@
-{"y_coordinate": "1909038", "year": "2013", "domestic": false, "case_number": "HW285885", "id": "9141059", "primary_type": "THEFT", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66497846341925, 41.90598062722759]}, "community_area": "24", "latitude": "41.90598062722759", "type": "property", "description": "FROM BUILDING", "beat": "1433", "date": {"$date": 1369209600000}, "ward": "1", "_id": {"$oid": "51a7708d3c002ed20d78ad00"}, "iucr": "890", "longitude": "-87.66497846341925", "location_description": "RESIDENCE", "x_coordinate": "1166185", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "013XX N GREENVIEW AVE"}
+{
+    "y_coordinate": "1909038", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285885", 
+    "id": "9141059", 
+    "primary_type": "THEFT", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66497846341925, 
+            41.90598062722759
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.90598062722759", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1433", 
+    "date": {
+        "$date": 1369209600000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad00"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.66497846341925", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1166185", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "013XX N GREENVIEW AVE"
+}

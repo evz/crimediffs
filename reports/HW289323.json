@@ -1,1 +1,38 @@
-{"y_coordinate": "1846788", "year": "2013", "domestic": false, "case_number": "HW289323", "id": "9144366", "primary_type": "THEFT", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.58574387177988, 41.73466140983947]}, "community_area": "48", "latitude": "41.73466140983947", "type": "property", "description": "RETAIL THEFT", "beat": "0412", "date": {"$date": 1369411140000}, "ward": "8", "_id": {"$oid": "51aa13903c002ed20d78afa4"}, "iucr": "860", "longitude": "-87.58574387177988", "location_description": "SMALL RETAIL STORE", "x_coordinate": "1188297", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "088XX S STONY ISLAND AVE"}
+{
+    "y_coordinate": "1846788", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289323", 
+    "id": "9144366", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58574387177988, 
+            41.73466140983947
+        ]
+    }, 
+    "community_area": "48", 
+    "latitude": "41.73466140983947", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0412", 
+    "date": {
+        "$date": 1369411140000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51aa13903c002ed20d78afa4"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.58574387177988", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1188297", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "088XX S STONY ISLAND AVE"
+}

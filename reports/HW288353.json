@@ -1,1 +1,38 @@
-{"y_coordinate": "1868073", "year": "2013", "domestic": false, "case_number": "HW288353", "id": "9143262", "primary_type": "CRIMINAL DAMAGE", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63195368409988, 41.793365151674344]}, "community_area": "68", "latitude": "41.793365151674344", "type": "quality", "description": "TO PROPERTY", "beat": "0711", "date": {"$date": 1369345200000}, "ward": "3", "_id": {"$oid": "51aa13943c002ed20d78b1d1"}, "iucr": "1310", "longitude": "-87.63195368409988", "location_description": "RESIDENCE", "x_coordinate": "1175510", "updated_on": {"$date": 1369528777000}, "fbi_code": "14", "block": "055XX S WELLS ST"}
+{
+    "y_coordinate": "1868073", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288353", 
+    "id": "9143262", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63195368409988, 
+            41.793365151674344
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.793365151674344", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0711", 
+    "date": {
+        "$date": 1369345200000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1d1"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.63195368409988", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1175510", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "14", 
+    "block": "055XX S WELLS ST"
+}

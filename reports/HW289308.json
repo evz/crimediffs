@@ -1,1 +1,38 @@
-{"y_coordinate": "1857941", "year": "2013", "domestic": false, "case_number": "HW289308", "id": "9144390", "primary_type": "BURGLARY", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58350841193901, 41.76525403419213]}, "community_area": "43", "latitude": "41.76525403419213", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0324", "date": {"$date": 1369389600000}, "ward": "5", "_id": {"$oid": "51aa13923c002ed20d78b0bf"}, "iucr": "610", "longitude": "-87.58350841193901", "location_description": "APARTMENT", "x_coordinate": "1188810", "updated_on": {"$date": 1369615194000}, "fbi_code": "05", "block": "071XX S EAST END AVE"}
+{
+    "y_coordinate": "1857941", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289308", 
+    "id": "9144390", 
+    "primary_type": "BURGLARY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58350841193901, 
+            41.76525403419213
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76525403419213", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0324", 
+    "date": {
+        "$date": 1369389600000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b0bf"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.58350841193901", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1188810", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "05", 
+    "block": "071XX S EAST END AVE"
+}

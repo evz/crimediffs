@@ -1,1 +1,38 @@
-{"y_coordinate": "1864070", "year": "2013", "domestic": false, "case_number": "HW299703", "id": "9154511", "primary_type": "BURGLARY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64094944042236, 41.7824343411938]}, "community_area": "68", "latitude": "41.7824343411938", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0711", "date": {"$date": 1370082600000}, "ward": "16", "_id": {"$oid": "51b5f1213c002ed20d78d12c"}, "iucr": "610", "longitude": "-87.64094944042236", "location_description": "APARTMENT", "x_coordinate": "1173089", "updated_on": {"$date": 1370565766000}, "fbi_code": "05", "block": "006XX W 61ST PL"}
+{
+    "y_coordinate": "1864070", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299703", 
+    "id": "9154511", 
+    "primary_type": "BURGLARY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64094944042236, 
+            41.7824343411938
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.7824343411938", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0711", 
+    "date": {
+        "$date": 1370082600000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d12c"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.64094944042236", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1173089", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "05", 
+    "block": "006XX W 61ST PL"
+}

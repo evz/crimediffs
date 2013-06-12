@@ -1,1 +1,38 @@
-{"y_coordinate": "1911048", "year": "2013", "domestic": true, "case_number": "HW299602", "id": "9154368", "primary_type": "BATTERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72536428240689, 41.91183213186464]}, "community_area": "23", "latitude": "41.91183213186464", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "2535", "date": {"$date": 1370076000000}, "ward": "30", "_id": {"$oid": "51b5f1213c002ed20d78d169"}, "iucr": "486", "longitude": "-87.72536428240689", "location_description": "VEHICLE NON-COMMERCIAL", "x_coordinate": "1149732", "updated_on": {"$date": 1370651988000}, "fbi_code": "08B", "block": "039XX W WABANSIA AVE"}
+{
+    "y_coordinate": "1911048", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW299602", 
+    "id": "9154368", 
+    "primary_type": "BATTERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72536428240689, 
+            41.91183213186464
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.91183213186464", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "2535", 
+    "date": {
+        "$date": 1370076000000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d169"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.72536428240689", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1149732", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "08B", 
+    "block": "039XX W WABANSIA AVE"
+}

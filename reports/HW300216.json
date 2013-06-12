@@ -1,1 +1,38 @@
-{"y_coordinate": "1853987", "year": "2013", "domestic": false, "case_number": "HW300216", "id": "9154691", "primary_type": "BURGLARY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.5502134726556, 41.754180969389175]}, "community_area": "43", "latitude": "41.754180969389175", "type": "property", "description": "UNLAWFUL ENTRY", "beat": "0421", "date": {"$date": 1370098800000}, "ward": "7", "_id": {"$oid": "51b5f1203c002ed20d78d077"}, "iucr": "620", "longitude": "-87.5502134726556", "location_description": "RESIDENCE", "x_coordinate": "1197930", "updated_on": {"$date": 1370306580000}, "fbi_code": "05", "block": "078XX S SOUTH SHORE DR"}
+{
+    "y_coordinate": "1853987", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300216", 
+    "id": "9154691", 
+    "primary_type": "BURGLARY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5502134726556, 
+            41.754180969389175
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.754180969389175", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "0421", 
+    "date": {
+        "$date": 1370098800000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d077"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.5502134726556", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1197930", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "05", 
+    "block": "078XX S SOUTH SHORE DR"
+}

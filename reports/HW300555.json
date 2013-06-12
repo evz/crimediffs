@@ -1,1 +1,38 @@
-{"y_coordinate": "1912369", "year": "2013", "domestic": false, "case_number": "HW300555", "id": "9154964", "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", "district": "014", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71363943143888, 41.91539458530176]}, "community_area": "22", "latitude": "41.91539458530176", "type": null, "description": "OBSTRUCTING IDENTIFICATION", "beat": "1422", "date": {"$date": 1370125200000}, "ward": "26", "_id": {"$oid": "51b5f11e3c002ed20d78cf50"}, "iucr": "3731", "longitude": "-87.71363943143888", "location_description": "SIDEWALK", "x_coordinate": "1152914", "updated_on": {"$date": 1370306580000}, "fbi_code": "24", "block": "035XX W CORTLAND ST"}
+{
+    "y_coordinate": "1912369", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300555", 
+    "id": "9154964", 
+    "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", 
+    "district": "014", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71363943143888, 
+            41.91539458530176
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.91539458530176", 
+    "type": null, 
+    "description": "OBSTRUCTING IDENTIFICATION", 
+    "beat": "1422", 
+    "date": {
+        "$date": 1370125200000
+    }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf50"
+    }, 
+    "iucr": "3731", 
+    "longitude": "-87.71363943143888", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1152914", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "24", 
+    "block": "035XX W CORTLAND ST"
+}

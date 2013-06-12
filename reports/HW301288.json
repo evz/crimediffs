@@ -1,1 +1,33 @@
-{"community_area": "53", "_id": {"$oid": "51b5f11f3c002ed20d78d06a"}, "primary_type": "OFFENSE INVOLVING CHILDREN", "beat": "0532", "year": "2013", "domestic": true, "iucr": "1750", "arrest": false, "location_description": "APARTMENT", "location": {"type": "Point", "coordinates": [-87.61679674027403, 41.67343851282355]}, "case_number": "HW301288", "date": {"$date": 1370098800000}, "updated_on": {"$date": 1370738354000}, "ward": "9", "fbi_code": "20", "type": null, "id": "9157276", "block": "002XX E 121ST PL", "description": "CHILD ABUSE"}
+{
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d06a"
+    }, 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "year": "2013", 
+    "beat": "0532", 
+    "case_number": "HW301288", 
+    "domestic": true, 
+    "iucr": "1750", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61679674027403, 
+            41.67343851282355
+        ]
+    }, 
+    "community_area": "53", 
+    "date": {
+        "$date": 1370098800000
+    }, 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "ward": "9", 
+    "fbi_code": "20", 
+    "type": null, 
+    "id": "9157276", 
+    "block": "002XX E 121ST PL", 
+    "description": "CHILD ABUSE"
+}

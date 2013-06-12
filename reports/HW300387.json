@@ -1,1 +1,38 @@
-{"y_coordinate": "1904820", "year": "2013", "domestic": false, "case_number": "HW300387", "id": "9154824", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71492318011087, 41.8946852663388]}, "community_area": "23", "latitude": "41.8946852663388", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "1121", "date": {"$date": 1370113200000}, "ward": "27", "_id": {"$oid": "51b5f11f3c002ed20d78cfe1"}, "iucr": "2024", "longitude": "-87.71492318011087", "location_description": "SIDEWALK", "x_coordinate": "1152619", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "007XX N DRAKE AVE"}
+{
+    "y_coordinate": "1904820", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300387", 
+    "id": "9154824", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71492318011087, 
+            41.8946852663388
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.8946852663388", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "1121", 
+    "date": {
+        "$date": 1370113200000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cfe1"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.71492318011087", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1152619", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "007XX N DRAKE AVE"
+}

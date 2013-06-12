@@ -1,1 +1,38 @@
-{"y_coordinate": "1862502", "year": "2013", "domestic": true, "case_number": "HW283446", "id": "9138041", "primary_type": "BATTERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.77627473268902, 41.778867166553404]}, "community_area": "64", "latitude": "41.778867166553404", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0812", "date": {"$date": 1369074360000}, "ward": "23", "_id": {"$oid": "51a4cd8f3c002ed20d78a435"}, "iucr": "486", "longitude": "-87.77627473268902", "location_description": "RESIDENCE", "x_coordinate": "1136189", "updated_on": {"$date": 1369356045000}, "fbi_code": "08B", "block": "062XX S MELVINA AVE"}
+{
+    "y_coordinate": "1862502", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283446", 
+    "id": "9138041", 
+    "primary_type": "BATTERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77627473268902, 
+            41.778867166553404
+        ]
+    }, 
+    "community_area": "64", 
+    "latitude": "41.778867166553404", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0812", 
+    "date": {
+        "$date": 1369074360000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51a4cd8f3c002ed20d78a435"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.77627473268902", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1136189", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08B", 
+    "block": "062XX S MELVINA AVE"
+}

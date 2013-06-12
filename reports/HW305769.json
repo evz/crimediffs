@@ -1,1 +1,38 @@
-{"y_coordinate": "1897352", "year": "2013", "domestic": false, "case_number": "HW305769", "id": "9160725", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68451105617056, 41.87402344603888]}, "community_area": "28", "latitude": "41.87402344603888", "type": "property", "description": "OVER $500", "beat": "1225", "date": {"$date": 1370304000000}, "ward": "2", "_id": {"$oid": "51b742963c002ed20d78d20c"}, "iucr": "810", "longitude": "-87.68451105617056", "location_description": "STREET", "x_coordinate": "1160956", "updated_on": {"$date": 1370651988000}, "fbi_code": "06", "block": "023XX W HARRISON ST"}
+{
+    "y_coordinate": "1897352", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW305769", 
+    "id": "9160725", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68451105617056, 
+            41.87402344603888
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.87402344603888", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1225", 
+    "date": {
+        "$date": 1370304000000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b742963c002ed20d78d20c"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.68451105617056", 
+    "location_description": "STREET", 
+    "x_coordinate": "1160956", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "06", 
+    "block": "023XX W HARRISON ST"
+}

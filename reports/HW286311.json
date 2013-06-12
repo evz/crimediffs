@@ -1,1 +1,38 @@
-{"y_coordinate": "1917026", "year": "2013", "domestic": false, "case_number": "HW286311", "id": "9141349", "primary_type": "BURGLARY", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64545807945656, 41.9277862328953]}, "community_area": "7", "latitude": "41.9277862328953", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1935", "date": {"$date": 1369234200000}, "ward": "43", "_id": {"$oid": "51a7708b3c002ed20d78abf5"}, "iucr": "610", "longitude": "-87.64545807945656", "location_description": "RESIDENCE", "x_coordinate": "1171435", "updated_on": {"$date": 1370651988000}, "fbi_code": "05", "block": "006XX W DEMING PL"}
+{
+    "y_coordinate": "1917026", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286311", 
+    "id": "9141349", 
+    "primary_type": "BURGLARY", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64545807945656, 
+            41.9277862328953
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.9277862328953", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1935", 
+    "date": {
+        "$date": 1369234200000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78abf5"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.64545807945656", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1171435", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "05", 
+    "block": "006XX W DEMING PL"
+}

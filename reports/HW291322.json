@@ -1,1 +1,38 @@
-{"y_coordinate": "1899390", "year": "2013", "domestic": false, "case_number": "HW291322", "id": "9145897", "primary_type": "THEFT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63106247230913, 41.879301812741836]}, "community_area": "32", "latitude": "41.879301812741836", "type": "property", "description": "FROM BUILDING", "beat": "0122", "date": {"$date": 1369260000000}, "ward": "42", "_id": {"$oid": "51a770883c002ed20d78aa97"}, "iucr": "890", "longitude": "-87.63106247230913", "location_description": "RESTAURANT", "x_coordinate": "1175497", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "001XX W ADAMS ST"}
+{
+    "y_coordinate": "1899390", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291322", 
+    "id": "9145897", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63106247230913, 
+            41.879301812741836
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.879301812741836", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0122", 
+    "date": {
+        "$date": 1369260000000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a770883c002ed20d78aa97"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.63106247230913", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1175497", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "001XX W ADAMS ST"
+}

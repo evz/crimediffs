@@ -1,1 +1,38 @@
-{"y_coordinate": "1862673", "year": "2013", "domestic": false, "case_number": "HW283864", "id": "9138382", "primary_type": "ROBBERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67374702989648, 41.77879355049369]}, "community_area": "67", "latitude": "41.77879355049369", "type": "violent", "description": "ATTEMPT: ARMED-HANDGUN", "beat": "0726", "date": {"$date": 1369097100000}, "ward": "15", "_id": {"$oid": "51a4cd8b3c002ed20d78a328"}, "iucr": "033A", "longitude": "-87.67374702989648", "location_description": "SIDEWALK", "x_coordinate": "1164154", "updated_on": {"$date": 1370220023000}, "fbi_code": "03", "block": "063XX S DAMEN AVE"}
+{
+    "y_coordinate": "1862673", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283864", 
+    "id": "9138382", 
+    "primary_type": "ROBBERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67374702989648, 
+            41.77879355049369
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.77879355049369", 
+    "type": "violent", 
+    "description": "ATTEMPT: ARMED-HANDGUN", 
+    "beat": "0726", 
+    "date": {
+        "$date": 1369097100000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51a4cd8b3c002ed20d78a328"
+    }, 
+    "iucr": "033A", 
+    "longitude": "-87.67374702989648", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1164154", 
+    "updated_on": {
+        "$date": 1370220023000
+    }, 
+    "fbi_code": "03", 
+    "block": "063XX S DAMEN AVE"
+}

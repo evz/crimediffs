@@ -1,1 +1,38 @@
-{"y_coordinate": "1919498", "year": "2013", "domestic": true, "case_number": "HW284265", "id": "9139019", "primary_type": "BATTERY", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69540197790317, 41.934858297871735]}, "community_area": "21", "latitude": "41.934858297871735", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1411", "date": {"$date": 1369123200000}, "ward": "1", "_id": {"$oid": "51a61f103c002ed20d78a9a2"}, "iucr": "486", "longitude": "-87.69540197790317", "location_description": "POOL ROOM", "x_coordinate": "1157825", "updated_on": {"$date": 1370565766000}, "fbi_code": "08B", "block": "029XX N WASHTENAW AVE"}
+{
+    "y_coordinate": "1919498", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW284265", 
+    "id": "9139019", 
+    "primary_type": "BATTERY", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69540197790317, 
+            41.934858297871735
+        ]
+    }, 
+    "community_area": "21", 
+    "latitude": "41.934858297871735", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1411", 
+    "date": {
+        "$date": 1369123200000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51a61f103c002ed20d78a9a2"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.69540197790317", 
+    "location_description": "POOL ROOM", 
+    "x_coordinate": "1157825", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "08B", 
+    "block": "029XX N WASHTENAW AVE"
+}

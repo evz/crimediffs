@@ -1,1 +1,38 @@
-{"y_coordinate": "1890520", "year": "2013", "domestic": false, "case_number": "HW290318", "id": "9145034", "primary_type": "BATTERY", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63077457814717, 41.85495856215365]}, "community_area": "34", "latitude": "41.85495856215365", "type": null, "description": "SIMPLE", "beat": "0914", "date": {"$date": 1369482600000}, "ward": "25", "_id": {"$oid": "51b34a113c002ed20d78caa0"}, "iucr": "460", "longitude": "-87.63077457814717", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1175648", "updated_on": {"$date": 1369615194000}, "fbi_code": "08B", "block": "020XX S ARCHER AVE"}
+{
+    "y_coordinate": "1890520", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290318", 
+    "id": "9145034", 
+    "primary_type": "BATTERY", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63077457814717, 
+            41.85495856215365
+        ]
+    }, 
+    "community_area": "34", 
+    "latitude": "41.85495856215365", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0914", 
+    "date": {
+        "$date": 1369482600000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51b34a113c002ed20d78caa0"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.63077457814717", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1175648", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "08B", 
+    "block": "020XX S ARCHER AVE"
+}

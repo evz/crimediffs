@@ -1,1 +1,38 @@
-{"y_coordinate": "1899050", "year": "2013", "domestic": true, "case_number": "HW285447", "id": "9140062", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7296604079154, 41.87892938572281]}, "community_area": "26", "latitude": "41.87892938572281", "type": "violent", "description": "AGGRAVATED DOMESTIC BATTERY: KNIFE/CUTTING INST", "beat": "1115", "date": {"$date": 1369187400000}, "ward": "28", "_id": {"$oid": "51a61f053c002ed20d78a692"}, "iucr": "496", "longitude": "-87.7296604079154", "location_description": "SIDEWALK", "x_coordinate": "1148647", "updated_on": {"$date": 1369356045000}, "fbi_code": "04B", "block": "041XX W WILCOX ST"}
+{
+    "y_coordinate": "1899050", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285447", 
+    "id": "9140062", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7296604079154, 
+            41.87892938572281
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.87892938572281", 
+    "type": "violent", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: KNIFE/CUTTING INST", 
+    "beat": "1115", 
+    "date": {
+        "$date": 1369187400000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51a61f053c002ed20d78a692"
+    }, 
+    "iucr": "496", 
+    "longitude": "-87.7296604079154", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1148647", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "04B", 
+    "block": "041XX W WILCOX ST"
+}

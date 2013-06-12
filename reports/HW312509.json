@@ -1,1 +1,33 @@
-{"community_area": "65", "_id": {"$oid": "51b742a03c002ed20d78d515"}, "primary_type": "CRIMINAL DAMAGE", "beat": "0833", "year": "2013", "domestic": false, "iucr": "1305", "arrest": false, "location_description": "RESIDENCE-GARAGE", "location": {"type": "Point", "coordinates": [-87.71641548642593, 41.768849252013524]}, "case_number": "HW312509", "date": {"$date": 1370163600000}, "updated_on": {"$date": 1370911182000}, "ward": "13", "fbi_code": "14", "type": "quality", "id": "9167083", "block": "037XX W 68TH PL", "description": "CRIMINAL DEFACEMENT"}
+{
+    "_id": {
+        "$oid": "51b742a03c002ed20d78d515"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "year": "2013", 
+    "beat": "0833", 
+    "case_number": "HW312509", 
+    "domestic": false, 
+    "iucr": "1305", 
+    "arrest": false, 
+    "location_description": "RESIDENCE-GARAGE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71641548642593, 
+            41.768849252013524
+        ]
+    }, 
+    "community_area": "65", 
+    "date": {
+        "$date": 1370163600000
+    }, 
+    "updated_on": {
+        "$date": 1370911182000
+    }, 
+    "ward": "13", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9167083", 
+    "block": "037XX W 68TH PL", 
+    "description": "CRIMINAL DEFACEMENT"
+}

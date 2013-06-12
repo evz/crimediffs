@@ -1,1 +1,38 @@
-{"y_coordinate": "1941301", "year": "2013", "domestic": true, "case_number": "HW288254", "id": "9143248", "primary_type": "ASSAULT", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65772240794743, 41.994474662003114]}, "community_area": "77", "latitude": "41.994474662003114", "type": null, "description": "SIMPLE", "beat": "2433", "date": {"$date": 1369344720000}, "ward": "48", "_id": {"$oid": "51aa13943c002ed20d78b1d4"}, "iucr": "560", "longitude": "-87.65772240794743", "location_description": "APARTMENT", "x_coordinate": "1167906", "updated_on": {"$date": 1369528777000}, "fbi_code": "08A", "block": "010XX W GRANVILLE AVE"}
+{
+    "y_coordinate": "1941301", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW288254", 
+    "id": "9143248", 
+    "primary_type": "ASSAULT", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65772240794743, 
+            41.994474662003114
+        ]
+    }, 
+    "community_area": "77", 
+    "latitude": "41.994474662003114", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2433", 
+    "date": {
+        "$date": 1369344720000
+    }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1d4"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.65772240794743", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1167906", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "08A", 
+    "block": "010XX W GRANVILLE AVE"
+}

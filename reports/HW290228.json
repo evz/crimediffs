@@ -1,1 +1,38 @@
-{"y_coordinate": "1848769", "year": "2013", "domestic": true, "case_number": "HW290228", "id": "9144929", "primary_type": "OFFENSE INVOLVING CHILDREN", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6240998631918, 41.740341041192195]}, "community_area": "44", "latitude": "41.740341041192195", "type": null, "description": "CHILD ABUSE", "beat": "0632", "date": {"$date": 1369267200000}, "ward": "6", "_id": {"$oid": "51a770873c002ed20d78aa54"}, "iucr": "1750", "longitude": "-87.6240998631918", "location_description": "RESIDENCE", "x_coordinate": "1177811", "updated_on": {"$date": 1369787985000}, "fbi_code": "20", "block": "084XX S STATE ST"}
+{
+    "y_coordinate": "1848769", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290228", 
+    "id": "9144929", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6240998631918, 
+            41.740341041192195
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.740341041192195", 
+    "type": null, 
+    "description": "CHILD ABUSE", 
+    "beat": "0632", 
+    "date": {
+        "$date": 1369267200000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a770873c002ed20d78aa54"
+    }, 
+    "iucr": "1750", 
+    "longitude": "-87.6240998631918", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1177811", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "20", 
+    "block": "084XX S STATE ST"
+}

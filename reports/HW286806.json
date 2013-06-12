@@ -1,1 +1,38 @@
-{"y_coordinate": "1844479", "year": "2013", "domestic": false, "case_number": "HW286806", "id": "9142755", "primary_type": "MOTOR VEHICLE THEFT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65375484794443, 41.728747158609536]}, "community_area": "73", "latitude": "41.728747158609536", "type": "property", "description": "ATT: AUTOMOBILE", "beat": "2222", "date": {"$date": 1369251900000}, "ward": "21", "_id": {"$oid": "51a770893c002ed20d78ab12"}, "iucr": "920", "longitude": "-87.65375484794443", "location_description": "STREET", "x_coordinate": "1169751", "updated_on": {"$date": 1369528777000}, "fbi_code": "07", "block": "012XX W 91ST ST"}
+{
+    "y_coordinate": "1844479", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286806", 
+    "id": "9142755", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65375484794443, 
+            41.728747158609536
+        ]
+    }, 
+    "community_area": "73", 
+    "latitude": "41.728747158609536", 
+    "type": "property", 
+    "description": "ATT: AUTOMOBILE", 
+    "beat": "2222", 
+    "date": {
+        "$date": 1369251900000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51a770893c002ed20d78ab12"
+    }, 
+    "iucr": "920", 
+    "longitude": "-87.65375484794443", 
+    "location_description": "STREET", 
+    "x_coordinate": "1169751", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "07", 
+    "block": "012XX W 91ST ST"
+}

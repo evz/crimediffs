@@ -1,1 +1,38 @@
-{"y_coordinate": "1934267", "year": "2013", "domestic": false, "case_number": "HW284470", "id": "9139279", "primary_type": "MOTOR VEHICLE THEFT", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6661048114235, 41.97522101831158]}, "community_area": "3", "latitude": "41.97522101831158", "type": "property", "description": "AUTOMOBILE", "beat": "2033", "date": {"$date": 1369098600000}, "ward": "46", "_id": {"$oid": "51a4cd8b3c002ed20d78a31a"}, "iucr": "910", "longitude": "-87.6661048114235", "location_description": "STREET", "x_coordinate": "1165682", "updated_on": {"$date": 1369356045000}, "fbi_code": "07", "block": "014XX W WINONA ST"}
+{
+    "y_coordinate": "1934267", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284470", 
+    "id": "9139279", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6661048114235, 
+            41.97522101831158
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.97522101831158", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "2033", 
+    "date": {
+        "$date": 1369098600000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51a4cd8b3c002ed20d78a31a"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.6661048114235", 
+    "location_description": "STREET", 
+    "x_coordinate": "1165682", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "07", 
+    "block": "014XX W WINONA ST"
+}

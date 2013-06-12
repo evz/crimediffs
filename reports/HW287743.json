@@ -1,1 +1,38 @@
-{"y_coordinate": "1946694", "year": "2013", "domestic": true, "case_number": "HW287743", "id": "9142885", "primary_type": "ASSAULT", "district": "024", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66175653972724, 42.009297736348316]}, "community_area": "1", "latitude": "42.009297736348316", "type": "violent", "description": "AGGRAVATED: OTHER DANG WEAPON", "beat": "2423", "date": {"$date": 1369321200000}, "ward": "49", "_id": {"$oid": "51aa13973c002ed20d78b2f3"}, "iucr": "530", "longitude": "-87.66175653972724", "location_description": "APARTMENT", "x_coordinate": "1166767", "updated_on": {"$date": 1369528777000}, "fbi_code": "04A", "block": "011XX W LUNT AVE"}
+{
+    "y_coordinate": "1946694", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW287743", 
+    "id": "9142885", 
+    "primary_type": "ASSAULT", 
+    "district": "024", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66175653972724, 
+            42.009297736348316
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "42.009297736348316", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "2423", 
+    "date": {
+        "$date": 1369321200000
+    }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b2f3"
+    }, 
+    "iucr": "530", 
+    "longitude": "-87.66175653972724", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1166767", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "04A", 
+    "block": "011XX W LUNT AVE"
+}

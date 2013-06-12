@@ -1,1 +1,38 @@
-{"y_coordinate": "1871642", "year": "2013", "domestic": false, "case_number": "HW286128", "id": "9141527", "primary_type": "THEFT", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74319969969011, 41.80378485820042]}, "community_area": "56", "latitude": "41.80378485820042", "type": "property", "description": "$500 AND UNDER", "beat": "0814", "date": {"$date": 1369171800000}, "ward": "23", "_id": {"$oid": "51a61f093c002ed20d78a725"}, "iucr": "820", "longitude": "-87.74319969969011", "location_description": "GAS STATION", "x_coordinate": "1145148", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "049XX S CICERO AVE"}
+{
+    "y_coordinate": "1871642", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286128", 
+    "id": "9141527", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74319969969011, 
+            41.80378485820042
+        ]
+    }, 
+    "community_area": "56", 
+    "latitude": "41.80378485820042", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0814", 
+    "date": {
+        "$date": 1369171800000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51a61f093c002ed20d78a725"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.74319969969011", 
+    "location_description": "GAS STATION", 
+    "x_coordinate": "1145148", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "049XX S CICERO AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1901306", "year": "2013", "domestic": false, "case_number": "HW283895", "id": "9141298", "primary_type": "BURGLARY", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63404539566383, 41.88457798351812]}, "community_area": "32", "latitude": "41.88457798351812", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0122", "date": {"$date": 1369080900000}, "ward": "42", "_id": {"$oid": "51a4cd8e3c002ed20d78a3ca"}, "iucr": "610", "longitude": "-87.63404539566383", "location_description": "RESTAURANT", "x_coordinate": "1174669", "updated_on": {"$date": 1369442383000}, "fbi_code": "05", "block": "002XX W RANDOLPH ST"}
+{
+    "y_coordinate": "1901306", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283895", 
+    "id": "9141298", 
+    "primary_type": "BURGLARY", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63404539566383, 
+            41.88457798351812
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88457798351812", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0122", 
+    "date": {
+        "$date": 1369080900000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51a4cd8e3c002ed20d78a3ca"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.63404539566383", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1174669", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "05", 
+    "block": "002XX W RANDOLPH ST"
+}

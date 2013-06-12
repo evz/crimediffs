@@ -1,1 +1,38 @@
-{"y_coordinate": "1913826", "year": "2013", "domestic": false, "case_number": "HW288023", "id": "9143031", "primary_type": "BURGLARY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7671923474121, 41.9196694589815]}, "community_area": "19", "latitude": "41.9196694589815", "type": "property", "description": "FORCIBLE ENTRY", "beat": "2515", "date": {"$date": 1369301400000}, "ward": "29", "_id": {"$oid": "51aa13983c002ed20d78b3d4"}, "iucr": "610", "longitude": "-87.7671923474121", "location_description": "RESIDENCE", "x_coordinate": "1138328", "updated_on": {"$date": 1370392932000}, "fbi_code": "05", "block": "021XX N PARKSIDE AVE"}
+{
+    "y_coordinate": "1913826", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288023", 
+    "id": "9143031", 
+    "primary_type": "BURGLARY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7671923474121, 
+            41.9196694589815
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.9196694589815", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "2515", 
+    "date": {
+        "$date": 1369301400000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3d4"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.7671923474121", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1138328", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "05", 
+    "block": "021XX N PARKSIDE AVE"
+}

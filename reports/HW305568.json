@@ -1,1 +1,38 @@
-{"y_coordinate": "1889792", "year": "2013", "domestic": false, "case_number": "HW305568", "id": "9160663", "primary_type": "CRIMINAL DAMAGE", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63558250039806, 41.852990054265234]}, "community_area": "34", "latitude": "41.852990054265234", "type": "quality", "description": "TO PROPERTY", "beat": "0914", "date": {"$date": 1370311200000}, "ward": "25", "_id": {"$oid": "51b742953c002ed20d78d1e3"}, "iucr": "1310", "longitude": "-87.63558250039806", "location_description": "DRUG STORE", "x_coordinate": "1174344", "updated_on": {"$date": 1370651988000}, "fbi_code": "14", "block": "003XX W CERMAK RD"}
+{
+    "y_coordinate": "1889792", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW305568", 
+    "id": "9160663", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63558250039806, 
+            41.852990054265234
+        ]
+    }, 
+    "community_area": "34", 
+    "latitude": "41.852990054265234", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0914", 
+    "date": {
+        "$date": 1370311200000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51b742953c002ed20d78d1e3"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.63558250039806", 
+    "location_description": "DRUG STORE", 
+    "x_coordinate": "1174344", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "14", 
+    "block": "003XX W CERMAK RD"
+}

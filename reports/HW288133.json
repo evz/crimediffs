@@ -1,1 +1,38 @@
-{"y_coordinate": "1915295", "year": "2013", "domestic": false, "case_number": "HW288133", "id": "9143027", "primary_type": "CRIMINAL DAMAGE", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7853231702633, 41.92378869796135]}, "community_area": "19", "latitude": "41.92378869796135", "type": "quality", "description": "CRIMINAL DEFACEMENT", "beat": "2512", "date": {"$date": 1369337400000}, "ward": "29", "_id": {"$oid": "51aa13953c002ed20d78b22b"}, "iucr": "1305", "longitude": "-87.7853231702633", "location_description": "CTA BUS STOP", "x_coordinate": "1133384", "updated_on": {"$date": 1369528777000}, "fbi_code": "14", "block": "063XX W FULLERTON AVE"}
+{
+    "y_coordinate": "1915295", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288133", 
+    "id": "9143027", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7853231702633, 
+            41.92378869796135
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.92378869796135", 
+    "type": "quality", 
+    "description": "CRIMINAL DEFACEMENT", 
+    "beat": "2512", 
+    "date": {
+        "$date": 1369337400000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b22b"
+    }, 
+    "iucr": "1305", 
+    "longitude": "-87.7853231702633", 
+    "location_description": "CTA BUS STOP", 
+    "x_coordinate": "1133384", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "14", 
+    "block": "063XX W FULLERTON AVE"
+}

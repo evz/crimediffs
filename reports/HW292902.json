@@ -1,1 +1,38 @@
-{"y_coordinate": "1882609", "year": "2013", "domestic": false, "case_number": "HW292902", "id": "9147116", "primary_type": "CRIMINAL TRESPASS", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6414434761787, 41.83331348391735]}, "community_area": "60", "latitude": "41.83331348391735", "type": null, "description": "TO RESIDENCE", "beat": "0915", "date": {"$date": 1369231200000}, "ward": "11", "_id": {"$oid": "51a7708b3c002ed20d78ac1d"}, "iucr": "1365", "longitude": "-87.6414434761787", "location_description": "RESIDENCE", "x_coordinate": "1172805", "updated_on": {"$date": 1370133629000}, "fbi_code": "26", "block": "033XX S WALLACE ST"}
+{
+    "y_coordinate": "1882609", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW292902", 
+    "id": "9147116", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6414434761787, 
+            41.83331348391735
+        ]
+    }, 
+    "community_area": "60", 
+    "latitude": "41.83331348391735", 
+    "type": null, 
+    "description": "TO RESIDENCE", 
+    "beat": "0915", 
+    "date": {
+        "$date": 1369231200000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78ac1d"
+    }, 
+    "iucr": "1365", 
+    "longitude": "-87.6414434761787", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1172805", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "26", 
+    "block": "033XX S WALLACE ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1907439", "year": "2013", "domestic": false, "case_number": "HW289806", "id": "20892", "primary_type": "HOMICIDE", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71911469508757, 41.90189492595782]}, "community_area": "23", "latitude": "41.90189492595782", "type": "violent", "description": "FIRST DEGREE MURDER", "beat": "1112", "date": {"$date": 1369439160000}, "ward": "27", "_id": {"$oid": "51aa138c3c002ed20d78ae1f"}, "iucr": "110", "longitude": "-87.71911469508757", "location_description": "STREET", "x_coordinate": "1151459", "updated_on": {"$date": 1369465287000}, "fbi_code": "01A", "block": "011XX N LAWNDALE AVE"}
+{
+    "y_coordinate": "1907439", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289806", 
+    "id": "20892", 
+    "primary_type": "HOMICIDE", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71911469508757, 
+            41.90189492595782
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.90189492595782", 
+    "type": "violent", 
+    "description": "FIRST DEGREE MURDER", 
+    "beat": "1112", 
+    "date": {
+        "$date": 1369439160000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae1f"
+    }, 
+    "iucr": "110", 
+    "longitude": "-87.71911469508757", 
+    "location_description": "STREET", 
+    "x_coordinate": "1151459", 
+    "updated_on": {
+        "$date": 1369465287000
+    }, 
+    "fbi_code": "01A", 
+    "block": "011XX N LAWNDALE AVE"
+}

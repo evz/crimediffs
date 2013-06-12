@@ -1,1 +1,38 @@
-{"y_coordinate": "1930707", "year": "2013", "domestic": false, "case_number": "HW288513", "id": "9143461", "primary_type": "CRIMINAL DAMAGE", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65169826752975, 41.96536702431937]}, "community_area": "3", "latitude": "41.96536702431937", "type": "quality", "description": "TO PROPERTY", "beat": "1914", "date": {"$date": 1369335600000}, "ward": "46", "_id": {"$oid": "51aa13953c002ed20d78b24b"}, "iucr": "1310", "longitude": "-87.65169826752975", "location_description": "MEDICAL/DENTAL OFFICE", "x_coordinate": "1169628", "updated_on": {"$date": 1369528777000}, "fbi_code": "14", "block": "008XX W WILSON AVE"}
+{
+    "y_coordinate": "1930707", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288513", 
+    "id": "9143461", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65169826752975, 
+            41.96536702431937
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.96536702431937", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1914", 
+    "date": {
+        "$date": 1369335600000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b24b"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.65169826752975", 
+    "location_description": "MEDICAL/DENTAL OFFICE", 
+    "x_coordinate": "1169628", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "14", 
+    "block": "008XX W WILSON AVE"
+}

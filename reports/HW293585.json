@@ -1,1 +1,38 @@
-{"y_coordinate": "1896458", "year": "2013", "domestic": false, "case_number": "HW293585", "id": "9147860", "primary_type": "BURGLARY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.76173508382766, 41.871980405572735]}, "community_area": "25", "latitude": "41.871980405572735", "type": "property", "description": "FORCIBLE ENTRY", "beat": "1522", "date": {"$date": 1369472400000}, "ward": "29", "_id": {"$oid": "51b34a123c002ed20d78caeb"}, "iucr": "610", "longitude": "-87.76173508382766", "location_description": "RESIDENCE", "x_coordinate": "1139929", "updated_on": {"$date": 1369960832000}, "fbi_code": "05", "block": "055XX W FLOURNOY ST"}
+{
+    "y_coordinate": "1896458", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW293585", 
+    "id": "9147860", 
+    "primary_type": "BURGLARY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76173508382766, 
+            41.871980405572735
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.871980405572735", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1522", 
+    "date": {
+        "$date": 1369472400000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78caeb"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.76173508382766", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1139929", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "05", 
+    "block": "055XX W FLOURNOY ST"
+}

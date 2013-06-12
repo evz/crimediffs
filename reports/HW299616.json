@@ -1,1 +1,38 @@
-{"y_coordinate": "1897998", "year": "2013", "domestic": false, "case_number": "HW299616", "id": "9154557", "primary_type": "THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72821155996571, 41.8760348094755]}, "community_area": "26", "latitude": "41.8760348094755", "type": "property", "description": "OVER $500", "beat": "1132", "date": {"$date": 1370077200000}, "ward": "24", "_id": {"$oid": "51b5f1213c002ed20d78d162"}, "iucr": "810", "longitude": "-87.72821155996571", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1149049", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "041XX W GLADYS AVE"}
+{
+    "y_coordinate": "1897998", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299616", 
+    "id": "9154557", 
+    "primary_type": "THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72821155996571, 
+            41.8760348094755
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.8760348094755", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1132", 
+    "date": {
+        "$date": 1370077200000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d162"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.72821155996571", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1149049", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "041XX W GLADYS AVE"
+}

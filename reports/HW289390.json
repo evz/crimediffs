@@ -1,1 +1,38 @@
-{"y_coordinate": "1869136", "year": "2013", "domestic": false, "case_number": "HW289390", "id": "9144256", "primary_type": "CRIMINAL DAMAGE", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62103074779472, 41.79621511499598]}, "community_area": "40", "latitude": "41.79621511499598", "type": "quality", "description": "TO VEHICLE", "beat": "0231", "date": {"$date": 1369332000000}, "ward": "3", "_id": {"$oid": "51aa13963c002ed20d78b273"}, "iucr": "1320", "longitude": "-87.62103074779472", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1178480", "updated_on": {"$date": 1369615194000}, "fbi_code": "14", "block": "054XX S INDIANA AVE"}
+{
+    "y_coordinate": "1869136", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289390", 
+    "id": "9144256", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62103074779472, 
+            41.79621511499598
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.79621511499598", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0231", 
+    "date": {
+        "$date": 1369332000000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b273"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.62103074779472", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1178480", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "14", 
+    "block": "054XX S INDIANA AVE"
+}

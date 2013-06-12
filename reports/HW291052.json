@@ -1,1 +1,38 @@
-{"y_coordinate": "1870050", "year": "2013", "domestic": false, "case_number": "HW291052", "id": "9145605", "primary_type": "WEAPONS VIOLATION", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.74309309098476, 41.79941540565143]}, "community_area": "56", "latitude": "41.79941540565143", "type": null, "description": "UNLAWFUL POSS OF HANDGUN", "beat": "0814", "date": {"$date": 1369525740000}, "ward": "23", "_id": {"$oid": "51b34a0d3c002ed20d78c8a9"}, "iucr": "143A", "longitude": "-87.74309309098476", "location_description": "OTHER", "x_coordinate": "1145188", "updated_on": {"$date": 1369701613000}, "fbi_code": "15", "block": "051XX S CICERO AVE"}
+{
+    "y_coordinate": "1870050", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291052", 
+    "id": "9145605", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74309309098476, 
+            41.79941540565143
+        ]
+    }, 
+    "community_area": "56", 
+    "latitude": "41.79941540565143", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "0814", 
+    "date": {
+        "$date": 1369525740000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c8a9"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.74309309098476", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1145188", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "15", 
+    "block": "051XX S CICERO AVE"
+}

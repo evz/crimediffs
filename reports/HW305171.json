@@ -1,1 +1,38 @@
-{"y_coordinate": "1934194", "year": "2013", "domestic": false, "case_number": "HW305171", "id": "9159967", "primary_type": "BURGLARY", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6565238315415, 41.97496460653481]}, "community_area": "3", "latitude": "41.97496460653481", "type": "property", "description": "FORCIBLE ENTRY", "beat": "2024", "date": {"$date": 1370163600000}, "ward": "48", "_id": {"$oid": "51b5f11c3c002ed20d78ce20"}, "iucr": "610", "longitude": "-87.6565238315415", "location_description": "APARTMENT", "x_coordinate": "1168288", "updated_on": {"$date": 1370738354000}, "fbi_code": "05", "block": "050XX N KENMORE AVE"}
+{
+    "y_coordinate": "1934194", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW305171", 
+    "id": "9159967", 
+    "primary_type": "BURGLARY", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6565238315415, 
+            41.97496460653481
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.97496460653481", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "2024", 
+    "date": {
+        "$date": 1370163600000
+    }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce20"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.6565238315415", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1168288", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "05", 
+    "block": "050XX N KENMORE AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1932380", "year": "2013", "domestic": false, "case_number": "HW304565", "id": "9159422", "primary_type": "THEFT", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73811169646672, 41.970438627960306]}, "community_area": "14", "latitude": "41.970438627960306", "type": "property", "description": "OVER $500", "beat": "1712", "date": {"$date": 1370296800000}, "ward": "39", "_id": {"$oid": "51b742973c002ed20d78d258"}, "iucr": "810", "longitude": "-87.73811169646672", "location_description": "STREET", "x_coordinate": "1146114", "updated_on": {"$date": 1370565766000}, "fbi_code": "06", "block": "049XX N KOSTNER AVE"}
+{
+    "y_coordinate": "1932380", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW304565", 
+    "id": "9159422", 
+    "primary_type": "THEFT", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73811169646672, 
+            41.970438627960306
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.970438627960306", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1712", 
+    "date": {
+        "$date": 1370296800000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51b742973c002ed20d78d258"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.73811169646672", 
+    "location_description": "STREET", 
+    "x_coordinate": "1146114", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "06", 
+    "block": "049XX N KOSTNER AVE"
+}

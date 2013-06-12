@@ -1,1 +1,38 @@
-{"y_coordinate": "1855567", "year": "2013", "domestic": false, "case_number": "HW288294", "id": "9147226", "primary_type": "ROBBERY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.5762838265032, 41.75869169919869]}, "community_area": "43", "latitude": "41.75869169919869", "type": "violent", "description": "AGGRAVATED", "beat": "0414", "date": {"$date": 1369343400000}, "ward": "8", "_id": {"$oid": "51aa13943c002ed20d78b1e2"}, "iucr": "330", "longitude": "-87.5762838265032", "location_description": "SIDEWALK", "x_coordinate": "1190802", "updated_on": {"$date": 1369874559000}, "fbi_code": "03", "block": "075XX S JEFFERY BLVD"}
+{
+    "y_coordinate": "1855567", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288294", 
+    "id": "9147226", 
+    "primary_type": "ROBBERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5762838265032, 
+            41.75869169919869
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.75869169919869", 
+    "type": "violent", 
+    "description": "AGGRAVATED", 
+    "beat": "0414", 
+    "date": {
+        "$date": 1369343400000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51aa13943c002ed20d78b1e2"
+    }, 
+    "iucr": "330", 
+    "longitude": "-87.5762838265032", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1190802", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "03", 
+    "block": "075XX S JEFFERY BLVD"
+}

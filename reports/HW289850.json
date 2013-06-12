@@ -1,1 +1,38 @@
-{"y_coordinate": "1926110", "year": "2013", "domestic": false, "case_number": "HW289850", "id": "9144686", "primary_type": "CRIMINAL DAMAGE", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74909430126158, 41.95328883980429]}, "community_area": "15", "latitude": "41.95328883980429", "type": "quality", "description": "CRIMINAL DEFACEMENT", "beat": "1634", "date": {"$date": 1369440300000}, "ward": "45", "_id": {"$oid": "51aa138b3c002ed20d78ae07"}, "iucr": "1305", "longitude": "-87.74909430126158", "location_description": "HOTEL/MOTEL", "x_coordinate": "1143170", "updated_on": {"$date": 1369874559000}, "fbi_code": "14", "block": "048XX W IRVING PARK RD"}
+{
+    "y_coordinate": "1926110", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289850", 
+    "id": "9144686", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74909430126158, 
+            41.95328883980429
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.95328883980429", 
+    "type": "quality", 
+    "description": "CRIMINAL DEFACEMENT", 
+    "beat": "1634", 
+    "date": {
+        "$date": 1369440300000
+    }, 
+    "ward": "45", 
+    "_id": {
+        "$oid": "51aa138b3c002ed20d78ae07"
+    }, 
+    "iucr": "1305", 
+    "longitude": "-87.74909430126158", 
+    "location_description": "HOTEL/MOTEL", 
+    "x_coordinate": "1143170", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "14", 
+    "block": "048XX W IRVING PARK RD"
+}

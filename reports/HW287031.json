@@ -1,1 +1,38 @@
-{"y_coordinate": "1844018", "year": "2013", "domestic": false, "case_number": "HW287031", "id": "9141831", "primary_type": "ASSAULT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58654996551599, 41.727064912015095]}, "community_area": "48", "latitude": "41.727064912015095", "type": null, "description": "SIMPLE", "beat": "0413", "date": {"$date": 1369274520000}, "ward": "8", "_id": {"$oid": "51a770853c002ed20d78aa08"}, "iucr": "560", "longitude": "-87.58654996551599", "location_description": "RESIDENCE", "x_coordinate": "1188101", "updated_on": {"$date": 1369442383000}, "fbi_code": "08A", "block": "092XX S HARPER AVE"}
+{
+    "y_coordinate": "1844018", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287031", 
+    "id": "9141831", 
+    "primary_type": "ASSAULT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58654996551599, 
+            41.727064912015095
+        ]
+    }, 
+    "community_area": "48", 
+    "latitude": "41.727064912015095", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0413", 
+    "date": {
+        "$date": 1369274520000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51a770853c002ed20d78aa08"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.58654996551599", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1188101", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "08A", 
+    "block": "092XX S HARPER AVE"
+}

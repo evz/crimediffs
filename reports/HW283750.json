@@ -1,1 +1,38 @@
-{"y_coordinate": "1897043", "year": "2013", "domestic": false, "case_number": "HW283750", "id": "9138303", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.7196008507431, 41.87336835603064]}, "community_area": "27", "latitude": "41.87336835603064", "type": "quality", "description": "MANU/DELIVER:PCP", "beat": "1133", "date": {"$date": 1369086300000}, "ward": "24", "_id": {"$oid": "51a4cd8d3c002ed20d78a386"}, "iucr": "2016", "longitude": "-87.7196008507431", "location_description": "GAS STATION", "x_coordinate": "1151401", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "006XX S INDEPENDENCE BLVD"}
+{
+    "y_coordinate": "1897043", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283750", 
+    "id": "9138303", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7196008507431, 
+            41.87336835603064
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.87336835603064", 
+    "type": "quality", 
+    "description": "MANU/DELIVER:PCP", 
+    "beat": "1133", 
+    "date": {
+        "$date": 1369086300000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a4cd8d3c002ed20d78a386"
+    }, 
+    "iucr": "2016", 
+    "longitude": "-87.7196008507431", 
+    "location_description": "GAS STATION", 
+    "x_coordinate": "1151401", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "006XX S INDEPENDENCE BLVD"
+}

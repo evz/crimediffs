@@ -1,1 +1,38 @@
-{"y_coordinate": "1924386", "year": "2013", "domestic": false, "case_number": "HW290196", "id": "9145020", "primary_type": "MOTOR VEHICLE THEFT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75880868074361, 41.94860683257066]}, "community_area": "15", "latitude": "41.94860683257066", "type": "property", "description": "AUTOMOBILE", "beat": "1634", "date": {"$date": 1369414800000}, "ward": "38", "_id": {"$oid": "51aa138f3c002ed20d78af60"}, "iucr": "910", "longitude": "-87.75880868074361", "location_description": "STREET", "x_coordinate": "1140539", "updated_on": {"$date": 1369787985000}, "fbi_code": "07", "block": "052XX W WARWICK AVE"}
+{
+    "y_coordinate": "1924386", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290196", 
+    "id": "9145020", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75880868074361, 
+            41.94860683257066
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.94860683257066", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1634", 
+    "date": {
+        "$date": 1369414800000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51aa138f3c002ed20d78af60"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.75880868074361", 
+    "location_description": "STREET", 
+    "x_coordinate": "1140539", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "07", 
+    "block": "052XX W WARWICK AVE"
+}

@@ -1,1 +1,33 @@
-{"community_area": "52", "_id": {"$oid": "51b5f11e3c002ed20d78cfac"}, "primary_type": "BATTERY", "beat": "0433", "year": "2013", "domestic": true, "iucr": "486", "arrest": false, "location_description": "STREET", "location": {"type": "Point", "coordinates": [-87.53420519808748, 41.68500190175688]}, "case_number": "HW300501", "date": {"$date": 1370117700000}, "updated_on": {"$date": 1370392932000}, "ward": "10", "fbi_code": "08B", "type": null, "id": "9155565", "block": "115XX S AVENUE J", "description": "DOMESTIC BATTERY SIMPLE"}
+{
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cfac"
+    }, 
+    "primary_type": "BATTERY", 
+    "year": "2013", 
+    "beat": "0433", 
+    "case_number": "HW300501", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.53420519808748, 
+            41.68500190175688
+        ]
+    }, 
+    "community_area": "52", 
+    "date": {
+        "$date": 1370117700000
+    }, 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "ward": "10", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9155565", 
+    "block": "115XX S AVENUE J", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}

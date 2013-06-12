@@ -1,1 +1,38 @@
-{"y_coordinate": "1871641", "year": "2013", "domestic": false, "case_number": "HW286534", "id": "9141541", "primary_type": "THEFT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64832845850871, 41.80325556128187]}, "community_area": "61", "latitude": "41.80325556128187", "type": "property", "description": "FROM BUILDING", "beat": "0933", "date": {"$date": 1369242600000}, "ward": "20", "_id": {"$oid": "51a7708a3c002ed20d78ab78"}, "iucr": "890", "longitude": "-87.64832845850871", "location_description": "ABANDONED BUILDING", "x_coordinate": "1171016", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "009XX W 50TH ST"}
+{
+    "y_coordinate": "1871641", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286534", 
+    "id": "9141541", 
+    "primary_type": "THEFT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64832845850871, 
+            41.80325556128187
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.80325556128187", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0933", 
+    "date": {
+        "$date": 1369242600000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab78"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.64832845850871", 
+    "location_description": "ABANDONED BUILDING", 
+    "x_coordinate": "1171016", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "009XX W 50TH ST"
+}

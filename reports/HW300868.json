@@ -1,1 +1,38 @@
-{"y_coordinate": "1861809", "year": "2013", "domestic": false, "case_number": "HW300868", "id": "9155212", "primary_type": "PROSTITUTION", "district": "008", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70293777995363, 41.77658636346826]}, "community_area": "66", "latitude": "41.77658636346826", "type": "quality", "description": "SOLICIT ON PUBLIC WAY", "beat": "0823", "date": {"$date": 1370155080000}, "ward": "15", "_id": {"$oid": "51b5f11c3c002ed20d78ce4e"}, "iucr": "1506", "longitude": "-87.70293777995363", "location_description": "STREET", "x_coordinate": "1156198", "updated_on": {"$date": 1370392932000}, "fbi_code": "16", "block": "064XX S KEDZIE AVE"}
+{
+    "y_coordinate": "1861809", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300868", 
+    "id": "9155212", 
+    "primary_type": "PROSTITUTION", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70293777995363, 
+            41.77658636346826
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.77658636346826", 
+    "type": "quality", 
+    "description": "SOLICIT ON PUBLIC WAY", 
+    "beat": "0823", 
+    "date": {
+        "$date": 1370155080000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51b5f11c3c002ed20d78ce4e"
+    }, 
+    "iucr": "1506", 
+    "longitude": "-87.70293777995363", 
+    "location_description": "STREET", 
+    "x_coordinate": "1156198", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "16", 
+    "block": "064XX S KEDZIE AVE"
+}

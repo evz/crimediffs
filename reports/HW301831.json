@@ -1,1 +1,38 @@
-{"y_coordinate": "1901049", "year": "2013", "domestic": false, "case_number": "HW301831", "id": "9156050", "primary_type": "BATTERY", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74557168954657, 41.88449767601881]}, "community_area": "25", "latitude": "41.88449767601881", "type": null, "description": "SIMPLE", "beat": "1532", "date": {"$date": 1370212200000}, "ward": "28", "_id": {"$oid": "51b5f1163c002ed20d78cc1b"}, "iucr": "460", "longitude": "-87.74557168954657", "location_description": "SIDEWALK", "x_coordinate": "1144300", "updated_on": {"$date": 1370479286000}, "fbi_code": "08B", "block": "002XX N CICERO AVE"}
+{
+    "y_coordinate": "1901049", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301831", 
+    "id": "9156050", 
+    "primary_type": "BATTERY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74557168954657, 
+            41.88449767601881
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.88449767601881", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1532", 
+    "date": {
+        "$date": 1370212200000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f1163c002ed20d78cc1b"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.74557168954657", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1144300", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "08B", 
+    "block": "002XX N CICERO AVE"
+}

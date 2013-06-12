@@ -1,1 +1,33 @@
-{"community_area": "28", "_id": {"$oid": "51b5f1143c002ed20d78cbb0"}, "primary_type": "ROBBERY", "beat": "1223", "year": "2013", "domestic": false, "iucr": "320", "arrest": false, "location_description": "SIDEWALK", "location": {"type": "Point", "coordinates": [-87.68642998737212, 41.88653980203443]}, "case_number": "HW301912", "date": {"$date": 1370225700000}, "updated_on": {"$date": 1370392932000}, "ward": "27", "fbi_code": "03", "type": "violent", "id": "9157140", "block": "002XX N WESTERN AVE", "description": "STRONGARM - NO WEAPON"}
+{
+    "_id": {
+        "$oid": "51b5f1143c002ed20d78cbb0"
+    }, 
+    "primary_type": "ROBBERY", 
+    "year": "2013", 
+    "beat": "1223", 
+    "case_number": "HW301912", 
+    "domestic": false, 
+    "iucr": "320", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68642998737212, 
+            41.88653980203443
+        ]
+    }, 
+    "community_area": "28", 
+    "date": {
+        "$date": 1370225700000
+    }, 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "ward": "27", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9157140", 
+    "block": "002XX N WESTERN AVE", 
+    "description": "STRONGARM - NO WEAPON"
+}

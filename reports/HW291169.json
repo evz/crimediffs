@@ -1,1 +1,38 @@
-{"y_coordinate": "1889179", "year": "2013", "domestic": true, "case_number": "HW291169", "id": "9145679", "primary_type": "BATTERY", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70235867856896, 41.85169409115032]}, "community_area": "30", "latitude": "41.85169409115032", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1033", "date": {"$date": 1369528200000}, "ward": "24", "_id": {"$oid": "51b34a0d3c002ed20d78c88b"}, "iucr": "486", "longitude": "-87.70235867856896", "location_description": "APARTMENT", "x_coordinate": "1156155", "updated_on": {"$date": 1369960832000}, "fbi_code": "08B", "block": "030XX W CERMAK RD"}
+{
+    "y_coordinate": "1889179", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW291169", 
+    "id": "9145679", 
+    "primary_type": "BATTERY", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70235867856896, 
+            41.85169409115032
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.85169409115032", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1033", 
+    "date": {
+        "$date": 1369528200000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b34a0d3c002ed20d78c88b"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.70235867856896", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1156155", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "08B", 
+    "block": "030XX W CERMAK RD"
+}

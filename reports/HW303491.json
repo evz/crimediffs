@@ -1,1 +1,38 @@
-{"y_coordinate": "1943190", "year": "2013", "domestic": false, "case_number": "HW303491", "id": "9157971", "primary_type": "NARCOTICS", "district": "024", "arrest": true, "location": {"type": "Point", "coordinates": [-87.67131568498044, 41.99973763558644]}, "community_area": "1", "latitude": "41.99973763558644", "type": "quality", "description": "POSS: COCAINE", "beat": "2432", "date": {"$date": 1370313000000}, "ward": "40", "_id": {"$oid": "51b742943c002ed20d78d1dc"}, "iucr": "2022", "longitude": "-87.67131568498044", "location_description": "POLICE FACILITY/VEH PARKING LOT", "x_coordinate": "1164196", "updated_on": {"$date": 1370738354000}, "fbi_code": "18", "block": "064XX N CLARK ST"}
+{
+    "y_coordinate": "1943190", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303491", 
+    "id": "9157971", 
+    "primary_type": "NARCOTICS", 
+    "district": "024", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67131568498044, 
+            41.99973763558644
+        ]
+    }, 
+    "community_area": "1", 
+    "latitude": "41.99973763558644", 
+    "type": "quality", 
+    "description": "POSS: COCAINE", 
+    "beat": "2432", 
+    "date": {
+        "$date": 1370313000000
+    }, 
+    "ward": "40", 
+    "_id": {
+        "$oid": "51b742943c002ed20d78d1dc"
+    }, 
+    "iucr": "2022", 
+    "longitude": "-87.67131568498044", 
+    "location_description": "POLICE FACILITY/VEH PARKING LOT", 
+    "x_coordinate": "1164196", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "18", 
+    "block": "064XX N CLARK ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1851155", "year": "2013", "domestic": false, "case_number": "HW284083", "id": "9138930", "primary_type": "BATTERY", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.63536130602614, 41.74695791987121]}, "community_area": "44", "latitude": "41.74695791987121", "type": null, "description": "SIMPLE", "beat": "0622", "date": {"$date": 1369063500000}, "ward": "21", "_id": {"$oid": "51a4cd913c002ed20d78a4ca"}, "iucr": "460", "longitude": "-87.63536130602614", "location_description": "CTA BUS", "x_coordinate": "1174718", "updated_on": {"$date": 1369874559000}, "fbi_code": "08B", "block": "081XX S VINCENNES AVE"}
+{
+    "y_coordinate": "1851155", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284083", 
+    "id": "9138930", 
+    "primary_type": "BATTERY", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63536130602614, 
+            41.74695791987121
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.74695791987121", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0622", 
+    "date": {
+        "$date": 1369063500000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a4ca"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.63536130602614", 
+    "location_description": "CTA BUS", 
+    "x_coordinate": "1174718", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "08B", 
+    "block": "081XX S VINCENNES AVE"
+}

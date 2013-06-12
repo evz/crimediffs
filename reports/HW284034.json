@@ -1,1 +1,38 @@
-{"y_coordinate": "1848782", "year": "2013", "domestic": false, "case_number": "HW284034", "id": "9138674", "primary_type": "THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.58048878037752, 41.74009924626415]}, "community_area": "45", "latitude": "41.74009924626415", "type": "property", "description": "$500 AND UNDER", "beat": "0412", "date": {"$date": 1369123200000}, "ward": "8", "_id": {"$oid": "51a61f103c002ed20d78a9a4"}, "iucr": "820", "longitude": "-87.58048878037752", "location_description": "STREET", "x_coordinate": "1189714", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "085XX S CREGIER AVE"}
+{
+    "y_coordinate": "1848782", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284034", 
+    "id": "9138674", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58048878037752, 
+            41.74009924626415
+        ]
+    }, 
+    "community_area": "45", 
+    "latitude": "41.74009924626415", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0412", 
+    "date": {
+        "$date": 1369123200000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51a61f103c002ed20d78a9a4"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.58048878037752", 
+    "location_description": "STREET", 
+    "x_coordinate": "1189714", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "085XX S CREGIER AVE"
+}

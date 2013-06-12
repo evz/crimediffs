@@ -1,1 +1,38 @@
-{"y_coordinate": "1854907", "year": "2013", "domestic": false, "case_number": "HW285309", "id": "9140038", "primary_type": "THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.57595329441087, 41.756878284798695]}, "community_area": "43", "latitude": "41.756878284798695", "type": "property", "description": "$500 AND UNDER", "beat": "0414", "date": {"$date": 1369175400000}, "ward": "8", "_id": {"$oid": "51a61f083c002ed20d78a6f2"}, "iucr": "820", "longitude": "-87.57595329441087", "location_description": "GAS STATION", "x_coordinate": "1190898", "updated_on": {"$date": 1369356045000}, "fbi_code": "06", "block": "076XX S JEFFERY BLVD"}
+{
+    "y_coordinate": "1854907", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285309", 
+    "id": "9140038", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57595329441087, 
+            41.756878284798695
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.756878284798695", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0414", 
+    "date": {
+        "$date": 1369175400000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51a61f083c002ed20d78a6f2"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.57595329441087", 
+    "location_description": "GAS STATION", 
+    "x_coordinate": "1190898", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "06", 
+    "block": "076XX S JEFFERY BLVD"
+}

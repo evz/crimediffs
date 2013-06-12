@@ -1,1 +1,38 @@
-{"y_coordinate": "1899538", "year": "2013", "domestic": true, "case_number": "HW289873", "id": "9144679", "primary_type": "OFFENSE INVOLVING CHILDREN", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75974300665854, 41.880422771057624]}, "community_area": "25", "latitude": "41.880422771057624", "type": null, "description": "OTHER OFFENSE", "beat": "1522", "date": {"$date": 1369436400000}, "ward": "28", "_id": {"$oid": "51aa138c3c002ed20d78ae3d"}, "iucr": "1780", "longitude": "-87.75974300665854", "location_description": "APARTMENT", "x_coordinate": "1140451", "updated_on": {"$date": 1369787985000}, "fbi_code": "26", "block": "053XX W MADISON ST"}
+{
+    "y_coordinate": "1899538", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289873", 
+    "id": "9144679", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75974300665854, 
+            41.880422771057624
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.880422771057624", 
+    "type": null, 
+    "description": "OTHER OFFENSE", 
+    "beat": "1522", 
+    "date": {
+        "$date": 1369436400000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51aa138c3c002ed20d78ae3d"
+    }, 
+    "iucr": "1780", 
+    "longitude": "-87.75974300665854", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1140451", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "26", 
+    "block": "053XX W MADISON ST"
+}

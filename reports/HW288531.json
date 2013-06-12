@@ -1,1 +1,38 @@
-{"y_coordinate": "1874838", "year": "2013", "domestic": false, "case_number": "HW288531", "id": "9143732", "primary_type": "DECEPTIVE PRACTICE", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72980782730437, 41.812486009432]}, "community_area": "57", "latitude": "41.812486009432", "type": null, "description": "BOGUS CHECK", "beat": "0815", "date": {"$date": 1369126800000}, "ward": "14", "_id": {"$oid": "51a61f0f3c002ed20d78a96b"}, "iucr": "1110", "longitude": "-87.72980782730437", "location_description": "COMMERCIAL / BUSINESS OFFICE", "x_coordinate": "1148777", "updated_on": {"$date": 1369960832000}, "fbi_code": "11", "block": "044XX S TRIPP AVE"}
+{
+    "y_coordinate": "1874838", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288531", 
+    "id": "9143732", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72980782730437, 
+            41.812486009432
+        ]
+    }, 
+    "community_area": "57", 
+    "latitude": "41.812486009432", 
+    "type": null, 
+    "description": "BOGUS CHECK", 
+    "beat": "0815", 
+    "date": {
+        "$date": 1369126800000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a96b"
+    }, 
+    "iucr": "1110", 
+    "longitude": "-87.72980782730437", 
+    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
+    "x_coordinate": "1148777", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "11", 
+    "block": "044XX S TRIPP AVE"
+}

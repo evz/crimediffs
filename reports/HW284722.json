@@ -1,1 +1,38 @@
-{"y_coordinate": "1857946", "year": "2013", "domestic": true, "case_number": "HW284722", "id": "9139526", "primary_type": "BATTERY", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66034379392937, 41.76574352968247]}, "community_area": "67", "latitude": "41.76574352968247", "type": "violent", "description": "AGGRAVATED DOMESTIC BATTERY: OTHER DANG WEAPON", "beat": "0734", "date": {"$date": 1369152600000}, "ward": "17", "_id": {"$oid": "51a61f0c3c002ed20d78a836"}, "iucr": "497", "longitude": "-87.66034379392937", "location_description": "RESIDENCE", "x_coordinate": "1167847", "updated_on": {"$date": 1370392932000}, "fbi_code": "04B", "block": "070XX S BISHOP ST"}
+{
+    "y_coordinate": "1857946", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW284722", 
+    "id": "9139526", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66034379392937, 
+            41.76574352968247
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.76574352968247", 
+    "type": "violent", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: OTHER DANG WEAPON", 
+    "beat": "0734", 
+    "date": {
+        "$date": 1369152600000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51a61f0c3c002ed20d78a836"
+    }, 
+    "iucr": "497", 
+    "longitude": "-87.66034379392937", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1167847", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "04B", 
+    "block": "070XX S BISHOP ST"
+}

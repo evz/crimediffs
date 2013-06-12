@@ -1,1 +1,38 @@
-{"y_coordinate": "1937502", "year": "2013", "domestic": false, "case_number": "HW285266", "id": "9139928", "primary_type": "BATTERY", "district": "017", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71120569772881, 41.984351777093785]}, "community_area": "13", "latitude": "41.984351777093785", "type": null, "description": "SIMPLE", "beat": "1711", "date": {"$date": 1369172700000}, "ward": "40", "_id": {"$oid": "51a61f083c002ed20d78a71c"}, "iucr": "460", "longitude": "-87.71120569772881", "location_description": "STREET", "x_coordinate": "1153394", "updated_on": {"$date": 1369356045000}, "fbi_code": "08B", "block": "056XX N SPAULDING AVE"}
+{
+    "y_coordinate": "1937502", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285266", 
+    "id": "9139928", 
+    "primary_type": "BATTERY", 
+    "district": "017", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71120569772881, 
+            41.984351777093785
+        ]
+    }, 
+    "community_area": "13", 
+    "latitude": "41.984351777093785", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1711", 
+    "date": {
+        "$date": 1369172700000
+    }, 
+    "ward": "40", 
+    "_id": {
+        "$oid": "51a61f083c002ed20d78a71c"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.71120569772881", 
+    "location_description": "STREET", 
+    "x_coordinate": "1153394", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08B", 
+    "block": "056XX N SPAULDING AVE"
+}

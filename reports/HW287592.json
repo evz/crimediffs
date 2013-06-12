@@ -1,1 +1,38 @@
-{"y_coordinate": "1931238", "year": "2013", "domestic": false, "case_number": "HW287592", "id": "9142658", "primary_type": "ASSAULT", "district": "019", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64911998317235, 41.96680885921191]}, "community_area": "3", "latitude": "41.96680885921191", "type": null, "description": "SIMPLE", "beat": "1914", "date": {"$date": 1369313400000}, "ward": "46", "_id": {"$oid": "51aa13973c002ed20d78b340"}, "iucr": "560", "longitude": "-87.64911998317235", "location_description": "HOSPITAL BUILDING/GROUNDS", "x_coordinate": "1170325", "updated_on": {"$date": 1369528777000}, "fbi_code": "08A", "block": "046XX N MARINE DR"}
+{
+    "y_coordinate": "1931238", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287592", 
+    "id": "9142658", 
+    "primary_type": "ASSAULT", 
+    "district": "019", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64911998317235, 
+            41.96680885921191
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.96680885921191", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1914", 
+    "date": {
+        "$date": 1369313400000
+    }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b340"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.64911998317235", 
+    "location_description": "HOSPITAL BUILDING/GROUNDS", 
+    "x_coordinate": "1170325", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "08A", 
+    "block": "046XX N MARINE DR"
+}

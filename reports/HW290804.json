@@ -1,1 +1,38 @@
-{"y_coordinate": "1940635", "year": "2013", "domestic": false, "case_number": "HW290804", "id": "9145349", "primary_type": "THEFT", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.80994292930687, 41.99344198749899]}, "community_area": "10", "latitude": "41.99344198749899", "type": "property", "description": "$500 AND UNDER", "beat": "1612", "date": {"$date": 1369328400000}, "ward": "41", "_id": {"$oid": "51aa13963c002ed20d78b299"}, "iucr": "820", "longitude": "-87.80994292930687", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1126529", "updated_on": {"$date": 1369787985000}, "fbi_code": "06", "block": "072XX W MYRTLE AVE"}
+{
+    "y_coordinate": "1940635", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290804", 
+    "id": "9145349", 
+    "primary_type": "THEFT", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.80994292930687, 
+            41.99344198749899
+        ]
+    }, 
+    "community_area": "10", 
+    "latitude": "41.99344198749899", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1612", 
+    "date": {
+        "$date": 1369328400000
+    }, 
+    "ward": "41", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b299"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.80994292930687", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1126529", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "06", 
+    "block": "072XX W MYRTLE AVE"
+}

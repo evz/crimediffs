@@ -1,1 +1,38 @@
-{"y_coordinate": "1850303", "year": "2013", "domestic": false, "case_number": "HW291123", "id": "9145674", "primary_type": "NARCOTICS", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.57497692843454, 41.74423708602849]}, "community_area": "46", "latitude": "41.74423708602849", "type": "quality", "description": "POSS: CRACK", "beat": "0412", "date": {"$date": 1369533600000}, "ward": "8", "_id": {"$oid": "51b34a0c3c002ed20d78c858"}, "iucr": "2027", "longitude": "-87.57497692843454", "location_description": "STREET", "x_coordinate": "1191205", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "020XX E 83RD ST"}
+{
+    "y_coordinate": "1850303", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291123", 
+    "id": "9145674", 
+    "primary_type": "NARCOTICS", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57497692843454, 
+            41.74423708602849
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.74423708602849", 
+    "type": "quality", 
+    "description": "POSS: CRACK", 
+    "beat": "0412", 
+    "date": {
+        "$date": 1369533600000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51b34a0c3c002ed20d78c858"
+    }, 
+    "iucr": "2027", 
+    "longitude": "-87.57497692843454", 
+    "location_description": "STREET", 
+    "x_coordinate": "1191205", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "020XX E 83RD ST"
+}

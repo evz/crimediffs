@@ -1,1 +1,38 @@
-{"y_coordinate": "1877428", "year": "2013", "domestic": true, "case_number": "HW299603", "id": "9154333", "primary_type": "CRIMINAL DAMAGE", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6938601099891, 41.81939919406893]}, "community_area": "58", "latitude": "41.81939919406893", "type": "quality", "description": "TO PROPERTY", "beat": "0921", "date": {"$date": 1370075760000}, "ward": "12", "_id": {"$oid": "51b5f1213c002ed20d78d16a"}, "iucr": "1310", "longitude": "-87.6938601099891", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1158558", "updated_on": {"$date": 1370306580000}, "fbi_code": "14", "block": "027XX W 41ST ST"}
+{
+    "y_coordinate": "1877428", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW299603", 
+    "id": "9154333", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6938601099891, 
+            41.81939919406893
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.81939919406893", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0921", 
+    "date": {
+        "$date": 1370075760000
+    }, 
+    "ward": "12", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d16a"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.6938601099891", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1158558", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "14", 
+    "block": "027XX W 41ST ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1891358", "year": "2013", "domestic": false, "case_number": "HW289004", "id": "9144190", "primary_type": "NARCOTICS", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72103108404359, 41.85777489859879]}, "community_area": "29", "latitude": "41.85777489859879", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "1014", "date": {"$date": 1369399920000}, "ward": "24", "_id": {"$oid": "51aa13913c002ed20d78b03a"}, "iucr": "2024", "longitude": "-87.72103108404359", "location_description": "ALLEY", "x_coordinate": "1151052", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "016XX S AVERS AVE"}
+{
+    "y_coordinate": "1891358", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289004", 
+    "id": "9144190", 
+    "primary_type": "NARCOTICS", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72103108404359, 
+            41.85777489859879
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.85777489859879", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "1014", 
+    "date": {
+        "$date": 1369399920000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b03a"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.72103108404359", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1151052", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "016XX S AVERS AVE"
+}

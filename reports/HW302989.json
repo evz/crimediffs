@@ -1,1 +1,38 @@
-{"y_coordinate": "1915518", "year": "2013", "domestic": false, "case_number": "HW302989", "id": "9157658", "primary_type": "BURGLARY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.79785163333734, 41.924459771830186]}, "community_area": "18", "latitude": "41.924459771830186", "type": "property", "description": "FORCIBLE ENTRY", "beat": "2512", "date": {"$date": 1370120400000}, "ward": "36", "_id": {"$oid": "51b5f11e3c002ed20d78cf8d"}, "iucr": "610", "longitude": "-87.79785163333734", "location_description": "RESIDENCE", "x_coordinate": "1129973", "updated_on": {"$date": 1370479286000}, "fbi_code": "05", "block": "024XX N NEW ENGLAND AVE"}
+{
+    "y_coordinate": "1915518", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302989", 
+    "id": "9157658", 
+    "primary_type": "BURGLARY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.79785163333734, 
+            41.924459771830186
+        ]
+    }, 
+    "community_area": "18", 
+    "latitude": "41.924459771830186", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "2512", 
+    "date": {
+        "$date": 1370120400000
+    }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf8d"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.79785163333734", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1129973", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "05", 
+    "block": "024XX N NEW ENGLAND AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1897719", "year": "2013", "domestic": true, "case_number": "HW299497", "id": "9154184", "primary_type": "THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73232367361075, 41.87529075701806]}, "community_area": "26", "latitude": "41.87529075701806", "type": "property", "description": "OVER $500", "beat": "1132", "date": {"$date": 1370065800000}, "ward": "24", "_id": {"$oid": "51b5f1213c002ed20d78d19f"}, "iucr": "810", "longitude": "-87.73232367361075", "location_description": "APARTMENT", "x_coordinate": "1147931", "updated_on": {"$date": 1370651988000}, "fbi_code": "06", "block": "042XX W VAN BUREN ST"}
+{
+    "y_coordinate": "1897719", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW299497", 
+    "id": "9154184", 
+    "primary_type": "THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73232367361075, 
+            41.87529075701806
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.87529075701806", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1132", 
+    "date": {
+        "$date": 1370065800000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d19f"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.73232367361075", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1147931", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "06", 
+    "block": "042XX W VAN BUREN ST"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1847957", "year": "2013", "domestic": false, "case_number": "HW299519", "id": "9154240", "primary_type": "THEFT", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65082946979133, 41.73827454262718]}, "community_area": "71", "latitude": "41.73827454262718", "type": "property", "description": "PURSE-SNATCHING", "beat": "0613", "date": {"$date": 1370067000000}, "ward": "21", "_id": {"$oid": "51b5f1213c002ed20d78d194"}, "iucr": "880", "longitude": "-87.65082946979133", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1170522", "updated_on": {"$date": 1370306580000}, "fbi_code": "06", "block": "085XX S ABERDEEN ST"}
+{
+    "y_coordinate": "1847957", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299519", 
+    "id": "9154240", 
+    "primary_type": "THEFT", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65082946979133, 
+            41.73827454262718
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.73827454262718", 
+    "type": "property", 
+    "description": "PURSE-SNATCHING", 
+    "beat": "0613", 
+    "date": {
+        "$date": 1370067000000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d194"
+    }, 
+    "iucr": "880", 
+    "longitude": "-87.65082946979133", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1170522", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "06", 
+    "block": "085XX S ABERDEEN ST"
+}

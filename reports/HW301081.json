@@ -1,1 +1,38 @@
-{"y_coordinate": "1938559", "year": "2013", "domestic": false, "case_number": "HW301081", "id": "9155369", "primary_type": "MOTOR VEHICLE THEFT", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65686408115228, 41.98694503170175]}, "community_area": "77", "latitude": "41.98694503170175", "type": "property", "description": "AUTOMOBILE", "beat": "2022", "date": {"$date": 1370113200000}, "ward": "48", "_id": {"$oid": "51b5f11f3c002ed20d78cfdb"}, "iucr": "910", "longitude": "-87.65686408115228", "location_description": "STREET", "x_coordinate": "1168161", "updated_on": {"$date": 1370479286000}, "fbi_code": "07", "block": "057XX N KENMORE AVE"}
+{
+    "y_coordinate": "1938559", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301081", 
+    "id": "9155369", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65686408115228, 
+            41.98694503170175
+        ]
+    }, 
+    "community_area": "77", 
+    "latitude": "41.98694503170175", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "2022", 
+    "date": {
+        "$date": 1370113200000
+    }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cfdb"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.65686408115228", 
+    "location_description": "STREET", 
+    "x_coordinate": "1168161", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "07", 
+    "block": "057XX N KENMORE AVE"
+}

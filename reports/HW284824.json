@@ -1,1 +1,38 @@
-{"y_coordinate": "1859993", "year": "2013", "domestic": false, "case_number": "HW284824", "id": "9139550", "primary_type": "OTHER OFFENSE", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62243373138234, 41.77113278094037]}, "community_area": "69", "latitude": "41.77113278094037", "type": null, "description": "HARASSMENT BY TELEPHONE", "beat": "0322", "date": {"$date": 1369156560000}, "ward": "20", "_id": {"$oid": "51a61f0b3c002ed20d78a7fd"}, "iucr": "2825", "longitude": "-87.62243373138234", "location_description": "RESIDENCE", "x_coordinate": "1178173", "updated_on": {"$date": 1369701613000}, "fbi_code": "26", "block": "0000X E 68TH ST"}
+{
+    "y_coordinate": "1859993", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284824", 
+    "id": "9139550", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62243373138234, 
+            41.77113278094037
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.77113278094037", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "0322", 
+    "date": {
+        "$date": 1369156560000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a7fd"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.62243373138234", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1178173", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "26", 
+    "block": "0000X E 68TH ST"
+}

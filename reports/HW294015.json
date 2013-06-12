@@ -1,1 +1,38 @@
-{"y_coordinate": "1858304", "year": "2013", "domestic": false, "case_number": "HW294015", "id": "9148180", "primary_type": "THEFT", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56621128830277, 41.76613601976477]}, "community_area": "43", "latitude": "41.76613601976477", "type": "property", "description": "$500 AND UNDER", "beat": "0334", "date": {"$date": 1369065600000}, "ward": "7", "_id": {"$oid": "51a61f113c002ed20d78a9d7"}, "iucr": "820", "longitude": "-87.56621128830277", "location_description": "STREET", "x_coordinate": "1193526", "updated_on": {"$date": 1369960832000}, "fbi_code": "06", "block": "071XX S EXCHANGE AVE"}
+{
+    "y_coordinate": "1858304", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW294015", 
+    "id": "9148180", 
+    "primary_type": "THEFT", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56621128830277, 
+            41.76613601976477
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.76613601976477", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0334", 
+    "date": {
+        "$date": 1369065600000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51a61f113c002ed20d78a9d7"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.56621128830277", 
+    "location_description": "STREET", 
+    "x_coordinate": "1193526", 
+    "updated_on": {
+        "$date": 1369960832000
+    }, 
+    "fbi_code": "06", 
+    "block": "071XX S EXCHANGE AVE"
+}

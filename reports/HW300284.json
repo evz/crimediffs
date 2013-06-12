@@ -1,1 +1,38 @@
-{"y_coordinate": "1859793", "year": "2013", "domestic": false, "case_number": "HW300284", "id": "9154791", "primary_type": "NARCOTICS", "district": "007", "arrest": true, "location": {"type": "Point", "coordinates": [-87.64663272772528, 41.77073111245656]}, "community_area": "68", "latitude": "41.77073111245656", "type": "quality", "description": "POSS: HALLUCINOGENS", "beat": "0723", "date": {"$date": 1370108460000}, "ward": "17", "_id": {"$oid": "51b5f11f3c002ed20d78d013"}, "iucr": "2025", "longitude": "-87.64663272772528", "location_description": "STREET", "x_coordinate": "1171573", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "008XX W 68TH ST"}
+{
+    "y_coordinate": "1859793", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300284", 
+    "id": "9154791", 
+    "primary_type": "NARCOTICS", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64663272772528, 
+            41.77073111245656
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.77073111245656", 
+    "type": "quality", 
+    "description": "POSS: HALLUCINOGENS", 
+    "beat": "0723", 
+    "date": {
+        "$date": 1370108460000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d013"
+    }, 
+    "iucr": "2025", 
+    "longitude": "-87.64663272772528", 
+    "location_description": "STREET", 
+    "x_coordinate": "1171573", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "008XX W 68TH ST"
+}

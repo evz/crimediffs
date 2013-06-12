@@ -1,1 +1,38 @@
-{"y_coordinate": "1931980", "year": "2013", "domestic": false, "case_number": "HW291508", "id": "9146089", "primary_type": "CRIMINAL DAMAGE", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71201869950708, 41.96920269592138]}, "community_area": "14", "latitude": "41.96920269592138", "type": "quality", "description": "TO PROPERTY", "beat": "1713", "date": {"$date": 1369497600000}, "ward": "39", "_id": {"$oid": "51b34a103c002ed20d78c9ff"}, "iucr": "1310", "longitude": "-87.71201869950708", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1153213", "updated_on": {"$date": 1369787985000}, "fbi_code": "14", "block": "048XX N CHRISTIANA AVE"}
+{
+    "y_coordinate": "1931980", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW291508", 
+    "id": "9146089", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71201869950708, 
+            41.96920269592138
+        ]
+    }, 
+    "community_area": "14", 
+    "latitude": "41.96920269592138", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1713", 
+    "date": {
+        "$date": 1369497600000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78c9ff"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.71201869950708", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1153213", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "14", 
+    "block": "048XX N CHRISTIANA AVE"
+}

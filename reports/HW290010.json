@@ -1,1 +1,38 @@
-{"y_coordinate": "1910010", "year": "2013", "domestic": false, "case_number": "HW290010", "id": "9144867", "primary_type": "ROBBERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.78352225121198, 41.90927680919383]}, "community_area": "25", "latitude": "41.90927680919383", "type": "violent", "description": "AGGRAVATED", "beat": "2513", "date": {"$date": 1369455000000}, "ward": "29", "_id": {"$oid": "51aa13893c002ed20d78ad85"}, "iucr": "330", "longitude": "-87.78352225121198", "location_description": "STREET", "x_coordinate": "1133908", "updated_on": {"$date": 1369787985000}, "fbi_code": "03", "block": "063XX W NORTH AVE"}
+{
+    "y_coordinate": "1910010", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290010", 
+    "id": "9144867", 
+    "primary_type": "ROBBERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78352225121198, 
+            41.90927680919383
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.90927680919383", 
+    "type": "violent", 
+    "description": "AGGRAVATED", 
+    "beat": "2513", 
+    "date": {
+        "$date": 1369455000000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51aa13893c002ed20d78ad85"
+    }, 
+    "iucr": "330", 
+    "longitude": "-87.78352225121198", 
+    "location_description": "STREET", 
+    "x_coordinate": "1133908", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "03", 
+    "block": "063XX W NORTH AVE"
+}

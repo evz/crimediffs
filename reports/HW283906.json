@@ -1,1 +1,38 @@
-{"y_coordinate": "1858330", "year": "2013", "domestic": true, "case_number": "HW283906", "id": "9138421", "primary_type": "OFFENSE INVOLVING CHILDREN", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.60574814989612, 41.76646456083701]}, "community_area": "42", "latitude": "41.76646456083701", "type": null, "description": "ENDANGERING LIFE/HEALTH CHILD", "beat": "0321", "date": {"$date": 1369101600000}, "ward": "6", "_id": {"$oid": "51a4cd8a3c002ed20d78a30d"}, "iucr": "1710", "longitude": "-87.60574814989612", "location_description": "POLICE FACILITY/VEH PARKING LOT", "x_coordinate": "1182739", "updated_on": {"$date": 1370047283000}, "fbi_code": "26", "block": "070XX S COTTAGE GROVE AVE"}
+{
+    "y_coordinate": "1858330", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283906", 
+    "id": "9138421", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60574814989612, 
+            41.76646456083701
+        ]
+    }, 
+    "community_area": "42", 
+    "latitude": "41.76646456083701", 
+    "type": null, 
+    "description": "ENDANGERING LIFE/HEALTH CHILD", 
+    "beat": "0321", 
+    "date": {
+        "$date": 1369101600000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a4cd8a3c002ed20d78a30d"
+    }, 
+    "iucr": "1710", 
+    "longitude": "-87.60574814989612", 
+    "location_description": "POLICE FACILITY/VEH PARKING LOT", 
+    "x_coordinate": "1182739", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "26", 
+    "block": "070XX S COTTAGE GROVE AVE"
+}

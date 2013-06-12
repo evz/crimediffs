@@ -1,1 +1,38 @@
-{"y_coordinate": "1916879", "year": "2013", "domestic": false, "case_number": "HW302538", "id": "9157312", "primary_type": "BATTERY", "district": "025", "arrest": true, "location": {"type": "Point", "coordinates": [-87.7360121805629, 41.9278896224819]}, "community_area": "20", "latitude": "41.9278896224819", "type": null, "description": "PRO EMP HANDS NO/MIN INJURY", "beat": "2524", "date": {"$date": 1370265300000}, "ward": "31", "_id": {"$oid": "51b7429d3c002ed20d78d415"}, "iucr": "484", "longitude": "-87.7360121805629", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1146793", "updated_on": {"$date": 1370565766000}, "fbi_code": "08B", "block": "043XX W WRIGHTWOOD AVE"}
+{
+    "y_coordinate": "1916879", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302538", 
+    "id": "9157312", 
+    "primary_type": "BATTERY", 
+    "district": "025", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7360121805629, 
+            41.9278896224819
+        ]
+    }, 
+    "community_area": "20", 
+    "latitude": "41.9278896224819", 
+    "type": null, 
+    "description": "PRO EMP HANDS NO/MIN INJURY", 
+    "beat": "2524", 
+    "date": {
+        "$date": 1370265300000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "51b7429d3c002ed20d78d415"
+    }, 
+    "iucr": "484", 
+    "longitude": "-87.7360121805629", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1146793", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "08B", 
+    "block": "043XX W WRIGHTWOOD AVE"
+}

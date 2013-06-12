@@ -1,1 +1,38 @@
-{"y_coordinate": "1919162", "year": "2013", "domestic": true, "case_number": "HW302878", "id": "9157777", "primary_type": "BATTERY", "district": "025", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7762210964013, 41.93435682684289]}, "community_area": "19", "latitude": "41.93435682684289", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "2511", "date": {"$date": 1370217900000}, "ward": "29", "_id": {"$oid": "51b5f1153c002ed20d78cbdd"}, "iucr": "486", "longitude": "-87.7762210964013", "location_description": "BAR OR TAVERN", "x_coordinate": "1135836", "updated_on": {"$date": 1370651988000}, "fbi_code": "08B", "block": "029XX N AUSTIN AVE"}
+{
+    "y_coordinate": "1919162", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW302878", 
+    "id": "9157777", 
+    "primary_type": "BATTERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7762210964013, 
+            41.93435682684289
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.93435682684289", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "2511", 
+    "date": {
+        "$date": 1370217900000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbdd"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.7762210964013", 
+    "location_description": "BAR OR TAVERN", 
+    "x_coordinate": "1135836", 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "fbi_code": "08B", 
+    "block": "029XX N AUSTIN AVE"
+}

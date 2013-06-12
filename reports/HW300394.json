@@ -1,1 +1,38 @@
-{"y_coordinate": "1819341", "year": "2013", "domestic": false, "case_number": "HW300394", "id": "9154821", "primary_type": "NARCOTICS", "district": "005", "arrest": true, "location": {"type": "Point", "coordinates": [-87.59785317502293, 41.65941601279694]}, "community_area": "54", "latitude": "41.65941601279694", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0533", "date": {"$date": 1370114640000}, "ward": "9", "_id": {"$oid": "51b5f11f3c002ed20d78cfc8"}, "iucr": "1811", "longitude": "-87.59785317502293", "location_description": "STREET", "x_coordinate": "1185226", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "130XX S ELLIS AVE"}
+{
+    "y_coordinate": "1819341", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300394", 
+    "id": "9154821", 
+    "primary_type": "NARCOTICS", 
+    "district": "005", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59785317502293, 
+            41.65941601279694
+        ]
+    }, 
+    "community_area": "54", 
+    "latitude": "41.65941601279694", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0533", 
+    "date": {
+        "$date": 1370114640000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78cfc8"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.59785317502293", 
+    "location_description": "STREET", 
+    "x_coordinate": "1185226", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "130XX S ELLIS AVE"
+}

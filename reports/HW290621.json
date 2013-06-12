@@ -1,1 +1,38 @@
-{"y_coordinate": "1907902", "year": "2013", "domestic": false, "case_number": "HW290621", "id": "9145240", "primary_type": "DECEPTIVE PRACTICE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68353850174167, 41.90296970382404]}, "community_area": "24", "latitude": "41.90296970382404", "type": null, "description": "IMPERSONATION", "beat": "1212", "date": {"$date": 1369495200000}, "ward": "32", "_id": {"$oid": "51b34a103c002ed20d78ca18"}, "iucr": "1170", "longitude": "-87.68353850174167", "location_description": "HOSPITAL BUILDING/GROUNDS", "x_coordinate": "1161141", "updated_on": {"$date": 1370392932000}, "fbi_code": "11", "block": "022XX W DIVISION ST"}
+{
+    "y_coordinate": "1907902", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290621", 
+    "id": "9145240", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68353850174167, 
+            41.90296970382404
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.90296970382404", 
+    "type": null, 
+    "description": "IMPERSONATION", 
+    "beat": "1212", 
+    "date": {
+        "$date": 1369495200000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78ca18"
+    }, 
+    "iucr": "1170", 
+    "longitude": "-87.68353850174167", 
+    "location_description": "HOSPITAL BUILDING/GROUNDS", 
+    "x_coordinate": "1161141", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "11", 
+    "block": "022XX W DIVISION ST"
+}

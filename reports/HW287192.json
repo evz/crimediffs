@@ -1,1 +1,38 @@
-{"y_coordinate": "1902247", "year": "2013", "domestic": false, "case_number": "HW287192", "id": "9142046", "primary_type": "OTHER OFFENSE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66419590985267, 41.88733995438466]}, "community_area": "28", "latitude": "41.88733995438466", "type": null, "description": "FALSE/STOLEN/ALTERED TRP", "beat": "1215", "date": {"$date": 1369298700000}, "ward": "27", "_id": {"$oid": "51aa13983c002ed20d78b3f5"}, "iucr": "502P", "longitude": "-87.66419590985267", "location_description": "STREET", "x_coordinate": "1166451", "updated_on": {"$date": 1369442383000}, "fbi_code": "26", "block": "003XX N LAFLIN ST"}
+{
+    "y_coordinate": "1902247", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287192", 
+    "id": "9142046", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66419590985267, 
+            41.88733995438466
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.88733995438466", 
+    "type": null, 
+    "description": "FALSE/STOLEN/ALTERED TRP", 
+    "beat": "1215", 
+    "date": {
+        "$date": 1369298700000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3f5"
+    }, 
+    "iucr": "502P", 
+    "longitude": "-87.66419590985267", 
+    "location_description": "STREET", 
+    "x_coordinate": "1166451", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "26", 
+    "block": "003XX N LAFLIN ST"
+}

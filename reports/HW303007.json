@@ -1,1 +1,38 @@
-{"y_coordinate": "1927631", "year": "2013", "domestic": false, "case_number": "HW303007", "id": "9157872", "primary_type": "ROBBERY", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73111924090603, 41.957369911195165]}, "community_area": "16", "latitude": "41.957369911195165", "type": "violent", "description": "ATTEMPT: AGGRAVATED", "beat": "1722", "date": {"$date": 1370274000000}, "ward": "39", "_id": {"$oid": "51b7429c3c002ed20d78d39d"}, "iucr": "331", "longitude": "-87.73111924090603", "location_description": "SIDEWALK", "x_coordinate": "1148049", "updated_on": {"$date": 1370479286000}, "fbi_code": "03", "block": "041XX W BERTEAU AVE"}
+{
+    "y_coordinate": "1927631", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303007", 
+    "id": "9157872", 
+    "primary_type": "ROBBERY", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73111924090603, 
+            41.957369911195165
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.957369911195165", 
+    "type": "violent", 
+    "description": "ATTEMPT: AGGRAVATED", 
+    "beat": "1722", 
+    "date": {
+        "$date": 1370274000000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51b7429c3c002ed20d78d39d"
+    }, 
+    "iucr": "331", 
+    "longitude": "-87.73111924090603", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1148049", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "03", 
+    "block": "041XX W BERTEAU AVE"
+}

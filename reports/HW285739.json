@@ -1,1 +1,38 @@
-{"y_coordinate": "1938573", "year": "2013", "domestic": true, "case_number": "HW285739", "id": "9140682", "primary_type": "BATTERY", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65543661193193, 41.98697502971997]}, "community_area": "77", "latitude": "41.98697502971997", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "2022", "date": {"$date": 1369216200000}, "ward": "48", "_id": {"$oid": "51a7708d3c002ed20d78accb"}, "iucr": "486", "longitude": "-87.65543661193193", "location_description": "RESIDENCE", "x_coordinate": "1168549", "updated_on": {"$date": 1369528777000}, "fbi_code": "08B", "block": "057XX N SHERIDAN RD"}
+{
+    "y_coordinate": "1938573", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW285739", 
+    "id": "9140682", 
+    "primary_type": "BATTERY", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65543661193193, 
+            41.98697502971997
+        ]
+    }, 
+    "community_area": "77", 
+    "latitude": "41.98697502971997", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "2022", 
+    "date": {
+        "$date": 1369216200000
+    }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78accb"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.65543661193193", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1168549", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "08B", 
+    "block": "057XX N SHERIDAN RD"
+}

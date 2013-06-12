@@ -1,1 +1,38 @@
-{"y_coordinate": "1850240", "year": "2013", "domestic": false, "case_number": "HW302008", "id": "9156415", "primary_type": "THEFT", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.55481584666283, 41.74392935734645]}, "community_area": "46", "latitude": "41.74392935734645", "type": "property", "description": "$500 AND UNDER", "beat": "0423", "date": {"$date": 1370219400000}, "ward": "10", "_id": {"$oid": "51b5f1153c002ed20d78cbd1"}, "iucr": "820", "longitude": "-87.55481584666283", "location_description": "STREET", "x_coordinate": "1196708", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "083XX S BALTIMORE AVE"}
+{
+    "y_coordinate": "1850240", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW302008", 
+    "id": "9156415", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55481584666283, 
+            41.74392935734645
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.74392935734645", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0423", 
+    "date": {
+        "$date": 1370219400000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbd1"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.55481584666283", 
+    "location_description": "STREET", 
+    "x_coordinate": "1196708", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "083XX S BALTIMORE AVE"
+}

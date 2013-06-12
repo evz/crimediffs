@@ -1,1 +1,38 @@
-{"y_coordinate": "1916126", "year": "2013", "domestic": false, "case_number": "HW287560", "id": "9142668", "primary_type": "CRIMINAL DAMAGE", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70917067451846, 41.92568044834698]}, "community_area": "22", "latitude": "41.92568044834698", "type": "quality", "description": "TO PROPERTY", "beat": "1413", "date": {"$date": 1369312200000}, "ward": "35", "_id": {"$oid": "51aa13973c002ed20d78b34d"}, "iucr": "1310", "longitude": "-87.70917067451846", "location_description": "RESIDENCE PORCH/HALLWAY", "x_coordinate": "1154103", "updated_on": {"$date": 1369528777000}, "fbi_code": "14", "block": "024XX N SAWYER AVE"}
+{
+    "y_coordinate": "1916126", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287560", 
+    "id": "9142668", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70917067451846, 
+            41.92568044834698
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.92568044834698", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1413", 
+    "date": {
+        "$date": 1369312200000
+    }, 
+    "ward": "35", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b34d"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.70917067451846", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1154103", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "14", 
+    "block": "024XX N SAWYER AVE"
+}

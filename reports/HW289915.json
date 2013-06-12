@@ -1,1 +1,38 @@
-{"y_coordinate": "1910763", "year": "2013", "domestic": false, "case_number": "HW289915", "id": "9144734", "primary_type": "CRIMINAL DAMAGE", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6681912637704, 41.91073308232067]}, "community_area": "24", "latitude": "41.91073308232067", "type": "quality", "description": "TO PROPERTY", "beat": "1433", "date": {"$date": 1369446900000}, "ward": "1", "_id": {"$oid": "51aa138a3c002ed20d78adc8"}, "iucr": "1310", "longitude": "-87.6681912637704", "location_description": "STREET", "x_coordinate": "1165297", "updated_on": {"$date": 1369787985000}, "fbi_code": "14", "block": "016XX W NORTH AVE"}
+{
+    "y_coordinate": "1910763", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289915", 
+    "id": "9144734", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6681912637704, 
+            41.91073308232067
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.91073308232067", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1433", 
+    "date": {
+        "$date": 1369446900000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51aa138a3c002ed20d78adc8"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.6681912637704", 
+    "location_description": "STREET", 
+    "x_coordinate": "1165297", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "14", 
+    "block": "016XX W NORTH AVE"
+}

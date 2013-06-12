@@ -1,1 +1,38 @@
-{"y_coordinate": "1849039", "year": "2013", "domestic": false, "case_number": "HW286254", "id": "9141401", "primary_type": "CRIMINAL DAMAGE", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6512047262649, 41.74124611510127]}, "community_area": "71", "latitude": "41.74124611510127", "type": "quality", "description": "CRIMINAL DEFACEMENT", "beat": "0613", "date": {"$date": 1369236600000}, "ward": "21", "_id": {"$oid": "51a7708b3c002ed20d78abc5"}, "iucr": "1305", "longitude": "-87.6512047262649", "location_description": "RESIDENCE", "x_coordinate": "1170411", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "084XX S ABERDEEN ST"}
+{
+    "y_coordinate": "1849039", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286254", 
+    "id": "9141401", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6512047262649, 
+            41.74124611510127
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.74124611510127", 
+    "type": "quality", 
+    "description": "CRIMINAL DEFACEMENT", 
+    "beat": "0613", 
+    "date": {
+        "$date": 1369236600000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51a7708b3c002ed20d78abc5"
+    }, 
+    "iucr": "1305", 
+    "longitude": "-87.6512047262649", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1170411", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "084XX S ABERDEEN ST"
+}

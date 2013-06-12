@@ -1,1 +1,38 @@
-{"y_coordinate": "1933610", "year": "2013", "domestic": false, "case_number": "HW301924", "id": "9156103", "primary_type": "THEFT", "district": "020", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65851178462968, 41.973373696411294]}, "community_area": "3", "latitude": "41.973373696411294", "type": "property", "description": "POCKET-PICKING", "beat": "2033", "date": {"$date": 1370229900000}, "ward": "48", "_id": {"$oid": "51b5f1133c002ed20d78cba4"}, "iucr": "870", "longitude": "-87.65851178462968", "location_description": "CTA TRAIN", "x_coordinate": "1167752", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "011XX W ARGYLE ST"}
+{
+    "y_coordinate": "1933610", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301924", 
+    "id": "9156103", 
+    "primary_type": "THEFT", 
+    "district": "020", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65851178462968, 
+            41.973373696411294
+        ]
+    }, 
+    "community_area": "3", 
+    "latitude": "41.973373696411294", 
+    "type": "property", 
+    "description": "POCKET-PICKING", 
+    "beat": "2033", 
+    "date": {
+        "$date": 1370229900000
+    }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51b5f1133c002ed20d78cba4"
+    }, 
+    "iucr": "870", 
+    "longitude": "-87.65851178462968", 
+    "location_description": "CTA TRAIN", 
+    "x_coordinate": "1167752", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "011XX W ARGYLE ST"
+}

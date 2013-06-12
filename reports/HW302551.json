@@ -1,1 +1,33 @@
-{"community_area": "69", "_id": {"$oid": "51b5f11f3c002ed20d78d032"}, "primary_type": "THEFT", "beat": "0731", "year": "2013", "domestic": false, "iucr": "890", "arrest": false, "location_description": "VACANT LOT/LAND", "location": {"type": "Point", "coordinates": [-87.63199397633834, 41.76241253559303]}, "case_number": "HW302551", "date": {"$date": 1370104200000}, "updated_on": {"$date": 1370651988000}, "ward": "17", "fbi_code": "06", "type": "property", "id": "9160631", "block": "072XX S PRINCETON AVE", "description": "FROM BUILDING"}
+{
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d032"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "0731", 
+    "case_number": "HW302551", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "VACANT LOT/LAND", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63199397633834, 
+            41.76241253559303
+        ]
+    }, 
+    "community_area": "69", 
+    "date": {
+        "$date": 1370104200000
+    }, 
+    "updated_on": {
+        "$date": 1370651988000
+    }, 
+    "ward": "17", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9160631", 
+    "block": "072XX S PRINCETON AVE", 
+    "description": "FROM BUILDING"
+}

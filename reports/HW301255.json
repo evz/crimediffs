@@ -1,1 +1,33 @@
-{"community_area": "8", "_id": {"$oid": "51b5f11a3c002ed20d78cd89"}, "primary_type": "THEFT", "beat": "1821", "year": "2013", "domestic": false, "iucr": "850", "arrest": false, "location_description": "SIDEWALK", "location": {"type": "Point", "coordinates": [-87.63872979713891, 41.910816603208275]}, "case_number": "HW301255", "date": {"$date": 1370181300000}, "updated_on": {"$date": 1370565766000}, "ward": "43", "fbi_code": "06", "type": "property", "id": "9156040", "block": "015XX N SEDGWICK ST", "description": "ATTEMPT THEFT"}
+{
+    "_id": {
+        "$oid": "51b5f11a3c002ed20d78cd89"
+    }, 
+    "primary_type": "THEFT", 
+    "year": "2013", 
+    "beat": "1821", 
+    "case_number": "HW301255", 
+    "domestic": false, 
+    "iucr": "850", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63872979713891, 
+            41.910816603208275
+        ]
+    }, 
+    "community_area": "8", 
+    "date": {
+        "$date": 1370181300000
+    }, 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "ward": "43", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9156040", 
+    "block": "015XX N SEDGWICK ST", 
+    "description": "ATTEMPT THEFT"
+}

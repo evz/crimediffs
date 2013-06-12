@@ -1,1 +1,38 @@
-{"y_coordinate": "1912679", "year": "2013", "domestic": false, "case_number": "HW292934", "id": "9147144", "primary_type": "MOTOR VEHICLE THEFT", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67990060605958, 41.91605825739058]}, "community_area": "22", "latitude": "41.91605825739058", "type": "property", "description": "AUTOMOBILE", "beat": "1434", "date": {"$date": 1369465200000}, "ward": "32", "_id": {"$oid": "51b34a123c002ed20d78cb1a"}, "iucr": "910", "longitude": "-87.67990060605958", "location_description": "STREET", "x_coordinate": "1162095", "updated_on": {"$date": 1370047283000}, "fbi_code": "07", "block": "018XX N HOYNE AVE"}
+{
+    "y_coordinate": "1912679", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW292934", 
+    "id": "9147144", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67990060605958, 
+            41.91605825739058
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.91605825739058", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1434", 
+    "date": {
+        "$date": 1369465200000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cb1a"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.67990060605958", 
+    "location_description": "STREET", 
+    "x_coordinate": "1162095", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "07", 
+    "block": "018XX N HOYNE AVE"
+}

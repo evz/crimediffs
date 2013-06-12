@@ -1,1 +1,38 @@
-{"y_coordinate": "1854156", "year": "2013", "domestic": true, "case_number": "HW283942", "id": "9139162", "primary_type": "CRIMINAL DAMAGE", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.56765145622441, 41.754762291085996]}, "community_area": "43", "latitude": "41.754762291085996", "type": "quality", "description": "TO VEHICLE", "beat": "0414", "date": {"$date": 1369109640000}, "ward": "7", "_id": {"$oid": "51a4cd8a3c002ed20d78a2f0"}, "iucr": "1320", "longitude": "-87.56765145622441", "location_description": "STREET", "x_coordinate": "1193170", "updated_on": {"$date": 1370565766000}, "fbi_code": "14", "block": "077XX S OGLESBY AVE"}
+{
+    "y_coordinate": "1854156", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW283942", 
+    "id": "9139162", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56765145622441, 
+            41.754762291085996
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.754762291085996", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0414", 
+    "date": {
+        "$date": 1369109640000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51a4cd8a3c002ed20d78a2f0"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.56765145622441", 
+    "location_description": "STREET", 
+    "x_coordinate": "1193170", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "14", 
+    "block": "077XX S OGLESBY AVE"
+}

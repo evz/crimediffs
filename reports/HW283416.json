@@ -1,1 +1,38 @@
-{"y_coordinate": "1830814", "year": "2013", "domestic": false, "case_number": "HW283416", "id": "9138020", "primary_type": "CRIMINAL DAMAGE", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.651297687419, 41.69123140303936]}, "community_area": "75", "latitude": "41.69123140303936", "type": "quality", "description": "TO PROPERTY", "beat": "2234", "date": {"$date": 1369053000000}, "ward": "34", "_id": {"$oid": "51a4cd913c002ed20d78a540"}, "iucr": "1310", "longitude": "-87.651297687419", "location_description": "RESIDENCE", "x_coordinate": "1170530", "updated_on": {"$date": 1369269615000}, "fbi_code": "14", "block": "011XX W 111TH PL"}
+{
+    "y_coordinate": "1830814", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283416", 
+    "id": "9138020", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.651297687419, 
+            41.69123140303936
+        ]
+    }, 
+    "community_area": "75", 
+    "latitude": "41.69123140303936", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "2234", 
+    "date": {
+        "$date": 1369053000000
+    }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a540"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.651297687419", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1170530", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "14", 
+    "block": "011XX W 111TH PL"
+}

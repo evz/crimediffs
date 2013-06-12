@@ -1,1 +1,38 @@
-{"y_coordinate": "1850310", "year": "2013", "domestic": false, "case_number": "HW300653", "id": "9155010", "primary_type": "BATTERY", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60271365686168, 41.7444360179733]}, "community_area": "44", "latitude": "41.7444360179733", "type": null, "description": "SIMPLE", "beat": "0631", "date": {"$date": 1370123100000}, "ward": "8", "_id": {"$oid": "51b5f11e3c002ed20d78cf74"}, "iucr": "460", "longitude": "-87.60271365686168", "location_description": "SIDEWALK", "x_coordinate": "1183635", "updated_on": {"$date": 1370306580000}, "fbi_code": "08B", "block": "082XX S DREXEL AVE"}
+{
+    "y_coordinate": "1850310", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300653", 
+    "id": "9155010", 
+    "primary_type": "BATTERY", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60271365686168, 
+            41.7444360179733
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.7444360179733", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0631", 
+    "date": {
+        "$date": 1370123100000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51b5f11e3c002ed20d78cf74"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.60271365686168", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1183635", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08B", 
+    "block": "082XX S DREXEL AVE"
+}

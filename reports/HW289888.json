@@ -1,1 +1,38 @@
-{"y_coordinate": "1901751", "year": "2013", "domestic": true, "case_number": "HW289888", "id": "9144777", "primary_type": "CRIMINAL DAMAGE", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74809158350693, 41.886437007173924]}, "community_area": "25", "latitude": "41.886437007173924", "type": "quality", "description": "TO PROPERTY", "beat": "1532", "date": {"$date": 1369444800000}, "ward": "28", "_id": {"$oid": "51aa138b3c002ed20d78addf"}, "iucr": "1310", "longitude": "-87.74809158350693", "location_description": "APARTMENT", "x_coordinate": "1143609", "updated_on": {"$date": 1369787985000}, "fbi_code": "14", "block": "003XX N LAMON AVE"}
+{
+    "y_coordinate": "1901751", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289888", 
+    "id": "9144777", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74809158350693, 
+            41.886437007173924
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.886437007173924", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1532", 
+    "date": {
+        "$date": 1369444800000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51aa138b3c002ed20d78addf"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.74809158350693", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1143609", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "14", 
+    "block": "003XX N LAMON AVE"
+}

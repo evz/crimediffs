@@ -1,1 +1,38 @@
-{"y_coordinate": "1854896", "year": "2013", "domestic": true, "case_number": "HW300173", "id": "9154759", "primary_type": "BATTERY", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6200483938703, 41.75713031411798]}, "community_area": "69", "latitude": "41.75713031411798", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "0623", "date": {"$date": 1370104800000}, "ward": "6", "_id": {"$oid": "51b5f11f3c002ed20d78d030"}, "iucr": "486", "longitude": "-87.6200483938703", "location_description": "RESIDENCE", "x_coordinate": "1178866", "updated_on": {"$date": 1370306580000}, "fbi_code": "08B", "block": "075XX S INDIANA AVE"}
+{
+    "y_coordinate": "1854896", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW300173", 
+    "id": "9154759", 
+    "primary_type": "BATTERY", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6200483938703, 
+            41.75713031411798
+        ]
+    }, 
+    "community_area": "69", 
+    "latitude": "41.75713031411798", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0623", 
+    "date": {
+        "$date": 1370104800000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b5f11f3c002ed20d78d030"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.6200483938703", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1178866", 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "fbi_code": "08B", 
+    "block": "075XX S INDIANA AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1943660", "year": "2013", "domestic": false, "case_number": "HW283749", "id": "9138330", "primary_type": "CRIMINAL DAMAGE", "district": "024", "arrest": true, "location": {"type": "Point", "coordinates": [-87.70534625018622, 42.00121862094728]}, "community_area": "2", "latitude": "42.00121862094728", "type": "quality", "description": "TO VEHICLE", "beat": "2412", "date": {"$date": 1369088160000}, "ward": "50", "_id": {"$oid": "51a4cd8d3c002ed20d78a372"}, "iucr": "1320", "longitude": "-87.70534625018622", "location_description": "STREET", "x_coordinate": "1154942", "updated_on": {"$date": 1369269615000}, "fbi_code": "14", "block": "030XX W ALBION AVE"}
+{
+    "y_coordinate": "1943660", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283749", 
+    "id": "9138330", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "024", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70534625018622, 
+            42.00121862094728
+        ]
+    }, 
+    "community_area": "2", 
+    "latitude": "42.00121862094728", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "2412", 
+    "date": {
+        "$date": 1369088160000
+    }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51a4cd8d3c002ed20d78a372"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.70534625018622", 
+    "location_description": "STREET", 
+    "x_coordinate": "1154942", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "14", 
+    "block": "030XX W ALBION AVE"
+}

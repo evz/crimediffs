@@ -1,1 +1,38 @@
-{"y_coordinate": "1852390", "year": "2013", "domestic": false, "case_number": "HW299689", "id": "9154337", "primary_type": "NARCOTICS", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.55756244793156, 41.749848181274686]}, "community_area": "46", "latitude": "41.749848181274686", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0422", "date": {"$date": 1370082480000}, "ward": "7", "_id": {"$oid": "51b5f1213c002ed20d78d132"}, "iucr": "1811", "longitude": "-87.55756244793156", "location_description": "STREET", "x_coordinate": "1195939", "updated_on": {"$date": 1370392932000}, "fbi_code": "18", "block": "080XX S MANISTEE AVE"}
+{
+    "y_coordinate": "1852390", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299689", 
+    "id": "9154337", 
+    "primary_type": "NARCOTICS", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55756244793156, 
+            41.749848181274686
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.749848181274686", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0422", 
+    "date": {
+        "$date": 1370082480000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d132"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.55756244793156", 
+    "location_description": "STREET", 
+    "x_coordinate": "1195939", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "18", 
+    "block": "080XX S MANISTEE AVE"
+}

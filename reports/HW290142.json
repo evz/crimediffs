@@ -1,1 +1,38 @@
-{"y_coordinate": "1865076", "year": "2013", "domestic": false, "case_number": "HW290142", "id": "9144938", "primary_type": "ROBBERY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6851738338429, 41.785453122594866]}, "community_area": "66", "latitude": "41.785453122594866", "type": "violent", "description": "ARMED: OTHER DANGEROUS WEAPON", "beat": "0824", "date": {"$date": 1369458900000}, "ward": "16", "_id": {"$oid": "51b34a123c002ed20d78cb2e"}, "iucr": "313", "longitude": "-87.6851738338429", "location_description": "SIDEWALK", "x_coordinate": "1161019", "updated_on": {"$date": 1369615194000}, "fbi_code": "03", "block": "059XX S ARTESIAN AVE"}
+{
+    "y_coordinate": "1865076", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290142", 
+    "id": "9144938", 
+    "primary_type": "ROBBERY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6851738338429, 
+            41.785453122594866
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.785453122594866", 
+    "type": "violent", 
+    "description": "ARMED: OTHER DANGEROUS WEAPON", 
+    "beat": "0824", 
+    "date": {
+        "$date": 1369458900000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51b34a123c002ed20d78cb2e"
+    }, 
+    "iucr": "313", 
+    "longitude": "-87.6851738338429", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1161019", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "03", 
+    "block": "059XX S ARTESIAN AVE"
+}

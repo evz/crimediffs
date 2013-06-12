@@ -1,1 +1,38 @@
-{"y_coordinate": "1827450", "year": "2013", "domestic": false, "case_number": "HW303617", "id": "9158257", "primary_type": "MOTOR VEHICLE THEFT", "district": "022", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68222833099001, 41.682178853399535]}, "community_area": "75", "latitude": "41.682178853399535", "type": "property", "description": "AUTOMOBILE", "beat": "2212", "date": {"$date": 1370131260000}, "ward": "19", "_id": {"$oid": "51b5f11d3c002ed20d78ceff"}, "iucr": "910", "longitude": "-87.68222833099001", "location_description": "STREET", "x_coordinate": "1162107", "updated_on": {"$date": 1370738354000}, "fbi_code": "07", "block": "116XX S ARTESIAN AVE"}
+{
+    "y_coordinate": "1827450", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303617", 
+    "id": "9158257", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68222833099001, 
+            41.682178853399535
+        ]
+    }, 
+    "community_area": "75", 
+    "latitude": "41.682178853399535", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "2212", 
+    "date": {
+        "$date": 1370131260000
+    }, 
+    "ward": "19", 
+    "_id": {
+        "$oid": "51b5f11d3c002ed20d78ceff"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.68222833099001", 
+    "location_description": "STREET", 
+    "x_coordinate": "1162107", 
+    "updated_on": {
+        "$date": 1370738354000
+    }, 
+    "fbi_code": "07", 
+    "block": "116XX S ARTESIAN AVE"
+}

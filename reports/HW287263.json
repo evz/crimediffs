@@ -1,1 +1,38 @@
-{"y_coordinate": "1862477", "year": "2013", "domestic": false, "case_number": "HW287263", "id": "9142184", "primary_type": "CRIMINAL DAMAGE", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73699628597521, 41.77860139033853]}, "community_area": "65", "latitude": "41.77860139033853", "type": "quality", "description": "TO PROPERTY", "beat": "0813", "date": {"$date": 1369105200000}, "ward": "13", "_id": {"$oid": "51a4cd8a3c002ed20d78a2fc"}, "iucr": "1310", "longitude": "-87.73699628597521", "location_description": "PARKING LOT/GARAGE(NON.RESID.)", "x_coordinate": "1146903", "updated_on": {"$date": 1369442383000}, "fbi_code": "14", "block": "045XX W 63RD ST"}
+{
+    "y_coordinate": "1862477", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287263", 
+    "id": "9142184", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73699628597521, 
+            41.77860139033853
+        ]
+    }, 
+    "community_area": "65", 
+    "latitude": "41.77860139033853", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0813", 
+    "date": {
+        "$date": 1369105200000
+    }, 
+    "ward": "13", 
+    "_id": {
+        "$oid": "51a4cd8a3c002ed20d78a2fc"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.73699628597521", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1146903", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "14", 
+    "block": "045XX W 63RD ST"
+}

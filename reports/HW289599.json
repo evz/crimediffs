@@ -1,1 +1,38 @@
-{"y_coordinate": "1894267", "year": "2013", "domestic": false, "case_number": "HW289599", "id": "9144490", "primary_type": "NARCOTICS", "district": "010", "arrest": true, "location": {"type": "Point", "coordinates": [-87.73958573438195, 41.8658553670662]}, "community_area": "29", "latitude": "41.8658553670662", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1011", "date": {"$date": 1369426200000}, "ward": "24", "_id": {"$oid": "51aa138e3c002ed20d78aeca"}, "iucr": "1811", "longitude": "-87.73958573438195", "location_description": "GAS STATION", "x_coordinate": "1145977", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "045XX W ROOSEVELT RD"}
+{
+    "y_coordinate": "1894267", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289599", 
+    "id": "9144490", 
+    "primary_type": "NARCOTICS", 
+    "district": "010", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73958573438195, 
+            41.8658553670662
+        ]
+    }, 
+    "community_area": "29", 
+    "latitude": "41.8658553670662", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1011", 
+    "date": {
+        "$date": 1369426200000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51aa138e3c002ed20d78aeca"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.73958573438195", 
+    "location_description": "GAS STATION", 
+    "x_coordinate": "1145977", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "045XX W ROOSEVELT RD"
+}

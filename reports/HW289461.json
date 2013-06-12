@@ -1,1 +1,38 @@
-{"y_coordinate": "1871447", "year": "2013", "domestic": false, "case_number": "HW289461", "id": "9144293", "primary_type": "THEFT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65373259616342, 41.802755269344686]}, "community_area": "61", "latitude": "41.802755269344686", "type": "property", "description": "OVER $500", "beat": "0933", "date": {"$date": 1369144800000}, "ward": "16", "_id": {"$oid": "51a61f0d3c002ed20d78a8a1"}, "iucr": "810", "longitude": "-87.65373259616342", "location_description": "RESIDENTIAL YARD (FRONT/BACK)", "x_coordinate": "1169544", "updated_on": {"$date": 1369615194000}, "fbi_code": "06", "block": "050XX S MAY ST"}
+{
+    "y_coordinate": "1871447", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289461", 
+    "id": "9144293", 
+    "primary_type": "THEFT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65373259616342, 
+            41.802755269344686
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.802755269344686", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0933", 
+    "date": {
+        "$date": 1369144800000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a61f0d3c002ed20d78a8a1"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.65373259616342", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1169544", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "06", 
+    "block": "050XX S MAY ST"
+}

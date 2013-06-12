@@ -1,1 +1,38 @@
-{"y_coordinate": "1851501", "year": "2013", "domestic": false, "case_number": "HW286829", "id": "9141678", "primary_type": "BURGLARY", "district": "008", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72855017149202, 41.7484357556]}, "community_area": "70", "latitude": "41.7484357556", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0834", "date": {"$date": 1369202400000}, "ward": "13", "_id": {"$oid": "51a7708d3c002ed20d78ad2b"}, "iucr": "610", "longitude": "-87.72855017149202", "location_description": "RESIDENCE", "x_coordinate": "1149284", "updated_on": {"$date": 1370047283000}, "fbi_code": "05", "block": "079XX S KILDARE AVE"}
+{
+    "y_coordinate": "1851501", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286829", 
+    "id": "9141678", 
+    "primary_type": "BURGLARY", 
+    "district": "008", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72855017149202, 
+            41.7484357556
+        ]
+    }, 
+    "community_area": "70", 
+    "latitude": "41.7484357556", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0834", 
+    "date": {
+        "$date": 1369202400000
+    }, 
+    "ward": "13", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad2b"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.72855017149202", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1149284", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "05", 
+    "block": "079XX S KILDARE AVE"
+}

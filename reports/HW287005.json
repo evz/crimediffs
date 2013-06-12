@@ -1,1 +1,38 @@
-{"y_coordinate": "1853477", "year": "2013", "domestic": true, "case_number": "HW287005", "id": "9143267", "primary_type": "BATTERY", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64181895676312, 41.7533692433043]}, "community_area": "71", "latitude": "41.7533692433043", "type": "violent", "description": "AGGRAVATED DOMESTIC BATTERY: KNIFE/CUTTING INST", "beat": "0621", "date": {"$date": 1369271460000}, "ward": "17", "_id": {"$oid": "51a770863c002ed20d78aa23"}, "iucr": "496", "longitude": "-87.64181895676312", "location_description": "ABANDONED BUILDING", "x_coordinate": "1172937", "updated_on": {"$date": 1369874559000}, "fbi_code": "04B", "block": "077XX S UNION AVE"}
+{
+    "y_coordinate": "1853477", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW287005", 
+    "id": "9143267", 
+    "primary_type": "BATTERY", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64181895676312, 
+            41.7533692433043
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.7533692433043", 
+    "type": "violent", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: KNIFE/CUTTING INST", 
+    "beat": "0621", 
+    "date": {
+        "$date": 1369271460000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51a770863c002ed20d78aa23"
+    }, 
+    "iucr": "496", 
+    "longitude": "-87.64181895676312", 
+    "location_description": "ABANDONED BUILDING", 
+    "x_coordinate": "1172937", 
+    "updated_on": {
+        "$date": 1369874559000
+    }, 
+    "fbi_code": "04B", 
+    "block": "077XX S UNION AVE"
+}

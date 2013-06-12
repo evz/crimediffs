@@ -1,1 +1,38 @@
-{"y_coordinate": "1922238", "year": "2013", "domestic": true, "case_number": "HW290567", "id": "9145284", "primary_type": "BATTERY", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.7246904110411, 41.9425364550214]}, "community_area": "21", "latitude": "41.9425364550214", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1732", "date": {"$date": 1369492200000}, "ward": "30", "_id": {"$oid": "51b34a103c002ed20d78ca40"}, "iucr": "486", "longitude": "-87.7246904110411", "location_description": "APARTMENT", "x_coordinate": "1149836", "updated_on": {"$date": 1369787985000}, "fbi_code": "08B", "block": "033XX N SPRINGFIELD AVE"}
+{
+    "y_coordinate": "1922238", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW290567", 
+    "id": "9145284", 
+    "primary_type": "BATTERY", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7246904110411, 
+            41.9425364550214
+        ]
+    }, 
+    "community_area": "21", 
+    "latitude": "41.9425364550214", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1732", 
+    "date": {
+        "$date": 1369492200000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78ca40"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.7246904110411", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1149836", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "08B", 
+    "block": "033XX N SPRINGFIELD AVE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1922544", "year": "2013", "domestic": false, "case_number": "HW301758", "id": "9156009", "primary_type": "BATTERY", "district": "016", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74725029973435, 41.94349356168279]}, "community_area": "15", "latitude": "41.94349356168279", "type": null, "description": "SIMPLE", "beat": "1634", "date": {"$date": 1370208900000}, "ward": "38", "_id": {"$oid": "51b5f1173c002ed20d78cc3d"}, "iucr": "460", "longitude": "-87.74725029973435", "location_description": "SIDEWALK", "x_coordinate": "1143696", "updated_on": {"$date": 1370565766000}, "fbi_code": "08B", "block": "048XX W NEWPORT AVE"}
+{
+    "y_coordinate": "1922544", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301758", 
+    "id": "9156009", 
+    "primary_type": "BATTERY", 
+    "district": "016", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74725029973435, 
+            41.94349356168279
+        ]
+    }, 
+    "community_area": "15", 
+    "latitude": "41.94349356168279", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1634", 
+    "date": {
+        "$date": 1370208900000
+    }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "51b5f1173c002ed20d78cc3d"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.74725029973435", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1143696", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "08B", 
+    "block": "048XX W NEWPORT AVE"
+}

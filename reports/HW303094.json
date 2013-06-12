@@ -1,1 +1,38 @@
-{"y_coordinate": "1902578", "year": "2013", "domestic": false, "case_number": "HW303094", "id": "9157593", "primary_type": "THEFT", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.63497314517174, 41.888074302856424]}, "community_area": "8", "latitude": "41.888074302856424", "type": "property", "description": "$500 AND UNDER", "beat": "1831", "date": {"$date": 1370218500000}, "ward": "42", "_id": {"$oid": "51b5f1153c002ed20d78cbda"}, "iucr": "820", "longitude": "-87.63497314517174", "location_description": "RESTAURANT", "x_coordinate": "1174406", "updated_on": {"$date": 1370479286000}, "fbi_code": "06", "block": "002XX W MERCHANDISE MART PLZ"}
+{
+    "y_coordinate": "1902578", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303094", 
+    "id": "9157593", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63497314517174, 
+            41.888074302856424
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.888074302856424", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1831", 
+    "date": {
+        "$date": 1370218500000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51b5f1153c002ed20d78cbda"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.63497314517174", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1174406", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "06", 
+    "block": "002XX W MERCHANDISE MART PLZ"
+}

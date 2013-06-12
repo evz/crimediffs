@@ -1,1 +1,38 @@
-{"y_coordinate": "1906264", "year": "2013", "domestic": false, "case_number": "HW287869", "id": "9142851", "primary_type": "MOTOR VEHICLE THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71412464710487, 41.8986436461956]}, "community_area": "23", "latitude": "41.8986436461956", "type": "property", "description": "AUTOMOBILE", "beat": "1121", "date": {"$date": 1369317600000}, "ward": "27", "_id": {"$oid": "51aa13973c002ed20d78b30e"}, "iucr": "910", "longitude": "-87.71412464710487", "location_description": "STREET", "x_coordinate": "1152826", "updated_on": {"$date": 1370133629000}, "fbi_code": "07", "block": "009XX N ST LOUIS AVE"}
+{
+    "y_coordinate": "1906264", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287869", 
+    "id": "9142851", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71412464710487, 
+            41.8986436461956
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.8986436461956", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1121", 
+    "date": {
+        "$date": 1369317600000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b30e"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.71412464710487", 
+    "location_description": "STREET", 
+    "x_coordinate": "1152826", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "07", 
+    "block": "009XX N ST LOUIS AVE"
+}

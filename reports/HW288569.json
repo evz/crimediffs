@@ -1,1 +1,38 @@
-{"y_coordinate": "1887006", "year": "2013", "domestic": true, "case_number": "HW288569", "id": "9143571", "primary_type": "BATTERY", "district": "010", "arrest": false, "location": {"type": "Point", "coordinates": [-87.73069785627003, 41.845882998119286]}, "community_area": "30", "latitude": "41.845882998119286", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1013", "date": {"$date": 1369373400000}, "ward": "22", "_id": {"$oid": "51aa13933c002ed20d78b136"}, "iucr": "486", "longitude": "-87.73069785627003", "location_description": "RESIDENCE", "x_coordinate": "1148449", "updated_on": {"$date": 1369787985000}, "fbi_code": "08B", "block": "042XX W 25TH ST"}
+{
+    "y_coordinate": "1887006", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW288569", 
+    "id": "9143571", 
+    "primary_type": "BATTERY", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73069785627003, 
+            41.845882998119286
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.845882998119286", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1013", 
+    "date": {
+        "$date": 1369373400000
+    }, 
+    "ward": "22", 
+    "_id": {
+        "$oid": "51aa13933c002ed20d78b136"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.73069785627003", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1148449", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "08B", 
+    "block": "042XX W 25TH ST"
+}

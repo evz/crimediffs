@@ -1,1 +1,38 @@
-{"y_coordinate": "1898910", "year": "2013", "domestic": false, "case_number": "HW288127", "id": "9142991", "primary_type": "BATTERY", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68853614496237, 41.87832165489362]}, "community_area": "28", "latitude": "41.87832165489362", "type": null, "description": "SIMPLE", "beat": "1125", "date": {"$date": 1369337100000}, "ward": "2", "_id": {"$oid": "51aa13953c002ed20d78b231"}, "iucr": "460", "longitude": "-87.68853614496237", "location_description": "RESIDENCE", "x_coordinate": "1159848", "updated_on": {"$date": 1369701613000}, "fbi_code": "08B", "block": "024XX W ADAMS ST"}
+{
+    "y_coordinate": "1898910", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288127", 
+    "id": "9142991", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68853614496237, 
+            41.87832165489362
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.87832165489362", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1125", 
+    "date": {
+        "$date": 1369337100000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51aa13953c002ed20d78b231"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.68853614496237", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1159848", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08B", 
+    "block": "024XX W ADAMS ST"
+}

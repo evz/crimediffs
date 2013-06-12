@@ -1,1 +1,38 @@
-{"y_coordinate": "1855947", "year": "2013", "domestic": true, "case_number": "HW301120", "id": "9155691", "primary_type": "CRIMINAL DAMAGE", "district": "003", "arrest": false, "location": {"type": "Point", "coordinates": [-87.59310829349599, 41.75984416110781]}, "community_area": "43", "latitude": "41.75984416110781", "type": "quality", "description": "TO PROPERTY", "beat": "0324", "date": {"$date": 1370175600000}, "ward": "5", "_id": {"$oid": "51b5f11b3c002ed20d78cdc4"}, "iucr": "1310", "longitude": "-87.59310829349599", "location_description": "APARTMENT", "x_coordinate": "1186208", "updated_on": {"$date": 1370479286000}, "fbi_code": "14", "block": "074XX S KIMBARK AVE"}
+{
+    "y_coordinate": "1855947", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW301120", 
+    "id": "9155691", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59310829349599, 
+            41.75984416110781
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.75984416110781", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0324", 
+    "date": {
+        "$date": 1370175600000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cdc4"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.59310829349599", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1186208", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "14", 
+    "block": "074XX S KIMBARK AVE"
+}

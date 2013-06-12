@@ -1,1 +1,38 @@
-{"y_coordinate": "1855945", "year": "2013", "domestic": false, "case_number": "HW282822", "id": "9137579", "primary_type": "NARCOTICS", "district": "003", "arrest": true, "location": {"type": "Point", "coordinates": [-87.5630082935531, 41.759640799761875]}, "community_area": "43", "latitude": "41.759640799761875", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "0334", "date": {"$date": 1369052820000}, "ward": "7", "_id": {"$oid": "51a4cd923c002ed20d78a546"}, "iucr": "1811", "longitude": "-87.5630082935531", "location_description": "SIDEWALK", "x_coordinate": "1194421", "updated_on": {"$date": 1369183512000}, "fbi_code": "18", "block": "074XX S KINGSTON AVE"}
+{
+    "y_coordinate": "1855945", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW282822", 
+    "id": "9137579", 
+    "primary_type": "NARCOTICS", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5630082935531, 
+            41.759640799761875
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.759640799761875", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0334", 
+    "date": {
+        "$date": 1369052820000
+    }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51a4cd923c002ed20d78a546"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.5630082935531", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1194421", 
+    "updated_on": {
+        "$date": 1369183512000
+    }, 
+    "fbi_code": "18", 
+    "block": "074XX S KINGSTON AVE"
+}

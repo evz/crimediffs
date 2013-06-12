@@ -1,1 +1,38 @@
-{"y_coordinate": "1939223", "year": "2013", "domestic": true, "case_number": "HW286366", "id": "9141287", "primary_type": "OTHER OFFENSE", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71775465735732, 41.98910984571924]}, "community_area": "13", "latitude": "41.98910984571924", "type": null, "description": "HARASSMENT BY ELECTRONIC MEANS", "beat": "1711", "date": {"$date": 1369200240000}, "ward": "39", "_id": {"$oid": "51a7708d3c002ed20d78ad3a"}, "iucr": "2826", "longitude": "-87.71775465735732", "location_description": "RESIDENCE", "x_coordinate": "1151601", "updated_on": {"$date": 1369442383000}, "fbi_code": "26", "block": "059XX N DRAKE AVE"}
+{
+    "y_coordinate": "1939223", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW286366", 
+    "id": "9141287", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71775465735732, 
+            41.98910984571924
+        ]
+    }, 
+    "community_area": "13", 
+    "latitude": "41.98910984571924", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "1711", 
+    "date": {
+        "$date": 1369200240000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78ad3a"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.71775465735732", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1151601", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "26", 
+    "block": "059XX N DRAKE AVE"
+}

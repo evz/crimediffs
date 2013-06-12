@@ -1,1 +1,38 @@
-{"y_coordinate": "1853356", "year": "2013", "domestic": true, "case_number": "HW286979", "id": "9141768", "primary_type": "CRIMINAL DAMAGE", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66579275224773, 41.75317897147109]}, "community_area": "71", "latitude": "41.75317897147109", "type": "quality", "description": "TO PROPERTY", "beat": "0611", "date": {"$date": 1369269000000}, "ward": "17", "_id": {"$oid": "51a770873c002ed20d78aa39"}, "iucr": "1310", "longitude": "-87.66579275224773", "location_description": "RESIDENCE", "x_coordinate": "1166396", "updated_on": {"$date": 1370133629000}, "fbi_code": "14", "block": "077XX S PAULINA ST"}
+{
+    "y_coordinate": "1853356", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW286979", 
+    "id": "9141768", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66579275224773, 
+            41.75317897147109
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.75317897147109", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0611", 
+    "date": {
+        "$date": 1369269000000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51a770873c002ed20d78aa39"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.66579275224773", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1166396", 
+    "updated_on": {
+        "$date": 1370133629000
+    }, 
+    "fbi_code": "14", 
+    "block": "077XX S PAULINA ST"
+}

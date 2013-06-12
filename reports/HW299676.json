@@ -1,1 +1,38 @@
-{"y_coordinate": "1912208", "year": "2013", "domestic": false, "case_number": "HW299676", "id": "9154530", "primary_type": "CRIMINAL DAMAGE", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68405056423317, 41.91478926630532]}, "community_area": "22", "latitude": "41.91478926630532", "type": "quality", "description": "TO VEHICLE", "beat": "1434", "date": {"$date": 1370080800000}, "ward": "32", "_id": {"$oid": "51b5f1213c002ed20d78d149"}, "iucr": "1320", "longitude": "-87.68405056423317", "location_description": "STREET", "x_coordinate": "1160969", "updated_on": {"$date": 1370392932000}, "fbi_code": "14", "block": "018XX N MILWAUKEE AVE"}
+{
+    "y_coordinate": "1912208", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299676", 
+    "id": "9154530", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68405056423317, 
+            41.91478926630532
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.91478926630532", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1434", 
+    "date": {
+        "$date": 1370080800000
+    }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51b5f1213c002ed20d78d149"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.68405056423317", 
+    "location_description": "STREET", 
+    "x_coordinate": "1160969", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "14", 
+    "block": "018XX N MILWAUKEE AVE"
+}

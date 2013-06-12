@@ -1,1 +1,38 @@
-{"y_coordinate": "1851701", "year": "2013", "domestic": false, "case_number": "HW285621", "id": "9140315", "primary_type": "BURGLARY", "district": "006", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6501929911926, 41.74854545254869]}, "community_area": "71", "latitude": "41.74854545254869", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0612", "date": {"$date": 1369184400000}, "ward": "21", "_id": {"$oid": "51a61f063c002ed20d78a6a6"}, "iucr": "610", "longitude": "-87.6501929911926", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1170666", "updated_on": {"$date": 1370220023000}, "fbi_code": "05", "block": "080XX S CARPENTER ST"}
+{
+    "y_coordinate": "1851701", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285621", 
+    "id": "9140315", 
+    "primary_type": "BURGLARY", 
+    "district": "006", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6501929911926, 
+            41.74854545254869
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.74854545254869", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0612", 
+    "date": {
+        "$date": 1369184400000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51a61f063c002ed20d78a6a6"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.6501929911926", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1170666", 
+    "updated_on": {
+        "$date": 1370220023000
+    }, 
+    "fbi_code": "05", 
+    "block": "080XX S CARPENTER ST"
+}

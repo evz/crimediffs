@@ -1,1 +1,38 @@
-{"y_coordinate": "1874007", "year": "2013", "domestic": false, "case_number": "HW288953", "id": "9144216", "primary_type": "WEAPONS VIOLATION", "district": "002", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6136681270455, 41.809536605762695]}, "community_area": "38", "latitude": "41.809536605762695", "type": null, "description": "UNLAWFUL POSS OF HANDGUN", "beat": "0221", "date": {"$date": 1369393200000}, "ward": "3", "_id": {"$oid": "51aa13923c002ed20d78b09e"}, "iucr": "143A", "longitude": "-87.6136681270455", "location_description": "RESTAURANT", "x_coordinate": "1180447", "updated_on": {"$date": 1369615194000}, "fbi_code": "15", "block": "005XX E 47TH ST"}
+{
+    "y_coordinate": "1874007", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288953", 
+    "id": "9144216", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "002", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6136681270455, 
+            41.809536605762695
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.809536605762695", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "0221", 
+    "date": {
+        "$date": 1369393200000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51aa13923c002ed20d78b09e"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.6136681270455", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1180447", 
+    "updated_on": {
+        "$date": 1369615194000
+    }, 
+    "fbi_code": "15", 
+    "block": "005XX E 47TH ST"
+}

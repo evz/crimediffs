@@ -1,1 +1,38 @@
-{"y_coordinate": "1817422", "year": "2013", "domestic": false, "case_number": "HW290991", "id": "9145558", "primary_type": "ASSAULT", "district": "004", "arrest": true, "location": {"type": "Point", "coordinates": [-87.54249873735941, 41.65378207513952]}, "community_area": "55", "latitude": "41.65378207513952", "type": "violent", "description": "AGGRAVATED: HANDGUN", "beat": "0433", "date": {"$date": 1369520160000}, "ward": "10", "_id": {"$oid": "51b34a0e3c002ed20d78c8d8"}, "iucr": "051A", "longitude": "-87.54249873735941", "location_description": "RESIDENCE-GARAGE", "x_coordinate": "1200371", "updated_on": {"$date": 1369701613000}, "fbi_code": "04A", "block": "033XX E 133RD ST"}
+{
+    "y_coordinate": "1817422", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290991", 
+    "id": "9145558", 
+    "primary_type": "ASSAULT", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.54249873735941, 
+            41.65378207513952
+        ]
+    }, 
+    "community_area": "55", 
+    "latitude": "41.65378207513952", 
+    "type": "violent", 
+    "description": "AGGRAVATED: HANDGUN", 
+    "beat": "0433", 
+    "date": {
+        "$date": 1369520160000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51b34a0e3c002ed20d78c8d8"
+    }, 
+    "iucr": "051A", 
+    "longitude": "-87.54249873735941", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1200371", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "04A", 
+    "block": "033XX E 133RD ST"
+}

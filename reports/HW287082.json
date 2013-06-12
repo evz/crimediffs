@@ -1,1 +1,38 @@
-{"y_coordinate": "1868209", "year": "2013", "domestic": false, "case_number": "HW287082", "id": "9141882", "primary_type": "THEFT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67661653778235, 41.794002380016714]}, "community_area": "61", "latitude": "41.794002380016714", "type": "property", "description": "OVER $500", "beat": "0932", "date": {"$date": 1369267260000}, "ward": "16", "_id": {"$oid": "51a770873c002ed20d78aa4e"}, "iucr": "810", "longitude": "-87.67661653778235", "location_description": "DRIVEWAY - RESIDENTIAL", "x_coordinate": "1163329", "updated_on": {"$date": 1369442383000}, "fbi_code": "06", "block": "020XX W GARFIELD BLVD"}
+{
+    "y_coordinate": "1868209", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287082", 
+    "id": "9141882", 
+    "primary_type": "THEFT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67661653778235, 
+            41.794002380016714
+        ]
+    }, 
+    "community_area": "61", 
+    "latitude": "41.794002380016714", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0932", 
+    "date": {
+        "$date": 1369267260000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51a770873c002ed20d78aa4e"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.67661653778235", 
+    "location_description": "DRIVEWAY - RESIDENTIAL", 
+    "x_coordinate": "1163329", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "06", 
+    "block": "020XX W GARFIELD BLVD"
+}

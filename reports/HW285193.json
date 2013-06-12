@@ -1,1 +1,38 @@
-{"y_coordinate": "1904339", "year": "2013", "domestic": false, "case_number": "HW285193", "id": "9139833", "primary_type": "CRIMINAL DAMAGE", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.67307146777954, 41.89313227969434]}, "community_area": "24", "latitude": "41.89313227969434", "type": "quality", "description": "TO VEHICLE", "beat": "1221", "date": {"$date": 1369162800000}, "ward": "1", "_id": {"$oid": "51a61f0a3c002ed20d78a7a7"}, "iucr": "1320", "longitude": "-87.67307146777954", "location_description": "STREET", "x_coordinate": "1164018", "updated_on": {"$date": 1369356045000}, "fbi_code": "14", "block": "018XX W ERIE ST"}
+{
+    "y_coordinate": "1904339", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285193", 
+    "id": "9139833", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67307146777954, 
+            41.89313227969434
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.89313227969434", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1221", 
+    "date": {
+        "$date": 1369162800000
+    }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a7a7"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.67307146777954", 
+    "location_description": "STREET", 
+    "x_coordinate": "1164018", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "14", 
+    "block": "018XX W ERIE ST"
+}

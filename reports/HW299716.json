@@ -1,1 +1,38 @@
-{"y_coordinate": "1849794", "year": "2013", "domestic": false, "case_number": "HW299716", "id": "9154481", "primary_type": "BURGLARY", "district": "004", "arrest": false, "location": {"type": "Point", "coordinates": [-87.54649517826229, 41.742648718711145]}, "community_area": "46", "latitude": "41.742648718711145", "type": "property", "description": "FORCIBLE ENTRY", "beat": "0424", "date": {"$date": 1369490400000}, "ward": "10", "_id": {"$oid": "51b34a103c002ed20d78ca4b"}, "iucr": "610", "longitude": "-87.54649517826229", "location_description": "RESIDENCE", "x_coordinate": "1198983", "updated_on": {"$date": 1370824784000}, "fbi_code": "05", "block": "084XX S BRANDON AVE"}
+{
+    "y_coordinate": "1849794", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW299716", 
+    "id": "9154481", 
+    "primary_type": "BURGLARY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.54649517826229, 
+            41.742648718711145
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.742648718711145", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0424", 
+    "date": {
+        "$date": 1369490400000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51b34a103c002ed20d78ca4b"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.54649517826229", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1198983", 
+    "updated_on": {
+        "$date": 1370824784000
+    }, 
+    "fbi_code": "05", 
+    "block": "084XX S BRANDON AVE"
+}

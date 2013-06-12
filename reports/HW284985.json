@@ -1,1 +1,38 @@
-{"y_coordinate": "1838641", "year": "2013", "domestic": false, "case_number": "HW284985", "id": "9139626", "primary_type": "NARCOTICS", "district": "005", "arrest": true, "location": {"type": "Point", "coordinates": [-87.6202634271208, 41.712522875652354]}, "community_area": "49", "latitude": "41.712522875652354", "type": "quality", "description": "POSS: CRACK", "beat": "0511", "date": {"$date": 1369161600000}, "ward": "9", "_id": {"$oid": "51a61f0a3c002ed20d78a7af"}, "iucr": "2027", "longitude": "-87.6202634271208", "location_description": "ALLEY", "x_coordinate": "1178942", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "100XX S MICHIGAN AVE"}
+{
+    "y_coordinate": "1838641", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284985", 
+    "id": "9139626", 
+    "primary_type": "NARCOTICS", 
+    "district": "005", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6202634271208, 
+            41.712522875652354
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.712522875652354", 
+    "type": "quality", 
+    "description": "POSS: CRACK", 
+    "beat": "0511", 
+    "date": {
+        "$date": 1369161600000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51a61f0a3c002ed20d78a7af"
+    }, 
+    "iucr": "2027", 
+    "longitude": "-87.6202634271208", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1178942", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "100XX S MICHIGAN AVE"
+}

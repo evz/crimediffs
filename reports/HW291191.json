@@ -1,1 +1,38 @@
-{"y_coordinate": "1897907", "year": "2013", "domestic": true, "case_number": "HW291191", "id": "9145677", "primary_type": "ASSAULT", "district": "015", "arrest": false, "location": {"type": "Point", "coordinates": [-87.75169061911963, 41.87590639648863]}, "community_area": "25", "latitude": "41.87590639648863", "type": null, "description": "SIMPLE", "beat": "1533", "date": {"$date": 1369310400000}, "ward": "28", "_id": {"$oid": "51aa13973c002ed20d78b35f"}, "iucr": "560", "longitude": "-87.75169061911963", "location_description": "RESIDENCE", "x_coordinate": "1142655", "updated_on": {"$date": 1370047283000}, "fbi_code": "08A", "block": "050XX W GLADYS AVE"}
+{
+    "y_coordinate": "1897907", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW291191", 
+    "id": "9145677", 
+    "primary_type": "ASSAULT", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75169061911963, 
+            41.87590639648863
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.87590639648863", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1533", 
+    "date": {
+        "$date": 1369310400000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51aa13973c002ed20d78b35f"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.75169061911963", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1142655", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "08A", 
+    "block": "050XX W GLADYS AVE"
+}

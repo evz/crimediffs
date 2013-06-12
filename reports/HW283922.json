@@ -1,1 +1,38 @@
-{"y_coordinate": "1934390", "year": "2013", "domestic": false, "case_number": "HW283922", "id": "9138420", "primary_type": "CRIMINAL DAMAGE", "district": "017", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71205371406744, 41.975816417464095]}, "community_area": "13", "latitude": "41.975816417464095", "type": "quality", "description": "TO PROPERTY", "beat": "1712", "date": {"$date": 1369107000000}, "ward": "39", "_id": {"$oid": "51a4cd8a3c002ed20d78a2f7"}, "iucr": "1310", "longitude": "-87.71205371406744", "location_description": "GOVERNMENT BUILDING/PROPERTY", "x_coordinate": "1153186", "updated_on": {"$date": 1369269615000}, "fbi_code": "14", "block": "033XX W FOSTER AVE"}
+{
+    "y_coordinate": "1934390", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283922", 
+    "id": "9138420", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "017", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71205371406744, 
+            41.975816417464095
+        ]
+    }, 
+    "community_area": "13", 
+    "latitude": "41.975816417464095", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1712", 
+    "date": {
+        "$date": 1369107000000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51a4cd8a3c002ed20d78a2f7"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.71205371406744", 
+    "location_description": "GOVERNMENT BUILDING/PROPERTY", 
+    "x_coordinate": "1153186", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "14", 
+    "block": "033XX W FOSTER AVE"
+}

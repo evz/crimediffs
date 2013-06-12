@@ -1,1 +1,38 @@
-{"y_coordinate": "1901420", "year": "2013", "domestic": false, "case_number": "HW300021", "id": "9154548", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.71179264098707, 41.88533793793245]}, "community_area": "27", "latitude": "41.88533793793245", "type": "quality", "description": "SOLICIT NARCOTICS ON PUBLICWAY", "beat": "1123", "date": {"$date": 1370094660000}, "ward": "28", "_id": {"$oid": "51b5f1203c002ed20d78d0a9"}, "iucr": "2092", "longitude": "-87.71179264098707", "location_description": "SIDEWALK", "x_coordinate": "1153496", "updated_on": {"$date": 1370392932000}, "fbi_code": "26", "block": "034XX W WALNUT ST"}
+{
+    "y_coordinate": "1901420", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW300021", 
+    "id": "9154548", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71179264098707, 
+            41.88533793793245
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.88533793793245", 
+    "type": "quality", 
+    "description": "SOLICIT NARCOTICS ON PUBLICWAY", 
+    "beat": "1123", 
+    "date": {
+        "$date": 1370094660000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51b5f1203c002ed20d78d0a9"
+    }, 
+    "iucr": "2092", 
+    "longitude": "-87.71179264098707", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1153496", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "26", 
+    "block": "034XX W WALNUT ST"
+}

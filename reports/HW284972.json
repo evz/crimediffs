@@ -1,1 +1,38 @@
-{"y_coordinate": "1897904", "year": "2013", "domestic": false, "case_number": "HW284972", "id": "9139739", "primary_type": "MOTOR VEHICLE THEFT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.74225813913118, 41.87585000397917]}, "community_area": "25", "latitude": "41.87585000397917", "type": "property", "description": "AUTOMOBILE", "beat": "1131", "date": {"$date": 1369154700000}, "ward": "24", "_id": {"$oid": "51a61f0b3c002ed20d78a819"}, "iucr": "910", "longitude": "-87.74225813913118", "location_description": "STREET", "x_coordinate": "1145224", "updated_on": {"$date": 1370479286000}, "fbi_code": "07", "block": "046XX W GLADYS AVE"}
+{
+    "y_coordinate": "1897904", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW284972", 
+    "id": "9139739", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74225813913118, 
+            41.87585000397917
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.87585000397917", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1131", 
+    "date": {
+        "$date": 1369154700000
+    }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a819"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.74225813913118", 
+    "location_description": "STREET", 
+    "x_coordinate": "1145224", 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "fbi_code": "07", 
+    "block": "046XX W GLADYS AVE"
+}

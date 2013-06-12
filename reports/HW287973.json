@@ -1,1 +1,38 @@
-{"y_coordinate": "1906713", "year": "2013", "domestic": false, "case_number": "HW287973", "id": "9142963", "primary_type": "ASSAULT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.72026508396661, 41.899908756252934]}, "community_area": "23", "latitude": "41.899908756252934", "type": null, "description": "SIMPLE", "beat": "1112", "date": {"$date": 1369330200000}, "ward": "27", "_id": {"$oid": "51aa13963c002ed20d78b284"}, "iucr": "560", "longitude": "-87.72026508396661", "location_description": "SIDEWALK", "x_coordinate": "1151151", "updated_on": {"$date": 1369701613000}, "fbi_code": "08A", "block": "010XX N RIDGEWAY AVE"}
+{
+    "y_coordinate": "1906713", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287973", 
+    "id": "9142963", 
+    "primary_type": "ASSAULT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72026508396661, 
+            41.899908756252934
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.899908756252934", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1112", 
+    "date": {
+        "$date": 1369330200000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa13963c002ed20d78b284"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.72026508396661", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1151151", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "08A", 
+    "block": "010XX N RIDGEWAY AVE"
+}

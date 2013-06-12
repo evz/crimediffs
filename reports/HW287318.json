@@ -1,1 +1,38 @@
-{"y_coordinate": "1901721", "year": "2013", "domestic": false, "case_number": "HW287318", "id": "9142247", "primary_type": "ASSAULT", "district": "011", "arrest": false, "location": {"type": "Point", "coordinates": [-87.71533202902847, 41.88618305748506]}, "community_area": "27", "latitude": "41.88618305748506", "type": "violent", "description": "AGGRAVATED: OTHER DANG WEAPON", "beat": "1123", "date": {"$date": 1369303200000}, "ward": "28", "_id": {"$oid": "51aa13983c002ed20d78b3bf"}, "iucr": "530", "longitude": "-87.71533202902847", "location_description": "SCHOOL, PUBLIC, BUILDING", "x_coordinate": "1152530", "updated_on": {"$date": 1369442383000}, "fbi_code": "04A", "block": "035XX W FULTON BLVD"}
+{
+    "y_coordinate": "1901721", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW287318", 
+    "id": "9142247", 
+    "primary_type": "ASSAULT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71533202902847, 
+            41.88618305748506
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.88618305748506", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "1123", 
+    "date": {
+        "$date": 1369303200000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51aa13983c002ed20d78b3bf"
+    }, 
+    "iucr": "530", 
+    "longitude": "-87.71533202902847", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1152530", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "04A", 
+    "block": "035XX W FULTON BLVD"
+}

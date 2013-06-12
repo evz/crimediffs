@@ -1,1 +1,33 @@
-{"community_area": "61", "_id": {"$oid": "51b5f11b3c002ed20d78cd9e"}, "primary_type": "MOTOR VEHICLE THEFT", "beat": "0934", "year": "2013", "domestic": false, "iucr": "910", "arrest": false, "location_description": "STREET", "location": {"type": "Point", "coordinates": [-87.65328174908035, 41.79371018827924]}, "case_number": "HW301867", "date": {"$date": 1370178900000}, "updated_on": {"$date": 1370479286000}, "ward": "16", "fbi_code": "07", "type": "property", "id": "9157877", "block": "011XX W GARFIELD BLVD", "description": "AUTOMOBILE"}
+{
+    "_id": {
+        "$oid": "51b5f11b3c002ed20d78cd9e"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "year": "2013", 
+    "beat": "0934", 
+    "case_number": "HW301867", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65328174908035, 
+            41.79371018827924
+        ]
+    }, 
+    "community_area": "61", 
+    "date": {
+        "$date": 1370178900000
+    }, 
+    "updated_on": {
+        "$date": 1370479286000
+    }, 
+    "ward": "16", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9157877", 
+    "block": "011XX W GARFIELD BLVD", 
+    "description": "AUTOMOBILE"
+}

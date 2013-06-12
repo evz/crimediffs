@@ -1,1 +1,38 @@
-{"y_coordinate": "1851780", "year": "2013", "domestic": false, "case_number": "HW283109", "id": "9137821", "primary_type": "NARCOTICS", "district": "006", "arrest": true, "location": {"type": "Point", "coordinates": [-87.60865174136491, 41.74850775160357]}, "community_area": "44", "latitude": "41.74850775160357", "type": "quality", "description": "POSS: HEROIN(WHITE)", "beat": "0631", "date": {"$date": 1369063020000}, "ward": "6", "_id": {"$oid": "51a4cd913c002ed20d78a4cd"}, "iucr": "2024", "longitude": "-87.60865174136491", "location_description": "SIDEWALK", "x_coordinate": "1182002", "updated_on": {"$date": 1369528777000}, "fbi_code": "18", "block": "080XX S CHAMPLAIN AVE"}
+{
+    "y_coordinate": "1851780", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW283109", 
+    "id": "9137821", 
+    "primary_type": "NARCOTICS", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60865174136491, 
+            41.74850775160357
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.74850775160357", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "0631", 
+    "date": {
+        "$date": 1369063020000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a4cd"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.60865174136491", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1182002", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "18", 
+    "block": "080XX S CHAMPLAIN AVE"
+}

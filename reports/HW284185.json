@@ -1,1 +1,38 @@
-{"y_coordinate": "1927551", "year": "2013", "domestic": true, "case_number": "HW284185", "id": "9139298", "primary_type": "BATTERY", "district": "017", "arrest": true, "location": {"type": "Point", "coordinates": [-87.73115807105806, 41.95715057787064]}, "community_area": "16", "latitude": "41.95715057787064", "type": null, "description": "DOMESTIC BATTERY SIMPLE", "beat": "1722", "date": {"$date": 1369129200000}, "ward": "39", "_id": {"$oid": "51a61f0f3c002ed20d78a957"}, "iucr": "486", "longitude": "-87.73115807105806", "location_description": "APARTMENT", "x_coordinate": "1148039", "updated_on": {"$date": 1369356045000}, "fbi_code": "08B", "block": "041XX W BERTEAU AVE"}
+{
+    "y_coordinate": "1927551", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW284185", 
+    "id": "9139298", 
+    "primary_type": "BATTERY", 
+    "district": "017", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73115807105806, 
+            41.95715057787064
+        ]
+    }, 
+    "community_area": "16", 
+    "latitude": "41.95715057787064", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1722", 
+    "date": {
+        "$date": 1369129200000
+    }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51a61f0f3c002ed20d78a957"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.73115807105806", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1148039", 
+    "updated_on": {
+        "$date": 1369356045000
+    }, 
+    "fbi_code": "08B", 
+    "block": "041XX W BERTEAU AVE"
+}

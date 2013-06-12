@@ -1,1 +1,38 @@
-{"y_coordinate": "1924039", "year": "2013", "domestic": false, "case_number": "HW286601", "id": "9141413", "primary_type": "THEFT", "district": "019", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66901098909138, 41.94717012289238]}, "community_area": "6", "latitude": "41.94717012289238", "type": "property", "description": "OVER $500", "beat": "1922", "date": {"$date": 1369243800000}, "ward": "47", "_id": {"$oid": "51a7708a3c002ed20d78ab68"}, "iucr": "810", "longitude": "-87.66901098909138", "location_description": "SIDEWALK", "x_coordinate": "1164971", "updated_on": {"$date": 1369528777000}, "fbi_code": "06", "block": "036XX N ASHLAND AVE"}
+{
+    "y_coordinate": "1924039", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286601", 
+    "id": "9141413", 
+    "primary_type": "THEFT", 
+    "district": "019", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66901098909138, 
+            41.94717012289238
+        ]
+    }, 
+    "community_area": "6", 
+    "latitude": "41.94717012289238", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1922", 
+    "date": {
+        "$date": 1369243800000
+    }, 
+    "ward": "47", 
+    "_id": {
+        "$oid": "51a7708a3c002ed20d78ab68"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.66901098909138", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1164971", 
+    "updated_on": {
+        "$date": 1369528777000
+    }, 
+    "fbi_code": "06", 
+    "block": "036XX N ASHLAND AVE"
+}

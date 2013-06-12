@@ -1,1 +1,33 @@
-{"community_area": "43", "_id": {"$oid": "51b34a113c002ed20d78caa9"}, "primary_type": "BATTERY", "beat": "0334", "year": "2013", "domestic": true, "iucr": "486", "arrest": false, "location_description": "RESIDENCE PORCH/HALLWAY", "location": {"type": "Point", "coordinates": [-87.56123099499386, 41.76450547959404]}, "case_number": "HW290320", "date": {"$date": 1369481400000}, "updated_on": {"$date": 1370306580000}, "ward": "7", "fbi_code": "08B", "type": null, "id": "9152583", "block": "072XX S SOUTH SHORE DR", "description": "DOMESTIC BATTERY SIMPLE"}
+{
+    "_id": {
+        "$oid": "51b34a113c002ed20d78caa9"
+    }, 
+    "primary_type": "BATTERY", 
+    "year": "2013", 
+    "beat": "0334", 
+    "case_number": "HW290320", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56123099499386, 
+            41.76450547959404
+        ]
+    }, 
+    "community_area": "43", 
+    "date": {
+        "$date": 1369481400000
+    }, 
+    "updated_on": {
+        "$date": 1370306580000
+    }, 
+    "ward": "7", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9152583", 
+    "block": "072XX S SOUTH SHORE DR", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1904198", "year": "2013", "domestic": false, "case_number": "HW301976", "id": "9156189", "primary_type": "THEFT", "district": "012", "arrest": false, "location": {"type": "Point", "coordinates": [-87.66096691914977, 41.89267510686424]}, "community_area": "24", "latitude": "41.89267510686424", "type": "property", "description": "$500 AND UNDER", "beat": "1215", "date": {"$date": 1370206800000}, "ward": "27", "_id": {"$oid": "51b5f1173c002ed20d78cc56"}, "iucr": "820", "longitude": "-87.66096691914977", "location_description": "STREET", "x_coordinate": "1167315", "updated_on": {"$date": 1370392932000}, "fbi_code": "06", "block": "006XX N ADA ST"}
+{
+    "y_coordinate": "1904198", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW301976", 
+    "id": "9156189", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66096691914977, 
+            41.89267510686424
+        ]
+    }, 
+    "community_area": "24", 
+    "latitude": "41.89267510686424", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1215", 
+    "date": {
+        "$date": 1370206800000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51b5f1173c002ed20d78cc56"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.66096691914977", 
+    "location_description": "STREET", 
+    "x_coordinate": "1167315", 
+    "updated_on": {
+        "$date": 1370392932000
+    }, 
+    "fbi_code": "06", 
+    "block": "006XX N ADA ST"
+}

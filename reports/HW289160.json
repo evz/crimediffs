@@ -1,1 +1,38 @@
-{"y_coordinate": "1871986", "year": "2013", "domestic": false, "case_number": "HW289160", "id": "9144130", "primary_type": "DECEPTIVE PRACTICE", "district": "002", "arrest": false, "location": {"type": "Point", "coordinates": [-87.60362997013767, 41.803927096054366]}, "community_area": "39", "latitude": "41.803927096054366", "type": null, "description": "COUNTERFEIT CHECK", "beat": "0222", "date": {"$date": 1369213200000}, "ward": "4", "_id": {"$oid": "51a7708d3c002ed20d78acde"}, "iucr": "1122", "longitude": "-87.60362997013767", "location_description": "APARTMENT", "x_coordinate": "1183201", "updated_on": {"$date": 1369701613000}, "fbi_code": "10", "block": "050XX S DREXEL BLVD"}
+{
+    "y_coordinate": "1871986", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289160", 
+    "id": "9144130", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60362997013767, 
+            41.803927096054366
+        ]
+    }, 
+    "community_area": "39", 
+    "latitude": "41.803927096054366", 
+    "type": null, 
+    "description": "COUNTERFEIT CHECK", 
+    "beat": "0222", 
+    "date": {
+        "$date": 1369213200000
+    }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51a7708d3c002ed20d78acde"
+    }, 
+    "iucr": "1122", 
+    "longitude": "-87.60362997013767", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1183201", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "10", 
+    "block": "050XX S DREXEL BLVD"
+}

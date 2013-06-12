@@ -1,1 +1,38 @@
-{"y_coordinate": "1918393", "year": "2013", "domestic": true, "case_number": "HW289039", "id": "9144035", "primary_type": "ASSAULT", "district": "014", "arrest": false, "location": {"type": "Point", "coordinates": [-87.70932317171653, 41.93190243469386]}, "community_area": "22", "latitude": "41.93190243469386", "type": null, "description": "SIMPLE", "beat": "1412", "date": {"$date": 1369401600000}, "ward": "35", "_id": {"$oid": "51aa13913c002ed20d78b022"}, "iucr": "560", "longitude": "-87.70932317171653", "location_description": "SIDEWALK", "x_coordinate": "1154045", "updated_on": {"$date": 1370047283000}, "fbi_code": "08A", "block": "032XX W DIVERSEY AVE"}
+{
+    "y_coordinate": "1918393", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW289039", 
+    "id": "9144035", 
+    "primary_type": "ASSAULT", 
+    "district": "014", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70932317171653, 
+            41.93190243469386
+        ]
+    }, 
+    "community_area": "22", 
+    "latitude": "41.93190243469386", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1412", 
+    "date": {
+        "$date": 1369401600000
+    }, 
+    "ward": "35", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b022"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.70932317171653", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1154045", 
+    "updated_on": {
+        "$date": 1370047283000
+    }, 
+    "fbi_code": "08A", 
+    "block": "032XX W DIVERSEY AVE"
+}

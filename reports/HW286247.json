@@ -1,1 +1,38 @@
-{"y_coordinate": "1869793", "year": "2013", "domestic": false, "case_number": "HW286247", "id": "9141189", "primary_type": "SEX OFFENSE", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.69530063210634, 41.79845462142884]}, "community_area": "63", "latitude": "41.79845462142884", "type": null, "description": "PUBLIC INDECENCY", "beat": "0923", "date": {"$date": 1369147500000}, "ward": "14", "_id": {"$oid": "51a61f0d3c002ed20d78a885"}, "iucr": "1570", "longitude": "-87.69530063210634", "location_description": "ALLEY", "x_coordinate": "1158222", "updated_on": {"$date": 1369442383000}, "fbi_code": "17", "block": "052XX S MOZART ST"}
+{
+    "y_coordinate": "1869793", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW286247", 
+    "id": "9141189", 
+    "primary_type": "SEX OFFENSE", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69530063210634, 
+            41.79845462142884
+        ]
+    }, 
+    "community_area": "63", 
+    "latitude": "41.79845462142884", 
+    "type": null, 
+    "description": "PUBLIC INDECENCY", 
+    "beat": "0923", 
+    "date": {
+        "$date": 1369147500000
+    }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51a61f0d3c002ed20d78a885"
+    }, 
+    "iucr": "1570", 
+    "longitude": "-87.69530063210634", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1158222", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "17", 
+    "block": "052XX S MOZART ST"
+}

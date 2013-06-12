@@ -1,1 +1,38 @@
-{"y_coordinate": "1910957", "year": "2013", "domestic": false, "case_number": "HW303240", "id": "9157789", "primary_type": "DECEPTIVE PRACTICE", "district": "018", "arrest": false, "location": {"type": "Point", "coordinates": [-87.6435355983115, 41.911119996532]}, "community_area": "7", "latitude": "41.911119996532", "type": null, "description": "CREDIT CARD FRAUD", "beat": "1813", "date": {"$date": 1370203200000}, "ward": "43", "_id": {"$oid": "51b5f1183c002ed20d78cc80"}, "iucr": "1150", "longitude": "-87.6435355983115", "location_description": "STREET", "x_coordinate": "1172007", "updated_on": {"$date": 1370565766000}, "fbi_code": "11", "block": "006XX W NORTH AVE"}
+{
+    "y_coordinate": "1910957", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW303240", 
+    "id": "9157789", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "018", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6435355983115, 
+            41.911119996532
+        ]
+    }, 
+    "community_area": "7", 
+    "latitude": "41.911119996532", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "1813", 
+    "date": {
+        "$date": 1370203200000
+    }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51b5f1183c002ed20d78cc80"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.6435355983115", 
+    "location_description": "STREET", 
+    "x_coordinate": "1172007", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "11", 
+    "block": "006XX W NORTH AVE"
+}

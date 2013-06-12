@@ -1,1 +1,38 @@
-{"y_coordinate": "1865576", "year": "2013", "domestic": false, "case_number": "HW288951", "id": "9145308", "primary_type": "THEFT", "district": "007", "arrest": false, "location": {"type": "Point", "coordinates": [-87.65725397333222, 41.786664350622765]}, "community_area": "67", "latitude": "41.786664350622765", "type": "property", "description": "PURSE-SNATCHING", "beat": "0713", "date": {"$date": 1369400400000}, "ward": "16", "_id": {"$oid": "51aa13913c002ed20d78b036"}, "iucr": "880", "longitude": "-87.65725397333222", "location_description": "STREET", "x_coordinate": "1168630", "updated_on": {"$date": 1369701613000}, "fbi_code": "06", "block": "059XX S THROOP ST"}
+{
+    "y_coordinate": "1865576", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW288951", 
+    "id": "9145308", 
+    "primary_type": "THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65725397333222, 
+            41.786664350622765
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.786664350622765", 
+    "type": "property", 
+    "description": "PURSE-SNATCHING", 
+    "beat": "0713", 
+    "date": {
+        "$date": 1369400400000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51aa13913c002ed20d78b036"
+    }, 
+    "iucr": "880", 
+    "longitude": "-87.65725397333222", 
+    "location_description": "STREET", 
+    "x_coordinate": "1168630", 
+    "updated_on": {
+        "$date": 1369701613000
+    }, 
+    "fbi_code": "06", 
+    "block": "059XX S THROOP ST"
+}

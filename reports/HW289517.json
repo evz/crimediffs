@@ -1,1 +1,38 @@
-{"y_coordinate": "1906353", "year": "2013", "domestic": false, "case_number": "HW289517", "id": "9144368", "primary_type": "NARCOTICS", "district": "011", "arrest": true, "location": {"type": "Point", "coordinates": [-87.72322394137798, 41.89893658867567]}, "community_area": "23", "latitude": "41.89893658867567", "type": "quality", "description": "POSS: CANNABIS 30GMS OR LESS", "beat": "1112", "date": {"$date": 1369422720000}, "ward": "27", "_id": {"$oid": "51aa138e3c002ed20d78aefc"}, "iucr": "1811", "longitude": "-87.72322394137798", "location_description": "SIDEWALK", "x_coordinate": "1150348", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "038XX W AUGUSTA BLVD"}
+{
+    "y_coordinate": "1906353", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW289517", 
+    "id": "9144368", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72322394137798, 
+            41.89893658867567
+        ]
+    }, 
+    "community_area": "23", 
+    "latitude": "41.89893658867567", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1112", 
+    "date": {
+        "$date": 1369422720000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51aa138e3c002ed20d78aefc"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.72322394137798", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1150348", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "038XX W AUGUSTA BLVD"
+}

@@ -1,1 +1,38 @@
-{"y_coordinate": "1896627", "year": "2013", "domestic": false, "case_number": "HW304193", "id": "9159384", "primary_type": "THEFT", "district": "001", "arrest": false, "location": {"type": "Point", "coordinates": [-87.62744841182861, 41.87169730631013]}, "community_area": "32", "latitude": "41.87169730631013", "type": "property", "description": "FROM BUILDING", "beat": "0123", "date": {"$date": 1369180800000}, "ward": "2", "_id": {"$oid": "51b34a1e3c002ed20d78cb7c"}, "iucr": "890", "longitude": "-87.62744841182861", "location_description": "APARTMENT", "x_coordinate": "1176504", "updated_on": {"$date": 1370565766000}, "fbi_code": "06", "block": "0000X E 8TH ST"}
+{
+    "y_coordinate": "1896627", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW304193", 
+    "id": "9159384", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62744841182861, 
+            41.87169730631013
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.87169730631013", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0123", 
+    "date": {
+        "$date": 1369180800000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51b34a1e3c002ed20d78cb7c"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.62744841182861", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1176504", 
+    "updated_on": {
+        "$date": 1370565766000
+    }, 
+    "fbi_code": "06", 
+    "block": "0000X E 8TH ST"
+}

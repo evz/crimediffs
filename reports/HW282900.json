@@ -1,1 +1,38 @@
-{"y_coordinate": "1876805", "year": "2013", "domestic": false, "case_number": "HW282900", "id": "9137581", "primary_type": "THEFT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.68701736313743, 41.817651212307815]}, "community_area": "58", "latitude": "41.817651212307815", "type": "property", "description": "$500 AND UNDER", "beat": "0921", "date": {"$date": 1369053000000}, "ward": "12", "_id": {"$oid": "51a4cd913c002ed20d78a543"}, "iucr": "820", "longitude": "-87.68701736313743", "location_description": "VEHICLE-COMMERCIAL", "x_coordinate": "1160428", "updated_on": {"$date": 1369269615000}, "fbi_code": "06", "block": "041XX S CAMPBELL AVE"}
+{
+    "y_coordinate": "1876805", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW282900", 
+    "id": "9137581", 
+    "primary_type": "THEFT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68701736313743, 
+            41.817651212307815
+        ]
+    }, 
+    "community_area": "58", 
+    "latitude": "41.817651212307815", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0921", 
+    "date": {
+        "$date": 1369053000000
+    }, 
+    "ward": "12", 
+    "_id": {
+        "$oid": "51a4cd913c002ed20d78a543"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.68701736313743", 
+    "location_description": "VEHICLE-COMMERCIAL", 
+    "x_coordinate": "1160428", 
+    "updated_on": {
+        "$date": 1369269615000
+    }, 
+    "fbi_code": "06", 
+    "block": "041XX S CAMPBELL AVE"
+}

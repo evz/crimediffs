@@ -1,1 +1,38 @@
-{"y_coordinate": "1839876", "year": "2013", "domestic": false, "case_number": "HW290889", "id": "9145443", "primary_type": "NARCOTICS", "district": "005", "arrest": true, "location": {"type": "Point", "coordinates": [-87.61413528073571, 41.71587392055787]}, "community_area": "49", "latitude": "41.71587392055787", "type": "quality", "description": "MANU/DELIVER: HEROIN (WHITE)", "beat": "0511", "date": {"$date": 1369511760000}, "ward": "6", "_id": {"$oid": "51b34a0f3c002ed20d78c945"}, "iucr": "2014", "longitude": "-87.61413528073571", "location_description": "STREET", "x_coordinate": "1180605", "updated_on": {"$date": 1369787985000}, "fbi_code": "18", "block": "098XX S DR MARTIN LUTHER KING JR DR"}
+{
+    "y_coordinate": "1839876", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW290889", 
+    "id": "9145443", 
+    "primary_type": "NARCOTICS", 
+    "district": "005", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61413528073571, 
+            41.71587392055787
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.71587392055787", 
+    "type": "quality", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)", 
+    "beat": "0511", 
+    "date": {
+        "$date": 1369511760000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51b34a0f3c002ed20d78c945"
+    }, 
+    "iucr": "2014", 
+    "longitude": "-87.61413528073571", 
+    "location_description": "STREET", 
+    "x_coordinate": "1180605", 
+    "updated_on": {
+        "$date": 1369787985000
+    }, 
+    "fbi_code": "18", 
+    "block": "098XX S DR MARTIN LUTHER KING JR DR"
+}

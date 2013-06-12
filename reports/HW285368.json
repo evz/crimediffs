@@ -1,1 +1,38 @@
-{"y_coordinate": "1881606", "year": "2013", "domestic": false, "case_number": "HW285368", "id": "9141600", "primary_type": "MOTOR VEHICLE THEFT", "district": "009", "arrest": false, "location": {"type": "Point", "coordinates": [-87.64503206491844, 41.83058254524386]}, "community_area": "60", "latitude": "41.83058254524386", "type": "property", "description": "AUTOMOBILE", "beat": "0915", "date": {"$date": 1369157400000}, "ward": "11", "_id": {"$oid": "51a61f0b3c002ed20d78a7f1"}, "iucr": "910", "longitude": "-87.64503206491844", "location_description": "STREET", "x_coordinate": "1171835", "updated_on": {"$date": 1369442383000}, "fbi_code": "07", "block": "035XX S EMERALD AVE"}
+{
+    "y_coordinate": "1881606", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW285368", 
+    "id": "9141600", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64503206491844, 
+            41.83058254524386
+        ]
+    }, 
+    "community_area": "60", 
+    "latitude": "41.83058254524386", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0915", 
+    "date": {
+        "$date": 1369157400000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51a61f0b3c002ed20d78a7f1"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.64503206491844", 
+    "location_description": "STREET", 
+    "x_coordinate": "1171835", 
+    "updated_on": {
+        "$date": 1369442383000
+    }, 
+    "fbi_code": "07", 
+    "block": "035XX S EMERALD AVE"
+}
