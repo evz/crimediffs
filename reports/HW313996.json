@@ -1,0 +1,33 @@
+{
+    "community_area": "19", 
+    "_id": {
+        "$oid": "51b894293c002ed20d78d888"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2514", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "RESIDENCE-GARAGE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.758967, 
+            41.9289119
+        ]
+    }, 
+    "case_number": "HW313996", 
+    "date": {
+        "$date": 1369713600000
+    }, 
+    "updated_on": {
+        "$date": 1370997720000
+    }, 
+    "ward": "31", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9168836", 
+    "block": "053XX W DRUMMOND PL", 
+    "description": "OVER $500"
+}
