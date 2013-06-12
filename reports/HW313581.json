@@ -1,0 +1,33 @@
+{
+    "community_area": "46", 
+    "_id": {
+        "$oid": "51b8942e3c002ed20d78d88f"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0423", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55888771481962, 
+            41.73837221760467
+        ]
+    }, 
+    "case_number": "HW313581", 
+    "date": {
+        "$date": 1369470600000
+    }, 
+    "updated_on": {
+        "$date": 1370997720000
+    }, 
+    "ward": "7", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9168537", 
+    "block": "086XX S MARQUETTE AVE", 
+    "description": "$500 AND UNDER"
+}
