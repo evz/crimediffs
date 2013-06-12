@@ -1,0 +1,33 @@
+{
+    "community_area": "18", 
+    "_id": {
+        "$oid": "51b8941d3c002ed20d78d86c"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2512", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.80622201751298, 
+            41.92719333729247
+        ]
+    }, 
+    "case_number": "HW313571", 
+    "date": {
+        "$date": 1370250000000
+    }, 
+    "updated_on": {
+        "$date": 1370997720000
+    }, 
+    "ward": "36", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9168190", 
+    "block": "026XX N HARLEM AVE", 
+    "description": "OVER $500"
+}
