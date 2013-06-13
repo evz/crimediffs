@@ -1,0 +1,33 @@
+{
+    "community_area": "23", 
+    "_id": {
+        "$oid": "51b9e5a73c002ed20d78dc00"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1111", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "841", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73613696390106, 
+            41.89677065754078
+        ]
+    }, 
+    "case_number": "HW315577", 
+    "date": {
+        "$date": 1369926000000
+    }, 
+    "updated_on": {
+        "$date": 1371084085000
+    }, 
+    "ward": "37", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9171097", 
+    "block": "008XX N KOSTNER AVE", 
+    "description": "FINANCIAL ID THEFT:$300 &UNDER"
+}
