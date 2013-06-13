@@ -1,0 +1,33 @@
+{
+    "community_area": "66", 
+    "_id": {
+        "$oid": "51b9e5a03c002ed20d78dbeb"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0823", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "841", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70084072318294, 
+            41.77882516000666
+        ]
+    }, 
+    "case_number": "HW314993", 
+    "date": {
+        "$date": 1370244900000
+    }, 
+    "updated_on": {
+        "$date": 1371084085000
+    }, 
+    "ward": "15", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9170576", 
+    "block": "063XX S ALBANY AVE", 
+    "description": "FINANCIAL ID THEFT:$300 &UNDER"
+}
