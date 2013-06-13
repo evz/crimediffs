@@ -1,0 +1,33 @@
+{
+    "community_area": "3", 
+    "_id": {
+        "$oid": "51b9e5b03c002ed20d78dc05"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "2024", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "620", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65570980195179, 
+            41.969188749620805
+        ]
+    }, 
+    "case_number": "HW315201", 
+    "date": {
+        "$date": 1369497600000
+    }, 
+    "updated_on": {
+        "$date": 1371084085000
+    }, 
+    "ward": "46", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9170564", 
+    "block": "010XX W LAWRENCE AVE", 
+    "description": "UNLAWFUL ENTRY"
+}
