@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "51b9e5a53c002ed20d78dbf5"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0531", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "PARK PROPERTY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6164502061321, 
+            41.69278940228085
+        ]
+    }, 
+    "case_number": "HW315583", 
+    "date": {
+        "$date": 1370023200000
+    }, 
+    "updated_on": {
+        "$date": 1371084085000
+    }, 
+    "ward": "9", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9170770", 
+    "block": "002XX E 111TH ST", 
+    "description": "$500 AND UNDER"
+}
