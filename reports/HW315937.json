@@ -1,0 +1,33 @@
+{
+    "community_area": "33", 
+    "_id": {
+        "$oid": "51b9e59d3c002ed20d78dbe5"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "0131", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "4387", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.626879, 
+            41.862442
+        ]
+    }, 
+    "case_number": "HW315937", 
+    "date": {
+        "$date": 1370354400000
+    }, 
+    "updated_on": {
+        "$date": 1371084085000
+    }, 
+    "ward": "2", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9171055", 
+    "block": "015XX S WABASH AVE", 
+    "description": "VIOLATE ORDER OF PROTECTION"
+}
