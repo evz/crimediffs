@@ -1,0 +1,33 @@
+{
+    "community_area": "8", 
+    "_id": {
+        "$oid": "51b9e5a13c002ed20d78dbed"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1833", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "860", 
+    "arrest": false, 
+    "location_description": "DEPARTMENT STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.624275876384, 
+            41.89928756136712
+        ]
+    }, 
+    "case_number": "HW315301", 
+    "date": {
+        "$date": 1370183100000
+    }, 
+    "updated_on": {
+        "$date": 1371084085000
+    }, 
+    "ward": "42", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9170619", 
+    "block": "009XX N MICHIGAN AVE", 
+    "description": "RETAIL THEFT"
+}
