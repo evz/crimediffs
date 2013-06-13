@@ -1,0 +1,33 @@
+{
+    "community_area": "67", 
+    "_id": {
+        "$oid": "51b9e59f3c002ed20d78dbea"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0734", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66281148390914, 
+            41.76707796589496
+        ]
+    }, 
+    "case_number": "HW315753", 
+    "date": {
+        "$date": 1370277000000
+    }, 
+    "updated_on": {
+        "$date": 1371084085000
+    }, 
+    "ward": "17", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9170858", 
+    "block": "069XX S JUSTINE ST", 
+    "description": "FORCIBLE ENTRY"
+}
