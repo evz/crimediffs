@@ -1,0 +1,33 @@
+{
+    "community_area": "62", 
+    "_id": {
+        "$oid": "51bb373d3c002ed20d78df59"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "0822", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71587389999999, 
+            41.79514349999999
+        ]
+    }, 
+    "case_number": "HW317142", 
+    "date": {
+        "$date": 1370275200000
+    }, 
+    "updated_on": {
+        "$date": 1371170455000
+    }, 
+    "ward": "23", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9172774", 
+    "block": "054XX S LAWNDALE AVE", 
+    "description": "AUTOMOBILE"
+}
