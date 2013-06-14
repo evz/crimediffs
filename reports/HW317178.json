@@ -1,0 +1,33 @@
+{
+    "community_area": "71", 
+    "_id": {
+        "$oid": "51bb37383c002ed20d78df4e"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2222", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65319001502647, 
+            41.73575553974273
+        ]
+    }, 
+    "case_number": "HW317178", 
+    "date": {
+        "$date": 1370494800000
+    }, 
+    "updated_on": {
+        "$date": 1371170455000
+    }, 
+    "ward": "21", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9172766", 
+    "block": "087XX S RACINE AVE", 
+    "description": "$500 AND UNDER"
+}
