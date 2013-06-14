@@ -1,0 +1,33 @@
+{
+    "community_area": "15", 
+    "_id": {
+        "$oid": "51bb373f3c002ed20d78df5f"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1633", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "HOSPITAL BUILDING/GROUNDS", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76847613160633, 
+            41.94574867346272
+        ]
+    }, 
+    "case_number": "HW317196", 
+    "date": {
+        "$date": 1370165400000
+    }, 
+    "updated_on": {
+        "$date": 1371170455000
+    }, 
+    "ward": "38", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9172752", 
+    "block": "056XX W ADDISON ST", 
+    "description": "FROM BUILDING"
+}
