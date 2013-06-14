@@ -1,0 +1,33 @@
+{
+    "community_area": "1", 
+    "_id": {
+        "$oid": "51bb37423c002ed20d78df64"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2422", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6672431545279, 
+            42.01595416231334
+        ]
+    }, 
+    "case_number": "HW316891", 
+    "date": {
+        "$date": 1370023200000
+    }, 
+    "updated_on": {
+        "$date": 1371170455000
+    }, 
+    "ward": "49", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9172568", 
+    "block": "014XX W JARVIS AVE", 
+    "description": "$500 AND UNDER"
+}
