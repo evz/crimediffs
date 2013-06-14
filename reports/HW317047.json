@@ -1,0 +1,33 @@
+{
+    "community_area": "6", 
+    "_id": {
+        "$oid": "51bb373f3c002ed20d78df5e"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1923", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "RESTAURANT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6567324343581, 
+            41.94725758479587
+        ]
+    }, 
+    "case_number": "HW317047", 
+    "date": {
+        "$date": 1370181600000
+    }, 
+    "updated_on": {
+        "$date": 1371170455000
+    }, 
+    "ward": "44", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9172800", 
+    "block": "036XX N CLARK ST", 
+    "description": "OVER $500"
+}
