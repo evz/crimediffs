@@ -1,0 +1,33 @@
+{
+    "community_area": "2", 
+    "_id": {
+        "$oid": "51bb373d3c002ed20d78df5c"
+    }, 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "beat": "2412", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1185", 
+    "arrest": false, 
+    "location_description": "GROCERY FOOD STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68474389779306, 
+            41.99792629026903
+        ]
+    }, 
+    "case_number": "HW316737", 
+    "date": {
+        "$date": 1370251440000
+    }, 
+    "updated_on": {
+        "$date": 1371170455000
+    }, 
+    "ward": "50", 
+    "fbi_code": "11", 
+    "type": null, 
+    "id": "9172377", 
+    "block": "021XX W DEVON AVE", 
+    "description": "DECEPTIVE COLLECTION PRACTICES"
+}
