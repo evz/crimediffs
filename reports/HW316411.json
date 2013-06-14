@@ -1,0 +1,33 @@
+{
+    "community_area": "45", 
+    "_id": {
+        "$oid": "51bb37343c002ed20d78dd61"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0411", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58594993526393, 
+            41.74438033875517
+        ]
+    }, 
+    "case_number": "HW316411", 
+    "date": {
+        "$date": 1370539800000
+    }, 
+    "updated_on": {
+        "$date": 1371170455000
+    }, 
+    "ward": "8", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9172238", 
+    "block": "082XX S STONY ISLAND AVE", 
+    "description": "$500 AND UNDER"
+}
