@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "51bb37323c002ed20d78dcde"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0331", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57402758000833, 
+            41.767892149890436
+        ]
+    }, 
+    "case_number": "HW316004", 
+    "date": {
+        "$date": 1370548800000
+    }, 
+    "updated_on": {
+        "$date": 1371170455000
+    }, 
+    "ward": "5", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9172979", 
+    "block": "020XX E 70TH ST", 
+    "description": "OVER $500"
+}
