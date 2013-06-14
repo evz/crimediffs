@@ -1,0 +1,33 @@
+{
+    "community_area": "41", 
+    "_id": {
+        "$oid": "51bb37423c002ed20d78df68"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0234", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59493237512694, 
+            41.80181330907294
+        ]
+    }, 
+    "case_number": "HW316269", 
+    "date": {
+        "$date": 1370012400000
+    }, 
+    "updated_on": {
+        "$date": 1371170455000
+    }, 
+    "ward": "4", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9171327", 
+    "block": "051XX S KIMBARK AVE", 
+    "description": "FROM BUILDING"
+}
