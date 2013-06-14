@@ -1,0 +1,33 @@
+{
+    "community_area": "33", 
+    "_id": {
+        "$oid": "51bb37423c002ed20d78df67"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "0132", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "5002", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62372971759174, 
+            41.85537079770121
+        ]
+    }, 
+    "case_number": "HW317177", 
+    "date": {
+        "$date": 1370012400000
+    }, 
+    "updated_on": {
+        "$date": 1371170455000
+    }, 
+    "ward": "2", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9172753", 
+    "block": "020XX S MICHIGAN AVE", 
+    "description": "OTHER VEHICLE OFFENSE"
+}
