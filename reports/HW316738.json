@@ -1,0 +1,33 @@
+{
+    "community_area": "60", 
+    "_id": {
+        "$oid": "51bb37493c002ed20d78df73"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0913", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66164214006108, 
+            41.8422260048633
+        ]
+    }, 
+    "case_number": "HW316738", 
+    "date": {
+        "$date": 1369731600000
+    }, 
+    "updated_on": {
+        "$date": 1371170455000
+    }, 
+    "ward": "11", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9172211", 
+    "block": "014XX W FULLER ST", 
+    "description": "$500 AND UNDER"
+}
