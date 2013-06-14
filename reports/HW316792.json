@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "51bb37343c002ed20d78dd3e"
+    }, 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "beat": "1522", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "1750", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7645954527472, 
+            41.876931518489044
+        ]
+    }, 
+    "case_number": "HW316792", 
+    "date": {
+        "$date": 1370541600000
+    }, 
+    "updated_on": {
+        "$date": 1371170455000
+    }, 
+    "ward": "29", 
+    "fbi_code": "20", 
+    "type": null, 
+    "id": "9172387", 
+    "block": "002XX S CENTRAL AVE", 
+    "description": "CHILD ABUSE"
+}
