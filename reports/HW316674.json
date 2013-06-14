@@ -1,0 +1,33 @@
+{
+    "community_area": "39", 
+    "_id": {
+        "$oid": "51bb373b3c002ed20d78df56"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0222", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60047099479726, 
+            41.815926906275905
+        ]
+    }, 
+    "case_number": "HW316674", 
+    "date": {
+        "$date": 1370358000000
+    }, 
+    "updated_on": {
+        "$date": 1371170455000
+    }, 
+    "ward": "4", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9172570", 
+    "block": "043XX S BERKELEY AVE", 
+    "description": "OVER $500"
+}
