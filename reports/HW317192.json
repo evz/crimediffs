@@ -1,0 +1,33 @@
+{
+    "community_area": "20", 
+    "_id": {
+        "$oid": "51bb37373c002ed20d78df14"
+    }, 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "beat": "2522", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1150", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73404000901368, 
+            41.91715764286633
+        ]
+    }, 
+    "case_number": "HW317192", 
+    "date": {
+        "$date": 1370505600000
+    }, 
+    "updated_on": {
+        "$date": 1371170455000
+    }, 
+    "ward": "30", 
+    "fbi_code": "11", 
+    "type": null, 
+    "id": "9172762", 
+    "block": "020XX N KILDARE AVE", 
+    "description": "CREDIT CARD FRAUD"
+}
