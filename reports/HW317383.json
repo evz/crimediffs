@@ -1,0 +1,33 @@
+{
+    "community_area": "6", 
+    "_id": {
+        "$oid": "51bb37383c002ed20d78df4f"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1934", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64105209441244, 
+            41.939329377246516
+        ]
+    }, 
+    "case_number": "HW317383", 
+    "date": {
+        "$date": 1370476800000
+    }, 
+    "updated_on": {
+        "$date": 1371170455000
+    }, 
+    "ward": "44", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9172927", 
+    "block": "031XX N HUDSON AVE", 
+    "description": "FROM BUILDING"
+}
