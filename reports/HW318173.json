@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "51bc88ae3c002ed20d78e332"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "1113", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "031A", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74532134812046, 
+            41.885766981037435
+        ]
+    }, 
+    "case_number": "HW318173", 
+    "date": {
+        "$date": 1369918800000
+    }, 
+    "updated_on": {
+        "$date": 1371256913000
+    }, 
+    "ward": "28", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9174219", 
+    "block": "003XX N CICERO AVE", 
+    "description": "ARMED: HANDGUN"
+}
