@@ -1,0 +1,33 @@
+{
+    "community_area": "32", 
+    "_id": {
+        "$oid": "51bc88af3c002ed20d78e335"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "0111", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "320", 
+    "arrest": false, 
+    "location_description": "SMALL RETAIL STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62808233389251, 
+            41.88550474590183
+        ]
+    }, 
+    "case_number": "HW318536", 
+    "date": {
+        "$date": 1369897200000
+    }, 
+    "updated_on": {
+        "$date": 1371256913000
+    }, 
+    "ward": "42", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9174652", 
+    "block": "001XX N STATE ST", 
+    "description": "STRONGARM - NO WEAPON"
+}
