@@ -1,0 +1,33 @@
+{
+    "community_area": "8", 
+    "_id": {
+        "$oid": "51bc88af3c002ed20d78e334"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1821", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64108907118461, 
+            41.90871504950532
+        ]
+    }, 
+    "case_number": "HW318100", 
+    "date": {
+        "$date": 1369915200000
+    }, 
+    "updated_on": {
+        "$date": 1371256913000
+    }, 
+    "ward": "43", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9173845", 
+    "block": "014XX N CLEVELAND AVE", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
