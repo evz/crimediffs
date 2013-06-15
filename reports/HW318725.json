@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "51bc889a3c002ed20d78e17e"
+    }, 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "beat": "0511", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1755", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62582798186392, 
+            41.709744340263974
+        ]
+    }, 
+    "case_number": "HW318725", 
+    "date": {
+        "$date": 1370624400000
+    }, 
+    "updated_on": {
+        "$date": 1371256913000
+    }, 
+    "ward": "9", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9174708", 
+    "block": "101XX S PERRY AVE", 
+    "description": "CHILD ABANDONMENT"
+}
