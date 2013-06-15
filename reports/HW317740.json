@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "51bc88963c002ed20d78dffd"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0624", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60898279217722, 
+            41.75002743886302
+        ]
+    }, 
+    "case_number": "HW317740", 
+    "date": {
+        "$date": 1370651400000
+    }, 
+    "updated_on": {
+        "$date": 1371256913000
+    }, 
+    "ward": "6", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9173245", 
+    "block": "079XX S CHAMPLAIN AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
