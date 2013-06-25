@@ -1,0 +1,33 @@
+{
+    "community_area": "19", 
+    "_id": {
+        "$oid": "51c92b0e018e783f00ab642f"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "2514", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77014335759135, 
+            41.93423661677821
+        ]
+    }, 
+    "case_number": "HW319806", 
+    "date": {
+        "$date": 1371299100000
+    }, 
+    "updated_on": {
+        "$date": 1372034339000
+    }, 
+    "ward": "30", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9186145", 
+    "block": "029XX N MANGO AVE", 
+    "description": "SIMPLE"
+}
