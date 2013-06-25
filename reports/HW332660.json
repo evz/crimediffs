@@ -1,0 +1,33 @@
+{
+    "community_area": "20", 
+    "_id": {
+        "$oid": "51c9b7a9018e783f00ab688e"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2525", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "841", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72774782949561, 
+            41.92124646449573
+        ]
+    }, 
+    "case_number": "HW332660", 
+    "date": {
+        "$date": 1371168060000
+    }, 
+    "updated_on": {
+        "$date": 1372120760000
+    }, 
+    "ward": "31", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9187168", 
+    "block": "022XX N KEYSTONE AVE", 
+    "description": "FINANCIAL ID THEFT:$300 &UNDER"
+}
