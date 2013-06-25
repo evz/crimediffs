@@ -1,0 +1,33 @@
+{
+    "community_area": "7", 
+    "_id": {
+        "$oid": "51c5c3193c002ed20d795b78"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "1813", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6482139649194, 
+            41.91372483640568
+        ]
+    }, 
+    "case_number": "HW321868", 
+    "date": {
+        "$date": 1371193200000
+    }, 
+    "updated_on": {
+        "$date": 1371688802000
+    }, 
+    "ward": "43", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9177838", 
+    "block": "017XX N HALSTED ST", 
+    "description": "TO PROPERTY"
+}
