@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "51c92b0a018e783f00ab628c"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "0324", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58378335307901, 
+            41.76462189633921
+        ]
+    }, 
+    "case_number": "HW331536", 
+    "date": {
+        "$date": 1371333600000
+    }, 
+    "updated_on": {
+        "$date": 1372034339000
+    }, 
+    "ward": "8", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9186280", 
+    "block": "071XX S EAST END AVE", 
+    "description": "AUTOMOBILE"
+}
