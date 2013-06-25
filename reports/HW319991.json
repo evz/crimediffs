@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1904312", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW319991", 
+    "id": "9175562", 
+    "primary_type": "THEFT", 
+    "district": "018", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61757212311092, 
+            41.892725670058745
+        ]
+    }, 
+    "community_area": "8", 
+    "latitude": "41.892725670058745", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1834", 
+    "date": {
+        "$date": 1371302400000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51c92b0d018e783f00ab6404"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.61757212311092", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1179130", 
+    "updated_on": {
+        "$date": 1371602404000
+    }, 
+    "fbi_code": "06", 
+    "block": "006XX N MC CLURG CT"
+}
