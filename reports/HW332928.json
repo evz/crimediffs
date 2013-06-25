@@ -1,0 +1,33 @@
+{
+    "community_area": "70", 
+    "_id": {
+        "$oid": "51c9b79d018e783f00ab66ff"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0835", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68792806002773, 
+            41.748094004483214
+        ]
+    }, 
+    "case_number": "HW332928", 
+    "date": {
+        "$date": 1371483000000
+    }, 
+    "updated_on": {
+        "$date": 1372120760000
+    }, 
+    "ward": "18", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9187906", 
+    "block": "026XX W 80TH ST", 
+    "description": "FROM BUILDING"
+}
