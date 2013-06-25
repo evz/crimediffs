@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "51c5c3153c002ed20d795a1a"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0531", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "PARK PROPERTY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61352006759402, 
+            41.692551540222226
+        ]
+    }, 
+    "case_number": "HW324434", 
+    "date": {
+        "$date": 1371224700000
+    }, 
+    "updated_on": {
+        "$date": 1372034339000
+    }, 
+    "ward": "9", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9184635", 
+    "block": "111XX S DR MARTIN LUTHER KING JR DR", 
+    "description": "$500 AND UNDER"
+}
