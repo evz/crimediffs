@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "51c92aff018e783f00ab5fce"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "2513", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "031A", 
+    "arrest": false, 
+    "location_description": "RESTAURANT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.80580273750735, 
+            41.91429900216543
+        ]
+    }, 
+    "case_number": "HW321616", 
+    "date": {
+        "$date": 1371406680000
+    }, 
+    "updated_on": {
+        "$date": 1371688802000
+    }, 
+    "ward": "36", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9178367", 
+    "block": "018XX N HARLEM AVE", 
+    "description": "ARMED: HANDGUN"
+}
