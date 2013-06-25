@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "51c471a23c002ed20d795779"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0324", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58736789074224, 
+            41.76433237682947
+        ]
+    }, 
+    "case_number": "HW325050", 
+    "date": {
+        "$date": 1370979000000
+    }, 
+    "updated_on": {
+        "$date": 1371775271000
+    }, 
+    "ward": "5", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9180275", 
+    "block": "015XX E 72ND ST", 
+    "description": "$500 AND UNDER"
+}
