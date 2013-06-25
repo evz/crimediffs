@@ -1,0 +1,33 @@
+{
+    "community_area": "33", 
+    "_id": {
+        "$oid": "51c92af4018e783f00ab5e17"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0131", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "DRUG STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6241844407843, 
+            41.862387915919136
+        ]
+    }, 
+    "case_number": "HW322171", 
+    "date": {
+        "$date": 1371442140000
+    }, 
+    "updated_on": {
+        "$date": 1371688802000
+    }, 
+    "ward": "2", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9178569", 
+    "block": "014XX S MICHIGAN AVE", 
+    "description": "FORCIBLE ENTRY"
+}
