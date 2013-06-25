@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1863945", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW319808", 
+    "id": "9175477", 
+    "primary_type": "ROBBERY", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66413859286578, 
+            41.78222872325631
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.78222872325631", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0713", 
+    "date": {
+        "$date": 1371295800000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51c92b0e018e783f00ab644e"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.66413859286578", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1166765", 
+    "updated_on": {
+        "$date": 1371688802000
+    }, 
+    "fbi_code": "03", 
+    "block": "061XX S ASHLAND AVE"
+}
