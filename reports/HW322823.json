@@ -1,0 +1,33 @@
+{
+    "community_area": "2", 
+    "_id": {
+        "$oid": "51c92aff018e783f00ab5fa9"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "2011", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6979433543679, 
+            41.98759961598592
+        ]
+    }, 
+    "case_number": "HW322823", 
+    "date": {
+        "$date": 1371409200000
+    }, 
+    "updated_on": {
+        "$date": 1371775271000
+    }, 
+    "ward": "40", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9179197", 
+    "block": "058XX N FAIRFIELD AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
