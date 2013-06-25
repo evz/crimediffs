@@ -1,0 +1,33 @@
+{
+    "community_area": "61", 
+    "_id": {
+        "$oid": "51c9b7ab018e783f00ab6896"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "0931", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "320", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67469583300146, 
+            41.80286914395768
+        ]
+    }, 
+    "case_number": "HW332695", 
+    "date": {
+        "$date": 1371065400000
+    }, 
+    "updated_on": {
+        "$date": 1372120760000
+    }, 
+    "ward": "16", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9187254", 
+    "block": "050XX S DAMEN AVE", 
+    "description": "STRONGARM - NO WEAPON"
+}
