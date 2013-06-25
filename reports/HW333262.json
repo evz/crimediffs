@@ -1,0 +1,33 @@
+{
+    "community_area": "56", 
+    "_id": {
+        "$oid": "51c9b799018e783f00ab65ea"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0814", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74309580139465, 
+            41.799519702520264
+        ]
+    }, 
+    "case_number": "HW333262", 
+    "date": {
+        "$date": 1371501000000
+    }, 
+    "updated_on": {
+        "$date": 1372120760000
+    }, 
+    "ward": "23", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9188121", 
+    "block": "051XX S CICERO AVE", 
+    "description": "$500 AND UNDER"
+}
