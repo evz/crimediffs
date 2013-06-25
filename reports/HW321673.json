@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1891497", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW321673", 
+    "id": "9176803", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66871001776269, 
+            41.857865492606166
+        ]
+    }, 
+    "community_area": "31", 
+    "latitude": "41.857865492606166", 
+    "type": "property", 
+    "description": "ATTEMPT THEFT", 
+    "beat": "1234", 
+    "date": {
+        "$date": 1371409800000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51c92afe018e783f00ab5f9e"
+    }, 
+    "iucr": "850", 
+    "longitude": "-87.66871001776269", 
+    "location_description": "CONVENIENCE STORE", 
+    "x_coordinate": "1165305", 
+    "updated_on": {
+        "$date": 1371602404000
+    }, 
+    "fbi_code": "06", 
+    "block": "017XX W 18TH ST"
+}
