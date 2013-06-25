@@ -1,0 +1,33 @@
+{
+    "community_area": "40", 
+    "_id": {
+        "$oid": "51c92aff018e783f00ab5fd8"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0232", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62059523715953, 
+            41.79050704879917
+        ]
+    }, 
+    "case_number": "HW321732", 
+    "date": {
+        "$date": 1371405600000
+    }, 
+    "updated_on": {
+        "$date": 1372034339000
+    }, 
+    "ward": "20", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9184630", 
+    "block": "057XX S INDIANA AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
