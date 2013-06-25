@@ -1,0 +1,33 @@
+{
+    "community_area": "26", 
+    "_id": {
+        "$oid": "51c92b09018e783f00ab6216"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1115", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72547484807298, 
+            41.87925857166192
+        ]
+    }, 
+    "case_number": "HW320698", 
+    "date": {
+        "$date": 1371342600000
+    }, 
+    "updated_on": {
+        "$date": 1371861529000
+    }, 
+    "ward": "28", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9178705", 
+    "block": "001XX S PULASKI RD", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
