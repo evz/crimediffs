@@ -1,0 +1,33 @@
+{
+    "community_area": "17", 
+    "_id": {
+        "$oid": "51c92afd018e783f00ab5f3b"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1632", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.80200279450082, 
+            41.94718478400074
+        ]
+    }, 
+    "case_number": "HW322051", 
+    "date": {
+        "$date": 1371416400000
+    }, 
+    "updated_on": {
+        "$date": 1372034339000
+    }, 
+    "ward": "36", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9183329", 
+    "block": "037XX N NORA AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
