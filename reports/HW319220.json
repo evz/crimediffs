@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "51c5c3113c002ed20d79587f"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "0632", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "320", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60166, 
+            41.74206299999999
+        ]
+    }, 
+    "case_number": "HW319220", 
+    "date": {
+        "$date": 1371252600000
+    }, 
+    "updated_on": {
+        "$date": 1372034339000
+    }, 
+    "ward": "8", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9178608", 
+    "block": "084XX S INGLESIDE AVE", 
+    "description": "STRONGARM - NO WEAPON"
+}
