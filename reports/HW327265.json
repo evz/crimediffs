@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "51c92b05018e783f00ab6111"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "0513", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62227478490583, 
+            41.69817428686258
+        ]
+    }, 
+    "case_number": "HW327265", 
+    "date": {
+        "$date": 1371376800000
+    }, 
+    "updated_on": {
+        "$date": 1372034339000
+    }, 
+    "ward": "9", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9184113", 
+    "block": "0000X E 108TH ST", 
+    "description": "SIMPLE"
+}
