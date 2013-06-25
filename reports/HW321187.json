@@ -1,0 +1,33 @@
+{
+    "community_area": "67", 
+    "_id": {
+        "$oid": "51c471973c002ed20d79524d"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0726", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "VACANT LOT/LAND", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66915317347922, 
+            41.775948693883976
+        ]
+    }, 
+    "case_number": "HW321187", 
+    "date": {
+        "$date": 1371150000000
+    }, 
+    "updated_on": {
+        "$date": 1372034339000
+    }, 
+    "ward": "15", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9178787", 
+    "block": "064XX S WOOD ST", 
+    "description": "FORCIBLE ENTRY"
+}
