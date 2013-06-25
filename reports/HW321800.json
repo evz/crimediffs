@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1870320", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW321800", 
+    "id": "9176901", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72350633176588, 
+            41.800054055212236
+        ]
+    }, 
+    "community_area": "62", 
+    "latitude": "41.800054055212236", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0815", 
+    "date": {
+        "$date": 1371416100000
+    }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51c92afd018e783f00ab5f4c"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.72350633176588", 
+    "location_description": "CTA BUS STOP", 
+    "x_coordinate": "1150527", 
+    "updated_on": {
+        "$date": 1371688802000
+    }, 
+    "fbi_code": "06", 
+    "block": "051XX S PULASKI RD"
+}
