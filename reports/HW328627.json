@@ -1,0 +1,33 @@
+{
+    "community_area": "32", 
+    "_id": {
+        "$oid": "51c5c3113c002ed20d795866"
+    }, 
+    "primary_type": "NON-CRIMINAL", 
+    "beat": "0114", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "5093", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6173573664093, 
+            41.88663212382597
+        ]
+    }, 
+    "case_number": "HW328627", 
+    "date": {
+        "$date": 1371254400000
+    }, 
+    "updated_on": {
+        "$date": 1371861529000
+    }, 
+    "ward": "42", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9183791", 
+    "block": "004XX E SOUTH WATER ST", 
+    "description": "LOST PASSPORT"
+}
