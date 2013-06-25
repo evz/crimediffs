@@ -1,0 +1,33 @@
+{
+    "community_area": "75", 
+    "_id": {
+        "$oid": "51c92b01018e783f00ab6049"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "2212", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67206150445412, 
+            41.691904366069885
+        ]
+    }, 
+    "case_number": "HW323594", 
+    "date": {
+        "$date": 1371394800000
+    }, 
+    "updated_on": {
+        "$date": 1371775271000
+    }, 
+    "ward": "19", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9179077", 
+    "block": "111XX S LONGWOOD DR", 
+    "description": "TO VEHICLE"
+}
