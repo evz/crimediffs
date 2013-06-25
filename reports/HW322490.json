@@ -1,0 +1,33 @@
+{
+    "community_area": "61", 
+    "_id": {
+        "$oid": "51c1ce923c002ed20d794d73"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0933", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65776029080918, 
+            41.80619016755394
+        ]
+    }, 
+    "case_number": "HW322490", 
+    "date": {
+        "$date": 1371006000000
+    }, 
+    "updated_on": {
+        "$date": 1371688802000
+    }, 
+    "ward": "20", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9178737", 
+    "block": "048XX S THROOP ST", 
+    "description": "FROM BUILDING"
+}
