@@ -1,0 +1,33 @@
+{
+    "community_area": "4", 
+    "_id": {
+        "$oid": "51c9b7a4018e783f00ab687b"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2031", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69693317411671, 
+            41.97084342260052
+        ]
+    }, 
+    "case_number": "HW333349", 
+    "date": {
+        "$date": 1371373200000
+    }, 
+    "updated_on": {
+        "$date": 1372120760000
+    }, 
+    "ward": "40", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9188140", 
+    "block": "027XX W AINSLIE ST", 
+    "description": "$500 AND UNDER"
+}
