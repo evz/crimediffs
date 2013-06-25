@@ -1,0 +1,33 @@
+{
+    "community_area": "69", 
+    "_id": {
+        "$oid": "51c5c3153c002ed20d795a0b"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0312", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61566141224672, 
+            41.775868488247376
+        ]
+    }, 
+    "case_number": "HW323087", 
+    "date": {
+        "$date": 1371225600000
+    }, 
+    "updated_on": {
+        "$date": 1371688802000
+    }, 
+    "ward": "20", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9178441", 
+    "block": "065XX S DR MARTIN LUTHER KING JR DR", 
+    "description": "TO VEHICLE"
+}
