@@ -1,0 +1,33 @@
+{
+    "community_area": "28", 
+    "_id": {
+        "$oid": "51c92b10018e783f00ab64d7"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "1224", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "051A", 
+    "arrest": false, 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6719659423935, 
+            41.88387507947427
+        ]
+    }, 
+    "case_number": "HW328844", 
+    "date": {
+        "$date": 1371243600000
+    }, 
+    "updated_on": {
+        "$date": 1372034339000
+    }, 
+    "ward": "27", 
+    "fbi_code": "04A", 
+    "type": "violent", 
+    "id": "9185680", 
+    "block": "001XX N WOOD ST", 
+    "description": "AGGRAVATED: HANDGUN"
+}
