@@ -1,0 +1,33 @@
+{
+    "community_area": "42", 
+    "_id": {
+        "$oid": "51c92afa018e783f00ab5eea"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0321", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60839072434936, 
+            41.77398141951816
+        ]
+    }, 
+    "case_number": "HW321919", 
+    "date": {
+        "$date": 1371422400000
+    }, 
+    "updated_on": {
+        "$date": 1371688802000
+    }, 
+    "ward": "20", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9177824", 
+    "block": "066XX S LANGLEY AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
