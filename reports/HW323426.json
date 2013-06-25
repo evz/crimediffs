@@ -1,0 +1,33 @@
+{
+    "community_area": "68", 
+    "_id": {
+        "$oid": "51c92af7018e783f00ab5e51"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0712", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65251107984784, 
+            41.790991524756464
+        ]
+    }, 
+    "case_number": "HW323426", 
+    "date": {
+        "$date": 1371434400000
+    }, 
+    "updated_on": {
+        "$date": 1371775271000
+    }, 
+    "ward": "16", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9178708", 
+    "block": "056XX S ABERDEEN ST", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
