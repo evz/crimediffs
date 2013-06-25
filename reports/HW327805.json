@@ -1,0 +1,33 @@
+{
+    "community_area": "63", 
+    "_id": {
+        "$oid": "51c92b06018e783f00ab614c"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0923", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69521081093744, 
+            41.79530917030637
+        ]
+    }, 
+    "case_number": "HW327805", 
+    "date": {
+        "$date": 1371367800000
+    }, 
+    "updated_on": {
+        "$date": 1372034339000
+    }, 
+    "ward": "14", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9183580", 
+    "block": "054XX S MOZART ST", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
