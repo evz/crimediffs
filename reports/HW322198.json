@@ -1,0 +1,33 @@
+{
+    "community_area": "38", 
+    "_id": {
+        "$oid": "51c92af6018e783f00ab5e2b"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0224", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "620", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62263573314387, 
+            41.80728450190168
+        ]
+    }, 
+    "case_number": "HW322198", 
+    "date": {
+        "$date": 1371439380000
+    }, 
+    "updated_on": {
+        "$date": 1371861529000
+    }, 
+    "ward": "3", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9181716", 
+    "block": "048XX S MICHIGAN AVE", 
+    "description": "UNLAWFUL ENTRY"
+}
