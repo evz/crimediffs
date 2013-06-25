@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1904830", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW320045", 
+    "id": "9175712", 
+    "primary_type": "THEFT", 
+    "district": "015", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76440974607594, 
+            41.89496854127828
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.89496854127828", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "1524", 
+    "date": {
+        "$date": 1371306600000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51c92b0d018e783f00ab63cc"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.76440974607594", 
+    "location_description": "DEPARTMENT STORE", 
+    "x_coordinate": "1139145", 
+    "updated_on": {
+        "$date": 1371688802000
+    }, 
+    "fbi_code": "06", 
+    "block": "055XX W CHICAGO AVE"
+}
