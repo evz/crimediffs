@@ -1,0 +1,33 @@
+{
+    "community_area": "29", 
+    "_id": {
+        "$oid": "51c9b7b2018e783f00ab68a5"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1021", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "430", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71504779557712, 
+            41.85852221348126
+        ]
+    }, 
+    "case_number": "HW332831", 
+    "date": {
+        "$date": 1370729400000
+    }, 
+    "updated_on": {
+        "$date": 1372120760000
+    }, 
+    "ward": "24", 
+    "fbi_code": "04B", 
+    "type": "violent", 
+    "id": "9187642", 
+    "block": "016XX S CENTRAL PARK AVE", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON"
+}
