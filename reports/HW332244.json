@@ -1,0 +1,33 @@
+{
+    "community_area": "50", 
+    "_id": {
+        "$oid": "51c9b7af018e783f00ab68a1"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0512", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60258123727299, 
+            41.70471671251203
+        ]
+    }, 
+    "case_number": "HW332244", 
+    "date": {
+        "$date": 1370869200000
+    }, 
+    "updated_on": {
+        "$date": 1372120760000
+    }, 
+    "ward": "9", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9188392", 
+    "block": "104XX S MARYLAND AVE", 
+    "description": "FORCIBLE ENTRY"
+}
