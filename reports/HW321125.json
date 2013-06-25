@@ -1,0 +1,33 @@
+{
+    "community_area": "61", 
+    "_id": {
+        "$oid": "51c92b04018e783f00ab60f5"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "0924", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "330", 
+    "arrest": false, 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66537074084971, 
+            41.819289199123084
+        ]
+    }, 
+    "case_number": "HW321125", 
+    "date": {
+        "$date": 1371380400000
+    }, 
+    "updated_on": {
+        "$date": 1371602404000
+    }, 
+    "ward": "12", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9177242", 
+    "block": "041XX S ASHLAND AVE", 
+    "description": "AGGRAVATED"
+}
