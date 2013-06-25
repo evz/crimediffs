@@ -1,0 +1,33 @@
+{
+    "community_area": "19", 
+    "_id": {
+        "$oid": "51c92b00018e783f00ab5fee"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "2514", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76168772341647, 
+            41.93700491602791
+        ]
+    }, 
+    "case_number": "HW321629", 
+    "date": {
+        "$date": 1371403800000
+    }, 
+    "updated_on": {
+        "$date": 1371861529000
+    }, 
+    "ward": "30", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9179381", 
+    "block": "031XX N LONG AVE", 
+    "description": "SIMPLE"
+}
