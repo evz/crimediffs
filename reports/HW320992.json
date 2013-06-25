@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "51c92b08018e783f00ab61af"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "1522", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75551707061042, 
+            41.873826359000525
+        ]
+    }, 
+    "case_number": "HW320992", 
+    "date": {
+        "$date": 1371351600000
+    }, 
+    "updated_on": {
+        "$date": 1371602404000
+    }, 
+    "ward": "29", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9177286", 
+    "block": "052XX W CONGRESS PKWY", 
+    "description": "TO VEHICLE"
+}
