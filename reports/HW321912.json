@@ -1,0 +1,33 @@
+{
+    "community_area": "68", 
+    "_id": {
+        "$oid": "51c92afa018e783f00ab5ec4"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "0733", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "340", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64452241143444, 
+            41.763764430228235
+        ]
+    }, 
+    "case_number": "HW321912", 
+    "date": {
+        "$date": 1371424560000
+    }, 
+    "updated_on": {
+        "$date": 1372034339000
+    }, 
+    "ward": "6", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9177931", 
+    "block": "071XX S HALSTED ST", 
+    "description": "ATTEMPT: STRONGARM-NO WEAPON"
+}
