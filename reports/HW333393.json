@@ -1,0 +1,33 @@
+{
+    "community_area": "37", 
+    "_id": {
+        "$oid": "51c9b7a1018e783f00ab680e"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0925", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "VACANT LOT/LAND", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6334674319896, 
+            41.81871230399765
+        ]
+    }, 
+    "case_number": "HW333393", 
+    "date": {
+        "$date": 1371459600000
+    }, 
+    "updated_on": {
+        "$date": 1372120760000
+    }, 
+    "ward": "3", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9188153", 
+    "block": "041XX S PRINCETON AVE", 
+    "description": "FROM BUILDING"
+}
