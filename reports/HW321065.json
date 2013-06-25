@@ -1,0 +1,33 @@
+{
+    "community_area": "67", 
+    "_id": {
+        "$oid": "51c92b05018e783f00ab6113"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0726", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6701374332211, 
+            41.768662784196394
+        ]
+    }, 
+    "case_number": "HW321065", 
+    "date": {
+        "$date": 1371376800000
+    }, 
+    "updated_on": {
+        "$date": 1372034339000
+    }, 
+    "ward": "17", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9179321", 
+    "block": "068XX S HONORE ST", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
