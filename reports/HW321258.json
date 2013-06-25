@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "51c92b08018e783f00ab61c7"
+    }, 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "beat": "0512", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "281", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63100094072242, 
+            41.703532733653226
+        ]
+    }, 
+    "case_number": "HW321258", 
+    "date": {
+        "$date": 1371349800000
+    }, 
+    "updated_on": {
+        "$date": 1371688802000
+    }, 
+    "ward": "34", 
+    "fbi_code": "02", 
+    "type": "violent", 
+    "id": "9177873", 
+    "block": "003XX W 105TH ST", 
+    "description": "NON-AGGRAVATED"
+}
