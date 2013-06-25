@@ -1,0 +1,33 @@
+{
+    "community_area": "7", 
+    "_id": {
+        "$oid": "51c9b7ae018e783f00ab689f"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1813", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63966641616895, 
+            41.916604352859586
+        ]
+    }, 
+    "case_number": "HW333159", 
+    "date": {
+        "$date": 1370908800000
+    }, 
+    "updated_on": {
+        "$date": 1372120760000
+    }, 
+    "ward": "43", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9188170", 
+    "block": "004XX W WISCONSIN ST", 
+    "description": "OVER $500"
+}
