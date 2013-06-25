@@ -1,0 +1,33 @@
+{
+    "community_area": "3", 
+    "_id": {
+        "$oid": "51c92b0c018e783f00ab6352"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "2024", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64951999595301, 
+            41.969289257493834
+        ]
+    }, 
+    "case_number": "HW320917", 
+    "date": {
+        "$date": 1371315600000
+    }, 
+    "updated_on": {
+        "$date": 1371688802000
+    }, 
+    "ward": "48", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9177284", 
+    "block": "048XX N MARINE DR", 
+    "description": "AUTOMOBILE"
+}
