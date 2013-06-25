@@ -1,0 +1,33 @@
+{
+    "community_area": "35", 
+    "_id": {
+        "$oid": "51c92af4018e783f00ab5e11"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0211", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "CHA APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.620487883824, 
+            41.835260003920304
+        ]
+    }, 
+    "case_number": "HW322188", 
+    "date": {
+        "$date": 1371443400000
+    }, 
+    "updated_on": {
+        "$date": 1371688802000
+    }, 
+    "ward": "3", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9178216", 
+    "block": "032XX S PRAIRIE AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
