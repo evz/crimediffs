@@ -1,0 +1,33 @@
+{
+    "community_area": "27", 
+    "_id": {
+        "$oid": "51c9b79c018e783f00ab66aa"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "1124", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70805362636526, 
+            41.879741331338586
+        ]
+    }, 
+    "case_number": "HW333142", 
+    "date": {
+        "$date": 1371488400000
+    }, 
+    "updated_on": {
+        "$date": 1372120760000
+    }, 
+    "ward": "28", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9187994", 
+    "block": "032XX W MONROE ST", 
+    "description": "TO PROPERTY"
+}
