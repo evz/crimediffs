@@ -1,0 +1,33 @@
+{
+    "community_area": "40", 
+    "_id": {
+        "$oid": "51c92b01018e783f00ab6041"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0311", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62215169999999, 
+            41.7817211
+        ]
+    }, 
+    "case_number": "HW321411", 
+    "date": {
+        "$date": 1371394800000
+    }, 
+    "updated_on": {
+        "$date": 1372034339000
+    }, 
+    "ward": "20", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9177913", 
+    "block": "062XX S MICHIGAN AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
