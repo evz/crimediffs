@@ -1,0 +1,33 @@
+{
+    "community_area": "18", 
+    "_id": {
+        "$oid": "51c9b7a3018e783f00ab6875"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2511", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.8004387656849, 
+            41.935476166053846
+        ]
+    }, 
+    "case_number": "HW333165", 
+    "date": {
+        "$date": 1371427200000
+    }, 
+    "updated_on": {
+        "$date": 1372120760000
+    }, 
+    "ward": "36", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9188071", 
+    "block": "069XX W NELSON ST", 
+    "description": "OVER $500"
+}
