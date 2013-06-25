@@ -1,0 +1,33 @@
+{
+    "community_area": "38", 
+    "_id": {
+        "$oid": "51c92af7018e783f00ab5e48"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0213", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62677315704863, 
+            41.819299759635264
+        ]
+    }, 
+    "case_number": "HW322134", 
+    "date": {
+        "$date": 1371435300000
+    }, 
+    "updated_on": {
+        "$date": 1372034339000
+    }, 
+    "ward": "3", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9181729", 
+    "block": "0000X W ROOT ST", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
