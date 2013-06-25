@@ -1,0 +1,33 @@
+{
+    "community_area": "33", 
+    "_id": {
+        "$oid": "51c92b01018e783f00ab606e"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0132", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62060020115446, 
+            41.85688271281039
+        ]
+    }, 
+    "case_number": "HW322281", 
+    "date": {
+        "$date": 1371391200000
+    }, 
+    "updated_on": {
+        "$date": 1371775271000
+    }, 
+    "ward": "2", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9179782", 
+    "block": "018XX S PRAIRIE AVE", 
+    "description": "TO VEHICLE"
+}
