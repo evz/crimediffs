@@ -1,0 +1,33 @@
+{
+    "community_area": "68", 
+    "_id": {
+        "$oid": "51c92b10018e783f00ab64ce"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0732", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63647442738159, 
+            41.767028264739544
+        ]
+    }, 
+    "case_number": "HW319822", 
+    "date": {
+        "$date": 1371274440000
+    }, 
+    "updated_on": {
+        "$date": 1371775271000
+    }, 
+    "ward": "6", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9180311", 
+    "block": "004XX W 70TH ST", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
