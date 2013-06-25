@@ -1,0 +1,33 @@
+{
+    "community_area": "8", 
+    "_id": {
+        "$oid": "51c92b09018e783f00ab6215"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1822", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65264020230961, 
+            41.90931922999935
+        ]
+    }, 
+    "case_number": "HW326094", 
+    "date": {
+        "$date": 1371342600000
+    }, 
+    "updated_on": {
+        "$date": 1371947981000
+    }, 
+    "ward": "32", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9182616", 
+    "block": "015XX N KINGSBURY ST", 
+    "description": "FROM BUILDING"
+}
