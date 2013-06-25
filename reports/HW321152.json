@@ -1,0 +1,33 @@
+{
+    "community_area": "10", 
+    "_id": {
+        "$oid": "51c92b05018e783f00ab611b"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "1613", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7988697903299, 
+            41.97855306539088
+        ]
+    }, 
+    "case_number": "HW321152", 
+    "date": {
+        "$date": 1371375000000
+    }, 
+    "updated_on": {
+        "$date": 1371861529000
+    }, 
+    "ward": "41", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9181892", 
+    "block": "053XX N NEW ENGLAND AVE", 
+    "description": "AUTOMOBILE"
+}
