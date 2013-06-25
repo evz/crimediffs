@@ -1,0 +1,33 @@
+{
+    "community_area": "60", 
+    "_id": {
+        "$oid": "51c92afe018e783f00ab5f78"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0915", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "870", 
+    "arrest": false, 
+    "location_description": "CTA BUS", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64624959330983, 
+            41.830644720137435
+        ]
+    }, 
+    "case_number": "HW322303", 
+    "date": {
+        "$date": 1371412800000
+    }, 
+    "updated_on": {
+        "$date": 1371947981000
+    }, 
+    "ward": "11", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9177958", 
+    "block": "035XX S HALSTED ST", 
+    "description": "POCKET-PICKING"
+}
