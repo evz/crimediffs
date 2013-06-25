@@ -1,0 +1,33 @@
+{
+    "community_area": "20", 
+    "_id": {
+        "$oid": "51c92b10018e783f00ab64d8"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "2534", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72992390334178, 
+            41.91219097932799
+        ]
+    }, 
+    "case_number": "HW319154", 
+    "date": {
+        "$date": 1371238200000
+    }, 
+    "updated_on": {
+        "$date": 1372034339000
+    }, 
+    "ward": "30", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9184924", 
+    "block": "017XX N KEDVALE AVE", 
+    "description": "SIMPLE"
+}
