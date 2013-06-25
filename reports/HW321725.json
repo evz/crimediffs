@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "51c92b00018e783f00ab5fe1"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0332", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58495883454408, 
+            41.77323566000171
+        ]
+    }, 
+    "case_number": "HW321725", 
+    "date": {
+        "$date": 1371405600000
+    }, 
+    "updated_on": {
+        "$date": 1371688802000
+    }, 
+    "ward": "5", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9178482", 
+    "block": "016XX E 67TH ST", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
