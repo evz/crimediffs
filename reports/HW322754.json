@@ -1,0 +1,33 @@
+{
+    "community_area": "24", 
+    "_id": {
+        "$oid": "51c92af9018e783f00ab5e98"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1421", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69901883479302, 
+            41.91292726881997
+        ]
+    }, 
+    "case_number": "HW322754", 
+    "date": {
+        "$date": 1371427260000
+    }, 
+    "updated_on": {
+        "$date": 1371947981000
+    }, 
+    "ward": "1", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9179230", 
+    "block": "017XX N FRANCISCO AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
