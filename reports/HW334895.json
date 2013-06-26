@@ -1,0 +1,33 @@
+{
+    "community_area": "8", 
+    "_id": {
+        "$oid": "51cb0930018e783f00ab6c3d"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1834", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "841", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61750855414078, 
+            41.89052439599635
+        ]
+    }, 
+    "case_number": "HW334895", 
+    "date": {
+        "$date": 1371124800000
+    }, 
+    "updated_on": {
+        "$date": 1372207157000
+    }, 
+    "ward": "42", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9189842", 
+    "block": "004XX N MC CLURG CT", 
+    "description": "FINANCIAL ID THEFT:$300 &UNDER"
+}
