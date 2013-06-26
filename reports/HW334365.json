@@ -1,0 +1,33 @@
+{
+    "community_area": "4", 
+    "_id": {
+        "$oid": "51cb0925018e783f00ab6c0c"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1911", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "870", 
+    "arrest": false, 
+    "location_description": "RESTAURANT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68547252831948, 
+            41.964163040920006
+        ]
+    }, 
+    "case_number": "HW334365", 
+    "date": {
+        "$date": 1371499200000
+    }, 
+    "updated_on": {
+        "$date": 1372207157000
+    }, 
+    "ward": "47", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9189256", 
+    "block": "045XX N LINCOLN AVE", 
+    "description": "POCKET-PICKING"
+}
