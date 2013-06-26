@@ -1,0 +1,33 @@
+{
+    "community_area": "66", 
+    "_id": {
+        "$oid": "51cb0930018e783f00ab6c3b"
+    }, 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "beat": "0823", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "1150", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70005531158397, 
+            41.77890865071228
+        ]
+    }, 
+    "case_number": "HW333649", 
+    "date": {
+        "$date": 1371132000000
+    }, 
+    "updated_on": {
+        "$date": 1372207157000
+    }, 
+    "ward": "15", 
+    "fbi_code": "11", 
+    "type": null, 
+    "id": "9189647", 
+    "block": "030XX W 63RD ST", 
+    "description": "CREDIT CARD FRAUD"
+}
