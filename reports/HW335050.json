@@ -1,0 +1,33 @@
+{
+    "community_area": "65", 
+    "_id": {
+        "$oid": "51cb092b018e783f00ab6c28"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0833", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7203054248228, 
+            41.76878774484812
+        ]
+    }, 
+    "case_number": "HW335050", 
+    "date": {
+        "$date": 1371308400000
+    }, 
+    "updated_on": {
+        "$date": 1372207157000
+    }, 
+    "ward": "13", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9189898", 
+    "block": "039XX W 68TH PL", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
