@@ -1,0 +1,33 @@
+{
+    "community_area": "6", 
+    "_id": {
+        "$oid": "51cb0918018e783f00ab68d0"
+    }, 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "beat": "1925", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1152", 
+    "arrest": false, 
+    "location_description": "ATM (AUTOMATIC TELLER MACHINE)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64806344684764, 
+            41.948391669656225
+        ]
+    }, 
+    "case_number": "HW334320", 
+    "date": {
+        "$date": 1371607200000
+    }, 
+    "updated_on": {
+        "$date": 1372207157000
+    }, 
+    "ward": "46", 
+    "fbi_code": "11", 
+    "type": null, 
+    "id": "9189266", 
+    "block": "036XX N BROADWAY", 
+    "description": "ILLEGAL USE CASH CARD"
+}
