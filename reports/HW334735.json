@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "51cb092a018e783f00ab6c26"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0631", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60734810395763, 
+            41.74517068069672
+        ]
+    }, 
+    "case_number": "HW334735", 
+    "date": {
+        "$date": 1371312000000
+    }, 
+    "updated_on": {
+        "$date": 1372207157000
+    }, 
+    "ward": "6", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9190150", 
+    "block": "082XX S LANGLEY AVE", 
+    "description": "OVER $500"
+}
