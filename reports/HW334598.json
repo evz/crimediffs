@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "51cb0927018e783f00ab6c17"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2531", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "DRUG STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7660216144791, 
+            41.908310781183566
+        ]
+    }, 
+    "case_number": "HW334598", 
+    "date": {
+        "$date": 1371435480000
+    }, 
+    "updated_on": {
+        "$date": 1372207157000
+    }, 
+    "ward": "29", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9189583", 
+    "block": "015XX N CENTRAL AVE", 
+    "description": "FROM BUILDING"
+}
