@@ -1,0 +1,33 @@
+{
+    "community_area": "68", 
+    "_id": {
+        "$oid": "51cb0924018e783f00ab6c0a"
+    }, 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "beat": "0732", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "1750", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64202578417172, 
+            41.761416780510054
+        ]
+    }, 
+    "case_number": "HW334225", 
+    "date": {
+        "$date": 1371506400000
+    }, 
+    "updated_on": {
+        "$date": 1372207157000
+    }, 
+    "ward": "17", 
+    "fbi_code": "20", 
+    "type": null, 
+    "id": "9188958", 
+    "block": "073XX S UNION AVE", 
+    "description": "CHILD ABUSE"
+}
