@@ -1,0 +1,33 @@
+{
+    "community_area": "26", 
+    "_id": {
+        "$oid": "51cb0927018e783f00ab6c19"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1114", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7288842194687, 
+            41.88453180199107
+        ]
+    }, 
+    "case_number": "HW334944", 
+    "date": {
+        "$date": 1371416400000
+    }, 
+    "updated_on": {
+        "$date": 1372207157000
+    }, 
+    "ward": "28", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9189877", 
+    "block": "041XX W MAYPOLE AVE", 
+    "description": "$500 AND UNDER"
+}
