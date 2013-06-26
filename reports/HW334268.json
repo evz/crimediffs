@@ -1,0 +1,33 @@
+{
+    "community_area": "29", 
+    "_id": {
+        "$oid": "51cb091d018e783f00ab6a28"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1132", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72449262721499, 
+            41.866292265619265
+        ]
+    }, 
+    "case_number": "HW334268", 
+    "date": {
+        "$date": 1371578400000
+    }, 
+    "updated_on": {
+        "$date": 1372207157000
+    }, 
+    "ward": "24", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9189379", 
+    "block": "039XX W ROOSEVELT RD", 
+    "description": "FORCIBLE ENTRY"
+}
