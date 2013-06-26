@@ -1,0 +1,33 @@
+{
+    "community_area": "29", 
+    "_id": {
+        "$oid": "51cb0935018e783f00ab6c46"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1012", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72605408540952, 
+            41.85336684306618
+        ]
+    }, 
+    "case_number": "HW334801", 
+    "date": {
+        "$date": 1370952000000
+    }, 
+    "updated_on": {
+        "$date": 1372207157000
+    }, 
+    "ward": "24", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9189780", 
+    "block": "040XX W 21ST ST", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
