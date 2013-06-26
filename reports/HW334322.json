@@ -1,0 +1,33 @@
+{
+    "community_area": "69", 
+    "_id": {
+        "$oid": "51cb092e018e783f00ab6c35"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0623", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62457950470198, 
+            41.75636525216642
+        ]
+    }, 
+    "case_number": "HW334322", 
+    "date": {
+        "$date": 1371168060000
+    }, 
+    "updated_on": {
+        "$date": 1372207157000
+    }, 
+    "ward": "6", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9189190", 
+    "block": "076XX S STATE ST", 
+    "description": "OVER $500"
+}
