@@ -1,0 +1,33 @@
+{
+    "community_area": "69", 
+    "_id": {
+        "$oid": "51cb0924018e783f00ab6c09"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "0312", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "2820", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61569295188029, 
+            41.776985611676594
+        ]
+    }, 
+    "case_number": "HW335016", 
+    "date": {
+        "$date": 1371509520000
+    }, 
+    "updated_on": {
+        "$date": 1372207157000
+    }, 
+    "ward": "20", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9190161", 
+    "block": "064XX S DR MARTIN LUTHER KING JR DR", 
+    "description": "TELEPHONE THREAT"
+}
