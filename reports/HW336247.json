@@ -1,0 +1,33 @@
+{
+    "community_area": "62", 
+    "_id": {
+        "$oid": "51cc5ab5018e783f00ab6fcd"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0815", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72350633176588, 
+            41.800054055212236
+        ]
+    }, 
+    "case_number": "HW336247", 
+    "date": {
+        "$date": 1371416400000
+    }, 
+    "updated_on": {
+        "$date": 1372293643000
+    }, 
+    "ward": "23", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9191351", 
+    "block": "051XX S PULASKI RD", 
+    "description": "$500 AND UNDER"
+}
