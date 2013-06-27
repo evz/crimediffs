@@ -1,0 +1,33 @@
+{
+    "community_area": "22", 
+    "_id": {
+        "$oid": "51cc5ab4018e783f00ab6fca"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "1432", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "RESIDENCE-GARAGE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68587461016092, 
+            41.930249560228596
+        ]
+    }, 
+    "case_number": "HW335797", 
+    "date": {
+        "$date": 1371456300000
+    }, 
+    "updated_on": {
+        "$date": 1372293643000
+    }, 
+    "ward": "1", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9190763", 
+    "block": "023XX W LOGAN BLVD", 
+    "description": "TO PROPERTY"
+}
