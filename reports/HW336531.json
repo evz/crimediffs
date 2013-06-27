@@ -1,0 +1,33 @@
+{
+    "community_area": "53", 
+    "_id": {
+        "$oid": "51cc5aa7018e783f00ab6e56"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0524", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64924661985296, 
+            41.68335120291918
+        ]
+    }, 
+    "case_number": "HW336531", 
+    "date": {
+        "$date": 1371654000000
+    }, 
+    "updated_on": {
+        "$date": 1372293643000
+    }, 
+    "ward": "34", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9191655", 
+    "block": "115XX S ABERDEEN ST", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
