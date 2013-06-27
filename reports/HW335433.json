@@ -1,0 +1,33 @@
+{
+    "community_area": "6", 
+    "_id": {
+        "$oid": "51cc5ab7018e783f00ab6fcf"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "1934", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63693690014728, 
+            41.93616510746573
+        ]
+    }, 
+    "case_number": "HW335433", 
+    "date": {
+        "$date": 1371319200000
+    }, 
+    "updated_on": {
+        "$date": 1372293643000
+    }, 
+    "ward": "44", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9190256", 
+    "block": "029XX N LAKE SHORE DR", 
+    "description": "AUTOMOBILE"
+}
