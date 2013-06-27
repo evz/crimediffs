@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "51cc5ab9018e783f00ab6fd3"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "0332", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "2825", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5899421516184, 
+            41.76773003270182
+        ]
+    }, 
+    "case_number": "HW336801", 
+    "date": {
+        "$date": 1371290400000
+    }, 
+    "updated_on": {
+        "$date": 1372293643000
+    }, 
+    "ward": "5", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9191783", 
+    "block": "014XX E 70TH ST", 
+    "description": "HARASSMENT BY TELEPHONE"
+}
