@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "51cc5ab0018e783f00ab6fbe"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0324", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58083599999999, 
+            41.760501
+        ]
+    }, 
+    "case_number": "HW336170", 
+    "date": {
+        "$date": 1371567600000
+    }, 
+    "updated_on": {
+        "$date": 1372293643000
+    }, 
+    "ward": "8", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9191334", 
+    "block": "074XX S CONSTANCE AVE", 
+    "description": "FORCIBLE ENTRY"
+}
