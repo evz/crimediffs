@@ -1,0 +1,33 @@
+{
+    "community_area": "18", 
+    "_id": {
+        "$oid": "51cc5aa7018e783f00ab6e8a"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2511", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.8013018779704, 
+            41.93598785053128
+        ]
+    }, 
+    "case_number": "HW336240", 
+    "date": {
+        "$date": 1371650400000
+    }, 
+    "updated_on": {
+        "$date": 1372293643000
+    }, 
+    "ward": "36", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9191507", 
+    "block": "030XX N SAYRE AVE", 
+    "description": "OVER $500"
+}
