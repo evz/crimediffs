@@ -1,0 +1,33 @@
+{
+    "community_area": "53", 
+    "_id": {
+        "$oid": "51cc5a9a018e783f00ab6c6c"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0522", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6313975908068, 
+            41.68423153315842
+        ]
+    }, 
+    "case_number": "HW336193", 
+    "date": {
+        "$date": 1371697200000
+    }, 
+    "updated_on": {
+        "$date": 1372293643000
+    }, 
+    "ward": "34", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9191333", 
+    "block": "115XX S HARVARD AVE", 
+    "description": "$500 AND UNDER"
+}
