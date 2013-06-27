@@ -1,0 +1,33 @@
+{
+    "community_area": "30", 
+    "_id": {
+        "$oid": "51cc5ac6018e783f00ab6fe4"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1013", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71993695497578, 
+            41.84857852954794
+        ]
+    }, 
+    "case_number": "HW336093", 
+    "date": {
+        "$date": 1370772000000
+    }, 
+    "updated_on": {
+        "$date": 1372293643000
+    }, 
+    "ward": "22", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9191279", 
+    "block": "023XX S HAMLIN AVE", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
