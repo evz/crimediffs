@@ -1,0 +1,33 @@
+{
+    "community_area": "35", 
+    "_id": {
+        "$oid": "51cc5ac0018e783f00ab6fdc"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "0212", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6145987793669, 
+            41.82964146962977
+        ]
+    }, 
+    "case_number": "HW335847", 
+    "date": {
+        "$date": 1371027600000
+    }, 
+    "updated_on": {
+        "$date": 1372293643000
+    }, 
+    "ward": "4", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9190884", 
+    "block": "035XX S RHODES AVE", 
+    "description": "AUTOMOBILE"
+}
