@@ -1,0 +1,33 @@
+{
+    "community_area": "47", 
+    "_id": {
+        "$oid": "51cdac19018e783f00ab72cc"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0413", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59597845408574, 
+            41.727471585290964
+        ]
+    }, 
+    "case_number": "HW338141", 
+    "date": {
+        "$date": 1371726000000
+    }, 
+    "updated_on": {
+        "$date": 1372380077000
+    }, 
+    "ward": "8", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9193451", 
+    "block": "092XX S UNIVERSITY AVE", 
+    "description": "OVER $500"
+}
