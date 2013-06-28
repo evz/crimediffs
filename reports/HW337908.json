@@ -1,0 +1,33 @@
+{
+    "community_area": "32", 
+    "_id": {
+        "$oid": "51cdac28018e783f00ab738e"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0123", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62437947883151, 
+            41.8743073896664
+        ]
+    }, 
+    "case_number": "HW337908", 
+    "date": {
+        "$date": 1371169800000
+    }, 
+    "updated_on": {
+        "$date": 1372380077000
+    }, 
+    "ward": "2", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9193344", 
+    "block": "006XX S MICHIGAN AVE", 
+    "description": "TO VEHICLE"
+}
