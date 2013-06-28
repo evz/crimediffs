@@ -1,0 +1,33 @@
+{
+    "community_area": "4", 
+    "_id": {
+        "$oid": "51cdac27018e783f00ab738b"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1911", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68117749248987, 
+            41.96131767830565
+        ]
+    }, 
+    "case_number": "HW337396", 
+    "date": {
+        "$date": 1371221400000
+    }, 
+    "updated_on": {
+        "$date": 1372380077000
+    }, 
+    "ward": "47", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9192521", 
+    "block": "020XX W MONTROSE AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
