@@ -1,0 +1,33 @@
+{
+    "community_area": "19", 
+    "_id": {
+        "$oid": "51cdac25018e783f00ab7387"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "2514", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "460", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76784542905085, 
+            41.93683782430093
+        ]
+    }, 
+    "case_number": "HW337843", 
+    "date": {
+        "$date": 1371315600000
+    }, 
+    "updated_on": {
+        "$date": 1372380077000
+    }, 
+    "ward": "30", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9193184", 
+    "block": "056XX W BARRY AVE", 
+    "description": "SIMPLE"
+}
