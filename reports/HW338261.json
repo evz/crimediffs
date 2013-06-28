@@ -1,0 +1,33 @@
+{
+    "community_area": "70", 
+    "_id": {
+        "$oid": "51cdac20018e783f00ab737a"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0833", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71505315044733, 
+            41.75038373159557
+        ]
+    }, 
+    "case_number": "HW338261", 
+    "date": {
+        "$date": 1371497400000
+    }, 
+    "updated_on": {
+        "$date": 1372380077000
+    }, 
+    "ward": "18", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9193360", 
+    "block": "037XX W 78TH PL", 
+    "description": "FROM BUILDING"
+}
