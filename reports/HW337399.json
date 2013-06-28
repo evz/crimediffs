@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "51cdac2c018e783f00ab7392"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2532", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "CONVENIENCE STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76058816938544, 
+            41.909546157910995
+        ]
+    }, 
+    "case_number": "HW337399", 
+    "date": {
+        "$date": 1370993400000
+    }, 
+    "updated_on": {
+        "$date": 1372380077000
+    }, 
+    "ward": "37", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9193062", 
+    "block": "054XX W NORTH AVE", 
+    "description": "$500 AND UNDER"
+}
