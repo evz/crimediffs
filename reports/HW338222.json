@@ -1,0 +1,33 @@
+{
+    "community_area": "26", 
+    "_id": {
+        "$oid": "51cdac20018e783f00ab737b"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "1114", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.730631, 
+            41.88199470000001
+        ]
+    }, 
+    "case_number": "HW338222", 
+    "date": {
+        "$date": 1371490200000
+    }, 
+    "updated_on": {
+        "$date": 1372380077000
+    }, 
+    "ward": "28", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9193481", 
+    "block": "042XX W WASHINGTON BLVD", 
+    "description": "AUTOMOBILE"
+}
