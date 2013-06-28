@@ -1,0 +1,33 @@
+{
+    "community_area": "16", 
+    "_id": {
+        "$oid": "51cdac25018e783f00ab7389"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1722", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73108808394271, 
+            41.95677425364002
+        ]
+    }, 
+    "case_number": "HW337310", 
+    "date": {
+        "$date": 1371297600000
+    }, 
+    "updated_on": {
+        "$date": 1372380077000
+    }, 
+    "ward": "39", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9192378", 
+    "block": "041XX N KEDVALE AVE", 
+    "description": "$500 AND UNDER"
+}
