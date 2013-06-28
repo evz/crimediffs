@@ -1,0 +1,33 @@
+{
+    "community_area": "69", 
+    "_id": {
+        "$oid": "51cdac18018e783f00ab720f"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0323", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61268640834834, 
+            41.76521847213129
+        ]
+    }, 
+    "case_number": "HW337935", 
+    "date": {
+        "$date": 1371740400000
+    }, 
+    "updated_on": {
+        "$date": 1372380077000
+    }, 
+    "ward": "6", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9193323", 
+    "block": "071XX S EBERHART AVE", 
+    "description": "TO PROPERTY"
+}
