@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "51d443af018e783f00ab84b5"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "0511", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63205095605485, 
+            41.70968917851034
+        ]
+    }, 
+    "case_number": "HW362302", 
+    "date": {
+        "$date": 1371301200000
+    }, 
+    "updated_on": {
+        "$date": 1372812143000
+    }, 
+    "ward": "9", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9200040", 
+    "block": "003XX W 101ST PL", 
+    "description": "AUTOMOBILE"
+}
