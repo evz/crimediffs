@@ -1,0 +1,33 @@
+{
+    "community_area": "75", 
+    "_id": {
+        "$oid": "51dadb14018e783f00ab9108"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2234", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "ATHLETIC CLUB", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66255900878875, 
+            41.684623459344806
+        ]
+    }, 
+    "case_number": "HW344686", 
+    "date": {
+        "$date": 1372608000000
+    }, 
+    "updated_on": {
+        "$date": 1373244025000
+    }, 
+    "ward": "34", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9205761", 
+    "block": "115XX S MARSHFIELD AVE", 
+    "description": "$500 AND UNDER"
+}
