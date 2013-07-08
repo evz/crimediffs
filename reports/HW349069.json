@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "51dadb2d018e783f00ab95d2"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0632", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "841", 
+    "arrest": false, 
+    "location_description": "SMALL RETAIL STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60499708541548, 
+            41.7375787708008
+        ]
+    }, 
+    "case_number": "HW349069", 
+    "date": {
+        "$date": 1371978000000
+    }, 
+    "updated_on": {
+        "$date": 1373244025000
+    }, 
+    "ward": "6", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9204515", 
+    "block": "086XX S COTTAGE GROVE AVE", 
+    "description": "FINANCIAL ID THEFT:$300 &UNDER"
+}
