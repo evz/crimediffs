@@ -1,0 +1,33 @@
+{
+    "community_area": "37", 
+    "_id": {
+        "$oid": "51dadb32018e783f00ab95d7"
+    }, 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "beat": "0225", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1110", 
+    "arrest": false, 
+    "location_description": "BANK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62946382425704, 
+            41.794694621838936
+        ]
+    }, 
+    "case_number": "HW351526", 
+    "date": {
+        "$date": 1371801600000
+    }, 
+    "updated_on": {
+        "$date": 1373244025000
+    }, 
+    "ward": "3", 
+    "fbi_code": "11", 
+    "type": null, 
+    "id": "9205747", 
+    "block": "001XX W GARFIELD BLVD", 
+    "description": "BOGUS CHECK"
+}
