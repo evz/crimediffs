@@ -1,0 +1,33 @@
+{
+    "community_area": "70", 
+    "_id": {
+        "$oid": "51dadb24018e783f00ab95cb"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0835", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70075857637339, 
+            41.751362479767
+        ]
+    }, 
+    "case_number": "HW352248", 
+    "date": {
+        "$date": 1372258800000
+    }, 
+    "updated_on": {
+        "$date": 1373244025000
+    }, 
+    "ward": "18", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9206193", 
+    "block": "031XX W COLUMBUS AVE", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
