@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1889986", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW343121", 
+    "id": "9197662", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6819809530135, 
+            41.8537949499939
+        ]
+    }, 
+    "community_area": "31", 
+    "latitude": "41.8537949499939", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1234", 
+    "date": {
+        "$date": 1372609800000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51dadb14018e783f00ab90fe"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.6819809530135", 
+    "location_description": "STREET", 
+    "x_coordinate": "1161701", 
+    "updated_on": {
+        "$date": 1372812143000
+    }, 
+    "fbi_code": "06", 
+    "block": "022XX W 21ST ST"
+}
