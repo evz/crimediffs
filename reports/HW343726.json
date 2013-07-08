@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "51dadb14018e783f00ab90e1"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "0531", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61552512083703, 
+            41.688066122018455
+        ]
+    }, 
+    "case_number": "HW343726", 
+    "date": {
+        "$date": 1372611600000
+    }, 
+    "updated_on": {
+        "$date": 1373244025000
+    }, 
+    "ward": "9", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9206039", 
+    "block": "113XX S FOREST AVE", 
+    "description": "SIMPLE"
+}
