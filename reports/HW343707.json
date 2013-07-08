@@ -1,0 +1,33 @@
+{
+    "community_area": "22", 
+    "_id": {
+        "$oid": "51d2f21a018e783f00ab8119"
+    }, 
+    "primary_type": "NON-CRIMINAL", 
+    "beat": "1414", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "5093", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69738778222506, 
+            41.918829318936375
+        ]
+    }, 
+    "case_number": "HW343707", 
+    "date": {
+        "$date": 1371992400000
+    }, 
+    "updated_on": {
+        "$date": 1372725641000
+    }, 
+    "ward": "35", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9198263", 
+    "block": "020XX N CALIFORNIA AVE", 
+    "description": "LOST PASSPORT"
+}
