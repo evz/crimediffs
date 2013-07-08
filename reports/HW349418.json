@@ -1,0 +1,33 @@
+{
+    "community_area": "29", 
+    "_id": {
+        "$oid": "51dadb0d018e783f00ab8f66"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1012", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73239642800183, 
+            41.85419329449129
+        ]
+    }, 
+    "case_number": "HW349418", 
+    "date": {
+        "$date": 1372644000000
+    }, 
+    "updated_on": {
+        "$date": 1373244025000
+    }, 
+    "ward": "24", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9206061", 
+    "block": "043XX W CULLERTON ST", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
