@@ -1,0 +1,33 @@
+{
+    "community_area": "33", 
+    "_id": {
+        "$oid": "51dadb1b018e783f00ab9401"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0132", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62363001293028, 
+            41.851772463256275
+        ]
+    }, 
+    "case_number": "HW343037", 
+    "date": {
+        "$date": 1372532400000
+    }, 
+    "updated_on": {
+        "$date": 1373244025000
+    }, 
+    "ward": "2", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9204649", 
+    "block": "022XX S MICHIGAN AVE", 
+    "description": "TO PROPERTY"
+}
