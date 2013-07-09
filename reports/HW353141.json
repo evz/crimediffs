@@ -1,0 +1,33 @@
+{
+    "community_area": "7", 
+    "_id": {
+        "$oid": "51dc2cab018e783f00ab9948"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "1935", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "RESTAURANT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64454112209384, 
+            41.932064463756454
+        ]
+    }, 
+    "case_number": "HW353141", 
+    "date": {
+        "$date": 1372194000000
+    }, 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "ward": "43", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9207117", 
+    "block": "027XX N CLARK ST", 
+    "description": "TO PROPERTY"
+}
