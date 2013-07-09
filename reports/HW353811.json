@@ -1,0 +1,33 @@
+{
+    "community_area": "32", 
+    "_id": {
+        "$oid": "51dc2c9f018e783f00ab986b"
+    }, 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "beat": "0122", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1185", 
+    "arrest": false, 
+    "location_description": "RESTAURANT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63721821102492, 
+            41.88458628311659
+        ]
+    }, 
+    "case_number": "HW353811", 
+    "date": {
+        "$date": 1372680000000
+    }, 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "ward": "42", 
+    "fbi_code": "11", 
+    "type": null, 
+    "id": "9207665", 
+    "block": "001XX N WACKER DR", 
+    "description": "DECEPTIVE COLLECTION PRACTICES"
+}
