@@ -1,0 +1,33 @@
+{
+    "community_area": "8", 
+    "_id": {
+        "$oid": "51dc2ca3018e783f00ab9938"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "1832", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63225326137363, 
+            41.8993584966392
+        ]
+    }, 
+    "case_number": "HW352680", 
+    "date": {
+        "$date": 1372575600000
+    }, 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "ward": "42", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9206502", 
+    "block": "001XX W DELAWARE PL", 
+    "description": "TO VEHICLE"
+}
