@@ -1,0 +1,33 @@
+{
+    "community_area": "73", 
+    "_id": {
+        "$oid": "51dc2ca2018e783f00ab9936"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2223", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63395488527269, 
+            41.7198712364084
+        ]
+    }, 
+    "case_number": "HW353471", 
+    "date": {
+        "$date": 1372604400000
+    }, 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "ward": "21", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9207446", 
+    "block": "004XX W 96TH ST", 
+    "description": "OVER $500"
+}
