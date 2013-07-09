@@ -1,0 +1,33 @@
+{
+    "community_area": "71", 
+    "_id": {
+        "$oid": "51dc2ca7018e783f00ab9942"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0621", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64302662659428, 
+            41.75284685489773
+        ]
+    }, 
+    "case_number": "HW353339", 
+    "date": {
+        "$date": 1372406400000
+    }, 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "ward": "17", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9207693", 
+    "block": "077XX S EMERALD AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
