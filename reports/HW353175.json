@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "51dc2c9d018e783f00ab9770"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2232", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64023790500345, 
+            41.70613555041467
+        ]
+    }, 
+    "case_number": "HW353175", 
+    "date": {
+        "$date": 1372699800000
+    }, 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "ward": "34", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9207167", 
+    "block": "103XX S UNION AVE", 
+    "description": "$500 AND UNDER"
+}
