@@ -1,0 +1,33 @@
+{
+    "community_area": "42", 
+    "_id": {
+        "$oid": "51dc2ca1018e783f00ab9934"
+    }, 
+    "primary_type": "SEX OFFENSE", 
+    "beat": "0313", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "1563", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61554061540238, 
+            41.78275590036946
+        ]
+    }, 
+    "case_number": "HW352470", 
+    "date": {
+        "$date": 1372644000000
+    }, 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "ward": "20", 
+    "fbi_code": "17", 
+    "type": null, 
+    "id": "9206454", 
+    "block": "061XX S DR MARTIN LUTHER KING JR DR", 
+    "description": "CRIMINAL SEXUAL ABUSE"
+}
