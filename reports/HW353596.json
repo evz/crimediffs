@@ -1,0 +1,33 @@
+{
+    "community_area": "15", 
+    "_id": {
+        "$oid": "51dc2c9d018e783f00ab97bc"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1624", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77596899999999, 
+            41.955021
+        ]
+    }, 
+    "case_number": "HW353596", 
+    "date": {
+        "$date": 1372694400000
+    }, 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "ward": "38", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9207484", 
+    "block": "041XX N MASON AVE", 
+    "description": "$500 AND UNDER"
+}
