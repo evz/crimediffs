@@ -1,0 +1,33 @@
+{
+    "community_area": "1", 
+    "_id": {
+        "$oid": "51dc2ca6018e783f00ab9940"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2424", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6802404767462, 
+            42.013803318009245
+        ]
+    }, 
+    "case_number": "HW353209", 
+    "date": {
+        "$date": 1372442400000
+    }, 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "ward": "49", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9207169", 
+    "block": "073XX N ROGERS AVE", 
+    "description": "$500 AND UNDER"
+}
