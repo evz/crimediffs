@@ -1,0 +1,33 @@
+{
+    "community_area": "20", 
+    "_id": {
+        "$oid": "51dc2cb5018e783f00ab994f"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "2522", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "520", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73754589627019, 
+            41.92142944489525
+        ]
+    }, 
+    "case_number": "HW353683", 
+    "date": {
+        "$date": 1371753000000
+    }, 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "ward": "31", 
+    "fbi_code": "04A", 
+    "type": "violent", 
+    "id": "9207563", 
+    "block": "022XX N KENNETH AVE", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR"
+}
