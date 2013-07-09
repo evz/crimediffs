@@ -1,0 +1,33 @@
+{
+    "community_area": "7", 
+    "_id": {
+        "$oid": "51dc2ca5018e783f00ab993f"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1935", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "RESTAURANT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65331535477856, 
+            41.92912282042014
+        ]
+    }, 
+    "case_number": "HW353856", 
+    "date": {
+        "$date": 1372460400000
+    }, 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "ward": "43", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9207772", 
+    "block": "009XX W WRIGHTWOOD AVE", 
+    "description": "FROM BUILDING"
+}
