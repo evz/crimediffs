@@ -1,0 +1,33 @@
+{
+    "community_area": "71", 
+    "_id": {
+        "$oid": "51dc2ca7018e783f00ab9943"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2223", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63519462010844, 
+            41.73392967120931
+        ]
+    }, 
+    "case_number": "HW353135", 
+    "date": {
+        "$date": 1372377600000
+    }, 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "ward": "21", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9207106", 
+    "block": "088XX S EGGLESTON AVE", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
