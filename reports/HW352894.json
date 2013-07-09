@@ -1,0 +1,33 @@
+{
+    "community_area": "70", 
+    "_id": {
+        "$oid": "51dc2ca0018e783f00ab98cd"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0835", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "GOVERNMENT BUILDING/PROPERTY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69730151550843, 
+            41.73700436709053
+        ]
+    }, 
+    "case_number": "HW352894", 
+    "date": {
+        "$date": 1372669200000
+    }, 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "ward": "18", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9206830", 
+    "block": "086XX S SACRAMENTO AVE", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
