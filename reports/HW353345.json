@@ -1,0 +1,33 @@
+{
+    "community_area": "6", 
+    "_id": {
+        "$oid": "51dc2ca1018e783f00ab9935"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1924", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "870", 
+    "arrest": false, 
+    "location_description": "TAVERN/LIQUOR STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64951534229326, 
+            41.943243949896534
+        ]
+    }, 
+    "case_number": "HW353345", 
+    "date": {
+        "$date": 1372627800000
+    }, 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "ward": "44", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9207467", 
+    "block": "033XX N HALSTED ST", 
+    "description": "POCKET-PICKING"
+}
