@@ -1,0 +1,33 @@
+{
+    "community_area": "66", 
+    "_id": {
+        "$oid": "51dc2ca3018e783f00ab9939"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0825", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68873618578569, 
+            41.781592736773895
+        ]
+    }, 
+    "case_number": "HW353115", 
+    "date": {
+        "$date": 1372575600000
+    }, 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "ward": "15", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9207068", 
+    "block": "061XX S ROCKWELL ST", 
+    "description": "$500 AND UNDER"
+}
