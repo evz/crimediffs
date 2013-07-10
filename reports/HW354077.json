@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "51dd7e34018e783f00ab9c94"
+    }, 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "beat": "0531", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "281", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61932956689817, 
+            41.687357084537226
+        ]
+    }, 
+    "case_number": "HW354077", 
+    "date": {
+        "$date": 1372118460000
+    }, 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "ward": "9", 
+    "fbi_code": "02", 
+    "type": "violent", 
+    "id": "9207973", 
+    "block": "113XX S EDBROOKE AVE", 
+    "description": "NON-AGGRAVATED"
+}
