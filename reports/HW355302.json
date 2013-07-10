@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "51dd7e34018e783f00ab9c96"
+    }, 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "beat": "0332", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "1790", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58932643477026, 
+            41.76676828859465
+        ]
+    }, 
+    "case_number": "HW355302", 
+    "date": {
+        "$date": 1372089600000
+    }, 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "ward": "5", 
+    "fbi_code": "20", 
+    "type": null, 
+    "id": "9209152", 
+    "block": "070XX S DANTE AVE", 
+    "description": "CHILD ABDUCTION"
+}
