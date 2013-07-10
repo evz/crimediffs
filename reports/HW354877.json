@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "51dd7e27018e783f00ab9c7a"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0334", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56288622182689, 
+            41.76616865555845
+        ]
+    }, 
+    "case_number": "HW354877", 
+    "date": {
+        "$date": 1372680000000
+    }, 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "ward": "7", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9208779", 
+    "block": "071XX S SOUTH SHORE DR", 
+    "description": "$500 AND UNDER"
+}
