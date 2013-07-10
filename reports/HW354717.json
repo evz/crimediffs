@@ -1,0 +1,33 @@
+{
+    "community_area": "6", 
+    "_id": {
+        "$oid": "51dd7e37018e783f00ab9c9a"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1925", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64241013263543, 
+            41.94018552016782
+        ]
+    }, 
+    "case_number": "HW354717", 
+    "date": {
+        "$date": 1371992400000
+    }, 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "ward": "44", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9208523", 
+    "block": "005XX W BELMONT AVE", 
+    "description": "OVER $500"
+}
