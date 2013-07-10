@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "51dd7e2f018e783f00ab9c8e"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "0414", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "RESIDENCE-GARAGE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58227484189469, 
+            41.75316283825693
+        ]
+    }, 
+    "case_number": "HW354715", 
+    "date": {
+        "$date": 1372334400000
+    }, 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "ward": "8", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9208532", 
+    "block": "078XX S RIDGELAND AVE", 
+    "description": "AUTOMOBILE"
+}
