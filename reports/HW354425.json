@@ -1,0 +1,33 @@
+{
+    "community_area": "38", 
+    "_id": {
+        "$oid": "51dd7e34018e783f00ab9c95"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0215", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62215939463483, 
+            41.81121958972667
+        ]
+    }, 
+    "case_number": "HW354425", 
+    "date": {
+        "$date": 1372118460000
+    }, 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "ward": "3", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9208235", 
+    "block": "001XX E 46TH ST", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
