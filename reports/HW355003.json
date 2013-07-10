@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "51dd7e37018e783f00ab9c9b"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2233", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "DEPARTMENT STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63399532306543, 
+            41.69890759284515
+        ]
+    }, 
+    "case_number": "HW355003", 
+    "date": {
+        "$date": 1371974400000
+    }, 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "ward": "34", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9208761", 
+    "block": "107XX S EGGLESTON AVE", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
