@@ -1,0 +1,33 @@
+{
+    "community_area": "16", 
+    "_id": {
+        "$oid": "51e17294018e783f00aba4c5"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "1731", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73442060754681, 
+            41.94639111038164
+        ]
+    }, 
+    "case_number": "HW350286", 
+    "date": {
+        "$date": 1373065200000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "30", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9212941", 
+    "block": "042XX W ADDISON ST", 
+    "description": "AUTOMOBILE"
+}
