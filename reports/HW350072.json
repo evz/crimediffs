@@ -1,0 +1,33 @@
+{
+    "community_area": "61", 
+    "_id": {
+        "$oid": "51e17293018e783f00aba499"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0932", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67179637149574, 
+            41.79628815648797
+        ]
+    }, 
+    "case_number": "HW350072", 
+    "date": {
+        "$date": 1373069700000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "16", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9204613", 
+    "block": "053XX S WOLCOTT AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
