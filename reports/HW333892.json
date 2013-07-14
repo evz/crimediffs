@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1839670", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW333892", 
+    "id": "9188611", 
+    "primary_type": "ROBBERY", 
+    "district": "005", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63198501000842, 
+            41.71541892077908
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.71541892077908", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0511", 
+    "date": {
+        "$date": 1372114800000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51d2f212018e783f00ab7eb5"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.63198501000842", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1175733", 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
+    "fbi_code": "03", 
+    "block": "098XX S HARVARD AVE"
+}
