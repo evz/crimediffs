@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1839626", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW346661", 
+    "id": "9201716", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55962086251466, 
+            41.71483371805034
+        ]
+    }, 
+    "community_area": "51", 
+    "latitude": "41.71483371805034", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0431", 
+    "date": {
+        "$date": 1372867800000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51decf9c018e783f00ab9e76"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.55962086251466", 
+    "location_description": "BOWLING ALLEY", 
+    "x_coordinate": "1195492", 
+    "updated_on": {
+        "$date": 1373071180000
+    }, 
+    "fbi_code": "06", 
+    "block": "099XX S TORRENCE AVE"
+}
