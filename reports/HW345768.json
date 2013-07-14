@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1900716", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW345768", 
+    "id": "9200471", 
+    "primary_type": "ROBBERY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75748143620504, 
+            41.883644179078864
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.883644179078864", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "1523", 
+    "date": {
+        "$date": 1372811400000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51dd7e1c018e783f00ab9998"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.75748143620504", 
+    "location_description": "STREET", 
+    "x_coordinate": "1141059", 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "fbi_code": "03", 
+    "block": "001XX N LOCKWOOD AVE"
+}
