@@ -1,0 +1,33 @@
+{
+    "community_area": "21", 
+    "_id": {
+        "$oid": "51dd7e2a018e783f00ab9c84"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1411", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69330144894708, 
+            41.93579061995829
+        ]
+    }, 
+    "case_number": "HW349825", 
+    "date": {
+        "$date": 1372536000000
+    }, 
+    "updated_on": {
+        "$date": 1373589638000
+    }, 
+    "ward": "1", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9208771", 
+    "block": "030XX N ELSTON AVE", 
+    "description": "$500 AND UNDER"
+}
