@@ -1,33 +1,38 @@
 {
-    "community_area": "19", 
-    "_id": {
-        "$oid": "51dd7e2f018e783f00ab9c8d"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2521", 
+    "y_coordinate": "1916525", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW355451", 
+    "id": "9209109", 
+    "primary_type": "THEFT", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.75498068969792, 
-            41.92677927310038
+            -87.75410399882072, 
+            41.927010857514425
         ]
     }, 
-    "case_number": "HW355451", 
+    "community_area": "19", 
+    "latitude": "41.927010857514425", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "2521", 
     "date": {
         "$date": 1372334400000
     }, 
-    "updated_on": {
-        "$date": 1373416728000
-    }, 
     "ward": "31", 
+    "_id": {
+        "$oid": "51dd7e2f018e783f00ab9c8d"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.75410399882072", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1141872", 
+    "updated_on": {
+        "$date": 1373589638000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9209109", 
-    "block": "051XX W DEMING PL", 
-    "description": "FROM BUILDING"
+    "block": "051XX W DEMING PL"
 }
