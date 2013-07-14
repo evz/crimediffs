@@ -1,33 +1,38 @@
 {
-    "community_area": "67", 
-    "_id": {
-        "$oid": "51dc2ca2018e783f00ab9937"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0734", 
+    "y_coordinate": "1855954", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW352931", 
+    "id": "9206912", 
+    "primary_type": "BURGLARY", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65901635427483, 
-            41.760540786187605
+            -87.66148576052889, 
+            41.76028356709264
         ]
     }, 
-    "case_number": "HW352931", 
+    "community_area": "67", 
+    "latitude": "41.76028356709264", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0734", 
     "date": {
         "$date": 1372590000000
     }, 
-    "updated_on": {
-        "$date": 1373330420000
-    }, 
     "ward": "17", 
+    "_id": {
+        "$oid": "51dc2ca2018e783f00ab9937"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.66148576052889", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1167551", 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9206912", 
-    "block": "014XX W 73RD PL", 
-    "description": "FORCIBLE ENTRY"
+    "block": "014XX W 73RD PL"
 }
