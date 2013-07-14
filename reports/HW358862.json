@@ -1,0 +1,33 @@
+{
+    "community_area": "42", 
+    "_id": {
+        "$oid": "51e1729d018e783f00aba754"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "0314", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60178089856211, 
+            41.77881886795904
+        ]
+    }, 
+    "case_number": "HW358862", 
+    "date": {
+        "$date": 1372978800000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "20", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9213178", 
+    "block": "063XX S INGLESIDE AVE", 
+    "description": "SIMPLE"
+}
