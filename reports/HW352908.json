@@ -1,33 +1,38 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "51dc2ca3018e783f00ab993a"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0513", 
+    "y_coordinate": "1832640", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "486", 
+    "case_number": "HW352908", 
+    "id": "9206870", 
+    "primary_type": "BATTERY", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62331857257873, 
-            41.69482717028018
+            -87.62334880634647, 
+            41.696073282738716
         ]
     }, 
-    "case_number": "HW352908", 
+    "community_area": "49", 
+    "latitude": "41.696073282738716", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0513", 
     "date": {
         "$date": 1372546800000
     }, 
-    "updated_on": {
-        "$date": 1373330420000
-    }, 
     "ward": "34", 
+    "_id": {
+        "$oid": "51dc2ca3018e783f00ab993a"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.62334880634647", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1178149", 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9206870", 
-    "block": "109XX S STATE ST", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "109XX S STATE ST"
 }
