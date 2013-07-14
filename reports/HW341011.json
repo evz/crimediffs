@@ -1,0 +1,33 @@
+{
+    "community_area": "17", 
+    "_id": {
+        "$oid": "51e0212b018e783f00aba40a"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1632", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.80551086545616, 
+            41.94213513064323
+        ]
+    }, 
+    "case_number": "HW341011", 
+    "date": {
+        "$date": 1372522500000
+    }, 
+    "updated_on": {
+        "$date": 1373589638000
+    }, 
+    "ward": "36", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9211753", 
+    "block": "034XX N NEVA AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
