@@ -1,0 +1,33 @@
+{
+    "community_area": "24", 
+    "_id": {
+        "$oid": "51d2f20e018e783f00ab7e04"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1211", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69319818177331, 
+            41.89942900859963
+        ]
+    }, 
+    "case_number": "HW334099", 
+    "date": {
+        "$date": 1372136400000
+    }, 
+    "updated_on": {
+        "$date": 1372725641000
+    }, 
+    "ward": "1", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9193610", 
+    "block": "026XX W AUGUSTA BLVD", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
