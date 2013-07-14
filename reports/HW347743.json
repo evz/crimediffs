@@ -1,0 +1,33 @@
+{
+    "community_area": "42", 
+    "_id": {
+        "$oid": "51e02120018e783f00aba322"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0313", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61341508292304, 
+            41.782989586021124
+        ]
+    }, 
+    "case_number": "HW347743", 
+    "date": {
+        "$date": 1372942680000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "20", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9207379", 
+    "block": "061XX S EBERHART AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
