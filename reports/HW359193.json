@@ -1,0 +1,33 @@
+{
+    "community_area": "32", 
+    "_id": {
+        "$oid": "51e172a7018e783f00aba76d"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0112", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6277418, 
+            41.8807309
+        ]
+    }, 
+    "case_number": "HW359193", 
+    "date": {
+        "$date": 1372521600000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "42", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9213107", 
+    "block": "0000X E MONROE ST", 
+    "description": "$500 AND UNDER"
+}
