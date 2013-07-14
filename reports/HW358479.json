@@ -1,0 +1,33 @@
+{
+    "community_area": "71", 
+    "_id": {
+        "$oid": "51e1729f018e783f00aba75a"
+    }, 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "beat": "0611", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "281", 
+    "arrest": false, 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66541610831955, 
+            41.752037895779644
+        ]
+    }, 
+    "case_number": "HW358479", 
+    "date": {
+        "$date": 1372860000000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "17", 
+    "fbi_code": "02", 
+    "type": "violent", 
+    "id": "9212330", 
+    "block": "016XX W 78TH ST", 
+    "description": "NON-AGGRAVATED"
+}
