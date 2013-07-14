@@ -1,33 +1,38 @@
 {
-    "community_area": "6", 
-    "_id": {
-        "$oid": "51dd7e2a018e783f00ab9c85"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1934", 
+    "y_coordinate": "1919894", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW355330", 
+    "id": "9209165", 
+    "primary_type": "THEFT", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64617099893812, 
-            41.93566092347501
+            -87.64623347459386, 
+            41.935661297367005
         ]
     }, 
-    "case_number": "HW355330", 
+    "community_area": "6", 
+    "latitude": "41.935661297367005", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1934", 
     "date": {
         "$date": 1372532400000
     }, 
-    "updated_on": {
-        "$date": 1373416728000
-    }, 
     "ward": "44", 
+    "_id": {
+        "$oid": "51dd7e2a018e783f00ab9c85"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.64623347459386", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1171201", 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9209165", 
-    "block": "006XX W OAKDALE AVE", 
-    "description": "FROM BUILDING"
+    "block": "006XX W OAKDALE AVE"
 }
