@@ -1,0 +1,33 @@
+{
+    "community_area": "67", 
+    "_id": {
+        "$oid": "51e17297018e783f00aba5c2"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "0725", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66028374022405, 
+            41.77429440709962
+        ]
+    }, 
+    "case_number": "HW353174", 
+    "date": {
+        "$date": 1373043600000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "17", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9212547", 
+    "block": "065XX S BISHOP ST", 
+    "description": "AUTOMOBILE"
+}
