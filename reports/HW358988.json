@@ -1,0 +1,33 @@
+{
+    "community_area": "33", 
+    "_id": {
+        "$oid": "51e172a2018e783f00aba760"
+    }, 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "beat": "0132", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1195", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62259560052617, 
+            41.86298457367913
+        ]
+    }, 
+    "case_number": "HW358988", 
+    "date": {
+        "$date": 1372755600000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "2", 
+    "fbi_code": "11", 
+    "type": null, 
+    "id": "9213527", 
+    "block": "014XX S INDIANA AVE", 
+    "description": "FINAN EXPLOIT-ELDERLY/DISABLED"
+}
