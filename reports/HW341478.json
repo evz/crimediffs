@@ -1,0 +1,33 @@
+{
+    "community_area": "51", 
+    "_id": {
+        "$oid": "51dadb19018e783f00ab9301"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0434", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "430", 
+    "arrest": false, 
+    "location_description": "CHA HALLWAY/STAIRWELL/ELEVATOR", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56588527575421, 
+            41.70425795694009
+        ]
+    }, 
+    "case_number": "HW341478", 
+    "date": {
+        "$date": 1372552200000
+    }, 
+    "updated_on": {
+        "$date": 1372984938000
+    }, 
+    "ward": "10", 
+    "fbi_code": "04B", 
+    "type": "violent", 
+    "id": "9196781", 
+    "block": "105XX S OGLESBY AVE", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON"
+}
