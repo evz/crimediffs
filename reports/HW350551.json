@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "51decf9f018e783f00ab9fe6"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "0333", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "5002", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5750826126142, 
+            41.76047854738574
+        ]
+    }, 
+    "case_number": "HW350551", 
+    "date": {
+        "$date": 1372831200000
+    }, 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
+    "ward": "5", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9207369", 
+    "block": "074XX S CHAPPEL AVE", 
+    "description": "OTHER VEHICLE OFFENSE"
+}
