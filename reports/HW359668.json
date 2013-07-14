@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "51e172a4018e783f00aba768"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0631", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61245888368839, 
+            41.74428077291673
+        ]
+    }, 
+    "case_number": "HW359668", 
+    "date": {
+        "$date": 1372665600000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "6", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9213597", 
+    "block": "082XX S EBERHART AVE", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
