@@ -1,0 +1,33 @@
+{
+    "community_area": "28", 
+    "_id": {
+        "$oid": "51e1729c018e783f00aba752"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "1224", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "031A", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66799186645136, 
+            41.87968910461205
+        ]
+    }, 
+    "case_number": "HW359303", 
+    "date": {
+        "$date": 1372991400000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "2", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9213511", 
+    "block": "016XX W OGDEN AVE", 
+    "description": "ARMED: HANDGUN"
+}
