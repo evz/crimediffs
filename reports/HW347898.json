@@ -1,0 +1,33 @@
+{
+    "community_area": "52", 
+    "_id": {
+        "$oid": "51e02120018e783f00aba2bd"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0432", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.53785146253765, 
+            41.71857925941791
+        ]
+    }, 
+    "case_number": "HW347898", 
+    "date": {
+        "$date": 1372950900000
+    }, 
+    "updated_on": {
+        "$date": 1373589638000
+    }, 
+    "ward": "10", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9208860", 
+    "block": "097XX S AVENUE M", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
