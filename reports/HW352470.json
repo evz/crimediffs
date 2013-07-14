@@ -1,33 +1,38 @@
 {
-    "community_area": "42", 
-    "_id": {
-        "$oid": "51dc2ca1018e783f00ab9934"
-    }, 
-    "primary_type": "SEX OFFENSE", 
-    "beat": "0313", 
+    "y_coordinate": "1864062", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "1563", 
+    "case_number": "HW352470", 
+    "id": "9206454", 
+    "primary_type": "SEX OFFENSE", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61554061540238, 
-            41.78275590036946
+            -87.61552785431532, 
+            41.7822563602108
         ]
     }, 
-    "case_number": "HW352470", 
+    "community_area": "42", 
+    "latitude": "41.7822563602108", 
+    "type": null, 
+    "description": "CRIMINAL SEXUAL ABUSE", 
+    "beat": "0313", 
     "date": {
         "$date": 1372644000000
     }, 
-    "updated_on": {
-        "$date": 1373330420000
-    }, 
     "ward": "20", 
+    "_id": {
+        "$oid": "51dc2ca1018e783f00ab9934"
+    }, 
+    "iucr": "1563", 
+    "longitude": "-87.61552785431532", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1180023", 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
     "fbi_code": "17", 
-    "type": null, 
-    "id": "9206454", 
-    "block": "061XX S DR MARTIN LUTHER KING JR DR", 
-    "description": "CRIMINAL SEXUAL ABUSE"
+    "block": "061XX S DR MARTIN LUTHER KING JR DR"
 }
