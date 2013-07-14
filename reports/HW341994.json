@@ -1,0 +1,33 @@
+{
+    "community_area": "32", 
+    "_id": {
+        "$oid": "51dadb17018e783f00ab922d"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0122", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63191665388119, 
+            41.87674390912669
+        ]
+    }, 
+    "case_number": "HW341994", 
+    "date": {
+        "$date": 1372579200000
+    }, 
+    "updated_on": {
+        "$date": 1372984938000
+    }, 
+    "ward": "2", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9200522", 
+    "block": "004XX S LA SALLE ST", 
+    "description": "$500 AND UNDER"
+}
