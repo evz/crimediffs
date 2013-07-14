@@ -1,0 +1,33 @@
+{
+    "community_area": "1", 
+    "_id": {
+        "$oid": "51d6e68f018e783f00ab88b5"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "2423", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66132787018647, 
+            42.010521877583116
+        ]
+    }, 
+    "case_number": "HW339374", 
+    "date": {
+        "$date": 1372381200000
+    }, 
+    "updated_on": {
+        "$date": 1372984938000
+    }, 
+    "ward": "49", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9199170", 
+    "block": "012XX W GREENLEAF AVE", 
+    "description": "AUTOMOBILE"
+}
