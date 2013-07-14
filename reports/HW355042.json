@@ -1,33 +1,38 @@
 {
-    "community_area": "6", 
-    "_id": {
-        "$oid": "51dd7e28018e783f00ab9c7e"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1924", 
+    "y_coordinate": "1922737", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW355042", 
+    "id": "9208813", 
+    "primary_type": "THEFT", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "BAR OR TAVERN", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65312189089451, 
-            41.94318030286819
+            -87.65339411127253, 
+            41.94350573262793
         ]
     }, 
-    "case_number": "HW355042", 
+    "community_area": "6", 
+    "latitude": "41.94350573262793", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1924", 
     "date": {
         "$date": 1372624200000
     }, 
-    "updated_on": {
-        "$date": 1373416728000
-    }, 
     "ward": "44", 
+    "_id": {
+        "$oid": "51dd7e28018e783f00ab9c7e"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.65339411127253", 
+    "location_description": "BAR OR TAVERN", 
+    "x_coordinate": "1169230", 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9208813", 
-    "block": "033XX N CLARK ST", 
-    "description": "$500 AND UNDER"
+    "block": "033XX N CLARK ST"
 }
