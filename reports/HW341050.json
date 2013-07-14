@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1900239", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW341050", 
+    "id": "9196179", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65467325648427, 
+            41.88177363375323
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.88177363375323", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1224", 
+    "date": {
+        "$date": 1372527000000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51dadb1b018e783f00ab9447"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.65467325648427", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1169060", 
+    "updated_on": {
+        "$date": 1372725641000
+    }, 
+    "fbi_code": "06", 
+    "block": "011XX W MADISON ST"
+}
