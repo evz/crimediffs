@@ -1,0 +1,33 @@
+{
+    "community_area": "29", 
+    "_id": {
+        "$oid": "51dadb15018e783f00ab9123"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1023", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69421105936804, 
+            41.856404842363
+        ]
+    }, 
+    "case_number": "HW342138", 
+    "date": {
+        "$date": 1372606200000
+    }, 
+    "updated_on": {
+        "$date": 1373071180000
+    }, 
+    "ward": "28", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9201690", 
+    "block": "018XX S FAIRFIELD AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
