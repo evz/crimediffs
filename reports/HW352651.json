@@ -1,33 +1,38 @@
 {
-    "community_area": "61", 
-    "_id": {
-        "$oid": "51dc2ca4018e783f00ab993b"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0932", 
+    "y_coordinate": "1868618", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1152", 
+    "case_number": "HW352651", 
+    "id": "9206545", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.668114884657, 
-            41.795177415718726
+            -87.66811226756212, 
+            41.79507586199851
         ]
     }, 
-    "case_number": "HW352651", 
+    "community_area": "61", 
+    "latitude": "41.79507586199851", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "0932", 
     "date": {
         "$date": 1372514400000
     }, 
-    "updated_on": {
-        "$date": 1373330420000
-    }, 
     "ward": "16", 
+    "_id": {
+        "$oid": "51dc2ca4018e783f00ab993b"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.66811226756212", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1165645", 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9206545", 
-    "block": "054XX S HERMITAGE AVE", 
-    "description": "ILLEGAL USE CASH CARD"
+    "block": "054XX S HERMITAGE AVE"
 }
