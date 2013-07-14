@@ -1,0 +1,33 @@
+{
+    "community_area": "68", 
+    "_id": {
+        "$oid": "51e17298018e783f00aba5f9"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0733", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6505296, 
+            41.7669057
+        ]
+    }, 
+    "case_number": "HW349474", 
+    "date": {
+        "$date": 1373039700000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "17", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9210389", 
+    "block": "070XX S CARPENTER ST", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
