@@ -1,0 +1,33 @@
+{
+    "community_area": "35", 
+    "_id": {
+        "$oid": "51d6e691018e783f00ab8927"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0133", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6231202366765, 
+            41.84078404543305
+        ]
+    }, 
+    "case_number": "HW338370", 
+    "date": {
+        "$date": 1372370400000
+    }, 
+    "updated_on": {
+        "$date": 1372812143000
+    }, 
+    "ward": "2", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9197498", 
+    "block": "029XX S MICHIGAN AVE", 
+    "description": "OVER $500"
+}
