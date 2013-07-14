@@ -1,0 +1,33 @@
+{
+    "community_area": "46", 
+    "_id": {
+        "$oid": "51e17298018e783f00aba5f2"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "0424", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55158546957252, 
+            41.7377601847771
+        ]
+    }, 
+    "case_number": "HW349516", 
+    "date": {
+        "$date": 1373040000000
+    }, 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "ward": "10", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9205181", 
+    "block": "086XX S COMMERCIAL AVE", 
+    "description": "AUTOMOBILE"
+}
