@@ -1,33 +1,38 @@
 {
-    "community_area": "68", 
-    "_id": {
-        "$oid": "51dadb22018e783f00ab95c9"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0724", 
+    "y_coordinate": "1859853", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW352202", 
+    "id": "9206244", 
+    "primary_type": "THEFT", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64959725014073, 
-            41.77221973607241
+            -87.64956346848354, 
+            41.77091325036384
         ]
     }, 
-    "case_number": "HW352202", 
+    "community_area": "68", 
+    "latitude": "41.77091325036384", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0724", 
     "date": {
         "$date": 1372291260000
     }, 
-    "updated_on": {
-        "$date": 1373244025000
-    }, 
     "ward": "17", 
+    "_id": {
+        "$oid": "51dadb22018e783f00ab95c9"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.64956346848354", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1170773", 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9206244", 
-    "block": "067XX S MORGAN ST", 
-    "description": "OVER $500"
+    "block": "067XX S MORGAN ST"
 }
