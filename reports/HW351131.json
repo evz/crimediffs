@@ -1,15 +1,12 @@
 {
-    "community_area": "28", 
-    "_id": {
-        "$oid": "51dadb1e018e783f00ab95c0"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "0121", 
+    "y_coordinate": "1901658", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1305", 
+    "case_number": "HW351131", 
+    "id": "9205393", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "CTA GARAGE / OTHER PROPERTY", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.88559496881976
         ]
     }, 
-    "case_number": "HW351131", 
+    "community_area": "28", 
+    "latitude": "41.88559496881976", 
+    "type": "quality", 
+    "description": "CRIMINAL DEFACEMENT", 
+    "beat": "0121", 
     "date": {
         "$date": 1372476000000
     }, 
-    "updated_on": {
-        "$date": 1373244025000
-    }, 
     "ward": "42", 
+    "_id": {
+        "$oid": "51dadb1e018e783f00ab95c0"
+    }, 
+    "iucr": "1305", 
+    "longitude": "-87.64247348698203", 
+    "location_description": "CTA GARAGE / OTHER PROPERTY", 
+    "x_coordinate": "1172371", 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9205393", 
-    "block": "005XX W LAKE ST", 
-    "description": "CRIMINAL DEFACEMENT"
+    "block": "005XX W LAKE ST"
 }
