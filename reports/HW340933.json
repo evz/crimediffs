@@ -1,0 +1,33 @@
+{
+    "community_area": "26", 
+    "_id": {
+        "$oid": "51dadb1c018e783f00ab9470"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "1113", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "051A", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73657094814276, 
+            41.87974212618557
+        ]
+    }, 
+    "case_number": "HW340933", 
+    "date": {
+        "$date": 1372523400000
+    }, 
+    "updated_on": {
+        "$date": 1373157603000
+    }, 
+    "ward": "28", 
+    "fbi_code": "04A", 
+    "type": "violent", 
+    "id": "9198611", 
+    "block": "044XX W MONROE ST", 
+    "description": "AGGRAVATED: HANDGUN"
+}
