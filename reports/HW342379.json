@@ -1,0 +1,33 @@
+{
+    "community_area": "23", 
+    "_id": {
+        "$oid": "51dadb12018e783f00ab908d"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1422", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71647051361255, 
+            41.91213321588299
+        ]
+    }, 
+    "case_number": "HW342379", 
+    "date": {
+        "$date": 1372617900000
+    }, 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
+    "ward": "26", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9204326", 
+    "block": "017XX N CENTRAL PARK AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
