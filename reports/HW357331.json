@@ -1,0 +1,33 @@
+{
+    "community_area": "68", 
+    "_id": {
+        "$oid": "51e02126018e783f00aba405"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0723", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64573658758849, 
+            41.7750068521996
+        ]
+    }, 
+    "case_number": "HW357331", 
+    "date": {
+        "$date": 1372759200000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "16", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9211771", 
+    "block": "065XX S GREEN ST", 
+    "description": "FORCIBLE ENTRY"
+}
