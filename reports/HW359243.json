@@ -1,0 +1,33 @@
+{
+    "community_area": "23", 
+    "_id": {
+        "$oid": "51e172ad018e783f00aba774"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1221", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70417751267138, 
+            41.89342766249814
+        ]
+    }, 
+    "case_number": "HW359243", 
+    "date": {
+        "$date": 1372240800000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "27", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9213487", 
+    "block": "006XX N ALBANY AVE", 
+    "description": "FROM BUILDING"
+}
