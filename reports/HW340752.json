@@ -1,0 +1,33 @@
+{
+    "community_area": "69", 
+    "_id": {
+        "$oid": "51dadb1c018e783f00ab94ef"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0621", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6345546078405, 
+            41.75511457724541
+        ]
+    }, 
+    "case_number": "HW340752", 
+    "date": {
+        "$date": 1372512600000
+    }, 
+    "updated_on": {
+        "$date": 1372812143000
+    }, 
+    "ward": "17", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9197134", 
+    "block": "076XX S STEWART AVE", 
+    "description": "$500 AND UNDER"
+}
