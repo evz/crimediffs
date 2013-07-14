@@ -1,33 +1,38 @@
 {
-    "community_area": "67", 
-    "_id": {
-        "$oid": "51dd7e2f018e783f00ab9c8f"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0715", 
+    "y_coordinate": "1868023", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1122", 
+    "case_number": "HW355040", 
+    "id": "9208782", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67205275740965, 
-            41.79346576243994
+            -87.6719720850776, 
+            41.793465298030135
         ]
     }, 
-    "case_number": "HW355040", 
+    "community_area": "67", 
+    "latitude": "41.793465298030135", 
+    "type": null, 
+    "description": "FRAUD OR CONFIDENCE GAME", 
+    "beat": "0715", 
     "date": {
         "$date": 1372323600000
     }, 
-    "updated_on": {
-        "$date": 1373416728000
-    }, 
     "ward": "15", 
-    "fbi_code": "10", 
-    "type": null, 
-    "id": "9208782", 
-    "block": "019XX W GARFIELD BLVD", 
-    "description": "COUNTERFEIT CHECK"
+    "_id": {
+        "$oid": "51dd7e2f018e783f00ab9c8f"
+    }, 
+    "iucr": "1130", 
+    "longitude": "-87.6719720850776", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1164597", 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "fbi_code": "11", 
+    "block": "019XX W GARFIELD BLVD"
 }
