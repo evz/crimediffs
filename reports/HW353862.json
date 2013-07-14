@@ -1,0 +1,33 @@
+{
+    "community_area": "54", 
+    "_id": {
+        "$oid": "51e02129018e783f00aba409"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "0533", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "930", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.607543, 
+            41.6573374
+        ]
+    }, 
+    "case_number": "HW353862", 
+    "date": {
+        "$date": 1372579200000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "9", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9212122", 
+    "block": "006XX E 131ST ST", 
+    "description": "THEFT/RECOVERY: AUTOMOBILE"
+}
