@@ -1,0 +1,33 @@
+{
+    "community_area": "39", 
+    "_id": {
+        "$oid": "51decf97018e783f00ab9d18"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0222", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59747604454526, 
+            41.816700853387665
+        ]
+    }, 
+    "case_number": "HW349227", 
+    "date": {
+        "$date": 1372897800000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "4", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9208445", 
+    "block": "043XX S OAKENWALD AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
