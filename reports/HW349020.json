@@ -1,0 +1,33 @@
+{
+    "community_area": "22", 
+    "_id": {
+        "$oid": "51decf97018e783f00ab9d1a"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1413", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70881967109797, 
+            41.91871643375995
+        ]
+    }, 
+    "case_number": "HW349020", 
+    "date": {
+        "$date": 1372897800000
+    }, 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "ward": "35", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9204674", 
+    "block": "020XX N SAWYER AVE", 
+    "description": "$500 AND UNDER"
+}
