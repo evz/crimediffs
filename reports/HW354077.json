@@ -1,33 +1,38 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "51dd7e34018e783f00ab9c94"
-    }, 
-    "primary_type": "CRIM SEXUAL ASSAULT", 
-    "beat": "0531", 
+    "y_coordinate": "1829721", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "281", 
+    "case_number": "HW354077", 
+    "id": "9207973", 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61932956689817, 
-            41.687357084537226
+            -87.61934766813698, 
+            41.688037791591306
         ]
     }, 
-    "case_number": "HW354077", 
+    "community_area": "49", 
+    "latitude": "41.688037791591306", 
+    "type": "violent", 
+    "description": "NON-AGGRAVATED", 
+    "beat": "0531", 
     "date": {
         "$date": 1372118460000
     }, 
-    "updated_on": {
-        "$date": 1373416728000
-    }, 
     "ward": "9", 
+    "_id": {
+        "$oid": "51dd7e34018e783f00ab9c94"
+    }, 
+    "iucr": "281", 
+    "longitude": "-87.61934766813698", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1179266", 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
     "fbi_code": "02", 
-    "type": "violent", 
-    "id": "9207973", 
-    "block": "113XX S EDBROOKE AVE", 
-    "description": "NON-AGGRAVATED"
+    "block": "113XX S EDBROOKE AVE"
 }
