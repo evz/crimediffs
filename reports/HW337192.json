@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1900903", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW337192", 
+    "id": "9192177", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62802063116402, 
+            41.88343520942422
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88343520942422", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0111", 
+    "date": {
+        "$date": 1372275420000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51d59515018e783f00ab860e"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.62802063116402", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1176313", 
+    "updated_on": {
+        "$date": 1372466395000
+    }, 
+    "fbi_code": "06", 
+    "block": "001XX N STATE ST"
+}
