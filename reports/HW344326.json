@@ -1,0 +1,33 @@
+{
+    "community_area": "46", 
+    "_id": {
+        "$oid": "51dc2c98018e783f00ab9628"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0414", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57456186474344, 
+            41.74836726488288
+        ]
+    }, 
+    "case_number": "HW344326", 
+    "date": {
+        "$date": 1372725360000
+    }, 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "ward": "8", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9205765", 
+    "block": "080XX S CHAPPEL AVE", 
+    "description": "TO PROPERTY"
+}
