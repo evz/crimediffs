@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1901124", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW339886", 
+    "id": "9195012", 
+    "primary_type": "ROBBERY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67075707455928, 
+            41.884296213127946
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.884296213127946", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "1224", 
+    "date": {
+        "$date": 1372457400000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51d83817018e783f00ab8c99"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.67075707455928", 
+    "location_description": "STREET", 
+    "x_coordinate": "1164673", 
+    "updated_on": {
+        "$date": 1372639236000
+    }, 
+    "fbi_code": "03", 
+    "block": "001XX N HERMITAGE AVE"
+}
