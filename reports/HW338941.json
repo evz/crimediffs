@@ -1,0 +1,33 @@
+{
+    "community_area": "28", 
+    "_id": {
+        "$oid": "51d6e693018e783f00ab89a5"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1224", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "630", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64899890741685, 
+            41.88322733986213
+        ]
+    }, 
+    "case_number": "HW338941", 
+    "date": {
+        "$date": 1372359600000
+    }, 
+    "updated_on": {
+        "$date": 1372898415000
+    }, 
+    "ward": "27", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9198975", 
+    "block": "008XX W WASHINGTON BLVD", 
+    "description": "ATTEMPT FORCIBLE ENTRY"
+}
