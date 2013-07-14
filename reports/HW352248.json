@@ -1,33 +1,38 @@
 {
-    "community_area": "70", 
-    "_id": {
-        "$oid": "51dadb24018e783f00ab95cb"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0835", 
+    "y_coordinate": "1852323", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "840", 
+    "case_number": "HW352248", 
+    "id": "9206193", 
+    "primary_type": "THEFT", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70075857637339, 
-            41.751362479767
+            -87.7020088980972, 
+            41.75054880847712
         ]
     }, 
-    "case_number": "HW352248", 
+    "community_area": "70", 
+    "latitude": "41.75054880847712", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "0835", 
     "date": {
         "$date": 1372258800000
     }, 
-    "updated_on": {
-        "$date": 1373244025000
-    }, 
     "ward": "18", 
+    "_id": {
+        "$oid": "51dadb24018e783f00ab95cb"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.7020088980972", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1156521", 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9206193", 
-    "block": "031XX W COLUMBUS AVE", 
-    "description": "FINANCIAL ID THEFT: OVER $300"
+    "block": "031XX W COLUMBUS AVE"
 }
