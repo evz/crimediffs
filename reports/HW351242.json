@@ -1,33 +1,38 @@
 {
-    "community_area": "6", 
-    "_id": {
-        "$oid": "51dadb1e018e783f00ab95b3"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "1912", 
+    "y_coordinate": "1929082", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW351242", 
+    "id": "9205531", 
+    "primary_type": "BURGLARY", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66910048286783, 
-            41.961210020881886
+            -87.66909153379186, 
+            41.96100964198787
         ]
     }, 
-    "case_number": "HW351242", 
+    "community_area": "6", 
+    "latitude": "41.96100964198787", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1912", 
     "date": {
         "$date": 1372485600000
     }, 
-    "updated_on": {
-        "$date": 1373244025000
-    }, 
     "ward": "47", 
+    "_id": {
+        "$oid": "51dadb1e018e783f00ab95b3"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.66909153379186", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1164910", 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9205531", 
-    "block": "043XX N ASHLAND AVE", 
-    "description": "FORCIBLE ENTRY"
+    "block": "043XX N ASHLAND AVE"
 }
