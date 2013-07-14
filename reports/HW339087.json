@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1901418", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW339087", 
+    "id": "9194222", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62640404804893, 
+            41.88483855333345
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88483855333345", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0111", 
+    "date": {
+        "$date": 1372269600000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51d59515018e783f00ab8666"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.62640404804893", 
+    "location_description": "STREET", 
+    "x_coordinate": "1176749", 
+    "updated_on": {
+        "$date": 1372639236000
+    }, 
+    "fbi_code": "06", 
+    "block": "001XX N WABASH AVE"
+}
