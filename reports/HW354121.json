@@ -1,33 +1,38 @@
 {
-    "community_area": "31", 
-    "_id": {
-        "$oid": "51dd7e25018e783f00ab9c49"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "1034", 
+    "y_coordinate": "1888325", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1305", 
+    "case_number": "HW354121", 
+    "id": "9207985", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "010", 
     "arrest": false, 
-    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.681045, 
-            41.850166
+            -87.6808087152518, 
+            41.849230080659396
         ]
     }, 
-    "case_number": "HW354121", 
+    "community_area": "31", 
+    "latitude": "41.849230080659396", 
+    "type": "quality", 
+    "description": "CRIMINAL DEFACEMENT", 
+    "beat": "1034", 
     "date": {
         "$date": 1372752000000
     }, 
-    "updated_on": {
-        "$date": 1373416728000
-    }, 
     "ward": "25", 
+    "_id": {
+        "$oid": "51dd7e25018e783f00ab9c49"
+    }, 
+    "iucr": "1305", 
+    "longitude": "-87.6808087152518", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1162033", 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9207985", 
-    "block": "023XX S LEAVITT ST", 
-    "description": "CRIMINAL DEFACEMENT"
+    "block": "023XX S LEAVITT ST"
 }
