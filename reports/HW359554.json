@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "51e172ab018e783f00aba772"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "0421", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56406830612185, 
+            41.7577351280581
+        ]
+    }, 
+    "case_number": "HW359554", 
+    "date": {
+        "$date": 1372332600000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "7", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9213676", 
+    "block": "075XX S ESSEX AVE", 
+    "description": "AUTOMOBILE"
+}
