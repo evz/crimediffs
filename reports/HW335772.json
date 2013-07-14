@@ -1,0 +1,33 @@
+{
+    "community_area": "52", 
+    "_id": {
+        "$oid": "51d59519018e783f00ab87e2"
+    }, 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "beat": "0432", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "1780", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.54148904671376, 
+            41.70273400159812
+        ]
+    }, 
+    "case_number": "HW335772", 
+    "date": {
+        "$date": 1372237200000
+    }, 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "ward": "10", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9197533", 
+    "block": "106XX S GREEN BAY AVE", 
+    "description": "OTHER OFFENSE"
+}
