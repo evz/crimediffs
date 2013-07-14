@@ -1,0 +1,33 @@
+{
+    "community_area": "38", 
+    "_id": {
+        "$oid": "51dc2c9f018e783f00ab984b"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0214", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60702098939097, 
+            41.82387749481901
+        ]
+    }, 
+    "case_number": "HW344041", 
+    "date": {
+        "$date": 1372683360000
+    }, 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "ward": "4", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9205336", 
+    "block": "039XX S COTTAGE GROVE AVE", 
+    "description": "FORCIBLE ENTRY"
+}
