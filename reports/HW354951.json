@@ -1,33 +1,38 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "51dd7e31018e783f00ab9c91"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0634", 
+    "y_coordinate": "1844372", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1150", 
+    "case_number": "HW354951", 
+    "id": "9208801", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63013271433236, 
-            41.72741947996363
+            -87.63032080042062, 
+            41.728312533181274
         ]
     }, 
-    "case_number": "HW354951", 
+    "community_area": "49", 
+    "latitude": "41.728312533181274", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "0634", 
     "date": {
         "$date": 1372237200000
     }, 
-    "updated_on": {
-        "$date": 1373416728000
-    }, 
     "ward": "21", 
+    "_id": {
+        "$oid": "51dd7e31018e783f00ab9c91"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.63032080042062", 
+    "location_description": "STREET", 
+    "x_coordinate": "1176149", 
+    "updated_on": {
+        "$date": 1373589638000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9208801", 
-    "block": "091XX S PRINCETON AVE", 
-    "description": "CREDIT CARD FRAUD"
+    "block": "091XX S PRINCETON AVE"
 }
