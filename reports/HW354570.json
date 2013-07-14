@@ -1,33 +1,38 @@
 {
-    "community_area": "18", 
-    "_id": {
-        "$oid": "51dd7e32018e783f00ab9c92"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "2512", 
+    "y_coordinate": "1916397", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW354570", 
+    "id": "9208432", 
+    "primary_type": "BURGLARY", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.79546206299239, 
-            41.925897557118375
+            -87.79519307325137, 
+            41.92685952163996
         ]
     }, 
-    "case_number": "HW354570", 
+    "community_area": "18", 
+    "latitude": "41.92685952163996", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "2512", 
     "date": {
         "$date": 1372172400000
     }, 
-    "updated_on": {
-        "$date": 1373416728000
-    }, 
     "ward": "36", 
+    "_id": {
+        "$oid": "51dd7e32018e783f00ab9c92"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.79519307325137", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1130691", 
+    "updated_on": {
+        "$date": 1373589638000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9208432", 
-    "block": "025XX N OAK PARK AVE", 
-    "description": "FORCIBLE ENTRY"
+    "block": "025XX N OAK PARK AVE"
 }
