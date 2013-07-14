@@ -1,0 +1,33 @@
+{
+    "community_area": "75", 
+    "_id": {
+        "$oid": "51d8381a018e783f00ab8df0"
+    }, 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "beat": "2212", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "1780", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68100847939374, 
+            41.69168106561826
+        ]
+    }, 
+    "case_number": "HW339402", 
+    "date": {
+        "$date": 1372431600000
+    }, 
+    "updated_on": {
+        "$date": 1373244025000
+    }, 
+    "ward": "19", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9198307", 
+    "block": "111XX S WESTERN AVE", 
+    "description": "OTHER OFFENSE"
+}
