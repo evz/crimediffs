@@ -1,0 +1,33 @@
+{
+    "community_area": "22", 
+    "_id": {
+        "$oid": "51e0211e018e783f00aba229"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "1414", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "ALLEY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70007097166567, 
+            41.9269094314066
+        ]
+    }, 
+    "case_number": "HW348953", 
+    "date": {
+        "$date": 1372964400000
+    }, 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
+    "ward": "35", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9204673", 
+    "block": "025XX N FRANCISCO AVE", 
+    "description": "TO VEHICLE"
+}
