@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1901805", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW339491", 
+    "id": "9194637", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62335178552684, 
+            41.885881744212114
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.885881744212114", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0114", 
+    "date": {
+        "$date": 1372356000000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51d6e693018e783f00ab89d4"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.62335178552684", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1177577", 
+    "updated_on": {
+        "$date": 1372725641000
+    }, 
+    "fbi_code": "06", 
+    "block": "001XX E LAKE ST"
+}
