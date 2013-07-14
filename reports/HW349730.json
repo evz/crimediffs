@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "51dc2c9d018e783f00ab97a6"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0414", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57007103228099, 
+            41.75346387156735
+        ]
+    }, 
+    "case_number": "HW349730", 
+    "date": {
+        "$date": 1372696200000
+    }, 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "ward": "7", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9205149", 
+    "block": "077XX S LUELLA AVE", 
+    "description": "FORCIBLE ENTRY"
+}
