@@ -1,0 +1,33 @@
+{
+    "community_area": "4", 
+    "_id": {
+        "$oid": "51d83818018e783f00ab8cfc"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1911", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6876419032272, 
+            41.96744086756718
+        ]
+    }, 
+    "case_number": "HW340329", 
+    "date": {
+        "$date": 1372450500000
+    }, 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
+    "ward": "47", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9198827", 
+    "block": "047XX N LINCOLN AVE", 
+    "description": "FORCIBLE ENTRY"
+}
