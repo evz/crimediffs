@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1901654", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW340134", 
+    "id": "9195129", 
+    "primary_type": "ROBBERY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65436042304582, 
+            41.88565488814234
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.88565488814234", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "1214", 
+    "date": {
+        "$date": 1372470900000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51d83814018e783f00ab8bf1"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.65436042304582", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1169134", 
+    "updated_on": {
+        "$date": 1372639236000
+    }, 
+    "fbi_code": "03", 
+    "block": "010XX W LAKE ST"
+}
