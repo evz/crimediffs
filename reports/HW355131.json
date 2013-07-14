@@ -1,33 +1,38 @@
 {
-    "community_area": "29", 
-    "_id": {
-        "$oid": "51dd7e2d018e783f00ab9c8b"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1133", 
+    "y_coordinate": "1895572", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW355131", 
+    "id": "9208881", 
+    "primary_type": "THEFT", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.71776769675537, 
-            41.86964282719825
+            -87.7177524205377, 
+            41.869321667677745
         ]
     }, 
-    "case_number": "HW355131", 
+    "community_area": "29", 
+    "latitude": "41.869321667677745", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1133", 
     "date": {
         "$date": 1372418400000
     }, 
-    "updated_on": {
-        "$date": 1373416728000
-    }, 
     "ward": "24", 
+    "_id": {
+        "$oid": "51dd7e2d018e783f00ab9c8b"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.7177524205377", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1151915", 
+    "updated_on": {
+        "$date": 1373589638000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9208881", 
-    "block": "009XX S LAWNDALE AVE", 
-    "description": "$500 AND UNDER"
+    "block": "009XX S LAWNDALE AVE"
 }
