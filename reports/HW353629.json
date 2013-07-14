@@ -1,33 +1,38 @@
 {
-    "community_area": "29", 
-    "_id": {
-        "$oid": "51dc2cab018e783f00ab9949"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "1023", 
+    "y_coordinate": "1893416", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2820", 
+    "case_number": "HW353629", 
+    "id": "9207527", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "010", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69469837556406, 
-            41.8635042004591
+            -87.69469327292569, 
+            41.86327914318514
         ]
     }, 
-    "case_number": "HW353629", 
+    "community_area": "29", 
+    "latitude": "41.86327914318514", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "1023", 
     "date": {
         "$date": 1372183200000
     }, 
-    "updated_on": {
-        "$date": 1373330420000
-    }, 
     "ward": "28", 
+    "_id": {
+        "$oid": "51dc2cab018e783f00ab9949"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.69469327292569", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1158212", 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9207527", 
-    "block": "013XX S FAIRFIELD AVE", 
-    "description": "TELEPHONE THREAT"
+    "block": "013XX S FAIRFIELD AVE"
 }
