@@ -1,0 +1,33 @@
+{
+    "community_area": "28", 
+    "_id": {
+        "$oid": "51dadb1c018e783f00ab94c1"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1232", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64790085491587, 
+            41.86089359033689
+        ]
+    }, 
+    "case_number": "HW340799", 
+    "date": {
+        "$date": 1372517400000
+    }, 
+    "updated_on": {
+        "$date": 1372984938000
+    }, 
+    "ward": "25", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9196824", 
+    "block": "008XX W 15TH PL", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
