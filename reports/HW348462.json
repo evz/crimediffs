@@ -1,0 +1,33 @@
+{
+    "community_area": "48", 
+    "_id": {
+        "$oid": "51e0211a018e783f00aba0c5"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0423", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56095874348163, 
+            41.72606696014571
+        ]
+    }, 
+    "case_number": "HW348462", 
+    "date": {
+        "$date": 1372985640000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "7", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9206406", 
+    "block": "093XX S COLFAX AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
