@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "51d6e691018e783f00ab8949"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "1111", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "GROCERY FOOD STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74583100669439, 
+            41.891466643841326
+        ]
+    }, 
+    "case_number": "HW338341", 
+    "date": {
+        "$date": 1372367700000
+    }, 
+    "updated_on": {
+        "$date": 1372898415000
+    }, 
+    "ward": "28", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9197932", 
+    "block": "006XX N CICERO AVE", 
+    "description": "SIMPLE"
+}
