@@ -1,0 +1,33 @@
+{
+    "community_area": "51", 
+    "_id": {
+        "$oid": "51dadb1a018e783f00ab93c1"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0431", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.54844124620101, 
+            41.72095181581124
+        ]
+    }, 
+    "case_number": "HW341238", 
+    "date": {
+        "$date": 1372538100000
+    }, 
+    "updated_on": {
+        "$date": 1373071180000
+    }, 
+    "ward": "10", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9196778", 
+    "block": "096XX S BALTIMORE AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
