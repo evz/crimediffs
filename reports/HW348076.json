@@ -1,0 +1,33 @@
+{
+    "community_area": "19", 
+    "_id": {
+        "$oid": "51e0211f018e783f00aba254"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "2522", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75027468314669, 
+            41.92339928093204
+        ]
+    }, 
+    "case_number": "HW348076", 
+    "date": {
+        "$date": 1372960800000
+    }, 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
+    "ward": "31", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9206277", 
+    "block": "049XX W MEDILL AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
