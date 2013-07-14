@@ -1,0 +1,33 @@
+{
+    "community_area": "32", 
+    "_id": {
+        "$oid": "51decf9f018e783f00ab9ff3"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0132", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61708290640708, 
+            41.869116652556976
+        ]
+    }, 
+    "case_number": "HW345837", 
+    "date": {
+        "$date": 1372825200000
+    }, 
+    "updated_on": {
+        "$date": 1373589638000
+    }, 
+    "ward": "2", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9209451", 
+    "block": "011XX S LAKE SHORE DR E", 
+    "description": "FORCIBLE ENTRY"
+}
