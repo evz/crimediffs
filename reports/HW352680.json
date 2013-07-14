@@ -1,33 +1,38 @@
 {
-    "community_area": "8", 
-    "_id": {
-        "$oid": "51dc2ca3018e783f00ab9938"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "1832", 
+    "y_coordinate": "1906615", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1320", 
+    "case_number": "HW352680", 
+    "id": "9206502", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "018", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63225326137363, 
-            41.8993584966392
+            -87.63240260991927, 
+            41.899137125400586
         ]
     }, 
-    "case_number": "HW352680", 
+    "community_area": "8", 
+    "latitude": "41.899137125400586", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1832", 
     "date": {
         "$date": 1372575600000
     }, 
-    "updated_on": {
-        "$date": 1373330420000
-    }, 
     "ward": "42", 
+    "_id": {
+        "$oid": "51dc2ca3018e783f00ab9938"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.63240260991927", 
+    "location_description": "STREET", 
+    "x_coordinate": "1175073", 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9206502", 
-    "block": "001XX W DELAWARE PL", 
-    "description": "TO VEHICLE"
+    "block": "001XX W DELAWARE PL"
 }
