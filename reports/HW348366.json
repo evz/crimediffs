@@ -1,0 +1,33 @@
+{
+    "community_area": "24", 
+    "_id": {
+        "$oid": "51e0211e018e783f00aba212"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1424", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "620", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68234587559343, 
+            41.90501838084737
+        ]
+    }, 
+    "case_number": "HW348366", 
+    "date": {
+        "$date": 1372966200000
+    }, 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
+    "ward": "32", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9204512", 
+    "block": "013XX N LEAVITT ST", 
+    "description": "UNLAWFUL ENTRY"
+}
