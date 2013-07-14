@@ -1,33 +1,38 @@
 {
-    "community_area": "28", 
-    "_id": {
-        "$oid": "51dc2ca5018e783f00ab993e"
-    }, 
-    "primary_type": "STALKING", 
-    "beat": "1232", 
+    "y_coordinate": "1899937", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "580", 
+    "case_number": "HW352832", 
+    "id": "9207013", 
+    "primary_type": "STALKING", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65483432983613, 
-            41.88112694396887
+            -87.65482523008718, 
+            41.88094577009531
         ]
     }, 
-    "case_number": "HW352832", 
+    "community_area": "28", 
+    "latitude": "41.88094577009531", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1232", 
     "date": {
         "$date": 1372465080000
     }, 
-    "updated_on": {
-        "$date": 1373330420000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "51dc2ca5018e783f00ab993e"
+    }, 
+    "iucr": "580", 
+    "longitude": "-87.65482523008718", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1169021", 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9207013", 
-    "block": "0000X S ABERDEEN ST", 
-    "description": "SIMPLE"
+    "block": "0000X S ABERDEEN ST"
 }
