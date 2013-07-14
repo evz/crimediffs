@@ -1,0 +1,33 @@
+{
+    "community_area": "4", 
+    "_id": {
+        "$oid": "51dc2c9a018e783f00ab9687"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "2012", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6893874638689, 
+            41.97813385314304
+        ]
+    }, 
+    "case_number": "HW344619", 
+    "date": {
+        "$date": 1372716000000
+    }, 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
+    "ward": "40", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9207213", 
+    "block": "053XX N WESTERN AVE", 
+    "description": "TO VEHICLE"
+}
