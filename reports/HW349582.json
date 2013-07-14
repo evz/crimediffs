@@ -1,0 +1,33 @@
+{
+    "community_area": "51", 
+    "_id": {
+        "$oid": "51e17298018e783f00aba5f6"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0431", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "630", 
+    "arrest": false, 
+    "location_description": "SCHOOL, PRIVATE, BUILDING", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56734171673246, 
+            41.71637835243923
+        ]
+    }, 
+    "case_number": "HW349582", 
+    "date": {
+        "$date": 1373040000000
+    }, 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "ward": "7", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9205173", 
+    "block": "023XX E 98TH ST", 
+    "description": "ATTEMPT FORCIBLE ENTRY"
+}
