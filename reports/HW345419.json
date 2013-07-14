@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1900307", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW345419", 
+    "id": "9200134", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63397247237505, 
+            41.88183604194783
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88183604194783", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0122", 
+    "date": {
+        "$date": 1372792500000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51dd7e21018e783f00ab9a8e"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.63397247237505", 
+    "location_description": "DRUG STORE", 
+    "x_coordinate": "1174697", 
+    "updated_on": {
+        "$date": 1372984938000
+    }, 
+    "fbi_code": "06", 
+    "block": "002XX W MADISON ST"
+}
