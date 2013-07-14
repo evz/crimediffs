@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1898351", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW346879", 
+    "id": "9201710", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65806194048595, 
+            41.87661247483253
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.87661247483253", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1231", 
+    "date": {
+        "$date": 1372878000000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51decf9b018e783f00ab9e02"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.65806194048595", 
+    "location_description": "STREET", 
+    "x_coordinate": "1168152", 
+    "updated_on": {
+        "$date": 1373071180000
+    }, 
+    "fbi_code": "06", 
+    "block": "012XX W VAN BUREN ST"
+}
