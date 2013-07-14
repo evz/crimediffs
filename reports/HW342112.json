@@ -1,0 +1,33 @@
+{
+    "community_area": "10", 
+    "_id": {
+        "$oid": "51dadb16018e783f00ab91ab"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1612", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.8221372788158, 
+            41.98657606208438
+        ]
+    }, 
+    "case_number": "HW342112", 
+    "date": {
+        "$date": 1372595400000
+    }, 
+    "updated_on": {
+        "$date": 1372812143000
+    }, 
+    "ward": "41", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9197030", 
+    "block": "078XX W THORNDALE AVE", 
+    "description": "FORCIBLE ENTRY"
+}
