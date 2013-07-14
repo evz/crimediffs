@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "51dd7e2f018e783f00ab9c8e"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "0414", 
+    "y_coordinate": "1853212", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW354715", 
+    "id": "9208532", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "RESIDENCE-GARAGE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.58227484189469, 
-            41.75316283825693
+            -87.58195912941294, 
+            41.75226613230513
         ]
     }, 
-    "case_number": "HW354715", 
+    "community_area": "43", 
+    "latitude": "41.75226613230513", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0414", 
     "date": {
         "$date": 1372334400000
     }, 
-    "updated_on": {
-        "$date": 1373416728000
-    }, 
     "ward": "8", 
+    "_id": {
+        "$oid": "51dd7e2f018e783f00ab9c8e"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.58195912941294", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1189274", 
+    "updated_on": {
+        "$date": 1373589638000
+    }, 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9208532", 
-    "block": "078XX S RIDGELAND AVE", 
-    "description": "AUTOMOBILE"
+    "block": "078XX S RIDGELAND AVE"
 }
