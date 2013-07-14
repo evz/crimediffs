@@ -1,33 +1,38 @@
 {
-    "community_area": "23", 
-    "_id": {
-        "$oid": "51dc2c9c018e783f00ab9724"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2535", 
+    "y_coordinate": "1909976", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW353040", 
+    "id": "9206952", 
+    "primary_type": "THEFT", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72054837444486, 
-            41.908313122252956
+            -87.72056514074782, 
+            41.908864802950305
         ]
     }, 
-    "case_number": "HW353040", 
+    "community_area": "23", 
+    "latitude": "41.908864802950305", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2535", 
     "date": {
         "$date": 1372705200000
     }, 
-    "updated_on": {
-        "$date": 1373330420000
-    }, 
     "ward": "26", 
+    "_id": {
+        "$oid": "51dc2c9c018e783f00ab9724"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.72056514074782", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1151046", 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9206952", 
-    "block": "015XX N RIDGEWAY AVE", 
-    "description": "$500 AND UNDER"
+    "block": "015XX N RIDGEWAY AVE"
 }
