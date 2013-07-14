@@ -1,33 +1,38 @@
 {
-    "community_area": "1", 
-    "_id": {
-        "$oid": "51dc2cab018e783f00ab9947"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2431", 
+    "y_coordinate": "1945415", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW353549", 
+    "id": "9207524", 
+    "primary_type": "THEFT", 
+    "district": "024", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66511569539777, 
-            42.00580478385872
+            -87.66511198759518, 
+            42.00580750646003
         ]
     }, 
-    "case_number": "HW353549", 
+    "community_area": "1", 
+    "latitude": "42.00580750646003", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "2431", 
     "date": {
         "$date": 1372201200000
     }, 
-    "updated_on": {
-        "$date": 1373330420000
-    }, 
     "ward": "49", 
+    "_id": {
+        "$oid": "51dc2cab018e783f00ab9947"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.66511198759518", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1165865", 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9207524", 
-    "block": "068XX N WAYNE AVE", 
-    "description": "FROM BUILDING"
+    "block": "068XX N WAYNE AVE"
 }
