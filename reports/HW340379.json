@@ -1,0 +1,33 @@
+{
+    "community_area": "67", 
+    "_id": {
+        "$oid": "51dadb1d018e783f00ab957b"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0714", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66693179279217, 
+            41.78512646522775
+        ]
+    }, 
+    "case_number": "HW340379", 
+    "date": {
+        "$date": 1372497900000
+    }, 
+    "updated_on": {
+        "$date": 1373071180000
+    }, 
+    "ward": "15", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9197917", 
+    "block": "059XX S PAULINA ST", 
+    "description": "TO PROPERTY"
+}
