@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "51e1729f018e783f00aba758"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0331", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57000203177854, 
+            41.76918273382828
+        ]
+    }, 
+    "case_number": "HW359248", 
+    "date": {
+        "$date": 1372878000000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "5", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9213488", 
+    "block": "069XX S CRANDON AVE", 
+    "description": "FROM BUILDING"
+}
