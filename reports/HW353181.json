@@ -1,0 +1,33 @@
+{
+    "community_area": "3", 
+    "_id": {
+        "$oid": "51e02122018e783f00aba3f7"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1914", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "420", 
+    "arrest": false, 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.652399, 
+            41.965766
+        ]
+    }, 
+    "case_number": "HW353181", 
+    "date": {
+        "$date": 1372903200000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "46", 
+    "fbi_code": "04B", 
+    "type": "violent", 
+    "id": "9211073", 
+    "block": "009XX W WILSON AVE", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR"
+}
