@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1863174", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW347960", 
+    "id": "9202706", 
+    "primary_type": "ROBBERY", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6385305811217, 
+            41.77996085342922
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.77996085342922", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0711", 
+    "date": {
+        "$date": 1372956000000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51e0211f018e783f00aba289"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.6385305811217", 
+    "location_description": "STREET", 
+    "x_coordinate": "1173756", 
+    "updated_on": {
+        "$date": 1373589638000
+    }, 
+    "fbi_code": "03", 
+    "block": "005XX W 63RD ST"
+}
