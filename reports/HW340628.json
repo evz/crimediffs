@@ -1,0 +1,33 @@
+{
+    "community_area": "19", 
+    "_id": {
+        "$oid": "51dadb1d018e783f00ab9545"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "2521", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "460", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75213068946174, 
+            41.93591138725871
+        ]
+    }, 
+    "case_number": "HW340628", 
+    "date": {
+        "$date": 1372505400000
+    }, 
+    "updated_on": {
+        "$date": 1372898415000
+    }, 
+    "ward": "31", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9198833", 
+    "block": "050XX W NELSON ST", 
+    "description": "SIMPLE"
+}
