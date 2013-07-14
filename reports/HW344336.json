@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1901543", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW344336", 
+    "id": "9198759", 
+    "primary_type": "ASSAULT", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62778098746112, 
+            41.88519005144897
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88519005144897", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0111", 
+    "date": {
+        "$date": 1372728300000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51dc2c98018e783f00ab9610"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.62778098746112", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1176373", 
+    "updated_on": {
+        "$date": 1372898415000
+    }, 
+    "fbi_code": "08A", 
+    "block": "001XX N STATE ST"
+}
