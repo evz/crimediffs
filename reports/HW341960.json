@@ -1,0 +1,33 @@
+{
+    "community_area": "1", 
+    "_id": {
+        "$oid": "51dadb1a018e783f00ab93b9"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "2424", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68149001648713, 
+            42.018642924737215
+        ]
+    }, 
+    "case_number": "HW341960", 
+    "date": {
+        "$date": 1372538700000
+    }, 
+    "updated_on": {
+        "$date": 1372898415000
+    }, 
+    "ward": "49", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9198465", 
+    "block": "075XX N SEELEY AVE", 
+    "description": "TO VEHICLE"
+}
