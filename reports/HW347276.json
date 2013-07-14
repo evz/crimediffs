@@ -1,0 +1,33 @@
+{
+    "community_area": "2", 
+    "_id": {
+        "$oid": "51decf94018e783f00ab9cd6"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "2413", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "031A", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70423777717888, 
+            41.994231327546636
+        ]
+    }, 
+    "case_number": "HW347276", 
+    "date": {
+        "$date": 1372904400000
+    }, 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "ward": "50", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9206417", 
+    "block": "062XX N SACRAMENTO AVE", 
+    "description": "ARMED: HANDGUN"
+}
