@@ -1,0 +1,33 @@
+{
+    "community_area": "2", 
+    "_id": {
+        "$oid": "51dd7e22018e783f00ab9b17"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "2413", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2820", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68260495124326, 
+            41.99554869229988
+        ]
+    }, 
+    "case_number": "HW346073", 
+    "date": {
+        "$date": 1372780800000
+    }, 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "ward": "50", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9205748", 
+    "block": "062XX N HOYNE AVE", 
+    "description": "TELEPHONE THREAT"
+}
