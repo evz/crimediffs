@@ -1,0 +1,33 @@
+{
+    "community_area": "50", 
+    "_id": {
+        "$oid": "51e17294018e783f00aba4e4"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0512", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60281123899675, 
+            41.702838312725845
+        ]
+    }, 
+    "case_number": "HW349973", 
+    "date": {
+        "$date": 1373063040000
+    }, 
+    "updated_on": {
+        "$date": 1373589638000
+    }, 
+    "ward": "9", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9204734", 
+    "block": "105XX S MARYLAND AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
