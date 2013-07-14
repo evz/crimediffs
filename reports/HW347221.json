@@ -1,0 +1,33 @@
+{
+    "community_area": "22", 
+    "_id": {
+        "$oid": "51decf97018e783f00ab9d17"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1434", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "430", 
+    "arrest": false, 
+    "location_description": "ALLEY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68722976243727, 
+            41.916135406280226
+        ]
+    }, 
+    "case_number": "HW347221", 
+    "date": {
+        "$date": 1372898100000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "1", 
+    "fbi_code": "04B", 
+    "type": "violent", 
+    "id": "9205526", 
+    "block": "019XX N WESTERN AVE", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON"
+}
