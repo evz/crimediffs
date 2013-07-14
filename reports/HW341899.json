@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "51dadb16018e783f00ab91c2"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1512", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76758667662119, 
+            41.88791231566225
+        ]
+    }, 
+    "case_number": "HW341899", 
+    "date": {
+        "$date": 1372593000000
+    }, 
+    "updated_on": {
+        "$date": 1373157603000
+    }, 
+    "ward": "29", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9196869", 
+    "block": "056XX W LAKE ST", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
