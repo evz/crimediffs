@@ -1,0 +1,33 @@
+{
+    "community_area": "53", 
+    "_id": {
+        "$oid": "51dadb1c018e783f00ab94fb"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0524", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65010304734413, 
+            41.67195082090041
+        ]
+    }, 
+    "case_number": "HW340647", 
+    "date": {
+        "$date": 1372511700000
+    }, 
+    "updated_on": {
+        "$date": 1372898415000
+    }, 
+    "ward": "34", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9197937", 
+    "block": "122XX S MAY ST", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
