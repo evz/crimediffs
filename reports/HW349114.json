@@ -1,0 +1,33 @@
+{
+    "community_area": "55", 
+    "_id": {
+        "$oid": "51e0211d018e783f00aba1c3"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0433", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.53731618563573, 
+            41.65327976123114
+        ]
+    }, 
+    "case_number": "HW349114", 
+    "date": {
+        "$date": 1372971600000
+    }, 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
+    "ward": "10", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9207624", 
+    "block": "133XX S AVENUE M", 
+    "description": "$500 AND UNDER"
+}
