@@ -1,15 +1,12 @@
 {
-    "community_area": "28", 
-    "_id": {
-        "$oid": "51dc2ca5018e783f00ab993d"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "0121", 
+    "y_coordinate": "1901658", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1345", 
+    "case_number": "HW353261", 
+    "id": "9207346", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "CTA GARAGE / OTHER PROPERTY", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.88559496881976
         ]
     }, 
-    "case_number": "HW353261", 
+    "community_area": "28", 
+    "latitude": "41.88559496881976", 
+    "type": "quality", 
+    "description": "TO CITY OF CHICAGO PROPERTY", 
+    "beat": "0121", 
     "date": {
         "$date": 1372477980000
     }, 
-    "updated_on": {
-        "$date": 1373330420000
-    }, 
     "ward": "42", 
+    "_id": {
+        "$oid": "51dc2ca5018e783f00ab993d"
+    }, 
+    "iucr": "1345", 
+    "longitude": "-87.64247348698203", 
+    "location_description": "CTA GARAGE / OTHER PROPERTY", 
+    "x_coordinate": "1172371", 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9207346", 
-    "block": "005XX W LAKE ST", 
-    "description": "TO CITY OF CHICAGO PROPERTY"
+    "block": "005XX W LAKE ST"
 }
