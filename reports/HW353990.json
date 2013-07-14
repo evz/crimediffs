@@ -1,33 +1,38 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "51dc2ca0018e783f00ab98cc"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0512", 
+    "y_coordinate": "1835723", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW353990", 
+    "id": "9207797", 
+    "primary_type": "THEFT", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61232319103136, 
-            41.70431720226171
+            -87.61261814266412, 
+            41.70446724600951
         ]
     }, 
-    "case_number": "HW353990", 
+    "community_area": "49", 
+    "latitude": "41.70446724600951", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0512", 
     "date": {
         "$date": 1372669200000
     }, 
-    "updated_on": {
-        "$date": 1373330420000
-    }, 
     "ward": "9", 
+    "_id": {
+        "$oid": "51dc2ca0018e783f00ab98cc"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.61261814266412", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1181054", 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9207797", 
-    "block": "104XX S VERNON AVE", 
-    "description": "OVER $500"
+    "block": "104XX S VERNON AVE"
 }
