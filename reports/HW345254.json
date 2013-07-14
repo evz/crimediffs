@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1859040", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW345254", 
+    "id": "9201669", 
+    "primary_type": "ROBBERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64464974123158, 
+            41.768652787757404
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.768652787757404", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0733", 
+    "date": {
+        "$date": 1372785000000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51dd7e22018e783f00ab9aed"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.64464974123158", 
+    "location_description": "STREET", 
+    "x_coordinate": "1172120", 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "fbi_code": "03", 
+    "block": "069XX S HALSTED ST"
+}
