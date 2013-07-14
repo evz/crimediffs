@@ -1,0 +1,33 @@
+{
+    "community_area": "41", 
+    "_id": {
+        "$oid": "51dadb1a018e783f00ab93aa"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0235", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59084508352593, 
+            41.787969510954866
+        ]
+    }, 
+    "case_number": "HW341967", 
+    "date": {
+        "$date": 1372539600000
+    }, 
+    "updated_on": {
+        "$date": 1372812143000
+    }, 
+    "ward": "5", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9197775", 
+    "block": "014XX E 59TH ST", 
+    "description": "OVER $500"
+}
