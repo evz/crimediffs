@@ -1,0 +1,33 @@
+{
+    "community_area": "24", 
+    "_id": {
+        "$oid": "51d6e693018e783f00ab89cf"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "1423", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "320", 
+    "arrest": false, 
+    "location_description": "PARK PROPERTY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69713789802647, 
+            41.91032356353209
+        ]
+    }, 
+    "case_number": "HW338258", 
+    "date": {
+        "$date": 1372356000000
+    }, 
+    "updated_on": {
+        "$date": 1372898415000
+    }, 
+    "ward": "26", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9198305", 
+    "block": "028XX W NORTH AVE", 
+    "description": "STRONGARM - NO WEAPON"
+}
