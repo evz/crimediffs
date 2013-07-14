@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "51e172a7018e783f00aba76e"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "0513", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2024", 
+    "arrest": false, 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62093986536608, 
+            41.69437884516273
+        ]
+    }, 
+    "case_number": "HW340460", 
+    "date": {
+        "$date": 1372501753000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "9", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9212856", 
+    "block": "110XX S MICHIGAN AVE", 
+    "description": "POSS: HEROIN(WHITE)"
+}
