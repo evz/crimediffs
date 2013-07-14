@@ -1,33 +1,38 @@
 {
-    "community_area": "75", 
-    "_id": {
-        "$oid": "51dd7e2b018e783f00ab9c86"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "2212", 
+    "y_coordinate": "1830930", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2826", 
+    "case_number": "HW354932", 
+    "id": "9208723", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6776850641519, 
-            41.69193384239497
+            -87.67820362620235, 
+            41.691706275537335
         ]
     }, 
-    "case_number": "HW354932", 
+    "community_area": "75", 
+    "latitude": "41.691706275537335", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "2212", 
     "date": {
         "$date": 1372518000000
     }, 
-    "updated_on": {
-        "$date": 1373416728000
-    }, 
     "ward": "19", 
+    "_id": {
+        "$oid": "51dd7e2b018e783f00ab9c86"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.67820362620235", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1163180", 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9208723", 
-    "block": "022XX W 111TH ST", 
-    "description": "HARASSMENT BY ELECTRONIC MEANS"
+    "block": "022XX W 111TH ST"
 }
