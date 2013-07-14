@@ -1,0 +1,33 @@
+{
+    "community_area": "26", 
+    "_id": {
+        "$oid": "51e1729a018e783f00aba69b"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1132", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "VACANT LOT/LAND", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7302766, 
+            41.87165960000001
+        ]
+    }, 
+    "case_number": "HW358574", 
+    "date": {
+        "$date": 1373025600000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "24", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9212370", 
+    "block": "042XX W FIFTH AVE", 
+    "description": "OVER $500"
+}
