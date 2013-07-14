@@ -1,33 +1,38 @@
 {
-    "community_area": "7", 
-    "_id": {
-        "$oid": "51dc2cab018e783f00ab9948"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "1935", 
+    "y_coordinate": "1918587", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1310", 
+    "case_number": "HW353141", 
+    "id": "9207117", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "RESTAURANT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64454112209384, 
-            41.932064463756454
+            -87.64453744726302, 
+            41.932064441711105
         ]
     }, 
-    "case_number": "HW353141", 
+    "community_area": "7", 
+    "latitude": "41.932064441711105", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1935", 
     "date": {
         "$date": 1372194000000
     }, 
-    "updated_on": {
-        "$date": 1373330420000
-    }, 
     "ward": "43", 
+    "_id": {
+        "$oid": "51dc2cab018e783f00ab9948"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.64453744726302", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1171673", 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9207117", 
-    "block": "027XX N CLARK ST", 
-    "description": "TO PROPERTY"
+    "block": "027XX N CLARK ST"
 }
