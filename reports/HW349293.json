@@ -1,0 +1,33 @@
+{
+    "community_area": "53", 
+    "_id": {
+        "$oid": "51e1729b018e783f00aba6ea"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0524", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64036482965274, 
+            41.677938299965646
+        ]
+    }, 
+    "case_number": "HW349293", 
+    "date": {
+        "$date": 1373018400000
+    }, 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "ward": "34", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9205325", 
+    "block": "007XX W 119TH ST", 
+    "description": "OVER $500"
+}
