@@ -1,33 +1,38 @@
 {
-    "community_area": "71", 
-    "_id": {
-        "$oid": "51dc2ca7018e783f00ab9942"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0621", 
+    "y_coordinate": "1853285", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW353339", 
+    "id": "9207693", 
+    "primary_type": "BATTERY", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64302662659428, 
-            41.75284685489773
+            -87.64302659719158, 
+            41.752849599024984
         ]
     }, 
-    "case_number": "HW353339", 
+    "community_area": "71", 
+    "latitude": "41.752849599024984", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0621", 
     "date": {
         "$date": 1372406400000
     }, 
-    "updated_on": {
-        "$date": 1373330420000
-    }, 
     "ward": "17", 
+    "_id": {
+        "$oid": "51dc2ca7018e783f00ab9942"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.64302659719158", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1172609", 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9207693", 
-    "block": "077XX S EMERALD AVE", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "077XX S EMERALD AVE"
 }
