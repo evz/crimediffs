@@ -1,0 +1,33 @@
+{
+    "community_area": "22", 
+    "_id": {
+        "$oid": "51decf97018e783f00ab9d3a"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "1421", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70146433647379, 
+            41.91381067338032
+        ]
+    }, 
+    "case_number": "HW347662", 
+    "date": {
+        "$date": 1372896000000
+    }, 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "ward": "35", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9204672", 
+    "block": "029XX W BLOOMINGDALE AVE", 
+    "description": "AUTOMOBILE"
+}
