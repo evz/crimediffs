@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "51e17298018e783f00aba60a"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0631", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "496", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61622256599037, 
+            41.744573266676774
+        ]
+    }, 
+    "case_number": "HW349496", 
+    "date": {
+        "$date": 1373037600000
+    }, 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "ward": "6", 
+    "fbi_code": "04B", 
+    "type": "violent", 
+    "id": "9204625", 
+    "block": "082XX S CALUMET AVE", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: KNIFE/CUTTING INST"
+}
