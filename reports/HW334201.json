@@ -1,0 +1,33 @@
+{
+    "community_area": "22", 
+    "_id": {
+        "$oid": "51dd7e34018e783f00ab9c93"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1431", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "BAR OR TAVERN", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68750066058958, 
+            41.92497883086561
+        ]
+    }, 
+    "case_number": "HW334201", 
+    "date": {
+        "$date": 1372125600000
+    }, 
+    "updated_on": {
+        "$date": 1373589638000
+    }, 
+    "ward": "1", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9208301", 
+    "block": "024XX N WESTERN AVE", 
+    "description": "FORCIBLE ENTRY"
+}
