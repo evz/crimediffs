@@ -1,0 +1,33 @@
+{
+    "community_area": "69", 
+    "_id": {
+        "$oid": "51e17298018e783f00aba614"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "0624", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "520", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6050889178252, 
+            41.751177385690674
+        ]
+    }, 
+    "case_number": "HW349469", 
+    "date": {
+        "$date": 1373037000000
+    }, 
+    "updated_on": {
+        "$date": 1373244025000
+    }, 
+    "ward": "6", 
+    "fbi_code": "04A", 
+    "type": "violent", 
+    "id": "9204441", 
+    "block": "008XX E 79TH ST", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR"
+}
