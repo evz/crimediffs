@@ -1,0 +1,33 @@
+{
+    "community_area": "46", 
+    "_id": {
+        "$oid": "51dadb1c018e783f00ab948a"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0412", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "RESIDENCE-GARAGE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56745201731565, 
+            41.74194233308757
+        ]
+    }, 
+    "case_number": "HW341056", 
+    "date": {
+        "$date": 1372521600000
+    }, 
+    "updated_on": {
+        "$date": 1373071180000
+    }, 
+    "ward": "8", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9201485", 
+    "block": "084XX S OGLESBY AVE", 
+    "description": "FORCIBLE ENTRY"
+}
