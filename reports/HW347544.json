@@ -1,0 +1,33 @@
+{
+    "community_area": "53", 
+    "_id": {
+        "$oid": "51decf95018e783f00ab9ce1"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0532", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61625304888841, 
+            41.67823222544231
+        ]
+    }, 
+    "case_number": "HW347544", 
+    "date": {
+        "$date": 1372903200000
+    }, 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
+    "ward": "9", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9208292", 
+    "block": "003XX E 119TH ST", 
+    "description": "OVER $500"
+}
