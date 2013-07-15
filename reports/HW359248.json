@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "51e1729f018e783f00aba758"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0331", 
+    "y_coordinate": "1859369", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW359248", 
+    "id": "9213488", 
+    "primary_type": "THEFT", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.57000203177854, 
-            41.76918273382828
+            -87.56999587200299, 
+            41.76908389842051
         ]
     }, 
-    "case_number": "HW359248", 
+    "community_area": "43", 
+    "latitude": "41.76908389842051", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0331", 
     "date": {
         "$date": 1372878000000
     }, 
-    "updated_on": {
-        "$date": 1373675960000
-    }, 
     "ward": "5", 
+    "_id": {
+        "$oid": "51e1729f018e783f00aba758"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.56999587200299", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1192484", 
+    "updated_on": {
+        "$date": 1373848785000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9213488", 
-    "block": "069XX S CRANDON AVE", 
-    "description": "FROM BUILDING"
+    "block": "069XX S CRANDON AVE"
 }
