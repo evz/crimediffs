@@ -1,0 +1,33 @@
+{
+    "community_area": "13", 
+    "_id": {
+        "$oid": "51e4159f018e783f00abaad1"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "1711", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "GAS STATION", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70940251637796, 
+            41.98444627038958
+        ]
+    }, 
+    "case_number": "HW351433", 
+    "date": {
+        "$date": 1373166000000
+    }, 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "ward": "40", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9206503", 
+    "block": "056XX N JERSEY AVE", 
+    "description": "TO PROPERTY"
+}
