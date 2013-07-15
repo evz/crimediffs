@@ -1,0 +1,33 @@
+{
+    "community_area": "1", 
+    "_id": {
+        "$oid": "51e41593018e783f00aba7ee"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "2422", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66964563042455, 
+            42.019541001490985
+        ]
+    }, 
+    "case_number": "HW352624", 
+    "date": {
+        "$date": 1373241660000
+    }, 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
+    "ward": "49", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9207530", 
+    "block": "076XX N BOSWORTH AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
