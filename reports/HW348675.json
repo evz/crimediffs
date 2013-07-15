@@ -4,7 +4,7 @@
     "domestic": true, 
     "case_number": "HW348675", 
     "id": "9203226", 
-    "primary_type": "ARSON", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
     "district": "015", 
     "arrest": false, 
     "location": {
@@ -16,8 +16,8 @@
     }, 
     "community_area": "25", 
     "latitude": "41.883836323083344", 
-    "type": "property", 
-    "description": "ATTEMPT ARSON", 
+    "type": null, 
+    "description": "RECKLESS CONDUCT", 
     "beat": "1523", 
     "date": {
         "$date": 1372998600000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "51e02117018e783f00aba029"
     }, 
-    "iucr": "1090", 
+    "iucr": "470", 
     "longitude": "-87.75749072779432", 
     "location_description": "APARTMENT", 
     "x_coordinate": "1141056", 
     "updated_on": {
-        "$date": 1373157603000
+        "$date": 1373848785000
     }, 
-    "fbi_code": "09", 
+    "fbi_code": "24", 
     "block": "001XX N LOCKWOOD AVE"
 }
