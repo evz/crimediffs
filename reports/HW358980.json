@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "51e172a2018e783f00aba75f"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0421", 
+    "y_coordinate": "1854458", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1185", 
+    "case_number": "HW358980", 
+    "id": "9213013", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.56082536717989, 
-            41.7555398862381
+            -87.56048082186167, 
+            41.75554305767898
         ]
     }, 
-    "case_number": "HW358980", 
+    "community_area": "43", 
+    "latitude": "41.75554305767898", 
+    "type": null, 
+    "description": "DECEPTIVE COLLECTION PRACTICES", 
+    "beat": "0421", 
     "date": {
         "$date": 1372759200000
     }, 
-    "updated_on": {
-        "$date": 1373675960000
-    }, 
     "ward": "7", 
+    "_id": {
+        "$oid": "51e172a2018e783f00aba75f"
+    }, 
+    "iucr": "1185", 
+    "longitude": "-87.56048082186167", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1195124", 
+    "updated_on": {
+        "$date": 1373762389000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9213013", 
-    "block": "026XX E 77TH ST", 
-    "description": "DECEPTIVE COLLECTION PRACTICES"
+    "block": "026XX E 77TH ST"
 }
