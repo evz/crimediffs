@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "51e41595018e783f00aba856"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "1522", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "5002", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76142282954228, 
+            41.88105958220369
+        ]
+    }, 
+    "case_number": "HW352802", 
+    "date": {
+        "$date": 1373234400000
+    }, 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
+    "ward": "28", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9207182", 
+    "block": "0000X N LOTUS AVE", 
+    "description": "OTHER VEHICLE OFFENSE"
+}
