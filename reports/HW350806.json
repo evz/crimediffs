@@ -1,0 +1,33 @@
+{
+    "community_area": "16", 
+    "_id": {
+        "$oid": "51e415a4018e783f00abacc4"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1722", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73283346529259, 
+            41.960400267294965
+        ]
+    }, 
+    "case_number": "HW350806", 
+    "date": {
+        "$date": 1373125380000
+    }, 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "ward": "38", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9205397", 
+    "block": "043XX N KEELER AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
