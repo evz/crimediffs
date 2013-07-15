@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "51e415a6018e783f00abadc9"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0511", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61758992481393, 
+            41.70788756016536
+        ]
+    }, 
+    "case_number": "HW350816", 
+    "date": {
+        "$date": 1373101200000
+    }, 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "ward": "9", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9206182", 
+    "block": "102XX S PRAIRIE AVE", 
+    "description": "$500 AND UNDER"
+}
