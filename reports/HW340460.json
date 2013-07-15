@@ -1,33 +1,38 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "51e172a7018e783f00aba76e"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "0513", 
+    "y_coordinate": "1831768", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2024", 
+    "case_number": "HW340460", 
+    "id": "9212856", 
+    "primary_type": "NARCOTICS", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62093986536608, 
-            41.69437884516273
+            -87.62076467779269, 
+            41.69366423320061
         ]
     }, 
-    "case_number": "HW340460", 
+    "community_area": "49", 
+    "latitude": "41.69366423320061", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "0513", 
     "date": {
         "$date": 1372501753000
     }, 
-    "updated_on": {
-        "$date": 1373675960000
-    }, 
     "ward": "9", 
+    "_id": {
+        "$oid": "51e172a7018e783f00aba76e"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.62076467779269", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1178862", 
+    "updated_on": {
+        "$date": 1373762389000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9212856", 
-    "block": "110XX S MICHIGAN AVE", 
-    "description": "POSS: HEROIN(WHITE)"
+    "block": "110XX S MICHIGAN AVE"
 }
