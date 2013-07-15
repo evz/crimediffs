@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1873900", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW350425", 
+    "id": "9204814", 
+    "primary_type": "ROBBERY", 
+    "district": "002", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61400151353156, 
+            41.80924505651175
+        ]
+    }, 
+    "community_area": "38", 
+    "latitude": "41.80924505651175", 
+    "type": "violent", 
+    "description": "ATTEMPT: STRONGARM-NO WEAPON", 
+    "beat": "0223", 
+    "date": {
+        "$date": 1373103000000
+    }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51e415a6018e783f00abadc0"
+    }, 
+    "iucr": "340", 
+    "longitude": "-87.61400151353156", 
+    "location_description": "STREET", 
+    "x_coordinate": "1180357", 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "fbi_code": "03", 
+    "block": "047XX S VINCENNES AVE"
+}
