@@ -1,33 +1,38 @@
 {
-    "community_area": "23", 
-    "_id": {
-        "$oid": "51e172a9018e783f00aba770"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "1421", 
+    "y_coordinate": "1910520", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "5002", 
+    "case_number": "HW358829", 
+    "id": "9212876", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70233310696668, 
-            41.910280879610134
+            -87.70381746704233, 
+            41.91026707297284
         ]
     }, 
-    "case_number": "HW358829", 
+    "community_area": "23", 
+    "latitude": "41.91026707297284", 
+    "type": null, 
+    "description": "OTHER VEHICLE OFFENSE", 
+    "beat": "1421", 
     "date": {
         "$date": 1372420800000
     }, 
-    "updated_on": {
-        "$date": 1373675960000
-    }, 
     "ward": "26", 
+    "_id": {
+        "$oid": "51e172a9018e783f00aba770"
+    }, 
+    "iucr": "5002", 
+    "longitude": "-87.70381746704233", 
+    "location_description": "STREET", 
+    "x_coordinate": "1155601", 
+    "updated_on": {
+        "$date": 1373762389000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9212876", 
-    "block": "030XX W NORTH AVE", 
-    "description": "OTHER VEHICLE OFFENSE"
+    "block": "030XX W NORTH AVE"
 }
