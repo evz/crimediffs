@@ -1,33 +1,38 @@
 {
-    "community_area": "33", 
-    "_id": {
-        "$oid": "51e1729f018e783f00aba757"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0132", 
+    "y_coordinate": "1893008", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "4387", 
+    "case_number": "HW359088", 
+    "id": "9213407", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "SPORTS ARENA/STADIUM", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61009183108389, 
-            41.861679832696105
+            -87.6097690507638, 
+            41.86165584555428
         ]
     }, 
-    "case_number": "HW359088", 
+    "community_area": "33", 
+    "latitude": "41.86165584555428", 
+    "type": null, 
+    "description": "VIOLATE ORDER OF PROTECTION", 
+    "beat": "0132", 
     "date": {
         "$date": 1372881600000
     }, 
-    "updated_on": {
-        "$date": 1373675960000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "51e1729f018e783f00aba757"
+    }, 
+    "iucr": "4387", 
+    "longitude": "-87.6097690507638", 
+    "location_description": "SPORTS ARENA/STADIUM", 
+    "x_coordinate": "1181350", 
+    "updated_on": {
+        "$date": 1373848785000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9213407", 
-    "block": "014XX S LYNN WHITE DR", 
-    "description": "VIOLATE ORDER OF PROTECTION"
+    "block": "014XX S LYNN WHITE DR"
 }
