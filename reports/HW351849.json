@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "51e4159b018e783f00aba9ea"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "1524", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "CONVENIENCE STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7580586, 
+            41.8949171
+        ]
+    }, 
+    "case_number": "HW351849", 
+    "date": {
+        "$date": 1373200800000
+    }, 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "ward": "37", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9206066", 
+    "block": "053XX W CHICAGO AVE", 
+    "description": "TO PROPERTY"
+}
