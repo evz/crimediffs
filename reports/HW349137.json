@@ -6,7 +6,7 @@
     "id": "9203714", 
     "primary_type": "OTHER OFFENSE", 
     "district": "007", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "STREET", 
     "x_coordinate": "1165195", 
     "updated_on": {
-        "$date": 1373675960000
+        "$date": 1373848785000
     }, 
     "fbi_code": "26", 
     "block": "066XX S HONORE ST"
