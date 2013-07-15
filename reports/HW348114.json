@@ -6,7 +6,7 @@
     "id": "9202832", 
     "primary_type": "BATTERY", 
     "district": "006", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "PARK PROPERTY", 
     "x_coordinate": "1180159", 
     "updated_on": {
-        "$date": 1373675960000
+        "$date": 1373848785000
     }, 
     "fbi_code": "04B", 
     "block": "003XX E 85TH ST"
