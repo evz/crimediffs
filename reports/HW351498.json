@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "51e4159e018e783f00abaaad"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0331", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57645952255828, 
+            41.76650860801667
+        ]
+    }, 
+    "case_number": "HW351498", 
+    "date": {
+        "$date": 1373169600000
+    }, 
+    "updated_on": {
+        "$date": 1373848785000
+    }, 
+    "ward": "5", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9206602", 
+    "block": "070XX S JEFFERY BLVD", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
