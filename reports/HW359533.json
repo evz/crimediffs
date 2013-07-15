@@ -1,33 +1,38 @@
 {
-    "community_area": "6", 
-    "_id": {
-        "$oid": "51e17292018e783f00aba461"
-    }, 
-    "primary_type": "NON-CRIMINAL", 
-    "beat": "1925", 
+    "y_coordinate": "1925751", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "5093", 
+    "case_number": "HW359533", 
+    "id": "9213480", 
+    "primary_type": "NON-CRIMINAL", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "TAXICAB", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64649323989488, 
-            41.95186743472083
+            -87.64700561272285, 
+            41.95173877671989
         ]
     }, 
-    "case_number": "HW359533", 
+    "community_area": "6", 
+    "latitude": "41.95173877671989", 
+    "type": null, 
+    "description": "LOST PASSPORT", 
+    "beat": "1925", 
     "date": {
         "$date": 1373076000000
     }, 
-    "updated_on": {
-        "$date": 1373675960000
-    }, 
     "ward": "46", 
+    "_id": {
+        "$oid": "51e17292018e783f00aba461"
+    }, 
+    "iucr": "5093", 
+    "longitude": "-87.64700561272285", 
+    "location_description": "TAXICAB", 
+    "x_coordinate": "1170944", 
+    "updated_on": {
+        "$date": 1373762389000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9213480", 
-    "block": "006XX W GRACE ST", 
-    "description": "LOST PASSPORT"
+    "block": "006XX W GRACE ST"
 }
