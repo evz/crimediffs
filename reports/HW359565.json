@@ -1,33 +1,38 @@
 {
-    "community_area": "2", 
-    "_id": {
-        "$oid": "51e1729c018e783f00aba753"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "2011", 
+    "y_coordinate": "1937576", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1150", 
+    "case_number": "HW359565", 
+    "id": "9213452", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "020", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6918862, 
-            41.9831581
+            -87.69176608881278, 
+            41.984447851505685
         ]
     }, 
-    "case_number": "HW359565", 
+    "community_area": "2", 
+    "latitude": "41.984447851505685", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "2011", 
     "date": {
         "$date": 1372982460000
     }, 
-    "updated_on": {
-        "$date": 1373675960000
-    }, 
     "ward": "40", 
+    "_id": {
+        "$oid": "51e1729c018e783f00aba753"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.69176608881278", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1158679", 
+    "updated_on": {
+        "$date": 1373762389000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9213452", 
-    "block": "056XX N CAMPBELL AVE", 
-    "description": "CREDIT CARD FRAUD"
+    "block": "056XX N CAMPBELL AVE"
 }
