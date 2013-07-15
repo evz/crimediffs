@@ -1,0 +1,33 @@
+{
+    "community_area": "73", 
+    "_id": {
+        "$oid": "51e4159a018e783f00aba970"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2213", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "GAS STATION", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65357146129394, 
+            41.713822464338335
+        ]
+    }, 
+    "case_number": "HW352104", 
+    "date": {
+        "$date": 1373210100000
+    }, 
+    "updated_on": {
+        "$date": 1373848785000
+    }, 
+    "ward": "21", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9207030", 
+    "block": "099XX S VINCENNES AVE", 
+    "description": "$500 AND UNDER"
+}
