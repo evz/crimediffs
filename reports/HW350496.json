@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1852925", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW350496", 
+    "id": "9204893", 
+    "primary_type": "THEFT", 
+    "district": "004", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59135301706098, 
+            41.751539567131246
+        ]
+    }, 
+    "community_area": "45", 
+    "latitude": "41.751539567131246", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0411", 
+    "date": {
+        "$date": 1373109000000
+    }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51e415a6018e783f00abad76"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.59135301706098", 
+    "location_description": "DEPARTMENT STORE", 
+    "x_coordinate": "1186713", 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "fbi_code": "06", 
+    "block": "013XX E 79TH ST"
+}
