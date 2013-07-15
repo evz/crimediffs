@@ -1,0 +1,33 @@
+{
+    "community_area": "69", 
+    "_id": {
+        "$oid": "51e415a1018e783f00abab61"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0624", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60064727287453, 
+            41.757944034488155
+        ]
+    }, 
+    "case_number": "HW351316", 
+    "date": {
+        "$date": 1373153400000
+    }, 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
+    "ward": "8", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9208099", 
+    "block": "075XX S ELLIS AVE", 
+    "description": "TO PROPERTY"
+}
