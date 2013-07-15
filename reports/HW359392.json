@@ -1,15 +1,12 @@
 {
-    "community_area": "45", 
-    "_id": {
-        "$oid": "51e172a0018e783f00aba75d"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0412", 
+    "y_coordinate": "1849565", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1152", 
+    "case_number": "HW359392", 
+    "id": "9213297", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "BANK", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.74228346697516
         ]
     }, 
-    "case_number": "HW359392", 
+    "community_area": "45", 
+    "latitude": "41.74228346697516", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "0412", 
     "date": {
         "$date": 1372838400000
     }, 
-    "updated_on": {
-        "$date": 1373675960000
-    }, 
     "ward": "8", 
+    "_id": {
+        "$oid": "51e172a0018e783f00aba75d"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.58591562459054", 
+    "location_description": "BANK", 
+    "x_coordinate": "1188226", 
+    "updated_on": {
+        "$date": 1373762389000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9213297", 
-    "block": "084XX S STONY ISLAND AVE", 
-    "description": "ILLEGAL USE CASH CARD"
+    "block": "084XX S STONY ISLAND AVE"
 }
