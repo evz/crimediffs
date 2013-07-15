@@ -1,33 +1,38 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "51e172a0018e783f00aba75e"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "2233", 
+    "y_coordinate": "1834903", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1152", 
+    "case_number": "HW359769", 
+    "id": "9213545", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63681391721207, 
-            41.70306864603381
+            -87.63678854320392, 
+            41.70236594448424
         ]
     }, 
-    "case_number": "HW359769", 
+    "community_area": "49", 
+    "latitude": "41.70236594448424", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "2233", 
     "date": {
         "$date": 1372809600000
     }, 
-    "updated_on": {
-        "$date": 1373675960000
-    }, 
     "ward": "34", 
+    "_id": {
+        "$oid": "51e172a0018e783f00aba75e"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.63678854320392", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1174460", 
+    "updated_on": {
+        "$date": 1373762389000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9213545", 
-    "block": "105XX S PARNELL AVE", 
-    "description": "ILLEGAL USE CASH CARD"
+    "block": "105XX S PARNELL AVE"
 }
