@@ -1,0 +1,33 @@
+{
+    "community_area": "6", 
+    "_id": {
+        "$oid": "51e415a1018e783f00abab62"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1923", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.649772055805, 
+            41.950868901049496
+        ]
+    }, 
+    "case_number": "HW351532", 
+    "date": {
+        "$date": 1373153400000
+    }, 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
+    "ward": "46", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9206122", 
+    "block": "037XX N HALSTED ST", 
+    "description": "$500 AND UNDER"
+}
