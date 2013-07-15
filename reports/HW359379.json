@@ -1,0 +1,33 @@
+{
+    "community_area": "6", 
+    "_id": {
+        "$oid": "51e415ab018e783f00abae15"
+    }, 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "beat": "1934", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1150", 
+    "arrest": false, 
+    "location_description": "ATM (AUTOMATIC TELLER MACHINE)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64862427654452, 
+            41.937204108973056
+        ]
+    }, 
+    "case_number": "HW359379", 
+    "date": {
+        "$date": 1372915620000
+    }, 
+    "updated_on": {
+        "$date": 1373848785000
+    }, 
+    "ward": "44", 
+    "fbi_code": "11", 
+    "type": null, 
+    "id": "9214371", 
+    "block": "030XX N CLARK ST", 
+    "description": "CREDIT CARD FRAUD"
+}
