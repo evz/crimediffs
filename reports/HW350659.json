@@ -1,0 +1,33 @@
+{
+    "community_area": "24", 
+    "_id": {
+        "$oid": "51e415a4018e783f00abad02"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1424", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "CHA APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68191226114175, 
+            41.908284304056764
+        ]
+    }, 
+    "case_number": "HW350659", 
+    "date": {
+        "$date": 1373119800000
+    }, 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "ward": "32", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9205366", 
+    "block": "021XX W LE MOYNE ST", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
