@@ -1,0 +1,33 @@
+{
+    "community_area": "26", 
+    "_id": {
+        "$oid": "51e415a4018e783f00abacf0"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1122", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7210459066613, 
+            41.88430641349771
+        ]
+    }, 
+    "case_number": "HW350712", 
+    "date": {
+        "$date": 1373121360000
+    }, 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
+    "ward": "28", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9205320", 
+    "block": "002XX N HAMLIN BLVD", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
