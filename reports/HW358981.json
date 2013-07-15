@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "51e1729b018e783f00aba6e3"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0421", 
+    "y_coordinate": "1854459", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1130", 
+    "case_number": "HW358981", 
+    "id": "9213011", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.56082536717989, 
-            41.7555398862381
+            -87.56041116010606, 
+            41.75554533335762
         ]
     }, 
-    "case_number": "HW358981", 
+    "community_area": "43", 
+    "latitude": "41.75554533335762", 
+    "type": null, 
+    "description": "FRAUD OR CONFIDENCE GAME", 
+    "beat": "0421", 
     "date": {
         "$date": 1373018400000
     }, 
-    "updated_on": {
-        "$date": 1373675960000
-    }, 
     "ward": "7", 
+    "_id": {
+        "$oid": "51e1729b018e783f00aba6e3"
+    }, 
+    "iucr": "1130", 
+    "longitude": "-87.56041116010606", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1195143", 
+    "updated_on": {
+        "$date": 1373762389000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9213011", 
-    "block": "026XX E 77TH ST", 
-    "description": "FRAUD OR CONFIDENCE GAME"
+    "block": "026XX E 77TH ST"
 }
