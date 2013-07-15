@@ -6,7 +6,7 @@
     "id": "9201667", 
     "primary_type": "BURGLARY", 
     "district": "006", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "RESIDENCE", 
     "x_coordinate": "1177116", 
     "updated_on": {
-        "$date": 1373071180000
+        "$date": 1373848785000
     }, 
     "fbi_code": "05", 
     "block": "076XX S LAFAYETTE AVE"
