@@ -1,33 +1,38 @@
 {
-    "community_area": "31", 
-    "_id": {
-        "$oid": "51e172a4018e783f00aba769"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1234", 
+    "y_coordinate": "1891060", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "840", 
+    "case_number": "HW359615", 
+    "id": "9213406", 
+    "primary_type": "THEFT", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.68537947662317, 
-            41.8567477855489
+            -87.68482141496425, 
+            41.85675835705361
         ]
     }, 
-    "case_number": "HW359615", 
+    "community_area": "31", 
+    "latitude": "41.85675835705361", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "1234", 
     "date": {
         "$date": 1372665600000
     }, 
-    "updated_on": {
-        "$date": 1373675960000
-    }, 
     "ward": "25", 
+    "_id": {
+        "$oid": "51e172a4018e783f00aba769"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.68482141496425", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1160919", 
+    "updated_on": {
+        "$date": 1373762389000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9213406", 
-    "block": "023XX W 18TH PL", 
-    "description": "FINANCIAL ID THEFT: OVER $300"
+    "block": "023XX W 18TH PL"
 }
