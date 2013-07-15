@@ -1,0 +1,33 @@
+{
+    "community_area": "10", 
+    "_id": {
+        "$oid": "51e415a3018e783f00abac26"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1611", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "860", 
+    "arrest": false, 
+    "location_description": "DRUG STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78763981622014, 
+            41.99599177217443
+        ]
+    }, 
+    "case_number": "HW351051", 
+    "date": {
+        "$date": 1373138400000
+    }, 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "ward": "41", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9205467", 
+    "block": "063XX N NAGLE AVE", 
+    "description": "RETAIL THEFT"
+}
