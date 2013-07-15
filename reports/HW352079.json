@@ -1,0 +1,33 @@
+{
+    "community_area": "23", 
+    "_id": {
+        "$oid": "51e4159a018e783f00aba961"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1111", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73172723327534, 
+            41.89973062941758
+        ]
+    }, 
+    "case_number": "HW352079", 
+    "date": {
+        "$date": 1373212140000
+    }, 
+    "updated_on": {
+        "$date": 1373848785000
+    }, 
+    "ward": "37", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9206437", 
+    "block": "042XX W CORTEZ ST", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
