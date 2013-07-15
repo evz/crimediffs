@@ -6,7 +6,7 @@
     "id": "9193251", 
     "primary_type": "ASSAULT", 
     "district": "022", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "DRUG STORE", 
     "x_coordinate": "1162382", 
     "updated_on": {
-        "$date": 1373675960000
+        "$date": 1373848785000
     }, 
     "fbi_code": "08A", 
     "block": "023XX W 103RD ST"
