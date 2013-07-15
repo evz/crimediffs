@@ -1,33 +1,38 @@
 {
-    "community_area": "8", 
-    "_id": {
-        "$oid": "51e1729c018e783f00aba750"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1821", 
+    "y_coordinate": "1908420", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW359355", 
+    "id": "9213333", 
+    "primary_type": "THEFT", 
+    "district": "018", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63131039596882, 
-            41.90428412258278
+            -87.63159910123434, 
+            41.90408555834133
         ]
     }, 
-    "case_number": "HW359355", 
+    "community_area": "8", 
+    "latitude": "41.90408555834133", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1821", 
     "date": {
         "$date": 1372998600000
     }, 
-    "updated_on": {
-        "$date": 1373675960000
-    }, 
     "ward": "42", 
+    "_id": {
+        "$oid": "51e1729c018e783f00aba750"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.63159910123434", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1175277", 
+    "updated_on": {
+        "$date": 1373848785000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9213333", 
-    "block": "012XX N CLARK ST", 
-    "description": "$500 AND UNDER"
+    "block": "012XX N CLARK ST"
 }
