@@ -1,0 +1,33 @@
+{
+    "community_area": "67", 
+    "_id": {
+        "$oid": "51e415a1018e783f00ababa2"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0735", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67611325537068, 
+            41.762849021141975
+        ]
+    }, 
+    "case_number": "HW351191", 
+    "date": {
+        "$date": 1373148600000
+    }, 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "ward": "17", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9206041", 
+    "block": "021XX W 72ND ST", 
+    "description": "TO PROPERTY"
+}
