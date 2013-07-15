@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "51e1729e018e783f00aba755"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0414", 
+    "y_coordinate": "1854751", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW358904", 
+    "id": "9212738", 
+    "primary_type": "THEFT", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.57473266953109, 
-            41.75689218621481
+            -87.5747196456031, 
+            41.75644203545588
         ]
     }, 
-    "case_number": "HW358904", 
+    "community_area": "43", 
+    "latitude": "41.75644203545588", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0414", 
     "date": {
         "$date": 1372939200000
     }, 
-    "updated_on": {
-        "$date": 1373675960000
-    }, 
     "ward": "8", 
+    "_id": {
+        "$oid": "51e1729e018e783f00aba755"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.5747196456031", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1191236", 
+    "updated_on": {
+        "$date": 1373762389000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9212738", 
-    "block": "076XX S CHAPPEL AVE", 
-    "description": "FROM BUILDING"
+    "block": "076XX S CHAPPEL AVE"
 }
