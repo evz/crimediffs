@@ -1,33 +1,38 @@
 {
-    "community_area": "6", 
-    "_id": {
-        "$oid": "51e172a3018e783f00aba766"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "1933", 
+    "y_coordinate": "1919489", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1150", 
+    "case_number": "HW359430", 
+    "id": "9213339", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65165683389965, 
-            41.934752357581246
+            -87.65164762064495, 
+            41.93458216133226
         ]
     }, 
-    "case_number": "HW359430", 
+    "community_area": "6", 
+    "latitude": "41.93458216133226", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "1933", 
     "date": {
         "$date": 1372680000000
     }, 
-    "updated_on": {
-        "$date": 1373675960000
-    }, 
     "ward": "44", 
+    "_id": {
+        "$oid": "51e172a3018e783f00aba766"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.65164762064495", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1169731", 
+    "updated_on": {
+        "$date": 1373762389000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9213339", 
-    "block": "029XX N MILDRED AVE", 
-    "description": "CREDIT CARD FRAUD"
+    "block": "029XX N MILDRED AVE"
 }
