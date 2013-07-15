@@ -1,23 +1,23 @@
 {
-    "y_coordinate": "1880387", 
+    "y_coordinate": "1880454", 
     "year": "2013", 
     "domestic": false, 
     "case_number": "HW344035", 
     "id": "9198541", 
-    "primary_type": "ROBBERY", 
+    "primary_type": "ASSAULT", 
     "district": "009", 
     "arrest": false, 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63399905476784, 
-            41.82717063837589
+            -87.63485922859944, 
+            41.82735973825427
         ]
     }, 
     "community_area": "34", 
-    "latitude": "41.82717063837589", 
+    "latitude": "41.82735973825427", 
     "type": "violent", 
-    "description": "ATTEMPT: ARMED-HANDGUN", 
+    "description": "AGGRAVATED: HANDGUN", 
     "beat": "0915", 
     "date": {
         "$date": 1372709100000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "51dc2c9b018e783f00ab96ee"
     }, 
-    "iucr": "033A", 
-    "longitude": "-87.63399905476784", 
+    "iucr": "051A", 
+    "longitude": "-87.63485922859944", 
     "location_description": "SIDEWALK", 
-    "x_coordinate": "1174852", 
+    "x_coordinate": "1174617", 
     "updated_on": {
-        "$date": 1372898415000
+        "$date": 1373848785000
     }, 
-    "fbi_code": "03", 
-    "block": "037XX S PRINCETON AVE"
+    "fbi_code": "04A", 
+    "block": "003XX W 37TH ST"
 }
