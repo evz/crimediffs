@@ -1,33 +1,38 @@
 {
-    "community_area": "16", 
-    "_id": {
-        "$oid": "51e17294018e783f00aba4c5"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "1731", 
+    "y_coordinate": "1923543", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW350286", 
+    "id": "9212941", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "017", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.73442060754681, 
-            41.94639111038164
+            -87.73460647320337, 
+            41.94616979813547
         ]
     }, 
-    "case_number": "HW350286", 
+    "community_area": "16", 
+    "latitude": "41.94616979813547", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1731", 
     "date": {
         "$date": 1373065200000
     }, 
-    "updated_on": {
-        "$date": 1373675960000
-    }, 
     "ward": "30", 
+    "_id": {
+        "$oid": "51e17294018e783f00aba4c5"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.73460647320337", 
+    "location_description": "STREET", 
+    "x_coordinate": "1147129", 
+    "updated_on": {
+        "$date": 1373762389000
+    }, 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9212941", 
-    "block": "042XX W ADDISON ST", 
-    "description": "AUTOMOBILE"
+    "block": "042XX W ADDISON ST"
 }
