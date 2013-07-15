@@ -1,0 +1,33 @@
+{
+    "community_area": "70", 
+    "_id": {
+        "$oid": "51e415b7018e783f00abae25"
+    }, 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "beat": "0835", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "281", 
+    "arrest": false, 
+    "location_description": "PARK PROPERTY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69964477794501, 
+            41.743880841826076
+        ]
+    }, 
+    "case_number": "HW361960", 
+    "date": {
+        "$date": 1372446000000
+    }, 
+    "updated_on": {
+        "$date": 1373848785000
+    }, 
+    "ward": "18", 
+    "fbi_code": "02", 
+    "type": "violent", 
+    "id": "9215393", 
+    "block": "082XX S ALBANY AVE", 
+    "description": "NON-AGGRAVATED"
+}
