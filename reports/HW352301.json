@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1911231", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW352301", 
+    "id": "9206255", 
+    "primary_type": "THEFT", 
+    "district": "025", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75591795647173, 
+            41.912492031889485
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.912492031889485", 
+    "type": "property", 
+    "description": "ATTEMPT THEFT", 
+    "beat": "2532", 
+    "date": {
+        "$date": 1373221800000
+    }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51e41598018e783f00aba8fa"
+    }, 
+    "iucr": "850", 
+    "longitude": "-87.75591795647173", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1141414", 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "fbi_code": "06", 
+    "block": "017XX N LARAMIE AVE"
+}
