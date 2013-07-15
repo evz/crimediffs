@@ -6,7 +6,7 @@
     "id": "9201961", 
     "primary_type": "WEAPONS VIOLATION", 
     "district": "005", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
     "x_coordinate": "1176875", 
     "updated_on": {
-        "$date": 1373071180000
+        "$date": 1373848785000
     }, 
     "fbi_code": "15", 
     "block": "110XX S WENTWORTH AVE"
