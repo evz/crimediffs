@@ -1,33 +1,38 @@
 {
-    "community_area": "63", 
-    "_id": {
-        "$oid": "51e172a3018e783f00aba767"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0824", 
+    "y_coordinate": "1866653", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1185", 
+    "case_number": "HW359273", 
+    "id": "9213248", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.68407378277571, 
-            41.7898185649679
+            -87.68377722129519, 
+            41.78977297989521
         ]
     }, 
-    "case_number": "HW359273", 
+    "community_area": "63", 
+    "latitude": "41.78977297989521", 
+    "type": null, 
+    "description": "DECEPTIVE COLLECTION PRACTICES", 
+    "beat": "0824", 
     "date": {
         "$date": 1372674600000
     }, 
-    "updated_on": {
-        "$date": 1373675960000
-    }, 
     "ward": "16", 
+    "_id": {
+        "$oid": "51e172a3018e783f00aba767"
+    }, 
+    "iucr": "1185", 
+    "longitude": "-87.68377722129519", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1161388", 
+    "updated_on": {
+        "$date": 1373762389000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9213248", 
-    "block": "057XX S WESTERN AVE", 
-    "description": "DECEPTIVE COLLECTION PRACTICES"
+    "block": "057XX S WESTERN AVE"
 }
