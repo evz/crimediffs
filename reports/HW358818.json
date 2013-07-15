@@ -1,33 +1,38 @@
 {
-    "community_area": "68", 
-    "_id": {
-        "$oid": "51e1729f018e783f00aba759"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "0732", 
+    "y_coordinate": "1855952", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "560", 
+    "case_number": "HW358818", 
+    "id": "9212914", 
+    "primary_type": "ASSAULT", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64202578417172, 
-            41.761416780510054
+            -87.64199159923916, 
+            41.76016242967236
         ]
     }, 
-    "case_number": "HW358818", 
+    "community_area": "68", 
+    "latitude": "41.76016242967236", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0732", 
     "date": {
         "$date": 1372878000000
     }, 
-    "updated_on": {
-        "$date": 1373675960000
-    }, 
     "ward": "17", 
+    "_id": {
+        "$oid": "51e1729f018e783f00aba759"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.64199159923916", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1172870", 
+    "updated_on": {
+        "$date": 1373848785000
+    }, 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9212914", 
-    "block": "073XX S UNION AVE", 
-    "description": "SIMPLE"
+    "block": "073XX S UNION AVE"
 }
