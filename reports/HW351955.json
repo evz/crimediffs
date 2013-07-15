@@ -1,0 +1,33 @@
+{
+    "community_area": "23", 
+    "_id": {
+        "$oid": "51e4159a018e783f00aba9a3"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1112", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7201297, 
+            41.8938506
+        ]
+    }, 
+    "case_number": "HW351955", 
+    "date": {
+        "$date": 1373205600000
+    }, 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
+    "ward": "27", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9206469", 
+    "block": "007XX N RIDGEWAY AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
