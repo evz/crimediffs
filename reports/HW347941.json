@@ -4,7 +4,7 @@
     "domestic": false, 
     "case_number": "HW347941", 
     "id": "9202674", 
-    "primary_type": "BURGLARY", 
+    "primary_type": "THEFT", 
     "district": "009", 
     "arrest": false, 
     "location": {
@@ -17,7 +17,7 @@
     "community_area": "58", 
     "latitude": "41.80980006350234", 
     "type": "property", 
-    "description": "UNLAWFUL ENTRY", 
+    "description": "FROM BUILDING", 
     "beat": "0922", 
     "date": {
         "$date": 1372910400000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "51decf93018e783f00ab9cb2"
     }, 
-    "iucr": "620", 
+    "iucr": "890", 
     "longitude": "-87.68462400760555", 
     "location_description": "APARTMENT", 
     "x_coordinate": "1161102", 
     "updated_on": {
-        "$date": 1373157603000
+        "$date": 1373848785000
     }, 
-    "fbi_code": "05", 
+    "fbi_code": "06", 
     "block": "046XX S WESTERN AVE"
 }
