@@ -1,0 +1,33 @@
+{
+    "community_area": "46", 
+    "_id": {
+        "$oid": "51e4159b018e783f00aba9d4"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0414", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58078987437437, 
+            41.75165473377564
+        ]
+    }, 
+    "case_number": "HW352107", 
+    "date": {
+        "$date": 1373202600000
+    }, 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "ward": "8", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9206409", 
+    "block": "018XX E 79TH ST", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
