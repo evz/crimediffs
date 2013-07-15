@@ -1,0 +1,33 @@
+{
+    "community_area": "68", 
+    "_id": {
+        "$oid": "51e415a0018e783f00abab5c"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0712", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "GROCERY FOOD STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6498307, 
+            41.7869539
+        ]
+    }, 
+    "case_number": "HW351302", 
+    "date": {
+        "$date": 1373154000000
+    }, 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "ward": "16", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9206048", 
+    "block": "059XX S MORGAN ST", 
+    "description": "FORCIBLE ENTRY"
+}
