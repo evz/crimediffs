@@ -1,0 +1,33 @@
+{
+    "community_area": "23", 
+    "_id": {
+        "$oid": "51e415a0018e783f00abab2b"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1221", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "430", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70514521712592, 
+            41.89437423492983
+        ]
+    }, 
+    "case_number": "HW351991", 
+    "date": {
+        "$date": 1373157000000
+    }, 
+    "updated_on": {
+        "$date": 1373416728000
+    }, 
+    "ward": "27", 
+    "fbi_code": "04B", 
+    "type": "violent", 
+    "id": "9206467", 
+    "block": "007XX N TROY ST", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON"
+}
