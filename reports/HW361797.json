@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "51e415b0018e783f00abae1c"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0624", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "BANK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60535711922454, 
+            41.7501444833363
+        ]
+    }, 
+    "case_number": "HW361797", 
+    "date": {
+        "$date": 1372755600000
+    }, 
+    "updated_on": {
+        "$date": 1373848785000
+    }, 
+    "ward": "6", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9215309", 
+    "block": "079XX S COTTAGE GROVE AVE", 
+    "description": "OVER $500"
+}
