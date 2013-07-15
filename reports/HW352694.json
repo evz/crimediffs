@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1899969", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW352694", 
+    "id": "9206543", 
+    "primary_type": "ROBBERY", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67895987411124, 
+            41.881173644617505
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.881173644617505", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "1223", 
+    "date": {
+        "$date": 1373247120000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51e41592018e783f00aba7b8"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.67895987411124", 
+    "location_description": "STREET", 
+    "x_coordinate": "1162448", 
+    "updated_on": {
+        "$date": 1373589638000
+    }, 
+    "fbi_code": "03", 
+    "block": "020XX W MADISON ST"
+}
