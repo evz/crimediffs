@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1900011", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW350874", 
+    "id": "9205116", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64424796902242, 
+            41.881085863242625
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.881085863242625", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0121", 
+    "date": {
+        "$date": 1373112000000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51e415a5018e783f00abad51"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.64424796902242", 
+    "location_description": "STREET", 
+    "x_coordinate": "1171901", 
+    "updated_on": {
+        "$date": 1373330420000
+    }, 
+    "fbi_code": "06", 
+    "block": "0000X S DESPLAINES ST"
+}
