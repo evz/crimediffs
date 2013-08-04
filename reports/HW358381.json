@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1897803", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW358381", 
+    "id": "9212252", 
+    "primary_type": "ROBBERY", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64082507579926, 
+            41.87500598129732
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.87500598129732", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0124", 
+    "date": {
+        "$date": 1373574960000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51fde774733824919a295f9c"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.64082507579926", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1172851", 
+    "updated_on": {
+        "$date": 1375317661000
+    }, 
+    "fbi_code": "03", 
+    "block": "005XX S CLINTON ST"
+}
