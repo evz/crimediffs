@@ -1,0 +1,33 @@
+{
+    "community_area": "28", 
+    "_id": {
+        "$oid": "51fde746733824919a29370d"
+    }, 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "beat": "1232", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1330", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65636907584587, 
+            41.86235710833811
+        ]
+    }, 
+    "case_number": "HW375515", 
+    "date": {
+        "$date": 1374573600000
+    }, 
+    "updated_on": {
+        "$date": 1375317661000
+    }, 
+    "ward": "25", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9231177", 
+    "block": "011XX W 14TH PL", 
+    "description": "TO LAND"
+}
