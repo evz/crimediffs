@@ -1,0 +1,33 @@
+{
+    "community_area": "8", 
+    "_id": {
+        "$oid": "51fde747733824919a29377f"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "1834", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "2825", 
+    "arrest": false, 
+    "location_description": "HOTEL/MOTEL", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62680037415335, 
+            41.88953089751012
+        ]
+    }, 
+    "case_number": "HW375011", 
+    "date": {
+        "$date": 1374557400000
+    }, 
+    "updated_on": {
+        "$date": 1374799275000
+    }, 
+    "ward": "42", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9229218", 
+    "block": "004XX N WABASH AVE", 
+    "description": "HARASSMENT BY TELEPHONE"
+}
