@@ -1,0 +1,33 @@
+{
+    "community_area": "71", 
+    "_id": {
+        "$oid": "51fde764733824919a294d1a"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0621", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64798667020982, 
+            41.756836578153106
+        ]
+    }, 
+    "case_number": "HW365903", 
+    "date": {
+        "$date": 1374018300000
+    }, 
+    "updated_on": {
+        "$date": 1374280871000
+    }, 
+    "ward": "17", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9220738", 
+    "block": "075XX S SANGAMON ST", 
+    "description": "TO PROPERTY"
+}
