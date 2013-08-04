@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "51fde752733824919a293d34"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0324", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58724727536942, 
+            41.75955651898766
+        ]
+    }, 
+    "case_number": "HW375171", 
+    "date": {
+        "$date": 1374422400000
+    }, 
+    "updated_on": {
+        "$date": 1375231290000
+    }, 
+    "ward": "5", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9232090", 
+    "block": "015XX E 74TH PL", 
+    "description": "$500 AND UNDER"
+}
