@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1900355", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW376683", 
+    "id": "9230600", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63662218560393, 
+            41.881983871579585
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.881983871579585", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0122", 
+    "date": {
+        "$date": 1374562800000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51fde747733824919a293773"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.63662218560393", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1173975", 
+    "updated_on": {
+        "$date": 1374799275000
+    }, 
+    "fbi_code": "06", 
+    "block": "0000X N WACKER DR"
+}
