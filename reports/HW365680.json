@@ -1,0 +1,33 @@
+{
+    "community_area": "24", 
+    "_id": {
+        "$oid": "51fde765733824919a294dde"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1211", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "460", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69944904626279, 
+            41.899150840850886
+        ]
+    }, 
+    "case_number": "HW365680", 
+    "date": {
+        "$date": 1374003000000
+    }, 
+    "updated_on": {
+        "$date": 1374194525000
+    }, 
+    "ward": "26", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9219282", 
+    "block": "029XX W AUGUSTA BLVD", 
+    "description": "SIMPLE"
+}
