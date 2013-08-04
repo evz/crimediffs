@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1912345", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW373443", 
+    "id": "9226767", 
+    "primary_type": "ROBBERY", 
+    "district": "025", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73368136373215, 
+            41.91543513699809
+        ]
+    }, 
+    "community_area": "20", 
+    "latitude": "41.91543513699809", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "2534", 
+    "date": {
+        "$date": 1374480600000
+    }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51fde74f733824919a293ad6"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.73368136373215", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1147459", 
+    "updated_on": {
+        "$date": 1375144832000
+    }, 
+    "fbi_code": "03", 
+    "block": "019XX N KILDARE AVE"
+}
