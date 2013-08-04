@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "51fde773733824919a295f57"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "0513", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61202823055308, 
+            41.693354508085484
+        ]
+    }, 
+    "case_number": "HW358455", 
+    "date": {
+        "$date": 1373580000000
+    }, 
+    "updated_on": {
+        "$date": 1374626441000
+    }, 
+    "ward": "9", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9225326", 
+    "block": "110XX S VERNON AVE", 
+    "description": "STRONGARM - NO WEAPON"
+}
