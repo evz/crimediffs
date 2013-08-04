@@ -6,7 +6,7 @@
     "id": "9205444", 
     "primary_type": "ASSAULT", 
     "district": "011", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "STREET", 
     "x_coordinate": "1151644", 
     "updated_on": {
-        "$date": 1373589638000
+        "$date": 1374453626000
     }, 
     "fbi_code": "04A", 
     "block": "006XX N LAWNDALE AVE"
