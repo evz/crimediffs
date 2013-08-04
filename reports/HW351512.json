@@ -1,33 +1,38 @@
 {
-    "community_area": "24", 
-    "_id": {
-        "$oid": "51e4159e018e783f00abaa9b"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1433", 
+    "y_coordinate": "1910785", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW351512", 
+    "id": "9206063", 
+    "primary_type": "THEFT", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66236429592865, 
-            41.91075681033501
+            -87.66236426719091, 
+            41.91075955439758
         ]
     }, 
-    "case_number": "HW351512", 
+    "community_area": "24", 
+    "latitude": "41.91075955439758", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1433", 
     "date": {
         "$date": 1373172600000
     }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51e4159e018e783f00abaa9b"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.66236426719091", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1166883", 
     "updated_on": {
         "$date": 1373675960000
     }, 
-    "ward": "32", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9206063", 
-    "block": "016XX N ELSTON AVE", 
-    "description": "OVER $500"
+    "block": "016XX N ELSTON AVE"
 }
