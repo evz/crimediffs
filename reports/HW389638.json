@@ -1,0 +1,33 @@
+{
+    "community_area": "17", 
+    "_id": {
+        "$oid": "51fde752733824919a293e1c"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1633", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "620", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7840030685581, 
+            41.94830753138305
+        ]
+    }, 
+    "case_number": "HW389638", 
+    "date": {
+        "$date": 1374400800000
+    }, 
+    "updated_on": {
+        "$date": 1375490414000
+    }, 
+    "ward": "38", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9244345", 
+    "block": "063XX W WARWICK AVE", 
+    "description": "UNLAWFUL ENTRY"
+}
