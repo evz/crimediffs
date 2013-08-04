@@ -1,33 +1,38 @@
 {
-    "community_area": "50", 
-    "_id": {
-        "$oid": "51e41594018e783f00aba813"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0531", 
+    "y_coordinate": "1831463", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW353380", 
+    "id": "9207954", 
+    "primary_type": "THEFT", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "POLICE FACILITY/VEH PARKING LOT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.60530899999999, 
-            41.693418
+            -87.60442320143096, 
+            41.69272472545141
         ]
     }, 
-    "case_number": "HW353380", 
+    "community_area": "50", 
+    "latitude": "41.69272472545141", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0531", 
     "date": {
         "$date": 1373238900000
     }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51e41594018e783f00aba813"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.60442320143096", 
+    "location_description": "POLICE FACILITY/VEH PARKING LOT", 
+    "x_coordinate": "1183328", 
     "updated_on": {
         "$date": 1373503231000
     }, 
-    "ward": "9", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9207954", 
-    "block": "007XX E 111TH ST", 
-    "description": "$500 AND UNDER"
+    "block": "007XX E 111TH ST"
 }
