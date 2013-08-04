@@ -6,7 +6,7 @@
     "id": "9206154", 
     "primary_type": "BATTERY", 
     "district": "004", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "APARTMENT", 
     "x_coordinate": "1195440", 
     "updated_on": {
-        "$date": 1373416728000
+        "$date": 1374108135000
     }, 
     "fbi_code": "08B", 
     "block": "026XX E 93RD ST"
