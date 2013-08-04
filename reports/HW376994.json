@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "51fde740733824919a2933b4"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0522", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62872762709428, 
+            41.69171820268416
+        ]
+    }, 
+    "case_number": "HW376994", 
+    "date": {
+        "$date": 1374660000000
+    }, 
+    "updated_on": {
+        "$date": 1375317661000
+    }, 
+    "ward": "34", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9237777", 
+    "block": "002XX W 111TH PL", 
+    "description": "OVER $500"
+}
