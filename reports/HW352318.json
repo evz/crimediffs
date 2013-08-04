@@ -1,33 +1,38 @@
 {
-    "community_area": "53", 
-    "_id": {
-        "$oid": "51e4159d018e783f00abaa35"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0523", 
+    "y_coordinate": "1821108", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "620", 
+    "case_number": "HW352318", 
+    "id": "9207254", 
+    "primary_type": "BURGLARY", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62833756586095, 
-            41.663723559008986
+            -87.62836616879572, 
+            41.664456474517785
         ]
     }, 
-    "case_number": "HW352318", 
+    "community_area": "53", 
+    "latitude": "41.664456474517785", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "0523", 
     "date": {
         "$date": 1373194800000
     }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51e4159d018e783f00abaa35"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.62836616879572", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1176873", 
     "updated_on": {
         "$date": 1373503231000
     }, 
-    "ward": "9", 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9207254", 
-    "block": "126XX S YALE AVE", 
-    "description": "UNLAWFUL ENTRY"
+    "block": "126XX S YALE AVE"
 }
