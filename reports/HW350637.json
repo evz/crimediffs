@@ -1,33 +1,38 @@
 {
-    "community_area": "34", 
-    "_id": {
-        "$oid": "51e415a5018e783f00abad55"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0914", 
+    "y_coordinate": "1890195", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW350637", 
+    "id": "9205620", 
+    "primary_type": "THEFT", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63219908648108, 
-            41.85425924945151
+            -87.63257547057086, 
+            41.854077681455095
         ]
     }, 
-    "case_number": "HW350637", 
+    "community_area": "34", 
+    "latitude": "41.854077681455095", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0914", 
     "date": {
         "$date": 1373111940000
     }, 
-    "updated_on": {
-        "$date": 1373330420000
-    }, 
     "ward": "25", 
+    "_id": {
+        "$oid": "51e415a5018e783f00abad55"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.63257547057086", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1175160", 
+    "updated_on": {
+        "$date": 1375404049000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9205620", 
-    "block": "021XX S ARCHER AVE", 
-    "description": "OVER $500"
+    "block": "021XX S ARCHER AVE"
 }
