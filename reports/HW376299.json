@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "51fde745733824919a29360b"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "2233", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "2820", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6402129600488, 
+            41.695841424841234
+        ]
+    }, 
+    "case_number": "HW376299", 
+    "date": {
+        "$date": 1374595200000
+    }, 
+    "updated_on": {
+        "$date": 1374885634000
+    }, 
+    "ward": "34", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9231622", 
+    "block": "109XX S UNION AVE", 
+    "description": "TELEPHONE THREAT"
+}
