@@ -1,0 +1,33 @@
+{
+    "community_area": "32", 
+    "_id": {
+        "$oid": "51fde74b733824919a293967"
+    }, 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "beat": "0112", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1122", 
+    "arrest": false, 
+    "location_description": "BANK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62954167453191, 
+            41.88169645929765
+        ]
+    }, 
+    "case_number": "HW374285", 
+    "date": {
+        "$date": 1374511920000
+    }, 
+    "updated_on": {
+        "$date": 1375231290000
+    }, 
+    "ward": "42", 
+    "fbi_code": "10", 
+    "type": null, 
+    "id": "9233832", 
+    "block": "0000X S DEARBORN ST", 
+    "description": "COUNTERFEIT CHECK"
+}
