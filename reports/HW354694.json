@@ -1,33 +1,38 @@
 {
-    "community_area": "47", 
-    "_id": {
-        "$oid": "51e41598018e783f00aba8e4"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "0413", 
+    "y_coordinate": "1843509", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "560", 
+    "case_number": "HW354694", 
+    "id": "9209370", 
+    "primary_type": "ASSAULT", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "PARK PROPERTY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.59744896250322, 
-            41.72573562904618
+            -87.5974489311891, 
+            41.725738373159196
         ]
     }, 
-    "case_number": "HW354694", 
+    "community_area": "47", 
+    "latitude": "41.725738373159196", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0413", 
     "date": {
         "$date": 1373223600000
     }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51e41598018e783f00aba8e4"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.5974489311891", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1185130", 
     "updated_on": {
         "$date": 1373848785000
     }, 
-    "ward": "8", 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9209370", 
-    "block": "093XX S GREENWOOD AVE", 
-    "description": "SIMPLE"
+    "block": "093XX S GREENWOOD AVE"
 }
