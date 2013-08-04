@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "51fde773733824919a295f03"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "0531", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": true, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.619409336225, 
+            41.68974514950682
+        ]
+    }, 
+    "case_number": "HW358634", 
+    "date": {
+        "$date": 1373586000000
+    }, 
+    "updated_on": {
+        "$date": 1374885634000
+    }, 
+    "ward": "9", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9231155", 
+    "block": "112XX S EDBROOKE AVE", 
+    "description": "SIMPLE"
+}
