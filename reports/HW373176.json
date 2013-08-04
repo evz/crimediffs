@@ -1,0 +1,33 @@
+{
+    "community_area": "22", 
+    "_id": {
+        "$oid": "51fde754733824919a293fae"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "1421", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70028804423296, 
+            41.916474330896776
+        ]
+    }, 
+    "case_number": "HW373176", 
+    "date": {
+        "$date": 1374355800000
+    }, 
+    "updated_on": {
+        "$date": 1374799275000
+    }, 
+    "ward": "35", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9230102", 
+    "block": "019XX N RICHMOND ST", 
+    "description": "SIMPLE"
+}
