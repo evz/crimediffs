@@ -1,0 +1,33 @@
+{
+    "community_area": "60", 
+    "_id": {
+        "$oid": "51fde752733824919a293d90"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0915", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "460", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64624959330983, 
+            41.830644720137435
+        ]
+    }, 
+    "case_number": "HW375511", 
+    "date": {
+        "$date": 1374415200000
+    }, 
+    "updated_on": {
+        "$date": 1375490414000
+    }, 
+    "ward": "11", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9245077", 
+    "block": "035XX S HALSTED ST", 
+    "description": "SIMPLE"
+}
