@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "51fde741733824919a293437"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0631", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "RESTAURANT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6127447303902, 
+            41.7439505049464
+        ]
+    }, 
+    "case_number": "HW376462", 
+    "date": {
+        "$date": 1374639300000
+    }, 
+    "updated_on": {
+        "$date": 1374885634000
+    }, 
+    "ward": "6", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9231563", 
+    "block": "004XX E 83RD ST", 
+    "description": "FORCIBLE ENTRY"
+}
