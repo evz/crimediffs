@@ -1,33 +1,38 @@
 {
-    "community_area": "68", 
-    "_id": {
-        "$oid": "51e1729b018e783f00aba6fb"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0712", 
+    "y_coordinate": "1865597", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW348885", 
+    "id": "9204743", 
+    "primary_type": "BURGLARY", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65479339252738, 
-            41.78529142050474
+            -87.6545328045807, 
+            41.786705934179146
         ]
     }, 
-    "case_number": "HW348885", 
+    "community_area": "68", 
+    "latitude": "41.786705934179146", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0712", 
     "date": {
         "$date": 1373015400000
     }, 
-    "updated_on": {
-        "$date": 1373848785000
-    }, 
     "ward": "16", 
+    "_id": {
+        "$oid": "51e1729b018e783f00aba6fb"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.6545328045807", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1169372", 
+    "updated_on": {
+        "$date": 1373935219000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9204743", 
-    "block": "059XX S RACINE AVE", 
-    "description": "FORCIBLE ENTRY"
+    "block": "059XX S RACINE AVE"
 }
