@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "51fde77c733824919a296b8e"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "0513", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "520", 
+    "arrest": false, 
+    "location_description": "DRUG STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62093986536608, 
+            41.69437884516273
+        ]
+    }, 
+    "case_number": "HW352843", 
+    "date": {
+        "$date": 1373271600000
+    }, 
+    "updated_on": {
+        "$date": 1374712912000
+    }, 
+    "ward": "9", 
+    "fbi_code": "04A", 
+    "type": "violent", 
+    "id": "9227024", 
+    "block": "110XX S MICHIGAN AVE", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR"
+}
