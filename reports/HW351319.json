@@ -1,33 +1,38 @@
 {
-    "community_area": "19", 
-    "_id": {
-        "$oid": "51e415a5018e783f00abad09"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "2522", 
+    "y_coordinate": "1914387", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW351319", 
+    "id": "9208686", 
+    "primary_type": "BURGLARY", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.74731049949973, 
-            41.92126015694402
+            -87.74730820620618, 
+            41.92110921256539
         ]
     }, 
-    "case_number": "HW351319", 
+    "community_area": "19", 
+    "latitude": "41.92110921256539", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "2522", 
     "date": {
         "$date": 1373119200000
     }, 
-    "updated_on": {
-        "$date": 1373762389000
-    }, 
     "ward": "31", 
+    "_id": {
+        "$oid": "51e415a5018e783f00abad09"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.74730820620618", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1143736", 
+    "updated_on": {
+        "$date": 1374453626000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9208686", 
-    "block": "022XX N LA CROSSE AVE", 
-    "description": "FORCIBLE ENTRY"
+    "block": "022XX N LA CROSSE AVE"
 }
