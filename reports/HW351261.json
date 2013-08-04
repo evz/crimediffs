@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "51e415a1018e783f00abab70"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "1511", 
+    "y_coordinate": "1903991", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1310", 
+    "case_number": "HW351261", 
+    "id": "9207403", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.76767315710873, 
-            41.891430865661526
+            -87.76801469179519, 
+            41.89268392336246
         ]
     }, 
-    "case_number": "HW351261", 
+    "community_area": "25", 
+    "latitude": "41.89268392336246", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1511", 
     "date": {
         "$date": 1373152140000
     }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51e415a1018e783f00abab70"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.76801469179519", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1138169", 
     "updated_on": {
         "$date": 1373503231000
     }, 
-    "ward": "29", 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9207403", 
-    "block": "006XX N WALLER AVE", 
-    "description": "TO PROPERTY"
+    "block": "006XX N WALLER AVE"
 }
