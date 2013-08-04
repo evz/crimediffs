@@ -1,33 +1,38 @@
 {
-    "community_area": "1", 
-    "_id": {
-        "$oid": "51e41593018e783f00aba7ee"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "2422", 
+    "y_coordinate": "1950411", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW352624", 
+    "id": "9207530", 
+    "primary_type": "BATTERY", 
+    "district": "024", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66964563042455, 
-            42.019541001490985
+            -87.66964192200783, 
+            42.019543724227816
         ]
     }, 
-    "case_number": "HW352624", 
+    "community_area": "1", 
+    "latitude": "42.019543724227816", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "2422", 
     "date": {
         "$date": 1373241660000
     }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51e41593018e783f00aba7ee"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.66964192200783", 
+    "location_description": "STREET", 
+    "x_coordinate": "1164595", 
     "updated_on": {
         "$date": 1373503231000
     }, 
-    "ward": "49", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9207530", 
-    "block": "076XX N BOSWORTH AVE", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "076XX N BOSWORTH AVE"
 }
