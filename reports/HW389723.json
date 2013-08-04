@@ -1,0 +1,33 @@
+{
+    "community_area": "8", 
+    "_id": {
+        "$oid": "51fde72c733824919a292c8e"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1824", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "HOTEL/MOTEL", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62859981517369, 
+            41.905914057764655
+        ]
+    }, 
+    "case_number": "HW389723", 
+    "date": {
+        "$date": 1374832800000
+    }, 
+    "updated_on": {
+        "$date": 1375490414000
+    }, 
+    "ward": "43", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9244421", 
+    "block": "013XX N STATE PKWY", 
+    "description": "FROM BUILDING"
+}
