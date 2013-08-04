@@ -1,0 +1,33 @@
+{
+    "community_area": "58", 
+    "_id": {
+        "$oid": "51fde74f733824919a293b00"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "0821", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70546545311545, 
+            41.81135936213422
+        ]
+    }, 
+    "case_number": "HW375009", 
+    "date": {
+        "$date": 1374474600000
+    }, 
+    "updated_on": {
+        "$date": 1374799275000
+    }, 
+    "ward": "14", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9229132", 
+    "block": "045XX S SAWYER AVE", 
+    "description": "AUTOMOBILE"
+}
