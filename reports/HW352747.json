@@ -1,15 +1,12 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "51e41591018e783f00aba79d"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "0334", 
+    "y_coordinate": "1857770", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "031A", 
+    "case_number": "HW352747", 
+    "id": "9207959", 
+    "primary_type": "ROBBERY", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "PARK PROPERTY", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.76463564299145
         ]
     }, 
-    "case_number": "HW352747", 
+    "community_area": "43", 
+    "latitude": "41.76463564299145", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0334", 
     "date": {
         "$date": 1373251560000
     }, 
-    "updated_on": {
-        "$date": 1373503231000
-    }, 
     "ward": "7", 
+    "_id": {
+        "$oid": "51e41591018e783f00aba79d"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.56099850861388", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1194953", 
+    "updated_on": {
+        "$date": 1374712912000
+    }, 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9207959", 
-    "block": "072XX S SOUTH SHORE DR", 
-    "description": "ARMED: HANDGUN"
+    "block": "072XX S SOUTH SHORE DR"
 }
