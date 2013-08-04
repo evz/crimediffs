@@ -1,33 +1,38 @@
 {
-    "community_area": "50", 
-    "_id": {
-        "$oid": "51e17298018e783f00aba608"
-    }, 
-    "primary_type": "OFFENSE INVOLVING CHILDREN", 
-    "beat": "0512", 
+    "y_coordinate": "1834883", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "1780", 
+    "case_number": "HW349485", 
+    "id": "9205257", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.60373886092516, 
-            41.70208951647663
+            -87.60300267800217, 
+            41.702101306133756
         ]
     }, 
-    "case_number": "HW349485", 
+    "community_area": "50", 
+    "latitude": "41.702101306133756", 
+    "type": null, 
+    "description": "OTHER OFFENSE", 
+    "beat": "0512", 
     "date": {
         "$date": 1373038080000
     }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51e17298018e783f00aba608"
+    }, 
+    "iucr": "1780", 
+    "longitude": "-87.60300267800217", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1183687", 
     "updated_on": {
         "$date": 1373416728000
     }, 
-    "ward": "9", 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9205257", 
-    "block": "008XX E 106TH ST", 
-    "description": "OTHER OFFENSE"
+    "block": "008XX E 106TH ST"
 }
