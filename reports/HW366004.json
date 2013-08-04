@@ -1,0 +1,33 @@
+{
+    "community_area": "26", 
+    "_id": {
+        "$oid": "51fde764733824919a294cb7"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1115", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73204749491693, 
+            41.87890074505361
+        ]
+    }, 
+    "case_number": "HW366004", 
+    "date": {
+        "$date": 1374030600000
+    }, 
+    "updated_on": {
+        "$date": 1375490414000
+    }, 
+    "ward": "28", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9224253", 
+    "block": "042XX W WILCOX ST", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
