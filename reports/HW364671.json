@@ -1,0 +1,33 @@
+{
+    "community_area": "22", 
+    "_id": {
+        "$oid": "51fde769733824919a29519e"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1421", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69698687561399, 
+            41.91517178399663
+        ]
+    }, 
+    "case_number": "HW364671", 
+    "date": {
+        "$date": 1373911200000
+    }, 
+    "updated_on": {
+        "$date": 1374367458000
+    }, 
+    "ward": "1", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9219988", 
+    "block": "018XX N CALIFORNIA AVE", 
+    "description": "OVER $500"
+}
