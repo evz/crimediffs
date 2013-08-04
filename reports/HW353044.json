@@ -1,33 +1,38 @@
 {
-    "community_area": "24", 
-    "_id": {
-        "$oid": "51e41597018e783f00aba8b0"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "1211", 
+    "y_coordinate": "1906480", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW353044", 
+    "id": "9211296", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69169214077284, 
-            41.89833114083097
+            -87.69200386069451, 
+            41.89911499000164
         ]
     }, 
-    "case_number": "HW353044", 
+    "community_area": "24", 
+    "latitude": "41.89911499000164", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1211", 
     "date": {
         "$date": 1373227200000
     }, 
-    "updated_on": {
-        "$date": 1373762389000
-    }, 
     "ward": "26", 
+    "_id": {
+        "$oid": "51e41597018e783f00aba8b0"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.69200386069451", 
+    "location_description": "STREET", 
+    "x_coordinate": "1158847", 
+    "updated_on": {
+        "$date": 1374626441000
+    }, 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9211296", 
-    "block": "009XX N ROCKWELL ST", 
-    "description": "AUTOMOBILE"
+    "block": "009XX N ROCKWELL ST"
 }
