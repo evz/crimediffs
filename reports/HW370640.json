@@ -1,0 +1,33 @@
+{
+    "community_area": "67", 
+    "_id": {
+        "$oid": "51fde757733824919a2941dd"
+    }, 
+    "primary_type": "ARSON", 
+    "beat": "0734", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1020", 
+    "arrest": false, 
+    "location_description": "ABANDONED BUILDING", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66160688090999, 
+            41.76729596167495
+        ]
+    }, 
+    "case_number": "HW370640", 
+    "date": {
+        "$date": 1374298500000
+    }, 
+    "updated_on": {
+        "$date": 1374799275000
+    }, 
+    "ward": "17", 
+    "fbi_code": "09", 
+    "type": "property", 
+    "id": "9230085", 
+    "block": "069XX S LAFLIN ST", 
+    "description": "BY FIRE"
+}
