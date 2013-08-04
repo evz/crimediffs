@@ -1,0 +1,33 @@
+{
+    "community_area": "1", 
+    "_id": {
+        "$oid": "51fde744733824919a293559"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "2422", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "4387", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67181249246488, 
+            42.01712491069469
+        ]
+    }, 
+    "case_number": "HW376081", 
+    "date": {
+        "$date": 1374607800000
+    }, 
+    "updated_on": {
+        "$date": 1374799275000
+    }, 
+    "ward": "49", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9230082", 
+    "block": "016XX W FARGO AVE", 
+    "description": "VIOLATE ORDER OF PROTECTION"
+}
