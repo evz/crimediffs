@@ -1,33 +1,38 @@
 {
-    "community_area": "67", 
-    "_id": {
-        "$oid": "51e415a1018e783f00ababa2"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "0735", 
+    "y_coordinate": "1856933", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1310", 
+    "case_number": "HW351191", 
+    "id": "9206041", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67611325537068, 
-            41.762849021141975
+            -87.67700179767495, 
+            41.763059923097316
         ]
     }, 
-    "case_number": "HW351191", 
+    "community_area": "67", 
+    "latitude": "41.763059923097316", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0735", 
     "date": {
         "$date": 1373148600000
     }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51e415a1018e783f00ababa2"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.67700179767495", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1163310", 
     "updated_on": {
         "$date": 1373416728000
     }, 
-    "ward": "17", 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9206041", 
-    "block": "021XX W 72ND ST", 
-    "description": "TO PROPERTY"
+    "block": "021XX W 72ND ST"
 }
