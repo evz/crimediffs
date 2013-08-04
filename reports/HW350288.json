@@ -1,33 +1,38 @@
 {
-    "community_area": "67", 
-    "_id": {
-        "$oid": "51e1728f018e783f00aba415"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0725", 
+    "y_coordinate": "1861500", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "420", 
+    "case_number": "HW350288", 
+    "id": "9210331", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66028374022405, 
-            41.77429440709962
+            -87.66060843600042, 
+            41.7754983098958
         ]
     }, 
-    "case_number": "HW350288", 
+    "community_area": "67", 
+    "latitude": "41.7754983098958", 
+    "type": "violent", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
+    "beat": "0725", 
     "date": {
         "$date": 1373086800000
     }, 
-    "updated_on": {
-        "$date": 1373675960000
-    }, 
     "ward": "17", 
+    "_id": {
+        "$oid": "51e1728f018e783f00aba415"
+    }, 
+    "iucr": "420", 
+    "longitude": "-87.66060843600042", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1167747", 
+    "updated_on": {
+        "$date": 1374280871000
+    }, 
     "fbi_code": "04B", 
-    "type": "violent", 
-    "id": "9210331", 
-    "block": "065XX S BISHOP ST", 
-    "description": "AGGRAVATED:KNIFE/CUTTING INSTR"
+    "block": "065XX S BISHOP ST"
 }
