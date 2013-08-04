@@ -6,7 +6,7 @@
     "id": "9203710", 
     "primary_type": "ROBBERY", 
     "district": "025", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "STREET", 
     "x_coordinate": "1143851", 
     "updated_on": {
-        "$date": 1373416728000
+        "$date": 1375058559000
     }, 
     "fbi_code": "03", 
     "block": "031XX N CICERO AVE"
