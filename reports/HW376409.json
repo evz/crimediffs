@@ -1,0 +1,33 @@
+{
+    "community_area": "24", 
+    "_id": {
+        "$oid": "51fde742733824919a293468"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "1211", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "320", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68975966647618, 
+            41.89763975558391
+        ]
+    }, 
+    "case_number": "HW376409", 
+    "date": {
+        "$date": 1374627600000
+    }, 
+    "updated_on": {
+        "$date": 1374885634000
+    }, 
+    "ward": "26", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9231533", 
+    "block": "025XX W IOWA ST", 
+    "description": "STRONGARM - NO WEAPON"
+}
