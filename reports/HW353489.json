@@ -1,33 +1,38 @@
 {
-    "community_area": "41", 
-    "_id": {
-        "$oid": "51e41597018e783f00aba8cd"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "0235", 
+    "y_coordinate": "1867521", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW353489", 
+    "id": "9208682", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.59352315690924, 
-            41.79136500130493
+            -87.59226265127465, 
+            41.791601117841836
         ]
     }, 
-    "case_number": "HW353489", 
+    "community_area": "41", 
+    "latitude": "41.791601117841836", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0235", 
     "date": {
         "$date": 1373225400000
     }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51e41597018e783f00aba8cd"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.59226265127465", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1186339", 
     "updated_on": {
         "$date": 1373675960000
     }, 
-    "ward": "5", 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9208682", 
-    "block": "013XX E 57TH ST", 
-    "description": "AUTOMOBILE"
+    "block": "013XX E 57TH ST"
 }
