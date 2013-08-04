@@ -1,0 +1,33 @@
+{
+    "community_area": "32", 
+    "_id": {
+        "$oid": "51fde76f733824919a2958a6"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0112", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "460", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6277418, 
+            41.8807309
+        ]
+    }, 
+    "case_number": "HW361368", 
+    "date": {
+        "$date": 1373744880000
+    }, 
+    "updated_on": {
+        "$date": 1374712912000
+    }, 
+    "ward": "42", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9224166", 
+    "block": "0000X E MONROE ST", 
+    "description": "SIMPLE"
+}
