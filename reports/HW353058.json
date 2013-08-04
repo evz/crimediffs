@@ -1,33 +1,38 @@
 {
-    "community_area": "38", 
-    "_id": {
-        "$oid": "51e415a4018e783f00abac89"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0221", 
+    "y_coordinate": "1874350", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW353058", 
+    "id": "9208474", 
+    "primary_type": "THEFT", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61399712344792, 
-            41.80963746037908
+            -87.61397669474, 
+            41.81047982485633
         ]
     }, 
-    "case_number": "HW353058", 
+    "community_area": "38", 
+    "latitude": "41.81047982485633", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0221", 
     "date": {
         "$date": 1373130000000
     }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51e415a4018e783f00abac89"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.61397669474", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1180360", 
     "updated_on": {
         "$date": 1373503231000
     }, 
-    "ward": "3", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9208474", 
-    "block": "046XX S VINCENNES AVE", 
-    "description": "$500 AND UNDER"
+    "block": "046XX S VINCENNES AVE"
 }
