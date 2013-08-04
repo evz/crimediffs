@@ -1,0 +1,33 @@
+{
+    "community_area": "24", 
+    "_id": {
+        "$oid": "51fde772733824919a295dc3"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1212", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6796148, 
+            41.9004257
+        ]
+    }, 
+    "case_number": "HW372997", 
+    "date": {
+        "$date": 1373628600000
+    }, 
+    "updated_on": {
+        "$date": 1374971969000
+    }, 
+    "ward": "32", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9232586", 
+    "block": "021XX W CORTEZ ST", 
+    "description": "FORCIBLE ENTRY"
+}
