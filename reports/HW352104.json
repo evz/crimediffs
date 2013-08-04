@@ -1,33 +1,38 @@
 {
-    "community_area": "73", 
-    "_id": {
-        "$oid": "51e4159a018e783f00aba970"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2213", 
+    "y_coordinate": "1838998", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW352104", 
+    "id": "9207030", 
+    "primary_type": "THEFT", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "GAS STATION", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65357146129394, 
-            41.713822464338335
+            -87.65361299069967, 
+            41.713704704104465
         ]
     }, 
-    "case_number": "HW352104", 
+    "community_area": "73", 
+    "latitude": "41.713704704104465", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2213", 
     "date": {
         "$date": 1373210100000
     }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51e4159a018e783f00aba970"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.65361299069967", 
+    "location_description": "GAS STATION", 
+    "x_coordinate": "1169833", 
     "updated_on": {
         "$date": 1373848785000
     }, 
-    "ward": "21", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9207030", 
-    "block": "099XX S VINCENNES AVE", 
-    "description": "$500 AND UNDER"
+    "block": "099XX S VINCENNES AVE"
 }
