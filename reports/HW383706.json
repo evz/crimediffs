@@ -1,0 +1,33 @@
+{
+    "community_area": "42", 
+    "_id": {
+        "$oid": "51fde727733824919a292b5f"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0314", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "MEDICAL/DENTAL OFFICE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59632494322001, 
+            41.77950299944434
+        ]
+    }, 
+    "case_number": "HW383706", 
+    "date": {
+        "$date": 1374858000000
+    }, 
+    "updated_on": {
+        "$date": 1375490414000
+    }, 
+    "ward": "20", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9241253", 
+    "block": "063XX S WOODLAWN AVE", 
+    "description": "TO PROPERTY"
+}
