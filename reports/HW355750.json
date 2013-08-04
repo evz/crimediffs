@@ -1,33 +1,38 @@
 {
-    "community_area": "77", 
-    "_id": {
-        "$oid": "51e1729b018e783f00aba6c9"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "2433", 
+    "y_coordinate": "1940557", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW355750", 
+    "id": "9211052", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "024", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65793394260609, 
-            41.992211949087775
+            -87.65783227835732, 
+            41.992433630412464
         ]
     }, 
-    "case_number": "HW355750", 
+    "community_area": "77", 
+    "latitude": "41.992433630412464", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "2433", 
     "date": {
         "$date": 1373022000000
     }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51e1729b018e783f00aba6c9"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.65783227835732", 
+    "location_description": "STREET", 
+    "x_coordinate": "1167882", 
     "updated_on": {
         "$date": 1373762389000
     }, 
-    "ward": "48", 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9211052", 
-    "block": "010XX W GLENLAKE AVE", 
-    "description": "AUTOMOBILE"
+    "block": "010XX W GLENLAKE AVE"
 }
