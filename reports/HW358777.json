@@ -1,0 +1,33 @@
+{
+    "community_area": "2", 
+    "_id": {
+        "$oid": "51fde773733824919a295ed9"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2412", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69382225013408, 
+            42.0028097438344
+        ]
+    }, 
+    "case_number": "HW358777", 
+    "date": {
+        "$date": 1373589000000
+    }, 
+    "updated_on": {
+        "$date": 1374280871000
+    }, 
+    "ward": "50", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9221141", 
+    "block": "066XX N MAPLEWOOD AVE", 
+    "description": "OVER $500"
+}
