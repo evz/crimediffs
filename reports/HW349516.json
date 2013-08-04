@@ -1,33 +1,38 @@
 {
-    "community_area": "46", 
-    "_id": {
-        "$oid": "51e17298018e783f00aba5f2"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "0424", 
+    "y_coordinate": "1848331", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW349516", 
+    "id": "9205181", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.55158546957252, 
-            41.7377601847771
+            -87.55130700306745, 
+            41.738666654554635
         ]
     }, 
-    "case_number": "HW349516", 
+    "community_area": "46", 
+    "latitude": "41.738666654554635", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0424", 
     "date": {
         "$date": 1373040000000
     }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51e17298018e783f00aba5f2"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.55130700306745", 
+    "location_description": "STREET", 
+    "x_coordinate": "1197683", 
     "updated_on": {
         "$date": 1373416728000
     }, 
-    "ward": "10", 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9205181", 
-    "block": "086XX S COMMERCIAL AVE", 
-    "description": "AUTOMOBILE"
+    "block": "086XX S COMMERCIAL AVE"
 }
