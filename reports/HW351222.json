@@ -1,33 +1,38 @@
 {
-    "community_area": "68", 
-    "_id": {
-        "$oid": "51e415a2018e783f00ababa8"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0712", 
+    "y_coordinate": "1866304", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW351222", 
+    "id": "9205682", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6536203178311, 
-            41.7870024106263
+            -87.65366167852162, 
+            41.78864099532151
         ]
     }, 
-    "case_number": "HW351222", 
+    "community_area": "68", 
+    "latitude": "41.78864099532151", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0712", 
     "date": {
         "$date": 1373148000000
     }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51e415a2018e783f00ababa8"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.65366167852162", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1169604", 
     "updated_on": {
         "$date": 1373589638000
     }, 
-    "ward": "16", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9205682", 
-    "block": "058XX S MAY ST", 
-    "description": "SIMPLE"
+    "block": "058XX S MAY ST"
 }
