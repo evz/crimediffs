@@ -1,33 +1,38 @@
 {
-    "community_area": "68", 
-    "_id": {
-        "$oid": "51e415a2018e783f00ababab"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0733", 
+    "y_coordinate": "1858897", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW351843", 
+    "id": "9206831", 
+    "primary_type": "THEFT", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "ALLEY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6467565766234, 
-            41.76736734514727
+            -87.64677624478281, 
+            41.76827308071985
         ]
     }, 
-    "case_number": "HW351843", 
+    "community_area": "68", 
+    "latitude": "41.76827308071985", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0733", 
     "date": {
         "$date": 1373148000000
     }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51e415a2018e783f00ababab"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.64677624478281", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1171541", 
     "updated_on": {
         "$date": 1373503231000
     }, 
-    "ward": "17", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9206831", 
-    "block": "069XX S PEORIA ST", 
-    "description": "OVER $500"
+    "block": "069XX S PEORIA ST"
 }
