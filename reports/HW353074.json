@@ -1,33 +1,38 @@
 {
-    "community_area": "28", 
-    "_id": {
-        "$oid": "51e415a6018e783f00abadab"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1214", 
+    "y_coordinate": "1902125", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW353074", 
+    "id": "9207619", 
+    "primary_type": "THEFT", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64587838906037, 
-            41.88691068393306
+            -87.64740986154767, 
+            41.886906120454306
         ]
     }, 
-    "case_number": "HW353074", 
+    "community_area": "28", 
+    "latitude": "41.886906120454306", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1214", 
     "date": {
         "$date": 1373104800000
     }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51e415a6018e783f00abadab"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.64740986154767", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1171023", 
     "updated_on": {
         "$date": 1373503231000
     }, 
-    "ward": "27", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9207619", 
-    "block": "007XX W FULTON MARKET", 
-    "description": "FROM BUILDING"
+    "block": "007XX W FULTON MARKET"
 }
