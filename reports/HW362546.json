@@ -1,0 +1,33 @@
+{
+    "community_area": "58", 
+    "_id": {
+        "$oid": "51fde76c733824919a2954fe"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0922", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68690375059046, 
+            41.81326247391548
+        ]
+    }, 
+    "case_number": "HW362546", 
+    "date": {
+        "$date": 1373830200000
+    }, 
+    "updated_on": {
+        "$date": 1374712912000
+    }, 
+    "ward": "12", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9224634", 
+    "block": "044XX S CAMPBELL AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
