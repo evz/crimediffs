@@ -1,0 +1,33 @@
+{
+    "community_area": "22", 
+    "_id": {
+        "$oid": "51fde726733824919a292b45"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "1434", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68266450266496, 
+            41.91741313625546
+        ]
+    }, 
+    "case_number": "HW380431", 
+    "date": {
+        "$date": 1374860460000
+    }, 
+    "updated_on": {
+        "$date": 1375317661000
+    }, 
+    "ward": "32", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9237885", 
+    "block": "019XX N LEAVITT ST", 
+    "description": "SIMPLE"
+}
