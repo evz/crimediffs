@@ -1,0 +1,33 @@
+{
+    "community_area": "71", 
+    "_id": {
+        "$oid": "51fde741733824919a29344c"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2222", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "CTA BUS STOP", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65322358246502, 
+            41.736046635567604
+        ]
+    }, 
+    "case_number": "HW376439", 
+    "date": {
+        "$date": 1374633000000
+    }, 
+    "updated_on": {
+        "$date": 1375490414000
+    }, 
+    "ward": "21", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9243831", 
+    "block": "011XX W 87TH ST", 
+    "description": "$500 AND UNDER"
+}
