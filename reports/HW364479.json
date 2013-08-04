@@ -1,0 +1,33 @@
+{
+    "community_area": "40", 
+    "_id": {
+        "$oid": "51fde768733824919a295042"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "0231", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "031A", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61613141738633, 
+            41.79488384187365
+        ]
+    }, 
+    "case_number": "HW364479", 
+    "date": {
+        "$date": 1373937900000
+    }, 
+    "updated_on": {
+        "$date": 1374626441000
+    }, 
+    "ward": "3", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9226099", 
+    "block": "054XX S DR MARTIN LUTHER KING JR DR", 
+    "description": "ARMED: HANDGUN"
+}
