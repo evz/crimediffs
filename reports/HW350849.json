@@ -1,33 +1,38 @@
 {
-    "community_area": "69", 
-    "_id": {
-        "$oid": "51e415a6018e783f00abadc6"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0623", 
+    "y_coordinate": "1854707", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2820", 
+    "case_number": "HW350849", 
+    "id": "9205302", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "SCHOOL, PRIVATE, BUILDING", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61972673796551, 
-            41.75639009991117
+            -87.61973163561436, 
+            41.75660967437941
         ]
     }, 
-    "case_number": "HW350849", 
+    "community_area": "69", 
+    "latitude": "41.75660967437941", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "0623", 
     "date": {
         "$date": 1373101440000
     }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51e415a6018e783f00abadc6"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.61973163561436", 
+    "location_description": "SCHOOL, PRIVATE, BUILDING", 
+    "x_coordinate": "1178954", 
     "updated_on": {
         "$date": 1373503231000
     }, 
-    "ward": "6", 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9205302", 
-    "block": "002XX E 76TH ST", 
-    "description": "TELEPHONE THREAT"
+    "block": "002XX E 76TH ST"
 }
