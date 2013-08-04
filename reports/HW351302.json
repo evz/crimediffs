@@ -1,33 +1,38 @@
 {
-    "community_area": "68", 
-    "_id": {
-        "$oid": "51e415a0018e783f00abab5c"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0712", 
+    "y_coordinate": "1865631", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW351302", 
+    "id": "9206048", 
+    "primary_type": "BURGLARY", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "GROCERY FOOD STORE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6498307, 
-            41.7869539
+            -87.64997065870261, 
+            41.786772192753055
         ]
     }, 
-    "case_number": "HW351302", 
+    "community_area": "68", 
+    "latitude": "41.786772192753055", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0712", 
     "date": {
         "$date": 1373154000000
     }, 
-    "updated_on": {
-        "$date": 1373416728000
-    }, 
     "ward": "16", 
+    "_id": {
+        "$oid": "51e415a0018e783f00abab5c"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.64997065870261", 
+    "location_description": "GROCERY FOOD STORE", 
+    "x_coordinate": "1170616", 
+    "updated_on": {
+        "$date": 1374453626000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9206048", 
-    "block": "059XX S MORGAN ST", 
-    "description": "FORCIBLE ENTRY"
+    "block": "059XX S MORGAN ST"
 }
