@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1860101", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW368525", 
+    "id": "9222118", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68358474699039, 
+            41.771791281704346
+        ]
+    }, 
+    "community_area": "66", 
+    "latitude": "41.771791281704346", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0832", 
+    "date": {
+        "$date": 1374168600000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51fde75c733824919a29475d"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.68358474699039", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1161490", 
+    "updated_on": {
+        "$date": 1374367458000
+    }, 
+    "fbi_code": "06", 
+    "block": "067XX S WESTERN AVE"
+}
