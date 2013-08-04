@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "51fde75a733824919a2944f1"
+    }, 
+    "primary_type": "KIDNAPPING", 
+    "beat": "1532", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "4230", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74965459920678, 
+            41.88296525567145
+        ]
+    }, 
+    "case_number": "HW375208", 
+    "date": {
+        "$date": 1374235140000
+    }, 
+    "updated_on": {
+        "$date": 1375317661000
+    }, 
+    "ward": "28", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9239543", 
+    "block": "049XX W WEST END AVE", 
+    "description": "UNLAWFUL RESTRAINT"
+}
