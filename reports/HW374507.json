@@ -1,0 +1,33 @@
+{
+    "community_area": "3", 
+    "_id": {
+        "$oid": "51fde74a733824919a2938fa"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "1914", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "PARK PROPERTY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64069559974693, 
+            41.965811591955735
+        ]
+    }, 
+    "case_number": "HW374507", 
+    "date": {
+        "$date": 1374519600000
+    }, 
+    "updated_on": {
+        "$date": 1374799275000
+    }, 
+    "ward": "46", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9229885", 
+    "block": "045XX N SIMONDS DR", 
+    "description": "SIMPLE"
+}
