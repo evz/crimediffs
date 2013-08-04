@@ -1,33 +1,38 @@
 {
-    "community_area": "22", 
-    "_id": {
-        "$oid": "51e415a3018e783f00abac45"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1421", 
+    "y_coordinate": "1913085", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW351788", 
+    "id": "9206860", 
+    "primary_type": "BATTERY", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "ALLEY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70314921495294, 
-            41.91732431513412
+            -87.70479539548118, 
+            41.91731138408107
         ]
     }, 
-    "case_number": "HW351788", 
+    "community_area": "22", 
+    "latitude": "41.91731138408107", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1421", 
     "date": {
         "$date": 1373135400000
     }, 
+    "ward": "35", 
+    "_id": {
+        "$oid": "51e415a3018e783f00abac45"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.70479539548118", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1155316", 
     "updated_on": {
         "$date": 1373503231000
     }, 
-    "ward": "35", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9206860", 
-    "block": "030XX W ARMITAGE AVE", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "030XX W ARMITAGE AVE"
 }
