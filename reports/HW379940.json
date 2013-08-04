@@ -1,0 +1,33 @@
+{
+    "community_area": "23", 
+    "_id": {
+        "$oid": "51fde72a733824919a292c2e"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "1111", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "4387", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7314444, 
+            41.9026662
+        ]
+    }, 
+    "case_number": "HW379940", 
+    "date": {
+        "$date": 1374841500000
+    }, 
+    "updated_on": {
+        "$date": 1375317661000
+    }, 
+    "ward": "37", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9236586", 
+    "block": "042XX W DIVISION ST", 
+    "description": "VIOLATE ORDER OF PROTECTION"
+}
