@@ -1,15 +1,12 @@
 {
-    "community_area": "61", 
-    "_id": {
-        "$oid": "51e415a0018e783f00abab58"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0934", 
+    "y_coordinate": "1868969", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW351327", 
+    "id": "9206521", 
+    "primary_type": "BATTERY", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.79591971762787
         ]
     }, 
-    "case_number": "HW351327", 
+    "community_area": "61", 
+    "latitude": "41.79591971762787", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0934", 
     "date": {
         "$date": 1373154600000
     }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51e415a0018e783f00abab58"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.64780514702765", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1171180", 
     "updated_on": {
         "$date": 1373675960000
     }, 
-    "ward": "20", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9206521", 
-    "block": "054XX S PEORIA ST", 
-    "description": "SIMPLE"
+    "block": "054XX S PEORIA ST"
 }
