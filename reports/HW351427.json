@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "51e415a3018e783f00abac13"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "0331", 
+    "y_coordinate": "1858610", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1310", 
+    "case_number": "HW351427", 
+    "id": "9206632", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.57050538629414, 
-            41.767229397207615
+            -87.57092223493713, 
+            41.76700713228028
         ]
     }, 
-    "case_number": "HW351427", 
+    "community_area": "43", 
+    "latitude": "41.76700713228028", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0331", 
     "date": {
         "$date": 1373140800000
     }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51e415a3018e783f00abac13"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.57092223493713", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1192238", 
     "updated_on": {
         "$date": 1373416728000
     }, 
-    "ward": "5", 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9206632", 
-    "block": "022XX E 70TH PL", 
-    "description": "TO PROPERTY"
+    "block": "022XX E 70TH PL"
 }
