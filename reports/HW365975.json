@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "51fde764733824919a294cdb"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2532", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "880", 
+    "arrest": false, 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.765474422587, 
+            41.907460107044635
+        ]
+    }, 
+    "case_number": "HW365975", 
+    "date": {
+        "$date": 1374025200000
+    }, 
+    "updated_on": {
+        "$date": 1374280871000
+    }, 
+    "ward": "37", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9220811", 
+    "block": "055XX W LE MOYNE ST", 
+    "description": "PURSE-SNATCHING"
+}
