@@ -1,33 +1,38 @@
 {
-    "community_area": "4", 
-    "_id": {
-        "$oid": "51e4159f018e783f00abaadc"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "2011", 
+    "y_coordinate": "1934804", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "486", 
+    "case_number": "HW351444", 
+    "id": "9206386", 
+    "primary_type": "BATTERY", 
+    "district": "020", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69533595570473, 
-            41.97686631471882
+            -87.69593911115764, 
+            41.97686417674363
         ]
     }, 
-    "case_number": "HW351444", 
+    "community_area": "4", 
+    "latitude": "41.97686417674363", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "2011", 
     "date": {
         "$date": 1373164200000
     }, 
+    "ward": "40", 
+    "_id": {
+        "$oid": "51e4159f018e783f00abaadc"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.69593911115764", 
+    "location_description": "STREET", 
+    "x_coordinate": "1157565", 
     "updated_on": {
         "$date": 1373675960000
     }, 
-    "ward": "40", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9206386", 
-    "block": "026XX W FARRAGUT AVE", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "026XX W FARRAGUT AVE"
 }
