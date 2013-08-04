@@ -1,0 +1,33 @@
+{
+    "community_area": "68", 
+    "_id": {
+        "$oid": "51fde746733824919a2936a8"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0711", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6340856496064, 
+            41.782442165857674
+        ]
+    }, 
+    "case_number": "HW375870", 
+    "date": {
+        "$date": 1374582600000
+    }, 
+    "updated_on": {
+        "$date": 1375058559000
+    }, 
+    "ward": "20", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9234290", 
+    "block": "003XX W 61ST PL", 
+    "description": "TO VEHICLE"
+}
