@@ -1,33 +1,38 @@
 {
-    "community_area": "23", 
-    "_id": {
-        "$oid": "51e415a0018e783f00abab2b"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1221", 
+    "y_coordinate": "1904798", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "430", 
+    "case_number": "HW351991", 
+    "id": "9206467", 
+    "primary_type": "BATTERY", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70514521712592, 
-            41.89437423492983
+            -87.7054444445436, 
+            41.894573456759765
         ]
     }, 
-    "case_number": "HW351991", 
+    "community_area": "23", 
+    "latitude": "41.894573456759765", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "1221", 
     "date": {
         "$date": 1373157000000
     }, 
-    "updated_on": {
-        "$date": 1373416728000
-    }, 
     "ward": "27", 
+    "_id": {
+        "$oid": "51e415a0018e783f00abab2b"
+    }, 
+    "iucr": "430", 
+    "longitude": "-87.7054444445436", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1155200", 
+    "updated_on": {
+        "$date": 1374280871000
+    }, 
     "fbi_code": "04B", 
-    "type": "violent", 
-    "id": "9206467", 
-    "block": "007XX N TROY ST", 
-    "description": "AGGRAVATED: OTHER DANG WEAPON"
+    "block": "007XX N TROY ST"
 }
