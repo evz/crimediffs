@@ -1,33 +1,38 @@
 {
-    "community_area": "26", 
-    "_id": {
-        "$oid": "51e415a2018e783f00ababcf"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "1132", 
+    "y_coordinate": "1897729", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "2820", 
+    "case_number": "HW351220", 
+    "id": "9205604", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.73158189938687, 
-            41.875297849696715
+            -87.73083640186879, 
+            41.87531040655292
         ]
     }, 
-    "case_number": "HW351220", 
+    "community_area": "26", 
+    "latitude": "41.87531040655292", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "1132", 
     "date": {
         "$date": 1373146020000
     }, 
-    "updated_on": {
-        "$date": 1373330420000
-    }, 
     "ward": "24", 
+    "_id": {
+        "$oid": "51e415a2018e783f00ababcf"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.73083640186879", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1148336", 
+    "updated_on": {
+        "$date": 1375317661000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9205604", 
-    "block": "042XX W VAN BUREN ST", 
-    "description": "TELEPHONE THREAT"
+    "block": "042XX W VAN BUREN ST"
 }
