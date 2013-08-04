@@ -1,33 +1,38 @@
 {
-    "community_area": "73", 
-    "_id": {
-        "$oid": "51e1729c018e783f00aba751"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "2232", 
+    "y_coordinate": "1837773", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "620", 
+    "case_number": "HW348695", 
+    "id": "9212420", 
+    "primary_type": "BURGLARY", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "RESIDENCE-GARAGE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64911176684154, 
-            41.70885895787437
+            -87.64885461119795, 
+            41.71031466287195
         ]
     }, 
-    "case_number": "HW348695", 
+    "community_area": "73", 
+    "latitude": "41.71031466287195", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "2232", 
     "date": {
         "$date": 1372993200000
     }, 
-    "updated_on": {
-        "$date": 1373848785000
-    }, 
     "ward": "34", 
+    "_id": {
+        "$oid": "51e1729c018e783f00aba751"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.64885461119795", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1171142", 
+    "updated_on": {
+        "$date": 1374280871000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9212420", 
-    "block": "101XX S CARPENTER ST", 
-    "description": "UNLAWFUL ENTRY"
+    "block": "101XX S CARPENTER ST"
 }
