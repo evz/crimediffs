@@ -1,33 +1,38 @@
 {
-    "community_area": "71", 
-    "_id": {
-        "$oid": "51e41599018e783f00aba91d"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "0622", 
+    "y_coordinate": "1851117", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW352373", 
+    "id": "9207554", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64373538780352, 
-            41.74689047981183
+            -87.64313796792555, 
+            41.74690061417226
         ]
     }, 
-    "case_number": "HW352373", 
+    "community_area": "71", 
+    "latitude": "41.74690061417226", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0622", 
     "date": {
         "$date": 1373218200000
     }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51e41599018e783f00aba91d"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.64313796792555", 
+    "location_description": "STREET", 
+    "x_coordinate": "1172596", 
     "updated_on": {
         "$date": 1373589638000
     }, 
-    "ward": "21", 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9207554", 
-    "block": "007XX W 81ST ST", 
-    "description": "AUTOMOBILE"
+    "block": "007XX W 81ST ST"
 }
