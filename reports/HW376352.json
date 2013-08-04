@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "51fde747733824919a29372d"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0633", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60549327209182, 
+            41.731275490506164
+        ]
+    }, 
+    "case_number": "HW376352", 
+    "date": {
+        "$date": 1374570000000
+    }, 
+    "updated_on": {
+        "$date": 1375404049000
+    }, 
+    "ward": "6", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9238381", 
+    "block": "007XX E 90TH ST", 
+    "description": "FORCIBLE ENTRY"
+}
