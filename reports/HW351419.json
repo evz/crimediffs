@@ -1,33 +1,38 @@
 {
-    "community_area": "71", 
-    "_id": {
-        "$oid": "51e4159e018e783f00abaabf"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "0612", 
+    "y_coordinate": "1853280", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "560", 
-    "arrest": false, 
-    "location_description": "RESIDENCE", 
+    "case_number": "HW351419", 
+    "id": "9206453", 
+    "primary_type": "ASSAULT", 
+    "district": "006", 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64909435487652, 
-            41.752616952960885
+            -87.64909897365575, 
+            41.7528722007724
         ]
     }, 
-    "case_number": "HW351419", 
+    "community_area": "71", 
+    "latitude": "41.7528722007724", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0612", 
     "date": {
         "$date": 1373167260000
     }, 
-    "updated_on": {
-        "$date": 1373503231000
-    }, 
     "ward": "17", 
+    "_id": {
+        "$oid": "51e4159e018e783f00abaabf"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.64909897365575", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1170952", 
+    "updated_on": {
+        "$date": 1374453626000
+    }, 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9206453", 
-    "block": "077XX S MORGAN ST", 
-    "description": "SIMPLE"
+    "block": "077XX S MORGAN ST"
 }
