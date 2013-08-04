@@ -1,33 +1,38 @@
 {
-    "community_area": "8", 
-    "_id": {
-        "$oid": "51e4159f018e783f00abab16"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1824", 
+    "y_coordinate": "1908331", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "870", 
+    "case_number": "HW355133", 
+    "id": "9209206", 
+    "primary_type": "THEFT", 
+    "district": "018", 
     "arrest": false, 
-    "location_description": "TAVERN/LIQUOR STORE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62933182795399, 
-            41.9038192111167
+            -87.62910399916656, 
+            41.903826046804184
         ]
     }, 
-    "case_number": "HW355133", 
+    "community_area": "8", 
+    "latitude": "41.903826046804184", 
+    "type": "property", 
+    "description": "POCKET-PICKING", 
+    "beat": "1824", 
     "date": {
         "$date": 1373158800000
     }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51e4159f018e783f00abab16"
+    }, 
+    "iucr": "870", 
+    "longitude": "-87.62910399916656", 
+    "location_description": "TAVERN/LIQUOR STORE", 
+    "x_coordinate": "1175957", 
     "updated_on": {
         "$date": 1373589638000
     }, 
-    "ward": "42", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9209206", 
-    "block": "0000X W DIVISION ST", 
-    "description": "POCKET-PICKING"
+    "block": "0000X W DIVISION ST"
 }
