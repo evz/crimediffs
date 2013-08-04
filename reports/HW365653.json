@@ -1,0 +1,33 @@
+{
+    "community_area": "15", 
+    "_id": {
+        "$oid": "51fde76d733824919a295696"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1622", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "ALLEY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76743661828479, 
+            41.9618713120844
+        ]
+    }, 
+    "case_number": "HW365653", 
+    "date": {
+        "$date": 1373792400000
+    }, 
+    "updated_on": {
+        "$date": 1374194525000
+    }, 
+    "ward": "38", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9219863", 
+    "block": "044XX N CENTRAL AVE", 
+    "description": "$500 AND UNDER"
+}
