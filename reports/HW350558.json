@@ -1,33 +1,38 @@
 {
-    "community_area": "73", 
-    "_id": {
-        "$oid": "51e415a5018e783f00abad33"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "2223", 
+    "y_coordinate": "1842870", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "560", 
+    "case_number": "HW350558", 
+    "id": "9205675", 
+    "primary_type": "ASSAULT", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64343347196517, 
-            41.72408617783841
+            -87.64343516808707, 
+            41.724270057292735
         ]
     }, 
-    "case_number": "HW350558", 
+    "community_area": "73", 
+    "latitude": "41.724270057292735", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2223", 
     "date": {
         "$date": 1373113800000
     }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51e415a5018e783f00abad33"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.64343516808707", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1172581", 
     "updated_on": {
         "$date": 1373589638000
     }, 
-    "ward": "21", 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9205675", 
-    "block": "093XX S HALSTED ST", 
-    "description": "SIMPLE"
+    "block": "093XX S HALSTED ST"
 }
