@@ -1,33 +1,38 @@
 {
-    "community_area": "14", 
-    "_id": {
-        "$oid": "51e415a0018e783f00abab2a"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1713", 
+    "y_coordinate": "1931853", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW351385", 
+    "id": "9206583", 
+    "primary_type": "BATTERY", 
+    "district": "017", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70602749999999, 
-            41.9684844
+            -87.706190378067, 
+            41.968822491113464
         ]
     }, 
-    "case_number": "HW351385", 
+    "community_area": "14", 
+    "latitude": "41.968822491113464", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1713", 
     "date": {
         "$date": 1373157000000
     }, 
+    "ward": "33", 
+    "_id": {
+        "$oid": "51e415a0018e783f00abab2a"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.706190378067", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1154799", 
     "updated_on": {
         "$date": 1373416728000
     }, 
-    "ward": "33", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9206583", 
-    "block": "048XX N ALBANY AVE", 
-    "description": "SIMPLE"
+    "block": "048XX N ALBANY AVE"
 }
