@@ -1,33 +1,38 @@
 {
-    "community_area": "44", 
-    "_id": {
-        "$oid": "51e41596018e783f00aba86b"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0631", 
+    "y_coordinate": "1850603", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW352508", 
+    "id": "9209335", 
+    "primary_type": "THEFT", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.60734810395763, 
-            41.74517068069672
+            -87.60764378562756, 
+            41.74527134357201
         ]
     }, 
-    "case_number": "HW352508", 
+    "community_area": "44", 
+    "latitude": "41.74527134357201", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0631", 
     "date": {
         "$date": 1373232600000
     }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51e41596018e783f00aba86b"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.60764378562756", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1182287", 
     "updated_on": {
         "$date": 1373589638000
     }, 
-    "ward": "6", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9209335", 
-    "block": "082XX S LANGLEY AVE", 
-    "description": "$500 AND UNDER"
+    "block": "082XX S LANGLEY AVE"
 }
