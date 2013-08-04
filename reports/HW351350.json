@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "51e415a1018e783f00abab7a"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0331", 
+    "y_coordinate": "1860373", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW351350", 
+    "id": "9206661", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.5754002961717, 
-            41.77272567768525
+            -87.57537732010546, 
+            41.771874796192826
         ]
     }, 
-    "case_number": "HW351350", 
+    "community_area": "43", 
+    "latitude": "41.771874796192826", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0331", 
     "date": {
         "$date": 1373151600000
     }, 
-    "updated_on": {
-        "$date": 1373416728000
-    }, 
     "ward": "5", 
+    "_id": {
+        "$oid": "51e415a1018e783f00abab7a"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.57537732010546", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1191007", 
+    "updated_on": {
+        "$date": 1374280871000
+    }, 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9206661", 
-    "block": "067XX S CHAPPEL AVE", 
-    "description": "SIMPLE"
+    "block": "067XX S CHAPPEL AVE"
 }
