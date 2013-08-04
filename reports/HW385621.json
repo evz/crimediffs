@@ -1,0 +1,33 @@
+{
+    "community_area": "68", 
+    "_id": {
+        "$oid": "51fde789733824919a296c2c"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0711", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63744663345565, 
+            41.78424910610197
+        ]
+    }, 
+    "case_number": "HW385621", 
+    "date": {
+        "$date": 1373018400000
+    }, 
+    "updated_on": {
+        "$date": 1375490414000
+    }, 
+    "ward": "20", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9243106", 
+    "block": "060XX S NORMAL BLVD", 
+    "description": "FORCIBLE ENTRY"
+}
