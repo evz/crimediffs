@@ -1,0 +1,33 @@
+{
+    "community_area": "6", 
+    "_id": {
+        "$oid": "51fde770733824919a2959b2"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1933", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "620", 
+    "arrest": false, 
+    "location_description": "RESIDENCE-GARAGE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65902201330388, 
+            41.93719155155944
+        ]
+    }, 
+    "case_number": "HW361278", 
+    "date": {
+        "$date": 1373724000000
+    }, 
+    "updated_on": {
+        "$date": 1374799275000
+    }, 
+    "ward": "44", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9220559", 
+    "block": "030XX N RACINE AVE", 
+    "description": "UNLAWFUL ENTRY"
+}
