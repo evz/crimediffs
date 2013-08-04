@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "51e41598018e783f00aba8fb"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "0324", 
+    "y_coordinate": "1856157", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1320", 
+    "case_number": "HW352260", 
+    "id": "9207560", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.59127369723433, 
-            41.76065287120958
+            -87.59307968084588, 
+            41.76042027913505
         ]
     }, 
-    "case_number": "HW352260", 
+    "community_area": "43", 
+    "latitude": "41.76042027913505", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0324", 
     "date": {
         "$date": 1373221500000
     }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51e41598018e783f00aba8fb"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.59307968084588", 
+    "location_description": "STREET", 
+    "x_coordinate": "1186214", 
     "updated_on": {
         "$date": 1373503231000
     }, 
-    "ward": "5", 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9207560", 
-    "block": "013XX E 74TH ST", 
-    "description": "TO VEHICLE"
+    "block": "013XX E 74TH ST"
 }
