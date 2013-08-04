@@ -1,33 +1,38 @@
 {
-    "community_area": "40", 
-    "_id": {
-        "$oid": "51e41595018e783f00aba847"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0231", 
+    "y_coordinate": "1868465", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW352570", 
+    "id": "9206671", 
+    "primary_type": "BATTERY", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61934898283664, 
-            41.79376500758823
+            -87.61936067825572, 
+            41.79436333394018
         ]
     }, 
-    "case_number": "HW352570", 
+    "community_area": "40", 
+    "latitude": "41.79436333394018", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0231", 
     "date": {
         "$date": 1373234400000
     }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51e41595018e783f00aba847"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.61936067825572", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1178941", 
     "updated_on": {
         "$date": 1373719137000
     }, 
-    "ward": "3", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9206671", 
-    "block": "055XX S PRAIRIE AVE", 
-    "description": "SIMPLE"
+    "block": "055XX S PRAIRIE AVE"
 }
