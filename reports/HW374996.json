@@ -1,0 +1,33 @@
+{
+    "community_area": "7", 
+    "_id": {
+        "$oid": "51fde74b733824919a293929"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1812", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64114932620502, 
+            41.919799347694976
+        ]
+    }, 
+    "case_number": "HW374996", 
+    "date": {
+        "$date": 1374516000000
+    }, 
+    "updated_on": {
+        "$date": 1374799275000
+    }, 
+    "ward": "43", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9229054", 
+    "block": "020XX N CLEVELAND AVE", 
+    "description": "OVER $500"
+}
