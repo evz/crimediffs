@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "51fde75a733824919a294595"
+    }, 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "beat": "0331", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1365", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57417628755437, 
+            41.77269015309975
+        ]
+    }, 
+    "case_number": "HW375311", 
+    "date": {
+        "$date": 1374213600000
+    }, 
+    "updated_on": {
+        "$date": 1375144832000
+    }, 
+    "ward": "5", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9234891", 
+    "block": "067XX S CLYDE AVE", 
+    "description": "TO RESIDENCE"
+}
