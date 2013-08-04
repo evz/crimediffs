@@ -1,0 +1,33 @@
+{
+    "community_area": "1", 
+    "_id": {
+        "$oid": "51fde777733824919a2964b1"
+    }, 
+    "primary_type": "NON-CRIMINAL", 
+    "beat": "2422", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "5093", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.670136, 
+            42.0193805
+        ]
+    }, 
+    "case_number": "HW370765", 
+    "date": {
+        "$date": 1373450400000
+    }, 
+    "updated_on": {
+        "$date": 1374799275000
+    }, 
+    "ward": "49", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9230748", 
+    "block": "016XX W HOWARD ST", 
+    "description": "LOST PASSPORT"
+}
