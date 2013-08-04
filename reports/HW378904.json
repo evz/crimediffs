@@ -1,0 +1,33 @@
+{
+    "community_area": "32", 
+    "_id": {
+        "$oid": "51fde739733824919a2931ab"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "0123", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2826", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62601983042066, 
+            41.87172693608238
+        ]
+    }, 
+    "case_number": "HW378904", 
+    "date": {
+        "$date": 1374696000000
+    }, 
+    "updated_on": {
+        "$date": 1375317661000
+    }, 
+    "ward": "2", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9235920", 
+    "block": "0000X E 8TH ST", 
+    "description": "HARASSMENT BY ELECTRONIC MEANS"
+}
