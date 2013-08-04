@@ -1,10 +1,10 @@
 {
     "y_coordinate": "1875548", 
     "year": "2013", 
-    "domestic": false, 
+    "domestic": true, 
     "case_number": "HW348324", 
-    "id": "9203041", 
-    "primary_type": "BATTERY", 
+    "id": "21006", 
+    "primary_type": "HOMICIDE", 
     "district": "009", 
     "arrest": true, 
     "location": {
@@ -16,23 +16,23 @@
     }, 
     "community_area": "61", 
     "latitude": "41.81411234332644", 
-    "type": null, 
-    "description": "DOMESTIC BATTERY SIMPLE", 
+    "type": "violent", 
+    "description": "FIRST DEGREE MURDER", 
     "beat": "0924", 
     "date": {
-        "$date": 1372975080000
+        "$date": 1374396360000
     }, 
     "ward": "12", 
     "_id": {
         "$oid": "51e0211d018e783f00aba19e"
     }, 
-    "iucr": "486", 
+    "iucr": "110", 
     "longitude": "-87.67133419397315", 
-    "location_description": "SIDEWALK", 
+    "location_description": "STREET", 
     "x_coordinate": "1164713", 
     "updated_on": {
-        "$date": 1373244025000
+        "$date": 1375268540000
     }, 
-    "fbi_code": "08B", 
+    "fbi_code": "01A", 
     "block": "018XX W 44TH ST"
 }
