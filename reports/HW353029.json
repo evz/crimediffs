@@ -1,33 +1,38 @@
 {
-    "community_area": "8", 
-    "_id": {
-        "$oid": "51e1729a018e783f00aba6bd"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "1831", 
+    "y_coordinate": "1904980", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "5001", 
+    "case_number": "HW353029", 
+    "id": "9207488", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "018", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63520620663503, 
-            41.89466463528141
+            -87.63520617675101, 
+            41.89466737933613
         ]
     }, 
-    "case_number": "HW353029", 
+    "community_area": "8", 
+    "latitude": "41.89466737933613", 
+    "type": null, 
+    "description": "OTHER CRIME INVOLVING PROPERTY", 
+    "beat": "1831", 
     "date": {
         "$date": 1373023320000
     }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51e1729a018e783f00aba6bd"
+    }, 
+    "iucr": "5001", 
+    "longitude": "-87.63520617675101", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1174323", 
     "updated_on": {
         "$date": 1373503231000
     }, 
-    "ward": "42", 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9207488", 
-    "block": "002XX W HURON ST", 
-    "description": "OTHER CRIME INVOLVING PROPERTY"
+    "block": "002XX W HURON ST"
 }
