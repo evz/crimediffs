@@ -6,7 +6,7 @@
     "id": "9203069", 
     "primary_type": "WEAPONS VIOLATION", 
     "district": "003", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "PARK PROPERTY", 
     "x_coordinate": "1188765", 
     "updated_on": {
-        "$date": 1373157603000
+        "$date": 1374108135000
     }, 
     "fbi_code": "15", 
     "block": "073XX S EAST END AVE"
