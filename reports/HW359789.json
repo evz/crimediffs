@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1838543", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW359789", 
+    "id": "9213547", 
+    "primary_type": "THEFT", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61769182795427, 
+            41.71223794579265
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.71223794579265", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0511", 
+    "date": {
+        "$date": 1373655900000
+    }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51fde771733824919a295c49"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.61769182795427", 
+    "location_description": "STREET", 
+    "x_coordinate": "1179645", 
+    "updated_on": {
+        "$date": 1373848785000
+    }, 
+    "fbi_code": "06", 
+    "block": "100XX S PRAIRIE AVE"
+}
