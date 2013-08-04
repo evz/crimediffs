@@ -1,0 +1,33 @@
+{
+    "community_area": "59", 
+    "_id": {
+        "$oid": "51fde754733824919a294036"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0912", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66787053689448, 
+            41.83296468895055
+        ]
+    }, 
+    "case_number": "HW373938", 
+    "date": {
+        "$date": 1374345000000
+    }, 
+    "updated_on": {
+        "$date": 1374799275000
+    }, 
+    "ward": "11", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9230585", 
+    "block": "033XX S PAULINA ST", 
+    "description": "$500 AND UNDER"
+}
