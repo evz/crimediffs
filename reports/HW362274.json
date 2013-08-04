@@ -1,33 +1,38 @@
 {
-    "community_area": "61", 
-    "_id": {
-        "$oid": "51e41596018e783f00aba871"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0935", 
+    "y_coordinate": "1868990", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW362274", 
+    "id": "9215475", 
+    "primary_type": "THEFT", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64502146201373, 
-            41.794569350115964
+            -87.64505424723089, 
+            41.79596089854083
         ]
     }, 
-    "case_number": "HW362274", 
+    "community_area": "61", 
+    "latitude": "41.79596089854083", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0935", 
     "date": {
         "$date": 1373232300000
     }, 
-    "updated_on": {
-        "$date": 1373848785000
-    }, 
     "ward": "3", 
+    "_id": {
+        "$oid": "51e41596018e783f00aba871"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.64505424723089", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1171930", 
+    "updated_on": {
+        "$date": 1374021583000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9215475", 
-    "block": "054XX S HALSTED ST", 
-    "description": "$500 AND UNDER"
+    "block": "054XX S HALSTED ST"
 }
