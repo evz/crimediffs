@@ -1,33 +1,38 @@
 {
-    "community_area": "28", 
-    "_id": {
-        "$oid": "51e415a4018e783f00abacb4"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1224", 
+    "y_coordinate": "1900373", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW352939", 
+    "id": "9208388", 
+    "primary_type": "THEFT", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66244036795656, 
-            41.88208271941692
+            -87.66243927714001, 
+            41.882186994317976
         ]
     }, 
-    "case_number": "HW352939", 
+    "community_area": "28", 
+    "latitude": "41.882186994317976", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1224", 
     "date": {
         "$date": 1373126400000
     }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51e415a4018e783f00abacb4"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.66243927714001", 
+    "location_description": "STREET", 
+    "x_coordinate": "1166944", 
     "updated_on": {
         "$date": 1373503231000
     }, 
-    "ward": "27", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9208388", 
-    "block": "0000X N LOOMIS ST", 
-    "description": "$500 AND UNDER"
+    "block": "0000X N LOOMIS ST"
 }
