@@ -1,0 +1,33 @@
+{
+    "community_area": "71", 
+    "_id": {
+        "$oid": "51fde74d733824919a2939b4"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0614", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "GAS STATION", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66349072470851, 
+            41.74652984013101
+        ]
+    }, 
+    "case_number": "HW374075", 
+    "date": {
+        "$date": 1374504600000
+    }, 
+    "updated_on": {
+        "$date": 1374712912000
+    }, 
+    "ward": "21", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9228192", 
+    "block": "081XX S ASHLAND AVE", 
+    "description": "$500 AND UNDER"
+}
