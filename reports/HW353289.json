@@ -1,33 +1,38 @@
 {
-    "community_area": "24", 
-    "_id": {
-        "$oid": "51e4159f018e783f00abab11"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1423", 
+    "y_coordinate": "1908822", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "870", 
+    "case_number": "HW353289", 
+    "id": "9207814", 
+    "primary_type": "THEFT", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "ALLEY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6952748623488, 
-            41.90556844615216
+            -87.69581492655881, 
+            41.90556321307376
         ]
     }, 
-    "case_number": "HW353289", 
+    "community_area": "24", 
+    "latitude": "41.90556321307376", 
+    "type": "property", 
+    "description": "POCKET-PICKING", 
+    "beat": "1423", 
     "date": {
         "$date": 1373158800000
     }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51e4159f018e783f00abab11"
+    }, 
+    "iucr": "870", 
+    "longitude": "-87.69581492655881", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1157792", 
     "updated_on": {
         "$date": 1373675960000
     }, 
-    "ward": "26", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9207814", 
-    "block": "027XX W EVERGREEN AVE", 
-    "description": "POCKET-PICKING"
+    "block": "027XX W EVERGREEN AVE"
 }
