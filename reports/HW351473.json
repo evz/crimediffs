@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "51e415a3018e783f00abac0c"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "0332", 
+    "y_coordinate": "1858488", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1310", 
+    "case_number": "HW351473", 
+    "id": "9206450", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.58017604961836, 
-            41.76779540681979
+            -87.57985126035263, 
+            41.76673123588185
         ]
     }, 
-    "case_number": "HW351473", 
+    "community_area": "43", 
+    "latitude": "41.76673123588185", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0332", 
     "date": {
         "$date": 1373140800000
     }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51e415a3018e783f00abac0c"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.57985126035263", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1189803", 
     "updated_on": {
         "$date": 1373719137000
     }, 
-    "ward": "5", 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9206450", 
-    "block": "070XX S CONSTANCE AVE", 
-    "description": "TO PROPERTY"
+    "block": "070XX S CONSTANCE AVE"
 }
