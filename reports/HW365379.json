@@ -1,0 +1,33 @@
+{
+    "community_area": "35", 
+    "_id": {
+        "$oid": "51fde765733824919a294e52"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0213", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "498", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62635220718865, 
+            41.82821878904936
+        ]
+    }, 
+    "case_number": "HW365379", 
+    "date": {
+        "$date": 1373994000000
+    }, 
+    "updated_on": {
+        "$date": 1375490414000
+    }, 
+    "ward": "3", 
+    "fbi_code": "04B", 
+    "type": "violent", 
+    "id": "9219275", 
+    "block": "036XX S STATE ST", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: HANDS/FIST/FEET SERIOUS INJURY"
+}
