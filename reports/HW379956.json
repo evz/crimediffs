@@ -1,0 +1,33 @@
+{
+    "community_area": "67", 
+    "_id": {
+        "$oid": "51fde72f733824919a292d5f"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0724", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "498", 
+    "arrest": false, 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65685593194476, 
+            41.771159499111064
+        ]
+    }, 
+    "case_number": "HW379956", 
+    "date": {
+        "$date": 1374800400000
+    }, 
+    "updated_on": {
+        "$date": 1375490414000
+    }, 
+    "ward": "17", 
+    "fbi_code": "04B", 
+    "type": "violent", 
+    "id": "9238006", 
+    "block": "067XX S THROOP ST", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: HANDS/FIST/FEET SERIOUS INJURY"
+}
