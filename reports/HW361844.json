@@ -1,33 +1,38 @@
 {
-    "community_area": "59", 
-    "_id": {
-        "$oid": "51e41597018e783f00aba8ae"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0912", 
+    "y_coordinate": "1880342", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW361844", 
+    "id": "9215146", 
+    "primary_type": "THEFT", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67166731012559, 
-            41.8270096049397
+            -87.6713784552971, 
+            41.82726864634283
         ]
     }, 
-    "case_number": "HW361844", 
+    "community_area": "59", 
+    "latitude": "41.82726864634283", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0912", 
     "date": {
         "$date": 1373227200000
     }, 
-    "updated_on": {
-        "$date": 1373848785000
-    }, 
     "ward": "11", 
+    "_id": {
+        "$oid": "51e41597018e783f00aba8ae"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.6713784552971", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1164664", 
+    "updated_on": {
+        "$date": 1373935219000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9215146", 
-    "block": "036XX S HONORE ST", 
-    "description": "$500 AND UNDER"
+    "block": "036XX S HONORE ST"
 }
