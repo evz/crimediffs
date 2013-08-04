@@ -1,0 +1,33 @@
+{
+    "community_area": "36", 
+    "_id": {
+        "$oid": "51fde74f733824919a293ac9"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "0214", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "5002", 
+    "arrest": true, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60681626774942, 
+            41.822838866753436
+        ]
+    }, 
+    "case_number": "HW375057", 
+    "date": {
+        "$date": 1374481800000
+    }, 
+    "updated_on": {
+        "$date": 1375231290000
+    }, 
+    "ward": "4", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9229203", 
+    "block": "008XX E OAKWOOD BLVD", 
+    "description": "OTHER VEHICLE OFFENSE"
+}
