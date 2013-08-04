@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1858225", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW357646", 
+    "id": "9211706", 
+    "primary_type": "ROBBERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66492851698739, 
+            41.7665359535863
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.7665359535863", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0735", 
+    "date": {
+        "$date": 1373486400000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51fde776733824919a29630a"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.66492851698739", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1166594", 
+    "updated_on": {
+        "$date": 1374626441000
+    }, 
+    "fbi_code": "03", 
+    "block": "070XX S MARSHFIELD AVE"
+}
