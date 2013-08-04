@@ -1,33 +1,38 @@
 {
-    "community_area": "74", 
-    "_id": {
-        "$oid": "51e415a9018e783f00abae10"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2211", 
+    "y_coordinate": "1830078", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW361448", 
+    "id": "9214824", 
+    "primary_type": "THEFT", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70333772556235, 
-            41.689569006438646
+            -87.70304177059155, 
+            41.68950700825336
         ]
     }, 
-    "case_number": "HW361448", 
+    "community_area": "74", 
+    "latitude": "41.68950700825336", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2211", 
     "date": {
         "$date": 1373007600000
     }, 
-    "updated_on": {
-        "$date": 1373848785000
-    }, 
     "ward": "19", 
+    "_id": {
+        "$oid": "51e415a9018e783f00abae10"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.70304177059155", 
+    "location_description": "STREET", 
+    "x_coordinate": "1156402", 
+    "updated_on": {
+        "$date": 1373935219000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9214824", 
-    "block": "112XX S SPAULDING AVE", 
-    "description": "$500 AND UNDER"
+    "block": "112XX S SPAULDING AVE"
 }
