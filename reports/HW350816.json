@@ -1,33 +1,38 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "51e415a6018e783f00abadc9"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0511", 
+    "y_coordinate": "1837126", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW350816", 
+    "id": "9206182", 
+    "primary_type": "THEFT", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61758992481393, 
-            41.70788756016536
+            -87.61730649602544, 
+            41.70834684079611
         ]
     }, 
-    "case_number": "HW350816", 
+    "community_area": "49", 
+    "latitude": "41.70834684079611", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0511", 
     "date": {
         "$date": 1373101200000
     }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51e415a6018e783f00abadc9"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.61730649602544", 
+    "location_description": "STREET", 
+    "x_coordinate": "1179762", 
     "updated_on": {
         "$date": 1373416728000
     }, 
-    "ward": "9", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9206182", 
-    "block": "102XX S PRAIRIE AVE", 
-    "description": "$500 AND UNDER"
+    "block": "102XX S PRAIRIE AVE"
 }
