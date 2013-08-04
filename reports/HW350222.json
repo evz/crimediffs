@@ -1,33 +1,38 @@
 {
-    "community_area": "24", 
-    "_id": {
-        "$oid": "51e415a7018e783f00abae08"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "1433", 
+    "y_coordinate": "1908686", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "031A", 
+    "case_number": "HW350222", 
+    "id": "9205365", 
+    "primary_type": "ROBBERY", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66372963011149, 
-            41.90490858925357
+            -87.66402246135755, 
+            41.90500908886109
         ]
     }, 
-    "case_number": "HW350222", 
+    "community_area": "24", 
+    "latitude": "41.90500908886109", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "1433", 
     "date": {
         "$date": 1373088180000
     }, 
-    "updated_on": {
-        "$date": 1373416728000
-    }, 
     "ward": "1", 
+    "_id": {
+        "$oid": "51e415a7018e783f00abae08"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.66402246135755", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1166448", 
+    "updated_on": {
+        "$date": 1375058559000
+    }, 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9205365", 
-    "block": "012XX N CLEAVER ST", 
-    "description": "ARMED: HANDGUN"
+    "block": "012XX N CLEAVER ST"
 }
