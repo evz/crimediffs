@@ -1,0 +1,33 @@
+{
+    "community_area": "40", 
+    "_id": {
+        "$oid": "51fde748733824919a2937ad"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "0232", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62378785881012, 
+            41.78863051128701
+        ]
+    }, 
+    "case_number": "HW376144", 
+    "date": {
+        "$date": 1374544800000
+    }, 
+    "updated_on": {
+        "$date": 1374885634000
+    }, 
+    "ward": "20", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9230590", 
+    "block": "058XX S WABASH AVE", 
+    "description": "AUTOMOBILE"
+}
