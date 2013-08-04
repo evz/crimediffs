@@ -1,38 +1,38 @@
 {
-    "y_coordinate": "1838469", 
+    "y_coordinate": "1864668", 
     "year": "2013", 
     "domestic": false, 
     "case_number": "HW378233", 
-    "id": "9202903", 
-    "primary_type": "BATTERY", 
-    "district": "022", 
+    "id": "9232196", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "007", 
     "arrest": false, 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64311386334866, 
-            41.71219037426851
+            -87.65082365479992, 
+            41.78413451329642
         ]
     }, 
-    "community_area": "73", 
-    "latitude": "41.71219037426851", 
-    "type": null, 
-    "description": "SIMPLE", 
-    "beat": "2232", 
+    "community_area": "68", 
+    "latitude": "41.78413451329642", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0712", 
     "date": {
-        "$date": 1372764600000
+        "$date": 1374687000000
     }, 
-    "ward": "34", 
+    "ward": "16", 
     "_id": {
         "$oid": "51dd7e24018e783f00ab9be3"
     }, 
-    "iucr": "460", 
-    "longitude": "-87.64311386334866", 
-    "location_description": "HOTEL/MOTEL", 
-    "x_coordinate": "1172704", 
+    "iucr": "910", 
+    "longitude": "-87.65082365479992", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1170391", 
     "updated_on": {
-        "$date": 1373503231000
+        "$date": 1375317661000
     }, 
-    "fbi_code": "08B", 
-    "block": "100XX S HALSTED ST"
+    "fbi_code": "07", 
+    "block": "060XX S CARPENTER ST"
 }
