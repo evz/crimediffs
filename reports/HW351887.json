@@ -1,33 +1,38 @@
 {
-    "community_area": "28", 
-    "_id": {
-        "$oid": "51e4159d018e783f00abaa69"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "1125", 
+    "y_coordinate": "1898905", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1310", 
+    "case_number": "HW351887", 
+    "id": "9206468", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6888607830917, 
-            41.878537528471675
+            -87.68939915185558, 
+            41.878312775921394
         ]
     }, 
-    "case_number": "HW351887", 
+    "community_area": "28", 
+    "latitude": "41.878312775921394", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1125", 
     "date": {
         "$date": 1373187600000
     }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51e4159d018e783f00abaa69"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.68939915185558", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1159613", 
     "updated_on": {
         "$date": 1373503231000
     }, 
-    "ward": "2", 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9206468", 
-    "block": "025XX W ADAMS ST", 
-    "description": "TO PROPERTY"
+    "block": "025XX W ADAMS ST"
 }
