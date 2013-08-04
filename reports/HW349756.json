@@ -1,33 +1,38 @@
 {
-    "community_area": "72", 
-    "_id": {
-        "$oid": "51e17296018e783f00aba570"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2213", 
+    "y_coordinate": "1841660", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW349756", 
+    "id": "9206232", 
+    "primary_type": "THEFT", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "RESTAURANT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66489070364327, 
-            41.72107350055462
+            -87.66476980278684, 
+            41.72107554151664
         ]
     }, 
-    "case_number": "HW349756", 
+    "community_area": "72", 
+    "latitude": "41.72107554151664", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "2213", 
     "date": {
         "$date": 1373050800000
     }, 
-    "updated_on": {
-        "$date": 1373416728000
-    }, 
     "ward": "19", 
+    "_id": {
+        "$oid": "51e17296018e783f00aba570"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.66476980278684", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1166766", 
+    "updated_on": {
+        "$date": 1374280871000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9206232", 
-    "block": "016XX W 95TH ST", 
-    "description": "OVER $500"
+    "block": "016XX W 95TH ST"
 }
