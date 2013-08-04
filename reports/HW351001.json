@@ -1,33 +1,38 @@
 {
-    "community_area": "67", 
-    "_id": {
-        "$oid": "51e415a3018e783f00abac46"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "0726", 
+    "y_coordinate": "1860193", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "560", 
+    "case_number": "HW351001", 
+    "id": "9206042", 
+    "primary_type": "ASSAULT", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67355447375614, 
-            41.77146792051335
+            -87.67356748735986, 
+            41.77198666737335
         ]
     }, 
-    "case_number": "HW351001", 
+    "community_area": "67", 
+    "latitude": "41.77198666737335", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0726", 
     "date": {
         "$date": 1373135400000
     }, 
-    "updated_on": {
-        "$date": 1373416728000
-    }, 
     "ward": "15", 
+    "_id": {
+        "$oid": "51e415a3018e783f00abac46"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.67356748735986", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1164222", 
+    "updated_on": {
+        "$date": 1374626441000
+    }, 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9206042", 
-    "block": "067XX S DAMEN AVE", 
-    "description": "SIMPLE"
+    "block": "067XX S DAMEN AVE"
 }
