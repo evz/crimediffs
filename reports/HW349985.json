@@ -1,33 +1,38 @@
 {
-    "community_area": "71", 
-    "_id": {
-        "$oid": "51e17294018e783f00aba4f0"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0614", 
+    "y_coordinate": "1849780", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "420", 
+    "case_number": "HW349985", 
+    "id": "9204615", 
+    "primary_type": "BATTERY", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65828175729268, 
-            41.744249021470274
+            -87.65854795681255, 
+            41.743323008615846
         ]
     }, 
-    "case_number": "HW349985", 
+    "community_area": "71", 
+    "latitude": "41.743323008615846", 
+    "type": "violent", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
+    "beat": "0614", 
     "date": {
         "$date": 1373061600000
     }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51e17294018e783f00aba4f0"
+    }, 
+    "iucr": "420", 
+    "longitude": "-87.65854795681255", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1168401", 
     "updated_on": {
         "$date": 1373762389000
     }, 
-    "ward": "21", 
     "fbi_code": "04B", 
-    "type": "violent", 
-    "id": "9204615", 
-    "block": "082XX S LOOMIS BLVD", 
-    "description": "AGGRAVATED:KNIFE/CUTTING INSTR"
+    "block": "082XX S LOOMIS BLVD"
 }
