@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1847902", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW355768", 
+    "id": "9209440", 
+    "primary_type": "ROBBERY", 
+    "district": "004", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55131029423791, 
+            41.73748937038555
+        ]
+    }, 
+    "community_area": "46", 
+    "latitude": "41.73748937038555", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0424", 
+    "date": {
+        "$date": 1373429700000
+    }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51fde777733824919a29651a"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.55131029423791", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1197686", 
+    "updated_on": {
+        "$date": 1374712912000
+    }, 
+    "fbi_code": "03", 
+    "block": "030XX E 87TH ST"
+}
