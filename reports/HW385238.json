@@ -1,0 +1,33 @@
+{
+    "community_area": "67", 
+    "_id": {
+        "$oid": "51fde72a733824919a292c13"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0734", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "620", 
+    "arrest": false, 
+    "location_description": "RESIDENCE-GARAGE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6604592466967, 
+            41.759605205905864
+        ]
+    }, 
+    "case_number": "HW385238", 
+    "date": {
+        "$date": 1374843600000
+    }, 
+    "updated_on": {
+        "$date": 1375490414000
+    }, 
+    "ward": "17", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9239631", 
+    "block": "014XX W 74TH ST", 
+    "description": "UNLAWFUL ENTRY"
+}
