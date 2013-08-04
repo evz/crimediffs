@@ -1,0 +1,33 @@
+{
+    "community_area": "45", 
+    "_id": {
+        "$oid": "51fde764733824919a294cc2"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0411", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59525412926648, 
+            41.74754154694505
+        ]
+    }, 
+    "case_number": "HW366026", 
+    "date": {
+        "$date": 1374028200000
+    }, 
+    "updated_on": {
+        "$date": 1374280871000
+    }, 
+    "ward": "8", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9220577", 
+    "block": "081XX S WOODLAWN AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
