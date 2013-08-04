@@ -6,7 +6,7 @@
     "id": "9205078", 
     "primary_type": "ROBBERY", 
     "district": "001", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "CTA PLATFORM", 
     "x_coordinate": "1176516", 
     "updated_on": {
-        "$date": 1373330420000
+        "$date": 1375404049000
     }, 
     "fbi_code": "03", 
     "block": "007XX S STATE ST"
