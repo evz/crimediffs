@@ -1,33 +1,38 @@
 {
-    "community_area": "50", 
-    "_id": {
-        "$oid": "51e17294018e783f00aba4e4"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0512", 
+    "y_coordinate": "1835280", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW349973", 
+    "id": "9204734", 
+    "primary_type": "BATTERY", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.60281123899675, 
-            41.702838312725845
+            -87.60282191010114, 
+            41.703189654117
         ]
     }, 
-    "case_number": "HW349973", 
+    "community_area": "50", 
+    "latitude": "41.703189654117", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0512", 
     "date": {
         "$date": 1373063040000
     }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51e17294018e783f00aba4e4"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.60282191010114", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1183733", 
     "updated_on": {
         "$date": 1373589638000
     }, 
-    "ward": "9", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9204734", 
-    "block": "105XX S MARYLAND AVE", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "105XX S MARYLAND AVE"
 }
