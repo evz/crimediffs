@@ -1,15 +1,12 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "51e4159e018e783f00abaaa7"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1533", 
+    "y_coordinate": "1898214", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW351492", 
+    "id": "9205777", 
+    "primary_type": "THEFT", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "GAS STATION", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.876716288882314
         ]
     }, 
-    "case_number": "HW351492", 
+    "community_area": "25", 
+    "latitude": "41.876716288882314", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1533", 
     "date": {
         "$date": 1373170500000
     }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51e4159e018e783f00abaaa7"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.74529049224202", 
+    "location_description": "GAS STATION", 
+    "x_coordinate": "1144396", 
     "updated_on": {
         "$date": 1373503231000
     }, 
-    "ward": "24", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9205777", 
-    "block": "003XX S CICERO AVE", 
-    "description": "$500 AND UNDER"
+    "block": "003XX S CICERO AVE"
 }
