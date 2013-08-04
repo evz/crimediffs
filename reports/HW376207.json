@@ -1,0 +1,33 @@
+{
+    "community_area": "26", 
+    "_id": {
+        "$oid": "51fde743733824919a293507"
+    }, 
+    "primary_type": "ARSON", 
+    "beat": "1122", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1025", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72324599999999, 
+            41.8773486
+        ]
+    }, 
+    "case_number": "HW376207", 
+    "date": {
+        "$date": 1374613320000
+    }, 
+    "updated_on": {
+        "$date": 1375144832000
+    }, 
+    "ward": "28", 
+    "fbi_code": "09", 
+    "type": "property", 
+    "id": "9231272", 
+    "block": "039XX W JACKSON BLVD", 
+    "description": "AGGRAVATED"
+}
