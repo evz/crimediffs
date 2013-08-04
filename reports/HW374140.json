@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1900219", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW374140", 
+    "id": "9227446", 
+    "primary_type": "ROBBERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72784560769398, 
+            41.88212785845326
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.88212785845326", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "1114", 
+    "date": {
+        "$date": 1374285600000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51fde757733824919a294243"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.72784560769398", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1149133", 
+    "updated_on": {
+        "$date": 1374971969000
+    }, 
+    "fbi_code": "03", 
+    "block": "040XX W WASHINGTON BLVD"
+}
