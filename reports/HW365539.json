@@ -1,0 +1,33 @@
+{
+    "community_area": "30", 
+    "_id": {
+        "$oid": "51fde765733824919a294e41"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "1013", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71751298824141, 
+            41.849125388105755
+        ]
+    }, 
+    "case_number": "HW365539", 
+    "date": {
+        "$date": 1373995800000
+    }, 
+    "updated_on": {
+        "$date": 1374453626000
+    }, 
+    "ward": "22", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9219272", 
+    "block": "023XX S LAWNDALE AVE", 
+    "description": "TO VEHICLE"
+}
