@@ -1,0 +1,33 @@
+{
+    "community_area": "61", 
+    "_id": {
+        "$oid": "51fde747733824919a29372c"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0924", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66617697267515, 
+            41.813363505497236
+        ]
+    }, 
+    "case_number": "HW375103", 
+    "date": {
+        "$date": 1374570300000
+    }, 
+    "updated_on": {
+        "$date": 1374885634000
+    }, 
+    "ward": "12", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9229734", 
+    "block": "044XX S MARSHFIELD AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
