@@ -1,0 +1,33 @@
+{
+    "community_area": "8", 
+    "_id": {
+        "$oid": "51fde76e733824919a2957e8"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1834", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "860", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61154479607981, 
+            41.89209518854657
+        ]
+    }, 
+    "case_number": "HW361985", 
+    "date": {
+        "$date": 1373758200000
+    }, 
+    "updated_on": {
+        "$date": 1375317661000
+    }, 
+    "ward": "42", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9219594", 
+    "block": "006XX E GRAND AVE", 
+    "description": "RETAIL THEFT"
+}
