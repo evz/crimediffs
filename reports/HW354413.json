@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1901264", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW354413", 
+    "id": "9208236", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64499685425262, 
+            41.884528890443136
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.884528890443136", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0121", 
+    "date": {
+        "$date": 1373320800000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51fde77a733824919a296932"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.64499685425262", 
+    "location_description": "STREET", 
+    "x_coordinate": "1171687", 
+    "updated_on": {
+        "$date": 1373503231000
+    }, 
+    "fbi_code": "06", 
+    "block": "006XX W RANDOLPH ST"
+}
