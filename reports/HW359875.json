@@ -1,0 +1,33 @@
+{
+    "community_area": "8", 
+    "_id": {
+        "$oid": "51fde77b733824919a296a1d"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1833", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62544922833244, 
+            41.898477018886
+        ]
+    }, 
+    "case_number": "HW359875", 
+    "date": {
+        "$date": 1373306400000
+    }, 
+    "updated_on": {
+        "$date": 1374280871000
+    }, 
+    "ward": "42", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9220592", 
+    "block": "001XX E CHESTNUT ST", 
+    "description": "FROM BUILDING"
+}
