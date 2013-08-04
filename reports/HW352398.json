@@ -1,33 +1,38 @@
 {
-    "community_area": "1", 
-    "_id": {
-        "$oid": "51e41597018e783f00aba8ac"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "2423", 
+    "y_coordinate": "1949116", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "4387", 
+    "case_number": "HW352398", 
+    "id": "9207879", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "024", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66775981402122, 
-            42.016165717080234
+            -87.66640763937966, 
+            42.01597126422724
         ]
     }, 
-    "case_number": "HW352398", 
+    "community_area": "1", 
+    "latitude": "42.01597126422724", 
+    "type": null, 
+    "description": "VIOLATE ORDER OF PROTECTION", 
+    "beat": "2423", 
     "date": {
         "$date": 1373227260000
     }, 
-    "updated_on": {
-        "$date": 1373503231000
-    }, 
     "ward": "49", 
+    "_id": {
+        "$oid": "51e41597018e783f00aba8ac"
+    }, 
+    "iucr": "4387", 
+    "longitude": "-87.66640763937966", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1165484", 
+    "updated_on": {
+        "$date": 1375404049000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9207879", 
-    "block": "014XX W JARVIS AVE", 
-    "description": "VIOLATE ORDER OF PROTECTION"
+    "block": "014XX W JARVIS AVE"
 }
