@@ -1,0 +1,33 @@
+{
+    "community_area": "22", 
+    "_id": {
+        "$oid": "51fde74b733824919a293902"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1412", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "497", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71730989802292, 
+            41.930672242649116
+        ]
+    }, 
+    "case_number": "HW374452", 
+    "date": {
+        "$date": 1374518700000
+    }, 
+    "updated_on": {
+        "$date": 1374799275000
+    }, 
+    "ward": "35", 
+    "fbi_code": "04B", 
+    "type": "violent", 
+    "id": "9229369", 
+    "block": "027XX N CENTRAL PARK AVE", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: OTHER DANG WEAPON"
+}
