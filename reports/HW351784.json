@@ -1,33 +1,38 @@
 {
-    "community_area": "16", 
-    "_id": {
-        "$oid": "51e415a1018e783f00abab8f"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1731", 
+    "y_coordinate": "1921983", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW351784", 
+    "id": "9206905", 
+    "primary_type": "THEFT", 
+    "district": "017", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72711221679248, 
-            41.94142139346645
+            -87.72741689993194, 
+            41.94185110004625
         ]
     }, 
-    "case_number": "HW351784", 
+    "community_area": "16", 
+    "latitude": "41.94185110004625", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1731", 
     "date": {
         "$date": 1373149800000
     }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "51e415a1018e783f00abab8f"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.72741689993194", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1149096", 
     "updated_on": {
         "$date": 1373503231000
     }, 
-    "ward": "30", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9206905", 
-    "block": "033XX N PULASKI RD", 
-    "description": "$500 AND UNDER"
+    "block": "033XX N PULASKI RD"
 }
