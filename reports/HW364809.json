@@ -1,0 +1,33 @@
+{
+    "community_area": "7", 
+    "_id": {
+        "$oid": "51fde767733824919a294f7a"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "1811", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65462116768641, 
+            41.91583203486252
+        ]
+    }, 
+    "case_number": "HW364809", 
+    "date": {
+        "$date": 1373970600000
+    }, 
+    "updated_on": {
+        "$date": 1374194525000
+    }, 
+    "ward": "32", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9219600", 
+    "block": "018XX N MAUD AVE", 
+    "description": "TO PROPERTY"
+}
