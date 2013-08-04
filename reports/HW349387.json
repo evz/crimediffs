@@ -1,21 +1,21 @@
 {
-    "y_coordinate": "1867102", 
+    "y_coordinate": "1866969", 
     "year": "2013", 
     "domestic": false, 
     "case_number": "HW349387", 
     "id": "9204091", 
     "primary_type": "BATTERY", 
     "district": "007", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6342047741736, 
-            41.79071417305842
+            -87.63419407306088, 
+            41.79034911795848
         ]
     }, 
     "community_area": "68", 
-    "latitude": "41.79071417305842", 
+    "latitude": "41.79034911795848", 
     "type": "violent", 
     "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
     "beat": "0711", 
@@ -27,11 +27,11 @@
         "$oid": "51e0211a018e783f00aba0ba"
     }, 
     "iucr": "420", 
-    "longitude": "-87.6342047741736", 
+    "longitude": "-87.63419407306088", 
     "location_description": "STREET", 
-    "x_coordinate": "1174904", 
+    "x_coordinate": "1174908", 
     "updated_on": {
-        "$date": 1373848785000
+        "$date": 1374712912000
     }, 
     "fbi_code": "04B", 
     "block": "057XX S SHIELDS AVE"
