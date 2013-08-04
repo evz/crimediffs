@@ -1,33 +1,38 @@
 {
-    "community_area": "39", 
-    "_id": {
-        "$oid": "51e415a7018e783f00abadfc"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "0222", 
+    "y_coordinate": "1872520", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "560", 
+    "case_number": "HW350661", 
+    "id": "9211030", 
+    "primary_type": "ASSAULT", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6036717056091, 
-            41.80574407233976
+            -87.60366102085315, 
+            41.80539273709631
         ]
     }, 
-    "case_number": "HW350661", 
+    "community_area": "39", 
+    "latitude": "41.80539273709631", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0222", 
     "date": {
         "$date": 1373090400000
     }, 
-    "updated_on": {
-        "$date": 1373848785000
-    }, 
     "ward": "4", 
+    "_id": {
+        "$oid": "51e415a7018e783f00abadfc"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.60366102085315", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1183188", 
+    "updated_on": {
+        "$date": 1373935219000
+    }, 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9211030", 
-    "block": "049XX S DREXEL BLVD", 
-    "description": "SIMPLE"
+    "block": "049XX S DREXEL BLVD"
 }
