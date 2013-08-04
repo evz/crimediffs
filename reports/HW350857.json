@@ -1,33 +1,38 @@
 {
-    "community_area": "33", 
-    "_id": {
-        "$oid": "51e415a4018e783f00abaca0"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0132", 
+    "y_coordinate": "1893869", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "870", 
+    "case_number": "HW350857", 
+    "id": "9215542", 
+    "primary_type": "THEFT", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "CTA BUS", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61865131249694, 
-            41.86410993718415
+            -87.61894171204779, 
+            41.86407606871088
         ]
     }, 
-    "case_number": "HW350857", 
+    "community_area": "33", 
+    "latitude": "41.86407606871088", 
+    "type": "property", 
+    "description": "POCKET-PICKING", 
+    "beat": "0132", 
     "date": {
         "$date": 1373127900000
     }, 
-    "updated_on": {
-        "$date": 1373848785000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "51e415a4018e783f00abaca0"
+    }, 
+    "iucr": "870", 
+    "longitude": "-87.61894171204779", 
+    "location_description": "CTA BUS", 
+    "x_coordinate": "1178844", 
+    "updated_on": {
+        "$date": 1374626441000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9215542", 
-    "block": "014XX S LAKE SHORE DR E", 
-    "description": "POCKET-PICKING"
+    "block": "014XX S LAKE SHORE DR E"
 }
