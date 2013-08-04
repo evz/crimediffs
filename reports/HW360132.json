@@ -1,0 +1,33 @@
+{
+    "community_area": "1", 
+    "_id": {
+        "$oid": "51fde772733824919a295d7e"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "2431", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": true, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66856502169013, 
+            42.00775122985353
+        ]
+    }, 
+    "case_number": "HW360132", 
+    "date": {
+        "$date": 1373633100000
+    }, 
+    "updated_on": {
+        "$date": 1375058559000
+    }, 
+    "ward": "49", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9222428", 
+    "block": "015XX W MORSE AVE", 
+    "description": "FORCIBLE ENTRY"
+}
