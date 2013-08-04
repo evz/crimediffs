@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "51fde768733824919a295080"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0512", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "SMALL RETAIL STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61282179974155, 
+            41.707218335773895
+        ]
+    }, 
+    "case_number": "HW364501", 
+    "date": {
+        "$date": 1373931000000
+    }, 
+    "updated_on": {
+        "$date": 1375144832000
+    }, 
+    "ward": "9", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9222548", 
+    "block": "004XX E 103RD ST", 
+    "description": "FORCIBLE ENTRY"
+}
