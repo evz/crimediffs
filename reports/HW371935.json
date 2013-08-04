@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "51fde754733824919a293fbb"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0633", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61734157927714, 
+            41.72960454778384
+        ]
+    }, 
+    "case_number": "HW371935", 
+    "date": {
+        "$date": 1374354000000
+    }, 
+    "updated_on": {
+        "$date": 1375058559000
+    }, 
+    "ward": "6", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9234308", 
+    "block": "003XX E 91ST ST", 
+    "description": "$500 AND UNDER"
+}
