@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "51fde728733824919a292bb3"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1524", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7580586, 
+            41.8949171
+        ]
+    }, 
+    "case_number": "HW384118", 
+    "date": {
+        "$date": 1374850800000
+    }, 
+    "updated_on": {
+        "$date": 1375404049000
+    }, 
+    "ward": "37", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9239337", 
+    "block": "053XX W CHICAGO AVE", 
+    "description": "FORCIBLE ENTRY"
+}
