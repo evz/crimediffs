@@ -1,33 +1,38 @@
 {
-    "community_area": "73", 
-    "_id": {
-        "$oid": "51e415a8018e783f00abae0c"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "2232", 
+    "y_coordinate": "1835238", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW358878", 
+    "id": "9215433", 
+    "primary_type": "BATTERY", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65231558762842, 
-            41.70372139976526
+            -87.65259750302585, 
+            41.70338002911702
         ]
     }, 
-    "case_number": "HW358878", 
+    "community_area": "73", 
+    "latitude": "41.70338002911702", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "2232", 
     "date": {
         "$date": 1373061600000
     }, 
-    "updated_on": {
-        "$date": 1373848785000
-    }, 
     "ward": "34", 
+    "_id": {
+        "$oid": "51e415a8018e783f00abae0c"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.65259750302585", 
+    "location_description": "STREET", 
+    "x_coordinate": "1170140", 
+    "updated_on": {
+        "$date": 1374453626000
+    }, 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9215433", 
-    "block": "104XX S RACINE AVE", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "104XX S RACINE AVE"
 }
