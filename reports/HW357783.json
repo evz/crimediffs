@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1900445", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW357783", 
+    "id": "9211798", 
+    "primary_type": "ROBBERY", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70938033221404, 
+            41.882649216641106
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.882649216641106", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "1123", 
+    "date": {
+        "$date": 1373539500000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51fde775733824919a29615f"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.70938033221404", 
+    "location_description": "STREET", 
+    "x_coordinate": "1154160", 
+    "updated_on": {
+        "$date": 1374021583000
+    }, 
+    "fbi_code": "03", 
+    "block": "033XX W WASHINGTON BLVD"
+}
