@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "51e4159b018e783f00aba9ea"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "1524", 
+    "y_coordinate": "1904859", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1310", 
+    "case_number": "HW351849", 
+    "id": "9206066", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "CONVENIENCE STORE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.7580586, 
-            41.8949171
+            -87.7581836611364, 
+            41.895017109927224
         ]
     }, 
-    "case_number": "HW351849", 
+    "community_area": "25", 
+    "latitude": "41.895017109927224", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1524", 
     "date": {
         "$date": 1373200800000
     }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "51e4159b018e783f00aba9ea"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.7581836611364", 
+    "location_description": "CONVENIENCE STORE", 
+    "x_coordinate": "1140840", 
     "updated_on": {
         "$date": 1373416728000
     }, 
-    "ward": "37", 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9206066", 
-    "block": "053XX W CHICAGO AVE", 
-    "description": "TO PROPERTY"
+    "block": "053XX W CHICAGO AVE"
 }
