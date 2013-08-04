@@ -1,33 +1,38 @@
 {
-    "community_area": "24", 
-    "_id": {
-        "$oid": "51e415a3018e783f00abac18"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1211", 
+    "y_coordinate": "1906706", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW351082", 
+    "id": "9206067", 
+    "primary_type": "BATTERY", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6969471404964, 
-            41.8995678482583
+            -87.69694887904292, 
+            41.8997626987787
         ]
     }, 
-    "case_number": "HW351082", 
+    "community_area": "24", 
+    "latitude": "41.8997626987787", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1211", 
     "date": {
         "$date": 1373140500000
     }, 
-    "updated_on": {
-        "$date": 1373416728000
-    }, 
     "ward": "26", 
+    "_id": {
+        "$oid": "51e415a3018e783f00abac18"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.69694887904292", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1157499", 
+    "updated_on": {
+        "$date": 1374194525000
+    }, 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9206067", 
-    "block": "010XX N CALIFORNIA AVE", 
-    "description": "SIMPLE"
+    "block": "010XX N CALIFORNIA AVE"
 }
