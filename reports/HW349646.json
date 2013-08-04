@@ -1,33 +1,38 @@
 {
-    "community_area": "27", 
-    "_id": {
-        "$oid": "51e17299018e783f00aba632"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "1222", 
+    "y_coordinate": "1901097", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "031A", 
+    "case_number": "HW349646", 
+    "id": "9205315", 
+    "primary_type": "ROBBERY", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69652878942716, 
-            41.884367919912606
+            -87.69652511729208, 
+            41.884367899549815
         ]
     }, 
-    "case_number": "HW349646", 
+    "community_area": "27", 
+    "latitude": "41.884367899549815", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "1222", 
     "date": {
         "$date": 1373035500000
     }, 
-    "updated_on": {
-        "$date": 1373330420000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "51e17299018e783f00aba632"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.69652511729208", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1157656", 
+    "updated_on": {
+        "$date": 1374194525000
+    }, 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9205315", 
-    "block": "002XX N CALIFORNIA AVE", 
-    "description": "ARMED: HANDGUN"
+    "block": "002XX N CALIFORNIA AVE"
 }
