@@ -1,0 +1,33 @@
+{
+    "community_area": "28", 
+    "_id": {
+        "$oid": "51fde74f733824919a293acf"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "1225", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68045509919715, 
+            41.867760034127144
+        ]
+    }, 
+    "case_number": "HW373999", 
+    "date": {
+        "$date": 1374481800000
+    }, 
+    "updated_on": {
+        "$date": 1374799275000
+    }, 
+    "ward": "2", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9229199", 
+    "block": "011XX S HAMILTON AVE", 
+    "description": "TO VEHICLE"
+}
