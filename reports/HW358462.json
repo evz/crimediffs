@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1865111", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW358462", 
+    "id": "9212335", 
+    "primary_type": "ROBBERY", 
+    "district": "003", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63040705436481, 
+            41.78522712364124
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.78522712364124", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0311", 
+    "date": {
+        "$date": 1373578200000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51fde774733824919a295f68"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.63040705436481", 
+    "location_description": "STREET", 
+    "x_coordinate": "1175956", 
+    "updated_on": {
+        "$date": 1373762389000
+    }, 
+    "fbi_code": "03", 
+    "block": "060XX S WENTWORTH AVE"
+}
