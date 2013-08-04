@@ -1,33 +1,38 @@
 {
-    "community_area": "46", 
-    "_id": {
-        "$oid": "51e1729c018e783f00aba725"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0422", 
+    "y_coordinate": "1851505", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "630", 
+    "case_number": "HW349700", 
+    "id": "9205146", 
+    "primary_type": "BURGLARY", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.55055460410115, 
-            41.748123883749884
+            -87.55053442428469, 
+            41.74737180813228
         ]
     }, 
-    "case_number": "HW349700", 
+    "community_area": "46", 
+    "latitude": "41.74737180813228", 
+    "type": "property", 
+    "description": "ATTEMPT FORCIBLE ENTRY", 
+    "beat": "0422", 
     "date": {
         "$date": 1373009400000
     }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51e1729c018e783f00aba725"
+    }, 
+    "iucr": "630", 
+    "longitude": "-87.55053442428469", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1197865", 
     "updated_on": {
         "$date": 1373675960000
     }, 
-    "ward": "7", 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9205146", 
-    "block": "081XX S HOUSTON AVE", 
-    "description": "ATTEMPT FORCIBLE ENTRY"
+    "block": "081XX S HOUSTON AVE"
 }
