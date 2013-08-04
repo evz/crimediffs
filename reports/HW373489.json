@@ -1,0 +1,33 @@
+{
+    "community_area": "67", 
+    "_id": {
+        "$oid": "51fde753733824919a293e1d"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0725", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66018088280282, 
+            41.777820222340125
+        ]
+    }, 
+    "case_number": "HW373489", 
+    "date": {
+        "$date": 1374400800000
+    }, 
+    "updated_on": {
+        "$date": 1374971969000
+    }, 
+    "ward": "16", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9232210", 
+    "block": "014XX W 64TH ST", 
+    "description": "OVER $500"
+}
