@@ -1,33 +1,38 @@
 {
-    "community_area": "40", 
-    "_id": {
-        "$oid": "51e415a0018e783f00abab4b"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0311", 
+    "y_coordinate": "1864738", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW351412", 
+    "id": "9207317", 
+    "primary_type": "THEFT", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "CTA BUS STOP", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61586335045999, 
-            41.78406419732273
+            -87.61586646613148, 
+            41.784113613953
         ]
     }, 
-    "case_number": "HW351412", 
+    "community_area": "40", 
+    "latitude": "41.784113613953", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0311", 
     "date": {
         "$date": 1373155260000
     }, 
-    "updated_on": {
-        "$date": 1373503231000
-    }, 
     "ward": "20", 
+    "_id": {
+        "$oid": "51e415a0018e783f00abab4b"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.61586646613148", 
+    "location_description": "CTA BUS STOP", 
+    "x_coordinate": "1179925", 
+    "updated_on": {
+        "$date": 1375231290000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9207317", 
-    "block": "060XX S DR MARTIN LUTHER KING JR DR", 
-    "description": "$500 AND UNDER"
+    "block": "060XX S DR MARTIN LUTHER KING JR DR"
 }
