@@ -1,33 +1,38 @@
 {
-    "community_area": "77", 
-    "_id": {
-        "$oid": "51e41597018e783f00aba8a3"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "2023", 
+    "y_coordinate": "1935003", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "560", 
+    "case_number": "HW352390", 
+    "id": "9211942", 
+    "primary_type": "ASSAULT", 
+    "district": "020", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65799706606933, 
-            41.97753910888296
+            -87.65769181462262, 
+            41.97719154372096
         ]
     }, 
-    "case_number": "HW352390", 
+    "community_area": "77", 
+    "latitude": "41.97719154372096", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2023", 
     "date": {
         "$date": 1373228100000
     }, 
+    "ward": "48", 
+    "_id": {
+        "$oid": "51e41597018e783f00aba8a3"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.65769181462262", 
+    "location_description": "STREET", 
+    "x_coordinate": "1167964", 
     "updated_on": {
         "$date": 1373762389000
     }, 
-    "ward": "48", 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9211942", 
-    "block": "052XX N WINTHROP AVE", 
-    "description": "SIMPLE"
+    "block": "052XX N WINTHROP AVE"
 }
