@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1860239", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW360048", 
+    "id": "9213939", 
+    "primary_type": "ROBBERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66173330568084, 
+            41.77204433490051
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.77204433490051", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0725", 
+    "date": {
+        "$date": 1373671800000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51fde771733824919a295b74"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.66173330568084", 
+    "location_description": "STREET", 
+    "x_coordinate": "1167450", 
+    "updated_on": {
+        "$date": 1374021583000
+    }, 
+    "fbi_code": "03", 
+    "block": "067XX S LAFLIN ST"
+}
