@@ -1,33 +1,38 @@
 {
-    "community_area": "54", 
-    "_id": {
-        "$oid": "51e17298018e783f00aba5e9"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0533", 
+    "y_coordinate": "1817198", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW353109", 
+    "id": "9208791", 
+    "primary_type": "BURGLARY", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "SCHOOL, PUBLIC, BUILDING", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.60506232793128, 
-            41.65357803882014
+            -87.60505863809185, 
+            41.653580759788845
         ]
     }, 
-    "case_number": "HW353109", 
+    "community_area": "54", 
+    "latitude": "41.653580759788845", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0533", 
     "date": {
         "$date": 1373040000000
     }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51e17298018e783f00aba5e9"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.60505863809185", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1183275", 
     "updated_on": {
         "$date": 1373589638000
     }, 
-    "ward": "9", 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9208791", 
-    "block": "133XX S LANGLEY AVE", 
-    "description": "FORCIBLE ENTRY"
+    "block": "133XX S LANGLEY AVE"
 }
