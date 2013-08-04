@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "51e1728f018e783f00aba41a"
-    }, 
-    "primary_type": "CRIM SEXUAL ASSAULT", 
-    "beat": "0414", 
+    "y_coordinate": "1854202", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "281", 
+    "case_number": "HW350228", 
+    "id": "9205214", 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "ALLEY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.58201446753567, 
-            41.7544344907427
+            -87.58231956310847, 
+            41.75498534520488
         ]
     }, 
-    "case_number": "HW350228", 
+    "community_area": "43", 
+    "latitude": "41.75498534520488", 
+    "type": "violent", 
+    "description": "NON-AGGRAVATED", 
+    "beat": "0414", 
     "date": {
         "$date": 1373086800000
     }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51e1728f018e783f00aba41a"
+    }, 
+    "iucr": "281", 
+    "longitude": "-87.58231956310847", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1189167", 
     "updated_on": {
         "$date": 1373503231000
     }, 
-    "ward": "8", 
     "fbi_code": "02", 
-    "type": "violent", 
-    "id": "9205214", 
-    "block": "077XX S RIDGELAND AVE", 
-    "description": "NON-AGGRAVATED"
+    "block": "077XX S RIDGELAND AVE"
 }
