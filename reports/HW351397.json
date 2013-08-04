@@ -1,33 +1,38 @@
 {
-    "community_area": "56", 
-    "_id": {
-        "$oid": "51e415a2018e783f00ababbc"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0814", 
+    "y_coordinate": "1874271", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "430", 
+    "case_number": "HW351397", 
+    "id": "9206672", 
+    "primary_type": "BATTERY", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.74829068617726, 
-            41.81102287850642
+            -87.74829066120708, 
+            41.81102562266202
         ]
     }, 
-    "case_number": "HW351397", 
+    "community_area": "56", 
+    "latitude": "41.81102562266202", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "0814", 
     "date": {
         "$date": 1373147100000
     }, 
-    "updated_on": {
-        "$date": 1373848785000
-    }, 
     "ward": "23", 
+    "_id": {
+        "$oid": "51e415a2018e783f00ababbc"
+    }, 
+    "iucr": "430", 
+    "longitude": "-87.74829066120708", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1143742", 
+    "updated_on": {
+        "$date": 1374021583000
+    }, 
     "fbi_code": "04B", 
-    "type": "violent", 
-    "id": "9206672", 
-    "block": "045XX S LAVERGNE AVE", 
-    "description": "AGGRAVATED: OTHER DANG WEAPON"
+    "block": "045XX S LAVERGNE AVE"
 }
