@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "51fde761733824919a2949be"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0633", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61896163391968, 
+            41.72655746543239
+        ]
+    }, 
+    "case_number": "HW367919", 
+    "date": {
+        "$date": 1374102000000
+    }, 
+    "updated_on": {
+        "$date": 1374799275000
+    }, 
+    "ward": "6", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9230108", 
+    "block": "092XX S INDIANA AVE", 
+    "description": "OVER $500"
+}
