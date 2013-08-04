@@ -1,0 +1,33 @@
+{
+    "community_area": "46", 
+    "_id": {
+        "$oid": "51fde776733824919a296281"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "0423", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "930", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5528576681198, 
+            41.740417086764175
+        ]
+    }, 
+    "case_number": "HW357081", 
+    "date": {
+        "$date": 1373496000000
+    }, 
+    "updated_on": {
+        "$date": 1375490414000
+    }, 
+    "ward": "10", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9245078", 
+    "block": "085XX S EXCHANGE AVE", 
+    "description": "THEFT/RECOVERY: AUTOMOBILE"
+}
