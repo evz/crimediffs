@@ -1,33 +1,38 @@
 {
-    "community_area": "8", 
-    "_id": {
-        "$oid": "51e415a5018e783f00abad08"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1833", 
+    "y_coordinate": "1907190", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW350716", 
+    "id": "9205655", 
+    "primary_type": "THEFT", 
+    "district": "018", 
     "arrest": false, 
-    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62732796771344, 
-            41.90065104112223
+            -87.62601266494545, 
+            41.9006758776142
         ]
     }, 
-    "case_number": "HW350716", 
+    "community_area": "8", 
+    "latitude": "41.9006758776142", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1833", 
     "date": {
         "$date": 1373119200000
     }, 
-    "updated_on": {
-        "$date": 1373848785000
-    }, 
     "ward": "42", 
+    "_id": {
+        "$oid": "51e415a5018e783f00abad08"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.62601266494545", 
+    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
+    "x_coordinate": "1176808", 
+    "updated_on": {
+        "$date": 1374021583000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9205655", 
-    "block": "0000X E OAK ST", 
-    "description": "FROM BUILDING"
+    "block": "0000X E OAK ST"
 }
