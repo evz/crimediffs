@@ -1,0 +1,33 @@
+{
+    "community_area": "29", 
+    "_id": {
+        "$oid": "51fde743733824919a29351e"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1012", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "PARK PROPERTY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73367403171947, 
+            41.859276853647025
+        ]
+    }, 
+    "case_number": "HW376197", 
+    "date": {
+        "$date": 1374612300000
+    }, 
+    "updated_on": {
+        "$date": 1374885634000
+    }, 
+    "ward": "24", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9231263", 
+    "block": "015XX S KOLIN AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
