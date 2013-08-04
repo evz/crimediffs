@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1901302", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW368926", 
+    "id": "9222448", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62960594989579, 
+            41.88453988737736
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88453988737736", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0111", 
+    "date": {
+        "$date": 1374189000000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51fde75b733824919a294634"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.62960594989579", 
+    "location_description": "CTA BUS STOP", 
+    "x_coordinate": "1175878", 
+    "updated_on": {
+        "$date": 1374367458000
+    }, 
+    "fbi_code": "06", 
+    "block": "001XX N DEARBORN ST"
+}
