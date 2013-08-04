@@ -1,0 +1,33 @@
+{
+    "community_area": "42", 
+    "_id": {
+        "$oid": "51fde786733824919a296bf3"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0331", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57909684201607, 
+            41.776998164984875
+        ]
+    }, 
+    "case_number": "HW352167", 
+    "date": {
+        "$date": 1373133600000
+    }, 
+    "updated_on": {
+        "$date": 1374453626000
+    }, 
+    "ward": "5", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9223534", 
+    "block": "065XX S RICHARDS DR", 
+    "description": "$500 AND UNDER"
+}
