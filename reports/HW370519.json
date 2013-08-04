@@ -1,0 +1,33 @@
+{
+    "community_area": "16", 
+    "_id": {
+        "$oid": "51fde75a733824919a294612"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "1723", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71891152711326, 
+            41.9544786893781
+        ]
+    }, 
+    "case_number": "HW370519", 
+    "date": {
+        "$date": 1374192000000
+    }, 
+    "updated_on": {
+        "$date": 1375058559000
+    }, 
+    "ward": "33", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9235113", 
+    "block": "040XX N MONTICELLO AVE", 
+    "description": "TO PROPERTY"
+}
