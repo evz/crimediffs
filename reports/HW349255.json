@@ -1,33 +1,38 @@
 {
-    "community_area": "6", 
-    "_id": {
-        "$oid": "51e0211a018e783f00aba095"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1933", 
+    "y_coordinate": "1920730", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW349255", 
+    "id": "9207626", 
+    "primary_type": "THEFT", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65413526667353, 
-            41.93635869205365
+            -87.653893639369, 
+            41.938001048719784
         ]
     }, 
-    "case_number": "HW349255", 
+    "community_area": "6", 
+    "latitude": "41.938001048719784", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1933", 
     "date": {
         "$date": 1372987800000
     }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51e0211a018e783f00aba095"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.653893639369", 
+    "location_description": "STREET", 
+    "x_coordinate": "1169110", 
     "updated_on": {
         "$date": 1373675960000
     }, 
-    "ward": "44", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9207626", 
-    "block": "030XX N SHEFFIELD AVE", 
-    "description": "OVER $500"
+    "block": "030XX N SHEFFIELD AVE"
 }
