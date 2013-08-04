@@ -1,15 +1,12 @@
 {
-    "community_area": "3", 
-    "_id": {
-        "$oid": "51e41596018e783f00aba899"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1914", 
+    "y_coordinate": "1929556", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "870", 
+    "case_number": "HW353268", 
+    "id": "9215406", 
+    "primary_type": "THEFT", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "PARK PROPERTY", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.96217519820151
         ]
     }, 
-    "case_number": "HW353268", 
+    "community_area": "3", 
+    "latitude": "41.96217519820151", 
+    "type": "property", 
+    "description": "POCKET-PICKING", 
+    "beat": "1914", 
     "date": {
         "$date": 1373229000000
     }, 
-    "updated_on": {
-        "$date": 1373848785000
-    }, 
     "ward": "46", 
+    "_id": {
+        "$oid": "51e41596018e783f00aba899"
+    }, 
+    "iucr": "870", 
+    "longitude": "-87.64612149425874", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1171154", 
+    "updated_on": {
+        "$date": 1374194525000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9215406", 
-    "block": "044XX N LAKE SHORE DR NB", 
-    "description": "POCKET-PICKING"
+    "block": "044XX N LAKE SHORE DR NB"
 }
