@@ -1,33 +1,38 @@
 {
-    "community_area": "67", 
-    "_id": {
-        "$oid": "51e4159b018e783f00aba9da"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0715", 
+    "y_coordinate": "1866617", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW353038", 
+    "id": "9210237", 
+    "primary_type": "THEFT", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "ALLEY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67525735874204, 
-            41.78992756792507
+            -87.67524944590029, 
+            41.78962565085851
         ]
     }, 
-    "case_number": "HW353038", 
+    "community_area": "67", 
+    "latitude": "41.78962565085851", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0715", 
     "date": {
         "$date": 1373202000000
     }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "51e4159b018e783f00aba9da"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.67524944590029", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1163714", 
     "updated_on": {
         "$date": 1373675960000
     }, 
-    "ward": "15", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9210237", 
-    "block": "057XX S SEELEY AVE", 
-    "description": "$500 AND UNDER"
+    "block": "057XX S SEELEY AVE"
 }
