@@ -1,0 +1,33 @@
+{
+    "community_area": "56", 
+    "_id": {
+        "$oid": "51fde745733824919a293623"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0814", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "GAS STATION", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74318047327202, 
+            41.803082222190234
+        ]
+    }, 
+    "case_number": "HW375815", 
+    "date": {
+        "$date": 1374592920000
+    }, 
+    "updated_on": {
+        "$date": 1374799275000
+    }, 
+    "ward": "23", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9230080", 
+    "block": "049XX S CICERO AVE", 
+    "description": "$500 AND UNDER"
+}
