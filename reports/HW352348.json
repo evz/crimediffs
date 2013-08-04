@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "51e41598018e783f00aba8d6"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "0333", 
+    "y_coordinate": "1858200", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "320", 
+    "case_number": "HW352348", 
+    "id": "9207571", 
+    "primary_type": "ROBBERY", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "SMALL RETAIL STORE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.57902112561513, 
-            41.76593817639351
+            -87.5792447400013, 
+            41.765936900049766
         ]
     }, 
-    "case_number": "HW352348", 
+    "community_area": "43", 
+    "latitude": "41.765936900049766", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0333", 
     "date": {
         "$date": 1373225160000
     }, 
-    "updated_on": {
-        "$date": 1373503231000
-    }, 
     "ward": "5", 
+    "_id": {
+        "$oid": "51e41598018e783f00aba8d6"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.5792447400013", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1189971", 
+    "updated_on": {
+        "$date": 1374626441000
+    }, 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9207571", 
-    "block": "018XX E 71ST ST", 
-    "description": "STRONGARM - NO WEAPON"
+    "block": "018XX E 71ST ST"
 }
