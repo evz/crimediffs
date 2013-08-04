@@ -1,33 +1,38 @@
 {
-    "community_area": "9", 
-    "_id": {
-        "$oid": "51e4159c018e783f00abaa21"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "1611", 
+    "y_coordinate": "1947608", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "560", 
+    "case_number": "HW351764", 
+    "id": "9206933", 
+    "primary_type": "ASSAULT", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.81774133144, 
-            42.01261255024758
+            -87.81773765185922, 
+            42.01261253371988
         ]
     }, 
-    "case_number": "HW351764", 
+    "community_area": "9", 
+    "latitude": "42.01261253371988", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1611", 
     "date": {
         "$date": 1373196600000
     }, 
+    "ward": "41", 
+    "_id": {
+        "$oid": "51e4159c018e783f00abaa21"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.81773765185922", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1124368", 
     "updated_on": {
         "$date": 1373416728000
     }, 
-    "ward": "41", 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9206933", 
-    "block": "072XX N OTTAWA AVE", 
-    "description": "SIMPLE"
+    "block": "072XX N OTTAWA AVE"
 }
