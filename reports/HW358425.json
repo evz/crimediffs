@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1896886", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW358425", 
+    "id": "9212264", 
+    "primary_type": "ROBBERY", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62778570349582, 
+            41.87241013885148
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.87241013885148", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0123", 
+    "date": {
+        "$date": 1373578380000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51fde774733824919a295f66"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.62778570349582", 
+    "location_description": "CTA PLATFORM", 
+    "x_coordinate": "1176410", 
+    "updated_on": {
+        "$date": 1375404049000
+    }, 
+    "fbi_code": "03", 
+    "block": "0000X W POLK ST"
+}
