@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1860480", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW357213", 
+    "id": "9211026", 
+    "primary_type": "ROBBERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64276361906347, 
+            41.77259325164365
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.77259325164365", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0723", 
+    "date": {
+        "$date": 1373512500000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51fde775733824919a2961fb"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.64276361906347", 
+    "location_description": "STREET", 
+    "x_coordinate": "1172623", 
+    "updated_on": {
+        "$date": 1374108135000
+    }, 
+    "fbi_code": "03", 
+    "block": "066XX S UNION AVE"
+}
