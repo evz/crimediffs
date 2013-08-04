@@ -1,33 +1,38 @@
 {
-    "community_area": "29", 
-    "_id": {
-        "$oid": "51e17294018e783f00aba4fb"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1011", 
+    "y_coordinate": "1892891", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW350077", 
+    "id": "9204617", 
+    "primary_type": "BATTERY", 
+    "district": "010", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72000590014524, 
-            41.86133970833733
+            -87.72031551101884, 
+            41.861978029000106
         ]
     }, 
-    "case_number": "HW350077", 
+    "community_area": "29", 
+    "latitude": "41.861978029000106", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1011", 
     "date": {
         "$date": 1373061600000
     }, 
-    "updated_on": {
-        "$date": 1373244025000
-    }, 
     "ward": "24", 
+    "_id": {
+        "$oid": "51e17294018e783f00aba4fb"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.72031551101884", 
+    "location_description": "STREET", 
+    "x_coordinate": "1151236", 
+    "updated_on": {
+        "$date": 1374194525000
+    }, 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9204617", 
-    "block": "014XX S HAMLIN AVE", 
-    "description": "SIMPLE"
+    "block": "014XX S HAMLIN AVE"
 }
