@@ -1,33 +1,38 @@
 {
-    "community_area": "71", 
-    "_id": {
-        "$oid": "51e41595018e783f00aba84b"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "0612", 
+    "y_coordinate": "1851720", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW353064", 
+    "id": "9207630", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6609685, 
-            41.7485757
+            -87.66183777380425, 
+            41.748666240297176
         ]
     }, 
-    "case_number": "HW353064", 
+    "community_area": "71", 
+    "latitude": "41.748666240297176", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0612", 
     "date": {
         "$date": 1373234400000
     }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51e41595018e783f00aba84b"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.66183777380425", 
+    "location_description": "STREET", 
+    "x_coordinate": "1167488", 
     "updated_on": {
         "$date": 1373589638000
     }, 
-    "ward": "21", 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9207630", 
-    "block": "015XX W 80TH ST", 
-    "description": "AUTOMOBILE"
+    "block": "015XX W 80TH ST"
 }
