@@ -1,33 +1,38 @@
 {
-    "community_area": "69", 
-    "_id": {
-        "$oid": "51e4159f018e783f00abaad7"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0623", 
+    "y_coordinate": "1855272", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW351947", 
+    "id": "9210538", 
+    "primary_type": "THEFT", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62203435564574, 
-            41.758171738914385
+            -87.6220343253433, 
+            41.75817448302676
         ]
     }, 
-    "case_number": "HW351947", 
+    "community_area": "69", 
+    "latitude": "41.75817448302676", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0623", 
     "date": {
         "$date": 1373165100000
     }, 
-    "updated_on": {
-        "$date": 1373848785000
-    }, 
     "ward": "6", 
+    "_id": {
+        "$oid": "51e4159f018e783f00abaad7"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.6220343253433", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1178321", 
+    "updated_on": {
+        "$date": 1374108135000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9210538", 
-    "block": "0000X E 75TH ST", 
-    "description": "$500 AND UNDER"
+    "block": "0000X E 75TH ST"
 }
