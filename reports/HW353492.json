@@ -1,33 +1,38 @@
 {
-    "community_area": "66", 
-    "_id": {
-        "$oid": "51e17299018e783f00aba64d"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0831", 
+    "y_coordinate": "1857736", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW353492", 
+    "id": "9207808", 
+    "primary_type": "BATTERY", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69132900000001, 
-            41.7661508
+            -87.69167731058747, 
+            41.76534649590284
         ]
     }, 
-    "case_number": "HW353492", 
+    "community_area": "66", 
+    "latitude": "41.76534649590284", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0831", 
     "date": {
         "$date": 1373032800000
     }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51e17299018e783f00aba64d"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.69167731058747", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1159300", 
     "updated_on": {
         "$date": 1373503231000
     }, 
-    "ward": "18", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9207808", 
-    "block": "070XX S FAIRFIELD AVE", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "070XX S FAIRFIELD AVE"
 }
