@@ -1,0 +1,33 @@
+{
+    "community_area": "69", 
+    "_id": {
+        "$oid": "51fde778733824919a2966b3"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0731", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62958481804687, 
+            41.76384679327278
+        ]
+    }, 
+    "case_number": "HW363481", 
+    "date": {
+        "$date": 1373392800000
+    }, 
+    "updated_on": {
+        "$date": 1374453626000
+    }, 
+    "ward": "6", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9221070", 
+    "block": "071XX S WENTWORTH AVE", 
+    "description": "$500 AND UNDER"
+}
