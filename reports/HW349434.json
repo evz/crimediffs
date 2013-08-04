@@ -1,33 +1,38 @@
 {
-    "community_area": "69", 
-    "_id": {
-        "$oid": "51e17298018e783f00aba607"
-    }, 
-    "primary_type": "OFFENSE INVOLVING CHILDREN", 
-    "beat": "0722", 
+    "y_coordinate": "1860777", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1780", 
+    "case_number": "HW349434", 
+    "id": "9212141", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62823483600135, 
-            41.77332005705263
+            -87.62823117025827, 
+            41.77332003455449
         ]
     }, 
-    "case_number": "HW349434", 
+    "community_area": "69", 
+    "latitude": "41.77332003455449", 
+    "type": null, 
+    "description": "OTHER OFFENSE", 
+    "beat": "0722", 
     "date": {
         "$date": 1373038080000
     }, 
-    "updated_on": {
-        "$date": 1373762389000
-    }, 
     "ward": "6", 
+    "_id": {
+        "$oid": "51e17298018e783f00aba607"
+    }, 
+    "iucr": "1780", 
+    "longitude": "-87.62823117025827", 
+    "location_description": "STREET", 
+    "x_coordinate": "1176585", 
+    "updated_on": {
+        "$date": 1374021583000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9212141", 
-    "block": "066XX S PERRY AVE", 
-    "description": "OTHER OFFENSE"
+    "block": "066XX S PERRY AVE"
 }
