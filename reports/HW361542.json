@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1864397", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW361542", 
+    "id": "9214957", 
+    "primary_type": "ROBBERY", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6516418013902, 
+            41.783395668433954
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.783395668433954", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0712", 
+    "date": {
+        "$date": 1373766600000
+    }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51fde76e733824919a295766"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.6516418013902", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1170170", 
+    "updated_on": {
+        "$date": 1374626441000
+    }, 
+    "fbi_code": "03", 
+    "block": "010XX W 61ST ST"
+}
