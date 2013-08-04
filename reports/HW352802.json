@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "51e41595018e783f00aba856"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "1522", 
+    "y_coordinate": "1899955", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "5002", 
+    "case_number": "HW352802", 
+    "id": "9207182", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.76142282954228, 
-            41.88105958220369
+            -87.76143658927137, 
+            41.881575569749145
         ]
     }, 
-    "case_number": "HW352802", 
+    "community_area": "25", 
+    "latitude": "41.881575569749145", 
+    "type": null, 
+    "description": "OTHER VEHICLE OFFENSE", 
+    "beat": "1522", 
     "date": {
         "$date": 1373234400000
     }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51e41595018e783f00aba856"
+    }, 
+    "iucr": "5002", 
+    "longitude": "-87.76143658927137", 
+    "location_description": "STREET", 
+    "x_coordinate": "1139987", 
     "updated_on": {
         "$date": 1373503231000
     }, 
-    "ward": "28", 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9207182", 
-    "block": "0000X N LOTUS AVE", 
-    "description": "OTHER VEHICLE OFFENSE"
+    "block": "0000X N LOTUS AVE"
 }
