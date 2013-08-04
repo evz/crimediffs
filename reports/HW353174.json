@@ -1,33 +1,38 @@
 {
-    "community_area": "67", 
-    "_id": {
-        "$oid": "51e17297018e783f00aba5c2"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "0725", 
+    "y_coordinate": "1861061", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "910", 
+    "case_number": "HW353174", 
+    "id": "9212547", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66028374022405, 
-            41.77429440709962
+            -87.66057703477621, 
+            41.77429338067286
         ]
     }, 
-    "case_number": "HW353174", 
+    "community_area": "67", 
+    "latitude": "41.77429338067286", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0725", 
     "date": {
         "$date": 1373043600000
     }, 
-    "updated_on": {
-        "$date": 1373848785000
-    }, 
     "ward": "17", 
+    "_id": {
+        "$oid": "51e17297018e783f00aba5c2"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.66057703477621", 
+    "location_description": "STREET", 
+    "x_coordinate": "1167759", 
+    "updated_on": {
+        "$date": 1374626441000
+    }, 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9212547", 
-    "block": "065XX S BISHOP ST", 
-    "description": "AUTOMOBILE"
+    "block": "065XX S BISHOP ST"
 }
