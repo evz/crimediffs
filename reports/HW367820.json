@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "51fde762733824919a294ac7"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0334", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56870617675631, 
+            41.76131171751027
+        ]
+    }, 
+    "case_number": "HW367820", 
+    "date": {
+        "$date": 1374084000000
+    }, 
+    "updated_on": {
+        "$date": 1374799275000
+    }, 
+    "ward": "7", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9230561", 
+    "block": "073XX S CRANDON AVE", 
+    "description": "TO VEHICLE"
+}
