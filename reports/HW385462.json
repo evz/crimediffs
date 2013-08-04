@@ -1,0 +1,33 @@
+{
+    "community_area": "22", 
+    "_id": {
+        "$oid": "51fde75b733824919a294712"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "1431", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68750066058958, 
+            41.92497883086561
+        ]
+    }, 
+    "case_number": "HW385462", 
+    "date": {
+        "$date": 1374174000000
+    }, 
+    "updated_on": {
+        "$date": 1375404049000
+    }, 
+    "ward": "1", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9240444", 
+    "block": "024XX N WESTERN AVE", 
+    "description": "AUTOMOBILE"
+}
