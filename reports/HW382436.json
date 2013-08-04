@@ -1,0 +1,33 @@
+{
+    "community_area": "24", 
+    "_id": {
+        "$oid": "51fde72a733824919a292c21"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "1424", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67767755176072, 
+            41.90925635885337
+        ]
+    }, 
+    "case_number": "HW382436", 
+    "date": {
+        "$date": 1374843540000
+    }, 
+    "updated_on": {
+        "$date": 1375317661000
+    }, 
+    "ward": "1", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9238590", 
+    "block": "020XX W PIERCE AVE", 
+    "description": "AUTOMOBILE"
+}
