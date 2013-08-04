@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1879100", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW380673", 
+    "id": "9234205", 
+    "primary_type": "ROBBERY", 
+    "district": "009", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64487092953057, 
+            41.823704441600405
+        ]
+    }, 
+    "community_area": "60", 
+    "latitude": "41.823704441600405", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0915", 
+    "date": {
+        "$date": 1374869760000
+    }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51fde724733824919a292ac4"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.64487092953057", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1171899", 
+    "updated_on": {
+        "$date": 1375058559000
+    }, 
+    "fbi_code": "03", 
+    "block": "038XX S EMERALD AVE"
+}
