@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1865249", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW353456", 
+    "id": "9210611", 
+    "primary_type": "THEFT", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61590216253427, 
+            41.7855161675328
+        ]
+    }, 
+    "community_area": "40", 
+    "latitude": "41.7855161675328", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0311", 
+    "date": {
+        "$date": 1373293740000
+    }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51fde77b733824919a296abb"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.61590216253427", 
+    "location_description": "CTA BUS", 
+    "x_coordinate": "1179911", 
+    "updated_on": {
+        "$date": 1374712912000
+    }, 
+    "fbi_code": "06", 
+    "block": "060XX S DR MARTIN LUTHER KING JR DR"
+}
