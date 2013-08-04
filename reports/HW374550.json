@@ -1,0 +1,33 @@
+{
+    "community_area": "7", 
+    "_id": {
+        "$oid": "51fde74a733824919a2938df"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1935", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "880", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65332453790356, 
+            41.93275622261188
+        ]
+    }, 
+    "case_number": "HW374550", 
+    "date": {
+        "$date": 1374521400000
+    }, 
+    "updated_on": {
+        "$date": 1375317661000
+    }, 
+    "ward": "43", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9229324", 
+    "block": "009XX W DIVERSEY PKWY", 
+    "description": "PURSE-SNATCHING"
+}
