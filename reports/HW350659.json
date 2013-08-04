@@ -1,33 +1,38 @@
 {
-    "community_area": "24", 
-    "_id": {
-        "$oid": "51e415a4018e783f00abad02"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1424", 
+    "y_coordinate": "1909844", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW350659", 
+    "id": "9205366", 
+    "primary_type": "BATTERY", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "CHA APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.68191226114175, 
-            41.908284304056764
+            -87.68177628602916, 
+            41.90828902105644
         ]
     }, 
-    "case_number": "HW350659", 
+    "community_area": "24", 
+    "latitude": "41.90828902105644", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1424", 
     "date": {
         "$date": 1373119800000
     }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "51e415a4018e783f00abad02"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.68177628602916", 
+    "location_description": "CHA APARTMENT", 
+    "x_coordinate": "1161606", 
     "updated_on": {
         "$date": 1373675960000
     }, 
-    "ward": "32", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9205366", 
-    "block": "021XX W LE MOYNE ST", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "021XX W LE MOYNE ST"
 }
