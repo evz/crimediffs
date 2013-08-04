@@ -1,0 +1,33 @@
+{
+    "community_area": "7", 
+    "_id": {
+        "$oid": "51fde736733824919a293031"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "1931", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "5002", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67896102432607, 
+            41.93070432681586
+        ]
+    }, 
+    "case_number": "HW382989", 
+    "date": {
+        "$date": 1374744600000
+    }, 
+    "updated_on": {
+        "$date": 1375231290000
+    }, 
+    "ward": "1", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9237395", 
+    "block": "027XX N HOYNE AVE", 
+    "description": "OTHER VEHICLE OFFENSE"
+}
