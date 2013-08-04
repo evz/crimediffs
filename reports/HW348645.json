@@ -1,33 +1,38 @@
 {
-    "community_area": "42", 
-    "_id": {
-        "$oid": "51e02119018e783f00aba051"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "0312", 
+    "y_coordinate": "1862301", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "031A", 
+    "case_number": "HW348645", 
+    "id": "9205763", 
+    "primary_type": "ROBBERY", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61212198656463, 
-            41.77830246316179
+            -87.61210274345589, 
+            41.77740221523274
         ]
     }, 
-    "case_number": "HW348645", 
+    "community_area": "42", 
+    "latitude": "41.77740221523274", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0312", 
     "date": {
         "$date": 1372993200000
     }, 
-    "updated_on": {
-        "$date": 1373330420000
-    }, 
     "ward": "20", 
+    "_id": {
+        "$oid": "51e02119018e783f00aba051"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.61210274345589", 
+    "location_description": "STREET", 
+    "x_coordinate": "1180972", 
+    "updated_on": {
+        "$date": 1374280871000
+    }, 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9205763", 
-    "block": "064XX S RHODES AVE", 
-    "description": "ARMED: HANDGUN"
+    "block": "064XX S RHODES AVE"
 }
