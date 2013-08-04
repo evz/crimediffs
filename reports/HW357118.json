@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1852215", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW357118", 
+    "id": "9210962", 
+    "primary_type": "THEFT", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67489471221857, 
+            41.750100239472914
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.750100239472914", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0611", 
+    "date": {
+        "$date": 1373498700000
+    }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51fde775733824919a29625e"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.67489471221857", 
+    "location_description": "TAVERN/LIQUOR STORE", 
+    "x_coordinate": "1163921", 
+    "updated_on": {
+        "$date": 1373675960000
+    }, 
+    "fbi_code": "06", 
+    "block": "020XX W 79TH ST"
+}
