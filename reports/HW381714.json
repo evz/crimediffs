@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1894999", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW381714", 
+    "id": "9235066", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64275469533207, 
+            41.867322729528226
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.867322729528226", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0124", 
+    "date": {
+        "$date": 1374859800000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51fde726733824919a292b51"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.64275469533207", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1172348", 
+    "updated_on": {
+        "$date": 1375144832000
+    }, 
+    "fbi_code": "06", 
+    "block": "006XX W ROOSEVELT RD"
+}
