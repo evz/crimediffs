@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "51fde764733824919a294d00"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "2533", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75047114969271, 
+            41.904231803137854
+        ]
+    }, 
+    "case_number": "HW365911", 
+    "date": {
+        "$date": 1374019320000
+    }, 
+    "updated_on": {
+        "$date": 1375490414000
+    }, 
+    "ward": "37", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9245231", 
+    "block": "049XX W POTOMAC AVE", 
+    "description": "TO PROPERTY"
+}
