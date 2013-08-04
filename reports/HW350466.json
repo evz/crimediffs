@@ -1,33 +1,38 @@
 {
-    "community_area": "71", 
-    "_id": {
-        "$oid": "51e17292018e783f00aba455"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "2221", 
+    "y_coordinate": "1846993", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "031A", 
+    "case_number": "HW350466", 
+    "id": "9208321", 
+    "primary_type": "ROBBERY", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66075767126677, 
-            41.73593455702388
+            -87.66204251786891, 
+            41.73569508240924
         ]
     }, 
-    "case_number": "HW350466", 
+    "community_area": "71", 
+    "latitude": "41.73569508240924", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "2221", 
     "date": {
         "$date": 1373078700000
     }, 
-    "updated_on": {
-        "$date": 1373848785000
-    }, 
     "ward": "21", 
+    "_id": {
+        "$oid": "51e17292018e783f00aba455"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.66204251786891", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1167469", 
+    "updated_on": {
+        "$date": 1374280871000
+    }, 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9208321", 
-    "block": "015XX W 87TH ST", 
-    "description": "ARMED: HANDGUN"
+    "block": "015XX W 87TH ST"
 }
