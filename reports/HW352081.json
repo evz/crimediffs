@@ -1,33 +1,38 @@
 {
-    "community_area": "69", 
-    "_id": {
-        "$oid": "51e4159d018e783f00abaa57"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0323", 
+    "y_coordinate": "1856457", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW352081", 
+    "id": "9206369", 
+    "primary_type": "BURGLARY", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61288967571511, 
-            41.76146554878169
+            -87.61259388096963, 
+            41.761367643142265
         ]
     }, 
-    "case_number": "HW352081", 
+    "community_area": "69", 
+    "latitude": "41.761367643142265", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0323", 
     "date": {
         "$date": 1373190300000
     }, 
-    "updated_on": {
-        "$date": 1373848785000
-    }, 
     "ward": "6", 
+    "_id": {
+        "$oid": "51e4159d018e783f00abaa57"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.61259388096963", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1180887", 
+    "updated_on": {
+        "$date": 1374108135000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9206369", 
-    "block": "073XX S EBERHART AVE", 
-    "description": "FORCIBLE ENTRY"
+    "block": "073XX S EBERHART AVE"
 }
