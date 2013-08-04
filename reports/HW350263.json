@@ -1,33 +1,38 @@
 {
-    "community_area": "48", 
-    "_id": {
-        "$oid": "51e17297018e783f00aba5b2"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0413", 
+    "y_coordinate": "1845310", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW350263", 
+    "id": "9205697", 
+    "primary_type": "BURGLARY", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "RESIDENCE-GARAGE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.58785581633589, 
-            41.730720581280615
+            -87.58784966370048, 
+            41.73061900187303
         ]
     }, 
-    "case_number": "HW350263", 
+    "community_area": "48", 
+    "latitude": "41.73061900187303", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0413", 
     "date": {
         "$date": 1373045400000
     }, 
-    "updated_on": {
-        "$date": 1373416728000
-    }, 
     "ward": "8", 
+    "_id": {
+        "$oid": "51e17297018e783f00aba5b2"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.58784966370048", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1187735", 
+    "updated_on": {
+        "$date": 1375144832000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9205697", 
-    "block": "090XX S BLACKSTONE AVE", 
-    "description": "FORCIBLE ENTRY"
+    "block": "090XX S BLACKSTONE AVE"
 }
