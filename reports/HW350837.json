@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "51e415a4018e783f00abace2"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "2532", 
+    "y_coordinate": "1909476", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW350837", 
+    "id": "9205762", 
+    "primary_type": "BATTERY", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "RESIDENCE PORCH/HALLWAY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.76278304796195, 
-            41.90771295714557
+            -87.76293368660798, 
+            41.90771096128061
         ]
     }, 
-    "case_number": "HW350837", 
+    "community_area": "25", 
+    "latitude": "41.90771096128061", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2532", 
     "date": {
         "$date": 1373122800000
     }, 
-    "updated_on": {
-        "$date": 1373416728000
-    }, 
     "ward": "37", 
+    "_id": {
+        "$oid": "51e415a4018e783f00abace2"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.76293368660798", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1139516", 
+    "updated_on": {
+        "$date": 1374367458000
+    }, 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9205762", 
-    "block": "054XX W LE MOYNE ST", 
-    "description": "SIMPLE"
+    "block": "054XX W LE MOYNE ST"
 }
