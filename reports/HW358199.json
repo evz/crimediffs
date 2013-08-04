@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "51fde77c733824919a296bcb"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0632", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "841", 
+    "arrest": false, 
+    "location_description": "BANK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62430752865566, 
+            41.736118830449385
+        ]
+    }, 
+    "case_number": "HW358199", 
+    "date": {
+        "$date": 1373241600000
+    }, 
+    "updated_on": {
+        "$date": 1374971969000
+    }, 
+    "ward": "21", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9232656", 
+    "block": "087XX S STATE ST", 
+    "description": "FINANCIAL ID THEFT:$300 &UNDER"
+}
