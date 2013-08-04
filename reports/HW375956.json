@@ -1,0 +1,33 @@
+{
+    "community_area": "61", 
+    "_id": {
+        "$oid": "51fde744733824919a2935a0"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0932", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67217295648075, 
+            41.799254151823604
+        ]
+    }, 
+    "case_number": "HW375956", 
+    "date": {
+        "$date": 1374603000000
+    }, 
+    "updated_on": {
+        "$date": 1374799275000
+    }, 
+    "ward": "16", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9230586", 
+    "block": "052XX S WOLCOTT AVE", 
+    "description": "TO PROPERTY"
+}
