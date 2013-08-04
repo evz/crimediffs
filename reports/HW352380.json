@@ -1,33 +1,38 @@
 {
-    "community_area": "3", 
-    "_id": {
-        "$oid": "51e41597018e783f00aba8c3"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "2024", 
+    "y_coordinate": "1933626", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW352380", 
+    "id": "9206833", 
+    "primary_type": "BATTERY", 
+    "district": "020", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65731645779535, 
-            41.973388617443554
+            -87.65619099765216, 
+            41.97340393815066
         ]
     }, 
-    "case_number": "HW352380", 
+    "community_area": "3", 
+    "latitude": "41.97340393815066", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2024", 
     "date": {
         "$date": 1373226600000
     }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51e41597018e783f00aba8c3"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.65619099765216", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1168383", 
     "updated_on": {
         "$date": 1373416728000
     }, 
-    "ward": "46", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9206833", 
-    "block": "010XX W ARGYLE ST", 
-    "description": "SIMPLE"
+    "block": "010XX W ARGYLE ST"
 }
