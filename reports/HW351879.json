@@ -6,7 +6,7 @@
     "id": "9206010", 
     "primary_type": "ASSAULT", 
     "district": "015", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
     "x_coordinate": "1139401", 
     "updated_on": {
-        "$date": 1373848785000
+        "$date": 1374021583000
     }, 
     "fbi_code": "08A", 
     "block": "005XX N PINE AVE"
