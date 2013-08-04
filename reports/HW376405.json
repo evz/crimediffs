@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "51fde78a733824919a296c3c"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0511", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63232841892633, 
+            41.71718561426476
+        ]
+    }, 
+    "case_number": "HW376405", 
+    "date": {
+        "$date": 1372982400000
+    }, 
+    "updated_on": {
+        "$date": 1374799275000
+    }, 
+    "ward": "21", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9230613", 
+    "block": "097XX S HARVARD AVE", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
