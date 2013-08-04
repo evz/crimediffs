@@ -1,0 +1,33 @@
+{
+    "community_area": "46", 
+    "_id": {
+        "$oid": "51fde74e733824919a293a1b"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0423", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56505320662886, 
+            41.74399003418052
+        ]
+    }, 
+    "case_number": "HW373833", 
+    "date": {
+        "$date": 1374497100000
+    }, 
+    "updated_on": {
+        "$date": 1374971969000
+    }, 
+    "ward": "7", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9231759", 
+    "block": "083XX S PHILLIPS AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
