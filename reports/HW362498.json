@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1902324", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW362498", 
+    "id": "9215604", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6246947487297, 
+            41.887314299560344
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.887314299560344", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0111", 
+    "date": {
+        "$date": 1373828400000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51fde76c733824919a295513"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.6246947487297", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1177207", 
+    "updated_on": {
+        "$date": 1374021583000
+    }, 
+    "fbi_code": "06", 
+    "block": "003XX N MICHIGAN AVE"
+}
