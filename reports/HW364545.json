@@ -1,0 +1,33 @@
+{
+    "community_area": "37", 
+    "_id": {
+        "$oid": "51fde767733824919a29500a"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0925", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63332228709086, 
+            41.81283867417417
+        ]
+    }, 
+    "case_number": "HW364545", 
+    "date": {
+        "$date": 1373949600000
+    }, 
+    "updated_on": {
+        "$date": 1374367458000
+    }, 
+    "ward": "3", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9219233", 
+    "block": "044XX S PRINCETON AVE", 
+    "description": "TO PROPERTY"
+}
