@@ -1,33 +1,38 @@
 {
-    "community_area": "23", 
-    "_id": {
-        "$oid": "51e4159a018e783f00aba961"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1111", 
+    "y_coordinate": "1906626", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW352079", 
+    "id": "9206437", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.73172723327534, 
-            41.89973062941758
+            -87.73172356023582, 
+            41.89973061017458
         ]
     }, 
-    "case_number": "HW352079", 
+    "community_area": "23", 
+    "latitude": "41.89973061017458", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1111", 
     "date": {
         "$date": 1373212140000
     }, 
-    "updated_on": {
-        "$date": 1373848785000
-    }, 
     "ward": "37", 
+    "_id": {
+        "$oid": "51e4159a018e783f00aba961"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.73172356023582", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1148032", 
+    "updated_on": {
+        "$date": 1374021583000
+    }, 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9206437", 
-    "block": "042XX W CORTEZ ST", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "042XX W CORTEZ ST"
 }
