@@ -1,0 +1,33 @@
+{
+    "community_area": "69", 
+    "_id": {
+        "$oid": "51fde768733824919a295021"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0623", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61486192213462, 
+            41.753223045168156
+        ]
+    }, 
+    "case_number": "HW364512", 
+    "date": {
+        "$date": 1373943000000
+    }, 
+    "updated_on": {
+        "$date": 1374885634000
+    }, 
+    "ward": "6", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9220739", 
+    "block": "077XX S DR MARTIN LUTHER KING JR DR", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
