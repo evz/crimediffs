@@ -1,0 +1,33 @@
+{
+    "community_area": "69", 
+    "_id": {
+        "$oid": "51fde769733824919a295125"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "0621", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "051A", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63659895962175, 
+            41.751112076894714
+        ]
+    }, 
+    "case_number": "HW390548", 
+    "date": {
+        "$date": 1373919000000
+    }, 
+    "updated_on": {
+        "$date": 1375490414000
+    }, 
+    "ward": "17", 
+    "fbi_code": "04A", 
+    "type": "violent", 
+    "id": "9245142", 
+    "block": "078XX S NORMAL AVE", 
+    "description": "AGGRAVATED: HANDGUN"
+}
