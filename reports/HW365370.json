@@ -1,0 +1,33 @@
+{
+    "community_area": "38", 
+    "_id": {
+        "$oid": "51fde766733824919a294e63"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0224", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6244848468788, 
+            41.80457909253118
+        ]
+    }, 
+    "case_number": "HW365370", 
+    "date": {
+        "$date": 1373993580000
+    }, 
+    "updated_on": {
+        "$date": 1374626441000
+    }, 
+    "ward": "3", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9219276", 
+    "block": "049XX S WABASH AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
