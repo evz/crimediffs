@@ -1,0 +1,33 @@
+{
+    "community_area": "53", 
+    "_id": {
+        "$oid": "51fde74f733824919a293ae1"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0532", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "VACANT LOT/LAND", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61889013376783, 
+            41.67545216841107
+        ]
+    }, 
+    "case_number": "HW373686", 
+    "date": {
+        "$date": 1374480000000
+    }, 
+    "updated_on": {
+        "$date": 1375058559000
+    }, 
+    "ward": "9", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9228467", 
+    "block": "001XX E 120TH PL", 
+    "description": "FORCIBLE ENTRY"
+}
