@@ -1,33 +1,38 @@
 {
-    "community_area": "40", 
-    "_id": {
-        "$oid": "51e4159b018e783f00aba9b6"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0232", 
+    "y_coordinate": "1865895", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "502P", 
+    "case_number": "HW351891", 
+    "id": "9211138", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62158025027534, 
-            41.78731880764255
+            -87.621503192326, 
+            41.7873238187651
         ]
     }, 
-    "case_number": "HW351891", 
+    "community_area": "40", 
+    "latitude": "41.7873238187651", 
+    "type": null, 
+    "description": "FALSE/STOLEN/ALTERED TRP", 
+    "beat": "0232", 
     "date": {
         "$date": 1373204280000
     }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51e4159b018e783f00aba9b6"
+    }, 
+    "iucr": "502P", 
+    "longitude": "-87.621503192326", 
+    "location_description": "STREET", 
+    "x_coordinate": "1178378", 
     "updated_on": {
         "$date": 1373675960000
     }, 
-    "ward": "20", 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9211138", 
-    "block": "001XX E 59TH ST", 
-    "description": "FALSE/STOLEN/ALTERED TRP"
+    "block": "001XX E 59TH ST"
 }
