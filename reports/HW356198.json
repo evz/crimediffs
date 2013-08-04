@@ -1,33 +1,38 @@
 {
-    "community_area": "23", 
-    "_id": {
-        "$oid": "51e17293018e783f00aba4a1"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1422", 
+    "y_coordinate": "1910489", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW356198", 
+    "id": "9211428", 
+    "primary_type": "THEFT", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.71511285916675, 
-            41.91119561936835
+            -87.71508531085573, 
+            41.91024322197747
         ]
     }, 
-    "case_number": "HW356198", 
+    "community_area": "23", 
+    "latitude": "41.91024322197747", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1422", 
     "date": {
         "$date": 1373068860000
     }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51e17293018e783f00aba4a1"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.71508531085573", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1152534", 
     "updated_on": {
         "$date": 1373762389000
     }, 
-    "ward": "26", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9211428", 
-    "block": "016XX N DRAKE AVE", 
-    "description": "$500 AND UNDER"
+    "block": "016XX N DRAKE AVE"
 }
