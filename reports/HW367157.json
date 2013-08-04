@@ -1,0 +1,33 @@
+{
+    "community_area": "16", 
+    "_id": {
+        "$oid": "51fde763733824919a294c7e"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1733", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70095799167284, 
+            41.95020451210542
+        ]
+    }, 
+    "case_number": "HW367157", 
+    "date": {
+        "$date": 1374046200000
+    }, 
+    "updated_on": {
+        "$date": 1375404049000
+    }, 
+    "ward": "33", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9232587", 
+    "block": "029XX W GRACE ST", 
+    "description": "FORCIBLE ENTRY"
+}
