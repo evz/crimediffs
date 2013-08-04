@@ -1,0 +1,33 @@
+{
+    "community_area": "5", 
+    "_id": {
+        "$oid": "51fde772733824919a295c72"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1922", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "620", 
+    "arrest": false, 
+    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67435028456775, 
+            41.95377328157515
+        ]
+    }, 
+    "case_number": "HW362404", 
+    "date": {
+        "$date": 1373653800000
+    }, 
+    "updated_on": {
+        "$date": 1375404049000
+    }, 
+    "ward": "47", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9225754", 
+    "block": "039XX N RAVENSWOOD AVE", 
+    "description": "UNLAWFUL ENTRY"
+}
