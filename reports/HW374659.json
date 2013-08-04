@@ -1,0 +1,33 @@
+{
+    "community_area": "67", 
+    "_id": {
+        "$oid": "51fde74a733824919a2938e6"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0713", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66073940773269, 
+            41.78015614240399
+        ]
+    }, 
+    "case_number": "HW374659", 
+    "date": {
+        "$date": 1374520500000
+    }, 
+    "updated_on": {
+        "$date": 1375317661000
+    }, 
+    "ward": "16", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9236270", 
+    "block": "062XX S BISHOP ST", 
+    "description": "$500 AND UNDER"
+}
