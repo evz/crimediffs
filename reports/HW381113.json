@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "51fde728733824919a292bb2"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0414", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "630", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57737572973734, 
+            41.75247207657632
+        ]
+    }, 
+    "case_number": "HW381113", 
+    "date": {
+        "$date": 1374850800000
+    }, 
+    "updated_on": {
+        "$date": 1375490414000
+    }, 
+    "ward": "8", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9243600", 
+    "block": "078XX S EUCLID AVE", 
+    "description": "ATTEMPT FORCIBLE ENTRY"
+}
