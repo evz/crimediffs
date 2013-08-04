@@ -1,0 +1,33 @@
+{
+    "community_area": "39", 
+    "_id": {
+        "$oid": "51fde77e733824919a296bd4"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0222", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "460", 
+    "arrest": true, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58663396031767, 
+            41.804536874780744
+        ]
+    }, 
+    "case_number": "HW362292", 
+    "date": {
+        "$date": 1373217000000
+    }, 
+    "updated_on": {
+        "$date": 1374626441000
+    }, 
+    "ward": "4", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9225765", 
+    "block": "049XX S CORNELL AVE", 
+    "description": "SIMPLE"
+}
