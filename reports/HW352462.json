@@ -1,33 +1,38 @@
 {
-    "community_area": "17", 
-    "_id": {
-        "$oid": "51e41596018e783f00aba881"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "1631", 
+    "y_coordinate": "1923908", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW352462", 
+    "id": "9207424", 
+    "primary_type": "BURGLARY", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.81786078121229, 
-            41.9485605807682
+            -87.81976177480848, 
+            41.94758392438215
         ]
     }, 
-    "case_number": "HW352462", 
+    "community_area": "17", 
+    "latitude": "41.94758392438215", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1631", 
     "date": {
         "$date": 1373230800000
     }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51e41596018e783f00aba881"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.81976177480848", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1123960", 
     "updated_on": {
         "$date": 1373589638000
     }, 
-    "ward": "36", 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9207424", 
-    "block": "076XX W FOREST PRESERVE AVE", 
-    "description": "FORCIBLE ENTRY"
+    "block": "076XX W FOREST PRESERVE AVE"
 }
