@@ -6,7 +6,7 @@
     "id": "9206174", 
     "primary_type": "BATTERY", 
     "district": "025", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,7 +17,7 @@
     "community_area": "20", 
     "latitude": "41.926886870337135", 
     "type": "violent", 
-    "description": "AGGRAVATED:KNIFE/CUTTING INSTR", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
     "beat": "2524", 
     "date": {
         "$date": 1373212860000
@@ -26,12 +26,12 @@
     "_id": {
         "$oid": "51e41599018e783f00aba949"
     }, 
-    "iucr": "420", 
+    "iucr": "430", 
     "longitude": "-87.73527188001633", 
     "location_description": "OTHER", 
     "x_coordinate": "1146997", 
     "updated_on": {
-        "$date": 1373675960000
+        "$date": 1374540234000
     }, 
     "fbi_code": "04B", 
     "block": "025XX N LOWELL AVE"
