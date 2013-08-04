@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "51e0211a018e783f00aba088"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "0332", 
+    "y_coordinate": "1860587", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "320", 
+    "case_number": "HW348559", 
+    "id": "9208143", 
+    "primary_type": "ROBBERY", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.58397416369363, 
-            41.771848863381784
+            -87.58369511148773, 
+            41.77251664981022
         ]
     }, 
-    "case_number": "HW348559", 
+    "community_area": "43", 
+    "latitude": "41.77251664981022", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0332", 
     "date": {
         "$date": 1372989000000
     }, 
-    "updated_on": {
-        "$date": 1373503231000
-    }, 
     "ward": "5", 
+    "_id": {
+        "$oid": "51e0211a018e783f00aba088"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.58369511148773", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1188736", 
+    "updated_on": {
+        "$date": 1374194525000
+    }, 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9208143", 
-    "block": "067XX S EAST END AVE", 
-    "description": "STRONGARM - NO WEAPON"
+    "block": "067XX S EAST END AVE"
 }
