@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1900580", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW355029", 
+    "id": "9208790", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62799733117562, 
+            41.88254867633077
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.88254867633077", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0112", 
+    "date": {
+        "$date": 1373385600000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51fde779733824919a296710"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.62799733117562", 
+    "location_description": "DEPARTMENT STORE", 
+    "x_coordinate": "1176322", 
+    "updated_on": {
+        "$date": 1373589638000
+    }, 
+    "fbi_code": "06", 
+    "block": "0000X N STATE ST"
+}
