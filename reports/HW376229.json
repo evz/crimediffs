@@ -1,0 +1,33 @@
+{
+    "community_area": "35", 
+    "_id": {
+        "$oid": "51fde743733824919a2934ff"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "0133", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "CHA HALLWAY/STAIRWELL/ELEVATOR", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.627820461814, 
+            41.8398580100266
+        ]
+    }, 
+    "case_number": "HW376229", 
+    "date": {
+        "$date": 1374614400000
+    }, 
+    "updated_on": {
+        "$date": 1374885634000
+    }, 
+    "ward": "3", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9231158", 
+    "block": "029XX S DEARBORN ST", 
+    "description": "SIMPLE"
+}
