@@ -1,0 +1,33 @@
+{
+    "community_area": "41", 
+    "_id": {
+        "$oid": "51fde767733824919a294ff1"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0331", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "460", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58010950191509, 
+            41.79134095257074
+        ]
+    }, 
+    "case_number": "HW364554", 
+    "date": {
+        "$date": 1373953500000
+    }, 
+    "updated_on": {
+        "$date": 1374194525000
+    }, 
+    "ward": "5", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9219217", 
+    "block": "057XX S LAKE SHORE DR", 
+    "description": "SIMPLE"
+}
