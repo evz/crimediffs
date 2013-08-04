@@ -1,0 +1,33 @@
+{
+    "community_area": "16", 
+    "_id": {
+        "$oid": "51fde76e733824919a29573f"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1723", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "498", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7216740744876, 
+            41.95930953257216
+        ]
+    }, 
+    "case_number": "HW364904", 
+    "date": {
+        "$date": 1373770800000
+    }, 
+    "updated_on": {
+        "$date": 1374971969000
+    }, 
+    "ward": "39", 
+    "fbi_code": "04B", 
+    "type": "violent", 
+    "id": "9219746", 
+    "block": "037XX W CULLOM AVE", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: HANDS/FIST/FEET SERIOUS INJURY"
+}
