@@ -1,33 +1,38 @@
 {
-    "community_area": "47", 
-    "_id": {
-        "$oid": "51e4159d018e783f00abaa46"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0413", 
+    "y_coordinate": "1843980", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2826", 
+    "case_number": "HW352543", 
+    "id": "9206663", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.5986764004817, 
-            41.72667929413661
+            -87.59839024729413, 
+            41.72703696926163
         ]
     }, 
-    "case_number": "HW352543", 
+    "community_area": "47", 
+    "latitude": "41.72703696926163", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "0413", 
     "date": {
         "$date": 1373193000000
     }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51e4159d018e783f00abaa46"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.59839024729413", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1184869", 
     "updated_on": {
         "$date": 1373848785000
     }, 
-    "ward": "8", 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9206663", 
-    "block": "092XX S DOBSON AVE", 
-    "description": "HARASSMENT BY ELECTRONIC MEANS"
+    "block": "092XX S DOBSON AVE"
 }
