@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "51fde763733824919a294ca6"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "1512", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77317453273781, 
+            41.88306866653799
+        ]
+    }, 
+    "case_number": "HW366033", 
+    "date": {
+        "$date": 1374036000000
+    }, 
+    "updated_on": {
+        "$date": 1374367458000
+    }, 
+    "ward": "29", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9221658", 
+    "block": "001XX N MASON AVE", 
+    "description": "TO PROPERTY"
+}
