@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "51fde775733824919a296105"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0421", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56405850268027, 
+            41.75702154539851
+        ]
+    }, 
+    "case_number": "HW358375", 
+    "date": {
+        "$date": 1373547600000
+    }, 
+    "updated_on": {
+        "$date": 1374799275000
+    }, 
+    "ward": "7", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9225557", 
+    "block": "076XX S ESSEX AVE", 
+    "description": "FORCIBLE ENTRY"
+}
