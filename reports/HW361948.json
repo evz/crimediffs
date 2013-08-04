@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1890347", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW361948", 
+    "id": "9220005", 
+    "primary_type": "ROBBERY", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62159283593093, 
+            41.854427272844255
+        ]
+    }, 
+    "community_area": "33", 
+    "latitude": "41.854427272844255", 
+    "type": "violent", 
+    "description": "ARMED:KNIFE/CUTTING INSTRUMENT", 
+    "beat": "0132", 
+    "date": {
+        "$date": 1373753700000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51fde76f733824919a29582a"
+    }, 
+    "iucr": "312", 
+    "longitude": "-87.62159283593093", 
+    "location_description": "STREET", 
+    "x_coordinate": "1178151", 
+    "updated_on": {
+        "$date": 1375231290000
+    }, 
+    "fbi_code": "03", 
+    "block": "002XX E 21ST ST"
+}
