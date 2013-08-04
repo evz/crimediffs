@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "51fde769733824919a295149"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0324", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58258691766152, 
+            41.765692591916746
+        ]
+    }, 
+    "case_number": "HW364110", 
+    "date": {
+        "$date": 1373917080000
+    }, 
+    "updated_on": {
+        "$date": 1374367458000
+    }, 
+    "ward": "5", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9222274", 
+    "block": "071XX S RIDGELAND AVE", 
+    "description": "$500 AND UNDER"
+}
