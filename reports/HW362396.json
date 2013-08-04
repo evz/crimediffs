@@ -1,33 +1,38 @@
 {
-    "community_area": "7", 
-    "_id": {
-        "$oid": "51e4159c018e783f00abaa2d"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1813", 
+    "y_coordinate": "1912893", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW362396", 
+    "id": "9215513", 
+    "primary_type": "THEFT", 
+    "district": "018", 
     "arrest": false, 
-    "location_description": "RESIDENCE-GARAGE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64829371338963, 
-            41.91623079203174
+            -87.64859251128031, 
+            41.91646308932822
         ]
     }, 
-    "case_number": "HW362396", 
+    "community_area": "7", 
+    "latitude": "41.91646308932822", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1813", 
     "date": {
         "$date": 1373194800000
     }, 
-    "updated_on": {
-        "$date": 1373848785000
-    }, 
     "ward": "43", 
+    "_id": {
+        "$oid": "51e4159c018e783f00abaa2d"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.64859251128031", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1170615", 
+    "updated_on": {
+        "$date": 1375490414000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9215513", 
-    "block": "019XX N HALSTED ST", 
-    "description": "$500 AND UNDER"
+    "block": "019XX N HALSTED ST"
 }
