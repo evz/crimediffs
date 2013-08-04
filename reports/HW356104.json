@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1846753", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW356104", 
+    "id": "9209988", 
+    "primary_type": "THEFT", 
+    "district": "008", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70367168939424, 
+            41.73527211256521
+        ]
+    }, 
+    "community_area": "70", 
+    "latitude": "41.73527211256521", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0834", 
+    "date": {
+        "$date": 1373455200000
+    }, 
+    "ward": "18", 
+    "_id": {
+        "$oid": "51fde777733824919a296466"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.70367168939424", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1156108", 
+    "updated_on": {
+        "$date": 1373589638000
+    }, 
+    "fbi_code": "06", 
+    "block": "032XX W 87TH ST"
+}
