@@ -1,33 +1,38 @@
 {
-    "community_area": "44", 
-    "_id": {
-        "$oid": "51e1729c018e783f00aba726"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "0631", 
+    "y_coordinate": "1850918", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "560", 
+    "case_number": "HW348816", 
+    "id": "9204627", 
+    "primary_type": "ASSAULT", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "ALLEY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.60246886093135, 
-            41.74631156547856
+            -87.60275336766139, 
+            41.74610480775513
         ]
     }, 
-    "case_number": "HW348816", 
+    "community_area": "44", 
+    "latitude": "41.74610480775513", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0631", 
     "date": {
         "$date": 1373009400000
     }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51e1729c018e783f00aba726"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.60275336766139", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1183619", 
     "updated_on": {
         "$date": 1373503231000
     }, 
-    "ward": "8", 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9204627", 
-    "block": "081XX S DREXEL AVE", 
-    "description": "SIMPLE"
+    "block": "081XX S DREXEL AVE"
 }
