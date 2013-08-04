@@ -1,33 +1,38 @@
 {
-    "community_area": "37", 
-    "_id": {
-        "$oid": "51e415a0018e783f00abab52"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0925", 
+    "y_coordinate": "1876433", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW352544", 
+    "id": "9207028", 
+    "primary_type": "BATTERY", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6324685307613, 
-            41.81477092593403
+            -87.63251410585828, 
+            41.816310741490355
         ]
     }, 
-    "case_number": "HW352544", 
+    "community_area": "37", 
+    "latitude": "41.816310741490355", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0925", 
     "date": {
         "$date": 1373155200000
     }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51e415a0018e783f00abab52"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.63251410585828", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1175289", 
     "updated_on": {
         "$date": 1373416728000
     }, 
-    "ward": "3", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9207028", 
-    "block": "043XX S WELLS ST", 
-    "description": "SIMPLE"
+    "block": "043XX S WELLS ST"
 }
