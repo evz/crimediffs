@@ -1,33 +1,38 @@
 {
-    "community_area": "71", 
-    "_id": {
-        "$oid": "51e4159b018e783f00aba9ae"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0611", 
+    "y_coordinate": "1853318", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW351957", 
+    "id": "9206654", 
+    "primary_type": "BATTERY", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66580851320232, 
-            41.753780065857285
+            -87.66608333769054, 
+            41.753076375801946
         ]
     }, 
-    "case_number": "HW351957", 
+    "community_area": "71", 
+    "latitude": "41.753076375801946", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0611", 
     "date": {
         "$date": 1373204700000
     }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51e4159b018e783f00aba9ae"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.66608333769054", 
+    "location_description": "STREET", 
+    "x_coordinate": "1166317", 
     "updated_on": {
         "$date": 1373589638000
     }, 
-    "ward": "17", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9206654", 
-    "block": "077XX S PAULINA ST", 
-    "description": "SIMPLE"
+    "block": "077XX S PAULINA ST"
 }
