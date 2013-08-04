@@ -1,33 +1,38 @@
 {
-    "community_area": "54", 
-    "_id": {
-        "$oid": "51e41592018e783f00aba7af"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0533", 
+    "y_coordinate": "1817544", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW353406", 
+    "id": "9207914", 
+    "primary_type": "THEFT", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.60740928029698, 
-            41.654429911654
+            -87.60740798614195, 
+            41.654545166090585
         ]
     }, 
-    "case_number": "HW353406", 
+    "community_area": "54", 
+    "latitude": "41.654545166090585", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0533", 
     "date": {
         "$date": 1373248800000
     }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51e41592018e783f00aba7af"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.60740798614195", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1182630", 
     "updated_on": {
         "$date": 1373503231000
     }, 
-    "ward": "9", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9207914", 
-    "block": "132XX S ST LAWRENCE AVE", 
-    "description": "$500 AND UNDER"
+    "block": "132XX S ST LAWRENCE AVE"
 }
