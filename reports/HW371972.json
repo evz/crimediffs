@@ -1,0 +1,33 @@
+{
+    "community_area": "68", 
+    "_id": {
+        "$oid": "51fde753733824919a293eb8"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0724", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65459211060616, 
+            41.7776062162389
+        ]
+    }, 
+    "case_number": "HW371972", 
+    "date": {
+        "$date": 1374375540000
+    }, 
+    "updated_on": {
+        "$date": 1375404049000
+    }, 
+    "ward": "16", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9234452", 
+    "block": "064XX S RACINE AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
