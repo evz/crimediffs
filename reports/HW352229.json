@@ -1,33 +1,38 @@
 {
-    "community_area": "44", 
-    "_id": {
-        "$oid": "51e41599018e783f00aba917"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "0632", 
+    "y_coordinate": "1847427", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "530", 
+    "case_number": "HW352229", 
+    "id": "9208820", 
+    "primary_type": "ASSAULT", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "SMALL RETAIL STORE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61668033328723, 
-            41.73635966476645
+            -87.61519375040486, 
+            41.73660285970452
         ]
     }, 
-    "case_number": "HW352229", 
+    "community_area": "44", 
+    "latitude": "41.73660285970452", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "0632", 
     "date": {
         "$date": 1373219100000
     }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51e41599018e783f00aba917"
+    }, 
+    "iucr": "530", 
+    "longitude": "-87.61519375040486", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1180253", 
     "updated_on": {
         "$date": 1373848785000
     }, 
-    "ward": "6", 
     "fbi_code": "04A", 
-    "type": "violent", 
-    "id": "9208820", 
-    "block": "003XX E 87TH ST", 
-    "description": "AGGRAVATED: OTHER DANG WEAPON"
+    "block": "003XX E 87TH ST"
 }
