@@ -1,33 +1,38 @@
 {
-    "community_area": "13", 
-    "_id": {
-        "$oid": "51e4159f018e783f00abaad1"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "1711", 
+    "y_coordinate": "1937109", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1310", 
+    "case_number": "HW351433", 
+    "id": "9206503", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "017", 
     "arrest": false, 
-    "location_description": "GAS STATION", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70940251637796, 
-            41.98444627038958
+            -87.70904628140158, 
+            41.98326158406902
         ]
     }, 
-    "case_number": "HW351433", 
+    "community_area": "13", 
+    "latitude": "41.98326158406902", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1711", 
     "date": {
         "$date": 1373166000000
     }, 
+    "ward": "40", 
+    "_id": {
+        "$oid": "51e4159f018e783f00abaad1"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.70904628140158", 
+    "location_description": "GAS STATION", 
+    "x_coordinate": "1153984", 
     "updated_on": {
         "$date": 1373416728000
     }, 
-    "ward": "40", 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9206503", 
-    "block": "056XX N JERSEY AVE", 
-    "description": "TO PROPERTY"
+    "block": "056XX N JERSEY AVE"
 }
