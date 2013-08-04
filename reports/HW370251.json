@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1900034", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW370251", 
+    "id": "9223959", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68074629418864, 
+            41.88136218594692
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.88136218594692", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1223", 
+    "date": {
+        "$date": 1373774400000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51fde76e733824919a29570f"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.68074629418864", 
+    "location_description": "STREET", 
+    "x_coordinate": "1161961", 
+    "updated_on": {
+        "$date": 1374453626000
+    }, 
+    "fbi_code": "06", 
+    "block": "021XX W MADISON ST"
+}
