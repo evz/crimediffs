@@ -1,0 +1,33 @@
+{
+    "community_area": "2", 
+    "_id": {
+        "$oid": "51fde755733824919a29408f"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2413", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70307999578303, 
+            41.995994981231014
+        ]
+    }, 
+    "case_number": "HW376417", 
+    "date": {
+        "$date": 1374337800000
+    }, 
+    "updated_on": {
+        "$date": 1375317661000
+    }, 
+    "ward": "50", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9231765", 
+    "block": "063XX N RICHMOND ST", 
+    "description": "$500 AND UNDER"
+}
