@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1898625", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW376942", 
+    "id": "9230996", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62912110974042, 
+            41.87719057800604
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.87719057800604", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0113", 
+    "date": {
+        "$date": 1374616800000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51fde743733824919a2934df"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.62912110974042", 
+    "location_description": "BAR OR TAVERN", 
+    "x_coordinate": "1176032", 
+    "updated_on": {
+        "$date": 1375231290000
+    }, 
+    "fbi_code": "06", 
+    "block": "003XX S DEARBORN ST"
+}
