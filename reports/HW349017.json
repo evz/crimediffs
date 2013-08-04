@@ -1,33 +1,38 @@
 {
-    "community_area": "29", 
-    "_id": {
-        "$oid": "51e1729b018e783f00aba6c5"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1133", 
+    "y_coordinate": "1894901", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW349017", 
+    "id": "9205756", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.71938780476157, 
-            41.86647090896746
+            -87.7194147758575, 
+            41.86748917160683
         ]
     }, 
-    "case_number": "HW349017", 
+    "community_area": "29", 
+    "latitude": "41.86748917160683", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1133", 
     "date": {
         "$date": 1373022300000
     }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51e1729b018e783f00aba6c5"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.7194147758575", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1151467", 
     "updated_on": {
         "$date": 1373503231000
     }, 
-    "ward": "24", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9205756", 
-    "block": "011XX S INDEPENDENCE BLVD", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "011XX S INDEPENDENCE BLVD"
 }
