@@ -1,33 +1,38 @@
 {
-    "community_area": "28", 
-    "_id": {
-        "$oid": "51e17298018e783f00aba620"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "1233", 
+    "y_coordinate": "1892965", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2820", 
+    "case_number": "HW340660", 
+    "id": "9206062", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66641409349982, 
-            41.862264944990926
+            -87.66610973628504, 
+            41.8618789816638
         ]
     }, 
-    "case_number": "HW340660", 
+    "community_area": "28", 
+    "latitude": "41.8618789816638", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "1233", 
     "date": {
         "$date": 1373036400000
     }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51e17298018e783f00aba620"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.66610973628504", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1166002", 
     "updated_on": {
         "$date": 1373416728000
     }, 
-    "ward": "2", 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9206062", 
-    "block": "014XX S ASHLAND AVE", 
-    "description": "TELEPHONE THREAT"
+    "block": "014XX S ASHLAND AVE"
 }
