@@ -1,0 +1,33 @@
+{
+    "community_area": "53", 
+    "_id": {
+        "$oid": "51fde77b733824919a296b07"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "0523", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2027", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.627169165175, 
+            41.66514893411592
+        ]
+    }, 
+    "case_number": "HW353349", 
+    "date": {
+        "$date": 1373287500000
+    }, 
+    "updated_on": {
+        "$date": 1375490414000
+    }, 
+    "ward": "9", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9219554", 
+    "block": "002XX W 126TH ST", 
+    "description": "POSS: CRACK"
+}
