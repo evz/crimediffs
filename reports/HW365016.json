@@ -1,0 +1,33 @@
+{
+    "community_area": "50", 
+    "_id": {
+        "$oid": "51fde766733824919a294f1d"
+    }, 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "beat": "0531", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2850", 
+    "arrest": false, 
+    "location_description": "GOVERNMENT BUILDING/PROPERTY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60531537858283, 
+            41.69088344662168
+        ]
+    }, 
+    "case_number": "HW365016", 
+    "date": {
+        "$date": 1373979000000
+    }, 
+    "updated_on": {
+        "$date": 1375144832000
+    }, 
+    "ward": "9", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9230625", 
+    "block": "112XX S ELLIS AVE", 
+    "description": "BOMB THREAT"
+}
