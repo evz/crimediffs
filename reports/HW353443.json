@@ -1,33 +1,38 @@
 {
-    "community_area": "44", 
-    "_id": {
-        "$oid": "51e415a0018e783f00abab21"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0623", 
+    "y_coordinate": "1852001", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2826", 
+    "case_number": "HW353443", 
+    "id": "9208460", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63319732412329, 
-            41.749159408426436
+            -87.6329066753667, 
+            41.74926466484813
         ]
     }, 
-    "case_number": "HW353443", 
+    "community_area": "44", 
+    "latitude": "41.74926466484813", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "0623", 
     "date": {
         "$date": 1373157660000
     }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "51e415a0018e783f00abab21"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.6329066753667", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1175381", 
     "updated_on": {
         "$date": 1373675960000
     }, 
-    "ward": "17", 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9208460", 
-    "block": "079XX S HARVARD AVE", 
-    "description": "HARASSMENT BY ELECTRONIC MEANS"
+    "block": "079XX S HARVARD AVE"
 }
