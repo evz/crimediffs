@@ -1,0 +1,33 @@
+{
+    "community_area": "73", 
+    "_id": {
+        "$oid": "51fde743733824919a2934cc"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "2232", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64547000814063, 
+            41.70899089872361
+        ]
+    }, 
+    "case_number": "HW376273", 
+    "date": {
+        "$date": 1374618600000
+    }, 
+    "updated_on": {
+        "$date": 1374885634000
+    }, 
+    "ward": "34", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9231061", 
+    "block": "101XX S PEORIA ST", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
