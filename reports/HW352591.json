@@ -4,7 +4,7 @@
     "domestic": false, 
     "case_number": "HW352591", 
     "id": "9206613", 
-    "primary_type": "MOTOR VEHICLE THEFT", 
+    "primary_type": "OTHER OFFENSE", 
     "district": "024", 
     "arrest": false, 
     "location": {
@@ -16,8 +16,8 @@
     }, 
     "community_area": "1", 
     "latitude": "42.009537598783986", 
-    "type": "property", 
-    "description": "AUTOMOBILE", 
+    "type": null, 
+    "description": "OTHER VEHICLE OFFENSE", 
     "beat": "2424", 
     "date": {
         "$date": 1373236500000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "51e41595018e783f00aba830"
     }, 
-    "iucr": "910", 
+    "iucr": "5002", 
     "longitude": "-87.68195093937929", 
     "location_description": "ALLEY", 
     "x_coordinate": "1161278", 
     "updated_on": {
-        "$date": 1374799275000
+        "$date": 1375749778000
     }, 
-    "fbi_code": "07", 
+    "fbi_code": "26", 
     "block": "070XX N RIDGE BLVD"
 }
