@@ -1,33 +1,38 @@
 {
-    "community_area": "69", 
-    "_id": {
-        "$oid": "51fde727733824919a292b87"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0624", 
+    "y_coordinate": "1855361", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "4387", 
+    "case_number": "HW387173", 
+    "id": "9241780", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.60186501803344, 
-            41.758185059181876
+            -87.60157061341295, 
+            41.75829021209888
         ]
     }, 
-    "case_number": "HW387173", 
+    "community_area": "69", 
+    "latitude": "41.75829021209888", 
+    "type": null, 
+    "description": "VIOLATE ORDER OF PROTECTION", 
+    "beat": "0624", 
     "date": {
         "$date": 1374854400000
     }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51fde727733824919a292b87"
+    }, 
+    "iucr": "4387", 
+    "longitude": "-87.60157061341295", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1183904", 
     "updated_on": {
         "$date": 1375490414000
     }, 
-    "ward": "8", 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9241780", 
-    "block": "075XX S INGLESIDE AVE", 
-    "description": "VIOLATE ORDER OF PROTECTION"
+    "block": "075XX S INGLESIDE AVE"
 }
