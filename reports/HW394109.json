@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "520116bf733824919a296f1b"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0331", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "860", 
+    "arrest": false, 
+    "location_description": "SMALL RETAIL STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5741820182241, 
+            41.76598588722398
+        ]
+    }, 
+    "case_number": "HW394109", 
+    "date": {
+        "$date": 1375092000000
+    }, 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
+    "ward": "5", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9248134", 
+    "block": "020XX E 71ST ST", 
+    "description": "RETAIL THEFT"
+}
