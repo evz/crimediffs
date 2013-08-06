@@ -1,33 +1,38 @@
 {
-    "community_area": "28", 
-    "_id": {
-        "$oid": "51fde76e733824919a2956ae"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1232", 
+    "y_coordinate": "1894250", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW390008", 
+    "id": "9244675", 
+    "primary_type": "THEFT", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65610630687364, 
-            41.86534130565394
+            -87.65586029084587, 
+            41.8653453431836
         ]
     }, 
-    "case_number": "HW390008", 
+    "community_area": "28", 
+    "latitude": "41.8653453431836", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1232", 
     "date": {
         "$date": 1373788800000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "51fde76e733824919a2956ae"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.65586029084587", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1168784", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9244675", 
-    "block": "011XX W 13TH ST", 
-    "description": "OVER $500"
+    "block": "011XX W 13TH ST"
 }
