@@ -1,24 +1,24 @@
 {
-    "y_coordinate": "1863323", 
+    "y_coordinate": "1863395", 
     "year": "2013", 
     "domestic": false, 
     "case_number": "HW369555", 
     "id": "9223564", 
     "primary_type": "THEFT", 
     "district": "003", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.60852984634103, 
-            41.78018439300143
+            -87.60233553486239, 
+            41.78034273427697
         ]
     }, 
     "community_area": "42", 
-    "latitude": "41.78018439300143", 
+    "latitude": "41.78034273427697", 
     "type": "property", 
     "description": "$500 AND UNDER", 
-    "beat": "0312", 
+    "beat": "0314", 
     "date": {
         "$date": 1374235200000
     }, 
@@ -27,12 +27,12 @@
         "$oid": "51fde75a733824919a2944ed"
     }, 
     "iucr": "820", 
-    "longitude": "-87.60852984634103", 
+    "longitude": "-87.60233553486239", 
     "location_description": "SIDEWALK", 
-    "x_coordinate": "1181938", 
+    "x_coordinate": "1183627", 
     "updated_on": {
-        "$date": 1375058559000
+        "$date": 1375749778000
     }, 
     "fbi_code": "06", 
-    "block": "063XX S LANGLEY AVE"
+    "block": "009XX E 63RD ST"
 }
