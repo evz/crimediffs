@@ -1,33 +1,38 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "51fde743733824919a29350a"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "2233", 
+    "y_coordinate": "1835473", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1310", 
+    "case_number": "HW376228", 
+    "id": "9232682", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "RESIDENCE PORCH/HALLWAY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63445985106233, 
-            41.70436614187993
+            -87.63444275377391, 
+            41.70391596838211
         ]
     }, 
-    "case_number": "HW376228", 
+    "community_area": "49", 
+    "latitude": "41.70391596838211", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "2233", 
     "date": {
         "$date": 1374613200000
     }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51fde743733824919a29350a"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.63444275377391", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1175096", 
     "updated_on": {
         "$date": 1375231290000
     }, 
-    "ward": "34", 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9232682", 
-    "block": "104XX S EGGLESTON AVE", 
-    "description": "TO PROPERTY"
+    "block": "104XX S EGGLESTON AVE"
 }
