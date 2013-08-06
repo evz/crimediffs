@@ -1,33 +1,38 @@
 {
-    "community_area": "32", 
-    "_id": {
-        "$oid": "51fde773733824919a295e42"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0122", 
+    "y_coordinate": "1899447", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW390212", 
+    "id": "9244969", 
+    "primary_type": "THEFT", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "SCHOOL, PUBLIC, BUILDING", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63414732076365, 
-            41.87927123942606
+            -87.63489412625003, 
+            41.879481602078975
         ]
     }, 
-    "case_number": "HW390212", 
+    "community_area": "32", 
+    "latitude": "41.879481602078975", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0122", 
     "date": {
         "$date": 1373616000000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "51fde773733824919a295e42"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.63489412625003", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1174453", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9244969", 
-    "block": "002XX W ADAMS ST", 
-    "description": "OVER $500"
+    "block": "002XX W ADAMS ST"
 }
