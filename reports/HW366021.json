@@ -17,7 +17,7 @@
     "community_area": "3", 
     "latitude": "41.96594203409377", 
     "type": "violent", 
-    "description": "ATTEMPT: ARMED-KNIFE/CUT INSTR", 
+    "description": "ARMED:KNIFE/CUTTING INSTRUMENT", 
     "beat": "1913", 
     "date": {
         "$date": 1374031800000
@@ -26,12 +26,12 @@
     "_id": {
         "$oid": "51fde763733824919a294cac"
     }, 
-    "iucr": "334", 
+    "iucr": "312", 
     "longitude": "-87.65798351153308", 
     "location_description": "CTA TRAIN", 
     "x_coordinate": "1167917", 
     "updated_on": {
-        "$date": 1374367458000
+        "$date": 1375663313000
     }, 
     "fbi_code": "03", 
     "block": "046XX N BROADWAY"
