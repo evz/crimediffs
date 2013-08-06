@@ -1,33 +1,38 @@
 {
-    "community_area": "1", 
-    "_id": {
-        "$oid": "51fde73a733824919a293280"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "2424", 
+    "y_coordinate": "1949978", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1152", 
+    "case_number": "HW390612", 
+    "id": "9245264", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "024", 
     "arrest": false, 
-    "location_description": "ATM (AUTOMATIC TELLER MACHINE)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6760571590697, 
-            42.01839240895566
+            -87.67605347924906, 
+            42.01839238788402
         ]
     }, 
-    "case_number": "HW390612", 
+    "community_area": "1", 
+    "latitude": "42.01839238788402", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "2424", 
     "date": {
         "$date": 1374683580000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "49", 
+    "_id": {
+        "$oid": "51fde73a733824919a293280"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.67605347924906", 
+    "location_description": "ATM (AUTOMATIC TELLER MACHINE)", 
+    "x_coordinate": "1162856", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9245264", 
-    "block": "075XX N CLARK ST", 
-    "description": "ILLEGAL USE CASH CARD"
+    "block": "075XX N CLARK ST"
 }
