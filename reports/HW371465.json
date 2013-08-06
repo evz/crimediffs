@@ -1,33 +1,38 @@
 {
-    "community_area": "28", 
-    "_id": {
-        "$oid": "51fde755733824919a294040"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1223", 
+    "y_coordinate": "1900277", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "486", 
+    "case_number": "HW371465", 
+    "id": "9232584", 
+    "primary_type": "BATTERY", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.68259909231894, 
-            41.88224811396841
+            -87.6819879858374, 
+            41.88203608689072
         ]
     }, 
-    "case_number": "HW371465", 
+    "community_area": "28", 
+    "latitude": "41.88203608689072", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1223", 
     "date": {
         "$date": 1374343800000
     }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51fde755733824919a294040"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.6819879858374", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1161621", 
     "updated_on": {
         "$date": 1375231290000
     }, 
-    "ward": "2", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9232584", 
-    "block": "022XX W WARREN BLVD", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "022XX W WARREN BLVD"
 }
