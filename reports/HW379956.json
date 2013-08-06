@@ -1,33 +1,38 @@
 {
-    "community_area": "67", 
-    "_id": {
-        "$oid": "51fde72f733824919a292d5f"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0724", 
+    "y_coordinate": "1860073", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "498", 
+    "case_number": "HW379956", 
+    "id": "9238006", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65685593194476, 
-            41.771159499111064
+            -87.65686638506149, 
+            41.771560227886376
         ]
     }, 
-    "case_number": "HW379956", 
+    "community_area": "67", 
+    "latitude": "41.771560227886376", 
+    "type": "violent", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: HANDS/FIST/FEET SERIOUS INJURY", 
+    "beat": "0724", 
     "date": {
         "$date": 1374800400000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "17", 
+    "_id": {
+        "$oid": "51fde72f733824919a292d5f"
+    }, 
+    "iucr": "498", 
+    "longitude": "-87.65686638506149", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1168779", 
+    "updated_on": {
+        "$date": 1375663313000
+    }, 
     "fbi_code": "04B", 
-    "type": "violent", 
-    "id": "9238006", 
-    "block": "067XX S THROOP ST", 
-    "description": "AGGRAVATED DOMESTIC BATTERY: HANDS/FIST/FEET SERIOUS INJURY"
+    "block": "067XX S THROOP ST"
 }
