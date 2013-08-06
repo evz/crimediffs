@@ -6,7 +6,7 @@
     "id": "9226927", 
     "primary_type": "THEFT", 
     "district": "025", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "ALLEY", 
     "x_coordinate": "1150755", 
     "updated_on": {
-        "$date": 1375404049000
+        "$date": 1375749778000
     }, 
     "fbi_code": "06", 
     "block": "013XX N HAMLIN AVE"
