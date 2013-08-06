@@ -1,33 +1,38 @@
 {
-    "community_area": "74", 
-    "_id": {
-        "$oid": "51fde722733824919a292a36"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2211", 
+    "y_coordinate": "1829275", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW381179", 
+    "id": "9240953", 
+    "primary_type": "THEFT", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.7056830195492, 
-            41.68709272405606
+            -87.70569181513996, 
+            41.68731780788671
         ]
     }, 
-    "case_number": "HW381179", 
+    "community_area": "74", 
+    "latitude": "41.68731780788671", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2211", 
     "date": {
         "$date": 1374877800000
     }, 
+    "ward": "19", 
+    "_id": {
+        "$oid": "51fde722733824919a292a36"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.70569181513996", 
+    "location_description": "STREET", 
+    "x_coordinate": "1155684", 
     "updated_on": {
         "$date": 1375490414000
     }, 
-    "ward": "19", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9240953", 
-    "block": "113XX S HOMAN AVE", 
-    "description": "$500 AND UNDER"
+    "block": "113XX S HOMAN AVE"
 }
