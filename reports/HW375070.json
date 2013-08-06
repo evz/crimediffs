@@ -1,33 +1,38 @@
 {
-    "community_area": "17", 
-    "_id": {
-        "$oid": "51fde747733824919a29374f"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1631", 
+    "y_coordinate": "1920382", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW375070", 
+    "id": "9230634", 
+    "primary_type": "BATTERY", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.82768006205698, 
-            41.9377837708439
+            -87.82768615531123, 
+            41.93794296281597
         ]
     }, 
-    "case_number": "HW375070", 
+    "community_area": "17", 
+    "latitude": "41.93794296281597", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1631", 
     "date": {
         "$date": 1374568200000
     }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "51fde747733824919a29374f"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.82768615531123", 
+    "location_description": "STREET", 
+    "x_coordinate": "1121825", 
     "updated_on": {
         "$date": 1374885634000
     }, 
-    "ward": "36", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9230634", 
-    "block": "032XX N PAGE AVE", 
-    "description": "SIMPLE"
+    "block": "032XX N PAGE AVE"
 }
