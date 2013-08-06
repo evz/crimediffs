@@ -1,33 +1,38 @@
 {
-    "community_area": "24", 
-    "_id": {
-        "$oid": "51fde742733824919a293468"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "1211", 
+    "y_coordinate": "1905949", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "320", 
+    "case_number": "HW376409", 
+    "id": "9231533", 
+    "primary_type": "ROBBERY", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.68975966647618, 
-            41.89763975558391
+            -87.68947679879831, 
+            41.897643658401414
         ]
     }, 
-    "case_number": "HW376409", 
+    "community_area": "24", 
+    "latitude": "41.897643658401414", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "1211", 
     "date": {
         "$date": 1374627600000
     }, 
-    "updated_on": {
-        "$date": 1374885634000
-    }, 
     "ward": "26", 
+    "_id": {
+        "$oid": "51fde742733824919a293468"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.68947679879831", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1159539", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9231533", 
-    "block": "025XX W IOWA ST", 
-    "description": "STRONGARM - NO WEAPON"
+    "block": "025XX W IOWA ST"
 }
