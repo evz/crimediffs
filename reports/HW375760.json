@@ -1,33 +1,38 @@
 {
-    "community_area": "46", 
-    "_id": {
-        "$oid": "51fde745733824919a293635"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0422", 
+    "y_coordinate": "1852234", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW375760", 
+    "id": "9231544", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.55877627133013, 
-            41.74977953021913
+            -87.55876950071115, 
+            41.74942821423989
         ]
     }, 
-    "case_number": "HW375760", 
+    "community_area": "46", 
+    "latitude": "41.74942821423989", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0422", 
     "date": {
         "$date": 1374591600000
     }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51fde745733824919a293635"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.55876950071115", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1195611", 
     "updated_on": {
         "$date": 1374885634000
     }, 
-    "ward": "7", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9231544", 
-    "block": "080XX S MARQUETTE AVE", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "080XX S MARQUETTE AVE"
 }
