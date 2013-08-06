@@ -1,0 +1,33 @@
+{
+    "community_area": "11", 
+    "_id": {
+        "$oid": "520116ef733824919a29760b"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1622", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "843", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77840023521046, 
+            41.972105849458664
+        ]
+    }, 
+    "case_number": "HW394241", 
+    "date": {
+        "$date": 1374192120000
+    }, 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
+    "ward": "45", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9249071", 
+    "block": "050XX N AUSTIN AVE", 
+    "description": "ATTEMPT FINANCIAL IDENTITY THEFT"
+}
