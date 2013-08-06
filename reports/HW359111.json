@@ -1,33 +1,38 @@
 {
-    "community_area": "66", 
-    "_id": {
-        "$oid": "51fde773733824919a295de1"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "0832", 
+    "y_coordinate": "1857608", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1811", 
+    "case_number": "HW359111", 
+    "id": "9221240", 
+    "primary_type": "NARCOTICS", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.68706438663217, 
-            41.764782757371705
+            -87.6870698446246, 
+            41.764969400544516
         ]
     }, 
-    "case_number": "HW359111", 
+    "community_area": "66", 
+    "latitude": "41.764969400544516", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0832", 
     "date": {
         "$date": 1373625202000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "18", 
+    "_id": {
+        "$oid": "51fde773733824919a295de1"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.6870698446246", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1160558", 
+    "updated_on": {
+        "$date": 1375577007000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9221240", 
-    "block": "070XX S MAPLEWOOD AVE", 
-    "description": "POSS: CANNABIS 30GMS OR LESS"
+    "block": "070XX S MAPLEWOOD AVE"
 }
