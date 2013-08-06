@@ -1,33 +1,38 @@
 {
-    "community_area": "69", 
-    "_id": {
-        "$oid": "51fde741733824919a293446"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "0322", 
+    "y_coordinate": "1858255", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1310", 
+    "case_number": "HW376438", 
+    "id": "9234283", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6139215640916, 
-            41.766214159570595
+            -87.61421371772902, 
+            41.76631203895847
         ]
     }, 
-    "case_number": "HW376438", 
+    "community_area": "69", 
+    "latitude": "41.76631203895847", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0322", 
     "date": {
         "$date": 1374634500000
     }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51fde741733824919a293446"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.61421371772902", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1180430", 
     "updated_on": {
         "$date": 1375058559000
     }, 
-    "ward": "6", 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9234283", 
-    "block": "070XX S VERNON AVE", 
-    "description": "TO PROPERTY"
+    "block": "070XX S VERNON AVE"
 }
