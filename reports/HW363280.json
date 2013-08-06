@@ -1,33 +1,38 @@
 {
-    "community_area": "68", 
-    "_id": {
-        "$oid": "51fde76a733824919a2952fe"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0733", 
+    "y_coordinate": "1856179", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "497", 
+    "case_number": "HW363280", 
+    "id": "9220157", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.645673386807, 
-            41.76135908574586
+            -87.64565728549948, 
+            41.760807385035065
         ]
     }, 
-    "case_number": "HW363280", 
+    "community_area": "68", 
+    "latitude": "41.760807385035065", 
+    "type": "violent", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: OTHER DANG WEAPON", 
+    "beat": "0733", 
     "date": {
         "$date": 1373886900000
     }, 
-    "updated_on": {
-        "$date": 1374971969000
-    }, 
     "ward": "17", 
+    "_id": {
+        "$oid": "51fde76a733824919a2952fe"
+    }, 
+    "iucr": "497", 
+    "longitude": "-87.64565728549948", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1171868", 
+    "updated_on": {
+        "$date": 1375663313000
+    }, 
     "fbi_code": "04B", 
-    "type": "violent", 
-    "id": "9220157", 
-    "block": "073XX S GREEN ST", 
-    "description": "AGGRAVATED DOMESTIC BATTERY: OTHER DANG WEAPON"
+    "block": "073XX S GREEN ST"
 }
