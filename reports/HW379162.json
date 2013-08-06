@@ -1,33 +1,38 @@
 {
-    "community_area": "28", 
-    "_id": {
-        "$oid": "51fde731733824919a292e21"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "1225", 
+    "y_coordinate": "1896707", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "2820", 
+    "case_number": "HW379162", 
+    "id": "9238336", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67945506766813, 
-            41.87222198512102
+            -87.67945136827255, 
+            41.87222470830773
         ]
     }, 
-    "case_number": "HW379162", 
+    "community_area": "28", 
+    "latitude": "41.87222470830773", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "1225", 
     "date": {
         "$date": 1374787800000
     }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51fde731733824919a292e21"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.67945136827255", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1162339", 
     "updated_on": {
         "$date": 1375490414000
     }, 
-    "ward": "25", 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9238336", 
-    "block": "021XX W LEXINGTON ST", 
-    "description": "TELEPHONE THREAT"
+    "block": "021XX W LEXINGTON ST"
 }
