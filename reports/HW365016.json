@@ -1,33 +1,38 @@
 {
-    "community_area": "50", 
-    "_id": {
-        "$oid": "51fde766733824919a294f1d"
-    }, 
-    "primary_type": "PUBLIC PEACE VIOLATION", 
-    "beat": "0531", 
+    "y_coordinate": "1830777", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2850", 
+    "case_number": "HW365016", 
+    "id": "9230625", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "GOVERNMENT BUILDING/PROPERTY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.60531537858283, 
-            41.69088344662168
+            -87.60501923669219, 
+            41.69084589392017
         ]
     }, 
-    "case_number": "HW365016", 
+    "community_area": "50", 
+    "latitude": "41.69084589392017", 
+    "type": null, 
+    "description": "BOMB THREAT", 
+    "beat": "0531", 
     "date": {
         "$date": 1373979000000
     }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51fde766733824919a294f1d"
+    }, 
+    "iucr": "2850", 
+    "longitude": "-87.60501923669219", 
+    "location_description": "GOVERNMENT BUILDING/PROPERTY", 
+    "x_coordinate": "1183171", 
     "updated_on": {
         "$date": 1375144832000
     }, 
-    "ward": "9", 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9230625", 
-    "block": "112XX S ELLIS AVE", 
-    "description": "BOMB THREAT"
+    "block": "112XX S ELLIS AVE"
 }
