@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "51fde71e733824919a2929be"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2531", 
+    "y_coordinate": "1911046", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW383704", 
+    "id": "9237518", 
+    "primary_type": "THEFT", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.7706709, 
-            41.911278
+            -87.77022817115676, 
+            41.91205541588912
         ]
     }, 
-    "case_number": "HW383704", 
+    "community_area": "25", 
+    "latitude": "41.91205541588912", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "2531", 
     "date": {
         "$date": 1374886800000
     }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "51fde71e733824919a2929be"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.77022817115676", 
+    "location_description": "STREET", 
+    "x_coordinate": "1137520", 
     "updated_on": {
         "$date": 1375231290000
     }, 
-    "ward": "29", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9237518", 
-    "block": "017XX N MENARD AVE", 
-    "description": "OVER $500"
+    "block": "017XX N MENARD AVE"
 }
