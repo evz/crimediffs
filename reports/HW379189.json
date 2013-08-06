@@ -6,7 +6,7 @@
     "id": "9232977", 
     "primary_type": "ROBBERY", 
     "district": "012", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "ALLEY", 
     "x_coordinate": "1165045", 
     "updated_on": {
-        "$date": 1374971969000
+        "$date": 1375749778000
     }, 
     "fbi_code": "03", 
     "block": "017XX W 18TH PL"
