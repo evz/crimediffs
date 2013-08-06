@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "51fde74a733824919a29387f"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0414", 
+    "y_coordinate": "1852972", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW375090", 
+    "id": "9235221", 
+    "primary_type": "BURGLARY", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "SMALL RETAIL STORE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.5836634600122, 
-            41.75161863342259
+            -87.58365979554031, 
+            41.751618609512406
         ]
     }, 
-    "case_number": "HW375090", 
+    "community_area": "43", 
+    "latitude": "41.751618609512406", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0414", 
     "date": {
         "$date": 1374526800000
     }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51fde74a733824919a29387f"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.58365979554031", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1188812", 
     "updated_on": {
         "$date": 1375144832000
     }, 
-    "ward": "8", 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9235221", 
-    "block": "016XX E 79TH ST", 
-    "description": "FORCIBLE ENTRY"
+    "block": "016XX E 79TH ST"
 }
