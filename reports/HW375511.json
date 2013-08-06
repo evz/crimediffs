@@ -1,33 +1,38 @@
 {
-    "community_area": "60", 
-    "_id": {
-        "$oid": "51fde752733824919a293d90"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0915", 
+    "y_coordinate": "1881115", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW375511", 
+    "id": "9245077", 
+    "primary_type": "BATTERY", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64624959330983, 
-            41.830644720137435
+            -87.64621689197186, 
+            41.82924220372757
         ]
     }, 
-    "case_number": "HW375511", 
+    "community_area": "60", 
+    "latitude": "41.82924220372757", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0915", 
     "date": {
         "$date": 1374415200000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "11", 
+    "_id": {
+        "$oid": "51fde752733824919a293d90"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.64621689197186", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1171516", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9245077", 
-    "block": "035XX S HALSTED ST", 
-    "description": "SIMPLE"
+    "block": "035XX S HALSTED ST"
 }
