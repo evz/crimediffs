@@ -1,15 +1,12 @@
 {
-    "community_area": "8", 
-    "_id": {
-        "$oid": "51fde76e733824919a295795"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1834", 
+    "y_coordinate": "1904096", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW364695", 
+    "id": "9219595", 
+    "primary_type": "THEFT", 
+    "district": "018", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.89209518854657
         ]
     }, 
-    "case_number": "HW364695", 
+    "community_area": "8", 
+    "latitude": "41.89209518854657", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1834", 
     "date": {
         "$date": 1373763600000
     }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "51fde76e733824919a295795"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.61154479607981", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1180773", 
     "updated_on": {
         "$date": 1375317661000
     }, 
-    "ward": "42", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9219595", 
-    "block": "006XX E GRAND AVE", 
-    "description": "$500 AND UNDER"
+    "block": "006XX E GRAND AVE"
 }
