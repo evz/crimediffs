@@ -1,33 +1,38 @@
 {
-    "community_area": "40", 
-    "_id": {
-        "$oid": "51fde768733824919a295042"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "0231", 
+    "y_coordinate": "1869268", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "031A", 
+    "case_number": "HW364479", 
+    "id": "9226099", 
+    "primary_type": "ROBBERY", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61613141738633, 
-            41.79488384187365
+            -87.61617154998908, 
+            41.796547127232884
         ]
     }, 
-    "case_number": "HW364479", 
+    "community_area": "40", 
+    "latitude": "41.796547127232884", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0231", 
     "date": {
         "$date": 1373937900000
     }, 
-    "updated_on": {
-        "$date": 1374626441000
-    }, 
     "ward": "3", 
+    "_id": {
+        "$oid": "51fde768733824919a295042"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.61617154998908", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1179804", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9226099", 
-    "block": "054XX S DR MARTIN LUTHER KING JR DR", 
-    "description": "ARMED: HANDGUN"
+    "block": "054XX S DR MARTIN LUTHER KING JR DR"
 }
