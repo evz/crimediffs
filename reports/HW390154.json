@@ -1,33 +1,38 @@
 {
-    "community_area": "45", 
-    "_id": {
-        "$oid": "51fde720733824919a2929ea"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0411", 
+    "y_coordinate": "1851314", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1150", 
+    "case_number": "HW390154", 
+    "id": "9244892", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.58435602844062, 
-            41.747841503031616
+            -87.58433564542352, 
+            41.747072965491505
         ]
     }, 
-    "case_number": "HW390154", 
+    "community_area": "45", 
+    "latitude": "41.747072965491505", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "0411", 
     "date": {
         "$date": 1374883200000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "8", 
+    "_id": {
+        "$oid": "51fde720733824919a2929ea"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.58433564542352", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1188642", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9244892", 
-    "block": "081XX S CORNELL AVE", 
-    "description": "CREDIT CARD FRAUD"
+    "block": "081XX S CORNELL AVE"
 }
