@@ -4,7 +4,7 @@
     "domestic": false, 
     "case_number": "HW377631", 
     "id": "9231377", 
-    "primary_type": "MOTOR VEHICLE THEFT", 
+    "primary_type": "OTHER OFFENSE", 
     "district": "025", 
     "arrest": false, 
     "location": {
@@ -16,8 +16,8 @@
     }, 
     "community_area": "19", 
     "latitude": "41.92802235459695", 
-    "type": "property", 
-    "description": "AUTOMOBILE", 
+    "type": null, 
+    "description": "OTHER VEHICLE OFFENSE", 
     "beat": "2512", 
     "date": {
         "$date": 1374691800000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "51fde73a733824919a29321a"
     }, 
-    "iucr": "910", 
+    "iucr": "5002", 
     "longitude": "-87.78575364314558", 
     "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
     "x_coordinate": "1133257", 
     "updated_on": {
-        "$date": 1375317661000
+        "$date": 1375749778000
     }, 
-    "fbi_code": "07", 
+    "fbi_code": "26", 
     "block": "026XX N NARRAGANSETT AVE"
 }
