@@ -1,33 +1,38 @@
 {
-    "community_area": "36", 
-    "_id": {
-        "$oid": "51fde75c733824919a29480d"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0214", 
+    "y_coordinate": "1877690", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2820", 
+    "case_number": "HW368137", 
+    "id": "9237312", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.60490919947367, 
-            41.81889150658071
+            -87.60498567273598, 
+            41.81958903609286
         ]
     }, 
-    "case_number": "HW368137", 
+    "community_area": "36", 
+    "latitude": "41.81958903609286", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "0214", 
     "date": {
         "$date": 1374154200000
     }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51fde75c733824919a29480d"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.60498567273598", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1182783", 
     "updated_on": {
         "$date": 1375490414000
     }, 
-    "ward": "4", 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9237312", 
-    "block": "041XX S DREXEL BLVD", 
-    "description": "TELEPHONE THREAT"
+    "block": "041XX S DREXEL BLVD"
 }
