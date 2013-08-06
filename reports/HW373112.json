@@ -1,33 +1,38 @@
 {
-    "community_area": "3", 
-    "_id": {
-        "$oid": "51fde750733824919a293c03"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1915", 
+    "y_coordinate": "1927823", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "430", 
+    "case_number": "HW373112", 
+    "id": "9235577", 
+    "primary_type": "BATTERY", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.653620348597, 
-            41.95750254913823
+            -87.65406558875982, 
+            41.9574667653893
         ]
     }, 
-    "case_number": "HW373112", 
+    "community_area": "3", 
+    "latitude": "41.9574667653893", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "1915", 
     "date": {
         "$date": 1374444000000
     }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "51fde750733824919a293c03"
+    }, 
+    "iucr": "430", 
+    "longitude": "-87.65406558875982", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1169007", 
     "updated_on": {
         "$date": 1375144832000
     }, 
-    "ward": "46", 
     "fbi_code": "04B", 
-    "type": "violent", 
-    "id": "9235577", 
-    "block": "009XX W GORDON TER", 
-    "description": "AGGRAVATED: OTHER DANG WEAPON"
+    "block": "009XX W GORDON TER"
 }
