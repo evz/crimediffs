@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "51fde76a733824919a29524d"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0331", 
+    "y_coordinate": "1859454", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW364116", 
+    "id": "9222012", 
+    "primary_type": "BURGLARY", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.56837427470566, 
-            41.76919660574543
+            -87.56807973345126, 
+            41.76930441583583
         ]
     }, 
-    "case_number": "HW364116", 
+    "community_area": "43", 
+    "latitude": "41.76930441583583", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0331", 
     "date": {
         "$date": 1373899440000
     }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51fde76a733824919a29524d"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.56807973345126", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1193006", 
     "updated_on": {
         "$date": 1374971969000
     }, 
-    "ward": "5", 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9222012", 
-    "block": "069XX S OGLESBY AVE", 
-    "description": "FORCIBLE ENTRY"
+    "block": "069XX S OGLESBY AVE"
 }
