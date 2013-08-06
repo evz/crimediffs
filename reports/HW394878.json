@@ -1,0 +1,33 @@
+{
+    "community_area": "53", 
+    "_id": {
+        "$oid": "520116c5733824919a297046"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0522", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62735279017787, 
+            41.67915992266693
+        ]
+    }, 
+    "case_number": "HW394878", 
+    "date": {
+        "$date": 1375048800000
+    }, 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
+    "ward": "34", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9249110", 
+    "block": "118XX S WENTWORTH AVE", 
+    "description": "$500 AND UNDER"
+}
