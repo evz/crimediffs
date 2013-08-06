@@ -1,33 +1,38 @@
 {
-    "community_area": "30", 
-    "_id": {
-        "$oid": "51fde76a733824919a295222"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "1024", 
+    "y_coordinate": "1889750", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW386811", 
+    "id": "9244696", 
+    "primary_type": "BURGLARY", 
+    "district": "010", 
     "arrest": false, 
-    "location_description": "RESIDENCE-GARAGE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70879433522961, 
-            41.852689758163656
+            -87.70910041670307, 
+            41.85329790375183
         ]
     }, 
-    "case_number": "HW386811", 
+    "community_area": "30", 
+    "latitude": "41.85329790375183", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1024", 
     "date": {
         "$date": 1373902200000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "24", 
+    "_id": {
+        "$oid": "51fde76a733824919a295222"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.70910041670307", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1154314", 
+    "updated_on": {
+        "$date": 1375663313000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9244696", 
-    "block": "021XX S CHRISTIANA AVE", 
-    "description": "FORCIBLE ENTRY"
+    "block": "021XX S CHRISTIANA AVE"
 }
