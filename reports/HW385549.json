@@ -1,33 +1,38 @@
 {
-    "community_area": "28", 
-    "_id": {
-        "$oid": "51fde74e733824919a293a32"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "1233", 
+    "y_coordinate": "1894145", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1122", 
+    "case_number": "HW385549", 
+    "id": "9240766", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65991979006536, 
-            41.865081071780146
+            -87.66012169531152, 
+            41.86508225549364
         ]
     }, 
-    "case_number": "HW385549", 
+    "community_area": "28", 
+    "latitude": "41.86508225549364", 
+    "type": null, 
+    "description": "COUNTERFEIT CHECK", 
+    "beat": "1233", 
     "date": {
         "$date": 1374494400000
     }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51fde74e733824919a293a32"
+    }, 
+    "iucr": "1122", 
+    "longitude": "-87.66012169531152", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1167624", 
     "updated_on": {
         "$date": 1375490414000
     }, 
-    "ward": "2", 
     "fbi_code": "10", 
-    "type": null, 
-    "id": "9240766", 
-    "block": "013XX W 13TH ST", 
-    "description": "COUNTERFEIT CHECK"
+    "block": "013XX W 13TH ST"
 }
