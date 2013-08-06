@@ -1,0 +1,33 @@
+{
+    "community_area": "3", 
+    "_id": {
+        "$oid": "520116fc733824919a29761f"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "1915", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "LAKEFRONT/WATERFRONT/RIVERBANK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64301714477561, 
+            41.9622800631871
+        ]
+    }, 
+    "case_number": "HW392930", 
+    "date": {
+        "$date": 1373706000000
+    }, 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
+    "ward": "46", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9248884", 
+    "block": "005XX W MONTROSE DR", 
+    "description": "TO VEHICLE"
+}
