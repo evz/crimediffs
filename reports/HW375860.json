@@ -6,7 +6,7 @@
     "id": "9229555", 
     "primary_type": "ROBBERY", 
     "district": "002", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "RESIDENCE PORCH/HALLWAY", 
     "x_coordinate": "1178845", 
     "updated_on": {
-        "$date": 1375490414000
+        "$date": 1375749778000
     }, 
     "fbi_code": "03", 
     "block": "049XX S PRAIRIE AVE"
