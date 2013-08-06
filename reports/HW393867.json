@@ -1,0 +1,33 @@
+{
+    "community_area": "7", 
+    "_id": {
+        "$oid": "520116dd733824919a2975e0"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1932", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6682136764335, 
+            41.93121885940502
+        ]
+    }, 
+    "case_number": "HW393867", 
+    "date": {
+        "$date": 1374739200000
+    }, 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
+    "ward": "32", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9248230", 
+    "block": "027XX N ASHLAND AVE", 
+    "description": "OVER $500"
+}
