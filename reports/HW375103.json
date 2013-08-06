@@ -1,15 +1,12 @@
 {
-    "community_area": "61", 
-    "_id": {
-        "$oid": "51fde747733824919a29372c"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0924", 
+    "y_coordinate": "1875286", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW375103", 
+    "id": "9229734", 
+    "primary_type": "BATTERY", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.813363505497236
         ]
     }, 
-    "case_number": "HW375103", 
+    "community_area": "61", 
+    "latitude": "41.813363505497236", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0924", 
     "date": {
         "$date": 1374570300000
     }, 
+    "ward": "12", 
+    "_id": {
+        "$oid": "51fde747733824919a29372c"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.66617697267515", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1166121", 
     "updated_on": {
         "$date": 1374885634000
     }, 
-    "ward": "12", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9229734", 
-    "block": "044XX S MARSHFIELD AVE", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "044XX S MARSHFIELD AVE"
 }
