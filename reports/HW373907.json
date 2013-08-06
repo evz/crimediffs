@@ -6,7 +6,7 @@
     "id": "9227375", 
     "primary_type": "OFFENSE INVOLVING CHILDREN", 
     "district": "025", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "SIDEWALK", 
     "x_coordinate": "1139013", 
     "updated_on": {
-        "$date": 1375490414000
+        "$date": 1375663313000
     }, 
     "fbi_code": "26", 
     "block": "055XX W NORTH AVE"
