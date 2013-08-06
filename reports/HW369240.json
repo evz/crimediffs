@@ -1,33 +1,38 @@
 {
-    "community_area": "46", 
-    "_id": {
-        "$oid": "51fde75c733824919a2947e4"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0424", 
+    "y_coordinate": "1850508", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW369240", 
+    "id": "9236601", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.54288968689966, 
-            41.74383420805964
+            -87.54319194150027, 
+            41.744585481176365
         ]
     }, 
-    "case_number": "HW369240", 
+    "community_area": "46", 
+    "latitude": "41.744585481176365", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0424", 
     "date": {
         "$date": 1374159000000
     }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51fde75c733824919a2947e4"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.54319194150027", 
+    "location_description": "STREET", 
+    "x_coordinate": "1199878", 
     "updated_on": {
         "$date": 1375317661000
     }, 
-    "ward": "10", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9236601", 
-    "block": "083XX S MACKINAW AVE", 
-    "description": "SIMPLE"
+    "block": "083XX S MACKINAW AVE"
 }
