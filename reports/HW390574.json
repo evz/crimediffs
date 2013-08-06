@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "51fde772733824919a295ca4"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "1524", 
+    "y_coordinate": "1904760", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "5000", 
+    "case_number": "HW390574", 
+    "id": "9245254", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.76114794417813, 
-            41.89499349880301
+            -87.76235469619014, 
+            41.89476624458354
         ]
     }, 
-    "case_number": "HW390574", 
+    "community_area": "25", 
+    "latitude": "41.89476624458354", 
+    "type": null, 
+    "description": "OTHER CRIME AGAINST PERSON", 
+    "beat": "1524", 
     "date": {
         "$date": 1373650200000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "37", 
+    "_id": {
+        "$oid": "51fde772733824919a295ca4"
+    }, 
+    "iucr": "5000", 
+    "longitude": "-87.76235469619014", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1139705", 
+    "updated_on": {
+        "$date": 1375577007000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9245254", 
-    "block": "054XX W CHICAGO AVE", 
-    "description": "OTHER CRIME AGAINST PERSON"
+    "block": "054XX W CHICAGO AVE"
 }
