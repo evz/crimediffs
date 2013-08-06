@@ -1,33 +1,38 @@
 {
-    "community_area": "46", 
-    "_id": {
-        "$oid": "51fde742733824919a2934a1"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0423", 
+    "y_coordinate": "1850019", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW376316", 
+    "id": "9230070", 
+    "primary_type": "THEFT", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.56231978159396, 
-            41.74397721281757
+            -87.5626054669254, 
+            41.7433753829714
         ]
     }, 
-    "case_number": "HW376316", 
+    "community_area": "46", 
+    "latitude": "41.7433753829714", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0423", 
     "date": {
         "$date": 1374621900000
     }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51fde742733824919a2934a1"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.5626054669254", 
+    "location_description": "STREET", 
+    "x_coordinate": "1194584", 
     "updated_on": {
         "$date": 1375058559000
     }, 
-    "ward": "7", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9230070", 
-    "block": "083XX S KINGSTON AVE", 
-    "description": "OVER $500"
+    "block": "083XX S KINGSTON AVE"
 }
