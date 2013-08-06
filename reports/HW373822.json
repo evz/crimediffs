@@ -1,33 +1,38 @@
 {
-    "community_area": "51", 
-    "_id": {
-        "$oid": "51fde76b733824919a295404"
-    }, 
-    "primary_type": "OFFENSE INVOLVING CHILDREN", 
-    "beat": "0431", 
+    "y_coordinate": "1837478", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1752", 
+    "case_number": "HW373822", 
+    "id": "9228195", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.56468138975669, 
-            41.709713851743835
+            -87.56467190573288, 
+            41.70897282220662
         ]
     }, 
-    "case_number": "HW373822", 
+    "community_area": "51", 
+    "latitude": "41.70897282220662", 
+    "type": null, 
+    "description": "AGG CRIM SEX ABUSE FAM MEMBER", 
+    "beat": "0431", 
     "date": {
         "$date": 1373849100000
     }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "51fde76b733824919a295404"
+    }, 
+    "iucr": "1752", 
+    "longitude": "-87.56467190573288", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1194132", 
     "updated_on": {
         "$date": 1375317661000
     }, 
-    "ward": "10", 
     "fbi_code": "20", 
-    "type": null, 
-    "id": "9228195", 
-    "block": "102XX S YATES AVE", 
-    "description": "AGG CRIM SEX ABUSE FAM MEMBER"
+    "block": "102XX S YATES AVE"
 }
