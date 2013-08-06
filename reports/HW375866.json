@@ -1,33 +1,38 @@
 {
-    "community_area": "47", 
-    "_id": {
-        "$oid": "51fde745733824919a293600"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "0413", 
+    "y_coordinate": "1843978", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "560", 
+    "case_number": "HW375866", 
+    "id": "9231546", 
+    "primary_type": "ASSAULT", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.5986764004817, 
-            41.72667929413661
+            -87.59868335678857, 
+            41.72703335500434
         ]
     }, 
-    "case_number": "HW375866", 
+    "community_area": "47", 
+    "latitude": "41.72703335500434", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0413", 
     "date": {
         "$date": 1374595560000
     }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51fde745733824919a293600"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.59868335678857", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1184789", 
     "updated_on": {
         "$date": 1375058559000
     }, 
-    "ward": "8", 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9231546", 
-    "block": "092XX S DOBSON AVE", 
-    "description": "SIMPLE"
+    "block": "092XX S DOBSON AVE"
 }
