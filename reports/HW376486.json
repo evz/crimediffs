@@ -1,33 +1,38 @@
 {
-    "community_area": "23", 
-    "_id": {
-        "$oid": "51fde741733824919a293421"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1112", 
+    "y_coordinate": "1904426", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW376486", 
+    "id": "9232406", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72562702506133, 
-            41.89342517377442
+            -87.72452665453699, 
+            41.893655350206885
         ]
     }, 
-    "case_number": "HW376486", 
+    "community_area": "23", 
+    "latitude": "41.893655350206885", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1112", 
     "date": {
         "$date": 1374645900000
     }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "51fde741733824919a293421"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.72452665453699", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1150007", 
     "updated_on": {
         "$date": 1374971969000
     }, 
-    "ward": "27", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9232406", 
-    "block": "039XX W HURON ST", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "039XX W HURON ST"
 }
