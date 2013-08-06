@@ -1,33 +1,38 @@
 {
-    "community_area": "63", 
-    "_id": {
-        "$oid": "51fde720733824919a292a07"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0824", 
+    "y_coordinate": "1865603", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2820", 
+    "case_number": "HW380865", 
+    "id": "9237293", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.68645747333649, 
-            41.787611881660354
+            -87.68643523045617, 
+            41.786906473774785
         ]
     }, 
-    "case_number": "HW380865", 
+    "community_area": "63", 
+    "latitude": "41.786906473774785", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "0824", 
     "date": {
         "$date": 1374881340000
     }, 
+    "ward": "16", 
+    "_id": {
+        "$oid": "51fde720733824919a292a07"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.68643523045617", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1160671", 
     "updated_on": {
         "$date": 1375231290000
     }, 
-    "ward": "16", 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9237293", 
-    "block": "058XX S CAMPBELL AVE", 
-    "description": "TELEPHONE THREAT"
+    "block": "058XX S CAMPBELL AVE"
 }
