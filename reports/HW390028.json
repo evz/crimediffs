@@ -1,33 +1,38 @@
 {
-    "community_area": "44", 
-    "_id": {
-        "$oid": "51fde777733824919a2964cf"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0634", 
+    "y_coordinate": "1845963", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1152", 
+    "case_number": "HW390028", 
+    "id": "9244930", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62094127889593, 
-            41.731731809690665
+            -87.62125749931987, 
+            41.732622926935896
         ]
     }, 
-    "case_number": "HW390028", 
+    "community_area": "44", 
+    "latitude": "41.732622926935896", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "0634", 
     "date": {
         "$date": 1373446800000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "6", 
+    "_id": {
+        "$oid": "51fde777733824919a2964cf"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.62125749931987", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1178610", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9244930", 
-    "block": "0000X E 89TH ST", 
-    "description": "ILLEGAL USE CASH CARD"
+    "block": "0000X E 89TH ST"
 }
