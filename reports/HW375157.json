@@ -1,33 +1,38 @@
 {
-    "community_area": "22", 
-    "_id": {
-        "$oid": "51fde747733824919a293720"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1413", 
+    "y_coordinate": "1913989", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW375157", 
+    "id": "9232365", 
+    "primary_type": "THEFT", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.7069036287614, 
-            41.91964452307425
+            -87.70719968016788, 
+            41.91980530309538
         ]
     }, 
-    "case_number": "HW375157", 
+    "community_area": "22", 
+    "latitude": "41.91980530309538", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1413", 
     "date": {
         "$date": 1374572700000
     }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51fde747733824919a293720"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.70719968016788", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1154655", 
     "updated_on": {
         "$date": 1374885634000
     }, 
-    "ward": "26", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9232365", 
-    "block": "021XX N KEDZIE AVE", 
-    "description": "$500 AND UNDER"
+    "block": "021XX N KEDZIE AVE"
 }
