@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "520116cf733824919a29720d"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0324", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58735556697714, 
+            41.76159897870063
+        ]
+    }, 
+    "case_number": "HW394667", 
+    "date": {
+        "$date": 1375009200000
+    }, 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
+    "ward": "5", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9249157", 
+    "block": "015XX E 73RD PL", 
+    "description": "TO PROPERTY"
+}
