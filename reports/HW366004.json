@@ -1,33 +1,38 @@
 {
-    "community_area": "26", 
-    "_id": {
-        "$oid": "51fde764733824919a294cb7"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1115", 
+    "y_coordinate": "1898953", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW366004", 
+    "id": "9224253", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.73204749491693, 
-            41.87890074505361
+            -87.73231030453057, 
+            41.87867709228771
         ]
     }, 
-    "case_number": "HW366004", 
+    "community_area": "26", 
+    "latitude": "41.87867709228771", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1115", 
     "date": {
         "$date": 1374030600000
     }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51fde764733824919a294cb7"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.73231030453057", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1147926", 
     "updated_on": {
         "$date": 1375490414000
     }, 
-    "ward": "28", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9224253", 
-    "block": "042XX W WILCOX ST", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "042XX W WILCOX ST"
 }
