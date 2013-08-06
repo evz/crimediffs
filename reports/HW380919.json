@@ -1,33 +1,38 @@
 {
-    "community_area": "44", 
-    "_id": {
-        "$oid": "51fde71f733824919a2929dc"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0631", 
+    "y_coordinate": "1851485", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "460", 
+    "case_number": "HW380919", 
+    "id": "9240339", 
+    "primary_type": "BATTERY", 
+    "district": "006", 
     "arrest": true, 
-    "location_description": "RESIDENCE PORCH/HALLWAY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.60934283134745, 
-            41.74766411851681
+            -87.60783272068119, 
+            41.74769301330116
         ]
     }, 
-    "case_number": "HW380919", 
+    "community_area": "44", 
+    "latitude": "41.74769301330116", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0631", 
     "date": {
         "$date": 1374883800000
     }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51fde71f733824919a2929dc"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.60783272068119", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1182228", 
     "updated_on": {
         "$date": 1375490414000
     }, 
-    "ward": "6", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9240339", 
-    "block": "006XX E 81ST ST", 
-    "description": "SIMPLE"
+    "block": "006XX E 81ST ST"
 }
