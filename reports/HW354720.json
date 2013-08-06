@@ -6,7 +6,7 @@
     "id": "9209060", 
     "primary_type": "BATTERY", 
     "district": "005", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "STREET", 
     "x_coordinate": "1181288", 
     "updated_on": {
-        "$date": 1373589638000
+        "$date": 1375663313000
     }, 
     "fbi_code": "04B", 
     "block": "112XX S VERNON AVE"
