@@ -1,0 +1,33 @@
+{
+    "community_area": "29", 
+    "_id": {
+        "$oid": "520116e3733824919a2975f7"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "1023", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "MEDICAL/DENTAL OFFICE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6956448540152, 
+            41.8624638984515
+        ]
+    }, 
+    "case_number": "HW394476", 
+    "date": {
+        "$date": 1374530400000
+    }, 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
+    "ward": "28", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9248782", 
+    "block": "014XX S CALIFORNIA BLVD", 
+    "description": "SIMPLE"
+}
