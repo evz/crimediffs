@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "520116b0733824919a296cba"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1531", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75307266067082, 
+            41.897664290090994
+        ]
+    }, 
+    "case_number": "HW394541", 
+    "date": {
+        "$date": 1375142400000
+    }, 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
+    "ward": "37", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9248817", 
+    "block": "009XX N LECLAIRE AVE", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
