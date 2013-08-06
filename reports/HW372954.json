@@ -4,7 +4,7 @@
     "domestic": false, 
     "case_number": "HW372954", 
     "id": "9226075", 
-    "primary_type": "BURGLARY", 
+    "primary_type": "CRIMINAL DAMAGE", 
     "district": "009", 
     "arrest": false, 
     "location": {
@@ -16,8 +16,8 @@
     }, 
     "community_area": "60", 
     "latitude": "41.83951182335298", 
-    "type": "property", 
-    "description": "ATTEMPT FORCIBLE ENTRY", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
     "beat": "0914", 
     "date": {
         "$date": 1374428940000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "51fde751733824919a293ce2"
     }, 
-    "iucr": "630", 
+    "iucr": "1310", 
     "longitude": "-87.64037486422004", 
     "location_description": "SCHOOL, PUBLIC, BUILDING", 
     "x_coordinate": "1173078", 
     "updated_on": {
-        "$date": 1374626441000
+        "$date": 1375749778000
     }, 
-    "fbi_code": "05", 
+    "fbi_code": "14", 
     "block": "030XX S PARNELL AVE"
 }
