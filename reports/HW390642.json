@@ -1,33 +1,38 @@
 {
-    "community_area": "2", 
-    "_id": {
-        "$oid": "51fde75c733824919a2947ab"
-    }, 
-    "primary_type": "CRIM SEXUAL ASSAULT", 
-    "beat": "2412", 
+    "y_coordinate": "1943813", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "281", 
+    "case_number": "HW390642", 
+    "id": "9245300", 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "district": "024", 
     "arrest": false, 
-    "location_description": "PARK PROPERTY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.68983571954108, 
-            42.001549835826225
+            -87.68983569189204, 
+            42.00155257986038
         ]
     }, 
-    "case_number": "HW390642", 
+    "community_area": "2", 
+    "latitude": "42.00155257986038", 
+    "type": "violent", 
+    "description": "NON-AGGRAVATED", 
+    "beat": "2412", 
     "date": {
         "$date": 1374163200000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "50", 
+    "_id": {
+        "$oid": "51fde75c733824919a2947ab"
+    }, 
+    "iucr": "281", 
+    "longitude": "-87.68983569189204", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1159157", 
+    "updated_on": {
+        "$date": 1375577007000
+    }, 
     "fbi_code": "02", 
-    "type": "violent", 
-    "id": "9245300", 
-    "block": "066XX N WESTERN AVE", 
-    "description": "NON-AGGRAVATED"
+    "block": "066XX N WESTERN AVE"
 }
