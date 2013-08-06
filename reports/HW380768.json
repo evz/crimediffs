@@ -1,33 +1,38 @@
 {
-    "community_area": "44", 
-    "_id": {
-        "$oid": "51fde723733824919a292a79"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "0632", 
+    "y_coordinate": "1848447", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "1310", 
+    "case_number": "HW380768", 
+    "id": "9238390", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61768404809516, 
-            41.73901692346109
+            -87.61798369574242, 
+            41.73941945846103
         ]
     }, 
-    "case_number": "HW380768", 
+    "community_area": "44", 
+    "latitude": "41.73941945846103", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0632", 
     "date": {
         "$date": 1374874200000
     }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51fde723733824919a292a79"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.61798369574242", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1179483", 
     "updated_on": {
         "$date": 1375404049000
     }, 
-    "ward": "6", 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9238390", 
-    "block": "085XX S PRAIRIE AVE", 
-    "description": "TO PROPERTY"
+    "block": "085XX S PRAIRIE AVE"
 }
