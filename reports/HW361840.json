@@ -1,33 +1,38 @@
 {
-    "community_area": "22", 
-    "_id": {
-        "$oid": "51fde771733824919a295bad"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1411", 
+    "y_coordinate": "1917272", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW361840", 
+    "id": "9219749", 
+    "primary_type": "THEFT", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "MOVIE HOUSE/THEATER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.68792611053479, 
-            41.9287051356334
+            -87.68792240820376, 
+            41.92870785904595
         ]
     }, 
-    "case_number": "HW361840", 
+    "community_area": "22", 
+    "latitude": "41.92870785904595", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1411", 
     "date": {
         "$date": 1373667300000
     }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51fde771733824919a295bad"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.68792240820376", 
+    "location_description": "MOVIE HOUSE/THEATER", 
+    "x_coordinate": "1159877", 
     "updated_on": {
         "$date": 1375058559000
     }, 
-    "ward": "1", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9219749", 
-    "block": "026XX N WESTERN AVE", 
-    "description": "OVER $500"
+    "block": "026XX N WESTERN AVE"
 }
