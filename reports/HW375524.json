@@ -1,33 +1,38 @@
 {
-    "community_area": "60", 
-    "_id": {
-        "$oid": "51fde755733824919a294046"
-    }, 
-    "primary_type": "INTIMIDATION", 
-    "beat": "0914", 
+    "y_coordinate": "1884451", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "3960", 
+    "case_number": "HW375524", 
+    "id": "9243284", 
+    "primary_type": "INTIMIDATION", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64494558306059, 
-            41.83899594443979
+            -87.64521995361184, 
+            41.8383911062957
         ]
     }, 
-    "case_number": "HW375524", 
+    "community_area": "60", 
+    "latitude": "41.8383911062957", 
+    "type": null, 
+    "description": "INTIMIDATION", 
+    "beat": "0914", 
     "date": {
         "$date": 1374343200000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "11", 
+    "_id": {
+        "$oid": "51fde755733824919a294046"
+    }, 
+    "iucr": "3960", 
+    "longitude": "-87.64521995361184", 
+    "location_description": "STREET", 
+    "x_coordinate": "1171761", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9243284", 
-    "block": "030XX S EMERALD AVE", 
-    "description": "INTIMIDATION"
+    "block": "030XX S EMERALD AVE"
 }
