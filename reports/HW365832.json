@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "51fde764733824919a294d52"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "0332", 
+    "y_coordinate": "1858958", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1310", 
+    "case_number": "HW365832", 
+    "id": "9220389", 
+    "primary_type": "BURGLARY", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.5818228491276, 
-            41.76803122278715
+            -87.5816652047188, 
+            41.76803293577466
         ]
     }, 
-    "case_number": "HW365832", 
+    "community_area": "43", 
+    "latitude": "41.76803293577466", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0332", 
     "date": {
         "$date": 1374013200000
     }, 
-    "updated_on": {
-        "$date": 1374280871000
-    }, 
     "ward": "5", 
-    "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9220389", 
-    "block": "017XX E 70TH ST", 
-    "description": "TO PROPERTY"
+    "_id": {
+        "$oid": "51fde764733824919a294d52"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.5816652047188", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1189304", 
+    "updated_on": {
+        "$date": 1375663313000
+    }, 
+    "fbi_code": "05", 
+    "block": "017XX E 70TH ST"
 }
