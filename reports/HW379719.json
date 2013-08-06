@@ -1,33 +1,38 @@
 {
-    "community_area": "7", 
-    "_id": {
-        "$oid": "51fde736733824919a293046"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "1935", 
+    "y_coordinate": "1918623", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1152", 
+    "case_number": "HW379719", 
+    "id": "9240451", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "PARK PROPERTY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64454112209384, 
-            41.932064463756454
+            -87.64489284358152, 
+            41.93216536508798
         ]
     }, 
-    "case_number": "HW379719", 
+    "community_area": "7", 
+    "latitude": "41.93216536508798", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "1935", 
     "date": {
         "$date": 1374742800000
     }, 
+    "ward": "43", 
+    "_id": {
+        "$oid": "51fde736733824919a293046"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.64489284358152", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1171576", 
     "updated_on": {
         "$date": 1375404049000
     }, 
-    "ward": "43", 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9240451", 
-    "block": "027XX N CLARK ST", 
-    "description": "ILLEGAL USE CASH CARD"
+    "block": "027XX N CLARK ST"
 }
