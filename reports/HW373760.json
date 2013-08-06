@@ -1,33 +1,38 @@
 {
-    "community_area": "61", 
-    "_id": {
-        "$oid": "51fde74e733824919a293a2d"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "0933", 
+    "y_coordinate": "1872574", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "560", 
+    "case_number": "HW373760", 
+    "id": "9231892", 
+    "primary_type": "ASSAULT", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66139824917909, 
-            41.80589316866988
+            -87.66139458155428, 
+            41.80589314721633
         ]
     }, 
-    "case_number": "HW373760", 
+    "community_area": "61", 
+    "latitude": "41.80589314721633", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0933", 
     "date": {
         "$date": 1374494580000
     }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51fde74e733824919a293a2d"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.66139458155428", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1167446", 
     "updated_on": {
         "$date": 1375317661000
     }, 
-    "ward": "20", 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9231892", 
-    "block": "048XX S BISHOP ST", 
-    "description": "SIMPLE"
+    "block": "048XX S BISHOP ST"
 }
