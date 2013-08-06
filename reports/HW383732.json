@@ -1,33 +1,38 @@
 {
-    "community_area": "41", 
-    "_id": {
-        "$oid": "51fde729733824919a292bd8"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0234", 
+    "y_coordinate": "1870909", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "840", 
+    "case_number": "HW383732", 
+    "id": "9237508", 
+    "primary_type": "THEFT", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.58753726890518, 
-            41.800335766827025
+            -87.58762644520525, 
+            41.80086873560473
         ]
     }, 
-    "case_number": "HW383732", 
+    "community_area": "41", 
+    "latitude": "41.80086873560473", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "0234", 
     "date": {
         "$date": 1374849000000
     }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51fde729733824919a292bd8"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.58762644520525", 
+    "location_description": "STREET", 
+    "x_coordinate": "1187574", 
     "updated_on": {
         "$date": 1375317661000
     }, 
-    "ward": "4", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9237508", 
-    "block": "052XX S LAKE PARK AVE", 
-    "description": "FINANCIAL ID THEFT: OVER $300"
+    "block": "052XX S LAKE PARK AVE"
 }
