@@ -1,0 +1,33 @@
+{
+    "community_area": "66", 
+    "_id": {
+        "$oid": "520116c0733824919a296f3e"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0823", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69929888857433, 
+            41.777537819439004
+        ]
+    }, 
+    "case_number": "HW394536", 
+    "date": {
+        "$date": 1375088400000
+    }, 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
+    "ward": "15", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9248950", 
+    "block": "063XX S WHIPPLE ST", 
+    "description": "FROM BUILDING"
+}
