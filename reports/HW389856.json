@@ -1,33 +1,38 @@
 {
-    "community_area": "52", 
-    "_id": {
-        "$oid": "51fde76e733824919a2957cf"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0432", 
+    "y_coordinate": "1843632", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1152", 
+    "case_number": "HW389856", 
+    "id": "9244658", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.54001346289866, 
-            41.7268436040647
+            -87.53861736810155, 
+            41.72568409129051
         ]
     }, 
-    "case_number": "HW389856", 
+    "community_area": "52", 
+    "latitude": "41.72568409129051", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "0432", 
     "date": {
         "$date": 1373760000000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "10", 
+    "_id": {
+        "$oid": "51fde76e733824919a2957cf"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.53861736810155", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1201190", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9244658", 
-    "block": "093XX S EWING AVE", 
-    "description": "ILLEGAL USE CASH CARD"
+    "block": "093XX S EWING AVE"
 }
