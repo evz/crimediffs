@@ -1,33 +1,38 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "51fde76c733824919a295553"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0513", 
+    "y_coordinate": "1833979", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW362503", 
+    "id": "9223882", 
+    "primary_type": "BATTERY", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62398944057446, 
-            41.69975189476348
+            -87.62398577901567, 
+            41.69975187216214
         ]
     }, 
-    "case_number": "HW362503", 
+    "community_area": "49", 
+    "latitude": "41.69975187216214", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0513", 
     "date": {
         "$date": 1373824800000
     }, 
-    "updated_on": {
-        "$date": 1375144832000
-    }, 
     "ward": "34", 
+    "_id": {
+        "$oid": "51fde76c733824919a295553"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.62398577901567", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1177964", 
+    "updated_on": {
+        "$date": 1375663313000
+    }, 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9223882", 
-    "block": "0000X W 107TH ST", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "0000X W 107TH ST"
 }
