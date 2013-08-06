@@ -1,0 +1,33 @@
+{
+    "community_area": "74", 
+    "_id": {
+        "$oid": "520116ea733824919a297603"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2211", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71453301702846, 
+            41.694997755134935
+        ]
+    }, 
+    "case_number": "HW394596", 
+    "date": {
+        "$date": 1374336000000
+    }, 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
+    "ward": "19", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9249234", 
+    "block": "109XX S RIDGEWAY AVE", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
