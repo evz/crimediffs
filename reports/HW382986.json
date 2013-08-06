@@ -1,33 +1,38 @@
 {
-    "community_area": "6", 
-    "_id": {
-        "$oid": "51fde72d733824919a292cc0"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1924", 
+    "y_coordinate": "1922819", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW382986", 
+    "id": "9236677", 
+    "primary_type": "THEFT", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6640611, 
-            41.9434947
+            -87.6637787206783, 
+            41.943791787570824
         ]
     }, 
-    "case_number": "HW382986", 
+    "community_area": "6", 
+    "latitude": "41.943791787570824", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1924", 
     "date": {
         "$date": 1374826500000
     }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51fde72d733824919a292cc0"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.6637787206783", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1166404", 
     "updated_on": {
         "$date": 1375317661000
     }, 
-    "ward": "44", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9236677", 
-    "block": "034XX N SOUTHPORT AVE", 
-    "description": "OVER $500"
+    "block": "034XX N SOUTHPORT AVE"
 }
