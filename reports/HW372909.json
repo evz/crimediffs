@@ -1,33 +1,38 @@
 {
-    "community_area": "38", 
-    "_id": {
-        "$oid": "51fde751733824919a293c83"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0215", 
+    "y_coordinate": "1875859", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW372909", 
+    "id": "9232354", 
+    "primary_type": "THEFT", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61687296368954, 
-            41.81423837144767
+            -87.61688317097119, 
+            41.8146390989815
         ]
     }, 
-    "case_number": "HW372909", 
+    "community_area": "38", 
+    "latitude": "41.8146390989815", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0215", 
     "date": {
         "$date": 1374434400000
     }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51fde751733824919a293c83"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.61688317097119", 
+    "location_description": "STREET", 
+    "x_coordinate": "1179555", 
     "updated_on": {
         "$date": 1374971969000
     }, 
-    "ward": "3", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9232354", 
-    "block": "044XX S DR MARTIN LUTHER KING JR DR", 
-    "description": "$500 AND UNDER"
+    "block": "044XX S DR MARTIN LUTHER KING JR DR"
 }
