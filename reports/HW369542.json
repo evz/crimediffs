@@ -1,33 +1,38 @@
 {
-    "community_area": "22", 
-    "_id": {
-        "$oid": "51fde75a733824919a2945c0"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1431", 
+    "y_coordinate": "1913213", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW369542", 
+    "id": "9229320", 
+    "primary_type": "BATTERY", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69030014424013, 
-            41.91845230574463
+            -87.68885028577127, 
+            41.91757425668625
         ]
     }, 
-    "case_number": "HW369542", 
+    "community_area": "22", 
+    "latitude": "41.91757425668625", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1431", 
     "date": {
         "$date": 1374204600000
     }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51fde75a733824919a2945c0"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.68885028577127", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1159655", 
     "updated_on": {
         "$date": 1374971969000
     }, 
-    "ward": "1", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9229320", 
-    "block": "020XX N MILWAUKEE AVE", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "020XX N MILWAUKEE AVE"
 }
