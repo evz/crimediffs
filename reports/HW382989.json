@@ -1,33 +1,38 @@
 {
-    "community_area": "7", 
-    "_id": {
-        "$oid": "51fde736733824919a293031"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "1931", 
+    "y_coordinate": "1917987", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "5002", 
+    "case_number": "HW382989", 
+    "id": "9237395", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67896102432607, 
-            41.93070432681586
+            -87.67895454421934, 
+            41.93061921899986
         ]
     }, 
-    "case_number": "HW382989", 
+    "community_area": "7", 
+    "latitude": "41.93061921899986", 
+    "type": null, 
+    "description": "OTHER VEHICLE OFFENSE", 
+    "beat": "1931", 
     "date": {
         "$date": 1374744600000
     }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51fde736733824919a293031"
+    }, 
+    "iucr": "5002", 
+    "longitude": "-87.67895454421934", 
+    "location_description": "STREET", 
+    "x_coordinate": "1162312", 
     "updated_on": {
         "$date": 1375231290000
     }, 
-    "ward": "1", 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9237395", 
-    "block": "027XX N HOYNE AVE", 
-    "description": "OTHER VEHICLE OFFENSE"
+    "block": "027XX N HOYNE AVE"
 }
