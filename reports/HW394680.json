@@ -1,0 +1,33 @@
+{
+    "community_area": "30", 
+    "_id": {
+        "$oid": "520116b0733824919a296cb9"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1033", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70292156554251, 
+            41.850813530062894
+        ]
+    }, 
+    "case_number": "HW394680", 
+    "date": {
+        "$date": 1375142400000
+    }, 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
+    "ward": "24", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9249161", 
+    "block": "022XX S ALBANY AVE", 
+    "description": "FORCIBLE ENTRY"
+}
