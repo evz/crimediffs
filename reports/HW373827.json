@@ -1,33 +1,38 @@
 {
-    "community_area": "69", 
-    "_id": {
-        "$oid": "51fde74e733824919a293a1f"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0624", 
+    "y_coordinate": "1853369", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW373827", 
+    "id": "9233177", 
+    "primary_type": "BATTERY", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.59810145321913, 
-            41.75300175339543
+            -87.59809641019477, 
+            41.752801387165576
         ]
     }, 
-    "case_number": "HW373827", 
+    "community_area": "69", 
+    "latitude": "41.752801387165576", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0624", 
     "date": {
         "$date": 1374496380000
     }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "51fde74e733824919a293a1f"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.59809641019477", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1184869", 
     "updated_on": {
         "$date": 1375404049000
     }, 
-    "ward": "8", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9233177", 
-    "block": "078XX S GREENWOOD AVE", 
-    "description": "SIMPLE"
+    "block": "078XX S GREENWOOD AVE"
 }
