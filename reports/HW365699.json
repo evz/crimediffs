@@ -1,33 +1,38 @@
 {
-    "community_area": "44", 
-    "_id": {
-        "$oid": "51fde765733824919a294e47"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "0621", 
+    "y_coordinate": "1851908", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1320", 
-    "arrest": false, 
-    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "case_number": "HW365699", 
+    "id": "9219380", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "006", 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6348901993285, 
-            41.748837650768664
+            -87.63648220586106, 
+            41.74903118580936
         ]
     }, 
-    "case_number": "HW365699", 
+    "community_area": "44", 
+    "latitude": "41.74903118580936", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0621", 
     "date": {
         "$date": 1373995800000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "17", 
+    "_id": {
+        "$oid": "51fde765733824919a294e47"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.63648220586106", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1174406", 
+    "updated_on": {
+        "$date": 1375663313000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9219380", 
-    "block": "004XX W 80TH ST", 
-    "description": "TO VEHICLE"
+    "block": "004XX W 80TH ST"
 }
