@@ -1,33 +1,38 @@
 {
-    "community_area": "4", 
-    "_id": {
-        "$oid": "51fde763733824919a294ca3"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "1911", 
+    "y_coordinate": "1931358", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW366044", 
+    "id": "9244777", 
+    "primary_type": "BURGLARY", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6790071031037, 
-            41.96753467678822
+            -87.67929249754502, 
+            41.96731402246343
         ]
     }, 
-    "case_number": "HW366044", 
+    "community_area": "4", 
+    "latitude": "41.96731402246343", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1911", 
     "date": {
         "$date": 1374037200000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "47", 
+    "_id": {
+        "$oid": "51fde763733824919a294ca3"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.67929249754502", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1162118", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9244777", 
-    "block": "047XX N DAMEN AVE", 
-    "description": "FORCIBLE ENTRY"
+    "block": "047XX N DAMEN AVE"
 }
