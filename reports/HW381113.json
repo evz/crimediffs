@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "51fde728733824919a292bb2"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0414", 
+    "y_coordinate": "1853518", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "630", 
+    "case_number": "HW381113", 
+    "id": "9243600", 
+    "primary_type": "BURGLARY", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.57737572973734, 
-            41.75247207657632
+            -87.57738696872126, 
+            41.75307589638613
         ]
     }, 
-    "case_number": "HW381113", 
+    "community_area": "43", 
+    "latitude": "41.75307589638613", 
+    "type": "property", 
+    "description": "ATTEMPT FORCIBLE ENTRY", 
+    "beat": "0414", 
     "date": {
         "$date": 1374850800000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "8", 
+    "_id": {
+        "$oid": "51fde728733824919a292bb2"
+    }, 
+    "iucr": "630", 
+    "longitude": "-87.57738696872126", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1190519", 
+    "updated_on": {
+        "$date": 1375577007000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9243600", 
-    "block": "078XX S EUCLID AVE", 
-    "description": "ATTEMPT FORCIBLE ENTRY"
+    "block": "078XX S EUCLID AVE"
 }
