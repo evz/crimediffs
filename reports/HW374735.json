@@ -1,33 +1,38 @@
 {
-    "community_area": "42", 
-    "_id": {
-        "$oid": "51fde749733824919a29386d"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0313", 
+    "y_coordinate": "1863782", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW374735", 
+    "id": "9229515", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61581175074559, 
-            41.781786116119484
+            -87.61551076029157, 
+            41.781487852664796
         ]
     }, 
-    "case_number": "HW374735", 
+    "community_area": "42", 
+    "latitude": "41.781487852664796", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0313", 
     "date": {
         "$date": 1374528600000
     }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51fde749733824919a29386d"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.61551076029157", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1180030", 
     "updated_on": {
         "$date": 1374885634000
     }, 
-    "ward": "20", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9229515", 
-    "block": "062XX S DR MARTIN LUTHER KING JR DR", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "062XX S DR MARTIN LUTHER KING JR DR"
 }
