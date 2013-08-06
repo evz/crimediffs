@@ -1,33 +1,38 @@
 {
-    "community_area": "14", 
-    "_id": {
-        "$oid": "51fde745733824919a293616"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1723", 
+    "y_coordinate": "1931341", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "486", 
+    "case_number": "HW375671", 
+    "id": "9233593", 
+    "primary_type": "BATTERY", 
+    "district": "017", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72193397588833, 
-            41.967505125123964
+            -87.72213623290925, 
+            41.96750345787313
         ]
     }, 
-    "case_number": "HW375671", 
+    "community_area": "14", 
+    "latitude": "41.96750345787313", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1723", 
     "date": {
         "$date": 1374594300000
     }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51fde745733824919a293616"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.72213623290925", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1150466", 
     "updated_on": {
         "$date": 1375490414000
     }, 
-    "ward": "39", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9233593", 
-    "block": "037XX W GIDDINGS ST", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "037XX W GIDDINGS ST"
 }
