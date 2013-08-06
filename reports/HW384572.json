@@ -1,33 +1,38 @@
 {
-    "community_area": "24", 
-    "_id": {
-        "$oid": "51fde72e733824919a292d52"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "1221", 
+    "y_coordinate": "1904309", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "620", 
+    "case_number": "HW384572", 
+    "id": "9243581", 
+    "primary_type": "BURGLARY", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "RESIDENCE-GARAGE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67484724060121, 
-            41.89331536315998
+            -87.67659068284186, 
+            41.89307013289331
         ]
     }, 
-    "case_number": "HW384572", 
+    "community_area": "24", 
+    "latitude": "41.89307013289331", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "1221", 
     "date": {
         "$date": 1374802500000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "1", 
+    "_id": {
+        "$oid": "51fde72e733824919a292d52"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.67659068284186", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1163060", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9243581", 
-    "block": "019XX W ERIE ST", 
-    "description": "UNLAWFUL ENTRY"
+    "block": "019XX W ERIE ST"
 }
