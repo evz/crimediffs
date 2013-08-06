@@ -1,33 +1,38 @@
 {
-    "community_area": "68", 
-    "_id": {
-        "$oid": "51fde76b733824919a2953e1"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "0712", 
+    "y_coordinate": "1867655", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "320", 
+    "case_number": "HW364740", 
+    "id": "9219750", 
+    "primary_type": "ROBBERY", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64523348792025, 
-            41.791546418193214
+            -87.64525478097514, 
+            41.792298479985845
         ]
     }, 
-    "case_number": "HW364740", 
+    "community_area": "68", 
+    "latitude": "41.792298479985845", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0712", 
     "date": {
         "$date": 1373853600000
     }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51fde76b733824919a2953e1"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.64525478097514", 
+    "location_description": "STREET", 
+    "x_coordinate": "1171886", 
     "updated_on": {
         "$date": 1375404049000
     }, 
-    "ward": "20", 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9219750", 
-    "block": "056XX S HALSTED ST", 
-    "description": "STRONGARM - NO WEAPON"
+    "block": "056XX S HALSTED ST"
 }
