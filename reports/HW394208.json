@@ -1,0 +1,33 @@
+{
+    "community_area": "42", 
+    "_id": {
+        "$oid": "52011700733824919a297629"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0321", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "VACANT LOT/LAND", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59200312488187, 
+            41.776250653177776
+        ]
+    }, 
+    "case_number": "HW394208", 
+    "date": {
+        "$date": 1373533200000
+    }, 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
+    "ward": "20", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9248294", 
+    "block": "065XX S DORCHESTER AVE", 
+    "description": "FROM BUILDING"
+}
