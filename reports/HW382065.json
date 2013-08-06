@@ -1,33 +1,38 @@
 {
-    "community_area": "8", 
-    "_id": {
-        "$oid": "51fde724733824919a292aa8"
-    }, 
-    "primary_type": "LIQUOR LAW VIOLATION", 
-    "beat": "1832", 
+    "y_coordinate": "1905851", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2250", 
+    "case_number": "HW382065", 
+    "id": "9239855", 
+    "primary_type": "LIQUOR LAW VIOLATION", 
+    "district": "018", 
     "arrest": true, 
-    "location_description": "RESTAURANT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63140892441037, 
-            41.897300651259414
+            -87.63140082074081, 
+            41.89703441093235
         ]
     }, 
-    "case_number": "HW382065", 
+    "community_area": "8", 
+    "latitude": "41.89703441093235", 
+    "type": null, 
+    "description": "LIQUOR LICENSE VIOLATION", 
+    "beat": "1832", 
     "date": {
         "$date": 1374871800000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "42", 
+    "_id": {
+        "$oid": "51fde724733824919a292aa8"
+    }, 
+    "iucr": "2250", 
+    "longitude": "-87.63140082074081", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1175352", 
+    "updated_on": {
+        "$date": 1375577007000
+    }, 
     "fbi_code": "22", 
-    "type": null, 
-    "id": "9239855", 
-    "block": "008XX N CLARK ST", 
-    "description": "LIQUOR LICENSE VIOLATION"
+    "block": "008XX N CLARK ST"
 }
