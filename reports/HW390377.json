@@ -1,33 +1,38 @@
 {
-    "community_area": "69", 
-    "_id": {
-        "$oid": "51fde76c733824919a2954ba"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0621", 
+    "y_coordinate": "1853263", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
-    "arrest": false, 
-    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "case_number": "HW390377", 
+    "id": "9245140", 
+    "primary_type": "THEFT", 
+    "district": "006", 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63694650110664, 
-            41.75320259909333
+            -87.63693304272684, 
+            41.75275245175614
         ]
     }, 
-    "case_number": "HW390377", 
+    "community_area": "69", 
+    "latitude": "41.75275245175614", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0621", 
     "date": {
         "$date": 1373835600000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "17", 
+    "_id": {
+        "$oid": "51fde76c733824919a2954ba"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.63693304272684", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1174272", 
+    "updated_on": {
+        "$date": 1375663313000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9245140", 
-    "block": "077XX S NORMAL AVE", 
-    "description": "OVER $500"
+    "block": "077XX S NORMAL AVE"
 }
