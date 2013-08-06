@@ -1,33 +1,38 @@
 {
-    "community_area": "27", 
-    "_id": {
-        "$oid": "51fde761733824919a2949ec"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1124", 
+    "y_coordinate": "1899708", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "430", 
+    "case_number": "HW367290", 
+    "id": "9241390", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70280808683816, 
-            41.88029991987398
+            -87.70281257112423, 
+            41.88059083470551
         ]
     }, 
-    "case_number": "HW367290", 
+    "community_area": "27", 
+    "latitude": "41.88059083470551", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "1124", 
     "date": {
         "$date": 1374098100000
     }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51fde761733824919a2949ec"
+    }, 
+    "iucr": "430", 
+    "longitude": "-87.70281257112423", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1155954", 
     "updated_on": {
         "$date": 1375404049000
     }, 
-    "ward": "28", 
     "fbi_code": "04B", 
-    "type": "violent", 
-    "id": "9241390", 
-    "block": "0000X S ALBANY AVE", 
-    "description": "AGGRAVATED: OTHER DANG WEAPON"
+    "block": "0000X S ALBANY AVE"
 }
