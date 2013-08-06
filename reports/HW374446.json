@@ -1,33 +1,38 @@
 {
-    "community_area": "26", 
-    "_id": {
-        "$oid": "51fde74a733824919a2938fe"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1115", 
+    "y_coordinate": "1899725", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2014", 
+    "case_number": "HW374446", 
+    "id": "9239319", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "VACANT LOT/LAND", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72836854783272, 
-            41.8808023982774
+            -87.73006892060381, 
+            41.88078390051876
         ]
     }, 
-    "case_number": "HW374446", 
+    "community_area": "26", 
+    "latitude": "41.88078390051876", 
+    "type": "quality", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)", 
+    "beat": "1115", 
     "date": {
         "$date": 1374519120000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "28", 
+    "_id": {
+        "$oid": "51fde74a733824919a2938fe"
+    }, 
+    "iucr": "2014", 
+    "longitude": "-87.73006892060381", 
+    "location_description": "VACANT LOT/LAND", 
+    "x_coordinate": "1148531", 
+    "updated_on": {
+        "$date": 1375577007000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9239319", 
-    "block": "041XX W MADISON ST", 
-    "description": "MANU/DELIVER: HEROIN (WHITE)"
+    "block": "041XX W MADISON ST"
 }
