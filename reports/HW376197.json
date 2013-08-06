@@ -1,33 +1,38 @@
 {
-    "community_area": "29", 
-    "_id": {
-        "$oid": "51fde743733824919a29351e"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1012", 
+    "y_coordinate": "1892288", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW376197", 
+    "id": "9231263", 
+    "primary_type": "BATTERY", 
+    "district": "010", 
     "arrest": false, 
-    "location_description": "PARK PROPERTY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.73367403171947, 
-            41.859276853647025
+            -87.73341398339014, 
+            41.86039240890684
         ]
     }, 
-    "case_number": "HW376197", 
+    "community_area": "29", 
+    "latitude": "41.86039240890684", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1012", 
     "date": {
         "$date": 1374612300000
     }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51fde743733824919a29351e"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.73341398339014", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1147672", 
     "updated_on": {
         "$date": 1374885634000
     }, 
-    "ward": "24", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9231263", 
-    "block": "015XX S KOLIN AVE", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "015XX S KOLIN AVE"
 }
