@@ -1,33 +1,38 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "51fde745733824919a29360b"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "2233", 
+    "y_coordinate": "1832189", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "2820", 
+    "case_number": "HW376299", 
+    "id": "9231622", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6402129600488, 
-            41.695841424841234
+            -87.6401823790558, 
+            41.694938355543414
         ]
     }, 
-    "case_number": "HW376299", 
+    "community_area": "49", 
+    "latitude": "41.694938355543414", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "2233", 
     "date": {
         "$date": 1374595200000
     }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51fde745733824919a29360b"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.6401823790558", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1173555", 
     "updated_on": {
         "$date": 1374885634000
     }, 
-    "ward": "34", 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9231622", 
-    "block": "109XX S UNION AVE", 
-    "description": "TELEPHONE THREAT"
+    "block": "109XX S UNION AVE"
 }
