@@ -1,33 +1,38 @@
 {
-    "community_area": "6", 
-    "_id": {
-        "$oid": "51fde74f733824919a293aed"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "1923", 
+    "y_coordinate": "1924316", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW374441", 
+    "id": "9229469", 
+    "primary_type": "BURGLARY", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65301348878032, 
-            41.94853636499481
+            -87.65328190650514, 
+            41.94783818108347
         ]
     }, 
-    "case_number": "HW374441", 
+    "community_area": "6", 
+    "latitude": "41.94783818108347", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1923", 
     "date": {
         "$date": 1374478200000
     }, 
+    "ward": "44", 
+    "_id": {
+        "$oid": "51fde74f733824919a293aed"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.65328190650514", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1169248", 
     "updated_on": {
         "$date": 1374885634000
     }, 
-    "ward": "44", 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9229469", 
-    "block": "036XX N WILTON AVE", 
-    "description": "FORCIBLE ENTRY"
+    "block": "036XX N WILTON AVE"
 }
