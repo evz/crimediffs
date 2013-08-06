@@ -1,33 +1,38 @@
 {
-    "community_area": "56", 
-    "_id": {
-        "$oid": "51fde756733824919a29413b"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0813", 
+    "y_coordinate": "1866346", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW372896", 
+    "id": "9232484", 
+    "primary_type": "THEFT", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "AIRPORT TERMINAL LOWER LEVEL - SECURE AREA", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.7417176, 
-            41.7881161
+            -87.74163897884421, 
+            41.789243073784405
         ]
     }, 
-    "case_number": "HW372896", 
+    "community_area": "56", 
+    "latitude": "41.789243073784405", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0813", 
     "date": {
         "$date": 1374321600000
     }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "51fde756733824919a29413b"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.74163897884421", 
+    "location_description": "AIRPORT TERMINAL LOWER LEVEL - SECURE AREA", 
+    "x_coordinate": "1145610", 
     "updated_on": {
         "$date": 1374971969000
     }, 
-    "ward": "23", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9232484", 
-    "block": "057XX S CICERO AVE", 
-    "description": "$500 AND UNDER"
+    "block": "057XX S CICERO AVE"
 }
