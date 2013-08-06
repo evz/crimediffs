@@ -1,33 +1,38 @@
 {
-    "community_area": "63", 
-    "_id": {
-        "$oid": "51fde75c733824919a2947de"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0824", 
+    "y_coordinate": "1867986", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1120", 
+    "case_number": "HW375393", 
+    "id": "9230529", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69644739577859, 
-            41.793754533026856
+            -87.69788000352281, 
+            41.79350999200301
         ]
     }, 
-    "case_number": "HW375393", 
+    "community_area": "63", 
+    "latitude": "41.79350999200301", 
+    "type": null, 
+    "description": "FORGERY", 
+    "beat": "0824", 
     "date": {
         "$date": 1374159600000
     }, 
+    "ward": "14", 
+    "_id": {
+        "$oid": "51fde75c733824919a2947de"
+    }, 
+    "iucr": "1120", 
+    "longitude": "-87.69788000352281", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1157532", 
     "updated_on": {
         "$date": 1375231290000
     }, 
-    "ward": "14", 
     "fbi_code": "10", 
-    "type": null, 
-    "id": "9230529", 
-    "block": "029XX W 55TH ST", 
-    "description": "FORGERY"
+    "block": "029XX W 55TH ST"
 }
