@@ -1,15 +1,12 @@
 {
-    "community_area": "23", 
-    "_id": {
-        "$oid": "51fde728733824919a292ba1"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "1422", 
+    "y_coordinate": "1911121", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1375", 
+    "case_number": "HW383707", 
+    "id": "9237761", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "SCHOOL, PUBLIC, BUILDING", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.91196744361874
         ]
     }, 
-    "case_number": "HW383707", 
+    "community_area": "23", 
+    "latitude": "41.91196744361874", 
+    "type": "quality", 
+    "description": "INSTITUTIONAL VANDALISM", 
+    "beat": "1422", 
     "date": {
         "$date": 1374852600000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "26", 
+    "_id": {
+        "$oid": "51fde728733824919a292ba1"
+    }, 
+    "iucr": "1375", 
+    "longitude": "-87.71320599448593", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1153041", 
+    "updated_on": {
+        "$date": 1375577007000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9237761", 
-    "block": "034XX W WABANSIA AVE", 
-    "description": "INSTITUTIONAL VANDALISM"
+    "block": "034XX W WABANSIA AVE"
 }
