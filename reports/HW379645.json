@@ -1,33 +1,38 @@
 {
-    "community_area": "2", 
-    "_id": {
-        "$oid": "51fde732733824919a292eae"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2412", 
+    "y_coordinate": "1943192", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW379645", 
+    "id": "9237272", 
+    "primary_type": "THEFT", 
+    "district": "024", 
     "arrest": false, 
-    "location_description": "RESIDENCE-GARAGE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69592927751728, 
-            42.00107890287269
+            -87.6958970725647, 
+            41.99988225719984
         ]
     }, 
-    "case_number": "HW379645", 
+    "community_area": "2", 
+    "latitude": "41.99988225719984", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "2412", 
     "date": {
         "$date": 1374778800000
     }, 
+    "ward": "50", 
+    "_id": {
+        "$oid": "51fde732733824919a292eae"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.6958970725647", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1157514", 
     "updated_on": {
         "$date": 1375231290000
     }, 
-    "ward": "50", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9237272", 
-    "block": "065XX N TALMAN AVE", 
-    "description": "OVER $500"
+    "block": "065XX N TALMAN AVE"
 }
