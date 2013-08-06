@@ -1,33 +1,38 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "51fde740733824919a2933e5"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0511", 
+    "y_coordinate": "1838311", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1152", 
+    "case_number": "HW377467", 
+    "id": "9238115", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "SMALL RETAIL STORE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62027380738505, 
-            41.71257782649247
+            -87.6201525819986, 
+            41.711616561640064
         ]
     }, 
-    "case_number": "HW377467", 
+    "community_area": "49", 
+    "latitude": "41.711616561640064", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "0511", 
     "date": {
         "$date": 1374655440000
     }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51fde740733824919a2933e5"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.6201525819986", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1178975", 
     "updated_on": {
         "$date": 1375490414000
     }, 
-    "ward": "9", 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9238115", 
-    "block": "100XX S MICHIGAN AVE", 
-    "description": "ILLEGAL USE CASH CARD"
+    "block": "100XX S MICHIGAN AVE"
 }
