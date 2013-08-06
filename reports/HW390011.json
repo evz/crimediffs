@@ -1,33 +1,38 @@
 {
-    "community_area": "19", 
-    "_id": {
-        "$oid": "51fde740733824919a2933d6"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "2515", 
+    "y_coordinate": "1915385", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW390011", 
+    "id": "9244806", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.77120341480573, 
-            41.924008585562305
+            -87.77316593557943, 
+            41.92397701307572
         ]
     }, 
-    "case_number": "HW390011", 
+    "community_area": "19", 
+    "latitude": "41.92397701307572", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "2515", 
     "date": {
         "$date": 1374656400000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "30", 
+    "_id": {
+        "$oid": "51fde740733824919a2933d6"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.77316593557943", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1136692", 
+    "updated_on": {
+        "$date": 1375577007000
+    }, 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9244806", 
-    "block": "058XX W FULLERTON AVE", 
-    "description": "AUTOMOBILE"
+    "block": "058XX W FULLERTON AVE"
 }
