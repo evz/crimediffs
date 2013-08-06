@@ -1,33 +1,38 @@
 {
-    "community_area": "16", 
-    "_id": {
-        "$oid": "51fde76e733824919a29573f"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1723", 
+    "y_coordinate": "1928365", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "498", 
+    "case_number": "HW364904", 
+    "id": "9219746", 
+    "primary_type": "BATTERY", 
+    "district": "017", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.7216740744876, 
-            41.95930953257216
+            -87.7205525201776, 
+            41.95932824970972
         ]
     }, 
-    "case_number": "HW364904", 
+    "community_area": "16", 
+    "latitude": "41.95932824970972", 
+    "type": "violent", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: HANDS/FIST/FEET SERIOUS INJURY", 
+    "beat": "1723", 
     "date": {
         "$date": 1373770800000
     }, 
+    "ward": "39", 
+    "_id": {
+        "$oid": "51fde76e733824919a29573f"
+    }, 
+    "iucr": "498", 
+    "longitude": "-87.7205525201776", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1150918", 
     "updated_on": {
         "$date": 1374971969000
     }, 
-    "ward": "39", 
     "fbi_code": "04B", 
-    "type": "violent", 
-    "id": "9219746", 
-    "block": "037XX W CULLOM AVE", 
-    "description": "AGGRAVATED DOMESTIC BATTERY: HANDS/FIST/FEET SERIOUS INJURY"
+    "block": "037XX W CULLOM AVE"
 }
