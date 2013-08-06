@@ -1,33 +1,38 @@
 {
-    "community_area": "52", 
-    "_id": {
-        "$oid": "51fde755733824919a29404f"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0432", 
+    "y_coordinate": "1836858", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW373013", 
+    "id": "9232786", 
+    "primary_type": "BURGLARY", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "RESIDENCE-GARAGE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.53664476545211, 
-            41.708032730275875
+            -87.5363489219674, 
+            41.70707840063029
         ]
     }, 
-    "case_number": "HW373013", 
+    "community_area": "52", 
+    "latitude": "41.70707840063029", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0432", 
     "date": {
         "$date": 1374343200000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "10", 
+    "_id": {
+        "$oid": "51fde755733824919a29404f"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.5363489219674", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1201872", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9232786", 
-    "block": "103XX S AVENUE L", 
-    "description": "FORCIBLE ENTRY"
+    "block": "103XX S AVENUE L"
 }
