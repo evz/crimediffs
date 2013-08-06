@@ -1,0 +1,33 @@
+{
+    "community_area": "3", 
+    "_id": {
+        "$oid": "520116de733824919a2975e4"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "1913", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "930", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6636566890784, 
+            41.96493246931172
+        ]
+    }, 
+    "case_number": "HW393733", 
+    "date": {
+        "$date": 1374688800000
+    }, 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
+    "ward": "46", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9247644", 
+    "block": "045XX N BEACON ST", 
+    "description": "THEFT/RECOVERY: AUTOMOBILE"
+}
