@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "51fde766733824919a294f49"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "1532", 
+    "y_coordinate": "1901262", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW389355", 
+    "id": "9243697", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.74924691478353, 
-            41.88458503362656
+            -87.74926792139004, 
+            41.88510105905234
         ]
     }, 
-    "case_number": "HW389355", 
+    "community_area": "25", 
+    "latitude": "41.88510105905234", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1532", 
     "date": {
         "$date": 1373976000000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "28", 
+    "_id": {
+        "$oid": "51fde766733824919a294f49"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.74926792139004", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1143292", 
+    "updated_on": {
+        "$date": 1375577007000
+    }, 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9243697", 
-    "block": "002XX N LAPORTE AVE", 
-    "description": "AUTOMOBILE"
+    "block": "002XX N LAPORTE AVE"
 }
