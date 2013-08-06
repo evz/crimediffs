@@ -1,33 +1,38 @@
 {
-    "community_area": "67", 
-    "_id": {
-        "$oid": "51fde72a733824919a292c13"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0734", 
+    "y_coordinate": "1855713", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "620", 
+    "case_number": "HW385238", 
+    "id": "9239631", 
+    "primary_type": "BURGLARY", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "RESIDENCE-GARAGE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6604592466967, 
-            41.759605205905864
+            -87.66007064332894, 
+            41.75961390657639
         ]
     }, 
-    "case_number": "HW385238", 
+    "community_area": "67", 
+    "latitude": "41.75961390657639", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "0734", 
     "date": {
         "$date": 1374843600000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "17", 
+    "_id": {
+        "$oid": "51fde72a733824919a292c13"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.66007064332894", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1167939", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9239631", 
-    "block": "014XX W 74TH ST", 
-    "description": "UNLAWFUL ENTRY"
+    "block": "014XX W 74TH ST"
 }
