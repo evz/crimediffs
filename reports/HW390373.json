@@ -1,33 +1,38 @@
 {
-    "community_area": "10", 
-    "_id": {
-        "$oid": "51fde740733824919a2933d7"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "1612", 
+    "y_coordinate": "1940553", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1122", 
+    "case_number": "HW390373", 
+    "id": "9245115", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.81051204155881, 
-            41.99312350954645
+            -87.8105075770856, 
+            41.993219536192484
         ]
     }, 
-    "case_number": "HW390373", 
+    "community_area": "10", 
+    "latitude": "41.993219536192484", 
+    "type": null, 
+    "description": "COUNTERFEIT CHECK", 
+    "beat": "1612", 
     "date": {
         "$date": 1374656400000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "41", 
+    "_id": {
+        "$oid": "51fde740733824919a2933d7"
+    }, 
+    "iucr": "1122", 
+    "longitude": "-87.8105075770856", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1126376", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "10", 
-    "type": null, 
-    "id": "9245115", 
-    "block": "061XX N ODELL AVE", 
-    "description": "COUNTERFEIT CHECK"
+    "block": "061XX N ODELL AVE"
 }
