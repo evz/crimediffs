@@ -1,33 +1,38 @@
 {
-    "community_area": "75", 
-    "_id": {
-        "$oid": "51fde733733824919a292ee5"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2212", 
+    "y_coordinate": "1832819", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW379833", 
+    "id": "9238826", 
+    "primary_type": "THEFT", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66090420314762, 
-            41.69658183179259
+            -87.66139632233606, 
+            41.69679327945934
         ]
     }, 
-    "case_number": "HW379833", 
+    "community_area": "75", 
+    "latitude": "41.69679327945934", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2212", 
     "date": {
         "$date": 1374775200000
     }, 
+    "ward": "19", 
+    "_id": {
+        "$oid": "51fde733733824919a292ee5"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.66139632233606", 
+    "location_description": "STREET", 
+    "x_coordinate": "1167756", 
     "updated_on": {
         "$date": 1375317661000
     }, 
-    "ward": "19", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9238826", 
-    "block": "015XX W 108TH PL", 
-    "description": "$500 AND UNDER"
+    "block": "015XX W 108TH PL"
 }
