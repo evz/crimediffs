@@ -1,33 +1,38 @@
 {
-    "community_area": "26", 
-    "_id": {
-        "$oid": "51fde743733824919a293507"
-    }, 
-    "primary_type": "ARSON", 
-    "beat": "1122", 
+    "y_coordinate": "1898440", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1025", 
+    "case_number": "HW376207", 
+    "id": "9231272", 
+    "primary_type": "ARSON", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72324599999999, 
-            41.8773486
+            -87.72355168601737, 
+            41.87722312007617
         ]
     }, 
-    "case_number": "HW376207", 
+    "community_area": "26", 
+    "latitude": "41.87722312007617", 
+    "type": "property", 
+    "description": "AGGRAVATED", 
+    "beat": "1122", 
     "date": {
         "$date": 1374613320000
     }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "51fde743733824919a293507"
+    }, 
+    "iucr": "1025", 
+    "longitude": "-87.72355168601737", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1150315", 
     "updated_on": {
         "$date": 1375144832000
     }, 
-    "ward": "28", 
     "fbi_code": "09", 
-    "type": "property", 
-    "id": "9231272", 
-    "block": "039XX W JACKSON BLVD", 
-    "description": "AGGRAVATED"
+    "block": "039XX W JACKSON BLVD"
 }
