@@ -1,33 +1,38 @@
 {
-    "community_area": "28", 
-    "_id": {
-        "$oid": "51fde76f733824919a295811"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "1135", 
+    "y_coordinate": "1897316", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "930", 
+    "case_number": "HW362058", 
+    "id": "9230822", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.68876343983183, 
-            41.87397329701767
+            -87.69032776139676, 
+            41.87395736804457
         ]
     }, 
-    "case_number": "HW362058", 
+    "community_area": "28", 
+    "latitude": "41.87395736804457", 
+    "type": "property", 
+    "description": "THEFT/RECOVERY: AUTOMOBILE", 
+    "beat": "1135", 
     "date": {
         "$date": 1373756400000
     }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "51fde76f733824919a295811"
+    }, 
+    "iucr": "930", 
+    "longitude": "-87.69032776139676", 
+    "location_description": "STREET", 
+    "x_coordinate": "1159372", 
     "updated_on": {
         "$date": 1374885634000
     }, 
-    "ward": "2", 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9230822", 
-    "block": "025XX W HARRISON ST", 
-    "description": "THEFT/RECOVERY: AUTOMOBILE"
+    "block": "025XX W HARRISON ST"
 }
