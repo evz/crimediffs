@@ -1,33 +1,38 @@
 {
-    "community_area": "73", 
-    "_id": {
-        "$oid": "51fde763733824919a294c67"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "2232", 
+    "y_coordinate": "1836480", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "486", 
+    "case_number": "HW366128", 
+    "id": "9220262", 
+    "primary_type": "BATTERY", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64296931933211, 
-            41.7065307089795
+            -87.6429745001699, 
+            41.70673107588211
         ]
     }, 
-    "case_number": "HW366128", 
+    "community_area": "73", 
+    "latitude": "41.70673107588211", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "2232", 
     "date": {
         "$date": 1374048600000
     }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51fde763733824919a294c67"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.6429745001699", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1172758", 
     "updated_on": {
         "$date": 1374885634000
     }, 
-    "ward": "34", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9220262", 
-    "block": "103XX S HALSTED ST", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "103XX S HALSTED ST"
 }
