@@ -1,33 +1,38 @@
 {
-    "community_area": "1", 
-    "_id": {
-        "$oid": "51fde744733824919a293559"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "2422", 
+    "y_coordinate": "1949453", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "4387", 
+    "case_number": "HW376081", 
+    "id": "9230082", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "024", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67181249246488, 
-            42.01712491069469
+            -87.67068486220168, 
+            42.01692082537381
         ]
     }, 
-    "case_number": "HW376081", 
+    "community_area": "1", 
+    "latitude": "42.01692082537381", 
+    "type": null, 
+    "description": "VIOLATE ORDER OF PROTECTION", 
+    "beat": "2422", 
     "date": {
         "$date": 1374607800000
     }, 
-    "updated_on": {
-        "$date": 1374799275000
-    }, 
     "ward": "49", 
+    "_id": {
+        "$oid": "51fde744733824919a293559"
+    }, 
+    "iucr": "4387", 
+    "longitude": "-87.67068486220168", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1164319", 
+    "updated_on": {
+        "$date": 1375663313000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9230082", 
-    "block": "016XX W FARGO AVE", 
-    "description": "VIOLATE ORDER OF PROTECTION"
+    "block": "016XX W FARGO AVE"
 }
