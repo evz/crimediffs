@@ -1,0 +1,33 @@
+{
+    "community_area": "9", 
+    "_id": {
+        "$oid": "520116d9733824919a2975d2"
+    }, 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "beat": "1612", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1365", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.80853935147027, 
+            41.998166576967996
+        ]
+    }, 
+    "case_number": "HW394791", 
+    "date": {
+        "$date": 1374864300000
+    }, 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
+    "ward": "41", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9249102", 
+    "block": "064XX N NORTHWEST HWY", 
+    "description": "TO RESIDENCE"
+}
