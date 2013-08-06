@@ -1,33 +1,38 @@
 {
-    "community_area": "33", 
-    "_id": {
-        "$oid": "51fde734733824919a292f79"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0131", 
+    "y_coordinate": "1894681", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1120", 
+    "case_number": "HW387408", 
+    "id": "9244686", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "BANK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62596135272415, 
-            41.86670734664542
+            -87.62566061826503, 
+            41.86634599729494
         ]
     }, 
-    "case_number": "HW387408", 
+    "community_area": "33", 
+    "latitude": "41.86634599729494", 
+    "type": null, 
+    "description": "FORGERY", 
+    "beat": "0131", 
     "date": {
         "$date": 1374762900000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "51fde734733824919a292f79"
+    }, 
+    "iucr": "1120", 
+    "longitude": "-87.62566061826503", 
+    "location_description": "BANK", 
+    "x_coordinate": "1177007", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "10", 
-    "type": null, 
-    "id": "9244686", 
-    "block": "012XX S WABASH AVE", 
-    "description": "FORGERY"
+    "block": "012XX S WABASH AVE"
 }
