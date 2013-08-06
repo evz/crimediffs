@@ -1,33 +1,38 @@
 {
-    "community_area": "27", 
-    "_id": {
-        "$oid": "51fde75c733824919a294802"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1123", 
+    "y_coordinate": "1901760", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "486", 
-    "arrest": false, 
-    "location_description": "APARTMENT", 
+    "case_number": "HW368096", 
+    "id": "9244748", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.71035519756201, 
-            41.88625221544735
+            -87.70983730323768, 
+            41.886260381769844
         ]
     }, 
-    "case_number": "HW368096", 
+    "community_area": "27", 
+    "latitude": "41.886260381769844", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1123", 
     "date": {
         "$date": 1374156000000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "28", 
+    "_id": {
+        "$oid": "51fde75c733824919a294802"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.70983730323768", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1154026", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9244748", 
-    "block": "033XX W FULTON BLVD", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "033XX W FULTON BLVD"
 }
