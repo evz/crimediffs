@@ -1,33 +1,38 @@
 {
-    "community_area": "42", 
-    "_id": {
-        "$oid": "51fde760733824919a2948d2"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0313", 
+    "y_coordinate": "1863898", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW369446", 
+    "id": "9230556", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61430716193362, 
-            41.78190569055164
+            -87.61459432232938, 
+            41.78180046023918
         ]
     }, 
-    "case_number": "HW369446", 
+    "community_area": "42", 
+    "latitude": "41.78180046023918", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0313", 
     "date": {
         "$date": 1374136200000
     }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "51fde760733824919a2948d2"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.61459432232938", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1180279", 
     "updated_on": {
         "$date": 1375231290000
     }, 
-    "ward": "20", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9230556", 
-    "block": "062XX S VERNON AVE", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "062XX S VERNON AVE"
 }
