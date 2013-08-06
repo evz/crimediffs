@@ -4,7 +4,7 @@
     "domestic": false, 
     "case_number": "HW378442", 
     "id": "9232560", 
-    "primary_type": "THEFT", 
+    "primary_type": "BURGLARY", 
     "district": "017", 
     "arrest": false, 
     "location": {
@@ -17,7 +17,7 @@
     "community_area": "16", 
     "latitude": "41.95460375096912", 
     "type": "property", 
-    "description": "OVER $500", 
+    "description": "UNLAWFUL ENTRY", 
     "beat": "1723", 
     "date": {
         "$date": 1374768000000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "51fde734733824919a292f40"
     }, 
-    "iucr": "810", 
+    "iucr": "620", 
     "longitude": "-87.71307960560974", 
     "location_description": "RESIDENCE-GARAGE", 
     "x_coordinate": "1152963", 
     "updated_on": {
-        "$date": 1374885634000
+        "$date": 1375749778000
     }, 
-    "fbi_code": "06", 
+    "fbi_code": "05", 
     "block": "040XX N KIMBALL AVE"
 }
