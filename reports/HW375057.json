@@ -1,33 +1,38 @@
 {
-    "community_area": "36", 
-    "_id": {
-        "$oid": "51fde74f733824919a293ac9"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0214", 
+    "y_coordinate": "1878870", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "5002", 
+    "case_number": "HW375057", 
+    "id": "9229203", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "002", 
     "arrest": true, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.60681626774942, 
-            41.822838866753436
+            -87.60677958226036, 
+            41.822838634710706
         ]
     }, 
-    "case_number": "HW375057", 
+    "community_area": "36", 
+    "latitude": "41.822838634710706", 
+    "type": null, 
+    "description": "OTHER VEHICLE OFFENSE", 
+    "beat": "0214", 
     "date": {
         "$date": 1374481800000
     }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51fde74f733824919a293ac9"
+    }, 
+    "iucr": "5002", 
+    "longitude": "-87.60677958226036", 
+    "location_description": "STREET", 
+    "x_coordinate": "1182284", 
     "updated_on": {
         "$date": 1375231290000
     }, 
-    "ward": "4", 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9229203", 
-    "block": "008XX E OAKWOOD BLVD", 
-    "description": "OTHER VEHICLE OFFENSE"
+    "block": "008XX E OAKWOOD BLVD"
 }
