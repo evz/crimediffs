@@ -1,33 +1,38 @@
 {
-    "community_area": "61", 
-    "_id": {
-        "$oid": "51fde763733824919a294c14"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0935", 
+    "y_coordinate": "1870827", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "842", 
+    "case_number": "HW381491", 
+    "id": "9240827", 
+    "primary_type": "THEFT", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64274730958067, 
-            41.80144659496947
+            -87.64302727996889, 
+            41.8009899827896
         ]
     }, 
-    "case_number": "HW381491", 
+    "community_area": "61", 
+    "latitude": "41.8009899827896", 
+    "type": "property", 
+    "description": "AGG: FINANCIAL ID THEFT", 
+    "beat": "0935", 
     "date": {
         "$date": 1374058800000
     }, 
+    "ward": "3", 
+    "_id": {
+        "$oid": "51fde763733824919a294c14"
+    }, 
+    "iucr": "842", 
+    "longitude": "-87.64302727996889", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1172468", 
     "updated_on": {
         "$date": 1375490414000
     }, 
-    "ward": "3", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9240827", 
-    "block": "051XX S UNION AVE", 
-    "description": "AGG: FINANCIAL ID THEFT"
+    "block": "051XX S UNION AVE"
 }
