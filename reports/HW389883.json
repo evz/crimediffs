@@ -1,33 +1,38 @@
 {
-    "community_area": "5", 
-    "_id": {
-        "$oid": "51fde76b733824919a295367"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "1921", 
+    "y_coordinate": "1923866", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1150", 
+    "case_number": "HW389883", 
+    "id": "9244486", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69109499999999, 
-            41.946964
+            -87.69235294933374, 
+            41.94682806132633
         ]
     }, 
-    "case_number": "HW389883", 
+    "community_area": "5", 
+    "latitude": "41.94682806132633", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "1921", 
     "date": {
         "$date": 1373878800000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "47", 
+    "_id": {
+        "$oid": "51fde76b733824919a295367"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.69235294933374", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1158622", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9244486", 
-    "block": "025XX W ADDISON ST", 
-    "description": "CREDIT CARD FRAUD"
+    "block": "025XX W ADDISON ST"
 }
