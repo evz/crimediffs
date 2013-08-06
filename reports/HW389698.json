@@ -1,33 +1,38 @@
 {
-    "community_area": "8", 
-    "_id": {
-        "$oid": "51fde73a733824919a29323d"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1824", 
+    "y_coordinate": "1909094", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW389698", 
+    "id": "9244406", 
+    "primary_type": "THEFT", 
+    "district": "018", 
     "arrest": false, 
-    "location_description": "HOTEL/MOTEL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62859981517369, 
-            41.905914057764655
+            -87.62859978499499, 
+            41.9059168018101
         ]
     }, 
-    "case_number": "HW389698", 
+    "community_area": "8", 
+    "latitude": "41.9059168018101", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1824", 
     "date": {
         "$date": 1374688800000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "43", 
+    "_id": {
+        "$oid": "51fde73a733824919a29323d"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.62859978499499", 
+    "location_description": "HOTEL/MOTEL", 
+    "x_coordinate": "1176088", 
+    "updated_on": {
+        "$date": 1375663313000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9244406", 
-    "block": "013XX N STATE PKWY", 
-    "description": "FROM BUILDING"
+    "block": "013XX N STATE PKWY"
 }
