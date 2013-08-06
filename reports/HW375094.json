@@ -1,33 +1,38 @@
 {
-    "community_area": "71", 
-    "_id": {
-        "$oid": "51fde749733824919a293852"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "0611", 
+    "y_coordinate": "1851923", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW375094", 
+    "id": "9230246", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66841121133406, 
-            41.74910239406489
+            -87.66812008092063, 
+            41.74925987871483
         ]
     }, 
-    "case_number": "HW375094", 
+    "community_area": "71", 
+    "latitude": "41.74925987871483", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0611", 
     "date": {
         "$date": 1374530400000
     }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51fde749733824919a293852"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.66812008092063", 
+    "location_description": "STREET", 
+    "x_coordinate": "1165772", 
     "updated_on": {
         "$date": 1375144832000
     }, 
-    "ward": "21", 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9230246", 
-    "block": "079XX S WOOD ST", 
-    "description": "AUTOMOBILE"
+    "block": "079XX S WOOD ST"
 }
