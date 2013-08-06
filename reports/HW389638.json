@@ -1,33 +1,38 @@
 {
-    "community_area": "17", 
-    "_id": {
-        "$oid": "51fde752733824919a293e1c"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "1633", 
+    "y_coordinate": "1924223", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "620", 
+    "case_number": "HW389638", 
+    "id": "9244345", 
+    "primary_type": "BURGLARY", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.7840030685581, 
-            41.94830753138305
+            -87.78544421756801, 
+            41.9482897196197
         ]
     }, 
-    "case_number": "HW389638", 
+    "community_area": "17", 
+    "latitude": "41.9482897196197", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "1633", 
     "date": {
         "$date": 1374400800000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "38", 
+    "_id": {
+        "$oid": "51fde752733824919a293e1c"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.78544421756801", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1133294", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9244345", 
-    "block": "063XX W WARWICK AVE", 
-    "description": "UNLAWFUL ENTRY"
+    "block": "063XX W WARWICK AVE"
 }
