@@ -1,33 +1,38 @@
 {
-    "community_area": "1", 
-    "_id": {
-        "$oid": "51fde756733824919a294117"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "2423", 
+    "y_coordinate": "1947482", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW371716", 
+    "id": "9232486", 
+    "primary_type": "BATTERY", 
+    "district": "024", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6655054502723, 
-            42.011457327725225
+            -87.66460005609675, 
+            42.01147675417632
         ]
     }, 
-    "case_number": "HW371716", 
+    "community_area": "1", 
+    "latitude": "42.01147675417632", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2423", 
     "date": {
         "$date": 1374325200000
     }, 
+    "ward": "49", 
+    "_id": {
+        "$oid": "51fde756733824919a294117"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.66460005609675", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1165988", 
     "updated_on": {
         "$date": 1375144832000
     }, 
-    "ward": "49", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9232486", 
-    "block": "013XX W ESTES AVE", 
-    "description": "SIMPLE"
+    "block": "013XX W ESTES AVE"
 }
