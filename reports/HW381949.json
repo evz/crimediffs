@@ -1,33 +1,38 @@
 {
-    "community_area": "9", 
-    "_id": {
-        "$oid": "51fde757733824919a2942ab"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "1612", 
+    "y_coordinate": "1942794", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1320", 
+    "case_number": "HW381949", 
+    "id": "9238915", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "DRIVEWAY - RESIDENTIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.81058929690543, 
-            41.99941630722717
+            -87.81097227534275, 
+            41.99937139926171
         ]
     }, 
-    "case_number": "HW381949", 
+    "community_area": "9", 
+    "latitude": "41.99937139926171", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1612", 
     "date": {
         "$date": 1374278400000
     }, 
+    "ward": "41", 
+    "_id": {
+        "$oid": "51fde757733824919a2942ab"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.81097227534275", 
+    "location_description": "DRIVEWAY - RESIDENTIAL", 
+    "x_coordinate": "1126236", 
     "updated_on": {
         "$date": 1375317661000
     }, 
-    "ward": "41", 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9238915", 
-    "block": "065XX N NORTHWEST HWY", 
-    "description": "TO VEHICLE"
+    "block": "065XX N NORTHWEST HWY"
 }
