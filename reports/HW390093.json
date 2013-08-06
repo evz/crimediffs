@@ -1,33 +1,38 @@
 {
-    "community_area": "77", 
-    "_id": {
-        "$oid": "51fde73a733824919a293278"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2433", 
+    "y_coordinate": "1941416", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "843", 
+    "case_number": "HW390093", 
+    "id": "9244824", 
+    "primary_type": "THEFT", 
+    "district": "024", 
     "arrest": false, 
-    "location_description": "BANK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.655566, 
-            41.99469759999999
+            -87.65567753295932, 
+            41.994778190570074
         ]
     }, 
-    "case_number": "HW390093", 
+    "community_area": "77", 
+    "latitude": "41.994778190570074", 
+    "type": "property", 
+    "description": "ATTEMPT FINANCIAL IDENTITY THEFT", 
+    "beat": "2433", 
     "date": {
         "$date": 1374684540000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "48", 
+    "_id": {
+        "$oid": "51fde73a733824919a293278"
+    }, 
+    "iucr": "843", 
+    "longitude": "-87.65567753295932", 
+    "location_description": "BANK", 
+    "x_coordinate": "1168461", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9244824", 
-    "block": "062XX N SHERIDAN RD", 
-    "description": "ATTEMPT FINANCIAL IDENTITY THEFT"
+    "block": "062XX N SHERIDAN RD"
 }
