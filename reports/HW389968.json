@@ -1,33 +1,38 @@
 {
-    "community_area": "32", 
-    "_id": {
-        "$oid": "51fde72f733824919a292d63"
-    }, 
-    "primary_type": "CRIMINAL TRESPASS", 
-    "beat": "0114", 
+    "y_coordinate": "1900808", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1360", 
+    "case_number": "HW389968", 
+    "id": "9244669", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "BOAT/WATERCRAFT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61382038468751, 
-            41.884049641838025
+            -87.61536975887992, 
+            41.88309611059713
         ]
     }, 
-    "case_number": "HW389968", 
+    "community_area": "32", 
+    "latitude": "41.88309611059713", 
+    "type": null, 
+    "description": "TO VEHICLE", 
+    "beat": "0114", 
     "date": {
         "$date": 1374800400000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "42", 
+    "_id": {
+        "$oid": "51fde72f733824919a292d63"
+    }, 
+    "iucr": "1360", 
+    "longitude": "-87.61536975887992", 
+    "location_description": "BOAT/WATERCRAFT", 
+    "x_coordinate": "1179759", 
+    "updated_on": {
+        "$date": 1375663313000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9244669", 
-    "block": "001XX N LAKE SHORE DR NB", 
-    "description": "TO VEHICLE"
+    "block": "001XX N LAKE SHORE DR NB"
 }
