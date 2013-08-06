@@ -1,33 +1,38 @@
 {
-    "community_area": "1", 
-    "_id": {
-        "$oid": "51fde749733824919a293867"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "2424", 
+    "y_coordinate": "1948614", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "033A", 
+    "case_number": "HW374676", 
+    "id": "9232344", 
+    "primary_type": "ROBBERY", 
+    "district": "024", 
     "arrest": false, 
-    "location_description": "PARK PROPERTY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6802404767462, 
-            42.013803318009245
+            -87.67842120999433, 
+            42.01466285833672
         ]
     }, 
-    "case_number": "HW374676", 
+    "community_area": "1", 
+    "latitude": "42.01466285833672", 
+    "type": "violent", 
+    "description": "ATTEMPT: ARMED-HANDGUN", 
+    "beat": "2424", 
     "date": {
         "$date": 1374528900000
     }, 
-    "updated_on": {
-        "$date": 1375144832000
-    }, 
     "ward": "49", 
+    "_id": {
+        "$oid": "51fde749733824919a293867"
+    }, 
+    "iucr": "033A", 
+    "longitude": "-87.67842120999433", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1162223", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9232344", 
-    "block": "073XX N ROGERS AVE", 
-    "description": "ATTEMPT: ARMED-HANDGUN"
+    "block": "073XX N ROGERS AVE"
 }
