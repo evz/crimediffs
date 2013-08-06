@@ -1,33 +1,38 @@
 {
-    "community_area": "35", 
-    "_id": {
-        "$oid": "51fde743733824919a293530"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "0211", 
+    "y_coordinate": "1883190", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW376332", 
+    "id": "9230101", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61697077307498, 
-            41.83475513152264
+            -87.61697074247475, 
+            41.83475787559529
         ]
     }, 
-    "case_number": "HW376332", 
+    "community_area": "35", 
+    "latitude": "41.83475787559529", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0211", 
     "date": {
         "$date": 1374610500000
     }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "51fde743733824919a293530"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.61697074247475", 
+    "location_description": "STREET", 
+    "x_coordinate": "1179470", 
     "updated_on": {
         "$date": 1375317661000
     }, 
-    "ward": "4", 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9230101", 
-    "block": "004XX E 33RD ST", 
-    "description": "AUTOMOBILE"
+    "block": "004XX E 33RD ST"
 }
