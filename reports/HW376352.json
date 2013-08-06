@@ -1,33 +1,38 @@
 {
-    "community_area": "44", 
-    "_id": {
-        "$oid": "51fde747733824919a29372d"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0633", 
+    "y_coordinate": "1845422", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW376352", 
+    "id": "9238381", 
+    "primary_type": "BURGLARY", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.60549327209182, 
-            41.731275490506164
+            -87.60624691688642, 
+            41.731044251069754
         ]
     }, 
-    "case_number": "HW376352", 
+    "community_area": "44", 
+    "latitude": "41.731044251069754", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0633", 
     "date": {
         "$date": 1374570000000
     }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "51fde747733824919a29372d"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.60624691688642", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1182712", 
     "updated_on": {
         "$date": 1375404049000
     }, 
-    "ward": "6", 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9238381", 
-    "block": "007XX E 90TH ST", 
-    "description": "FORCIBLE ENTRY"
+    "block": "007XX E 90TH ST"
 }
