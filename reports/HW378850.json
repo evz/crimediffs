@@ -1,33 +1,38 @@
 {
-    "community_area": "27", 
-    "_id": {
-        "$oid": "51fde75a733824919a294548"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1134", 
+    "y_coordinate": "1896155", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW378850", 
+    "id": "9238280", 
+    "primary_type": "THEFT", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70362039882652, 
-            41.870869646747416
+            -87.7050341174268, 
+            41.87085269143705
         ]
     }, 
-    "case_number": "HW378850", 
+    "community_area": "27", 
+    "latitude": "41.87085269143705", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1134", 
     "date": {
         "$date": 1374226200000
     }, 
+    "ward": "24", 
+    "_id": {
+        "$oid": "51fde75a733824919a294548"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.7050341174268", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1155375", 
     "updated_on": {
         "$date": 1375317661000
     }, 
-    "ward": "24", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9238280", 
-    "block": "031XX W POLK ST", 
-    "description": "FROM BUILDING"
+    "block": "031XX W POLK ST"
 }
