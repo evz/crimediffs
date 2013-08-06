@@ -1,33 +1,38 @@
 {
-    "community_area": "46", 
-    "_id": {
-        "$oid": "51fde753733824919a293e76"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0424", 
+    "y_coordinate": "1847717", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW372057", 
+    "id": "9231624", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.54596784234353, 
-            41.73662410496037
+            -87.54597491158373, 
+            41.73694523703631
         ]
     }, 
-    "case_number": "HW372057", 
+    "community_area": "46", 
+    "latitude": "41.73694523703631", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0424", 
     "date": {
         "$date": 1374384600000
     }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "51fde753733824919a293e76"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.54597491158373", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1199144", 
     "updated_on": {
         "$date": 1375231290000
     }, 
-    "ward": "7", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9231624", 
-    "block": "087XX S BURLEY AVE", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "087XX S BURLEY AVE"
 }
