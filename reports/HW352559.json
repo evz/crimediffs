@@ -6,7 +6,7 @@
     "id": "9206557", 
     "primary_type": "BURGLARY", 
     "district": "006", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "APARTMENT", 
     "x_coordinate": "1172846", 
     "updated_on": {
-        "$date": 1373416728000
+        "$date": 1375749778000
     }, 
     "fbi_code": "05", 
     "block": "007XX W 80TH ST"
