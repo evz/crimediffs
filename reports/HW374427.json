@@ -1,33 +1,38 @@
 {
-    "community_area": "60", 
-    "_id": {
-        "$oid": "51fde74e733824919a293a52"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0914", 
+    "y_coordinate": "1884374", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW374427", 
+    "id": "9233831", 
+    "primary_type": "BURGLARY", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6458559774969, 
-            41.83793936717068
+            -87.64449933456739, 
+            41.83817547850059
         ]
     }, 
-    "case_number": "HW374427", 
+    "community_area": "60", 
+    "latitude": "41.83817547850059", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0914", 
     "date": {
         "$date": 1374492600000
     }, 
+    "ward": "11", 
+    "_id": {
+        "$oid": "51fde74e733824919a293a52"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.64449933456739", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1171958", 
     "updated_on": {
         "$date": 1375058559000
     }, 
-    "ward": "11", 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9233831", 
-    "block": "007XX W 31ST ST", 
-    "description": "FORCIBLE ENTRY"
+    "block": "007XX W 31ST ST"
 }
