@@ -1,0 +1,33 @@
+{
+    "community_area": "1", 
+    "_id": {
+        "$oid": "520116f3733824919a297612"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "2431", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6701204284982, 
+            42.00607529728675
+        ]
+    }, 
+    "case_number": "HW394308", 
+    "date": {
+        "$date": 1374084000000
+    }, 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
+    "ward": "49", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9248887", 
+    "block": "068XX N ASHLAND BLVD", 
+    "description": "TO VEHICLE"
+}
