@@ -1,33 +1,38 @@
 {
-    "community_area": "68", 
-    "_id": {
-        "$oid": "51fde749733824919a293846"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0724", 
+    "y_coordinate": "1860991", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "497", 
+    "case_number": "HW375513", 
+    "id": "9238020", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64934129110812, 
-            41.77353821830057
+            -87.64964394123629, 
+            41.77403673707262
         ]
     }, 
-    "case_number": "HW375513", 
+    "community_area": "68", 
+    "latitude": "41.77403673707262", 
+    "type": "violent", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: OTHER DANG WEAPON", 
+    "beat": "0724", 
     "date": {
         "$date": 1374530400000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "17", 
+    "_id": {
+        "$oid": "51fde749733824919a293846"
+    }, 
+    "iucr": "497", 
+    "longitude": "-87.64964394123629", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1170742", 
+    "updated_on": {
+        "$date": 1375663313000
+    }, 
     "fbi_code": "04B", 
-    "type": "violent", 
-    "id": "9238020", 
-    "block": "066XX S MORGAN ST", 
-    "description": "AGGRAVATED DOMESTIC BATTERY: OTHER DANG WEAPON"
+    "block": "066XX S MORGAN ST"
 }
