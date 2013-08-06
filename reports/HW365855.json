@@ -1,33 +1,38 @@
 {
-    "community_area": "32", 
-    "_id": {
-        "$oid": "51fde764733824919a294d53"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0112", 
+    "y_coordinate": "1900367", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW365855", 
+    "id": "9220107", 
+    "primary_type": "THEFT", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62606223870009, 
-            41.881867179753286
+            -87.62606497252484, 
+            41.88195226808716
         ]
     }, 
-    "case_number": "HW365855", 
+    "community_area": "32", 
+    "latitude": "41.88195226808716", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0112", 
     "date": {
         "$date": 1374013200000
     }, 
-    "updated_on": {
-        "$date": 1374280871000
-    }, 
     "ward": "42", 
+    "_id": {
+        "$oid": "51fde764733824919a294d53"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.62606497252484", 
+    "location_description": "STREET", 
+    "x_coordinate": "1176850", 
+    "updated_on": {
+        "$date": 1375663313000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9220107", 
-    "block": "0000X S WABASH AVE", 
-    "description": "OVER $500"
+    "block": "0000X S WABASH AVE"
 }
