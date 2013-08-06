@@ -1,33 +1,38 @@
 {
-    "community_area": "64", 
-    "_id": {
-        "$oid": "51fde75a733824919a294540"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0813", 
+    "y_coordinate": "1861626", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW389630", 
+    "id": "9244126", 
+    "primary_type": "THEFT", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.73841514424197, 
-            41.77622120708248
+            -87.73841466238825, 
+            41.77627334626279
         ]
     }, 
-    "case_number": "HW389630", 
+    "community_area": "64", 
+    "latitude": "41.77627334626279", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0813", 
     "date": {
         "$date": 1374227700000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "13", 
+    "_id": {
+        "$oid": "51fde75a733824919a294540"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.73841466238825", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1146522", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9244126", 
-    "block": "064XX S KNOX AVE", 
-    "description": "$500 AND UNDER"
+    "block": "064XX S KNOX AVE"
 }
