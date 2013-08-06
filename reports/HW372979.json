@@ -1,33 +1,38 @@
 {
-    "community_area": "34", 
-    "_id": {
-        "$oid": "51fde751733824919a293c74"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0914", 
+    "y_coordinate": "1890376", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW372979", 
+    "id": "9232552", 
+    "primary_type": "BATTERY", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63077457814717, 
-            41.85495856215365
+            -87.6315606938173, 
+            41.85456819554212
         ]
     }, 
-    "case_number": "HW372979", 
+    "community_area": "34", 
+    "latitude": "41.85456819554212", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0914", 
     "date": {
         "$date": 1374435900000
     }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "51fde751733824919a293c74"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.6315606938173", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1175435", 
     "updated_on": {
         "$date": 1374971969000
     }, 
-    "ward": "25", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9232552", 
-    "block": "020XX S ARCHER AVE", 
-    "description": "SIMPLE"
+    "block": "020XX S ARCHER AVE"
 }
