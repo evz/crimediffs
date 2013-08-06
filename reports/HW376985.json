@@ -1,33 +1,38 @@
 {
-    "community_area": "53", 
-    "_id": {
-        "$oid": "51fde734733824919a292f86"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0532", 
+    "y_coordinate": "1828725", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "5011", 
+    "case_number": "HW376985", 
+    "id": "9244483", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "SMALL RETAIL STORE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61594164921353, 
-            41.6855055156399
+            -87.61608322623616, 
+            41.685284108268775
         ]
     }, 
-    "case_number": "HW376985", 
+    "community_area": "53", 
+    "latitude": "41.685284108268775", 
+    "type": null, 
+    "description": "LICENSE VIOLATION", 
+    "beat": "0532", 
     "date": {
         "$date": 1374761700000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "9", 
+    "_id": {
+        "$oid": "51fde734733824919a292f86"
+    }, 
+    "iucr": "5011", 
+    "longitude": "-87.61608322623616", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1180166", 
+    "updated_on": {
+        "$date": 1375663313000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9244483", 
-    "block": "002XX E 115TH ST", 
-    "description": "LICENSE VIOLATION"
+    "block": "002XX E 115TH ST"
 }
