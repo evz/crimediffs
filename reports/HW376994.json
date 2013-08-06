@@ -1,33 +1,38 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "51fde740733824919a2933b4"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0522", 
+    "y_coordinate": "1831039", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW376994", 
+    "id": "9237777", 
+    "primary_type": "THEFT", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62872762709428, 
-            41.69171820268416
+            -87.62925854749068, 
+            41.69171596794923
         ]
     }, 
-    "case_number": "HW376994", 
+    "community_area": "49", 
+    "latitude": "41.69171596794923", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0522", 
     "date": {
         "$date": 1374660000000
     }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "51fde740733824919a2933b4"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.62925854749068", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1176548", 
     "updated_on": {
         "$date": 1375317661000
     }, 
-    "ward": "34", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9237777", 
-    "block": "002XX W 111TH PL", 
-    "description": "OVER $500"
+    "block": "002XX W 111TH PL"
 }
