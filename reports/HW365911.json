@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "51fde764733824919a294d00"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "2533", 
+    "y_coordinate": "1908161", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1310", 
+    "case_number": "HW365911", 
+    "id": "9245231", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.75047114969271, 
-            41.904231803137854
+            -87.74877215975303, 
+            41.904031070104004
         ]
     }, 
-    "case_number": "HW365911", 
+    "community_area": "25", 
+    "latitude": "41.904031070104004", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "2533", 
     "date": {
         "$date": 1374019320000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "37", 
+    "_id": {
+        "$oid": "51fde764733824919a294d00"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.74877215975303", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1143380", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9245231", 
-    "block": "049XX W POTOMAC AVE", 
-    "description": "TO PROPERTY"
+    "block": "049XX W POTOMAC AVE"
 }
