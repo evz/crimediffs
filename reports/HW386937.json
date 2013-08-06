@@ -1,33 +1,38 @@
 {
-    "community_area": "24", 
-    "_id": {
-        "$oid": "51fde76b733824919a295363"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1423", 
+    "y_coordinate": "1907905", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW386937", 
+    "id": "9242042", 
+    "primary_type": "THEFT", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "RESTAURANT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69615960985917, 
-            41.903040429450634
+            -87.6955461028333, 
+            41.90304525629338
         ]
     }, 
-    "case_number": "HW386937", 
+    "community_area": "24", 
+    "latitude": "41.90304525629338", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1423", 
     "date": {
         "$date": 1373878800000
     }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51fde76b733824919a295363"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.6955461028333", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1157872", 
     "updated_on": {
         "$date": 1375490414000
     }, 
-    "ward": "26", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9242042", 
-    "block": "027XX W DIVISION ST", 
-    "description": "OVER $500"
+    "block": "027XX W DIVISION ST"
 }
