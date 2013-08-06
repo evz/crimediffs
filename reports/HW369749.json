@@ -1,33 +1,38 @@
 {
-    "community_area": "24", 
-    "_id": {
-        "$oid": "51fde75c733824919a29477f"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1423", 
+    "y_coordinate": "1910386", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW369749", 
+    "id": "9229435", 
+    "primary_type": "BATTERY", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "ALLEY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70712110555392, 
-            41.9086742715979
+            -87.7068518037545, 
+            41.909915940588014
         ]
     }, 
-    "case_number": "HW369749", 
+    "community_area": "24", 
+    "latitude": "41.909915940588014", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1423", 
     "date": {
         "$date": 1374166800000
     }, 
+    "ward": "26", 
+    "_id": {
+        "$oid": "51fde75c733824919a29477f"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.7068518037545", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1154776", 
     "updated_on": {
         "$date": 1375490414000
     }, 
-    "ward": "26", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9229435", 
-    "block": "015XX N KEDZIE AVE", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "015XX N KEDZIE AVE"
 }
