@@ -1,33 +1,38 @@
 {
-    "community_area": "71", 
-    "_id": {
-        "$oid": "51fde767733824919a294fcf"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0612", 
+    "y_coordinate": "1851660", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW365833", 
+    "id": "9220159", 
+    "primary_type": "BURGLARY", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65933816036376, 
-            41.74870100210073
+            -87.6591791676727, 
+            41.748486013383534
         ]
     }, 
-    "case_number": "HW365833", 
+    "community_area": "71", 
+    "latitude": "41.748486013383534", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0612", 
     "date": {
         "$date": 1373961600000
     }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "51fde767733824919a294fcf"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.6591791676727", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1168214", 
     "updated_on": {
         "$date": 1374971969000
     }, 
-    "ward": "21", 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9220159", 
-    "block": "014XX W 80TH ST", 
-    "description": "FORCIBLE ENTRY"
+    "block": "014XX W 80TH ST"
 }
