@@ -1,33 +1,38 @@
 {
-    "community_area": "24", 
-    "_id": {
-        "$oid": "51fde72a733824919a292c21"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "1424", 
+    "y_coordinate": "1910283", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW382436", 
+    "id": "9238590", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67767755176072, 
-            41.90925635885337
+            -87.6780206761032, 
+            41.90947236764837
         ]
     }, 
-    "case_number": "HW382436", 
+    "community_area": "24", 
+    "latitude": "41.90947236764837", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1424", 
     "date": {
         "$date": 1374843540000
     }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51fde72a733824919a292c21"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.6780206761032", 
+    "location_description": "STREET", 
+    "x_coordinate": "1162625", 
     "updated_on": {
         "$date": 1375317661000
     }, 
-    "ward": "1", 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9238590", 
-    "block": "020XX W PIERCE AVE", 
-    "description": "AUTOMOBILE"
+    "block": "020XX W PIERCE AVE"
 }
