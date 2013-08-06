@@ -1,33 +1,38 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "51fde768733824919a295080"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0512", 
+    "y_coordinate": "1836722", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW364501", 
+    "id": "9222548", 
+    "primary_type": "BURGLARY", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "SMALL RETAIL STORE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61282179974155, 
-            41.707218335773895
+            -87.61326865240073, 
+            41.70721290368128
         ]
     }, 
-    "case_number": "HW364501", 
+    "community_area": "49", 
+    "latitude": "41.70721290368128", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0512", 
     "date": {
         "$date": 1373931000000
     }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "51fde768733824919a295080"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.61326865240073", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1180868", 
     "updated_on": {
         "$date": 1375144832000
     }, 
-    "ward": "9", 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9222548", 
-    "block": "004XX E 103RD ST", 
-    "description": "FORCIBLE ENTRY"
+    "block": "004XX E 103RD ST"
 }
