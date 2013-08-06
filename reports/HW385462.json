@@ -1,33 +1,38 @@
 {
-    "community_area": "22", 
-    "_id": {
-        "$oid": "51fde75b733824919a294712"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "1431", 
+    "y_coordinate": "1915912", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW385462", 
+    "id": "9240444", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.68750066058958, 
-            41.92497883086561
+            -87.68779099797864, 
+            41.924974975097605
         ]
     }, 
-    "case_number": "HW385462", 
+    "community_area": "22", 
+    "latitude": "41.924974975097605", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1431", 
     "date": {
         "$date": 1374174000000
     }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "51fde75b733824919a294712"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.68779099797864", 
+    "location_description": "STREET", 
+    "x_coordinate": "1159923", 
     "updated_on": {
         "$date": 1375404049000
     }, 
-    "ward": "1", 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9240444", 
-    "block": "024XX N WESTERN AVE", 
-    "description": "AUTOMOBILE"
+    "block": "024XX N WESTERN AVE"
 }
