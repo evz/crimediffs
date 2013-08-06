@@ -1,33 +1,38 @@
 {
-    "community_area": "66", 
-    "_id": {
-        "$oid": "51fde72e733824919a292d19"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0822", 
+    "y_coordinate": "1865227", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW390263", 
+    "id": "9244980", 
+    "primary_type": "BURGLARY", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.71119609632065, 
-            41.78623366842227
+            -87.71131924067222, 
+            41.7860120475523
         ]
     }, 
-    "case_number": "HW390263", 
+    "community_area": "66", 
+    "latitude": "41.7860120475523", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0822", 
     "date": {
         "$date": 1374811200000
     }, 
-    "updated_on": {
-        "$date": 1375490414000
-    }, 
     "ward": "16", 
+    "_id": {
+        "$oid": "51fde72e733824919a292d19"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.71131924067222", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1153887", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9244980", 
-    "block": "035XX W 59TH ST", 
-    "description": "FORCIBLE ENTRY"
+    "block": "035XX W 59TH ST"
 }
