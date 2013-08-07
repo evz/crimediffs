@@ -6,7 +6,7 @@
     "id": "9232849", 
     "primary_type": "ROBBERY", 
     "district": "006", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "STREET", 
     "x_coordinate": "1177015", 
     "updated_on": {
-        "$date": 1375663313000
+        "$date": 1375836149000
     }, 
     "fbi_code": "03", 
     "block": "083XX S PERRY AVE"
