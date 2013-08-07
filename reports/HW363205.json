@@ -6,7 +6,7 @@
     "id": "9216581", 
     "primary_type": "BATTERY", 
     "district": "004", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
     "x_coordinate": "1195625", 
     "updated_on": {
-        "$date": 1375749778000
+        "$date": 1375836149000
     }, 
     "fbi_code": "08B", 
     "block": "077XX S MARQUETTE AVE"
