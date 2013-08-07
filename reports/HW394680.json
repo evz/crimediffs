@@ -1,33 +1,38 @@
 {
-    "community_area": "30", 
-    "_id": {
-        "$oid": "520116b0733824919a296cb9"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "1033", 
+    "y_coordinate": "1888766", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW394680", 
+    "id": "9249161", 
+    "primary_type": "BURGLARY", 
+    "district": "010", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70292156554251, 
-            41.850813530062894
+            -87.70291300681994, 
+            41.8505637552999
         ]
     }, 
-    "case_number": "HW394680", 
+    "community_area": "30", 
+    "latitude": "41.8505637552999", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1033", 
     "date": {
         "$date": 1375142400000
     }, 
-    "updated_on": {
-        "$date": 1375749778000
-    }, 
     "ward": "24", 
+    "_id": {
+        "$oid": "520116b0733824919a296cb9"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.70291300681994", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1156007", 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9249161", 
-    "block": "022XX S ALBANY AVE", 
-    "description": "FORCIBLE ENTRY"
+    "block": "022XX S ALBANY AVE"
 }
