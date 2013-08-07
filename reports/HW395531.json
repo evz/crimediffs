@@ -1,0 +1,33 @@
+{
+    "community_area": "19", 
+    "_id": {
+        "$oid": "52026841733824919a297982"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2522", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74853838717608, 
+            41.921192322877296
+        ]
+    }, 
+    "case_number": "HW395531", 
+    "date": {
+        "$date": 1374742800000
+    }, 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
+    "ward": "31", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9250892", 
+    "block": "022XX N LAMON AVE", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
