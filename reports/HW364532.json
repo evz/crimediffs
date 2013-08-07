@@ -1,33 +1,38 @@
 {
-    "community_area": "73", 
-    "_id": {
-        "$oid": "51fde767733824919a29501e"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "2223", 
+    "y_coordinate": "1840512", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "498", 
+    "case_number": "HW364532", 
+    "id": "9219221", 
+    "primary_type": "BATTERY", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64573190637152, 
-            41.71912450444944
+            -87.6456982749621, 
+            41.71781251808503
         ]
     }, 
-    "case_number": "HW364532", 
+    "community_area": "73", 
+    "latitude": "41.71781251808503", 
+    "type": "violent", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: HANDS/FIST/FEET SERIOUS INJURY", 
+    "beat": "2223", 
     "date": {
         "$date": 1373943600000
     }, 
-    "updated_on": {
-        "$date": 1374194525000
-    }, 
     "ward": "21", 
+    "_id": {
+        "$oid": "51fde767733824919a29501e"
+    }, 
+    "iucr": "498", 
+    "longitude": "-87.6456982749621", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1171982", 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
     "fbi_code": "04B", 
-    "type": "violent", 
-    "id": "9219221", 
-    "block": "096XX S PEORIA ST", 
-    "description": "AGGRAVATED DOMESTIC BATTERY: HANDS/FIST/FEET SERIOUS INJURY"
+    "block": "096XX S PEORIA ST"
 }
