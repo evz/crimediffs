@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "5202683c733824919a297974"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "1523", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2017", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7566746157703, 
+            41.8867905272612
+        ]
+    }, 
+    "case_number": "HW380466", 
+    "date": {
+        "$date": 1374861000000
+    }, 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
+    "ward": "28", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9249890", 
+    "block": "003XX N LATROBE AVE", 
+    "description": "MANU/DELIVER:CRACK"
+}
