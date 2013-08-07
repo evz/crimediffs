@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "520116e1733824919a2975f0"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1513", 
+    "y_coordinate": "1894316", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2022", 
+    "case_number": "HW376128", 
+    "id": "9247917", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.77062492207678, 
-            41.866445234190756
+            -87.7706128604298, 
+            41.86614605099947
         ]
     }, 
-    "case_number": "HW376128", 
+    "community_area": "25", 
+    "latitude": "41.86614605099947", 
+    "type": "quality", 
+    "description": "POSS: COCAINE", 
+    "beat": "1513", 
     "date": {
         "$date": 1374601533000
     }, 
-    "updated_on": {
-        "$date": 1375749778000
-    }, 
     "ward": "29", 
+    "_id": {
+        "$oid": "520116e1733824919a2975f0"
+    }, 
+    "iucr": "2022", 
+    "longitude": "-87.7706128604298", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1137525", 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9247917", 
-    "block": "011XX S MONITOR AVE", 
-    "description": "POSS: COCAINE"
+    "block": "011XX S MONITOR AVE"
 }
