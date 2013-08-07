@@ -1,33 +1,38 @@
 {
-    "community_area": "69", 
-    "_id": {
-        "$oid": "51fde778733824919a2966b3"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0731", 
+    "y_coordinate": "1857743", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW363481", 
+    "id": "9221070", 
+    "primary_type": "THEFT", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62958481804687, 
-            41.76384679327278
+            -87.62961251122414, 
+            41.76500231216676
         ]
     }, 
-    "case_number": "HW363481", 
+    "community_area": "69", 
+    "latitude": "41.76500231216676", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0731", 
     "date": {
         "$date": 1373392800000
     }, 
-    "updated_on": {
-        "$date": 1374453626000
-    }, 
     "ward": "6", 
+    "_id": {
+        "$oid": "51fde778733824919a2966b3"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.62961251122414", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1176233", 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9221070", 
-    "block": "071XX S WENTWORTH AVE", 
-    "description": "$500 AND UNDER"
+    "block": "071XX S WENTWORTH AVE"
 }
