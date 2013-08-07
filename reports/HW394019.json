@@ -1,33 +1,38 @@
 {
-    "community_area": "41", 
-    "_id": {
-        "$oid": "520116e3733824919a2975f8"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "0233", 
+    "y_coordinate": "1869875", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW394019", 
+    "id": "9248402", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.5994784, 
-            41.7981275
+            -87.5971498565454, 
+            41.79809257851883
         ]
     }, 
-    "case_number": "HW394019", 
+    "community_area": "41", 
+    "latitude": "41.79809257851883", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0233", 
     "date": {
         "$date": 1374523200000
     }, 
-    "updated_on": {
-        "$date": 1375749778000
-    }, 
     "ward": "4", 
+    "_id": {
+        "$oid": "520116e3733824919a2975f8"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.5971498565454", 
+    "location_description": "STREET", 
+    "x_coordinate": "1184986", 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9248402", 
-    "block": "011XX E 54TH ST", 
-    "description": "AUTOMOBILE"
+    "block": "011XX E 54TH ST"
 }
