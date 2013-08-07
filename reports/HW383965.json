@@ -4,9 +4,9 @@
     "domestic": false, 
     "case_number": "HW383965", 
     "id": "9237553", 
-    "primary_type": "SEX OFFENSE", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
     "district": "016", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,7 +17,7 @@
     "community_area": "76", 
     "latitude": "41.973717825447935", 
     "type": null, 
-    "description": "PUBLIC INDECENCY", 
+    "description": "OTHER VIOLATION", 
     "beat": "1614", 
     "date": {
         "$date": 1375096320000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "520116be733824919a296eeb"
     }, 
-    "iucr": "1570", 
+    "iucr": "2890", 
     "longitude": "-87.8386784266928", 
     "location_description": "SIDEWALK", 
     "x_coordinate": "1118759", 
     "updated_on": {
-        "$date": 1375231290000
+        "$date": 1375836149000
     }, 
-    "fbi_code": "17", 
+    "fbi_code": "26", 
     "block": "085XX W FOSTER AVE"
 }
