@@ -1,33 +1,38 @@
 {
-    "community_area": "11", 
-    "_id": {
-        "$oid": "520116e0733824919a2975ec"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1622", 
+    "y_coordinate": "1932867", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "841", 
+    "case_number": "HW394813", 
+    "id": "9249046", 
+    "primary_type": "THEFT", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.77444554110944, 
-            41.97227875978293
+            -87.774095335292, 
+            41.97195598207317
         ]
     }, 
-    "case_number": "HW394813", 
+    "community_area": "11", 
+    "latitude": "41.97195598207317", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT:$300 &UNDER", 
+    "beat": "1622", 
     "date": {
         "$date": 1374624060000
     }, 
-    "updated_on": {
-        "$date": 1375749778000
-    }, 
     "ward": "45", 
+    "_id": {
+        "$oid": "520116e0733824919a2975ec"
+    }, 
+    "iucr": "841", 
+    "longitude": "-87.774095335292", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1136325", 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9249046", 
-    "block": "058XX W HIGGINS AVE", 
-    "description": "FINANCIAL ID THEFT:$300 &UNDER"
+    "block": "058XX W HIGGINS AVE"
 }
