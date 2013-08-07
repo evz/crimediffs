@@ -1,33 +1,38 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "52011703733824919a29762a"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "0522", 
+    "y_coordinate": "1830337", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1821", 
+    "case_number": "HW354939", 
+    "id": "9219561", 
+    "primary_type": "NARCOTICS", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6240933240477, 
-            41.689963510839604
+            -87.62349152108652, 
+            41.689753970347866
         ]
     }, 
-    "case_number": "HW354939", 
+    "community_area": "49", 
+    "latitude": "41.689753970347866", 
+    "type": "quality", 
+    "description": "MANU/DEL:CANNABIS 10GM OR LESS", 
+    "beat": "0522", 
     "date": {
         "$date": 1373377800000
     }, 
-    "updated_on": {
-        "$date": 1375749778000
-    }, 
     "ward": "34", 
+    "_id": {
+        "$oid": "52011703733824919a29762a"
+    }, 
+    "iucr": "1821", 
+    "longitude": "-87.62349152108652", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1178129", 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9219561", 
-    "block": "0000X W 112TH PL", 
-    "description": "MANU/DEL:CANNABIS 10GM OR LESS"
+    "block": "0000X W 112TH PL"
 }
