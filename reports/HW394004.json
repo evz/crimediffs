@@ -1,33 +1,38 @@
 {
-    "community_area": "29", 
-    "_id": {
-        "$oid": "52011700733824919a297627"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "1012", 
+    "y_coordinate": "1889713", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2825", 
+    "case_number": "HW394004", 
+    "id": "9248146", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "010", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72993228833899, 
-            41.85353547359724
+            -87.73046296399816, 
+            41.85331048666628
         ]
     }, 
-    "case_number": "HW394004", 
+    "community_area": "29", 
+    "latitude": "41.85331048666628", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "1012", 
     "date": {
         "$date": 1373549400000
     }, 
-    "updated_on": {
-        "$date": 1375749778000
-    }, 
     "ward": "24", 
+    "_id": {
+        "$oid": "52011700733824919a297627"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.73046296399816", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1148494", 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9248146", 
-    "block": "042XX W 21ST ST", 
-    "description": "HARASSMENT BY TELEPHONE"
+    "block": "042XX W 21ST ST"
 }
