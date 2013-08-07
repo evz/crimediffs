@@ -1,33 +1,38 @@
 {
-    "community_area": "29", 
-    "_id": {
-        "$oid": "52011700733824919a297626"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1022", 
+    "y_coordinate": "1890993", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "840", 
+    "case_number": "HW393328", 
+    "id": "9247553", 
+    "primary_type": "THEFT", 
+    "district": "010", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70431009574496, 
-            41.85594467685463
+            -87.7040349117083, 
+            41.856681374991695
         ]
     }, 
-    "case_number": "HW393328", 
+    "community_area": "29", 
+    "latitude": "41.856681374991695", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "1022", 
     "date": {
         "$date": 1373554800000
     }, 
-    "updated_on": {
-        "$date": 1375749778000
-    }, 
     "ward": "24", 
+    "_id": {
+        "$oid": "52011700733824919a297626"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.7040349117083", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1155685", 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9247553", 
-    "block": "018XX S TROY ST", 
-    "description": "FINANCIAL ID THEFT: OVER $300"
+    "block": "018XX S TROY ST"
 }
