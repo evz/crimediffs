@@ -16,8 +16,8 @@
     }, 
     "community_area": "26", 
     "latitude": "41.879552293451084", 
-    "type": "violent", 
-    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "type": null, 
+    "description": "SIMPLE", 
     "beat": "1115", 
     "date": {
         "$date": 1374901200000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "51fde71a733824919a29293d"
     }, 
-    "iucr": "430", 
+    "iucr": "460", 
     "longitude": "-87.73384437047707", 
     "location_description": "SIDEWALK", 
     "x_coordinate": "1147506", 
     "updated_on": {
-        "$date": 1375058559000
+        "$date": 1375836149000
     }, 
-    "fbi_code": "04B", 
+    "fbi_code": "08B", 
     "block": "043XX W MONROE ST"
 }
