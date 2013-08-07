@@ -1,33 +1,38 @@
 {
-    "community_area": "42", 
-    "_id": {
-        "$oid": "52011700733824919a297629"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0321", 
+    "y_coordinate": "1862039", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW394208", 
+    "id": "9248294", 
+    "primary_type": "THEFT", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "VACANT LOT/LAND", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.59200312488187, 
-            41.776250653177776
+            -87.59192996499543, 
+            41.77655479717419
         ]
     }, 
-    "case_number": "HW394208", 
+    "community_area": "42", 
+    "latitude": "41.77655479717419", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0321", 
     "date": {
         "$date": 1373533200000
     }, 
-    "updated_on": {
-        "$date": 1375749778000
-    }, 
     "ward": "20", 
+    "_id": {
+        "$oid": "52011700733824919a297629"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.59192996499543", 
+    "location_description": "VACANT LOT/LAND", 
+    "x_coordinate": "1186477", 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9248294", 
-    "block": "065XX S DORCHESTER AVE", 
-    "description": "FROM BUILDING"
+    "block": "065XX S DORCHESTER AVE"
 }
