@@ -1,0 +1,33 @@
+{
+    "community_area": "33", 
+    "_id": {
+        "$oid": "5202682d733824919a2977e1"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0131", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "CONSTRUCTION SITE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62424115742826, 
+            41.86489651092362
+        ]
+    }, 
+    "case_number": "HW395462", 
+    "date": {
+        "$date": 1375203600000
+    }, 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
+    "ward": "2", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9250040", 
+    "block": "013XX S MICHIGAN AVE", 
+    "description": "FROM BUILDING"
+}
