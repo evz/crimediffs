@@ -6,7 +6,7 @@
     "id": "9220662", 
     "primary_type": "CRIMINAL DAMAGE", 
     "district": "008", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "VEHICLE NON-COMMERCIAL", 
     "x_coordinate": "1157060", 
     "updated_on": {
-        "$date": 1375577007000
+        "$date": 1375836149000
     }, 
     "fbi_code": "14", 
     "block": "030XX W 63RD ST"
