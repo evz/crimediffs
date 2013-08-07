@@ -1,33 +1,38 @@
 {
-    "community_area": "26", 
-    "_id": {
-        "$oid": "520116df733824919a2975e9"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1115", 
+    "y_coordinate": "1899356", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2014", 
+    "case_number": "HW376607", 
+    "id": "9248363", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.73268020315776, 
-            41.87956542017322
+            -87.73274791335568, 
+            41.87978531424426
         ]
     }, 
-    "case_number": "HW376607", 
+    "community_area": "26", 
+    "latitude": "41.87978531424426", 
+    "type": "quality", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)", 
+    "beat": "1115", 
     "date": {
         "$date": 1374657120000
     }, 
-    "updated_on": {
-        "$date": 1375749778000
-    }, 
     "ward": "28", 
+    "_id": {
+        "$oid": "520116df733824919a2975e9"
+    }, 
+    "iucr": "2014", 
+    "longitude": "-87.73274791335568", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1147804", 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9248363", 
-    "block": "042XX W MONROE ST", 
-    "description": "MANU/DELIVER: HEROIN (WHITE)"
+    "block": "042XX W MONROE ST"
 }
