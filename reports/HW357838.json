@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "52011700733824919a297625"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1531", 
+    "y_coordinate": "1907346", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2014", 
+    "case_number": "HW357838", 
+    "id": "9248628", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "ALLEY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.75466361317724, 
-            41.9008638707741
+            -87.75468799990355, 
+            41.90182447775138
         ]
     }, 
-    "case_number": "HW357838", 
+    "community_area": "25", 
+    "latitude": "41.90182447775138", 
+    "type": "quality", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)", 
+    "beat": "1531", 
     "date": {
         "$date": 1373555782000
     }, 
-    "updated_on": {
-        "$date": 1375749778000
-    }, 
     "ward": "37", 
+    "_id": {
+        "$oid": "52011700733824919a297625"
+    }, 
+    "iucr": "2014", 
+    "longitude": "-87.75468799990355", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1141775", 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9248628", 
-    "block": "011XX N LEAMINGTON AVE", 
-    "description": "MANU/DELIVER: HEROIN (WHITE)"
+    "block": "011XX N LEAMINGTON AVE"
 }
