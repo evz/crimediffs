@@ -1,33 +1,38 @@
 {
-    "community_area": "35", 
-    "_id": {
-        "$oid": "520116de733824919a2975e5"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "0211", 
+    "y_coordinate": "1883097", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "031A", 
+    "case_number": "HW377406", 
+    "id": "9248980", 
+    "primary_type": "ROBBERY", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6219524847591, 
-            41.833230096112494
+            -87.62198208176872, 
+            41.834533804930764
         ]
     }, 
-    "case_number": "HW377406", 
+    "community_area": "35", 
+    "latitude": "41.834533804930764", 
+    "type": "violent", 
+    "description": "AGGRAVATED", 
+    "beat": "0211", 
     "date": {
         "$date": 1374687900000
     }, 
-    "updated_on": {
-        "$date": 1375749778000
-    }, 
     "ward": "3", 
+    "_id": {
+        "$oid": "520116de733824919a2975e5"
+    }, 
+    "iucr": "330", 
+    "longitude": "-87.62198208176872", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1178105", 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9248980", 
-    "block": "033XX S INDIANA AVE", 
-    "description": "ARMED: HANDGUN"
+    "block": "033XX S INDIANA AVE"
 }
