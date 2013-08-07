@@ -16,8 +16,8 @@
     }, 
     "community_area": "22", 
     "latitude": "41.91863246804398", 
-    "type": "violent", 
-    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "type": null, 
+    "description": "SIMPLE", 
     "beat": "1431", 
     "date": {
         "$date": 1374980280000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "520116d1733824919a2972c2"
     }, 
-    "iucr": "430", 
+    "iucr": "460", 
     "longitude": "-87.69012931767968", 
     "location_description": "SIDEWALK", 
     "x_coordinate": "1159304", 
     "updated_on": {
-        "$date": 1375144832000
+        "$date": 1375836149000
     }, 
-    "fbi_code": "04B", 
+    "fbi_code": "08B", 
     "block": "020XX N MILWAUKEE AVE"
 }
