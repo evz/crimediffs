@@ -1,0 +1,33 @@
+{
+    "community_area": "15", 
+    "_id": {
+        "$oid": "52026846733824919a297985"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1624", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76840281797178, 
+            41.9540523161599
+        ]
+    }, 
+    "case_number": "HW395628", 
+    "date": {
+        "$date": 1374609600000
+    }, 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
+    "ward": "38", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9250086", 
+    "block": "040XX N PARKSIDE AVE", 
+    "description": "OVER $500"
+}
