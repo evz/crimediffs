@@ -1,33 +1,38 @@
 {
-    "community_area": "2", 
-    "_id": {
-        "$oid": "520116d9733824919a2975d1"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "2411", 
+    "y_coordinate": "1949313", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2825", 
+    "case_number": "HW394622", 
+    "id": "9248900", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "024", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69079442826191, 
-            42.01669213408786
+            -87.69227777450477, 
+            42.01665926526935
         ]
     }, 
-    "case_number": "HW394622", 
+    "community_area": "2", 
+    "latitude": "42.01665926526935", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "2411", 
     "date": {
         "$date": 1374876000000
     }, 
-    "updated_on": {
-        "$date": 1375749778000
-    }, 
     "ward": "50", 
+    "_id": {
+        "$oid": "520116d9733824919a2975d1"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.69227777450477", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1158452", 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9248900", 
-    "block": "024XX W FARGO AVE", 
-    "description": "HARASSMENT BY TELEPHONE"
+    "block": "024XX W FARGO AVE"
 }
