@@ -1,33 +1,38 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "520116df733824919a2975ea"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2233", 
+    "y_coordinate": "1832343", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "840", 
+    "case_number": "HW394650", 
+    "id": "9249244", 
+    "primary_type": "THEFT", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6389619849167, 
-            41.694700464390316
+            -87.63898425066738, 
+            41.69535374968575
         ]
     }, 
-    "case_number": "HW394650", 
+    "community_area": "49", 
+    "latitude": "41.69535374968575", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "2233", 
     "date": {
         "$date": 1374656400000
     }, 
-    "updated_on": {
-        "$date": 1375749778000
-    }, 
     "ward": "34", 
+    "_id": {
+        "$oid": "520116df733824919a2975ea"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.63898425066738", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1173881", 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9249244", 
-    "block": "109XX S LOWE AVE", 
-    "description": "FINANCIAL ID THEFT: OVER $300"
+    "block": "109XX S LOWE AVE"
 }
