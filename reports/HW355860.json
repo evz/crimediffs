@@ -6,7 +6,7 @@
     "id": "9209914", 
     "primary_type": "ROBBERY", 
     "district": "006", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "SIDEWALK", 
     "x_coordinate": "1180515", 
     "updated_on": {
-        "$date": 1374626441000
+        "$date": 1375836149000
     }, 
     "fbi_code": "03", 
     "block": "004XX E 79TH ST"
