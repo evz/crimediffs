@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "5202685d733824919a297993"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2533", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "ABANDONED BUILDING", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75573222550517, 
+            41.906604710672646
+        ]
+    }, 
+    "case_number": "HW360583", 
+    "date": {
+        "$date": 1373655600000
+    }, 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
+    "ward": "37", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9249933", 
+    "block": "014XX N LARAMIE AVE", 
+    "description": "FROM BUILDING"
+}
