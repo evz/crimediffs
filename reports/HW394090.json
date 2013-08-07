@@ -1,33 +1,38 @@
 {
-    "community_area": "48", 
-    "_id": {
-        "$oid": "520116e1733824919a2975f2"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "0423", 
+    "y_coordinate": "1843371", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW394090", 
+    "id": "9248237", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.56095874348163, 
-            41.72606696014571
+            -87.560929789977, 
+            41.725119978242354
         ]
     }, 
-    "case_number": "HW394090", 
+    "community_area": "48", 
+    "latitude": "41.725119978242354", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0423", 
     "date": {
         "$date": 1374580800000
     }, 
-    "updated_on": {
-        "$date": 1375749778000
-    }, 
     "ward": "7", 
+    "_id": {
+        "$oid": "520116e1733824919a2975f2"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.560929789977", 
+    "location_description": "STREET", 
+    "x_coordinate": "1195101", 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9248237", 
-    "block": "093XX S COLFAX AVE", 
-    "description": "AUTOMOBILE"
+    "block": "093XX S COLFAX AVE"
 }
