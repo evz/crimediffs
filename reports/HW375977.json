@@ -1,33 +1,38 @@
 {
-    "community_area": "35", 
-    "_id": {
-        "$oid": "520116e1733824919a2975ef"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "0212", 
+    "y_coordinate": "1881751", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2024", 
+    "case_number": "HW375977", 
+    "id": "9248138", 
+    "primary_type": "NARCOTICS", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6145987793669, 
-            41.82964146962977
+            -87.61432905600826, 
+            41.830792373029105
         ]
     }, 
-    "case_number": "HW375977", 
+    "community_area": "35", 
+    "latitude": "41.830792373029105", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "0212", 
     "date": {
         "$date": 1374601800000
     }, 
-    "updated_on": {
-        "$date": 1375749778000
-    }, 
     "ward": "4", 
+    "_id": {
+        "$oid": "520116e1733824919a2975ef"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.61432905600826", 
+    "location_description": "STREET", 
+    "x_coordinate": "1180202", 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9248138", 
-    "block": "035XX S RHODES AVE", 
-    "description": "POSS: HEROIN(WHITE)"
+    "block": "035XX S RHODES AVE"
 }
