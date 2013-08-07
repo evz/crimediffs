@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "520116b0733824919a296cba"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1531", 
+    "y_coordinate": "1905961", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "840", 
+    "case_number": "HW394541", 
+    "id": "9248817", 
+    "primary_type": "THEFT", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.75307266067082, 
-            41.897664290090994
+            -87.75337066329212, 
+            41.898017058479326
         ]
     }, 
-    "case_number": "HW394541", 
+    "community_area": "25", 
+    "latitude": "41.898017058479326", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "1531", 
     "date": {
         "$date": 1375142400000
     }, 
-    "updated_on": {
-        "$date": 1375749778000
-    }, 
     "ward": "37", 
+    "_id": {
+        "$oid": "520116b0733824919a296cba"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.75337066329212", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1142143", 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9248817", 
-    "block": "009XX N LECLAIRE AVE", 
-    "description": "FINANCIAL ID THEFT: OVER $300"
+    "block": "009XX N LECLAIRE AVE"
 }
