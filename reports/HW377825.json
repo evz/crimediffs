@@ -6,7 +6,7 @@
     "id": "9231639", 
     "primary_type": "CRIM SEXUAL ASSAULT", 
     "district": "025", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "RESIDENCE-GARAGE", 
     "x_coordinate": "1141265", 
     "updated_on": {
-        "$date": 1375749778000
+        "$date": 1375836149000
     }, 
     "fbi_code": "02", 
     "block": "024XX N LARAMIE AVE"
