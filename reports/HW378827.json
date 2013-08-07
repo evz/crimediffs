@@ -6,7 +6,7 @@
     "id": "9232588", 
     "primary_type": "CRIMINAL DAMAGE", 
     "district": "025", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "VEHICLE NON-COMMERCIAL", 
     "x_coordinate": "1137212", 
     "updated_on": {
-        "$date": 1374885634000
+        "$date": 1375836149000
     }, 
     "fbi_code": "14", 
     "block": "058XX W NORTH AVE"
