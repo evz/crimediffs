@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "5202683d733824919a297977"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "0511", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61908331602224, 
+            41.718547561757006
+        ]
+    }, 
+    "case_number": "HW396350", 
+    "date": {
+        "$date": 1374848400000
+    }, 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
+    "ward": "6", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9250837", 
+    "block": "096XX S INDIANA AVE", 
+    "description": "SIMPLE"
+}
