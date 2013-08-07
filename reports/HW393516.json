@@ -1,0 +1,33 @@
+{
+    "community_area": "66", 
+    "_id": {
+        "$oid": "52026823733824919a29765d"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0831", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68822404618145, 
+            41.77342832832256
+        ]
+    }, 
+    "case_number": "HW393516", 
+    "date": {
+        "$date": 1375234200000
+    }, 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
+    "ward": "15", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9249844", 
+    "block": "066XX S ROCKWELL ST", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
