@@ -1,0 +1,33 @@
+{
+    "community_area": "66", 
+    "_id": {
+        "$oid": "5202683d733824919a29797a"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "0825", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1821", 
+    "arrest": false, 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69018955165708, 
+            41.77557715528902
+        ]
+    }, 
+    "case_number": "HW379874", 
+    "date": {
+        "$date": 1374839400000
+    }, 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
+    "ward": "15", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9249698", 
+    "block": "026XX W 65TH ST", 
+    "description": "MANU/DEL:CANNABIS 10GM OR LESS"
+}
