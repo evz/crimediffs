@@ -1,33 +1,38 @@
 {
-    "community_area": "68", 
-    "_id": {
-        "$oid": "520116e2733824919a2975f6"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0712", 
+    "y_coordinate": "1864610", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW394889", 
+    "id": "9249096", 
+    "primary_type": "THEFT", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64868264958774, 
-            41.7837622717081
+            -87.64868418482135, 
+            41.78396261400025
         ]
     }, 
-    "case_number": "HW394889", 
+    "community_area": "68", 
+    "latitude": "41.78396261400025", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0712", 
     "date": {
         "$date": 1374537600000
     }, 
-    "updated_on": {
-        "$date": 1375749778000
-    }, 
     "ward": "16", 
+    "_id": {
+        "$oid": "520116e2733824919a2975f6"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.64868418482135", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1170975", 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9249096", 
-    "block": "060XX S SANGAMON ST", 
-    "description": "FROM BUILDING"
+    "block": "060XX S SANGAMON ST"
 }
