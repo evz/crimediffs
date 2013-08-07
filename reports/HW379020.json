@@ -6,7 +6,7 @@
     "id": "9232859", 
     "primary_type": "THEFT", 
     "district": "025", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "STREET", 
     "x_coordinate": "1149785", 
     "updated_on": {
-        "$date": 1374885634000
+        "$date": 1375836149000
     }, 
     "fbi_code": "06", 
     "block": "018XX N HARDING AVE"
