@@ -1,33 +1,38 @@
 {
-    "community_area": "35", 
-    "_id": {
-        "$oid": "520116db733824919a2975db"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0211", 
+    "y_coordinate": "1884456", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW380468", 
+    "id": "9248974", 
+    "primary_type": "BURGLARY", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "RESTAURANT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62108207324479, 
-            41.8382631693524
+            -87.62147476429962, 
+            41.8382601153049
         ]
     }, 
-    "case_number": "HW380468", 
+    "community_area": "35", 
+    "latitude": "41.8382601153049", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0211", 
     "date": {
         "$date": 1374795000000
     }, 
-    "updated_on": {
-        "$date": 1375749778000
-    }, 
     "ward": "3", 
+    "_id": {
+        "$oid": "520116db733824919a2975db"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.62147476429962", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1178232", 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9248974", 
-    "block": "002XX E 31ST ST", 
-    "description": "FORCIBLE ENTRY"
+    "block": "002XX E 31ST ST"
 }
