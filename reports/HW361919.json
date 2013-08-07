@@ -1,33 +1,38 @@
 {
-    "community_area": "32", 
-    "_id": {
-        "$oid": "520116fa733824919a29761c"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0111", 
+    "y_coordinate": "1902100", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW361919", 
+    "id": "9248944", 
+    "primary_type": "THEFT", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "HOTEL/MOTEL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62549109816709, 
-            41.88670175709019
+            -87.62501000770399, 
+            41.88670153492801
         ]
     }, 
-    "case_number": "HW361919", 
+    "community_area": "32", 
+    "latitude": "41.88670153492801", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0111", 
     "date": {
         "$date": 1373763600000
     }, 
-    "updated_on": {
-        "$date": 1375749778000
-    }, 
     "ward": "42", 
+    "_id": {
+        "$oid": "520116fa733824919a29761c"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.62501000770399", 
+    "location_description": "HOTEL/MOTEL", 
+    "x_coordinate": "1177123", 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9248944", 
-    "block": "0000X E WACKER PL", 
-    "description": "FROM BUILDING"
+    "block": "0000X E WACKER PL"
 }
