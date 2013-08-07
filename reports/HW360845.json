@@ -1,0 +1,33 @@
+{
+    "community_area": "71", 
+    "_id": {
+        "$oid": "5202685c733824919a297992"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0614", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66099345949607, 
+            41.74388895080906
+        ]
+    }, 
+    "case_number": "HW360845", 
+    "date": {
+        "$date": 1373677200000
+    }, 
+    "updated_on": {
+        "$date": 1375836149000
+    }, 
+    "ward": "21", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9250185", 
+    "block": "082XX S LAFLIN ST", 
+    "description": "TO VEHICLE"
+}
