@@ -1,33 +1,38 @@
 {
-    "community_area": "26", 
-    "_id": {
-        "$oid": "5202682f733824919a297828"
-    }, 
-    "primary_type": "WEAPONS VIOLATION", 
-    "beat": "1122", 
+    "y_coordinate": "1900900", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "143A", 
+    "case_number": "HW385839", 
+    "id": "9250285", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72171911381848, 
-            41.88418376551603
+            -87.72189012547366, 
+            41.88396513643533
         ]
     }, 
-    "case_number": "HW385839", 
+    "community_area": "26", 
+    "latitude": "41.88396513643533", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "1122", 
     "date": {
         "$date": 1375197380000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "28", 
+    "_id": {
+        "$oid": "5202682f733824919a297828"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.72189012547366", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1150750", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "15", 
-    "type": null, 
-    "id": "9250285", 
-    "block": "038XX W MAYPOLE AVE", 
-    "description": "UNLAWFUL POSS OF HANDGUN"
+    "block": "038XX W MAYPOLE AVE"
 }
