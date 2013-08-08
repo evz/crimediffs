@@ -1,33 +1,38 @@
 {
-    "community_area": "71", 
-    "_id": {
-        "$oid": "5202685c733824919a297992"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "0614", 
+    "y_coordinate": "1850295", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1320", 
+    "case_number": "HW360845", 
+    "id": "9250185", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66099345949607, 
-            41.74388895080906
+            -87.66072065168852, 
+            41.74474906719214
         ]
     }, 
-    "case_number": "HW360845", 
+    "community_area": "71", 
+    "latitude": "41.74474906719214", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0614", 
     "date": {
         "$date": 1373677200000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "21", 
+    "_id": {
+        "$oid": "5202685c733824919a297992"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.66072065168852", 
+    "location_description": "STREET", 
+    "x_coordinate": "1167804", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9250185", 
-    "block": "082XX S LAFLIN ST", 
-    "description": "TO VEHICLE"
+    "block": "082XX S LAFLIN ST"
 }
