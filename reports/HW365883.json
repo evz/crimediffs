@@ -6,7 +6,7 @@
     "id": "9219236", 
     "primary_type": "BATTERY", 
     "district": "003", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "RESIDENCE PORCH/HALLWAY", 
     "x_coordinate": "1180563", 
     "updated_on": {
-        "$date": 1375490414000
+        "$date": 1375922568000
     }, 
     "fbi_code": "04B", 
     "block": "073XX S VERNON AVE"
