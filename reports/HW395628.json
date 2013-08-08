@@ -1,33 +1,38 @@
 {
-    "community_area": "15", 
-    "_id": {
-        "$oid": "52026846733824919a297985"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1624", 
+    "y_coordinate": "1926096", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW395628", 
+    "id": "9250086", 
+    "primary_type": "THEFT", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.76840281797178, 
-            41.9540523161599
+            -87.76837963662014, 
+            41.95334693855315
         ]
     }, 
-    "case_number": "HW395628", 
+    "community_area": "15", 
+    "latitude": "41.95334693855315", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1624", 
     "date": {
         "$date": 1374609600000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "38", 
+    "_id": {
+        "$oid": "52026846733824919a297985"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.76837963662014", 
+    "location_description": "STREET", 
+    "x_coordinate": "1137924", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9250086", 
-    "block": "040XX N PARKSIDE AVE", 
-    "description": "OVER $500"
+    "block": "040XX N PARKSIDE AVE"
 }
