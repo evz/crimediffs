@@ -1,0 +1,33 @@
+{
+    "community_area": "66", 
+    "_id": {
+        "$oid": "5203b9ea733824919a297ce0"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "0824", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "2825", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6964055483142, 
+            41.78464600215335
+        ]
+    }, 
+    "case_number": "HW396506", 
+    "date": {
+        "$date": 1374721200000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "16", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9251145", 
+    "block": "029XX W 60TH ST", 
+    "description": "HARASSMENT BY TELEPHONE"
+}
