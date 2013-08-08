@@ -6,7 +6,7 @@
     "id": "9236484", 
     "primary_type": "BATTERY", 
     "district": "024", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "APARTMENT", 
     "x_coordinate": "1162003", 
     "updated_on": {
-        "$date": 1375836149000
+        "$date": 1375922568000
     }, 
     "fbi_code": "04B", 
     "block": "074XX N WINCHESTER AVE"
