@@ -1,0 +1,33 @@
+{
+    "community_area": "30", 
+    "_id": {
+        "$oid": "5203b9ef733824919a297ce4"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1032", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "ABANDONED BUILDING", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70762080811573, 
+            41.8442969040348
+        ]
+    }, 
+    "case_number": "HW395791", 
+    "date": {
+        "$date": 1374577200000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "22", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9251670", 
+    "block": "026XX S SPAULDING AVE", 
+    "description": "FORCIBLE ENTRY"
+}
