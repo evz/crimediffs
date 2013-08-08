@@ -6,7 +6,7 @@
     "id": "9223686", 
     "primary_type": "BATTERY", 
     "district": "006", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "RESIDENCE", 
     "x_coordinate": "1170849", 
     "updated_on": {
-        "$date": 1374453626000
+        "$date": 1375922568000
     }, 
     "fbi_code": "08B", 
     "block": "085XX S CARPENTER ST"
