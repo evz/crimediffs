@@ -1,33 +1,38 @@
 {
-    "community_area": "22", 
-    "_id": {
-        "$oid": "52026850733824919a297989"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "1411", 
+    "y_coordinate": "1917847", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW395795", 
+    "id": "9250612", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70600265938535, 
-            41.93022408539201
+            -87.70629873021943, 
+            41.93038761183478
         ]
     }, 
-    "case_number": "HW395795", 
+    "community_area": "22", 
+    "latitude": "41.93038761183478", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1411", 
     "date": {
         "$date": 1374224400000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "35", 
+    "_id": {
+        "$oid": "52026850733824919a297989"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.70629873021943", 
+    "location_description": "STREET", 
+    "x_coordinate": "1154872", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9250612", 
-    "block": "027XX N TROY ST", 
-    "description": "AUTOMOBILE"
+    "block": "027XX N TROY ST"
 }
