@@ -1,33 +1,38 @@
 {
-    "community_area": "29", 
-    "_id": {
-        "$oid": "5202683c733824919a297972"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "1022", 
+    "y_coordinate": "1891539", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1110", 
+    "case_number": "HW395892", 
+    "id": "9250553", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "010", 
     "arrest": false, 
-    "location_description": "CURRENCY EXCHANGE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70313947039749, 
-            41.8589020583936
+            -87.70519482822985, 
+            41.85818608966954
         ]
     }, 
-    "case_number": "HW395892", 
+    "community_area": "29", 
+    "latitude": "41.85818608966954", 
+    "type": null, 
+    "description": "BOGUS CHECK", 
+    "beat": "1022", 
     "date": {
         "$date": 1374875220000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "24", 
+    "_id": {
+        "$oid": "5202683c733824919a297972"
+    }, 
+    "iucr": "1110", 
+    "longitude": "-87.70519482822985", 
+    "location_description": "CURRENCY EXCHANGE", 
+    "x_coordinate": "1155365", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9250553", 
-    "block": "031XX W OGDEN AVE", 
-    "description": "BOGUS CHECK"
+    "block": "031XX W OGDEN AVE"
 }
