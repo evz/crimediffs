@@ -1,33 +1,38 @@
 {
-    "community_area": "40", 
-    "_id": {
-        "$oid": "5202683d733824919a297978"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0232", 
+    "y_coordinate": "1867191", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "5011", 
+    "case_number": "HW380057", 
+    "id": "9250573", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "TAVERN/LIQUOR STORE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62575399396995, 
-            41.790901185031686
+            -87.62545692745086, 
+            41.79090484346632
         ]
     }, 
-    "case_number": "HW380057", 
+    "community_area": "40", 
+    "latitude": "41.79090484346632", 
+    "type": null, 
+    "description": "LICENSE VIOLATION", 
+    "beat": "0232", 
     "date": {
         "$date": 1374846000000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "20", 
+    "_id": {
+        "$oid": "5202683d733824919a297978"
+    }, 
+    "iucr": "5011", 
+    "longitude": "-87.62545692745086", 
+    "location_description": "TAVERN/LIQUOR STORE", 
+    "x_coordinate": "1177289", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9250573", 
-    "block": "057XX S STATE ST", 
-    "description": "LICENSE VIOLATION"
+    "block": "057XX S STATE ST"
 }
