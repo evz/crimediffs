@@ -1,15 +1,12 @@
 {
-    "community_area": "75", 
-    "_id": {
-        "$oid": "5202685e733824919a297994"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2212", 
+    "y_coordinate": "1830653", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW395616", 
+    "id": "9250047", 
+    "primary_type": "THEFT", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "SCHOOL, PUBLIC, BUILDING", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.69088489150348
         ]
     }, 
-    "case_number": "HW395616", 
+    "community_area": "75", 
+    "latitude": "41.69088489150348", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "2212", 
     "date": {
         "$date": 1373637600000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "19", 
+    "_id": {
+        "$oid": "5202685e733824919a297994"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.66755389123261", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1166091", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9250047", 
-    "block": "018XX W MONTEREY AVE", 
-    "description": "FROM BUILDING"
+    "block": "018XX W MONTEREY AVE"
 }
