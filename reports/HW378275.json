@@ -4,7 +4,7 @@
     "domestic": false, 
     "case_number": "HW378275", 
     "id": "9232097", 
-    "primary_type": "THEFT", 
+    "primary_type": "BURGLARY", 
     "district": "016", 
     "arrest": false, 
     "location": {
@@ -17,7 +17,7 @@
     "community_area": "11", 
     "latitude": "41.98187826476702", 
     "type": "property", 
-    "description": "OVER $500", 
+    "description": "UNLAWFUL ENTRY", 
     "beat": "1623", 
     "date": {
         "$date": 1374364860000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "51fde754733824919a293f32"
     }, 
-    "iucr": "810", 
+    "iucr": "620", 
     "longitude": "-87.76333881198752", 
     "location_description": "RESIDENCE-GARAGE", 
     "x_coordinate": "1139226", 
     "updated_on": {
-        "$date": 1375836149000
+        "$date": 1375922568000
     }, 
-    "fbi_code": "06", 
+    "fbi_code": "05", 
     "block": "055XX N LONG AVE"
 }
