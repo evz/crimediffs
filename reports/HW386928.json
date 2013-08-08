@@ -1,15 +1,12 @@
 {
-    "community_area": "8", 
-    "_id": {
-        "$oid": "5202682c733824919a2977c0"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1833", 
+    "y_coordinate": "1906688", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "860", 
+    "case_number": "HW386928", 
+    "id": "9250322", 
+    "primary_type": "THEFT", 
+    "district": "018", 
     "arrest": false, 
-    "location_description": "SMALL RETAIL STORE", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.89928756136712
         ]
     }, 
-    "case_number": "HW386928", 
+    "community_area": "8", 
+    "latitude": "41.89928756136712", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "1833", 
     "date": {
         "$date": 1375206300000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "42", 
+    "_id": {
+        "$oid": "5202682c733824919a2977c0"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.624275876384", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1177285", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9250322", 
-    "block": "009XX N MICHIGAN AVE", 
-    "description": "RETAIL THEFT"
+    "block": "009XX N MICHIGAN AVE"
 }
