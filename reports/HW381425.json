@@ -1,33 +1,38 @@
 {
-    "community_area": "71", 
-    "_id": {
-        "$oid": "5202683a733824919a29796d"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "2221", 
+    "y_coordinate": "1846020", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1821", 
+    "case_number": "HW381425", 
+    "id": "9250415", 
+    "primary_type": "NARCOTICS", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6616370330113, 
-            41.73346981860672
+            -87.66161971236777, 
+            41.73302239410795
         ]
     }, 
-    "case_number": "HW381425", 
+    "community_area": "71", 
+    "latitude": "41.73302239410795", 
+    "type": "quality", 
+    "description": "MANU/DEL:CANNABIS 10GM OR LESS", 
+    "beat": "2221", 
     "date": {
         "$date": 1374927000000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "21", 
+    "_id": {
+        "$oid": "5202683a733824919a29796d"
+    }, 
+    "iucr": "1821", 
+    "longitude": "-87.66161971236777", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1167592", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9250415", 
-    "block": "088XX S JUSTINE ST", 
-    "description": "MANU/DEL:CANNABIS 10GM OR LESS"
+    "block": "088XX S JUSTINE ST"
 }
