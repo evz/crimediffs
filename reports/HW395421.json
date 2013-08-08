@@ -1,33 +1,38 @@
 {
-    "community_area": "19", 
-    "_id": {
-        "$oid": "5202682a733824919a29775a"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "2515", 
+    "y_coordinate": "1914428", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "485", 
+    "case_number": "HW395421", 
+    "id": "9249733", 
+    "primary_type": "BATTERY", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "SCHOOL, PUBLIC, GROUNDS", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.76574479219792, 
-            41.92131159600885
+            -87.76574476787883, 
+            41.921314340119984
         ]
     }, 
-    "case_number": "HW395421", 
+    "community_area": "19", 
+    "latitude": "41.921314340119984", 
+    "type": "violent", 
+    "description": "AGGRAVATED OF A CHILD", 
+    "beat": "2515", 
     "date": {
         "$date": 1375212600000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "37", 
+    "_id": {
+        "$oid": "5202682a733824919a29775a"
+    }, 
+    "iucr": "485", 
+    "longitude": "-87.76574476787883", 
+    "location_description": "SCHOOL, PUBLIC, GROUNDS", 
+    "x_coordinate": "1138718", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "04B", 
-    "type": "violent", 
-    "id": "9249733", 
-    "block": "022XX N CENTRAL AVE", 
-    "description": "AGGRAVATED OF A CHILD"
+    "block": "022XX N CENTRAL AVE"
 }
