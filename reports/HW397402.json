@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "5203b9df733824919a297cc6"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0334", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56906011790635, 
+            41.7642257685444
+        ]
+    }, 
+    "case_number": "HW397402", 
+    "date": {
+        "$date": 1375183740000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "5", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9252314", 
+    "block": "072XX S CRANDON AVE", 
+    "description": "TO PROPERTY"
+}
