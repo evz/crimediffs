@@ -1,0 +1,33 @@
+{
+    "community_area": "10", 
+    "_id": {
+        "$oid": "5203b9e6733824919a297cd8"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1611", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.80598477807149, 
+            41.99789417121177
+        ]
+    }, 
+    "case_number": "HW395624", 
+    "date": {
+        "$date": 1374908400000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "41", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9252273", 
+    "block": "071XX W DEVON AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
