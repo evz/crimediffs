@@ -1,33 +1,38 @@
 {
-    "community_area": "9", 
-    "_id": {
-        "$oid": "52026837733824919a29796a"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "1611", 
+    "y_coordinate": "1946372", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1150", 
+    "case_number": "HW396307", 
+    "id": "9250924", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.81627556742724, 
-            42.008676275067266
+            -87.81626753246631, 
+            42.00921410053801
         ]
     }, 
-    "case_number": "HW396307", 
+    "community_area": "9", 
+    "latitude": "42.00921410053801", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "1611", 
     "date": {
         "$date": 1375099200000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "41", 
+    "_id": {
+        "$oid": "52026837733824919a29796a"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.81626753246631", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1124775", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9250924", 
-    "block": "070XX N ORIOLE AVE", 
-    "description": "CREDIT CARD FRAUD"
+    "block": "070XX N ORIOLE AVE"
 }
