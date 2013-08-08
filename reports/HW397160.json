@@ -1,0 +1,33 @@
+{
+    "community_area": "46", 
+    "_id": {
+        "$oid": "5203b9ff733824919a297cf1"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0412", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.567167343116, 
+            41.740922298406836
+        ]
+    }, 
+    "case_number": "HW397160", 
+    "date": {
+        "$date": 1373896800000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "8", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9251976", 
+    "block": "023XX E 85TH ST", 
+    "description": "FROM BUILDING"
+}
