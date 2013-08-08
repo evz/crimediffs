@@ -6,7 +6,7 @@
     "id": "9229793", 
     "primary_type": "BATTERY", 
     "district": "019", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "SIDEWALK", 
     "x_coordinate": "1161682", 
     "updated_on": {
-        "$date": 1374799275000
+        "$date": 1375922568000
     }, 
     "fbi_code": "08B", 
     "block": "041XX N LINCOLN AVE"
