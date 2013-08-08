@@ -1,33 +1,38 @@
 {
-    "community_area": "27", 
-    "_id": {
-        "$oid": "52026838733824919a29796b"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1134", 
+    "y_coordinate": "1897042", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW395636", 
+    "id": "9250065", 
+    "primary_type": "THEFT", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "GOVERNMENT BUILDING/PROPERTY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70576170406173, 
-            41.873417056194384
+            -87.70604931647652, 
+            41.87329239197599
         ]
     }, 
-    "case_number": "HW395636", 
+    "community_area": "27", 
+    "latitude": "41.87329239197599", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1134", 
     "date": {
         "$date": 1375038000000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "24", 
+    "_id": {
+        "$oid": "52026838733824919a29796b"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.70604931647652", 
+    "location_description": "GOVERNMENT BUILDING/PROPERTY", 
+    "x_coordinate": "1155092", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9250065", 
-    "block": "006XX S KEDZIE AVE", 
-    "description": "OVER $500"
+    "block": "006XX S KEDZIE AVE"
 }
