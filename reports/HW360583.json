@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "5202685d733824919a297993"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2533", 
+    "y_coordinate": "1909396", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW360583", 
+    "id": "9249933", 
+    "primary_type": "THEFT", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "ABANDONED BUILDING", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.75573222550517, 
-            41.906604710672646
+            -87.7557502718762, 
+            41.90745551510502
         ]
     }, 
-    "case_number": "HW360583", 
+    "community_area": "25", 
+    "latitude": "41.90745551510502", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "2533", 
     "date": {
         "$date": 1373655600000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "37", 
+    "_id": {
+        "$oid": "5202685d733824919a297993"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.7557502718762", 
+    "location_description": "ABANDONED BUILDING", 
+    "x_coordinate": "1141472", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9249933", 
-    "block": "014XX N LARAMIE AVE", 
-    "description": "FROM BUILDING"
+    "block": "014XX N LARAMIE AVE"
 }
