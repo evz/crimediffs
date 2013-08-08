@@ -1,33 +1,38 @@
 {
-    "community_area": "19", 
-    "_id": {
-        "$oid": "51fde74e733824919a293a4c"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "2511", 
+    "y_coordinate": "1918012", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "051A", 
+    "case_number": "HW374886", 
+    "id": "9229878", 
+    "primary_type": "ASSAULT", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.78036472582812, 
-            41.93118532175185
+            -87.77851962986982, 
+            41.931212095995505
         ]
     }, 
-    "case_number": "HW374886", 
+    "community_area": "19", 
+    "latitude": "41.931212095995505", 
+    "type": "violent", 
+    "description": "AGGRAVATED: HANDGUN", 
+    "beat": "2511", 
     "date": {
         "$date": 1374493500000
     }, 
-    "updated_on": {
-        "$date": 1374799275000
-    }, 
     "ward": "29", 
+    "_id": {
+        "$oid": "51fde74e733824919a293a4c"
+    }, 
+    "iucr": "051A", 
+    "longitude": "-87.77851962986982", 
+    "location_description": "STREET", 
+    "x_coordinate": "1135218", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "04A", 
-    "type": "violent", 
-    "id": "9229878", 
-    "block": "061XX W DIVERSEY AVE", 
-    "description": "AGGRAVATED: HANDGUN"
+    "block": "061XX W DIVERSEY AVE"
 }
