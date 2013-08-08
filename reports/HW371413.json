@@ -6,7 +6,7 @@
     "id": "9224838", 
     "primary_type": "MOTOR VEHICLE THEFT", 
     "district": "011", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
     "x_coordinate": "1152038", 
     "updated_on": {
-        "$date": 1375836149000
+        "$date": 1375922568000
     }, 
     "fbi_code": "07", 
     "block": "036XX W POLK ST"
