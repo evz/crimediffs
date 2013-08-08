@@ -1,33 +1,38 @@
 {
-    "community_area": "32", 
-    "_id": {
-        "$oid": "52026837733824919a297969"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0114", 
+    "y_coordinate": "1902041", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1152", 
+    "case_number": "HW395361", 
+    "id": "9249655", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "RESTAURANT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62438205781497, 
-            41.88636560697504
+            -87.62438384902434, 
+            41.88653576088694
         ]
     }, 
-    "case_number": "HW395361", 
+    "community_area": "32", 
+    "latitude": "41.88653576088694", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "0114", 
     "date": {
         "$date": 1375099740000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "42", 
+    "_id": {
+        "$oid": "52026837733824919a297969"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.62438384902434", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1177294", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9249655", 
-    "block": "002XX N MICHIGAN AVE", 
-    "description": "ILLEGAL USE CASH CARD"
+    "block": "002XX N MICHIGAN AVE"
 }
