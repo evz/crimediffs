@@ -1,0 +1,33 @@
+{
+    "community_area": "71", 
+    "_id": {
+        "$oid": "5203b9e3733824919a297cd5"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "0611", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67103401746616, 
+            41.75669182633169
+        ]
+    }, 
+    "case_number": "HW397569", 
+    "date": {
+        "$date": 1375002000000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "18", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9252529", 
+    "block": "075XX S WOLCOTT AVE", 
+    "description": "SIMPLE"
+}
