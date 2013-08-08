@@ -1,33 +1,38 @@
 {
-    "community_area": "44", 
-    "_id": {
-        "$oid": "52026860733824919a297995"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "0623", 
+    "y_coordinate": "1851405", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "1310", 
+    "case_number": "HW362034", 
+    "id": "9250737", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63194820044727, 
-            41.747765915803626
+            -87.63164928237822, 
+            41.74762138679073
         ]
     }, 
-    "case_number": "HW362034", 
+    "community_area": "44", 
+    "latitude": "41.74762138679073", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0623", 
     "date": {
         "$date": 1373544000000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "17", 
+    "_id": {
+        "$oid": "52026860733824919a297995"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.63164928237822", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1175729", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9250737", 
-    "block": "080XX S PRINCETON AVE", 
-    "description": "TO PROPERTY"
+    "block": "080XX S PRINCETON AVE"
 }
