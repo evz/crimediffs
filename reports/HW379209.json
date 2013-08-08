@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "52026840733824919a297980"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1531", 
+    "y_coordinate": "1904878", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1821", 
+    "case_number": "HW379209", 
+    "id": "9249784", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.7533681, 
-            41.8950764
+            -87.75520088909882, 
+            41.89505427266037
         ]
     }, 
-    "case_number": "HW379209", 
+    "community_area": "25", 
+    "latitude": "41.89505427266037", 
+    "type": "quality", 
+    "description": "MANU/DEL:CANNABIS 10GM OR LESS", 
+    "beat": "1531", 
     "date": {
         "$date": 1374780720000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "37", 
+    "_id": {
+        "$oid": "52026840733824919a297980"
+    }, 
+    "iucr": "1821", 
+    "longitude": "-87.75520088909882", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1141652", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9249784", 
-    "block": "051XX W CHICAGO AVE", 
-    "description": "MANU/DEL:CANNABIS 10GM OR LESS"
+    "block": "051XX W CHICAGO AVE"
 }
