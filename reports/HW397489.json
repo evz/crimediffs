@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "5203b9cf733824919a297a08"
+    }, 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "beat": "0632", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1110", 
+    "arrest": false, 
+    "location_description": "ATM (AUTOMATIC TELLER MACHINE)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60496835032346, 
+            41.73655496148698
+        ]
+    }, 
+    "case_number": "HW397489", 
+    "date": {
+        "$date": 1375315200000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "6", 
+    "fbi_code": "11", 
+    "type": null, 
+    "id": "9252444", 
+    "block": "087XX S COTTAGE GROVE AVE", 
+    "description": "BOGUS CHECK"
+}
