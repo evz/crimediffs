@@ -1,33 +1,38 @@
 {
-    "community_area": "33", 
-    "_id": {
-        "$oid": "5202682d733824919a2977e1"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0131", 
+    "y_coordinate": "1894069", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW395462", 
+    "id": "9250040", 
+    "primary_type": "THEFT", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "CONSTRUCTION SITE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62424115742826, 
-            41.86489651092362
+            -87.62423278254305, 
+            41.864657709481634
         ]
     }, 
-    "case_number": "HW395462", 
+    "community_area": "33", 
+    "latitude": "41.864657709481634", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0131", 
     "date": {
         "$date": 1375203600000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "5202682d733824919a2977e1"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.62423278254305", 
+    "location_description": "CONSTRUCTION SITE", 
+    "x_coordinate": "1177401", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9250040", 
-    "block": "013XX S MICHIGAN AVE", 
-    "description": "FROM BUILDING"
+    "block": "013XX S MICHIGAN AVE"
 }
