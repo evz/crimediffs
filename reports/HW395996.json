@@ -1,33 +1,38 @@
 {
-    "community_area": "5", 
-    "_id": {
-        "$oid": "52026840733824919a297981"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "1931", 
+    "y_coordinate": "1921143", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1320", 
+    "case_number": "HW395996", 
+    "id": "9250787", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.68986766352441, 
-            41.93955296181571
+            -87.6890759268357, 
+            41.939337217095606
         ]
     }, 
-    "case_number": "HW395996", 
+    "community_area": "5", 
+    "latitude": "41.939337217095606", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1931", 
     "date": {
         "$date": 1374778800000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "1", 
+    "_id": {
+        "$oid": "52026840733824919a297981"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.6890759268357", 
+    "location_description": "STREET", 
+    "x_coordinate": "1159534", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9250787", 
-    "block": "024XX W BELMONT AVE", 
-    "description": "TO VEHICLE"
+    "block": "024XX W BELMONT AVE"
 }
