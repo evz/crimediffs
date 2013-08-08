@@ -1,33 +1,38 @@
 {
-    "community_area": "27", 
-    "_id": {
-        "$oid": "5202683d733824919a297979"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1125", 
+    "y_coordinate": "1898875", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2014", 
+    "case_number": "HW379926", 
+    "id": "9249561", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6957047005308, 
-            41.878238189138145
+            -87.69409251444416, 
+            41.87825666903523
         ]
     }, 
-    "case_number": "HW379926", 
+    "community_area": "27", 
+    "latitude": "41.87825666903523", 
+    "type": "quality", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)", 
+    "beat": "1125", 
     "date": {
         "$date": 1374842220000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "5202683d733824919a297979"
+    }, 
+    "iucr": "2014", 
+    "longitude": "-87.69409251444416", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1158335", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9249561", 
-    "block": "027XX W ADAMS ST", 
-    "description": "MANU/DELIVER: HEROIN (WHITE)"
+    "block": "027XX W ADAMS ST"
 }
