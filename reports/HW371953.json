@@ -6,7 +6,7 @@
     "id": "9225206", 
     "primary_type": "THEFT", 
     "district": "015", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "CTA BUS STOP", 
     "x_coordinate": "1136467", 
     "updated_on": {
-        "$date": 1374540234000
+        "$date": 1375922568000
     }, 
     "fbi_code": "06", 
     "block": "059XX W CHICAGO AVE"
