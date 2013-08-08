@@ -1,33 +1,38 @@
 {
-    "community_area": "27", 
-    "_id": {
-        "$oid": "52026836733824919a297967"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1124", 
+    "y_coordinate": "1898606", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW395666", 
+    "id": "9250147", 
+    "primary_type": "BATTERY", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69813748083848, 
-            41.87730216087957
+            -87.69703359326884, 
+            41.87753479952727
         ]
     }, 
-    "case_number": "HW395666", 
+    "community_area": "27", 
+    "latitude": "41.87753479952727", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1124", 
     "date": {
         "$date": 1375119000000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "52026836733824919a297967"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.69703359326884", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1157536", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9250147", 
-    "block": "028XX W JACKSON BLVD", 
-    "description": "SIMPLE"
+    "block": "028XX W JACKSON BLVD"
 }
