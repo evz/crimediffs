@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1899885", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW387028", 
+    "id": "9241368", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70546996167397, 
+            41.88109112586136
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.88109112586136", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "1222", 
+    "date": {
+        "$date": 1375273800000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "5203b9da733824919a297bf5"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.70546996167397", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1155229", 
+    "updated_on": {
+        "$date": 1375490414000
+    }, 
+    "fbi_code": "06", 
+    "block": "031XX W MADISON ST"
+}
