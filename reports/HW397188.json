@@ -1,0 +1,33 @@
+{
+    "community_area": "73", 
+    "_id": {
+        "$oid": "5203b9f8733824919a297cee"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2222", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6504666819816, 
+            41.72582692211849
+        ]
+    }, 
+    "case_number": "HW397188", 
+    "date": {
+        "$date": 1374192060000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "21", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9252140", 
+    "block": "010XX W 92ND PL", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
