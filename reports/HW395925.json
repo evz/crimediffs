@@ -1,33 +1,38 @@
 {
-    "community_area": "29", 
-    "_id": {
-        "$oid": "5202683c733824919a297971"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "1022", 
+    "y_coordinate": "1891539", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1122", 
+    "case_number": "HW395925", 
+    "id": "9250561", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "010", 
     "arrest": false, 
-    "location_description": "CURRENCY EXCHANGE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70313947039749, 
-            41.8589020583936
+            -87.70519482822985, 
+            41.85818608966954
         ]
     }, 
-    "case_number": "HW395925", 
+    "community_area": "29", 
+    "latitude": "41.85818608966954", 
+    "type": null, 
+    "description": "COUNTERFEIT CHECK", 
+    "beat": "1022", 
     "date": {
         "$date": 1374875460000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "24", 
+    "_id": {
+        "$oid": "5202683c733824919a297971"
+    }, 
+    "iucr": "1122", 
+    "longitude": "-87.70519482822985", 
+    "location_description": "CURRENCY EXCHANGE", 
+    "x_coordinate": "1155365", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "10", 
-    "type": null, 
-    "id": "9250561", 
-    "block": "031XX W OGDEN AVE", 
-    "description": "COUNTERFEIT CHECK"
+    "block": "031XX W OGDEN AVE"
 }
