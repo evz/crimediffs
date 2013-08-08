@@ -1,0 +1,33 @@
+{
+    "community_area": "76", 
+    "_id": {
+        "$oid": "5203b9dd733824919a297c8f"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "1654", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2093", 
+    "arrest": false, 
+    "location_description": "GOVERNMENT BUILDING/PROPERTY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.90747333217887, 
+            41.9537907007995
+        ]
+    }, 
+    "case_number": "HW386700", 
+    "date": {
+        "$date": 1375257600000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "41", 
+    "fbi_code": "26", 
+    "type": "quality", 
+    "id": "9251647", 
+    "block": "006XX W OHARE ST", 
+    "description": "FOUND SUSPECT NARCOTICS"
+}
