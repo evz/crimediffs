@@ -1,33 +1,38 @@
 {
-    "community_area": "7", 
-    "_id": {
-        "$oid": "52026832733824919a2978b2"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1935", 
+    "y_coordinate": "1918362", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW396235", 
+    "id": "9250779", 
+    "primary_type": "THEFT", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65396995352111, 
-            41.93150319057165
+            -87.65396627871526, 
+            41.9315031688283
         ]
     }, 
-    "case_number": "HW396235", 
+    "community_area": "7", 
+    "latitude": "41.9315031688283", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1935", 
     "date": {
         "$date": 1375185600000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "32", 
+    "_id": {
+        "$oid": "52026832733824919a2978b2"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.65396627871526", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1169109", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9250779", 
-    "block": "027XX N SHEFFIELD AVE", 
-    "description": "FROM BUILDING"
+    "block": "027XX N SHEFFIELD AVE"
 }
