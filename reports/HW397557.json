@@ -1,0 +1,33 @@
+{
+    "community_area": "29", 
+    "_id": {
+        "$oid": "5203b9e2733824919a297cd1"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1135", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69549338054398, 
+            41.86662334693514
+        ]
+    }, 
+    "case_number": "HW397557", 
+    "date": {
+        "$date": 1375052400000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "28", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9252625", 
+    "block": "027XX W ROOSEVELT RD", 
+    "description": "$500 AND UNDER"
+}
