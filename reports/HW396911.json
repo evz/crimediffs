@@ -1,0 +1,33 @@
+{
+    "community_area": "55", 
+    "_id": {
+        "$oid": "5203b9e3733824919a297cd4"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0433", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.53540206372503, 
+            41.68413477728047
+        ]
+    }, 
+    "case_number": "HW396911", 
+    "date": {
+        "$date": 1375012800000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "10", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9251917", 
+    "block": "116XX S EWING AVE", 
+    "description": "OVER $500"
+}
