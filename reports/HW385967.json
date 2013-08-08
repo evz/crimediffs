@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "5202682f733824919a297813"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1531", 
+    "y_coordinate": "1904238", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2014", 
+    "case_number": "HW385967", 
+    "id": "9250501", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.7457544, 
-            41.8931812
+            -87.74720660613757, 
+            41.8932574318264
         ]
     }, 
-    "case_number": "HW385967", 
+    "community_area": "25", 
+    "latitude": "41.8932574318264", 
+    "type": "quality", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)", 
+    "beat": "1531", 
     "date": {
         "$date": 1375199100000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "28", 
+    "_id": {
+        "$oid": "5202682f733824919a297813"
+    }, 
+    "iucr": "2014", 
+    "longitude": "-87.74720660613757", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1143833", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9250501", 
-    "block": "048XX W HURON ST", 
-    "description": "MANU/DELIVER: HEROIN (WHITE)"
+    "block": "048XX W HURON ST"
 }
