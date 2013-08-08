@@ -6,7 +6,7 @@
     "id": "9220680", 
     "primary_type": "WEAPONS VIOLATION", 
     "district": "010", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "RESIDENCE PORCH/HALLWAY", 
     "x_coordinate": "1151250", 
     "updated_on": {
-        "$date": 1375490414000
+        "$date": 1375922568000
     }, 
     "fbi_code": "15", 
     "block": "012XX S INDEPENDENCE BLVD"
