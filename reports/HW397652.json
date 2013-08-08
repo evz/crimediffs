@@ -1,0 +1,33 @@
+{
+    "community_area": "73", 
+    "_id": {
+        "$oid": "5203b9e9733824919a297cdc"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2222", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65691735922006, 
+            41.72830751803311
+        ]
+    }, 
+    "case_number": "HW397652", 
+    "date": {
+        "$date": 1374782400000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "21", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9252593", 
+    "block": "091XX S ADA ST", 
+    "description": "$500 AND UNDER"
+}
