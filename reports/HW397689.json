@@ -1,0 +1,33 @@
+{
+    "community_area": "64", 
+    "_id": {
+        "$oid": "5203b9e2733824919a297ccf"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0813", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75710001908372, 
+            41.778034375320495
+        ]
+    }, 
+    "case_number": "HW397689", 
+    "date": {
+        "$date": 1375086600000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "13", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9252567", 
+    "block": "054XX W 63RD ST", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
