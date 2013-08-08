@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1847092", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW387345", 
+    "id": "9241512", 
+    "primary_type": "ROBBERY", 
+    "district": "022", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63521825639863, 
+            41.735806924140775
+        ]
+    }, 
+    "community_area": "71", 
+    "latitude": "41.735806924140775", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "2223", 
+    "date": {
+        "$date": 1375289400000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "5203b9d7733824919a297b3e"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.63521825639863", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1174790", 
+    "updated_on": {
+        "$date": 1375663313000
+    }, 
+    "fbi_code": "03", 
+    "block": "004XX W 87TH ST"
+}
