@@ -1,33 +1,38 @@
 {
-    "community_area": "32", 
-    "_id": {
-        "$oid": "5202683f733824919a29797e"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0123", 
+    "y_coordinate": "1897659", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW395851", 
+    "id": "9250876", 
+    "primary_type": "THEFT", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62775663115958, 
-            41.87438581733187
+            -87.62775870305843, 
+            41.87453127507083
         ]
     }, 
-    "case_number": "HW395851", 
+    "community_area": "32", 
+    "latitude": "41.87453127507083", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0123", 
     "date": {
         "$date": 1374793200000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "5202683f733824919a29797e"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.62775870305843", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1176411", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9250876", 
-    "block": "006XX S STATE ST", 
-    "description": "$500 AND UNDER"
+    "block": "006XX S STATE ST"
 }
