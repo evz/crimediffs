@@ -1,33 +1,38 @@
 {
-    "community_area": "66", 
-    "_id": {
-        "$oid": "5202683d733824919a29797a"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "0825", 
+    "y_coordinate": "1861479", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1821", 
+    "case_number": "HW379874", 
+    "id": "9249698", 
+    "primary_type": "NARCOTICS", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69018955165708, 
-            41.77557715528902
+            -87.68879250733812, 
+            41.77560225753138
         ]
     }, 
-    "case_number": "HW379874", 
+    "community_area": "66", 
+    "latitude": "41.77560225753138", 
+    "type": "quality", 
+    "description": "MANU/DEL:CANNABIS 10GM OR LESS", 
+    "beat": "0825", 
     "date": {
         "$date": 1374839400000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "15", 
+    "_id": {
+        "$oid": "5202683d733824919a29797a"
+    }, 
+    "iucr": "1821", 
+    "longitude": "-87.68879250733812", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1160059", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9249698", 
-    "block": "026XX W 65TH ST", 
-    "description": "MANU/DEL:CANNABIS 10GM OR LESS"
+    "block": "026XX W 65TH ST"
 }
