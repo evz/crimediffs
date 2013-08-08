@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "5202682d733824919a2977e0"
-    }, 
-    "primary_type": "SEX OFFENSE", 
-    "beat": "0332", 
+    "y_coordinate": "1858988", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1562", 
+    "case_number": "HW395907", 
+    "id": "9250712", 
+    "primary_type": "SEX OFFENSE", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.5768405695611, 
-            41.76808359729636
+            -87.57686256197893, 
+            41.768083742106775
         ]
     }, 
-    "case_number": "HW395907", 
+    "community_area": "43", 
+    "latitude": "41.768083742106775", 
+    "type": null, 
+    "description": "AGG CRIMINAL SEXUAL ABUSE", 
+    "beat": "0332", 
     "date": {
         "$date": 1375203600000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "5", 
+    "_id": {
+        "$oid": "5202682d733824919a2977e0"
+    }, 
+    "iucr": "1562", 
+    "longitude": "-87.57686256197893", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1190614", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "17", 
-    "type": null, 
-    "id": "9250712", 
-    "block": "019XX E 70TH ST", 
-    "description": "AGG CRIMINAL SEXUAL ABUSE"
+    "block": "019XX E 70TH ST"
 }
