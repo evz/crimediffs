@@ -1,33 +1,38 @@
 {
-    "community_area": "41", 
-    "_id": {
-        "$oid": "52026836733824919a297966"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0235", 
+    "y_coordinate": "1867428", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW395917", 
+    "id": "9250589", 
+    "primary_type": "BATTERY", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.59352315690924, 
-            41.79136500130493
+            -87.5942419646978, 
+            41.79135865105222
         ]
     }, 
-    "case_number": "HW395917", 
+    "community_area": "41", 
+    "latitude": "41.79135865105222", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0235", 
     "date": {
         "$date": 1375120500000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "5", 
+    "_id": {
+        "$oid": "52026836733824919a297966"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.5942419646978", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1185800", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9250589", 
-    "block": "013XX E 57TH ST", 
-    "description": "SIMPLE"
+    "block": "013XX E 57TH ST"
 }
