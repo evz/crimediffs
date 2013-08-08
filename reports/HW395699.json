@@ -1,33 +1,38 @@
 {
-    "community_area": "60", 
-    "_id": {
-        "$oid": "52026835733824919a29795c"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "0915", 
+    "y_coordinate": "1880318", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1305", 
+    "case_number": "HW395699", 
+    "id": "9250314", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64587342620207, 
-            41.8270502222823
+            -87.64587339684434, 
+            41.827052966375625
         ]
     }, 
-    "case_number": "HW395699", 
+    "community_area": "60", 
+    "latitude": "41.827052966375625", 
+    "type": "quality", 
+    "description": "CRIMINAL DEFACEMENT", 
+    "beat": "0915", 
     "date": {
         "$date": 1375164000000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "11", 
+    "_id": {
+        "$oid": "52026835733824919a29795c"
+    }, 
+    "iucr": "1305", 
+    "longitude": "-87.64587339684434", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1171616", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9250314", 
-    "block": "037XX S HALSTED ST", 
-    "description": "CRIMINAL DEFACEMENT"
+    "block": "037XX S HALSTED ST"
 }
