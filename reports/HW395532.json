@@ -1,33 +1,38 @@
 {
-    "community_area": "61", 
-    "_id": {
-        "$oid": "52026858733824919a297990"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0925", 
+    "y_coordinate": "1875756", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW395532", 
+    "id": "9249990", 
+    "primary_type": "BURGLARY", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64116133586175, 
-            41.814540975811184
+            -87.64272433119872, 
+            41.81451470791098
         ]
     }, 
-    "case_number": "HW395532", 
+    "community_area": "61", 
+    "latitude": "41.81451470791098", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0925", 
     "date": {
         "$date": 1373878800000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "11", 
+    "_id": {
+        "$oid": "52026858733824919a297990"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.64272433119872", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1172511", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9249990", 
-    "block": "006XX W 44TH ST", 
-    "description": "FORCIBLE ENTRY"
+    "block": "006XX W 44TH ST"
 }
