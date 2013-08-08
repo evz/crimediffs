@@ -6,7 +6,7 @@
     "id": "9235750", 
     "primary_type": "BATTERY", 
     "district": "025", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "APARTMENT", 
     "x_coordinate": "1148775", 
     "updated_on": {
-        "$date": 1375404049000
+        "$date": 1375922568000
     }, 
     "fbi_code": "08B", 
     "block": "012XX N KARLOV AVE"
