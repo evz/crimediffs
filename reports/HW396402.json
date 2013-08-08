@@ -1,33 +1,38 @@
 {
-    "community_area": "53", 
-    "_id": {
-        "$oid": "52026834733824919a297936"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0523", 
+    "y_coordinate": "1825270", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1150", 
+    "case_number": "HW396402", 
+    "id": "9250906", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63327436752645, 
-            41.67590568303437
+            -87.63327067757436, 
+            41.67590840489762
         ]
     }, 
-    "case_number": "HW396402", 
+    "community_area": "53", 
+    "latitude": "41.67590840489762", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "0523", 
     "date": {
         "$date": 1375171200000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "34", 
+    "_id": {
+        "$oid": "52026834733824919a297936"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.63327067757436", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1175499", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9250906", 
-    "block": "120XX S EGGLESTON AVE", 
-    "description": "CREDIT CARD FRAUD"
+    "block": "120XX S EGGLESTON AVE"
 }
