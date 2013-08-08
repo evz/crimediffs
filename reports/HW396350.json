@@ -1,33 +1,38 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "5202683d733824919a297977"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "0511", 
+    "y_coordinate": "1841278", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "560", 
+    "case_number": "HW396350", 
+    "id": "9250837", 
+    "primary_type": "ASSAULT", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61908331602224, 
-            41.718547561757006
+            -87.61910660310527, 
+            41.71975246218674
         ]
     }, 
-    "case_number": "HW396350", 
+    "community_area": "49", 
+    "latitude": "41.71975246218674", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0511", 
     "date": {
         "$date": 1374848400000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "6", 
+    "_id": {
+        "$oid": "5202683d733824919a297977"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.61910660310527", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1179236", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9250837", 
-    "block": "096XX S INDIANA AVE", 
-    "description": "SIMPLE"
+    "block": "096XX S INDIANA AVE"
 }
