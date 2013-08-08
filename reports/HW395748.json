@@ -1,33 +1,38 @@
 {
-    "community_area": "68", 
-    "_id": {
-        "$oid": "52026847733824919a297986"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "0733", 
+    "y_coordinate": "1855658", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW395748", 
+    "id": "9250357", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "RESIDENCE-GARAGE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65288703554465, 
-            41.758553450539004
+            -87.65260666712024, 
+            41.759418989046566
         ]
     }, 
-    "case_number": "HW395748", 
+    "community_area": "68", 
+    "latitude": "41.759418989046566", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0733", 
     "date": {
         "$date": 1374573600000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "17", 
+    "_id": {
+        "$oid": "52026847733824919a297986"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.65260666712024", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1169976", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9250357", 
-    "block": "074XX S MAY ST", 
-    "description": "AUTOMOBILE"
+    "block": "074XX S MAY ST"
 }
