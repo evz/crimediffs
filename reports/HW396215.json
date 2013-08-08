@@ -1,33 +1,38 @@
 {
-    "community_area": "38", 
-    "_id": {
-        "$oid": "5202683a733824919a29796e"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0223", 
+    "y_coordinate": "1872161", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "840", 
+    "case_number": "HW396215", 
+    "id": "9250874", 
+    "primary_type": "THEFT", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6127219451355, 
-            41.805266068900956
+            -87.61270158388, 
+            41.80446461219538
         ]
     }, 
-    "case_number": "HW396215", 
+    "community_area": "38", 
+    "latitude": "41.80446461219538", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "0223", 
     "date": {
         "$date": 1374924600000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "4", 
+    "_id": {
+        "$oid": "5202683a733824919a29796e"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.61270158388", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1180726", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9250874", 
-    "block": "049XX S FORRESTVILLE AVE", 
-    "description": "FINANCIAL ID THEFT: OVER $300"
+    "block": "049XX S FORRESTVILLE AVE"
 }
