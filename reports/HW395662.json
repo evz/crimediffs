@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "5202683d733824919a29797d"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0414", 
+    "y_coordinate": "1853909", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW395662", 
+    "id": "9250392", 
+    "primary_type": "THEFT", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.57986593560835, 
-            41.75451098267254
+            -87.57956215197937, 
+            41.754163208416216
         ]
     }, 
-    "case_number": "HW395662", 
+    "community_area": "43", 
+    "latitude": "41.754163208416216", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0414", 
     "date": {
         "$date": 1374836400000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "8", 
+    "_id": {
+        "$oid": "5202683d733824919a29797d"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.57956215197937", 
+    "location_description": "STREET", 
+    "x_coordinate": "1189922", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9250392", 
-    "block": "077XX S CONSTANCE AVE", 
-    "description": "$500 AND UNDER"
+    "block": "077XX S CONSTANCE AVE"
 }
