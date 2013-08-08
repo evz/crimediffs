@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "5202683c733824919a297974"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1523", 
+    "y_coordinate": "1901681", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2017", 
+    "case_number": "HW380466", 
+    "id": "9249890", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.7566746157703, 
-            41.8867905272612
+            -87.75665342575294, 
+            41.88628822358232
         ]
     }, 
-    "case_number": "HW380466", 
+    "community_area": "25", 
+    "latitude": "41.88628822358232", 
+    "type": "quality", 
+    "description": "MANU/DELIVER:CRACK", 
+    "beat": "1523", 
     "date": {
         "$date": 1374861000000
     }, 
-    "updated_on": {
-        "$date": 1375836149000
-    }, 
     "ward": "28", 
+    "_id": {
+        "$oid": "5202683c733824919a297974"
+    }, 
+    "iucr": "2017", 
+    "longitude": "-87.75665342575294", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1141278", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9249890", 
-    "block": "003XX N LATROBE AVE", 
-    "description": "MANU/DELIVER:CRACK"
+    "block": "003XX N LATROBE AVE"
 }
