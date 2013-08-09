@@ -1,0 +1,33 @@
+{
+    "community_area": "38", 
+    "_id": {
+        "$oid": "52050b4e733824919a298074"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0215", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62147640736671, 
+            41.81360287788356
+        ]
+    }, 
+    "case_number": "HW399141", 
+    "date": {
+        "$date": 1374481800000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "3", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9254415", 
+    "block": "044XX S INDIANA AVE", 
+    "description": "OVER $500"
+}
