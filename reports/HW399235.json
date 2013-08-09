@@ -1,0 +1,33 @@
+{
+    "community_area": "8", 
+    "_id": {
+        "$oid": "52050b64733824919a29807e"
+    }, 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "beat": "1834", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1150", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62260702585104, 
+            41.8947602345323
+        ]
+    }, 
+    "case_number": "HW399235", 
+    "date": {
+        "$date": 1373608800000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "42", 
+    "fbi_code": "11", 
+    "type": null, 
+    "id": "9254237", 
+    "block": "006XX N ST CLAIR ST", 
+    "description": "CREDIT CARD FRAUD"
+}
