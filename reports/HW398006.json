@@ -1,33 +1,38 @@
 {
-    "community_area": "6", 
-    "_id": {
-        "$oid": "5203b9f5733824919a297cea"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1923", 
+    "y_coordinate": "1924106", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW398006", 
+    "id": "9252810", 
+    "primary_type": "BATTERY", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65795129668182, 
-            41.94705620104938
+            -87.65733499036122, 
+            41.94728583207094
         ]
     }, 
-    "case_number": "HW398006", 
+    "community_area": "6", 
+    "latitude": "41.94728583207094", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1923", 
     "date": {
         "$date": 1374288300000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "44", 
+    "_id": {
+        "$oid": "5203b9f5733824919a297cea"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.65733499036122", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1168147", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9252810", 
-    "block": "011XX W ADDISON ST", 
-    "description": "SIMPLE"
+    "block": "011XX W ADDISON ST"
 }
