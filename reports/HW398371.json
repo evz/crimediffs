@@ -1,0 +1,33 @@
+{
+    "community_area": "6", 
+    "_id": {
+        "$oid": "52050b30733824919a297eab"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1925", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "RESIDENCE-GARAGE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6480610072128, 
+            41.95376756355653
+        ]
+    }, 
+    "case_number": "HW398371", 
+    "date": {
+        "$date": 1375380000000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "46", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9253336", 
+    "block": "039XX N PINE GROVE AVE", 
+    "description": "$500 AND UNDER"
+}
