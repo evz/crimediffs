@@ -1,0 +1,33 @@
+{
+    "community_area": "28", 
+    "_id": {
+        "$oid": "52050b36733824919a297ff8"
+    }, 
+    "primary_type": "NON-CRIMINAL", 
+    "beat": "1232", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "5093", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65399653187701, 
+            41.88048532636518
+        ]
+    }, 
+    "case_number": "HW397164", 
+    "date": {
+        "$date": 1375347600000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "2", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9254170", 
+    "block": "010XX W MONROE ST", 
+    "description": "LOST PASSPORT"
+}
