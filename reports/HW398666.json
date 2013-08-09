@@ -1,0 +1,33 @@
+{
+    "community_area": "77", 
+    "_id": {
+        "$oid": "52050b3b733824919a29804e"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2433", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66192588292218, 
+            41.99739170103714
+        ]
+    }, 
+    "case_number": "HW398666", 
+    "date": {
+        "$date": 1375200000000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "40", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9253743", 
+    "block": "063XX N MAGNOLIA AVE", 
+    "description": "FROM BUILDING"
+}
