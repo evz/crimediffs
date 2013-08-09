@@ -1,0 +1,33 @@
+{
+    "community_area": "27", 
+    "_id": {
+        "$oid": "52050b47733824919a29806a"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1125", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69359280155405, 
+            41.8764481710866
+        ]
+    }, 
+    "case_number": "HW378616", 
+    "date": {
+        "$date": 1374758100000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "28", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9253862", 
+    "block": "003XX S WASHTENAW AVE", 
+    "description": "OVER $500"
+}
