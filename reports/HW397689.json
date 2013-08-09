@@ -1,33 +1,38 @@
 {
-    "community_area": "64", 
-    "_id": {
-        "$oid": "5203b9e2733824919a297ccf"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0813", 
+    "y_coordinate": "1862216", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "840", 
+    "case_number": "HW397689", 
+    "id": "9252567", 
+    "primary_type": "THEFT", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.75710001908372, 
-            41.778034375320495
+            -87.75896648269472, 
+            41.77799706871949
         ]
     }, 
-    "case_number": "HW397689", 
+    "community_area": "64", 
+    "latitude": "41.77799706871949", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "0813", 
     "date": {
         "$date": 1375086600000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "13", 
+    "_id": {
+        "$oid": "5203b9e2733824919a297ccf"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.75896648269472", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1140912", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9252567", 
-    "block": "054XX W 63RD ST", 
-    "description": "FINANCIAL ID THEFT: OVER $300"
+    "block": "054XX W 63RD ST"
 }
