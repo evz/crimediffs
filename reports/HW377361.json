@@ -6,7 +6,7 @@
     "id": "9231518", 
     "primary_type": "WEAPONS VIOLATION", 
     "district": "011", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "STREET", 
     "x_coordinate": "1157894", 
     "updated_on": {
-        "$date": 1374799275000
+        "$date": 1376009150000
     }, 
     "fbi_code": "15", 
     "block": "027XX W POLK ST"
