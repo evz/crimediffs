@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "52050b44733824919a298061"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1523", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7617863021222, 
+            41.883127811803426
+        ]
+    }, 
+    "case_number": "HW398750", 
+    "date": {
+        "$date": 1374847200000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "28", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9254270", 
+    "block": "001XX N LOTUS AVE", 
+    "description": "$500 AND UNDER"
+}
