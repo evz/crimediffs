@@ -1,33 +1,38 @@
 {
-    "community_area": "2", 
-    "_id": {
-        "$oid": "5203b9cf733824919a297a09"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "2011", 
+    "y_coordinate": "1937799", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1320", 
+    "case_number": "HW397103", 
+    "id": "9252018", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "020", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69205395783496, 
-            41.985083369521114
+            -87.69423885874721, 
+            41.985073600474706
         ]
     }, 
-    "case_number": "HW397103", 
+    "community_area": "2", 
+    "latitude": "41.985073600474706", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "2011", 
     "date": {
         "$date": 1375315200000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "40", 
+    "_id": {
+        "$oid": "5203b9cf733824919a297a09"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.69423885874721", 
+    "location_description": "STREET", 
+    "x_coordinate": "1158005", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9252018", 
-    "block": "025XX W HOLLYWOOD AVE", 
-    "description": "TO VEHICLE"
+    "block": "025XX W HOLLYWOOD AVE"
 }
