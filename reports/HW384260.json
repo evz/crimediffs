@@ -6,7 +6,7 @@
     "id": "9238528", 
     "primary_type": "CRIM SEXUAL ASSAULT", 
     "district": "004", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "HOTEL/MOTEL", 
     "x_coordinate": "1188555", 
     "updated_on": {
-        "$date": 1375317661000
+        "$date": 1376009150000
     }, 
     "fbi_code": "02", 
     "block": "092XX S STONY ISLAND AVE"
