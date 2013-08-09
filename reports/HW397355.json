@@ -1,33 +1,38 @@
 {
-    "community_area": "28", 
-    "_id": {
-        "$oid": "5203b9e0733824919a297cc8"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0121", 
+    "y_coordinate": "1899097", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW397355", 
+    "id": "9252274", 
+    "primary_type": "THEFT", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63973267005716, 
-            41.8789154264838
+            -87.63942818884952, 
+            41.878548602626836
         ]
     }, 
-    "case_number": "HW397355", 
+    "community_area": "28", 
+    "latitude": "41.878548602626836", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0121", 
     "date": {
         "$date": 1375164000000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "5203b9e0733824919a297cc8"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.63942818884952", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1173221", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9252274", 
-    "block": "002XX S CANAL ST", 
-    "description": "OVER $500"
+    "block": "002XX S CANAL ST"
 }
