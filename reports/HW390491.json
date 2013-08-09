@@ -4,7 +4,7 @@
     "domestic": false, 
     "case_number": "HW390491", 
     "id": "9245080", 
-    "primary_type": "ROBBERY", 
+    "primary_type": "THEFT", 
     "district": "018", 
     "arrest": false, 
     "location": {
@@ -16,8 +16,8 @@
     }, 
     "community_area": "8", 
     "latitude": "41.89954649904897", 
-    "type": "violent", 
-    "description": "ARMED: HANDGUN", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
     "beat": "1833", 
     "date": {
         "$date": 1375318200000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "5203b9cd733824919a2979e3"
     }, 
-    "iucr": "031A", 
+    "iucr": "890", 
     "longitude": "-87.62399017532343", 
     "location_description": "HOTEL/MOTEL", 
     "x_coordinate": "1177362", 
     "updated_on": {
-        "$date": 1375663313000
+        "$date": 1376009150000
     }, 
-    "fbi_code": "03", 
+    "fbi_code": "06", 
     "block": "009XX N MICHIGAN AVE"
 }
