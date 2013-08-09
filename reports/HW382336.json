@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "52050b45733824919a298066"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0512", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62680449785628, 
+            41.70217326717413
+        ]
+    }, 
+    "case_number": "HW382336", 
+    "date": {
+        "$date": 1374807600000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "34", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9253007", 
+    "block": "105XX S LA SALLE ST", 
+    "description": "FORCIBLE ENTRY"
+}
