@@ -1,33 +1,38 @@
 {
-    "community_area": "37", 
-    "_id": {
-        "$oid": "5203b9e8733824919a297cda"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "0925", 
+    "y_coordinate": "1875733", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1811", 
+    "case_number": "HW379908", 
+    "id": "9251953", 
+    "primary_type": "NARCOTICS", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63332228709086, 
-            41.81283867417417
+            -87.63366114970823, 
+            41.814396742397406
         ]
     }, 
-    "case_number": "HW379908", 
+    "community_area": "37", 
+    "latitude": "41.814396742397406", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0925", 
     "date": {
         "$date": 1374840900000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "3", 
+    "_id": {
+        "$oid": "5203b9e8733824919a297cda"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.63366114970823", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1174982", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9251953", 
-    "block": "044XX S PRINCETON AVE", 
-    "description": "POSS: CANNABIS 30GMS OR LESS"
+    "block": "044XX S PRINCETON AVE"
 }
