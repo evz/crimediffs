@@ -1,0 +1,33 @@
+{
+    "community_area": "27", 
+    "_id": {
+        "$oid": "52050b3f733824919a298058"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "1123", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2025", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71072293818473, 
+            41.88544465746398
+        ]
+    }, 
+    "case_number": "HW383509", 
+    "date": {
+        "$date": 1375049950000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "28", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9253512", 
+    "block": "033XX W WALNUT ST", 
+    "description": "POSS: HALLUCINOGENS"
+}
