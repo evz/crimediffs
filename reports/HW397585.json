@@ -1,33 +1,38 @@
 {
-    "community_area": "32", 
-    "_id": {
-        "$oid": "5203b9e1733824919a297ccb"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0123", 
+    "y_coordinate": "1896163", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "840", 
+    "case_number": "HW397585", 
+    "id": "9252514", 
+    "primary_type": "THEFT", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63070786794604, 
-            41.87044121937087
+            -87.63070416660635, 
+            41.87044394097319
         ]
     }, 
-    "case_number": "HW397585", 
+    "community_area": "32", 
+    "latitude": "41.87044394097319", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "0123", 
     "date": {
         "$date": 1375110000000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "5203b9e1733824919a297ccb"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.63070416660635", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1175621", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9252514", 
-    "block": "009XX S CLARK ST", 
-    "description": "FINANCIAL ID THEFT: OVER $300"
+    "block": "009XX S CLARK ST"
 }
