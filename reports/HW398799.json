@@ -1,0 +1,33 @@
+{
+    "community_area": "8", 
+    "_id": {
+        "$oid": "52050b60733824919a29807c"
+    }, 
+    "primary_type": "NON-CRIMINAL", 
+    "beat": "1824", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "5093", 
+    "arrest": false, 
+    "location_description": "CTA PLATFORM", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63129090612556, 
+            41.90371594745812
+        ]
+    }, 
+    "case_number": "HW398799", 
+    "date": {
+        "$date": 1373767200000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "42", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9253938", 
+    "block": "011XX N CLARK ST", 
+    "description": "LOST PASSPORT"
+}
