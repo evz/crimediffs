@@ -4,7 +4,7 @@
     "domestic": false, 
     "case_number": "HW369863", 
     "id": "9223643", 
-    "primary_type": "THEFT", 
+    "primary_type": "ROBBERY", 
     "district": "014", 
     "arrest": false, 
     "location": {
@@ -16,8 +16,8 @@
     }, 
     "community_area": "21", 
     "latitude": "41.93877314384306", 
-    "type": "property", 
-    "description": "OVER $500", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
     "beat": "1412", 
     "date": {
         "$date": 1374249000000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "51fde759733824919a29443e"
     }, 
-    "iucr": "810", 
+    "iucr": "320", 
     "longitude": "-87.71018240709041", 
     "location_description": "SIDEWALK", 
     "x_coordinate": "1153793", 
     "updated_on": {
-        "$date": 1374367458000
+        "$date": 1376009150000
     }, 
-    "fbi_code": "06", 
+    "fbi_code": "03", 
     "block": "031XX N SPAULDING AVE"
 }
