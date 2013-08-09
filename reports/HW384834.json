@@ -6,7 +6,7 @@
     "id": "9238254", 
     "primary_type": "BATTERY", 
     "district": "024", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "APARTMENT", 
     "x_coordinate": "1165742", 
     "updated_on": {
-        "$date": 1375231290000
+        "$date": 1376009150000
     }, 
     "fbi_code": "04B", 
     "block": "013XX W HOWARD ST"
