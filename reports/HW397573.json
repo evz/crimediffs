@@ -1,15 +1,12 @@
 {
-    "community_area": "60", 
-    "_id": {
-        "$oid": "5203b9e2733824919a297cce"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0915", 
+    "y_coordinate": "1881626", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "840", 
+    "case_number": "HW397573", 
+    "id": "9252629", 
+    "primary_type": "THEFT", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "BANK", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.830642678501256
         ]
     }, 
-    "case_number": "HW397573", 
+    "community_area": "60", 
+    "latitude": "41.830642678501256", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "0915", 
     "date": {
         "$date": 1375088400000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "11", 
+    "_id": {
+        "$oid": "5203b9e2733824919a297cce"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.64590837392872", 
+    "location_description": "BANK", 
+    "x_coordinate": "1171596", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9252629", 
-    "block": "007XX W 35TH ST", 
-    "description": "FINANCIAL ID THEFT: OVER $300"
+    "block": "007XX W 35TH ST"
 }
