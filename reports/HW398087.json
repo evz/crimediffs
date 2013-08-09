@@ -1,0 +1,33 @@
+{
+    "community_area": "42", 
+    "_id": {
+        "$oid": "52050b42733824919a29805e"
+    }, 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "beat": "0314", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "281", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58869037866114, 
+            41.78277984318849
+        ]
+    }, 
+    "case_number": "HW398087", 
+    "date": {
+        "$date": 1374922800000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "5", 
+    "fbi_code": "02", 
+    "type": "violent", 
+    "id": "9252941", 
+    "block": "015XX E 62ND ST", 
+    "description": "NON-AGGRAVATED"
+}
