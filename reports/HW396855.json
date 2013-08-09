@@ -1,33 +1,38 @@
 {
-    "community_area": "51", 
-    "_id": {
-        "$oid": "5203ba08733824919a297cf6"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0431", 
+    "y_coordinate": "1841779", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2825", 
+    "case_number": "HW396855", 
+    "id": "9251436", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.56903461710708, 
-            41.72064605725671
+            -87.56904005650918, 
+            41.720805263639505
         ]
     }, 
-    "case_number": "HW396855", 
+    "community_area": "51", 
+    "latitude": "41.720805263639505", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "0431", 
     "date": {
         "$date": 1373515200000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "7", 
+    "_id": {
+        "$oid": "5203ba08733824919a297cf6"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.56904005650918", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1192901", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9251436", 
-    "block": "096XX S LUELLA AVE", 
-    "description": "HARASSMENT BY TELEPHONE"
+    "block": "096XX S LUELLA AVE"
 }
