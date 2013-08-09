@@ -1,0 +1,33 @@
+{
+    "community_area": "20", 
+    "_id": {
+        "$oid": "52050b34733824919a297f52"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "2522", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73788816792916, 
+            41.92295152345309
+        ]
+    }, 
+    "case_number": "HW389026", 
+    "date": {
+        "$date": 1375365600000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "31", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9248947", 
+    "block": "023XX N KENNETH AVE", 
+    "description": "SIMPLE"
+}
