@@ -1,33 +1,38 @@
 {
-    "community_area": "38", 
-    "_id": {
-        "$oid": "5203b9df733824919a297cc4"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "0224", 
+    "y_coordinate": "1871972", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW385594", 
+    "id": "9252210", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61907654766158, 
-            41.803768961155335
+            -87.61931252637, 
+            41.8039872261689
         ]
     }, 
-    "case_number": "HW385594", 
+    "community_area": "38", 
+    "latitude": "41.8039872261689", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0224", 
     "date": {
         "$date": 1375185600000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "3", 
+    "_id": {
+        "$oid": "5203b9df733824919a297cc4"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.61931252637", 
+    "location_description": "STREET", 
+    "x_coordinate": "1178925", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9252210", 
-    "block": "003XX E 50TH ST", 
-    "description": "AUTOMOBILE"
+    "block": "003XX E 50TH ST"
 }
