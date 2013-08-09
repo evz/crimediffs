@@ -1,0 +1,33 @@
+{
+    "community_area": "28", 
+    "_id": {
+        "$oid": "52050b29733824919a297d6d"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1135", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68783463230025, 
+            41.869215038220396
+        ]
+    }, 
+    "case_number": "HW390346", 
+    "date": {
+        "$date": 1375401660000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "28", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9250191", 
+    "block": "024XX W TAYLOR ST", 
+    "description": "$500 AND UNDER"
+}
