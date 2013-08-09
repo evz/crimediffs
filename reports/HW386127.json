@@ -6,7 +6,7 @@
     "id": "9240070", 
     "primary_type": "OTHER OFFENSE", 
     "district": "025", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "SIDEWALK", 
     "x_coordinate": "1147420", 
     "updated_on": {
-        "$date": 1375317661000
+        "$date": 1376009150000
     }, 
     "fbi_code": "26", 
     "block": "013XX N KILDARE AVE"
