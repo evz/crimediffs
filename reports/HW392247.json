@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "52050b33733824919a297f2a"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2513", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77556357486297, 
+            41.91491076305432
+        ]
+    }, 
+    "case_number": "HW392247", 
+    "date": {
+        "$date": 1375369200000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "29", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9249513", 
+    "block": "019XX N AUSTIN AVE", 
+    "description": "OVER $500"
+}
