@@ -1,0 +1,33 @@
+{
+    "community_area": "56", 
+    "_id": {
+        "$oid": "52050b3c733824919a298050"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0811", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76943506666159, 
+            41.79248392678468
+        ]
+    }, 
+    "case_number": "HW398865", 
+    "date": {
+        "$date": 1375142460000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "23", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9254400", 
+    "block": "058XX W 55TH ST", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
