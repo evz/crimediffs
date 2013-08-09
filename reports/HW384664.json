@@ -6,7 +6,7 @@
     "id": "9238147", 
     "primary_type": "WEAPONS VIOLATION", 
     "district": "025", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "SIDEWALK", 
     "x_coordinate": "1135562", 
     "updated_on": {
-        "$date": 1375231290000
+        "$date": 1376009150000
     }, 
     "fbi_code": "15", 
     "block": "027XX N MC VICKER AVE"
