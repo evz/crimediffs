@@ -1,0 +1,33 @@
+{
+    "community_area": "31", 
+    "_id": {
+        "$oid": "52050b3b733824919a29804c"
+    }, 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "beat": "1235", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1210", 
+    "arrest": false, 
+    "location_description": "BAR OR TAVERN", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65150072277352, 
+            41.85791280453772
+        ]
+    }, 
+    "case_number": "HW397958", 
+    "date": {
+        "$date": 1375212600000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "25", 
+    "fbi_code": "11", 
+    "type": null, 
+    "id": "9254169", 
+    "block": "009XX W 18TH ST", 
+    "description": "THEFT OF LABOR/SERVICES"
+}
