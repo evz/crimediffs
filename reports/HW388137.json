@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "52050b37733824919a29803f"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "1512", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "530", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76835578418311, 
+            41.88273496074433
+        ]
+    }, 
+    "case_number": "HW388137", 
+    "date": {
+        "$date": 1375335000000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "29", 
+    "fbi_code": "04A", 
+    "type": "violent", 
+    "id": "9253430", 
+    "block": "001XX N WALLER AVE", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON"
+}
