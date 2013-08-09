@@ -1,33 +1,38 @@
 {
-    "community_area": "73", 
-    "_id": {
-        "$oid": "5203b9ff733824919a297cf2"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2232", 
+    "y_coordinate": "1836813", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW397092", 
+    "id": "9251937", 
+    "primary_type": "THEFT", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "VACANT LOT/LAND", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65029929629883, 
-            41.707732616078886
+            -87.65000313666725, 
+            41.70768694617147
         ]
     }, 
-    "case_number": "HW397092", 
+    "community_area": "73", 
+    "latitude": "41.70768694617147", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "2232", 
     "date": {
         "$date": 1373889600000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "34", 
+    "_id": {
+        "$oid": "5203b9ff733824919a297cf2"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.65000313666725", 
+    "location_description": "VACANT LOT/LAND", 
+    "x_coordinate": "1170836", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9251937", 
-    "block": "102XX S ABERDEEN ST", 
-    "description": "FROM BUILDING"
+    "block": "102XX S ABERDEEN ST"
 }
