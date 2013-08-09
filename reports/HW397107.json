@@ -1,33 +1,38 @@
 {
-    "community_area": "14", 
-    "_id": {
-        "$oid": "5203b9ce733824919a2979ff"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1713", 
+    "y_coordinate": "1932663", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "841", 
+    "case_number": "HW397107", 
+    "id": "9252364", 
+    "primary_type": "THEFT", 
+    "district": "017", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70502165636303, 
-            41.97063002030591
+            -87.70473450035904, 
+            41.97103733483198
         ]
     }, 
-    "case_number": "HW397107", 
+    "community_area": "14", 
+    "latitude": "41.97103733483198", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT:$300 &UNDER", 
+    "beat": "1713", 
     "date": {
         "$date": 1375315260000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "33", 
+    "_id": {
+        "$oid": "5203b9ce733824919a2979ff"
+    }, 
+    "iucr": "841", 
+    "longitude": "-87.70473450035904", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1155189", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9252364", 
-    "block": "049XX N WHIPPLE ST", 
-    "description": "FINANCIAL ID THEFT:$300 &UNDER"
+    "block": "049XX N WHIPPLE ST"
 }
