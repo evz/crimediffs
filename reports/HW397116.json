@@ -1,33 +1,38 @@
 {
-    "community_area": "6", 
-    "_id": {
-        "$oid": "5203b9e3733824919a297cd2"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1925", 
+    "y_coordinate": "1923970", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW397116", 
+    "id": "9252253", 
+    "primary_type": "THEFT", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6430031184636, 
-            41.94756827753457
+            -87.64256635477038, 
+            41.946824713311294
         ]
     }, 
-    "case_number": "HW397116", 
+    "community_area": "6", 
+    "latitude": "41.946824713311294", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1925", 
     "date": {
         "$date": 1375016400000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "46", 
+    "_id": {
+        "$oid": "5203b9e3733824919a297cd2"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.64256635477038", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1172166", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9252253", 
-    "block": "035XX N LAKE SHORE DR", 
-    "description": "FROM BUILDING"
+    "block": "035XX N LAKE SHORE DR"
 }
