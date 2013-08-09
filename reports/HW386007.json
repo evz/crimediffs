@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "5203b9df733824919a297cc1"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1524", 
+    "y_coordinate": "1904749", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2014", 
+    "case_number": "HW386007", 
+    "id": "9251620", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.76462841247472, 
-            41.894747340646866
+            -87.76494427118605, 
+            41.894748904454694
         ]
     }, 
-    "case_number": "HW386007", 
+    "community_area": "25", 
+    "latitude": "41.894748904454694", 
+    "type": "quality", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)", 
+    "beat": "1524", 
     "date": {
         "$date": 1375204200000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "37", 
+    "_id": {
+        "$oid": "5203b9df733824919a297cc1"
+    }, 
+    "iucr": "2014", 
+    "longitude": "-87.76494427118605", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1139000", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9251620", 
-    "block": "055XX W CHICAGO AVE", 
-    "description": "MANU/DELIVER: HEROIN (WHITE)"
+    "block": "055XX W CHICAGO AVE"
 }
