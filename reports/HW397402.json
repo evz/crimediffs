@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "5203b9df733824919a297cc6"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "0334", 
+    "y_coordinate": "1857366", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1310", 
+    "case_number": "HW397402", 
+    "id": "9252314", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.56906011790635, 
-            41.7642257685444
+            -87.56875623390636, 
+            41.76357883764491
         ]
     }, 
-    "case_number": "HW397402", 
+    "community_area": "43", 
+    "latitude": "41.76357883764491", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0334", 
     "date": {
         "$date": 1375183740000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "5", 
+    "_id": {
+        "$oid": "5203b9df733824919a297cc6"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.56875623390636", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1192840", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9252314", 
-    "block": "072XX S CRANDON AVE", 
-    "description": "TO PROPERTY"
+    "block": "072XX S CRANDON AVE"
 }
