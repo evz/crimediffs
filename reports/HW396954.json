@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "5203b9e1733824919a297ccd"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0334", 
+    "y_coordinate": "1856262", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW396954", 
+    "id": "9251710", 
+    "primary_type": "THEFT", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.56140741061724, 
-            41.76079638017032
+            -87.56113242570018, 
+            41.76049814846441
         ]
     }, 
-    "case_number": "HW396954", 
+    "community_area": "43", 
+    "latitude": "41.76049814846441", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0334", 
     "date": {
         "$date": 1375099200000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "7", 
+    "_id": {
+        "$oid": "5203b9e1733824919a297ccd"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.56113242570018", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1194930", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9251710", 
-    "block": "074XX S EXCHANGE AVE", 
-    "description": "$500 AND UNDER"
+    "block": "074XX S EXCHANGE AVE"
 }
