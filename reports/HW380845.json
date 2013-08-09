@@ -6,7 +6,7 @@
     "id": "9234345", 
     "primary_type": "BATTERY", 
     "district": "011", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "STREET", 
     "x_coordinate": "1144270", 
     "updated_on": {
-        "$date": 1375058559000
+        "$date": 1376009150000
     }, 
     "fbi_code": "04B", 
     "block": "007XX N CICERO AVE"
