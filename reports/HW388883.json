@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1857600", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW388883", 
+    "id": "9243342", 
+    "primary_type": "THEFT", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66393836451257, 
+            41.76481500178944
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.76481500178944", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0735", 
+    "date": {
+        "$date": 1375379400000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "52050b31733824919a297ec5"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.66393836451257", 
+    "location_description": "CONVENIENCE STORE", 
+    "x_coordinate": "1166869", 
+    "updated_on": {
+        "$date": 1375577007000
+    }, 
+    "fbi_code": "06", 
+    "block": "071XX S ASHLAND AVE"
+}
