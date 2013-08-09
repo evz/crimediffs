@@ -4,7 +4,7 @@
     "domestic": true, 
     "case_number": "HW383021", 
     "id": "9236055", 
-    "primary_type": "ASSAULT", 
+    "primary_type": "BATTERY", 
     "district": "011", 
     "arrest": false, 
     "location": {
@@ -16,8 +16,8 @@
     }, 
     "community_area": "27", 
     "latitude": "41.87553039456766", 
-    "type": "violent", 
-    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
     "beat": "1133", 
     "date": {
         "$date": 1375005600000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "520116d0733824919a297231"
     }, 
-    "iucr": "530", 
+    "iucr": "486", 
     "longitude": "-87.71338945603007", 
     "location_description": "APARTMENT", 
     "x_coordinate": "1153087", 
     "updated_on": {
-        "$date": 1375922568000
+        "$date": 1376009150000
     }, 
-    "fbi_code": "04A", 
+    "fbi_code": "08B", 
     "block": "035XX W VAN BUREN ST"
 }
