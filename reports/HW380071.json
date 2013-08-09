@@ -1,0 +1,33 @@
+{
+    "community_area": "30", 
+    "_id": {
+        "$oid": "52050b44733824919a298064"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "1024", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2091", 
+    "arrest": false, 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70635418435093, 
+            41.851861417852234
+        ]
+    }, 
+    "case_number": "HW380071", 
+    "date": {
+        "$date": 1374837300000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "24", 
+    "fbi_code": "26", 
+    "type": "quality", 
+    "id": "9253380", 
+    "block": "032XX W CERMAK RD", 
+    "description": "FORFEIT PROPERTY"
+}
