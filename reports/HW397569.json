@@ -1,33 +1,38 @@
 {
-    "community_area": "71", 
-    "_id": {
-        "$oid": "5203b9e3733824919a297cd5"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "0611", 
+    "y_coordinate": "1854680", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "560", 
+    "case_number": "HW397569", 
+    "id": "9252529", 
+    "primary_type": "ASSAULT", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67103401746616, 
-            41.75669182633169
+            -87.67074294351748, 
+            41.756841084794594
         ]
     }, 
-    "case_number": "HW397569", 
+    "community_area": "71", 
+    "latitude": "41.756841084794594", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0611", 
     "date": {
         "$date": 1375002000000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "18", 
+    "_id": {
+        "$oid": "5203b9e3733824919a297cd5"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.67074294351748", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1165035", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9252529", 
-    "block": "075XX S WOLCOTT AVE", 
-    "description": "SIMPLE"
+    "block": "075XX S WOLCOTT AVE"
 }
