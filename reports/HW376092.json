@@ -1,0 +1,33 @@
+{
+    "community_area": "23", 
+    "_id": {
+        "$oid": "52050b4b733824919a298071"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "1112", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2017", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72032353217399, 
+            41.901478772806854
+        ]
+    }, 
+    "case_number": "HW376092", 
+    "date": {
+        "$date": 1374601200000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "27", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9253359", 
+    "block": "011XX N RIDGEWAY AVE", 
+    "description": "MANU/DELIVER:CRACK"
+}
