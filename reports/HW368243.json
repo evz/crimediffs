@@ -6,7 +6,7 @@
     "id": "9223176", 
     "primary_type": "SEX OFFENSE", 
     "district": "005", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "VEHICLE NON-COMMERCIAL", 
     "x_coordinate": "1178193", 
     "updated_on": {
-        "$date": 1375922568000
+        "$date": 1376009150000
     }, 
     "fbi_code": "17", 
     "block": "111XX S STATE ST"
