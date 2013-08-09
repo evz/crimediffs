@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "52050b3f733824919a298059"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1533", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75405222083778, 
+            41.87949958106113
+        ]
+    }, 
+    "case_number": "HW388731", 
+    "date": {
+        "$date": 1375041600000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "28", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9243420", 
+    "block": "051XX W MONROE ST", 
+    "description": "OVER $500"
+}
