@@ -6,7 +6,7 @@
     "id": "9241635", 
     "primary_type": "WEAPONS VIOLATION", 
     "district": "015", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "VEHICLE NON-COMMERCIAL", 
     "x_coordinate": "1141634", 
     "updated_on": {
-        "$date": 1375404049000
+        "$date": 1376009150000
     }, 
     "fbi_code": "15", 
     "block": "002XX N LARAMIE AVE"
