@@ -1,0 +1,33 @@
+{
+    "community_area": "8", 
+    "_id": {
+        "$oid": "52050b38733824919a298046"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "1823", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64202091954539, 
+            41.90032056872113
+        ]
+    }, 
+    "case_number": "HW398453", 
+    "date": {
+        "$date": 1375300800000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "27", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9253399", 
+    "block": "005XX W OAK ST", 
+    "description": "AUTOMOBILE"
+}
