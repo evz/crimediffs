@@ -1,0 +1,33 @@
+{
+    "community_area": "26", 
+    "_id": {
+        "$oid": "52050b3d733824919a298053"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "1132", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2017", 
+    "arrest": false, 
+    "location_description": "ALLEY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72324599999999, 
+            41.8773486
+        ]
+    }, 
+    "case_number": "HW384495", 
+    "date": {
+        "$date": 1375116240000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "28", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9253535", 
+    "block": "039XX W JACKSON BLVD", 
+    "description": "MANU/DELIVER:CRACK"
+}
