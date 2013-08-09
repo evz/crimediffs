@@ -1,0 +1,33 @@
+{
+    "community_area": "42", 
+    "_id": {
+        "$oid": "52050b44733824919a298062"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "0321", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1811", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6110379, 
+            41.774731
+        ]
+    }, 
+    "case_number": "HW380111", 
+    "date": {
+        "$date": 1374843112000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "20", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9253656", 
+    "block": "066XX S ST LAWRENCE AVE", 
+    "description": "POSS: CANNABIS 30GMS OR LESS"
+}
