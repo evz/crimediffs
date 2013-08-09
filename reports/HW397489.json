@@ -1,15 +1,12 @@
 {
-    "community_area": "44", 
-    "_id": {
-        "$oid": "5203b9cf733824919a297a08"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0632", 
+    "y_coordinate": "1847433", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1110", 
+    "case_number": "HW397489", 
+    "id": "9252444", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "ATM (AUTOMATIC TELLER MACHINE)", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.73655496148698
         ]
     }, 
-    "case_number": "HW397489", 
+    "community_area": "44", 
+    "latitude": "41.73655496148698", 
+    "type": null, 
+    "description": "BOGUS CHECK", 
+    "beat": "0632", 
     "date": {
         "$date": 1375315200000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "6", 
+    "_id": {
+        "$oid": "5203b9cf733824919a297a08"
+    }, 
+    "iucr": "1110", 
+    "longitude": "-87.60496835032346", 
+    "location_description": "ATM (AUTOMATIC TELLER MACHINE)", 
+    "x_coordinate": "1183044", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9252444", 
-    "block": "087XX S COTTAGE GROVE AVE", 
-    "description": "BOGUS CHECK"
+    "block": "087XX S COTTAGE GROVE AVE"
 }
