@@ -1,33 +1,38 @@
 {
-    "community_area": "19", 
-    "_id": {
-        "$oid": "5203b9fa733824919a297cf0"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "2512", 
+    "y_coordinate": "1917748", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2091", 
+    "case_number": "HW375630", 
+    "id": "9251604", 
+    "primary_type": "NARCOTICS", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.777000205352, 
-            41.93013175110635
+            -87.7773058630425, 
+            41.93048174859705
         ]
     }, 
-    "case_number": "HW375630", 
+    "community_area": "19", 
+    "latitude": "41.93048174859705", 
+    "type": "quality", 
+    "description": "FORFEIT PROPERTY", 
+    "beat": "2512", 
     "date": {
         "$date": 1374080400000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "29", 
+    "_id": {
+        "$oid": "5203b9fa733824919a297cf0"
+    }, 
+    "iucr": "2091", 
+    "longitude": "-87.7773058630425", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1135550", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
     "fbi_code": "26", 
-    "type": "quality", 
-    "id": "9251604", 
-    "block": "027XX N MC VICKER AVE", 
-    "description": "FORFEIT PROPERTY"
+    "block": "027XX N MC VICKER AVE"
 }
