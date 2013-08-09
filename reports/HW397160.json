@@ -1,33 +1,38 @@
 {
-    "community_area": "46", 
-    "_id": {
-        "$oid": "5203b9ff733824919a297cf1"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0412", 
+    "y_coordinate": "1849035", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW397160", 
+    "id": "9251976", 
+    "primary_type": "THEFT", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.567167343116, 
-            41.740922298406836
+            -87.56701237507713, 
+            41.74070446491432
         ]
     }, 
-    "case_number": "HW397160", 
+    "community_area": "46", 
+    "latitude": "41.74070446491432", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0412", 
     "date": {
         "$date": 1373896800000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "8", 
+    "_id": {
+        "$oid": "5203b9ff733824919a297cf1"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.56701237507713", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1193390", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9251976", 
-    "block": "023XX E 85TH ST", 
-    "description": "FROM BUILDING"
+    "block": "023XX E 85TH ST"
 }
