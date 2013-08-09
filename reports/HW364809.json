@@ -1,33 +1,38 @@
 {
-    "community_area": "7", 
-    "_id": {
-        "$oid": "51fde767733824919a294f7a"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "1811", 
+    "y_coordinate": "1912509", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1310", 
+    "case_number": "HW364809", 
+    "id": "9219600", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "018", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65462116768641, 
-            41.91583203486252
+            -87.6545040289529, 
+            41.9154444063075
         ]
     }, 
-    "case_number": "HW364809", 
+    "community_area": "7", 
+    "latitude": "41.9154444063075", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "1811", 
     "date": {
         "$date": 1373970600000
     }, 
-    "updated_on": {
-        "$date": 1374194525000
-    }, 
     "ward": "32", 
+    "_id": {
+        "$oid": "51fde767733824919a294f7a"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.6545040289529", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1169009", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9219600", 
-    "block": "018XX N MAUD AVE", 
-    "description": "TO PROPERTY"
+    "block": "018XX N MAUD AVE"
 }
