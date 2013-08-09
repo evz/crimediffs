@@ -1,33 +1,38 @@
 {
-    "community_area": "71", 
-    "_id": {
-        "$oid": "5203b9e1733824919a297ccc"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0622", 
+    "y_coordinate": "1847548", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1195", 
+    "case_number": "HW397168", 
+    "id": "9251999", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6386556554231, 
-            41.73778170695269
+            -87.63892701170562, 
+            41.73708080361602
         ]
     }, 
-    "case_number": "HW397168", 
+    "community_area": "71", 
+    "latitude": "41.73708080361602", 
+    "type": null, 
+    "description": "FRAUD OR CONFIDENCE GAME", 
+    "beat": "0622", 
     "date": {
         "$date": 1375110000000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "21", 
+    "_id": {
+        "$oid": "5203b9e1733824919a297ccc"
+    }, 
+    "iucr": "1130", 
+    "longitude": "-87.63892701170562", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1173774", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9251999", 
-    "block": "086XX S WALLACE ST", 
-    "description": "FINAN EXPLOIT-ELDERLY/DISABLED"
+    "block": "086XX S WALLACE ST"
 }
