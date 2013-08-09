@@ -1,0 +1,33 @@
+{
+    "community_area": "67", 
+    "_id": {
+        "$oid": "52050b55733824919a298077"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0714", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66530539235022, 
+            41.78038037265499
+        ]
+    }, 
+    "case_number": "HW397729", 
+    "date": {
+        "$date": 1374231600000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "15", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9254192", 
+    "block": "062XX S MARSHFIELD AVE", 
+    "description": "OVER $500"
+}
