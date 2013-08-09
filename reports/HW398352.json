@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "52050b4d733824919a298072"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0333", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5762697, 
+            41.76430999999999
+        ]
+    }, 
+    "case_number": "HW398352", 
+    "date": {
+        "$date": 1374532200000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "5", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9253414", 
+    "block": "072XX S JEFFERY BLVD", 
+    "description": "OVER $500"
+}
