@@ -6,7 +6,7 @@
     "id": "9238523", 
     "primary_type": "CRIMINAL DAMAGE", 
     "district": "014", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "COMMERCIAL / BUSINESS OFFICE", 
     "x_coordinate": "1160045", 
     "updated_on": {
-        "$date": 1375317661000
+        "$date": 1376009150000
     }, 
     "fbi_code": "14", 
     "block": "021XX N WESTERN AVE"
