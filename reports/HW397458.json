@@ -1,33 +1,38 @@
 {
-    "community_area": "68", 
-    "_id": {
-        "$oid": "5203b9e1733824919a297cca"
-    }, 
-    "primary_type": "OFFENSE INVOLVING CHILDREN", 
-    "beat": "0232", 
+    "y_coordinate": "1866924", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1750", 
+    "case_number": "HW397458", 
+    "id": "9252409", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62928790804916, 
-            41.78932297907196
+            -87.62933702677786, 
+            41.79019596289894
         ]
     }, 
-    "case_number": "HW397458", 
+    "community_area": "68", 
+    "latitude": "41.79019596289894", 
+    "type": null, 
+    "description": "CHILD ABUSE", 
+    "beat": "0232", 
     "date": {
         "$date": 1375110000000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "3", 
+    "_id": {
+        "$oid": "5203b9e1733824919a297cca"
+    }, 
+    "iucr": "1750", 
+    "longitude": "-87.62933702677786", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1176233", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
     "fbi_code": "20", 
-    "type": null, 
-    "id": "9252409", 
-    "block": "057XX S LA SALLE ST", 
-    "description": "CHILD ABUSE"
+    "block": "057XX S LA SALLE ST"
 }
