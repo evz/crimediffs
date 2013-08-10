@@ -1,0 +1,33 @@
+{
+    "community_area": "67", 
+    "_id": {
+        "$oid": "52065cf0733824919a29844e"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "0713", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2014", 
+    "arrest": false, 
+    "location_description": "ALLEY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66196364925973, 
+            41.78053927132972
+        ]
+    }, 
+    "case_number": "HW375674", 
+    "date": {
+        "$date": 1374592200000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "16", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9255463", 
+    "block": "062XX S LAFLIN ST", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)"
+}
