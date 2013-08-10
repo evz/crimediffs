@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "52050b44733824919a298061"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1523", 
+    "y_coordinate": "1900342", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW398750", 
+    "id": "9254270", 
+    "primary_type": "THEFT", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.7617863021222, 
-            41.883127811803426
+            -87.76147485633292, 
+            41.882637784961396
         ]
     }, 
-    "case_number": "HW398750", 
+    "community_area": "25", 
+    "latitude": "41.882637784961396", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1523", 
     "date": {
         "$date": 1374847200000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "28", 
+    "_id": {
+        "$oid": "52050b44733824919a298061"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.76147485633292", 
+    "location_description": "STREET", 
+    "x_coordinate": "1139974", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9254270", 
-    "block": "001XX N LOTUS AVE", 
-    "description": "$500 AND UNDER"
+    "block": "001XX N LOTUS AVE"
 }
