@@ -1,33 +1,38 @@
 {
-    "community_area": "42", 
-    "_id": {
-        "$oid": "52050b42733824919a29805e"
-    }, 
-    "primary_type": "CRIM SEXUAL ASSAULT", 
-    "beat": "0314", 
+    "y_coordinate": "1864404", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "281", 
+    "case_number": "HW398087", 
+    "id": "9252941", 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.58869037866114, 
-            41.78277984318849
+            -87.5871367237354, 
+            41.7830140035413
         ]
     }, 
-    "case_number": "HW398087", 
+    "community_area": "42", 
+    "latitude": "41.7830140035413", 
+    "type": "violent", 
+    "description": "NON-AGGRAVATED", 
+    "beat": "0314", 
     "date": {
         "$date": 1374922800000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "5", 
+    "_id": {
+        "$oid": "52050b42733824919a29805e"
+    }, 
+    "iucr": "281", 
+    "longitude": "-87.5871367237354", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1187764", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "02", 
-    "type": "violent", 
-    "id": "9252941", 
-    "block": "015XX E 62ND ST", 
-    "description": "NON-AGGRAVATED"
+    "block": "015XX E 62ND ST"
 }
