@@ -1,0 +1,33 @@
+{
+    "community_area": "7", 
+    "_id": {
+        "$oid": "52065ce1733824919a29843a"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1813", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "860", 
+    "arrest": false, 
+    "location_description": "SMALL RETAIL STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65183880145221, 
+            41.91074970892295
+        ]
+    }, 
+    "case_number": "HW399932", 
+    "date": {
+        "$date": 1375174800000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "32", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9255007", 
+    "block": "009XX W NORTH AVE", 
+    "description": "RETAIL THEFT"
+}
