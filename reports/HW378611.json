@@ -1,33 +1,38 @@
 {
-    "community_area": "29", 
-    "_id": {
-        "$oid": "52050b47733824919a298069"
-    }, 
-    "primary_type": "WEAPONS VIOLATION", 
-    "beat": "1021", 
+    "y_coordinate": "1892309", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "143A", 
+    "case_number": "HW378611", 
+    "id": "9253664", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "010", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.71263820951955, 
-            41.85943677561916
+            -87.7129561773779, 
+            41.8603413543592
         ]
     }, 
-    "case_number": "HW378611", 
+    "community_area": "29", 
+    "latitude": "41.8603413543592", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "1021", 
     "date": {
         "$date": 1374760680000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "24", 
+    "_id": {
+        "$oid": "52050b47733824919a298069"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.7129561773779", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1153245", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "15", 
-    "type": null, 
-    "id": "9253664", 
-    "block": "015XX S ST LOUIS AVE", 
-    "description": "UNLAWFUL POSS OF HANDGUN"
+    "block": "015XX S ST LOUIS AVE"
 }
