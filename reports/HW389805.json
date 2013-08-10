@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1902230", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW389805", 
+    "id": "9245623", 
+    "primary_type": "ROBBERY", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76524792663942, 
+            41.887837652398936
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.887837652398936", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "1512", 
+    "date": {
+        "$date": 1375440600000
+    }, 
+    "ward": "29", 
+    "_id": {
+        "$oid": "52065cd8733824919a29839b"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.76524792663942", 
+    "location_description": "STREET", 
+    "x_coordinate": "1138934", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "fbi_code": "03", 
+    "block": "056XX W LAKE ST"
+}
