@@ -1,0 +1,33 @@
+{
+    "community_area": "3", 
+    "_id": {
+        "$oid": "52065cdf733824919a298435"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2032", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67254088339608, 
+            41.971984412577875
+        ]
+    }, 
+    "case_number": "HW400150", 
+    "date": {
+        "$date": 1375261200000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "47", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9255559", 
+    "block": "049XX N HERMITAGE AVE", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
