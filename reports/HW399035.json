@@ -1,33 +1,38 @@
 {
-    "community_area": "71", 
-    "_id": {
-        "$oid": "52050b39733824919a298049"
-    }, 
-    "primary_type": "INTIMIDATION", 
-    "beat": "0614", 
+    "y_coordinate": "1847295", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "3960", 
+    "case_number": "HW399035", 
+    "id": "9254209", 
+    "primary_type": "INTIMIDATION", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66808997799744, 
-            41.736556292314766
+            -87.66808994967842, 
+            41.736559036464065
         ]
     }, 
-    "case_number": "HW399035", 
+    "community_area": "71", 
+    "latitude": "41.736559036464065", 
+    "type": null, 
+    "description": "INTIMIDATION", 
+    "beat": "0614", 
     "date": {
         "$date": 1375282800000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "18", 
+    "_id": {
+        "$oid": "52050b39733824919a298049"
+    }, 
+    "iucr": "3960", 
+    "longitude": "-87.66808994967842", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1165816", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9254209", 
-    "block": "086XX S WOOD ST", 
-    "description": "INTIMIDATION"
+    "block": "086XX S WOOD ST"
 }
