@@ -1,33 +1,38 @@
 {
-    "community_area": "71", 
-    "_id": {
-        "$oid": "51fde767733824919a294fcc"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "0622", 
+    "y_coordinate": "1849388", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "560", 
+    "case_number": "HW364970", 
+    "id": "9222590", 
+    "primary_type": "ASSAULT", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6418345, 
-            41.7433616
+            -87.6412175586894, 
+            41.742144154090724
         ]
     }, 
-    "case_number": "HW364970", 
+    "community_area": "71", 
+    "latitude": "41.742144154090724", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0622", 
     "date": {
         "$date": 1373961600000
     }, 
-    "updated_on": {
-        "$date": 1374626441000
-    }, 
     "ward": "21", 
+    "_id": {
+        "$oid": "51fde767733824919a294fcc"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.6412175586894", 
+    "location_description": "STREET", 
+    "x_coordinate": "1173134", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9222590", 
-    "block": "083XX S KERFOOT AVE", 
-    "description": "SIMPLE"
+    "block": "083XX S KERFOOT AVE"
 }
