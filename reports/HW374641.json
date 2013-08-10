@@ -1,0 +1,33 @@
+{
+    "community_area": "23", 
+    "_id": {
+        "$oid": "52065cf1733824919a298454"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "1121", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2014", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71395315017536, 
+            41.89320363648073
+        ]
+    }, 
+    "case_number": "HW374641", 
+    "date": {
+        "$date": 1374523800000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "27", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9255512", 
+    "block": "006XX N ST LOUIS AVE", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)"
+}
