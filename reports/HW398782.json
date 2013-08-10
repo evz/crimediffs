@@ -1,15 +1,12 @@
 {
-    "community_area": "28", 
-    "_id": {
-        "$oid": "52050b3c733824919a298051"
-    }, 
-    "primary_type": "OBSCENITY", 
-    "beat": "1223", 
+    "y_coordinate": "1899062", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1540", 
-    "arrest": false, 
-    "location_description": "APARTMENT", 
+    "case_number": "HW398782", 
+    "id": "9253925", 
+    "primary_type": "OBSCENITY", 
+    "district": "012", 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.87871791619141
         ]
     }, 
-    "case_number": "HW398782", 
+    "community_area": "28", 
+    "latitude": "41.87871791619141", 
+    "type": null, 
+    "description": "OBSCENE MATTER", 
+    "beat": "1223", 
     "date": {
         "$date": 1375141440000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "52050b3c733824919a298051"
+    }, 
+    "iucr": "1540", 
+    "longitude": "-87.68483077238021", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1160856", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "17", 
-    "type": null, 
-    "id": "9253925", 
-    "block": "023XX W ADAMS ST", 
-    "description": "OBSCENE MATTER"
+    "block": "023XX W ADAMS ST"
 }
