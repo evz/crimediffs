@@ -1,0 +1,33 @@
+{
+    "community_area": "24", 
+    "_id": {
+        "$oid": "52065cf4733824919a298459"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "1424", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "320", 
+    "arrest": false, 
+    "location_description": "CTA PLATFORM", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66738364630218, 
+            41.904663648035466
+        ]
+    }, 
+    "case_number": "HW398839", 
+    "date": {
+        "$date": 1374417900000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "1", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9255866", 
+    "block": "012XX N ASHLAND AVE", 
+    "description": "STRONGARM - NO WEAPON"
+}
