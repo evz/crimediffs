@@ -1,33 +1,38 @@
 {
-    "community_area": "28", 
-    "_id": {
-        "$oid": "52050b4a733824919a298070"
-    }, 
-    "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", 
-    "beat": "1232", 
+    "y_coordinate": "1896373", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "3800", 
+    "case_number": "HW398441", 
+    "id": "9253644", 
+    "primary_type": "INTERFERENCE WITH PUBLIC OFFICER", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65666244262303, 
-            41.87109104378727
+            -87.65666154542907, 
+            41.87117611021635
         ]
     }, 
-    "case_number": "HW398441", 
+    "community_area": "28", 
+    "latitude": "41.87117611021635", 
+    "type": null, 
+    "description": "INTERFERENCE JUDICIAL PROCESS", 
+    "beat": "1232", 
     "date": {
         "$date": 1374661800000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "25", 
+    "_id": {
+        "$oid": "52050b4a733824919a298070"
+    }, 
+    "iucr": "3800", 
+    "longitude": "-87.65666154542907", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1168549", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9253644", 
-    "block": "008XX S RACINE AVE", 
-    "description": "INTERFERENCE JUDICIAL PROCESS"
+    "block": "008XX S RACINE AVE"
 }
