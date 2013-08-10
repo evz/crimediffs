@@ -1,0 +1,33 @@
+{
+    "community_area": "24", 
+    "_id": {
+        "$oid": "52065cd3733824919a298278"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1434", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67370009852063, 
+            41.91234828151536
+        ]
+    }, 
+    "case_number": "HW396407", 
+    "date": {
+        "$date": 1375462800000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "32", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9252564", 
+    "block": "016XX N HONORE ST", 
+    "description": "$500 AND UNDER"
+}
