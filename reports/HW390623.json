@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1895107", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW390623", 
+    "id": "9245312", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62734745369652, 
+            41.86752542918532
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.86752542918532", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0123", 
+    "date": {
+        "$date": 1375473600000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "52065cd0733824919a2981f9"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.62734745369652", 
+    "location_description": "DRUG STORE", 
+    "x_coordinate": "1176544", 
+    "updated_on": {
+        "$date": 1375663313000
+    }, 
+    "fbi_code": "06", 
+    "block": "0000X E ROOSEVELT RD"
+}
