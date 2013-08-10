@@ -1,15 +1,12 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "52050b3e733824919a298056"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0513", 
+    "y_coordinate": "1831386", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW399040", 
+    "id": "9254098", 
+    "primary_type": "THEFT", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "RESTAURANT", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.692651781954744
         ]
     }, 
-    "case_number": "HW399040", 
+    "community_area": "49", 
+    "latitude": "41.692651781954744", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0513", 
     "date": {
         "$date": 1375099800000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "34", 
+    "_id": {
+        "$oid": "52050b3e733824919a298056"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.62657551674937", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1177278", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9254098", 
-    "block": "001XX W 111TH ST", 
-    "description": "FROM BUILDING"
+    "block": "001XX W 111TH ST"
 }
