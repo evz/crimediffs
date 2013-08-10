@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "52065cd9733824919a2983dc"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0513", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "841", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62808489999999, 
+            41.6989127
+        ]
+    }, 
+    "case_number": "HW399825", 
+    "date": {
+        "$date": 1375434000000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "34", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9255357", 
+    "block": "002XX W 107TH PL", 
+    "description": "FINANCIAL ID THEFT:$300 &UNDER"
+}
