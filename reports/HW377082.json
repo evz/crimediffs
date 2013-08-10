@@ -1,33 +1,38 @@
 {
-    "community_area": "42", 
-    "_id": {
-        "$oid": "52050b4a733824919a29806f"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "0313", 
+    "y_coordinate": "1863552", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2027", 
+    "case_number": "HW377082", 
+    "id": "9253692", 
+    "primary_type": "NARCOTICS", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61430716193362, 
-            41.78190569055164
+            -87.61427863684526, 
+            41.780848960942734
         ]
     }, 
-    "case_number": "HW377082", 
+    "community_area": "42", 
+    "latitude": "41.780848960942734", 
+    "type": "quality", 
+    "description": "POSS: CRACK", 
+    "beat": "0313", 
     "date": {
         "$date": 1374672120000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "20", 
+    "_id": {
+        "$oid": "52050b4a733824919a29806f"
+    }, 
+    "iucr": "2027", 
+    "longitude": "-87.61427863684526", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1180368", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9253692", 
-    "block": "062XX S VERNON AVE", 
-    "description": "POSS: CRACK"
+    "block": "062XX S VERNON AVE"
 }
