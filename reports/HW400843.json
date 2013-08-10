@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "52065ced733824919a298447"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0634", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "860", 
+    "arrest": false, 
+    "location_description": "DEPARTMENT STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63170389999999, 
+            41.7360154
+        ]
+    }, 
+    "case_number": "HW400843", 
+    "date": {
+        "$date": 1374694200000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "21", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9255985", 
+    "block": "001XX W 87TH ST", 
+    "description": "RETAIL THEFT"
+}
