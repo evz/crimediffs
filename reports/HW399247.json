@@ -1,33 +1,38 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "52050b3b733824919a29804d"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0633", 
+    "y_coordinate": "1843074", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2825", 
+    "case_number": "HW399247", 
+    "id": "9254245", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6188997134165, 
-            41.72421069093054
+            -87.61890916687634, 
+            41.72468002768781
         ]
     }, 
-    "case_number": "HW399247", 
+    "community_area": "49", 
+    "latitude": "41.72468002768781", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "0633", 
     "date": {
         "$date": 1375200180000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "6", 
+    "_id": {
+        "$oid": "52050b3b733824919a29804d"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.61890916687634", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1179275", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9254245", 
-    "block": "093XX S INDIANA AVE", 
-    "description": "HARASSMENT BY TELEPHONE"
+    "block": "093XX S INDIANA AVE"
 }
