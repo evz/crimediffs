@@ -1,33 +1,38 @@
 {
-    "community_area": "26", 
-    "_id": {
-        "$oid": "52050b38733824919a298045"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1113", 
+    "y_coordinate": "1901329", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW399125", 
+    "id": "9254434", 
+    "primary_type": "THEFT", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.7383670769406, 
-            41.885231709443524
+            -87.73871229046205, 
+            41.88523075318364
         ]
     }, 
-    "case_number": "HW399125", 
+    "community_area": "26", 
+    "latitude": "41.88523075318364", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1113", 
     "date": {
         "$date": 1375315260000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "28", 
+    "_id": {
+        "$oid": "52050b38733824919a298045"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.73871229046205", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1146166", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9254434", 
-    "block": "045XX W FULTON ST", 
-    "description": "FROM BUILDING"
+    "block": "045XX W FULTON ST"
 }
