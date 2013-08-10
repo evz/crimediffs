@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "52050b40733824919a29805b"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "0421", 
+    "y_coordinate": "1854454", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1811", 
+    "case_number": "HW382803", 
+    "id": "9253446", 
+    "primary_type": "NARCOTICS", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.56082536717989, 
-            41.7555398862381
+            -87.56103431948571, 
+            41.755535802397105
         ]
     }, 
-    "case_number": "HW382803", 
+    "community_area": "43", 
+    "latitude": "41.755535802397105", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "0421", 
     "date": {
         "$date": 1375013400000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "7", 
+    "_id": {
+        "$oid": "52050b40733824919a29805b"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.56103431948571", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1194973", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9253446", 
-    "block": "026XX E 77TH ST", 
-    "description": "POSS: CANNABIS 30GMS OR LESS"
+    "block": "026XX E 77TH ST"
 }
