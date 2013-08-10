@@ -1,0 +1,33 @@
+{
+    "community_area": "46", 
+    "_id": {
+        "$oid": "52065cea733824919a298445"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0414", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5696660871937, 
+            41.74681448599413
+        ]
+    }, 
+    "case_number": "HW400408", 
+    "date": {
+        "$date": 1374834600000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "8", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9255685", 
+    "block": "081XX S LUELLA AVE", 
+    "description": "OVER $500"
+}
