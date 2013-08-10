@@ -1,0 +1,33 @@
+{
+    "community_area": "8", 
+    "_id": {
+        "$oid": "52065ce4733824919a298441"
+    }, 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "beat": "1834", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1152", 
+    "arrest": false, 
+    "location_description": "ATM (AUTOMATIC TELLER MACHINE)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62005448149047, 
+            41.89111652764786
+        ]
+    }, 
+    "case_number": "HW399842", 
+    "date": {
+        "$date": 1375034400000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "42", 
+    "fbi_code": "11", 
+    "type": null, 
+    "id": "9254914", 
+    "block": "003XX E ILLINOIS ST", 
+    "description": "ILLEGAL USE CASH CARD"
+}
