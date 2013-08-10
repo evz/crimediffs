@@ -1,0 +1,33 @@
+{
+    "community_area": "6", 
+    "_id": {
+        "$oid": "52065cdc733824919a29842e"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1934", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "PARK PROPERTY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63703358229758, 
+            41.93302082040719
+        ]
+    }, 
+    "case_number": "HW400120", 
+    "date": {
+        "$date": 1375369200000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "44", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9255581", 
+    "block": "003XX W DIVERSEY PKWY", 
+    "description": "$500 AND UNDER"
+}
