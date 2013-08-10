@@ -1,33 +1,38 @@
 {
-    "community_area": "61", 
-    "_id": {
-        "$oid": "52050b48733824919a29806e"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0924", 
+    "y_coordinate": "1874672", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW398512", 
+    "id": "9253967", 
+    "primary_type": "THEFT", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66247429005149, 
-            41.81173928295803
+            -87.66276491746261, 
+            41.8116586515865
         ]
     }, 
-    "case_number": "HW398512", 
+    "community_area": "61", 
+    "latitude": "41.8116586515865", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0924", 
     "date": {
         "$date": 1374710700000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "3", 
+    "_id": {
+        "$oid": "52050b48733824919a29806e"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.66276491746261", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1167056", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9253967", 
-    "block": "045XX S LAFLIN ST", 
-    "description": "$500 AND UNDER"
+    "block": "045XX S LAFLIN ST"
 }
