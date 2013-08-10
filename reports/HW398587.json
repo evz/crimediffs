@@ -1,33 +1,38 @@
 {
-    "community_area": "71", 
-    "_id": {
-        "$oid": "52050b48733824919a29806d"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0614", 
+    "y_coordinate": "1850571", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1150", 
+    "case_number": "HW398587", 
+    "id": "9253696", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67165137134945, 
-            41.74511440915237
+            -87.6716613508895, 
+            41.745570021969336
         ]
     }, 
-    "case_number": "HW398587", 
+    "community_area": "71", 
+    "latitude": "41.745570021969336", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "0614", 
     "date": {
         "$date": 1374742800000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "18", 
+    "_id": {
+        "$oid": "52050b48733824919a29806d"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.6716613508895", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1164816", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9253696", 
-    "block": "081XX S WINCHESTER AVE", 
-    "description": "CREDIT CARD FRAUD"
+    "block": "081XX S WINCHESTER AVE"
 }
