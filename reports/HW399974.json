@@ -1,0 +1,33 @@
+{
+    "community_area": "57", 
+    "_id": {
+        "$oid": "52065cfb733824919a298461"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0815", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "RESIDENCE-GARAGE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7272945706105, 
+            41.80397922172033
+        ]
+    }, 
+    "case_number": "HW399974", 
+    "date": {
+        "$date": 1374107400000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "23", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9255079", 
+    "block": "049XX S KEDVALE AVE", 
+    "description": "FORCIBLE ENTRY"
+}
