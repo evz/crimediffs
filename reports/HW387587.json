@@ -1,33 +1,38 @@
 {
-    "community_area": "3", 
-    "_id": {
-        "$oid": "52050b38733824919a298047"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "2024", 
+    "y_coordinate": "1934346", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "031A", 
+    "case_number": "HW387587", 
+    "id": "9254319", 
+    "primary_type": "ROBBERY", 
+    "district": "020", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65579363112039, 
-            41.975157881668125
+            -87.65587220555221, 
+            41.975377881346596
         ]
     }, 
-    "case_number": "HW387587", 
+    "community_area": "3", 
+    "latitude": "41.975377881346596", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "2024", 
     "date": {
         "$date": 1375297500000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "48", 
+    "_id": {
+        "$oid": "52050b38733824919a298047"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.65587220555221", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1168464", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9254319", 
-    "block": "010XX W WINONA ST", 
-    "description": "ARMED: HANDGUN"
+    "block": "010XX W WINONA ST"
 }
