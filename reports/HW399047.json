@@ -1,33 +1,38 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "52050b37733824919a298032"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0513", 
+    "y_coordinate": "1833740", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2820", 
+    "case_number": "HW399047", 
+    "id": "9254103", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6255262111277, 
-            41.69885848642059
+            -87.62582374784597, 
+            41.6991073081554
         ]
     }, 
-    "case_number": "HW399047", 
+    "community_area": "49", 
+    "latitude": "41.6991073081554", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "0513", 
     "date": {
         "$date": 1375338600000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "34", 
+    "_id": {
+        "$oid": "52050b37733824919a298032"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.62582374784597", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1177464", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9254103", 
-    "block": "107XX S PERRY AVE", 
-    "description": "TELEPHONE THREAT"
+    "block": "107XX S PERRY AVE"
 }
