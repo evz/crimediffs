@@ -1,33 +1,38 @@
 {
-    "community_area": "8", 
-    "_id": {
-        "$oid": "52050b43733824919a29805f"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1833", 
+    "y_coordinate": "1905737", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW398617", 
+    "id": "9253688", 
+    "primary_type": "THEFT", 
+    "district": "018", 
     "arrest": false, 
-    "location_description": "HOSPITAL BUILDING/GROUNDS", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62168240636265, 
-            41.89665900726336
+            -87.62168237589763, 
+            41.89666175130914
         ]
     }, 
-    "case_number": "HW398617", 
+    "community_area": "8", 
+    "latitude": "41.89666175130914", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1833", 
     "date": {
         "$date": 1374879600000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "42", 
+    "_id": {
+        "$oid": "52050b43733824919a29805f"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.62168237589763", 
+    "location_description": "HOSPITAL BUILDING/GROUNDS", 
+    "x_coordinate": "1177999", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9253688", 
-    "block": "002XX E CHICAGO AVE", 
-    "description": "FROM BUILDING"
+    "block": "002XX E CHICAGO AVE"
 }
