@@ -1,33 +1,38 @@
 {
-    "community_area": "26", 
-    "_id": {
-        "$oid": "52050b3d733824919a298053"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1132", 
+    "y_coordinate": "1898354", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2017", 
+    "case_number": "HW384495", 
+    "id": "9253535", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "ALLEY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72324599999999, 
-            41.8773486
+            -87.72449022106782, 
+            41.8769920941016
         ]
     }, 
-    "case_number": "HW384495", 
+    "community_area": "26", 
+    "latitude": "41.8769920941016", 
+    "type": "quality", 
+    "description": "MANU/DELIVER:CRACK", 
+    "beat": "1132", 
     "date": {
         "$date": 1375116240000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "28", 
+    "_id": {
+        "$oid": "52050b3d733824919a298053"
+    }, 
+    "iucr": "2017", 
+    "longitude": "-87.72449022106782", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1150060", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9253535", 
-    "block": "039XX W JACKSON BLVD", 
-    "description": "MANU/DELIVER:CRACK"
+    "block": "039XX W JACKSON BLVD"
 }
