@@ -1,0 +1,33 @@
+{
+    "community_area": "68", 
+    "_id": {
+        "$oid": "52065cf0733824919a298451"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "0733", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "RESIDENCE-GARAGE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6515660241045, 
+            41.75973939046978
+        ]
+    }, 
+    "case_number": "HW395742", 
+    "date": {
+        "$date": 1374573600000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "17", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9255333", 
+    "block": "011XX W 74TH ST", 
+    "description": "AUTOMOBILE"
+}
