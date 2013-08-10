@@ -1,0 +1,33 @@
+{
+    "community_area": "23", 
+    "_id": {
+        "$oid": "52065ce2733824919a29843b"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1112", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71897773422238, 
+            41.897788811734266
+        ]
+    }, 
+    "case_number": "HW383986", 
+    "date": {
+        "$date": 1375098420000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "27", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9255001", 
+    "block": "009XX N LAWNDALE AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
