@@ -1,33 +1,38 @@
 {
-    "community_area": "71", 
-    "_id": {
-        "$oid": "52050b56733824919a298078"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0621", 
+    "y_coordinate": "1854025", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW398406", 
+    "id": "9253318", 
+    "primary_type": "THEFT", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "SCHOOL, PUBLIC, BUILDING", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64550944412478, 
-            41.7547443374926
+            -87.6455114973871, 
+            41.75489528645734
         ]
     }, 
-    "case_number": "HW398406", 
+    "community_area": "71", 
+    "latitude": "41.75489528645734", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0621", 
     "date": {
         "$date": 1374152400000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "17", 
+    "_id": {
+        "$oid": "52050b56733824919a298078"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.6455114973871", 
+    "location_description": "SCHOOL, PUBLIC, BUILDING", 
+    "x_coordinate": "1171925", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9253318", 
-    "block": "076XX S GREEN ST", 
-    "description": "OVER $500"
+    "block": "076XX S GREEN ST"
 }
