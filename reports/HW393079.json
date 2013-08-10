@@ -1,0 +1,33 @@
+{
+    "community_area": "32", 
+    "_id": {
+        "$oid": "52065ccb733824919a298133"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0122", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6336218244918, 
+            41.87964400017687
+        ]
+    }, 
+    "case_number": "HW393079", 
+    "date": {
+        "$date": 1375488000000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "2", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9252437", 
+    "block": "001XX S WELLS ST", 
+    "description": "$500 AND UNDER"
+}
