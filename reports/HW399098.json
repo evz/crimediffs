@@ -1,33 +1,38 @@
 {
-    "community_area": "61", 
-    "_id": {
-        "$oid": "52050b61733824919a29807d"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0924", 
+    "y_coordinate": "1874484", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2826", 
+    "case_number": "HW399098", 
+    "id": "9254322", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.669045, 
-            41.8120819
+            -87.66853994949733, 
+            41.811176294790975
         ]
     }, 
-    "case_number": "HW399098", 
+    "community_area": "61", 
+    "latitude": "41.811176294790975", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "0924", 
     "date": {
         "$date": 1373716800000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "20", 
+    "_id": {
+        "$oid": "52050b61733824919a29807d"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.66853994949733", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1165483", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9254322", 
-    "block": "045XX S HERMITAGE AVE", 
-    "description": "HARASSMENT BY ELECTRONIC MEANS"
+    "block": "045XX S HERMITAGE AVE"
 }
