@@ -1,0 +1,33 @@
+{
+    "community_area": "42", 
+    "_id": {
+        "$oid": "52065cd9733824919a2983fb"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0321", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "841", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61292767394568, 
+            41.773795903991015
+        ]
+    }, 
+    "case_number": "HW394428", 
+    "date": {
+        "$date": 1375430400000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "20", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9249290", 
+    "block": "066XX S MARQUETTE RD", 
+    "description": "FINANCIAL ID THEFT:$300 &UNDER"
+}
