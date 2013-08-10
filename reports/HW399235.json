@@ -1,33 +1,38 @@
 {
-    "community_area": "8", 
-    "_id": {
-        "$oid": "52050b64733824919a29807e"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "1834", 
+    "y_coordinate": "1904585", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1150", 
+    "case_number": "HW399235", 
+    "id": "9254237", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "018", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62260702585104, 
-            41.8947602345323
+            -87.6225768576778, 
+            41.893505932036604
         ]
     }, 
-    "case_number": "HW399235", 
+    "community_area": "8", 
+    "latitude": "41.893505932036604", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "1834", 
     "date": {
         "$date": 1373608800000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "42", 
+    "_id": {
+        "$oid": "52050b64733824919a29807e"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.6225768576778", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1177765", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9254237", 
-    "block": "006XX N ST CLAIR ST", 
-    "description": "CREDIT CARD FRAUD"
+    "block": "006XX N ST CLAIR ST"
 }
