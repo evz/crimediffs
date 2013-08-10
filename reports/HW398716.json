@@ -1,33 +1,38 @@
 {
-    "community_area": "28", 
-    "_id": {
-        "$oid": "52050b36733824919a297ff7"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "1135", 
+    "y_coordinate": "1894935", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "620", 
+    "case_number": "HW398716", 
+    "id": "9253813", 
+    "primary_type": "BURGLARY", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "RESIDENCE-GARAGE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.68657663696924, 
-            41.86762727148492
+            -87.6868395571358, 
+            41.867403723123566
         ]
     }, 
-    "case_number": "HW398716", 
+    "community_area": "28", 
+    "latitude": "41.867403723123566", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "1135", 
     "date": {
         "$date": 1375347600000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "28", 
+    "_id": {
+        "$oid": "52050b36733824919a297ff7"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.6868395571358", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1160340", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9253813", 
-    "block": "024XX W GRENSHAW ST", 
-    "description": "UNLAWFUL ENTRY"
+    "block": "024XX W GRENSHAW ST"
 }
