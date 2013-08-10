@@ -1,0 +1,33 @@
+{
+    "community_area": "3", 
+    "_id": {
+        "$oid": "52065cd5733824919a2982dd"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1915", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64708479698884, 
+            41.958407676946
+        ]
+    }, 
+    "case_number": "HW394001", 
+    "date": {
+        "$date": 1375455600000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "46", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9248933", 
+    "block": "006XX W BUENA AVE", 
+    "description": "OVER $500"
+}
