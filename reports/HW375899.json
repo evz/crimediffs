@@ -1,0 +1,33 @@
+{
+    "community_area": "27", 
+    "_id": {
+        "$oid": "52065cef733824919a29844b"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "1133", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2014", 
+    "arrest": false, 
+    "location_description": "ALLEY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71778923134892, 
+            41.8716078276191
+        ]
+    }, 
+    "case_number": "HW375899", 
+    "date": {
+        "$date": 1374600600000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "24", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9255432", 
+    "block": "036XX W LEXINGTON ST", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)"
+}
