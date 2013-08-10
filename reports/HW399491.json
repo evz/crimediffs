@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "52050b3a733824919a29804b"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0324", 
+    "y_coordinate": "1857864", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1152", 
+    "case_number": "HW399491", 
+    "id": "9254456", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "ATM (AUTOMATIC TELLER MACHINE)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.58647016678489, 
-            41.76588530358821
+            -87.58574666667644, 
+            41.76505730979968
         ]
     }, 
-    "case_number": "HW399491", 
+    "community_area": "43", 
+    "latitude": "41.76505730979968", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "0324", 
     "date": {
         "$date": 1375228860000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "5", 
+    "_id": {
+        "$oid": "52050b3a733824919a29804b"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.58574666667644", 
+    "location_description": "ATM (AUTOMATIC TELLER MACHINE)", 
+    "x_coordinate": "1188200", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9254456", 
-    "block": "071XX S STONY ISLAND AVE", 
-    "description": "ILLEGAL USE CASH CARD"
+    "block": "071XX S STONY ISLAND AVE"
 }
