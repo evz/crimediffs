@@ -1,0 +1,33 @@
+{
+    "community_area": "72", 
+    "_id": {
+        "$oid": "52065cf1733824919a298455"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2213", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66460496094642, 
+            41.70906267976691
+        ]
+    }, 
+    "case_number": "HW386985", 
+    "date": {
+        "$date": 1374519600000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "19", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9255224", 
+    "block": "016XX W 101ST PL", 
+    "description": "$500 AND UNDER"
+}
