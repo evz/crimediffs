@@ -1,33 +1,38 @@
 {
-    "community_area": "30", 
-    "_id": {
-        "$oid": "52050b54733824919a298075"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1013", 
+    "y_coordinate": "1886505", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "860", 
-    "arrest": false, 
-    "location_description": "SMALL RETAIL STORE", 
+    "case_number": "HW399090", 
+    "id": "9254267", 
+    "primary_type": "THEFT", 
+    "district": "010", 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.71776177728499, 
-            41.84423095455728
+            -87.71833227732684, 
+            41.84444257489276
         ]
     }, 
-    "case_number": "HW399090", 
+    "community_area": "30", 
+    "latitude": "41.84444257489276", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "1013", 
     "date": {
         "$date": 1374253740000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "22", 
+    "_id": {
+        "$oid": "52050b54733824919a298075"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.71833227732684", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1151822", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9254267", 
-    "block": "037XX W 26TH ST", 
-    "description": "RETAIL THEFT"
+    "block": "037XX W 26TH ST"
 }
