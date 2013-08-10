@@ -1,33 +1,38 @@
 {
-    "community_area": "1", 
-    "_id": {
-        "$oid": "52050b5c733824919a29807b"
-    }, 
-    "primary_type": "OFFENSE INVOLVING CHILDREN", 
-    "beat": "2432", 
+    "y_coordinate": "1945188", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "1750", 
+    "case_number": "HW398425", 
+    "id": "9253316", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "024", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67131509576242, 
-            42.005472984222074
+            -87.672712076291, 
+            42.00522856739009
         ]
     }, 
-    "case_number": "HW398425", 
+    "community_area": "1", 
+    "latitude": "42.00522856739009", 
+    "type": null, 
+    "description": "CHILD ABUSE", 
+    "beat": "2432", 
     "date": {
         "$date": 1373932800000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "49", 
+    "_id": {
+        "$oid": "52050b5c733824919a29807b"
+    }, 
+    "iucr": "1750", 
+    "longitude": "-87.672712076291", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1163801", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "20", 
-    "type": null, 
-    "id": "9253316", 
-    "block": "016XX W PRATT BLVD", 
-    "description": "CHILD ABUSE"
+    "block": "016XX W PRATT BLVD"
 }
