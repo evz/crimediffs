@@ -6,7 +6,7 @@
     "id": "9224646", 
     "primary_type": "BURGLARY", 
     "district": "017", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "RESIDENCE-GARAGE", 
     "x_coordinate": "1157714", 
     "updated_on": {
-        "$date": 1376009150000
+        "$date": 1376095237000
     }, 
     "fbi_code": "05", 
     "block": "039XX N WASHTENAW AVE"
