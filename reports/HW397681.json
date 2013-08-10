@@ -1,33 +1,38 @@
 {
-    "community_area": "64", 
-    "_id": {
-        "$oid": "52050b45733824919a298068"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0813", 
+    "y_coordinate": "1861961", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1122", 
+    "case_number": "HW397681", 
+    "id": "9252957", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.75970420506441, 
-            41.777084158605994
+            -87.75991123883779, 
+            41.777301991801814
         ]
     }, 
-    "case_number": "HW397681", 
+    "community_area": "64", 
+    "latitude": "41.777301991801814", 
+    "type": null, 
+    "description": "COUNTERFEIT CHECK", 
+    "beat": "0813", 
     "date": {
         "$date": 1374796860000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "13", 
+    "_id": {
+        "$oid": "52050b45733824919a298068"
+    }, 
+    "iucr": "1122", 
+    "longitude": "-87.75991123883779", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1140656", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "10", 
-    "type": null, 
-    "id": "9252957", 
-    "block": "055XX W 63RD PL", 
-    "description": "COUNTERFEIT CHECK"
+    "block": "055XX W 63RD PL"
 }
