@@ -1,0 +1,33 @@
+{
+    "community_area": "40", 
+    "_id": {
+        "$oid": "52065cda733824919a29842b"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0311", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61581175074559, 
+            41.781786116119484
+        ]
+    }, 
+    "case_number": "HW395197", 
+    "date": {
+        "$date": 1375419600000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "20", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9254504", 
+    "block": "062XX S DR MARTIN LUTHER KING JR DR", 
+    "description": "FORCIBLE ENTRY"
+}
