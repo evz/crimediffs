@@ -1,0 +1,33 @@
+{
+    "community_area": "21", 
+    "_id": {
+        "$oid": "52065cd3733824919a298266"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1411", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "VACANT LOT/LAND", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69785270554925, 
+            41.93492402826375
+        ]
+    }, 
+    "case_number": "HW394029", 
+    "date": {
+        "$date": 1375464600000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "1", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9248918", 
+    "block": "029XX N CALIFORNIA AVE", 
+    "description": "FROM BUILDING"
+}
