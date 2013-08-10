@@ -1,33 +1,38 @@
 {
-    "community_area": "19", 
-    "_id": {
-        "$oid": "52050b39733824919a298048"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2515", 
+    "y_coordinate": "1913848", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW398583", 
+    "id": "9253689", 
+    "primary_type": "THEFT", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "VACANT LOT/LAND", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.7610827816869, 
-            41.91997945815053
+            -87.76078032357464, 
+            41.91969803875242
         ]
     }, 
-    "case_number": "HW398583", 
+    "community_area": "19", 
+    "latitude": "41.91969803875242", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "2515", 
     "date": {
         "$date": 1375290000000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "37", 
+    "_id": {
+        "$oid": "52050b39733824919a298048"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.76078032357464", 
+    "location_description": "VACANT LOT/LAND", 
+    "x_coordinate": "1140073", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9253689", 
-    "block": "021XX N LONG AVE", 
-    "description": "FROM BUILDING"
+    "block": "021XX N LONG AVE"
 }
