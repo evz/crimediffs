@@ -1,0 +1,33 @@
+{
+    "community_area": "30", 
+    "_id": {
+        "$oid": "52065cd9733824919a2983e2"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1033", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70244312174195, 
+            41.85169181076932
+        ]
+    }, 
+    "case_number": "HW394011", 
+    "date": {
+        "$date": 1375434000000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "12", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9248922", 
+    "block": "030XX W CERMAK RD", 
+    "description": "$500 AND UNDER"
+}
