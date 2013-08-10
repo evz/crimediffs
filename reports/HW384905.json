@@ -6,7 +6,7 @@
     "id": "9238303", 
     "primary_type": "OTHER OFFENSE", 
     "district": "019", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "SIDEWALK", 
     "x_coordinate": "1169000", 
     "updated_on": {
-        "$date": 1375231290000
+        "$date": 1376095237000
     }, 
     "fbi_code": "26", 
     "block": "036XX N SHEFFIELD AVE"
