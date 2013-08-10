@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "52050b3d733824919a298054"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1511", 
+    "y_coordinate": "1905449", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW398630", 
+    "id": "9253675", 
+    "primary_type": "THEFT", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "VACANT LOT/LAND", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.77049061511511, 
-            41.89723506496027
+            -87.77017946913782, 
+            41.8966956678492
         ]
     }, 
-    "case_number": "HW398630", 
+    "community_area": "25", 
+    "latitude": "41.8966956678492", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1511", 
     "date": {
         "$date": 1375110000000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "29", 
+    "_id": {
+        "$oid": "52050b3d733824919a298054"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.77017946913782", 
+    "location_description": "VACANT LOT/LAND", 
+    "x_coordinate": "1137570", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9253675", 
-    "block": "009XX N MENARD AVE", 
-    "description": "FROM BUILDING"
+    "block": "009XX N MENARD AVE"
 }
