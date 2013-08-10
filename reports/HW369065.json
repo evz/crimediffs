@@ -6,7 +6,7 @@
     "id": "9222545", 
     "primary_type": "CRIMINAL DAMAGE", 
     "district": "005", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "APARTMENT", 
     "x_coordinate": "1180785", 
     "updated_on": {
-        "$date": 1376009150000
+        "$date": 1376095237000
     }, 
     "fbi_code": "14", 
     "block": "004XX E 104TH ST"
