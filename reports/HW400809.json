@@ -1,0 +1,33 @@
+{
+    "community_area": "20", 
+    "_id": {
+        "$oid": "52065cee733824919a298448"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2522", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73252309402399, 
+            41.917100319650636
+        ]
+    }, 
+    "case_number": "HW400809", 
+    "date": {
+        "$date": 1374663600000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "30", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9255900", 
+    "block": "020XX N TRIPP AVE", 
+    "description": "OVER $500"
+}
