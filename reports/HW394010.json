@@ -1,0 +1,33 @@
+{
+    "community_area": "32", 
+    "_id": {
+        "$oid": "52065cd0733824919a2981ec"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0123", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1305", 
+    "arrest": false, 
+    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62613763488038, 
+            41.87403008405312
+        ]
+    }, 
+    "case_number": "HW394010", 
+    "date": {
+        "$date": 1375473600000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "2", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9248929", 
+    "block": "006XX S WABASH AVE", 
+    "description": "CRIMINAL DEFACEMENT"
+}
