@@ -1,0 +1,33 @@
+{
+    "community_area": "16", 
+    "_id": {
+        "$oid": "52065ce3733824919a29843e"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1724", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "860", 
+    "arrest": false, 
+    "location_description": "DRUG STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7122467532493, 
+            41.961245727777055
+        ]
+    }, 
+    "case_number": "HW400326", 
+    "date": {
+        "$date": 1375047000000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "33", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9255609", 
+    "block": "033XX W MONTROSE AVE", 
+    "description": "RETAIL THEFT"
+}
