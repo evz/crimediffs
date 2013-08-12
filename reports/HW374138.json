@@ -1,0 +1,33 @@
+{
+    "community_area": "56", 
+    "_id": {
+        "$oid": "5208ffd4733824919a298470"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "0813", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1812", 
+    "arrest": false, 
+    "location_description": "AIRPORT/AIRCRAFT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7417176, 
+            41.7881161
+        ]
+    }, 
+    "case_number": "HW374138", 
+    "date": {
+        "$date": 1373362200000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "23", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9255374", 
+    "block": "057XX S CICERO AVE", 
+    "description": "POSS: CANNABIS MORE THAN 30GMS"
+}
