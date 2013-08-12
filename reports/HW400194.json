@@ -1,0 +1,33 @@
+{
+    "community_area": "2", 
+    "_id": {
+        "$oid": "5208ffd2733824919a29846e"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "2411", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69167241692084, 
+            42.017575183747425
+        ]
+    }, 
+    "case_number": "HW400194", 
+    "date": {
+        "$date": 1373450400000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "50", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9255649", 
+    "block": "024XX W BIRCHWOOD AVE", 
+    "description": "TO VEHICLE"
+}
