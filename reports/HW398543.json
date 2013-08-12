@@ -1,33 +1,38 @@
 {
-    "community_area": "19", 
-    "_id": {
-        "$oid": "52050b66733824919a29807f"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "2514", 
+    "y_coordinate": "1920707", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1130", 
+    "case_number": "HW398543", 
+    "id": "9253981", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "SMALL RETAIL STORE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.76171824976664, 
-            41.93852536773232
+            -87.76171457448206, 
+            41.9385253494349
         ]
     }, 
-    "case_number": "HW398543", 
+    "community_area": "19", 
+    "latitude": "41.9385253494349", 
+    "type": null, 
+    "description": "FRAUD OR CONFIDENCE GAME", 
+    "beat": "2514", 
     "date": {
         "$date": 1373540400000
     }, 
-    "updated_on": {
-        "$date": 1376009150000
-    }, 
     "ward": "30", 
+    "_id": {
+        "$oid": "52050b66733824919a29807f"
+    }, 
+    "iucr": "1130", 
+    "longitude": "-87.76171457448206", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1139773", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9253981", 
-    "block": "054XX W BELMONT AVE", 
-    "description": "FRAUD OR CONFIDENCE GAME"
+    "block": "054XX W BELMONT AVE"
 }
