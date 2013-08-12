@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "51fde784733824919a296be3"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0331", 
+    "y_coordinate": "1858387", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "430", 
+    "case_number": "HW352246", 
+    "id": "9220555", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.57513999999999, 
-            41.7679469
+            -87.57523254751521, 
+            41.76642367803589
         ]
     }, 
-    "case_number": "HW352246", 
+    "community_area": "43", 
+    "latitude": "41.76642367803589", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "0331", 
     "date": {
         "$date": 1373194800000
     }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "51fde784733824919a296be3"
+    }, 
+    "iucr": "430", 
+    "longitude": "-87.57523254751521", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1191064", 
     "updated_on": {
         "$date": 1375058559000
     }, 
-    "ward": "5", 
     "fbi_code": "04B", 
-    "type": "violent", 
-    "id": "9220555", 
-    "block": "070XX S CHAPPEL AVE", 
-    "description": "AGGRAVATED: OTHER DANG WEAPON"
+    "block": "070XX S CHAPPEL AVE"
 }
