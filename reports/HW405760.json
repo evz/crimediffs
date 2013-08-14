@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "520ba2fa733824919a2991fd"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0331", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5666891236954, 
+            41.769720509693066
+        ]
+    }, 
+    "case_number": "HW405760", 
+    "date": {
+        "$date": 1375272000000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "5", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9260597", 
+    "block": "069XX S SOUTH SHORE DR", 
+    "description": "OVER $500"
+}
