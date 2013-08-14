@@ -1,0 +1,33 @@
+{
+    "community_area": "58", 
+    "_id": {
+        "$oid": "520ba2ad733824919a2985dd"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0922", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69193691694285, 
+            41.80918799020924
+        ]
+    }, 
+    "case_number": "HW396880", 
+    "date": {
+        "$date": 1375825800000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "12", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9252244", 
+    "block": "046XX S WASHTENAW AVE", 
+    "description": "OVER $500"
+}
