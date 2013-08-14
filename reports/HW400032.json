@@ -1,33 +1,38 @@
 {
-    "community_area": "50", 
-    "_id": {
-        "$oid": "52065cf2733824919a298457"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0531", 
+    "y_coordinate": "1829620", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW400032", 
+    "id": "9255308", 
+    "primary_type": "THEFT", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.60846382764005, 
-            41.687972402535685
+            -87.6081631181145, 
+            41.6876905835611
         ]
     }, 
-    "case_number": "HW400032", 
+    "community_area": "50", 
+    "latitude": "41.6876905835611", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0531", 
     "date": {
         "$date": 1374493680000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "9", 
+    "_id": {
+        "$oid": "52065cf2733824919a298457"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.6081631181145", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1182322", 
+    "updated_on": {
+        "$date": 1376268035000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9255308", 
-    "block": "113XX S ST LAWRENCE AVE", 
-    "description": "OVER $500"
+    "block": "113XX S ST LAWRENCE AVE"
 }
