@@ -1,33 +1,38 @@
 {
-    "community_area": "24", 
-    "_id": {
-        "$oid": "52065ce0733824919a298437"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "1213", 
+    "y_coordinate": "1905814", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1320", 
+    "case_number": "HW400217", 
+    "id": "9255530", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66995378384775, 
-            41.89840245846444
+            -87.66991520054697, 
+            41.89716184039521
         ]
     }, 
-    "case_number": "HW400217", 
+    "community_area": "24", 
+    "latitude": "41.89716184039521", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1213", 
     "date": {
         "$date": 1375207200000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "1", 
+    "_id": {
+        "$oid": "52065ce0733824919a298437"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.66991520054697", 
+    "location_description": "STREET", 
+    "x_coordinate": "1164866", 
+    "updated_on": {
+        "$date": 1376268035000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9255530", 
-    "block": "008XX N PAULINA ST", 
-    "description": "TO VEHICLE"
+    "block": "008XX N PAULINA ST"
 }
