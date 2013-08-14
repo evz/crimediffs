@@ -1,0 +1,33 @@
+{
+    "community_area": "6", 
+    "_id": {
+        "$oid": "520ba2da733824919a298df0"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "1924", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "340", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65003229999999, 
+            41.9445184
+        ]
+    }, 
+    "case_number": "HW392602", 
+    "date": {
+        "$date": 1375600800000
+    }, 
+    "updated_on": {
+        "$date": 1376354397000
+    }, 
+    "ward": "44", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9248461", 
+    "block": "008XX W NEWPORT AVE", 
+    "description": "ATTEMPT: STRONGARM-NO WEAPON"
+}
