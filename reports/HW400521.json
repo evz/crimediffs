@@ -1,33 +1,38 @@
 {
-    "community_area": "69", 
-    "_id": {
-        "$oid": "52065cfd733824919a298467"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0621", 
+    "y_coordinate": "1854238", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW400521", 
+    "id": "9255731", 
+    "primary_type": "THEFT", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63699943287342, 
-            41.75542580518302
+            -87.63699940321135, 
+            41.75542854930555
         ]
     }, 
-    "case_number": "HW400521", 
+    "community_area": "69", 
+    "latitude": "41.75542854930555", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0621", 
     "date": {
         "$date": 1374006600000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "17", 
+    "_id": {
+        "$oid": "52065cfd733824919a298467"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.63699940321135", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1174246", 
+    "updated_on": {
+        "$date": 1376354397000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9255731", 
-    "block": "076XX S NORMAL AVE", 
-    "description": "$500 AND UNDER"
+    "block": "076XX S NORMAL AVE"
 }
