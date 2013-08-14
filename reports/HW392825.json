@@ -1,0 +1,33 @@
+{
+    "community_area": "46", 
+    "_id": {
+        "$oid": "520ba2da733824919a298de8"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0423", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "880", 
+    "arrest": false, 
+    "location_description": "CTA BUS STOP", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55265276675097, 
+            41.74462819888117
+        ]
+    }, 
+    "case_number": "HW392825", 
+    "date": {
+        "$date": 1375603200000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "10", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9248469", 
+    "block": "083XX S EXCHANGE AVE", 
+    "description": "PURSE-SNATCHING"
+}
