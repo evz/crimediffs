@@ -1,0 +1,33 @@
+{
+    "community_area": "1", 
+    "_id": {
+        "$oid": "520ba2bc733824919a298862"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "2424", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "620", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67811334057062, 
+            42.01024022203383
+        ]
+    }, 
+    "case_number": "HW395290", 
+    "date": {
+        "$date": 1375763820000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "49", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9251289", 
+    "block": "019XX W GREENLEAF AVE", 
+    "description": "UNLAWFUL ENTRY"
+}
