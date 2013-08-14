@@ -6,7 +6,7 @@
     "id": "9251773", 
     "primary_type": "THEFT", 
     "district": "008", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "SIDEWALK", 
     "x_coordinate": "1162158", 
     "updated_on": {
-        "$date": 1376009150000
+        "$date": 1376440911000
     }, 
     "fbi_code": "06", 
     "block": "065XX S OAKLEY AVE"
