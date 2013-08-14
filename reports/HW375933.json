@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "52065cef733824919a29844a"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1531", 
+    "y_coordinate": "1905906", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2014", 
+    "case_number": "HW375933", 
+    "id": "9255424", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.7458644, 
-            41.897766
+            -87.74780384518918, 
+            41.89783787532444
         ]
     }, 
-    "case_number": "HW375933", 
+    "community_area": "25", 
+    "latitude": "41.89783787532444", 
+    "type": "quality", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)", 
+    "beat": "1531", 
     "date": {
         "$date": 1374600660000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "37", 
+    "_id": {
+        "$oid": "52065cef733824919a29844a"
+    }, 
+    "iucr": "2014", 
+    "longitude": "-87.74780384518918", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1143659", 
+    "updated_on": {
+        "$date": 1376181721000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9255424", 
-    "block": "048XX W WALTON ST", 
-    "description": "MANU/DELIVER: HEROIN (WHITE)"
+    "block": "048XX W WALTON ST"
 }
