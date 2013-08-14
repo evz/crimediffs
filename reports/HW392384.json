@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1899073", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW392384", 
+    "id": "9246584", 
+    "primary_type": "ROBBERY", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62416912116113, 
+            41.878389526441644
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.878389526441644", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0114", 
+    "date": {
+        "$date": 1375572600000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "520ba2df733824919a298eed"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.62416912116113", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1177377", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
+    "fbi_code": "03", 
+    "block": "001XX E JACKSON DR"
+}
