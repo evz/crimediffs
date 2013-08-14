@@ -1,0 +1,33 @@
+{
+    "community_area": "69", 
+    "_id": {
+        "$oid": "520ba2c6733824919a298a06"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0312", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61573416980681, 
+            41.778550114614454
+        ]
+    }, 
+    "case_number": "HW394744", 
+    "date": {
+        "$date": 1375724700000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "20", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9256843", 
+    "block": "063XX S DR MARTIN LUTHER KING JR DR", 
+    "description": "$500 AND UNDER"
+}
