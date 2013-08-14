@@ -6,7 +6,7 @@
     "id": "9245591", 
     "primary_type": "BATTERY", 
     "district": "015", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "APARTMENT", 
     "x_coordinate": "1141547", 
     "updated_on": {
-        "$date": 1375836149000
+        "$date": 1376268035000
     }, 
     "fbi_code": "08B", 
     "block": "010XX N LARAMIE AVE"
