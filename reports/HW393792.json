@@ -1,0 +1,33 @@
+{
+    "community_area": "3", 
+    "_id": {
+        "$oid": "520a5130733824919a298483"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "1915", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "340", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65711110678123, 
+            41.95455667327886
+        ]
+    }, 
+    "case_number": "HW393792", 
+    "date": {
+        "$date": 1375672500000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "46", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9249187", 
+    "block": "011XX W IRVING PARK RD", 
+    "description": "ATTEMPT: STRONGARM-NO WEAPON"
+}
