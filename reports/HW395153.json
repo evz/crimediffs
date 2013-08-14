@@ -1,0 +1,33 @@
+{
+    "community_area": "28", 
+    "_id": {
+        "$oid": "520ba2be733824919a2988e6"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1232", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "041A", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64544636235587, 
+            41.862133038782744
+        ]
+    }, 
+    "case_number": "HW395153", 
+    "date": {
+        "$date": 1375744920000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "25", 
+    "fbi_code": "04B", 
+    "type": "violent", 
+    "id": "9249385", 
+    "block": "014XX S EMERALD AVE", 
+    "description": "AGGRAVATED: HANDGUN"
+}
