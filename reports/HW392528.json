@@ -1,0 +1,33 @@
+{
+    "community_area": "40", 
+    "_id": {
+        "$oid": "520ba2db733824919a298e15"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0232", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62113970051583, 
+            41.78571066967939
+        ]
+    }, 
+    "case_number": "HW392528", 
+    "date": {
+        "$date": 1375593540000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "20", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9253039", 
+    "block": "001XX E 60TH ST", 
+    "description": "TO PROPERTY"
+}
