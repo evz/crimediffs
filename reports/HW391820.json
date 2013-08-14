@@ -1,0 +1,33 @@
+{
+    "community_area": "31", 
+    "_id": {
+        "$oid": "520ba2eb733824919a299065"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1023", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "460", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6855358994977, 
+            41.85361472505897
+        ]
+    }, 
+    "case_number": "HW391820", 
+    "date": {
+        "$date": 1375543800000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "25", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9255584", 
+    "block": "021XX S WESTERN AVE", 
+    "description": "SIMPLE"
+}
