@@ -4,7 +4,7 @@
     "domestic": false, 
     "case_number": "HW369009", 
     "id": "9222494", 
-    "primary_type": "BURGLARY", 
+    "primary_type": "THEFT", 
     "district": "001", 
     "arrest": false, 
     "location": {
@@ -17,7 +17,7 @@
     "community_area": "32", 
     "latitude": "41.88562283142502", 
     "type": "property", 
-    "description": "FORCIBLE ENTRY", 
+    "description": "FROM BUILDING", 
     "beat": "0122", 
     "date": {
         "$date": 1373918400000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "51fde769733824919a295138"
     }, 
-    "iucr": "610", 
+    "iucr": "890", 
     "longitude": "-87.63483091328622", 
     "location_description": "BAR OR TAVERN", 
     "x_coordinate": "1174452", 
     "updated_on": {
-        "$date": 1374367458000
+        "$date": 1376440911000
     }, 
-    "fbi_code": "05", 
+    "fbi_code": "06", 
     "block": "002XX W LAKE ST"
 }
