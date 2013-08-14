@@ -1,33 +1,38 @@
 {
-    "community_area": "28", 
-    "_id": {
-        "$oid": "52065cde733824919a298434"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "1233", 
+    "y_coordinate": "1894565", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1152", 
+    "case_number": "HW400112", 
+    "id": "9255460", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "BANK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66622971213022, 
-            41.86622931935195
+            -87.666526641477, 
+            41.86627220751114
         ]
     }, 
-    "case_number": "HW400112", 
+    "community_area": "28", 
+    "latitude": "41.86627220751114", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "1233", 
     "date": {
         "$date": 1375272000000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "52065cde733824919a298434"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.666526641477", 
+    "location_description": "BANK", 
+    "x_coordinate": "1165876", 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9255460", 
-    "block": "012XX S ASHLAND AVE", 
-    "description": "ILLEGAL USE CASH CARD"
+    "block": "012XX S ASHLAND AVE"
 }
