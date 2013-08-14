@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "520ba2c9733824919a298add"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2233", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6341225269103, 
+            41.70305230185043
+        ]
+    }, 
+    "case_number": "HW394516", 
+    "date": {
+        "$date": 1375703580000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "34", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9249246", 
+    "block": "105XX S EGGLESTON AVE", 
+    "description": "OVER $500"
+}
