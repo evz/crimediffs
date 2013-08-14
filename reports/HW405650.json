@@ -1,0 +1,33 @@
+{
+    "community_area": "51", 
+    "_id": {
+        "$oid": "520ba304733824919a29921d"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0431", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "VACANT LOT/LAND", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56365079935019, 
+            41.72150202307418
+        ]
+    }, 
+    "case_number": "HW405650", 
+    "date": {
+        "$date": 1374829200000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "7", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9260518", 
+    "block": "095XX S BENSLEY AVE", 
+    "description": "FORCIBLE ENTRY"
+}
