@@ -1,0 +1,33 @@
+{
+    "community_area": "1", 
+    "_id": {
+        "$oid": "520ba2bf733824919a298915"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "2431", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.663896, 
+            42.009498
+        ]
+    }, 
+    "case_number": "HW395099", 
+    "date": {
+        "$date": 1375741500000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "49", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9250615", 
+    "block": "013XX W LUNT AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
