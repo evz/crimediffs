@@ -1,0 +1,33 @@
+{
+    "community_area": "22", 
+    "_id": {
+        "$oid": "520ba2b9733824919a2987cd"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1414", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "HOTEL/MOTEL", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7045999318132, 
+            41.927491397988696
+        ]
+    }, 
+    "case_number": "HW395630", 
+    "date": {
+        "$date": 1375786800000
+    }, 
+    "updated_on": {
+        "$date": 1376354397000
+    }, 
+    "ward": "35", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9253621", 
+    "block": "025XX N MILWAUKEE AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
