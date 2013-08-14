@@ -1,33 +1,38 @@
 {
-    "community_area": "42", 
-    "_id": {
-        "$oid": "52065cdd733824919a298431"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0312", 
+    "y_coordinate": "1862261", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2820", 
+    "case_number": "HW399528", 
+    "id": "9254519", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61450920608851, 
-            41.77825979468987
+            -87.61448684587504, 
+            41.777307386078135
         ]
     }, 
-    "case_number": "HW399528", 
+    "community_area": "42", 
+    "latitude": "41.777307386078135", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "0312", 
     "date": {
         "$date": 1375317000000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "20", 
+    "_id": {
+        "$oid": "52065cdd733824919a298431"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.61448684587504", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1180322", 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9254519", 
-    "block": "064XX S VERNON AVE", 
-    "description": "TELEPHONE THREAT"
+    "block": "064XX S VERNON AVE"
 }
