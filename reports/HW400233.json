@@ -1,33 +1,38 @@
 {
-    "community_area": "28", 
-    "_id": {
-        "$oid": "52065cf0733824919a298450"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "1223", 
+    "y_coordinate": "1899927", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2825", 
+    "case_number": "HW400233", 
+    "id": "9255550", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.68557599473077, 
-            41.881282503962154
+            -87.68420457410932, 
+            41.88108815153047
         ]
     }, 
-    "case_number": "HW400233", 
+    "community_area": "28", 
+    "latitude": "41.88108815153047", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "1223", 
     "date": {
         "$date": 1374580800000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "52065cf0733824919a298450"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.68420457410932", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1161020", 
+    "updated_on": {
+        "$date": 1376181721000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9255550", 
-    "block": "023XX W MADISON ST", 
-    "description": "HARASSMENT BY TELEPHONE"
+    "block": "023XX W MADISON ST"
 }
