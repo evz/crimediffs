@@ -6,7 +6,7 @@
     "id": "9229473", 
     "primary_type": "THEFT", 
     "district": "002", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "CONVENIENCE STORE", 
     "x_coordinate": "1177176", 
     "updated_on": {
-        "$date": 1374799275000
+        "$date": 1376440911000
     }, 
     "fbi_code": "06", 
     "block": "055XX S STATE ST"
