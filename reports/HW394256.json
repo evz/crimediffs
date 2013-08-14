@@ -1,0 +1,33 @@
+{
+    "community_area": "28", 
+    "_id": {
+        "$oid": "520ba2ca733824919a298b16"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "1231", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "051B", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65701895695896, 
+            41.876628291295326
+        ]
+    }, 
+    "case_number": "HW394256", 
+    "date": {
+        "$date": 1375696800000
+    }, 
+    "updated_on": {
+        "$date": 1376354397000
+    }, 
+    "ward": "2", 
+    "fbi_code": "04A", 
+    "type": "violent", 
+    "id": "9249122", 
+    "block": "012XX W VAN BUREN ST", 
+    "description": "AGGRAVATED: OTHER FIREARM"
+}
