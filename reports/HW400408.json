@@ -1,33 +1,38 @@
 {
-    "community_area": "46", 
-    "_id": {
-        "$oid": "52065cea733824919a298445"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0414", 
+    "y_coordinate": "1851365", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW400408", 
+    "id": "9255685", 
+    "primary_type": "THEFT", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.5696660871937, 
-            41.74681448599413
+            -87.56966983833743, 
+            41.74711638409621
         ]
     }, 
-    "case_number": "HW400408", 
+    "community_area": "46", 
+    "latitude": "41.74711638409621", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0414", 
     "date": {
         "$date": 1374834600000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "8", 
+    "_id": {
+        "$oid": "52065cea733824919a298445"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.56966983833743", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1192644", 
+    "updated_on": {
+        "$date": 1376268035000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9255685", 
-    "block": "081XX S LUELLA AVE", 
-    "description": "OVER $500"
+    "block": "081XX S LUELLA AVE"
 }
