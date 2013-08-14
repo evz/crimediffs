@@ -1,0 +1,33 @@
+{
+    "community_area": "26", 
+    "_id": {
+        "$oid": "520ba2ab733824919a2985aa"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1115", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "497", 
+    "arrest": false, 
+    "location_description": "ALLEY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72547484807298, 
+            41.87925857166192
+        ]
+    }, 
+    "case_number": "HW396644", 
+    "date": {
+        "$date": 1375830000000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "28", 
+    "fbi_code": "04B", 
+    "type": "violent", 
+    "id": "9251277", 
+    "block": "001XX S PULASKI RD", 
+    "description": "AGGRAVATED DOMESTIC BATTERY: OTHER DANG WEAPON"
+}
