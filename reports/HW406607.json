@@ -1,0 +1,33 @@
+{
+    "community_area": "51", 
+    "_id": {
+        "$oid": "520ba2f6733824919a2991ec"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0431", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "VACANT LOT/LAND", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56958212952814, 
+            41.71431307336916
+        ]
+    }, 
+    "case_number": "HW406607", 
+    "date": {
+        "$date": 1375358400000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "7", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9261385", 
+    "block": "099XX S PAXTON AVE", 
+    "description": "FORCIBLE ENTRY"
+}
