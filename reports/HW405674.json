@@ -1,0 +1,33 @@
+{
+    "community_area": "3", 
+    "_id": {
+        "$oid": "520ba2ba733824919a298804"
+    }, 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "beat": "1914", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1185", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65015964474607, 
+            41.965176761176984
+        ]
+    }, 
+    "case_number": "HW405674", 
+    "date": {
+        "$date": 1375779600000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "46", 
+    "fbi_code": "11", 
+    "type": null, 
+    "id": "9260655", 
+    "block": "045XX N CLARENDON AVE", 
+    "description": "DECEPTIVE COLLECTION PRACTICES"
+}
