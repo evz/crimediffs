@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "520ba2f1733824919a2991d4"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1532", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74768756117635, 
+            41.88965943675611
+        ]
+    }, 
+    "case_number": "HW405875", 
+    "date": {
+        "$date": 1375455600000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "28", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9260684", 
+    "block": "048XX W FERDINAND ST", 
+    "description": "$500 AND UNDER"
+}
