@@ -1,0 +1,33 @@
+{
+    "community_area": "22", 
+    "_id": {
+        "$oid": "520ba2b4733824919a2986e5"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "1413", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7072951781825, 
+            41.92244028293235
+        ]
+    }, 
+    "case_number": "HW396891", 
+    "date": {
+        "$date": 1375806000000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "26", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9252375", 
+    "block": "022XX N KEDZIE BLVD", 
+    "description": "TO VEHICLE"
+}
