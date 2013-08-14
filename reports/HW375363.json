@@ -1,0 +1,33 @@
+{
+    "community_area": "29", 
+    "_id": {
+        "$oid": "520ba309733824919a29922b"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "1022", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2014", 
+    "arrest": false, 
+    "location_description": "PARK PROPERTY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69683942239969, 
+            41.86453694899276
+        ]
+    }, 
+    "case_number": "HW375363", 
+    "date": {
+        "$date": 1374583440000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "24", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9259202", 
+    "block": "013XX S FARRAR DR", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)"
+}
