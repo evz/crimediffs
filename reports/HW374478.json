@@ -1,0 +1,33 @@
+{
+    "community_area": "76", 
+    "_id": {
+        "$oid": "520ba30b733824919a29922e"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "1653", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2093", 
+    "arrest": false, 
+    "location_description": "AIRPORT TERMINAL UPPER LEVEL - SECURE AREA", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6297982, 
+            41.8781136
+        ]
+    }, 
+    "case_number": "HW374478", 
+    "date": {
+        "$date": 1374519600000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "41", 
+    "fbi_code": "26", 
+    "type": "quality", 
+    "id": "9260548", 
+    "block": "0000X W CHECKPOINT 9 ST", 
+    "description": "FOUND SUSPECT NARCOTICS"
+}
