@@ -1,0 +1,33 @@
+{
+    "community_area": "30", 
+    "_id": {
+        "$oid": "520a5134733824919a2984da"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1031", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7168542663299, 
+            41.83592467884121
+        ]
+    }, 
+    "case_number": "HW393420", 
+    "date": {
+        "$date": 1375642800000
+    }, 
+    "updated_on": {
+        "$date": 1376354397000
+    }, 
+    "ward": "22", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9256849", 
+    "block": "031XX S LAWNDALE AVE", 
+    "description": "$500 AND UNDER"
+}
