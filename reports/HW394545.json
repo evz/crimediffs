@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "520ba2c9733824919a298ab9"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0414", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "VEHICLE-COMMERCIAL", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5836634600122, 
+            41.75161863342259
+        ]
+    }, 
+    "case_number": "HW394545", 
+    "date": {
+        "$date": 1375707600000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "8", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9249198", 
+    "block": "016XX E 79TH ST", 
+    "description": "OVER $500"
+}
