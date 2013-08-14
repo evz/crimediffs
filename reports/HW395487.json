@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1861000", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW395487", 
+    "id": "9249926", 
+    "primary_type": "THEFT", 
+    "district": "007", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64842663293248, 
+            41.77405418502747
+        ]
+    }, 
+    "community_area": "68", 
+    "latitude": "41.77405418502747", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0723", 
+    "date": {
+        "$date": 1375725600000
+    }, 
+    "ward": "17", 
+    "_id": {
+        "$oid": "520ba2c6733824919a2989fa"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.64842663293248", 
+    "location_description": "CONVENIENCE STORE", 
+    "x_coordinate": "1171074", 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "fbi_code": "06", 
+    "block": "066XX S SANGAMON ST"
+}
