@@ -4,7 +4,7 @@
     "domestic": false, 
     "case_number": "HW390872", 
     "id": "9245428", 
-    "primary_type": "MOTOR VEHICLE THEFT", 
+    "primary_type": "OTHER OFFENSE", 
     "district": "014", 
     "arrest": false, 
     "location": {
@@ -16,8 +16,8 @@
     }, 
     "community_area": "23", 
     "latitude": "41.9029246350681", 
-    "type": "property", 
-    "description": "AUTOMOBILE", 
+    "type": null, 
+    "description": "OTHER VEHICLE OFFENSE", 
     "beat": "1422", 
     "date": {
         "$date": 1375479000000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "52065ccf733824919a2981a8"
     }, 
-    "iucr": "910", 
+    "iucr": "5002", 
     "longitude": "-87.70854746926773", 
     "location_description": "CHA PARKING LOT/GROUNDS", 
     "x_coordinate": "1154333", 
     "updated_on": {
-        "$date": 1375836149000
+        "$date": 1376440911000
     }, 
-    "fbi_code": "07", 
+    "fbi_code": "26", 
     "block": "032XX W DIVISION ST"
 }
