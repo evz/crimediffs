@@ -4,7 +4,7 @@
     "domestic": false, 
     "case_number": "HW395760", 
     "id": "9250434", 
-    "primary_type": "BURGLARY", 
+    "primary_type": "THEFT", 
     "district": "009", 
     "arrest": false, 
     "location": {
@@ -17,7 +17,7 @@
     "community_area": "60", 
     "latitude": "41.837993919718095", 
     "type": "property", 
-    "description": "UNLAWFUL ENTRY", 
+    "description": "OVER $500", 
     "beat": "0915", 
     "date": {
         "$date": 1374062400000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "52026853733824919a29798a"
     }, 
-    "iucr": "620", 
+    "iucr": "810", 
     "longitude": "-87.64168663700507", 
     "location_description": "RESTAURANT", 
     "x_coordinate": "1172725", 
     "updated_on": {
-        "$date": 1376009150000
+        "$date": 1376440911000
     }, 
-    "fbi_code": "05", 
+    "fbi_code": "06", 
     "block": "006XX W 31ST ST"
 }
