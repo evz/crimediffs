@@ -1,0 +1,33 @@
+{
+    "community_area": "28", 
+    "_id": {
+        "$oid": "520ba2ac733824919a2985bd"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "1125", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68648185493473, 
+            41.87702853869659
+        ]
+    }, 
+    "case_number": "HW396583", 
+    "date": {
+        "$date": 1375828020000
+    }, 
+    "updated_on": {
+        "$date": 1376181721000
+    }, 
+    "ward": "2", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9254359", 
+    "block": "003XX S WESTERN AVE", 
+    "description": "TO PROPERTY"
+}
