@@ -1,0 +1,33 @@
+{
+    "community_area": "30", 
+    "_id": {
+        "$oid": "520ba2eb733824919a29904e"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "1024", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71131651668036, 
+            41.845815346465706
+        ]
+    }, 
+    "case_number": "HW393488", 
+    "date": {
+        "$date": 1375545600000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "22", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9248964", 
+    "block": "025XX S TRUMBULL AVE", 
+    "description": "TO VEHICLE"
+}
