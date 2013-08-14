@@ -1,0 +1,33 @@
+{
+    "community_area": "42", 
+    "_id": {
+        "$oid": "520ba2bb733824919a298838"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "0312", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "031A", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.606348, 
+            41.780183
+        ]
+    }, 
+    "case_number": "HW395343", 
+    "date": {
+        "$date": 1375773300000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "20", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9250307", 
+    "block": "063XX S COTTAGE GROVE AVE", 
+    "description": "ARMED: HANDGUN"
+}
