@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "520ba2cc733824919a298bc5"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0634", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62558685670315, 
+            41.73606085420869
+        ]
+    }, 
+    "case_number": "HW406553", 
+    "date": {
+        "$date": 1375659000000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "21", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9261432", 
+    "block": "087XX S LAFAYETTE AVE", 
+    "description": "OVER $500"
+}
