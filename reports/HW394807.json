@@ -1,0 +1,33 @@
+{
+    "community_area": "74", 
+    "_id": {
+        "$oid": "520ba2c1733824919a2989cf"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2211", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "860", 
+    "arrest": false, 
+    "location_description": "DRUG STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72051259239164, 
+            41.70576837416058
+        ]
+    }, 
+    "case_number": "HW394807", 
+    "date": {
+        "$date": 1375728000000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "19", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9252473", 
+    "block": "039XX W 103RD ST", 
+    "description": "RETAIL THEFT"
+}
