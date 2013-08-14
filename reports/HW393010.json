@@ -1,0 +1,33 @@
+{
+    "community_area": "26", 
+    "_id": {
+        "$oid": "520ba2d8733824919a298d2c"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1122", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "860", 
+    "arrest": false, 
+    "location_description": "SMALL RETAIL STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72349873236534, 
+            41.88086171323461
+        ]
+    }, 
+    "case_number": "HW393010", 
+    "date": {
+        "$date": 1375623900000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "28", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9247732", 
+    "block": "039XX W MADISON ST", 
+    "description": "RETAIL THEFT"
+}
