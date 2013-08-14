@@ -1,0 +1,33 @@
+{
+    "community_area": "57", 
+    "_id": {
+        "$oid": "520ba313733824919a299241"
+    }, 
+    "primary_type": "LIQUOR LAW VIOLATION", 
+    "beat": "0815", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2210", 
+    "arrest": false, 
+    "location_description": "TAVERN/LIQUOR STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72915348094256, 
+            41.80092364652117
+        ]
+    }, 
+    "case_number": "HW368589", 
+    "date": {
+        "$date": 1374171060000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "23", 
+    "fbi_code": "22", 
+    "type": null, 
+    "id": "9260377", 
+    "block": "051XX S ARCHER AVE", 
+    "description": "SELL/GIVE/DEL LIQUOR TO MINOR"
+}
