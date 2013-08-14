@@ -1,0 +1,33 @@
+{
+    "community_area": "75", 
+    "_id": {
+        "$oid": "520ba2bf733824919a298900"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "2234", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67044109343692, 
+            41.67784127665643
+        ]
+    }, 
+    "case_number": "HW396775", 
+    "date": {
+        "$date": 1375742700000
+    }, 
+    "updated_on": {
+        "$date": 1376354397000
+    }, 
+    "ward": "34", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9256859", 
+    "block": "118XX S WATKINS AVE", 
+    "description": "TO VEHICLE"
+}
