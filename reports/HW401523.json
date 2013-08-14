@@ -1,0 +1,33 @@
+{
+    "community_area": "32", 
+    "_id": {
+        "$oid": "520ba2cb733824919a298b48"
+    }, 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "beat": "0111", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1130", 
+    "arrest": false, 
+    "location_description": "BANK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62460729285465, 
+            41.884594218182094
+        ]
+    }, 
+    "case_number": "HW401523", 
+    "date": {
+        "$date": 1375688220000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "42", 
+    "fbi_code": "11", 
+    "type": null, 
+    "id": "9256858", 
+    "block": "001XX N MICHIGAN AVE", 
+    "description": "FRAUD OR CONFIDENCE GAME"
+}
