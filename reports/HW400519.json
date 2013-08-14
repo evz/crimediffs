@@ -1,33 +1,38 @@
 {
-    "community_area": "53", 
-    "_id": {
-        "$oid": "52065ce4733824919a29843f"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0524", 
+    "y_coordinate": "1828019", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "485", 
+    "case_number": "HW400519", 
+    "id": "9255751", 
+    "primary_type": "BATTERY", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64560185908373, 
-            41.683900272115416
+            -87.6450970021706, 
+            41.68352402008844
         ]
     }, 
-    "case_number": "HW400519", 
+    "community_area": "53", 
+    "latitude": "41.68352402008844", 
+    "type": "violent", 
+    "description": "AGGRAVATED OF A CHILD", 
+    "beat": "0524", 
     "date": {
         "$date": 1375041600000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "34", 
+    "_id": {
+        "$oid": "52065ce4733824919a29843f"
+    }, 
+    "iucr": "485", 
+    "longitude": "-87.6450970021706", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1172246", 
+    "updated_on": {
+        "$date": 1376268035000
+    }, 
     "fbi_code": "04B", 
-    "type": "violent", 
-    "id": "9255751", 
-    "block": "115XX S PEORIA ST", 
-    "description": "AGGRAVATED OF A CHILD"
+    "block": "115XX S PEORIA ST"
 }
