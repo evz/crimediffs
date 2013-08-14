@@ -1,38 +1,38 @@
 {
-    "y_coordinate": "1910735", 
+    "y_coordinate": "1836725", 
     "year": "2013", 
     "domestic": false, 
     "case_number": "HW393271", 
-    "id": "9197822", 
-    "primary_type": "NARCOTICS", 
-    "district": "025", 
+    "id": "9247349", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "005", 
     "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.73139359870488, 
-            41.9110049512047
+            -87.61289503921196, 
+            41.707218794958806
         ]
     }, 
-    "community_area": "23", 
-    "latitude": "41.9110049512047", 
-    "type": "quality", 
-    "description": "POSS: CANNABIS 30GMS OR LESS", 
-    "beat": "2534", 
+    "community_area": "49", 
+    "latitude": "41.707218794958806", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "0512", 
     "date": {
-        "$date": 1372681500000
+        "$date": 1375638300000
     }, 
-    "ward": "30", 
+    "ward": "9", 
     "_id": {
         "$oid": "51dc2c9f018e783f00ab9861"
     }, 
-    "iucr": "1811", 
-    "longitude": "-87.73139359870488", 
-    "location_description": "SIDEWALK", 
-    "x_coordinate": "1148093", 
+    "iucr": "1330", 
+    "longitude": "-87.61289503921196", 
+    "location_description": "TAVERN/LIQUOR STORE", 
+    "x_coordinate": "1180970", 
     "updated_on": {
-        "$date": 1372812143000
+        "$date": 1375836149000
     }, 
-    "fbi_code": "18", 
-    "block": "016XX N KEELER AVE"
+    "fbi_code": "26", 
+    "block": "004XX E 103RD ST"
 }
