@@ -1,0 +1,33 @@
+{
+    "community_area": "22", 
+    "_id": {
+        "$oid": "520ba2b6733824919a298750"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1432", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "RESTAURANT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67752483073808, 
+            41.919151179355254
+        ]
+    }, 
+    "case_number": "HW395927", 
+    "date": {
+        "$date": 1375797600000
+    }, 
+    "updated_on": {
+        "$date": 1376181721000
+    }, 
+    "ward": "32", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9255831", 
+    "block": "020XX N DAMEN AVE", 
+    "description": "$500 AND UNDER"
+}
