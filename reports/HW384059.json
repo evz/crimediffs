@@ -6,7 +6,7 @@
     "id": "9237484", 
     "primary_type": "BATTERY", 
     "district": "019", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "SMALL RETAIL STORE", 
     "x_coordinate": "1168020", 
     "updated_on": {
-        "$date": 1375231290000
+        "$date": 1376354397000
     }, 
     "fbi_code": "08B", 
     "block": "046XX N BROADWAY"
