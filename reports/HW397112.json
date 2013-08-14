@@ -1,0 +1,33 @@
+{
+    "community_area": "24", 
+    "_id": {
+        "$oid": "520ba2b0733824919a298647"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1423", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "620", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69296369218863, 
+            41.906721880421166
+        ]
+    }, 
+    "case_number": "HW397112", 
+    "date": {
+        "$date": 1375819200000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "26", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9253310", 
+    "block": "026XX W HIRSCH ST", 
+    "description": "UNLAWFUL ENTRY"
+}
