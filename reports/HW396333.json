@@ -1,0 +1,33 @@
+{
+    "community_area": "28", 
+    "_id": {
+        "$oid": "520ba2b4733824919a2986f2"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1214", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "620", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64478115817325, 
+            41.88580641390167
+        ]
+    }, 
+    "case_number": "HW396333", 
+    "date": {
+        "$date": 1375804800000
+    }, 
+    "updated_on": {
+        "$date": 1376181721000
+    }, 
+    "ward": "27", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9254373", 
+    "block": "006XX W LAKE ST", 
+    "description": "UNLAWFUL ENTRY"
+}
