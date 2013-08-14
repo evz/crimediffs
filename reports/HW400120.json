@@ -1,33 +1,38 @@
 {
-    "community_area": "6", 
-    "_id": {
-        "$oid": "52065cdc733824919a29842e"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1934", 
+    "y_coordinate": "1918951", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW400120", 
+    "id": "9255581", 
+    "primary_type": "THEFT", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "PARK PROPERTY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63703358229758, 
-            41.93302082040719
+            -87.63887840229239, 
+            41.933029249106966
         ]
     }, 
-    "case_number": "HW400120", 
+    "community_area": "6", 
+    "latitude": "41.933029249106966", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1934", 
     "date": {
         "$date": 1375369200000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "44", 
+    "_id": {
+        "$oid": "52065cdc733824919a29842e"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.63887840229239", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1173210", 
+    "updated_on": {
+        "$date": 1376181721000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9255581", 
-    "block": "003XX W DIVERSEY PKWY", 
-    "description": "$500 AND UNDER"
+    "block": "003XX W DIVERSEY PKWY"
 }
