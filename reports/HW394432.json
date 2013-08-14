@@ -4,7 +4,7 @@
     "domestic": false, 
     "case_number": "HW394432", 
     "id": "9248768", 
-    "primary_type": "BURGLARY", 
+    "primary_type": "THEFT", 
     "district": "009", 
     "arrest": false, 
     "location": {
@@ -17,7 +17,7 @@
     "community_area": "37", 
     "latitude": "41.81404362139489", 
     "type": "property", 
-    "description": "FORCIBLE ENTRY", 
+    "description": "FROM BUILDING", 
     "beat": "0925", 
     "date": {
         "$date": 1375466400000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "52065cd2733824919a29824d"
     }, 
-    "iucr": "610", 
+    "iucr": "890", 
     "longitude": "-87.63335685477671", 
     "location_description": "RESIDENCE", 
     "x_coordinate": "1175066", 
     "updated_on": {
-        "$date": 1375922568000
+        "$date": 1376440911000
     }, 
-    "fbi_code": "05", 
+    "fbi_code": "06", 
     "block": "044XX S PRINCETON AVE"
 }
