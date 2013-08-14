@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "520ba2cb733824919a298b63"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "0421", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55389590017103, 
+            41.75212583265033
+        ]
+    }, 
+    "case_number": "HW393947", 
+    "date": {
+        "$date": 1375682400000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "7", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9248926", 
+    "block": "078XX S ESCANABA AVE", 
+    "description": "AUTOMOBILE"
+}
