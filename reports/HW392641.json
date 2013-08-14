@@ -1,33 +1,38 @@
 {
-    "community_area": "14", 
-    "_id": {
-        "$oid": "52065cd4733824919a298298"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "1724", 
+    "y_coordinate": "1930086", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "930", 
+    "case_number": "HW392641", 
+    "id": "9254783", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "017", 
     "arrest": false, 
-    "location_description": "ALLEY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69961571633898, 
-            41.96361355797492
+            -87.69991767391095, 
+            41.96393904085708
         ]
     }, 
-    "case_number": "HW392641", 
+    "community_area": "14", 
+    "latitude": "41.96393904085708", 
+    "type": "property", 
+    "description": "THEFT/RECOVERY: AUTOMOBILE", 
+    "beat": "1724", 
     "date": {
         "$date": 1375461000000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "33", 
+    "_id": {
+        "$oid": "52065cd4733824919a298298"
+    }, 
+    "iucr": "930", 
+    "longitude": "-87.69991767391095", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1156518", 
+    "updated_on": {
+        "$date": 1376181721000
+    }, 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9254783", 
-    "block": "045XX N MOZART ST", 
-    "description": "THEFT/RECOVERY: AUTOMOBILE"
+    "block": "045XX N MOZART ST"
 }
