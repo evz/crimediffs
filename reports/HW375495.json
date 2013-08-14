@@ -1,33 +1,38 @@
 {
-    "community_area": "26", 
-    "_id": {
-        "$oid": "52065cf0733824919a29844f"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1115", 
+    "y_coordinate": "1898721", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2017", 
+    "case_number": "HW375495", 
+    "id": "9255489", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72956599113293, 
-            41.87803700821298
+            -87.73023803298983, 
+            41.87802956242147
         ]
     }, 
-    "case_number": "HW375495", 
+    "community_area": "26", 
+    "latitude": "41.87802956242147", 
+    "type": "quality", 
+    "description": "MANU/DELIVER:CRACK", 
+    "beat": "1115", 
     "date": {
         "$date": 1374588900000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "28", 
+    "_id": {
+        "$oid": "52065cf0733824919a29844f"
+    }, 
+    "iucr": "2017", 
+    "longitude": "-87.73023803298983", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1148492", 
+    "updated_on": {
+        "$date": 1376181721000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9255489", 
-    "block": "041XX W ADAMS ST", 
-    "description": "MANU/DELIVER:CRACK"
+    "block": "041XX W ADAMS ST"
 }
