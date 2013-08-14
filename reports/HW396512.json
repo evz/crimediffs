@@ -1,0 +1,33 @@
+{
+    "community_area": "22", 
+    "_id": {
+        "$oid": "520ba2b4733824919a2986f6"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1414", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "FACTORY/MANUFACTURING BUILDING", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69913924786717, 
+            41.92414359791134
+        ]
+    }, 
+    "case_number": "HW396512", 
+    "date": {
+        "$date": 1375804800000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "35", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9251298", 
+    "block": "023XX N MILWAUKEE AVE", 
+    "description": "$500 AND UNDER"
+}
