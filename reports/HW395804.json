@@ -1,0 +1,33 @@
+{
+    "community_area": "45", 
+    "_id": {
+        "$oid": "520ba2b7733824919a298767"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0412", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "430", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57808852187785, 
+            41.74199901909379
+        ]
+    }, 
+    "case_number": "HW395804", 
+    "date": {
+        "$date": 1375795800000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "8", 
+    "fbi_code": "04B", 
+    "type": "violent", 
+    "id": "9251049", 
+    "block": "084XX S BENNETT AVE", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON"
+}
