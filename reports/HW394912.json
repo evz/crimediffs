@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "520ba2ca733824919a298b33"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0623", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63199676649253, 
+            41.7507108513913
+        ]
+    }, 
+    "case_number": "HW394912", 
+    "date": {
+        "$date": 1375691400000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "17", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9250680", 
+    "block": "003XX W 79TH ST", 
+    "description": "TO PROPERTY"
+}
