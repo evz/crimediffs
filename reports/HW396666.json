@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "520ba2bc733824919a298863"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0332", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58143104789495, 
+            41.768308577062335
+        ]
+    }, 
+    "case_number": "HW396666", 
+    "date": {
+        "$date": 1375763400000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "5", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9251292", 
+    "block": "069XX S CREGIER AVE", 
+    "description": "TO PROPERTY"
+}
