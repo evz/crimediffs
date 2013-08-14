@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "520a5133733824919a2984af"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "0324", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5886271637701, 
+            41.763207152451834
+        ]
+    }, 
+    "case_number": "HW394033", 
+    "date": {
+        "$date": 1375657200000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "5", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9248894", 
+    "block": "072XX S BLACKSTONE AVE", 
+    "description": "AUTOMOBILE"
+}
