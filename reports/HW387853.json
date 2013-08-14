@@ -6,7 +6,7 @@
     "id": "9241943", 
     "primary_type": "ASSAULT", 
     "district": "003", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "APARTMENT", 
     "x_coordinate": "1192292", 
     "updated_on": {
-        "$date": 1375577007000
+        "$date": 1376354397000
     }, 
     "fbi_code": "08A", 
     "block": "022XX E 70TH PL"
