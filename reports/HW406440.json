@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "520ba2da733824919a298dd0"
+    }, 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "beat": "0333", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "1790", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57240117092653, 
+            41.76407231081542
+        ]
+    }, 
+    "case_number": "HW406440", 
+    "date": {
+        "$date": 1375606800000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "5", 
+    "fbi_code": "20", 
+    "type": null, 
+    "id": "9261284", 
+    "block": "072XX S MERRILL AVE", 
+    "description": "CHILD ABDUCTION"
+}
