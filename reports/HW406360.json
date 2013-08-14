@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "520ba2fa733824919a299201"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "0513", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61124485250637, 
+            41.698904109410705
+        ]
+    }, 
+    "case_number": "HW406360", 
+    "date": {
+        "$date": 1375257600000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "9", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9261203", 
+    "block": "107XX S EBERHART AVE", 
+    "description": "SIMPLE"
+}
