@@ -1,0 +1,33 @@
+{
+    "community_area": "69", 
+    "_id": {
+        "$oid": "520ba2bb733824919a298839"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "0323", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "320", 
+    "arrest": false, 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60902235145825, 
+            41.76345829125686
+        ]
+    }, 
+    "case_number": "HW395358", 
+    "date": {
+        "$date": 1375772400000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "6", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9250407", 
+    "block": "072XX S CHAMPLAIN AVE", 
+    "description": "STRONGARM - NO WEAPON"
+}
