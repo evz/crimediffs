@@ -1,33 +1,38 @@
 {
-    "community_area": "38", 
-    "_id": {
-        "$oid": "51fde74d733824919a2939a3"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "0213", 
+    "y_coordinate": "1878478", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "320", 
+    "case_number": "HW374143", 
+    "id": "9228326", 
+    "primary_type": "ROBBERY", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "ALLEY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62422447390144, 
-            41.82186915690111
+            -87.62422077511701, 
+            41.821871878336886
         ]
     }, 
-    "case_number": "HW374143", 
+    "community_area": "38", 
+    "latitude": "41.821871878336886", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0213", 
     "date": {
         "$date": 1374505800000
     }, 
-    "updated_on": {
-        "$date": 1374712912000
-    }, 
     "ward": "3", 
+    "_id": {
+        "$oid": "51fde74d733824919a2939a3"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.62422077511701", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1177533", 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9228326", 
-    "block": "0000X E 40TH ST", 
-    "description": "STRONGARM - NO WEAPON"
+    "block": "0000X E 40TH ST"
 }
