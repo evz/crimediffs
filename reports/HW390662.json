@@ -16,8 +16,8 @@
     }, 
     "community_area": "3", 
     "latitude": "41.96531097704245", 
-    "type": null, 
-    "description": "AGG: HANDS/FIST/FEET NO/MINOR INJURY", 
+    "type": "violent", 
+    "description": "AGG: HANDS/FIST/FEET SERIOUS INJURY", 
     "beat": "1914", 
     "date": {
         "$date": 1375437600000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "52065cd9733824919a2983ca"
     }, 
-    "iucr": "440", 
+    "iucr": "479", 
     "longitude": "-87.65567367939313", 
     "location_description": "SIDEWALK", 
     "x_coordinate": "1168547", 
     "updated_on": {
-        "$date": 1375577007000
+        "$date": 1376440911000
     }, 
-    "fbi_code": "08B", 
+    "fbi_code": "04B", 
     "block": "010XX W WILSON AVE"
 }
