@@ -1,0 +1,33 @@
+{
+    "community_area": "69", 
+    "_id": {
+        "$oid": "520a5134733824919a2984c8"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "0324", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59319894699199, 
+            41.76311869075284
+        ]
+    }, 
+    "case_number": "HW393495", 
+    "date": {
+        "$date": 1375650900000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "5", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9249196", 
+    "block": "072XX S KIMBARK AVE", 
+    "description": "SIMPLE"
+}
