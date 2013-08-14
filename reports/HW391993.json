@@ -1,0 +1,33 @@
+{
+    "community_area": "46", 
+    "_id": {
+        "$oid": "520ba2ec733824919a2990f6"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0414", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56880639017317, 
+            41.75101578150832
+        ]
+    }, 
+    "case_number": "HW391993", 
+    "date": {
+        "$date": 1375534800000
+    }, 
+    "updated_on": {
+        "$date": 1376268035000
+    }, 
+    "ward": "7", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9255973", 
+    "block": "079XX S CRANDON AVE", 
+    "description": "FORCIBLE ENTRY"
+}
