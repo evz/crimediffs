@@ -1,0 +1,33 @@
+{
+    "community_area": "40", 
+    "_id": {
+        "$oid": "520ba303733824919a299219"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "0231", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "5011", 
+    "arrest": false, 
+    "location_description": "GAS STATION", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62248628164835, 
+            41.8018910706889
+        ]
+    }, 
+    "case_number": "HW379878", 
+    "date": {
+        "$date": 1374842400000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "3", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9261010", 
+    "block": "001XX E 51ST ST", 
+    "description": "LICENSE VIOLATION"
+}
