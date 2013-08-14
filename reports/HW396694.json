@@ -1,0 +1,33 @@
+{
+    "community_area": "59", 
+    "_id": {
+        "$oid": "520ba2ad733824919a2985eb"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0912", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67872068136164, 
+            41.827587896264085
+        ]
+    }, 
+    "case_number": "HW396694", 
+    "date": {
+        "$date": 1375824600000
+    }, 
+    "updated_on": {
+        "$date": 1376268035000
+    }, 
+    "ward": "11", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9253968", 
+    "block": "036XX S HAMILTON AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
