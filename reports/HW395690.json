@@ -1,0 +1,33 @@
+{
+    "community_area": "61", 
+    "_id": {
+        "$oid": "520ba2c6733824919a2989ec"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0932", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6706859218402, 
+            41.80013198720122
+        ]
+    }, 
+    "case_number": "HW395690", 
+    "date": {
+        "$date": 1375725600000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "16", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9253431", 
+    "block": "051XX S HONORE ST", 
+    "description": "$500 AND UNDER"
+}
