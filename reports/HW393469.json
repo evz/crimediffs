@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "520a5134733824919a2984d6"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0334", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56656590322483, 
+            41.76098185953642
+        ]
+    }, 
+    "case_number": "HW393469", 
+    "date": {
+        "$date": 1375644600000
+    }, 
+    "updated_on": {
+        "$date": 1376009150000
+    }, 
+    "ward": "7", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9250758", 
+    "block": "073XX S YATES BLVD", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
