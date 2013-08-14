@@ -1,33 +1,38 @@
 {
-    "community_area": "7", 
-    "_id": {
-        "$oid": "52065ce1733824919a29843a"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1813", 
+    "y_coordinate": "1910887", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "860", 
+    "case_number": "HW399932", 
+    "id": "9255007", 
+    "primary_type": "THEFT", 
+    "district": "018", 
     "arrest": false, 
-    "location_description": "SMALL RETAIL STORE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65183880145221, 
-            41.91074970892295
+            -87.65157555130318, 
+            41.91097591731204
         ]
     }, 
-    "case_number": "HW399932", 
+    "community_area": "7", 
+    "latitude": "41.91097591731204", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "1813", 
     "date": {
         "$date": 1375174800000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "32", 
+    "_id": {
+        "$oid": "52065ce1733824919a29843a"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.65157555130318", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1169819", 
+    "updated_on": {
+        "$date": 1376181721000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9255007", 
-    "block": "009XX W NORTH AVE", 
-    "description": "RETAIL THEFT"
+    "block": "009XX W NORTH AVE"
 }
