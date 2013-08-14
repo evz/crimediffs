@@ -1,0 +1,33 @@
+{
+    "community_area": "45", 
+    "_id": {
+        "$oid": "520ba2b5733824919a298722"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0411", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5904599728509, 
+            41.75080381237366
+        ]
+    }, 
+    "case_number": "HW395934", 
+    "date": {
+        "$date": 1375801200000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "8", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9251048", 
+    "block": "079XX S DORCHESTER AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
