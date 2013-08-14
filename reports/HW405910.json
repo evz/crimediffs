@@ -1,0 +1,33 @@
+{
+    "community_area": "53", 
+    "_id": {
+        "$oid": "520ba2f7733824919a2991f4"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "0524", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6467221784312, 
+            41.68044910549145
+        ]
+    }, 
+    "case_number": "HW405910", 
+    "date": {
+        "$date": 1375315260000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "34", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9260823", 
+    "block": "117XX S MORGAN ST", 
+    "description": "SIMPLE"
+}
