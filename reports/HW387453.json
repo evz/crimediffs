@@ -1,0 +1,33 @@
+{
+    "community_area": "61", 
+    "_id": {
+        "$oid": "520ba2f8733824919a2991fa"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0933", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "860", 
+    "arrest": false, 
+    "location_description": "CONVENIENCE STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6454955980762, 
+            41.80167164933462
+        ]
+    }, 
+    "case_number": "HW387453", 
+    "date": {
+        "$date": 1375282800000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "3", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9258872", 
+    "block": "050XX S HALSTED ST", 
+    "description": "RETAIL THEFT"
+}
