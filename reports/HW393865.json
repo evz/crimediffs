@@ -1,0 +1,33 @@
+{
+    "community_area": "30", 
+    "_id": {
+        "$oid": "520ba2cb733824919a298b50"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "1024", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "312", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70528048186611, 
+            41.84755529299262
+        ]
+    }, 
+    "case_number": "HW393865", 
+    "date": {
+        "$date": 1375686600000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "22", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9248480", 
+    "block": "024XX S KEDZIE AVE", 
+    "description": "ARMED:KNIFE/CUTTING INSTRUMENT"
+}
