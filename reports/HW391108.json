@@ -1,0 +1,33 @@
+{
+    "community_area": "69", 
+    "_id": {
+        "$oid": "520ba2ef733824919a2991b6"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "0323", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "031A", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61687471140223, 
+            41.75941303456583
+        ]
+    }, 
+    "case_number": "HW391108", 
+    "date": {
+        "$date": 1375512600000
+    }, 
+    "updated_on": {
+        "$date": 1376268035000
+    }, 
+    "ward": "6", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9255437", 
+    "block": "074XX S CALUMET AVE", 
+    "description": "ARMED: HANDGUN"
+}
