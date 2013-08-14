@@ -1,33 +1,38 @@
 {
-    "community_area": "8", 
-    "_id": {
-        "$oid": "52065ce4733824919a298441"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "1834", 
+    "y_coordinate": "1903659", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1152", 
+    "case_number": "HW399842", 
+    "id": "9254914", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "018", 
     "arrest": false, 
-    "location_description": "ATM (AUTOMATIC TELLER MACHINE)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62005448149047, 
-            41.89111652764786
+            -87.61792632107563, 
+            41.8909358907225
         ]
     }, 
-    "case_number": "HW399842", 
+    "community_area": "8", 
+    "latitude": "41.8909358907225", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "1834", 
     "date": {
         "$date": 1375034400000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "42", 
+    "_id": {
+        "$oid": "52065ce4733824919a298441"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.61792632107563", 
+    "location_description": "ATM (AUTOMATIC TELLER MACHINE)", 
+    "x_coordinate": "1179039", 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9254914", 
-    "block": "003XX E ILLINOIS ST", 
-    "description": "ILLEGAL USE CASH CARD"
+    "block": "003XX E ILLINOIS ST"
 }
