@@ -1,0 +1,33 @@
+{
+    "community_area": "36", 
+    "_id": {
+        "$oid": "520ba30e733824919a299235"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0214", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60166245607942, 
+            41.82115135920801
+        ]
+    }, 
+    "case_number": "HW406378", 
+    "date": {
+        "$date": 1374404400000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "4", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9261197", 
+    "block": "040XX S LAKE PARK AVE", 
+    "description": "TO VEHICLE"
+}
