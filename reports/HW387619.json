@@ -6,7 +6,7 @@
     "id": "9241713", 
     "primary_type": "ROBBERY", 
     "district": "002", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "PARK PROPERTY", 
     "x_coordinate": "1183946", 
     "updated_on": {
-        "$date": 1376009150000
+        "$date": 1376354397000
     }, 
     "fbi_code": "03", 
     "block": "041XX S LAKE PARK AVE"
