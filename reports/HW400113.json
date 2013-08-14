@@ -1,0 +1,33 @@
+{
+    "community_area": "42", 
+    "_id": {
+        "$oid": "520ba2f6733824919a2991ea"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0312", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61329792211258, 
+            41.77773079420639
+        ]
+    }, 
+    "case_number": "HW400113", 
+    "date": {
+        "$date": 1375369200000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "20", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9261001", 
+    "block": "064XX S EBERHART AVE", 
+    "description": "$500 AND UNDER"
+}
