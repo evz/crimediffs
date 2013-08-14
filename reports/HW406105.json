@@ -1,0 +1,33 @@
+{
+    "community_area": "3", 
+    "_id": {
+        "$oid": "520ba2f7733824919a2991f2"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1913", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "COLLEGE/UNIVERSITY GROUNDS", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6574531, 
+            41.9654143
+        ]
+    }, 
+    "case_number": "HW406105", 
+    "date": {
+        "$date": 1375340400000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "46", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9261108", 
+    "block": "011XX W WILSON AVE", 
+    "description": "FROM BUILDING"
+}
