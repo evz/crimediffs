@@ -1,0 +1,33 @@
+{
+    "community_area": "8", 
+    "_id": {
+        "$oid": "520ba2a7733824919a298556"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1832", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "460", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63093987631142, 
+            41.896529397379794
+        ]
+    }, 
+    "case_number": "HW396728", 
+    "date": {
+        "$date": 1375838400000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "42", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9255567", 
+    "block": "0000X W CHICAGO AVE", 
+    "description": "SIMPLE"
+}
