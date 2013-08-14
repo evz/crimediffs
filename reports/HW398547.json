@@ -1,0 +1,33 @@
+{
+    "community_area": "4", 
+    "_id": {
+        "$oid": "520ba2c5733824919a2989e9"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "1912", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67781320131314, 
+            41.96778033272965
+        ]
+    }, 
+    "case_number": "HW398547", 
+    "date": {
+        "$date": 1375725600000
+    }, 
+    "updated_on": {
+        "$date": 1376181721000
+    }, 
+    "ward": "47", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9254778", 
+    "block": "047XX N WINCHESTER AVE", 
+    "description": "AUTOMOBILE"
+}
