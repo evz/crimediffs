@@ -1,33 +1,38 @@
 {
-    "community_area": "22", 
-    "_id": {
-        "$oid": "52065cea733824919a298446"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1421", 
+    "y_coordinate": "1912394", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW400480", 
+    "id": "9255797", 
+    "primary_type": "THEFT", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70184835207246, 
-            41.91436163216091
+            -87.70188221386145, 
+            41.91539913766022
         ]
     }, 
-    "case_number": "HW400480", 
+    "community_area": "22", 
+    "latitude": "41.91539913766022", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1421", 
     "date": {
         "$date": 1374800400000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "35", 
+    "_id": {
+        "$oid": "52065cea733824919a298446"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.70188221386145", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1156114", 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9255797", 
-    "block": "018XX N HUMBOLDT BLVD", 
-    "description": "OVER $500"
+    "block": "018XX N HUMBOLDT BLVD"
 }
