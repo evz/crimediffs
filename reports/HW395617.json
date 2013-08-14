@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "520ba2b8733824919a2987bf"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0624", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60778501449191, 
+            41.75030254451608
+        ]
+    }, 
+    "case_number": "HW395617", 
+    "date": {
+        "$date": 1375788600000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "6", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9251896", 
+    "block": "079XX S LANGLEY AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
