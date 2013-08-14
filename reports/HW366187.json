@@ -1,15 +1,12 @@
 {
-    "community_area": "76", 
-    "_id": {
-        "$oid": "52065cfc733824919a298465"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1654", 
+    "y_coordinate": "1926039", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1812", 
+    "case_number": "HW366187", 
+    "id": "9255551", 
+    "primary_type": "NARCOTICS", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "POLICE FACILITY/VEH PARKING LOT", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.9537907007995
         ]
     }, 
-    "case_number": "HW366187", 
+    "community_area": "76", 
+    "latitude": "41.9537907007995", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS MORE THAN 30GMS", 
+    "beat": "1654", 
     "date": {
         "$date": 1374040800000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "41", 
+    "_id": {
+        "$oid": "52065cfc733824919a298465"
+    }, 
+    "iucr": "1812", 
+    "longitude": "-87.90747333217887", 
+    "location_description": "POLICE FACILITY/VEH PARKING LOT", 
+    "x_coordinate": "1100088", 
+    "updated_on": {
+        "$date": 1376181721000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9255551", 
-    "block": "006XX W OHARE ST", 
-    "description": "POSS: CANNABIS MORE THAN 30GMS"
+    "block": "006XX W OHARE ST"
 }
