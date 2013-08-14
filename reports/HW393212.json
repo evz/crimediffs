@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1900235", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW393212", 
+    "id": "9247312", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64467832604109, 
+            41.88170315525501
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.88170315525501", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0121", 
+    "date": {
+        "$date": 1375632000000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "520ba2d7733824919a298ccd"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.64467832604109", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1171782", 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "fbi_code": "06", 
+    "block": "006XX W MADISON ST"
+}
