@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1901990", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW391936", 
+    "id": "9246324", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6205442807756, 
+            41.886372036759816
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.886372036759816", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0114", 
+    "date": {
+        "$date": 1375554600000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "520ba2e6733824919a298ff3"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.6205442807756", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1178340", 
+    "updated_on": {
+        "$date": 1375749778000
+    }, 
+    "fbi_code": "06", 
+    "block": "002XX N COLUMBUS DR"
+}
