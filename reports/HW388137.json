@@ -16,8 +16,8 @@
     }, 
     "community_area": "25", 
     "latitude": "41.883548684576674", 
-    "type": "violent", 
-    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "type": null, 
+    "description": "SIMPLE", 
     "beat": "1512", 
     "date": {
         "$date": 1375335000000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "52050b37733824919a29803f"
     }, 
-    "iucr": "530", 
+    "iucr": "560", 
     "longitude": "-87.76808788251421", 
     "location_description": "STREET", 
     "x_coordinate": "1138171", 
     "updated_on": {
-        "$date": 1376095237000
+        "$date": 1376440911000
     }, 
-    "fbi_code": "04A", 
+    "fbi_code": "08A", 
     "block": "001XX N WALLER AVE"
 }
