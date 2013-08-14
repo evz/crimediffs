@@ -1,0 +1,33 @@
+{
+    "community_area": "16", 
+    "_id": {
+        "$oid": "520ba2c0733824919a298966"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1733", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69573415875041, 
+            41.95353179316225
+        ]
+    }, 
+    "case_number": "HW406352", 
+    "date": {
+        "$date": 1375736400000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "33", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9261303", 
+    "block": "026XX W DAKIN ST", 
+    "description": "$500 AND UNDER"
+}
