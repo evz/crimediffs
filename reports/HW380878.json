@@ -6,7 +6,7 @@
     "id": "9234325", 
     "primary_type": "BATTERY", 
     "district": "019", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "BAR OR TAVERN", 
     "x_coordinate": "1168670", 
     "updated_on": {
-        "$date": 1375058559000
+        "$date": 1376354397000
     }, 
     "fbi_code": "08B", 
     "block": "035XX N CLARK ST"
