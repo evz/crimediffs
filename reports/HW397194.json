@@ -1,0 +1,33 @@
+{
+    "community_area": "42", 
+    "_id": {
+        "$oid": "520ba2b5733824919a29871e"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0321", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60836593413953, 
+            41.76934615276264
+        ]
+    }, 
+    "case_number": "HW397194", 
+    "date": {
+        "$date": 1375801200000
+    }, 
+    "updated_on": {
+        "$date": 1376268035000
+    }, 
+    "ward": "6", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9256386", 
+    "block": "006XX E 69TH ST", 
+    "description": "$500 AND UNDER"
+}
