@@ -1,15 +1,12 @@
 {
-    "community_area": "15", 
-    "_id": {
-        "$oid": "52065cf5733824919a29845a"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1624", 
+    "y_coordinate": "1927521", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "820", 
+    "case_number": "HW400147", 
+    "id": "9255468", 
+    "primary_type": "THEFT", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.95716029727521
         ]
     }, 
-    "case_number": "HW400147", 
+    "community_area": "15", 
+    "latitude": "41.95716029727521", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1624", 
     "date": {
         "$date": 1374343200000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "45", 
+    "_id": {
+        "$oid": "52065cf5733824919a29845a"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.74897070502925", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1143194", 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9255468", 
-    "block": "048XX W BERTEAU AVE", 
-    "description": "$500 AND UNDER"
+    "block": "048XX W BERTEAU AVE"
 }
