@@ -1,0 +1,33 @@
+{
+    "community_area": "53", 
+    "_id": {
+        "$oid": "520ba2af733824919a29861c"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0524", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65805595943576, 
+            41.68323040865317
+        ]
+    }, 
+    "case_number": "HW396493", 
+    "date": {
+        "$date": 1375822080000
+    }, 
+    "updated_on": {
+        "$date": 1376354397000
+    }, 
+    "ward": "34", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9257055", 
+    "block": "115XX S BISHOP ST", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
