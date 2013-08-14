@@ -1,0 +1,33 @@
+{
+    "community_area": "6", 
+    "_id": {
+        "$oid": "520a5131733824919a29848e"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1925", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64954672295448, 
+            41.94443512569569
+        ]
+    }, 
+    "case_number": "HW394009", 
+    "date": {
+        "$date": 1375664400000
+    }, 
+    "updated_on": {
+        "$date": 1376354397000
+    }, 
+    "ward": "44", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9250046", 
+    "block": "034XX N HALSTED ST", 
+    "description": "$500 AND UNDER"
+}
