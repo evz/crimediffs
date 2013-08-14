@@ -1,33 +1,38 @@
 {
-    "community_area": "5", 
-    "_id": {
-        "$oid": "52065cf3733824919a298458"
-    }, 
-    "primary_type": "SEX OFFENSE", 
-    "beat": "1931", 
+    "y_coordinate": "1920492", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1544", 
+    "case_number": "HW400834", 
+    "id": "9255872", 
+    "primary_type": "SEX OFFENSE", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.68670136676869, 
-            41.93753738184439
+            -87.68676016959465, 
+            41.937537712999855
         ]
     }, 
-    "case_number": "HW400834", 
+    "community_area": "5", 
+    "latitude": "41.937537712999855", 
+    "type": null, 
+    "description": "SEXUAL EXPLOITATION OF A CHILD", 
+    "beat": "1931", 
     "date": {
         "$date": 1374451200000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "1", 
+    "_id": {
+        "$oid": "52065cf3733824919a298458"
+    }, 
+    "iucr": "1544", 
+    "longitude": "-87.68676016959465", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1160169", 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
     "fbi_code": "17", 
-    "type": null, 
-    "id": "9255872", 
-    "block": "023XX W BARRY AVE", 
-    "description": "SEXUAL EXPLOITATION OF A CHILD"
+    "block": "023XX W BARRY AVE"
 }
