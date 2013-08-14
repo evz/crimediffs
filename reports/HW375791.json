@@ -1,33 +1,38 @@
 {
-    "community_area": "29", 
-    "_id": {
-        "$oid": "52065cf0733824919a29844d"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1011", 
+    "y_coordinate": "1894382", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2014", 
+    "case_number": "HW375791", 
+    "id": "9255444", 
+    "primary_type": "NARCOTICS", 
+    "district": "010", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72449262721499, 
-            41.866292265619265
+            -87.72341889319215, 
+            41.86608623775852
         ]
     }, 
-    "case_number": "HW375791", 
+    "community_area": "29", 
+    "latitude": "41.86608623775852", 
+    "type": "quality", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)", 
+    "beat": "1011", 
     "date": {
         "$date": 1374596220000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "24", 
+    "_id": {
+        "$oid": "52065cf0733824919a29844d"
+    }, 
+    "iucr": "2014", 
+    "longitude": "-87.72341889319215", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1150380", 
+    "updated_on": {
+        "$date": 1376181721000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9255444", 
-    "block": "039XX W ROOSEVELT RD", 
-    "description": "MANU/DELIVER: HEROIN (WHITE)"
+    "block": "039XX W ROOSEVELT RD"
 }
