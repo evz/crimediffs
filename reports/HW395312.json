@@ -1,0 +1,33 @@
+{
+    "community_area": "71", 
+    "_id": {
+        "$oid": "520ba2bb733824919a298849"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0614", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6667158244758, 
+            41.74153474313665
+        ]
+    }, 
+    "case_number": "HW395312", 
+    "date": {
+        "$date": 1375768800000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "18", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9251293", 
+    "block": "083XX S HERMITAGE AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
