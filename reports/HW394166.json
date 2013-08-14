@@ -1,0 +1,33 @@
+{
+    "community_area": "32", 
+    "_id": {
+        "$oid": "520ba2c9733824919a298ae3"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0113", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "870", 
+    "arrest": false, 
+    "location_description": "CTA TRAIN", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62947547790135, 
+            41.878693851898554
+        ]
+    }, 
+    "case_number": "HW394166", 
+    "date": {
+        "$date": 1375702800000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "42", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9249058", 
+    "block": "002XX S DEARBORN ST", 
+    "description": "POCKET-PICKING"
+}
