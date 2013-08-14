@@ -6,7 +6,7 @@
     "id": "9225197", 
     "primary_type": "BATTERY", 
     "district": "009", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "ALLEY", 
     "x_coordinate": "1157592", 
     "updated_on": {
-        "$date": 1375577007000
+        "$date": 1376354397000
     }, 
     "fbi_code": "04B", 
     "block": "029XX W 40TH ST"
