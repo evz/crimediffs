@@ -1,0 +1,33 @@
+{
+    "community_area": "69", 
+    "_id": {
+        "$oid": "520ba2c8733824919a298a80"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "0322", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "325", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61760355401807, 
+            41.7710039964824
+        ]
+    }, 
+    "case_number": "HW394435", 
+    "date": {
+        "$date": 1375713360000
+    }, 
+    "updated_on": {
+        "$date": 1375922568000
+    }, 
+    "ward": "20", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9250286", 
+    "block": "003XX E 68TH ST", 
+    "description": "VEHICULAR HIJACKING"
+}
