@@ -1,0 +1,33 @@
+{
+    "community_area": "75", 
+    "_id": {
+        "$oid": "520ba2b3733824919a2986cf"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "2234", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "5002", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64998662903146, 
+            41.68953036077758
+        ]
+    }, 
+    "case_number": "HW396638", 
+    "date": {
+        "$date": 1375808400000
+    }, 
+    "updated_on": {
+        "$date": 1376354397000
+    }, 
+    "ward": "34", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9257152", 
+    "block": "011XX W 112TH PL", 
+    "description": "OTHER VEHICLE OFFENSE"
+}
