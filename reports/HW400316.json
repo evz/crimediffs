@@ -1,33 +1,38 @@
 {
-    "community_area": "32", 
-    "_id": {
-        "$oid": "52065d06733824919a29846a"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0114", 
+    "y_coordinate": "1898177", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1152", 
+    "case_number": "HW400316", 
+    "id": "9255575", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "PARK PROPERTY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62048296044601, 
-            41.876360662329176
+            -87.62044760448104, 
+            41.875907642568116
         ]
     }, 
-    "case_number": "HW400316", 
+    "community_area": "32", 
+    "latitude": "41.875907642568116", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "0114", 
     "date": {
         "$date": 1373716800000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "42", 
+    "_id": {
+        "$oid": "52065d06733824919a29846a"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.62044760448104", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1178398", 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9255575", 
-    "block": "004XX S COLUMBUS DR", 
-    "description": "ILLEGAL USE CASH CARD"
+    "block": "004XX S COLUMBUS DR"
 }
