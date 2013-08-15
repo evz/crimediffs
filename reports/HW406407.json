@@ -1,0 +1,33 @@
+{
+    "community_area": "12", 
+    "_id": {
+        "$oid": "520cf449733824919a299264"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1711", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73220978905977, 
+            41.98997677845654
+        ]
+    }, 
+    "case_number": "HW406407", 
+    "date": {
+        "$date": 1373724000000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "39", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9261463", 
+    "block": "041XX W PETERSON AVE", 
+    "description": "OVER $500"
+}
