@@ -1,0 +1,33 @@
+{
+    "community_area": "26", 
+    "_id": {
+        "$oid": "520cf44b733824919a29926a"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "1114", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2011", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72598800610191, 
+            41.88478545759946
+        ]
+    }, 
+    "case_number": "HW359540", 
+    "date": {
+        "$date": 1373647620000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "28", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9261008", 
+    "block": "040XX W MAYPOLE AVE", 
+    "description": "MANU/DELIVER:BARBITUATES"
+}
