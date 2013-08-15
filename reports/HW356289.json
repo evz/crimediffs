@@ -1,0 +1,33 @@
+{
+    "community_area": "66", 
+    "_id": {
+        "$oid": "520cf450733824919a299274"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "0825", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2017", 
+    "arrest": false, 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68741952198748, 
+            41.77797933922846
+        ]
+    }, 
+    "case_number": "HW356289", 
+    "date": {
+        "$date": 1373459700000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "15", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9260976", 
+    "block": "063XX S MAPLEWOOD AVE", 
+    "description": "MANU/DELIVER:CRACK"
+}
