@@ -1,0 +1,33 @@
+{
+    "community_area": "29", 
+    "_id": {
+        "$oid": "520cf44b733824919a299269"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "1011", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2017", 
+    "arrest": false, 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73749842410538, 
+            41.86449163849389
+        ]
+    }, 
+    "case_number": "HW359757", 
+    "date": {
+        "$date": 1373654400000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "24", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9260996", 
+    "block": "012XX S KILBOURN AVE", 
+    "description": "MANU/DELIVER:CRACK"
+}
