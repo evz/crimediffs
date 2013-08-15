@@ -1,33 +1,38 @@
 {
-    "community_area": "71", 
-    "_id": {
-        "$oid": "51fde76b733824919a2953ca"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "0622", 
+    "y_coordinate": "1847851", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "031B", 
+    "case_number": "HW362916", 
+    "id": "9219378", 
+    "primary_type": "ROBBERY", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "GAS STATION", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64376802889566, 
-            41.73596283587667
+            -87.64352337550268, 
+            41.73794001593172
         ]
     }, 
-    "case_number": "HW362916", 
+    "community_area": "71", 
+    "latitude": "41.73794001593172", 
+    "type": "violent", 
+    "description": "ARMED: OTHER FIREARM", 
+    "beat": "0622", 
     "date": {
         "$date": 1373857800000
     }, 
-    "updated_on": {
-        "$date": 1374367458000
-    }, 
     "ward": "21", 
+    "_id": {
+        "$oid": "51fde76b733824919a2953ca"
+    }, 
+    "iucr": "031B", 
+    "longitude": "-87.64352337550268", 
+    "location_description": "GAS STATION", 
+    "x_coordinate": "1172517", 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9219378", 
-    "block": "086XX S HALSTED ST", 
-    "description": "ARMED: OTHER FIREARM"
+    "block": "086XX S HALSTED ST"
 }
