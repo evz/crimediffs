@@ -1,33 +1,38 @@
 {
-    "community_area": "51", 
-    "_id": {
-        "$oid": "520ba304733824919a29921d"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0431", 
+    "y_coordinate": "1842003", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW405650", 
+    "id": "9260518", 
+    "primary_type": "BURGLARY", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "VACANT LOT/LAND", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.56365079935019, 
-            41.72150202307418
+            -87.56365587022042, 
+            41.72138405157631
         ]
     }, 
-    "case_number": "HW405650", 
+    "community_area": "51", 
+    "latitude": "41.72138405157631", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0431", 
     "date": {
         "$date": 1374829200000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "7", 
+    "_id": {
+        "$oid": "520ba304733824919a29921d"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.56365587022042", 
+    "location_description": "VACANT LOT/LAND", 
+    "x_coordinate": "1194369", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9260518", 
-    "block": "095XX S BENSLEY AVE", 
-    "description": "FORCIBLE ENTRY"
+    "block": "095XX S BENSLEY AVE"
 }
