@@ -1,0 +1,33 @@
+{
+    "community_area": "19", 
+    "_id": {
+        "$oid": "520e45ad733824919a2992d1"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2515", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75707700867622, 
+            41.91883154548102
+        ]
+    }, 
+    "case_number": "HW398146", 
+    "date": {
+        "$date": 1375906500000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "37", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9253904", 
+    "block": "021XX N LATROBE AVE", 
+    "description": "OVER $500"
+}
