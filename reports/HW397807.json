@@ -1,0 +1,33 @@
+{
+    "community_area": "7", 
+    "_id": {
+        "$oid": "520e45af733824919a2992fc"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "1811", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66591585693321, 
+            41.92425715379978
+        ]
+    }, 
+    "case_number": "HW397807", 
+    "date": {
+        "$date": 1375893900000
+    }, 
+    "updated_on": {
+        "$date": 1376181721000
+    }, 
+    "ward": "32", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9254045", 
+    "block": "023XX N GREENVIEW AVE", 
+    "description": "STRONGARM - NO WEAPON"
+}
