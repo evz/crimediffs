@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "520e45aa733824919a299291"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1533", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75362317581563, 
+            41.87821585092668
+        ]
+    }, 
+    "case_number": "HW398997", 
+    "date": {
+        "$date": 1375923600000
+    }, 
+    "updated_on": {
+        "$date": 1376181721000
+    }, 
+    "ward": "28", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9254435", 
+    "block": "002XX S LEAMINGTON AVE", 
+    "description": "$500 AND UNDER"
+}
