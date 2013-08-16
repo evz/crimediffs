@@ -1,33 +1,38 @@
 {
-    "community_area": "21", 
-    "_id": {
-        "$oid": "520ba2f7733824919a2991ed"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1732", 
+    "y_coordinate": "1922303", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "840", 
+    "case_number": "HW405128", 
+    "id": "9259873", 
+    "primary_type": "THEFT", 
+    "district": "017", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72105881830365, 
-            41.942923290589896
+            -87.72164907690907, 
+            41.94269866659922
         ]
     }, 
-    "case_number": "HW405128", 
+    "community_area": "21", 
+    "latitude": "41.94269866659922", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "1732", 
     "date": {
         "$date": 1375351200000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "30", 
+    "_id": {
+        "$oid": "520ba2f7733824919a2991ed"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.72164907690907", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1150663", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9259873", 
-    "block": "037XX W ROSCOE ST", 
-    "description": "FINANCIAL ID THEFT: OVER $300"
+    "block": "037XX W ROSCOE ST"
 }
