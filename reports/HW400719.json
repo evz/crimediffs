@@ -1,0 +1,33 @@
+{
+    "community_area": "73", 
+    "_id": {
+        "$oid": "520e45ab733824919a2992a0"
+    }, 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "beat": "2221", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "281", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6626652931062, 
+            41.72689769969827
+        ]
+    }, 
+    "case_number": "HW400719", 
+    "date": {
+        "$date": 1375920060000
+    }, 
+    "updated_on": {
+        "$date": 1376354397000
+    }, 
+    "ward": "21", 
+    "fbi_code": "02", 
+    "type": "violent", 
+    "id": "9257132", 
+    "block": "091XX S ASHLAND AVE", 
+    "description": "NON-AGGRAVATED"
+}
