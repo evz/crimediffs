@@ -6,7 +6,7 @@
     "id": "9258819", 
     "primary_type": "THEFT", 
     "district": "017", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "STREET", 
     "x_coordinate": "1151119", 
     "updated_on": {
-        "$date": 1376440911000
+        "$date": 1376527473000
     }, 
     "fbi_code": "06", 
     "block": "036XX W GRACE ST"
