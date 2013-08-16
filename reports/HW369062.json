@@ -1,33 +1,38 @@
 {
-    "community_area": "76", 
-    "_id": {
-        "$oid": "520ba313733824919a29923e"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1652", 
+    "y_coordinate": "1934249", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW369062", 
+    "id": "9260097", 
+    "primary_type": "THEFT", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.90098446311458, 
-            41.97665321544024
+            -87.90497700178376, 
+            41.97631143448058
         ]
     }, 
-    "case_number": "HW369062", 
+    "community_area": "76", 
+    "latitude": "41.97631143448058", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1652", 
     "date": {
         "$date": 1374203700000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "41", 
+    "_id": {
+        "$oid": "520ba313733824919a29923e"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.90497700178376", 
+    "location_description": "AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA", 
+    "x_coordinate": "1100726", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9260097", 
-    "block": "0000X W TERMINAL ST", 
-    "description": "OVER $500"
+    "block": "0000X W TERMINAL ST"
 }
