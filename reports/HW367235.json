@@ -1,33 +1,38 @@
 {
-    "community_area": "38", 
-    "_id": {
-        "$oid": "520ba315733824919a299244"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "0215", 
+    "y_coordinate": "1875213", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2027", 
+    "case_number": "HW367235", 
+    "id": "9260322", 
+    "primary_type": "NARCOTICS", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62277208008572, 
-            41.81220583169447
+            -87.62307615609542, 
+            41.812904757955295
         ]
     }, 
-    "case_number": "HW367235", 
+    "community_area": "38", 
+    "latitude": "41.812904757955295", 
+    "type": "quality", 
+    "description": "POSS: CRACK", 
+    "beat": "0215", 
     "date": {
         "$date": 1374091320000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "3", 
+    "_id": {
+        "$oid": "520ba315733824919a299244"
+    }, 
+    "iucr": "2027", 
+    "longitude": "-87.62307615609542", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1177872", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9260322", 
-    "block": "045XX S MICHIGAN AVE", 
-    "description": "POSS: CRACK"
+    "block": "045XX S MICHIGAN AVE"
 }
