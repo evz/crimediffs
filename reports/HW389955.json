@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "520e45b7733824919a29934a"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "2532", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1821", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75727593042076, 
+            41.9032480285615
+        ]
+    }, 
+    "case_number": "HW389955", 
+    "date": {
+        "$date": 1375445220000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "37", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9262573", 
+    "block": "052XX W CRYSTAL ST", 
+    "description": "MANU/DEL:CANNABIS 10GM OR LESS"
+}
