@@ -1,33 +1,38 @@
 {
-    "community_area": "46", 
-    "_id": {
-        "$oid": "520ba316733824919a299247"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0414", 
+    "y_coordinate": "1851274", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1152", 
+    "case_number": "HW406041", 
+    "id": "9261334", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.57238484778185, 
-            41.746527906742315
+            -87.57209849233354, 
+            41.746882769123374
         ]
     }, 
-    "case_number": "HW406041", 
+    "community_area": "46", 
+    "latitude": "41.746882769123374", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "0414", 
     "date": {
         "$date": 1374062400000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "8", 
+    "_id": {
+        "$oid": "520ba316733824919a299247"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.57209849233354", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1191982", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9261334", 
-    "block": "081XX S MERRILL AVE", 
-    "description": "ILLEGAL USE CASH CARD"
+    "block": "081XX S MERRILL AVE"
 }
