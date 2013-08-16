@@ -1,0 +1,33 @@
+{
+    "community_area": "28", 
+    "_id": {
+        "$oid": "520e45ba733824919a299356"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "1231", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66187258911674, 
+            41.87212601939112
+        ]
+    }, 
+    "case_number": "HW407774", 
+    "date": {
+        "$date": 1375293600000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "25", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9262952", 
+    "block": "007XX S LOOMIS ST", 
+    "description": "TO PROPERTY"
+}
