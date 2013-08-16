@@ -1,33 +1,38 @@
 {
-    "community_area": "26", 
-    "_id": {
-        "$oid": "520cf44b733824919a29926a"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1114", 
+    "y_coordinate": "1901102", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2011", 
+    "case_number": "HW359540", 
+    "id": "9261008", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72598800610191, 
-            41.88478545759946
+            -87.72740410312132, 
+            41.884548700174044
         ]
     }, 
-    "case_number": "HW359540", 
+    "community_area": "26", 
+    "latitude": "41.884548700174044", 
+    "type": "quality", 
+    "description": "MANU/DELIVER:BARBITUATES", 
+    "beat": "1114", 
     "date": {
         "$date": 1373647620000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "28", 
+    "_id": {
+        "$oid": "520cf44b733824919a29926a"
+    }, 
+    "iucr": "2011", 
+    "longitude": "-87.72740410312132", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1149247", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9261008", 
-    "block": "040XX W MAYPOLE AVE", 
-    "description": "MANU/DELIVER:BARBITUATES"
+    "block": "040XX W MAYPOLE AVE"
 }
