@@ -1,33 +1,38 @@
 {
-    "community_area": "19", 
-    "_id": {
-        "$oid": "520ba2f5733824919a2991e6"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "2522", 
+    "y_coordinate": "1915493", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1120", 
+    "case_number": "HW406153", 
+    "id": "9261059", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "CURRENCY EXCHANGE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.74561955758756, 
-            41.92413844407637
+            -87.74582535187521, 
+            41.92413675300907
         ]
     }, 
-    "case_number": "HW406153", 
+    "community_area": "19", 
+    "latitude": "41.92413675300907", 
+    "type": null, 
+    "description": "FORGERY", 
+    "beat": "2522", 
     "date": {
         "$date": 1375376760000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "31", 
+    "_id": {
+        "$oid": "520ba2f5733824919a2991e6"
+    }, 
+    "iucr": "1120", 
+    "longitude": "-87.74582535187521", 
+    "location_description": "CURRENCY EXCHANGE", 
+    "x_coordinate": "1144132", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "10", 
-    "type": null, 
-    "id": "9261059", 
-    "block": "047XX W FULLERTON AVE", 
-    "description": "FORGERY"
+    "block": "047XX W FULLERTON AVE"
 }
