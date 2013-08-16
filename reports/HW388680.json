@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "520e45b2733824919a299338"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "1522", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2015", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76431917663591, 
+            41.87371937380383
+        ]
+    }, 
+    "case_number": "HW388680", 
+    "date": {
+        "$date": 1375808580000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "29", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9262016", 
+    "block": "055XX W CONGRESS PKWY", 
+    "description": "MANU/DELIVER: HALLUCINOGEN"
+}
