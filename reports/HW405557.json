@@ -1,33 +1,38 @@
 {
-    "community_area": "23", 
-    "_id": {
-        "$oid": "520ba306733824919a299224"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "1112", 
+    "y_coordinate": "1907240", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW405557", 
+    "id": "9260471", 
+    "primary_type": "BURGLARY", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "GOVERNMENT BUILDING/PROPERTY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.7191183682425, 
-            41.90189494560494
+            -87.71880403990365, 
+            41.90134716049445
         ]
     }, 
-    "case_number": "HW405557", 
+    "community_area": "23", 
+    "latitude": "41.90134716049445", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1112", 
     "date": {
         "$date": 1374714000000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "27", 
+    "_id": {
+        "$oid": "520ba306733824919a299224"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.71880403990365", 
+    "location_description": "GOVERNMENT BUILDING/PROPERTY", 
+    "x_coordinate": "1151545", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9260471", 
-    "block": "011XX N LAWNDALE AVE", 
-    "description": "FORCIBLE ENTRY"
+    "block": "011XX N LAWNDALE AVE"
 }
