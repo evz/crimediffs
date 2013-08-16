@@ -1,0 +1,33 @@
+{
+    "community_area": "7", 
+    "_id": {
+        "$oid": "520e45b5733824919a299341"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "1935", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65331535477856, 
+            41.92912282042014
+        ]
+    }, 
+    "case_number": "HW407662", 
+    "date": {
+        "$date": 1375534800000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "43", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9262828", 
+    "block": "009XX W WRIGHTWOOD AVE", 
+    "description": "AUTOMOBILE"
+}
