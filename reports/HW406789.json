@@ -1,0 +1,33 @@
+{
+    "community_area": "39", 
+    "_id": {
+        "$oid": "520e45b2733824919a299335"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0221", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60387750538133, 
+            41.81540796817505
+        ]
+    }, 
+    "case_number": "HW406789", 
+    "date": {
+        "$date": 1375848900000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "4", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9261705", 
+    "block": "043XX S DREXEL BLVD", 
+    "description": "$500 AND UNDER"
+}
