@@ -1,33 +1,38 @@
 {
-    "community_area": "67", 
-    "_id": {
-        "$oid": "520ba305733824919a299221"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0714", 
+    "y_coordinate": "1865352", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW379888", 
+    "id": "9260631", 
+    "primary_type": "THEFT", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67392405942148, 
-            41.78549063936087
+            -87.67393933794501, 
+            41.78614661244385
         ]
     }, 
-    "case_number": "HW379888", 
+    "community_area": "67", 
+    "latitude": "41.78614661244385", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0714", 
     "date": {
         "$date": 1374759000000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "15", 
+    "_id": {
+        "$oid": "520ba305733824919a299221"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.67393933794501", 
+    "location_description": "STREET", 
+    "x_coordinate": "1164081", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9260631", 
-    "block": "059XX S DAMEN AVE", 
-    "description": "$500 AND UNDER"
+    "block": "059XX S DAMEN AVE"
 }
