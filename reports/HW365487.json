@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "520ba317733824919a299252"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "2533", 
+    "y_coordinate": "1910626", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2024", 
+    "case_number": "HW365487", 
+    "id": "9260485", 
+    "primary_type": "NARCOTICS", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.75283384094017, 
-            41.91064882118129
+            -87.75254210287704, 
+            41.910814744346915
         ]
     }, 
-    "case_number": "HW365487", 
+    "community_area": "25", 
+    "latitude": "41.910814744346915", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "2533", 
     "date": {
         "$date": 1373992380000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "37", 
+    "_id": {
+        "$oid": "520ba317733824919a299252"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.75254210287704", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1142337", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9260485", 
-    "block": "016XX N LECLAIRE AVE", 
-    "description": "POSS: HEROIN(WHITE)"
+    "block": "016XX N LECLAIRE AVE"
 }
