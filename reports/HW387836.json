@@ -6,7 +6,7 @@
     "id": "9241903", 
     "primary_type": "OTHER OFFENSE", 
     "district": "025", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "SIDEWALK", 
     "x_coordinate": "1143744", 
     "updated_on": {
-        "$date": 1375490414000
+        "$date": 1376527473000
     }, 
     "fbi_code": "26", 
     "block": "020XX N LA CROSSE AVE"
