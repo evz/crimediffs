@@ -1,33 +1,38 @@
 {
-    "community_area": "23", 
-    "_id": {
-        "$oid": "520cf44b733824919a29926b"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1121", 
+    "y_coordinate": "1904485", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2014", 
+    "case_number": "HW359482", 
+    "id": "9261015", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.71394254383122, 
-            41.89354112101363
+            -87.71402489456385, 
+            41.89376110449516
         ]
     }, 
-    "case_number": "HW359482", 
+    "community_area": "23", 
+    "latitude": "41.89376110449516", 
+    "type": "quality", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)", 
+    "beat": "1121", 
     "date": {
         "$date": 1373647200000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "27", 
+    "_id": {
+        "$oid": "520cf44b733824919a29926b"
+    }, 
+    "iucr": "2014", 
+    "longitude": "-87.71402489456385", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1152866", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9261015", 
-    "block": "035XX W HURON ST", 
-    "description": "MANU/DELIVER: HEROIN (WHITE)"
+    "block": "035XX W HURON ST"
 }
