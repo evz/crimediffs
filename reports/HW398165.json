@@ -1,0 +1,33 @@
+{
+    "community_area": "53", 
+    "_id": {
+        "$oid": "520e45ab733824919a2992a6"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0523", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "420", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64022784367198, 
+            41.667846530302086
+        ]
+    }, 
+    "case_number": "HW398165", 
+    "date": {
+        "$date": 1375919400000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "34", 
+    "fbi_code": "04B", 
+    "type": "violent", 
+    "id": "9258852", 
+    "block": "124XX S EMERALD AVE", 
+    "description": "AGGRAVATED:KNIFE/CUTTING INSTR"
+}
