@@ -1,0 +1,33 @@
+{
+    "community_area": "3", 
+    "_id": {
+        "$oid": "520e45b2733824919a299334"
+    }, 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "beat": "1913", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1150", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6633147891152, 
+            41.967032535031294
+        ]
+    }, 
+    "case_number": "HW397058", 
+    "date": {
+        "$date": 1375853220000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "46", 
+    "fbi_code": "11", 
+    "type": null, 
+    "id": "9259050", 
+    "block": "013XX W LELAND AVE", 
+    "description": "CREDIT CARD FRAUD"
+}
