@@ -1,0 +1,33 @@
+{
+    "community_area": "29", 
+    "_id": {
+        "$oid": "520e45b2733824919a299337"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1022", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70762406575044, 
+            41.854508321654784
+        ]
+    }, 
+    "case_number": "HW407967", 
+    "date": {
+        "$date": 1375810200000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "24", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9263086", 
+    "block": "019XX S SPAULDING AVE", 
+    "description": "$500 AND UNDER"
+}
