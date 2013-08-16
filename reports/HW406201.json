@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "520ba316733824919a299249"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "0421", 
+    "y_coordinate": "1856218", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "1310", 
+    "case_number": "HW406201", 
+    "id": "9261175", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.55650525991099, 
-            41.75972050707673
+            -87.5571280846029, 
+            41.76035041573226
         ]
     }, 
-    "case_number": "HW406201", 
+    "community_area": "43", 
+    "latitude": "41.76035041573226", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0421", 
     "date": {
         "$date": 1374051600000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "7", 
+    "_id": {
+        "$oid": "520ba316733824919a299249"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.5571280846029", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1196023", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9261175", 
-    "block": "075XX S SOUTH SHORE DR", 
-    "description": "TO PROPERTY"
+    "block": "075XX S SOUTH SHORE DR"
 }
