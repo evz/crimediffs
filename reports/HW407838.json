@@ -1,0 +1,33 @@
+{
+    "community_area": "77", 
+    "_id": {
+        "$oid": "520e45b5733824919a299342"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2012", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67428062038358, 
+            41.976588205946385
+        ]
+    }, 
+    "case_number": "HW407838", 
+    "date": {
+        "$date": 1375527600000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "40", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9262997", 
+    "block": "052XX N RAVENSWOOD AVE", 
+    "description": "OVER $500"
+}
