@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "520e45b9733824919a299354"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "1522", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1811", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75915329772107, 
+            41.879434638179106
+        ]
+    }, 
+    "case_number": "HW387879", 
+    "date": {
+        "$date": 1375311003000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "29", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9262114", 
+    "block": "053XX W MONROE ST", 
+    "description": "POSS: CANNABIS 30GMS OR LESS"
+}
