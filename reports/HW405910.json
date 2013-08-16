@@ -1,33 +1,38 @@
 {
-    "community_area": "53", 
-    "_id": {
-        "$oid": "520ba2f7733824919a2991f4"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "0524", 
+    "y_coordinate": "1827170", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "560", 
+    "case_number": "HW405910", 
+    "id": "9260823", 
+    "primary_type": "ASSAULT", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6467221784312, 
-            41.68044910549145
+            -87.64674344041921, 
+            41.68120392551278
         ]
     }, 
-    "case_number": "HW405910", 
+    "community_area": "53", 
+    "latitude": "41.68120392551278", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0524", 
     "date": {
         "$date": 1375315260000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "34", 
+    "_id": {
+        "$oid": "520ba2f7733824919a2991f4"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.64674344041921", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1171803", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9260823", 
-    "block": "117XX S MORGAN ST", 
-    "description": "SIMPLE"
+    "block": "117XX S MORGAN ST"
 }
