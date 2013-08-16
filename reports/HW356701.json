@@ -1,33 +1,38 @@
 {
-    "community_area": "19", 
-    "_id": {
-        "$oid": "520cf44f733824919a299273"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "2512", 
+    "y_coordinate": "1917906", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2024", 
+    "case_number": "HW356701", 
+    "id": "9260956", 
+    "primary_type": "NARCOTICS", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.78230904217541, 
-            41.931158994057256
+            -87.78229990698249, 
+            41.93093941201108
         ]
     }, 
-    "case_number": "HW356701", 
+    "community_area": "19", 
+    "latitude": "41.93093941201108", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "2512", 
     "date": {
         "$date": 1373473680000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "29", 
+    "_id": {
+        "$oid": "520cf44f733824919a299273"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.78229990698249", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1134190", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9260956", 
-    "block": "062XX W DIVERSEY AVE", 
-    "description": "POSS: HEROIN(WHITE)"
+    "block": "062XX W DIVERSEY AVE"
 }
