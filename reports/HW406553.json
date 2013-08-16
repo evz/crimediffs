@@ -1,33 +1,38 @@
 {
-    "community_area": "44", 
-    "_id": {
-        "$oid": "520ba2cc733824919a298bc5"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0634", 
+    "y_coordinate": "1846894", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW406553", 
+    "id": "9261432", 
+    "primary_type": "THEFT", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62558685670315, 
-            41.73606085420869
+            -87.62555962062574, 
+            41.73520446145581
         ]
     }, 
-    "case_number": "HW406553", 
+    "community_area": "44", 
+    "latitude": "41.73520446145581", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0634", 
     "date": {
         "$date": 1375659000000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "21", 
+    "_id": {
+        "$oid": "520ba2cc733824919a298bc5"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.62555962062574", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1177428", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9261432", 
-    "block": "087XX S LAFAYETTE AVE", 
-    "description": "OVER $500"
+    "block": "087XX S LAFAYETTE AVE"
 }
