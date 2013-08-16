@@ -1,33 +1,38 @@
 {
-    "community_area": "28", 
-    "_id": {
-        "$oid": "520ba2b0733824919a298641"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1232", 
+    "y_coordinate": "1892987", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW405974", 
+    "id": "9260871", 
+    "primary_type": "THEFT", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64511957016738, 
-            41.8635086955198
+            -87.64507165166073, 
+            41.86181520478118
         ]
     }, 
-    "case_number": "HW405974", 
+    "community_area": "28", 
+    "latitude": "41.86181520478118", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1232", 
     "date": {
         "$date": 1375819200000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "25", 
+    "_id": {
+        "$oid": "520ba2b0733824919a298641"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.64507165166073", 
+    "location_description": "STREET", 
+    "x_coordinate": "1171733", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9260871", 
-    "block": "014XX S UNION AVE", 
-    "description": "$500 AND UNDER"
+    "block": "014XX S UNION AVE"
 }
