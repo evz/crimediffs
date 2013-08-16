@@ -1,33 +1,38 @@
 {
-    "community_area": "63", 
-    "_id": {
-        "$oid": "520cf44b733824919a299268"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0923", 
+    "y_coordinate": "1869640", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1150", 
+    "case_number": "HW406515", 
+    "id": "9261405", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69134325976401, 
-            41.798476482151706
+            -87.69162292820515, 
+            41.7980142605003
         ]
     }, 
-    "case_number": "HW406515", 
+    "community_area": "63", 
+    "latitude": "41.7980142605003", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "0923", 
     "date": {
         "$date": 1373657400000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "14", 
+    "_id": {
+        "$oid": "520cf44b733824919a299268"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.69162292820515", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1159226", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9261405", 
-    "block": "052XX S WASHTENAW AVE", 
-    "description": "CREDIT CARD FRAUD"
+    "block": "052XX S WASHTENAW AVE"
 }
