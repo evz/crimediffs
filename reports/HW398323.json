@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "520e45aa733824919a299292"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0512", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62593899055304, 
+            41.7032931164805
+        ]
+    }, 
+    "case_number": "HW398323", 
+    "date": {
+        "$date": 1375923600000
+    }, 
+    "updated_on": {
+        "$date": 1376181721000
+    }, 
+    "ward": "34", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9253903", 
+    "block": "105XX S PERRY AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
