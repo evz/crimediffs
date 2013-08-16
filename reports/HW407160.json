@@ -1,0 +1,33 @@
+{
+    "community_area": "31", 
+    "_id": {
+        "$oid": "520e45b2733824919a299336"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "1034", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1305", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6853830475677, 
+            41.848029293186954
+        ]
+    }, 
+    "case_number": "HW407160", 
+    "date": {
+        "$date": 1375840800000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "25", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9262277", 
+    "block": "024XX S WESTERN AVE", 
+    "description": "CRIMINAL DEFACEMENT"
+}
