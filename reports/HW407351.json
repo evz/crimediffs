@@ -1,0 +1,33 @@
+{
+    "community_area": "24", 
+    "_id": {
+        "$oid": "520e45c3733824919a299362"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1434", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "RESTAURANT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68064814775902, 
+            41.91228644850437
+        ]
+    }, 
+    "case_number": "HW407351", 
+    "date": {
+        "$date": 1374798600000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "32", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9262455", 
+    "block": "017XX N MILWAUKEE AVE", 
+    "description": "$500 AND UNDER"
+}
