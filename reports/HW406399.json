@@ -1,33 +1,38 @@
 {
-    "community_area": "3", 
-    "_id": {
-        "$oid": "520ba2fd733824919a299208"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "1912", 
+    "y_coordinate": "1931203", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "2826", 
+    "case_number": "HW406399", 
+    "id": "9261365", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66797654236885, 
-            41.966401038290805
+            -87.6676927049091, 
+            41.96682200041301
         ]
     }, 
-    "case_number": "HW406399", 
+    "community_area": "3", 
+    "latitude": "41.96682200041301", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "1912", 
     "date": {
         "$date": 1375131600000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "47", 
+    "_id": {
+        "$oid": "520ba2fd733824919a299208"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.6676927049091", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1165274", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9261365", 
-    "block": "046XX N GREENVIEW AVE", 
-    "description": "HARASSMENT BY ELECTRONIC MEANS"
+    "block": "046XX N GREENVIEW AVE"
 }
