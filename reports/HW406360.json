@@ -1,33 +1,38 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "520ba2fa733824919a299201"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "0513", 
+    "y_coordinate": "1833629", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "560", 
+    "case_number": "HW406360", 
+    "id": "9261203", 
+    "primary_type": "ASSAULT", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61124485250637, 
-            41.698904109410705
+            -87.61094309774612, 
+            41.6987101100408
         ]
     }, 
-    "case_number": "HW406360", 
+    "community_area": "49", 
+    "latitude": "41.6987101100408", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0513", 
     "date": {
         "$date": 1375257600000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "9", 
+    "_id": {
+        "$oid": "520ba2fa733824919a299201"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.61094309774612", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1181529", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9261203", 
-    "block": "107XX S EBERHART AVE", 
-    "description": "SIMPLE"
+    "block": "107XX S EBERHART AVE"
 }
