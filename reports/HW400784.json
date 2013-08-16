@@ -1,15 +1,12 @@
 {
-    "community_area": "1", 
-    "_id": {
-        "$oid": "5208ffd5733824919a298472"
-    }, 
-    "primary_type": "SEX OFFENSE", 
-    "beat": "2423", 
+    "y_coordinate": "1947850", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1565", 
+    "case_number": "HW400784", 
+    "id": "9255823", 
+    "primary_type": "SEX OFFENSE", 
+    "district": "024", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             42.01253985976848
         ]
     }, 
-    "case_number": "HW400784", 
+    "community_area": "1", 
+    "latitude": "42.01253985976848", 
+    "type": null, 
+    "description": "INDECENT SOLICITATION/CHILD", 
+    "beat": "2423", 
     "date": {
         "$date": 1373328000000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "49", 
+    "_id": {
+        "$oid": "5208ffd5733824919a298472"
+    }, 
+    "iucr": "1565", 
+    "longitude": "-87.67380288783374", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1163484", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "17", 
-    "type": null, 
-    "id": "9255823", 
-    "block": "017XX W TOUHY AVE", 
-    "description": "INDECENT SOLICITATION/CHILD"
+    "block": "017XX W TOUHY AVE"
 }
