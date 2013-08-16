@@ -1,33 +1,38 @@
 {
-    "community_area": "56", 
-    "_id": {
-        "$oid": "5208ffd4733824919a298470"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "0813", 
+    "y_coordinate": "1866346", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1812", 
+    "case_number": "HW374138", 
+    "id": "9255374", 
+    "primary_type": "NARCOTICS", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "AIRPORT/AIRCRAFT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.7417176, 
-            41.7881161
+            -87.74163897884421, 
+            41.789243073784405
         ]
     }, 
-    "case_number": "HW374138", 
+    "community_area": "56", 
+    "latitude": "41.789243073784405", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS MORE THAN 30GMS", 
+    "beat": "0813", 
     "date": {
         "$date": 1373362200000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "23", 
+    "_id": {
+        "$oid": "5208ffd4733824919a298470"
+    }, 
+    "iucr": "1812", 
+    "longitude": "-87.74163897884421", 
+    "location_description": "AIRPORT/AIRCRAFT", 
+    "x_coordinate": "1145610", 
+    "updated_on": {
+        "$date": 1376181721000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9255374", 
-    "block": "057XX S CICERO AVE", 
-    "description": "POSS: CANNABIS MORE THAN 30GMS"
+    "block": "057XX S CICERO AVE"
 }
