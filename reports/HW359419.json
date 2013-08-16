@@ -1,0 +1,33 @@
+{
+    "community_area": "29", 
+    "_id": {
+        "$oid": "520e45de733824919a29936f"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "1011", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2014", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72449262721499, 
+            41.866292265619265
+        ]
+    }, 
+    "case_number": "HW359419", 
+    "date": {
+        "$date": 1373642880000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "24", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9261019", 
+    "block": "039XX W ROOSEVELT RD", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)"
+}
