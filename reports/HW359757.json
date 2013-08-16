@@ -1,33 +1,38 @@
 {
-    "community_area": "29", 
-    "_id": {
-        "$oid": "520cf44b733824919a299269"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1011", 
+    "y_coordinate": "1893986", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2017", 
+    "case_number": "HW359757", 
+    "id": "9260996", 
+    "primary_type": "NARCOTICS", 
+    "district": "010", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.73749842410538, 
-            41.86449163849389
+            -87.7375150489375, 
+            41.86507350715731
         ]
     }, 
-    "case_number": "HW359757", 
+    "community_area": "29", 
+    "latitude": "41.86507350715731", 
+    "type": "quality", 
+    "description": "MANU/DELIVER:CRACK", 
+    "beat": "1011", 
     "date": {
         "$date": 1373654400000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "24", 
+    "_id": {
+        "$oid": "520cf44b733824919a299269"
+    }, 
+    "iucr": "2017", 
+    "longitude": "-87.7375150489375", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1146543", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9260996", 
-    "block": "012XX S KILBOURN AVE", 
-    "description": "MANU/DELIVER:CRACK"
+    "block": "012XX S KILBOURN AVE"
 }
