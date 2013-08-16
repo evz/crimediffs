@@ -1,0 +1,33 @@
+{
+    "community_area": "42", 
+    "_id": {
+        "$oid": "520e45b8733824919a29934d"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0321", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "GAS STATION", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60590941552157, 
+            41.772955835958406
+        ]
+    }, 
+    "case_number": "HW407043", 
+    "date": {
+        "$date": 1375369200000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "20", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9262582", 
+    "block": "067XX S COTTAGE GROVE AVE", 
+    "description": "$500 AND UNDER"
+}
