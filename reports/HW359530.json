@@ -1,33 +1,38 @@
 {
-    "community_area": "23", 
-    "_id": {
-        "$oid": "520cf44b733824919a29926c"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1121", 
+    "y_coordinate": "1903683", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2014", 
+    "case_number": "HW359530", 
+    "id": "9261029", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.71359323799172, 
-            41.89092122925412
+            -87.71361279194869, 
+            41.89155799910517
         ]
     }, 
-    "case_number": "HW359530", 
+    "community_area": "23", 
+    "latitude": "41.89155799910517", 
+    "type": "quality", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)", 
+    "beat": "1121", 
     "date": {
         "$date": 1373645400000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "27", 
+    "_id": {
+        "$oid": "520cf44b733824919a29926c"
+    }, 
+    "iucr": "2014", 
+    "longitude": "-87.71361279194869", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1152984", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9261029", 
-    "block": "005XX N ST LOUIS AVE", 
-    "description": "MANU/DELIVER: HEROIN (WHITE)"
+    "block": "005XX N ST LOUIS AVE"
 }
