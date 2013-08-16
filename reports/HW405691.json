@@ -1,33 +1,38 @@
 {
-    "community_area": "68", 
-    "_id": {
-        "$oid": "520ba2b4733824919a2986ed"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0712", 
+    "y_coordinate": "1864040", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW405691", 
+    "id": "9260446", 
+    "primary_type": "THEFT", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65352611019263, 
-            41.78307751936694
+            -87.65350731584515, 
+            41.78242701131061
         ]
     }, 
-    "case_number": "HW405691", 
+    "community_area": "68", 
+    "latitude": "41.78242701131061", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0712", 
     "date": {
         "$date": 1375804800000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "16", 
+    "_id": {
+        "$oid": "520ba2b4733824919a2986ed"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.65350731584515", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1169664", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9260446", 
-    "block": "061XX S MAY ST", 
-    "description": "OVER $500"
+    "block": "061XX S MAY ST"
 }
