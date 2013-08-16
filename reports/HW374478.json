@@ -1,33 +1,38 @@
 {
-    "community_area": "76", 
-    "_id": {
-        "$oid": "520ba30b733824919a29922e"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1653", 
+    "y_coordinate": "1934627", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2093", 
+    "case_number": "HW374478", 
+    "id": "9260548", 
+    "primary_type": "NARCOTICS", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "AIRPORT TERMINAL UPPER LEVEL - SECURE AREA", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6297982, 
-            41.8781136
+            -87.89933597591919, 
+            41.97732755968975
         ]
     }, 
-    "case_number": "HW374478", 
+    "community_area": "76", 
+    "latitude": "41.97732755968975", 
+    "type": "quality", 
+    "description": "FOUND SUSPECT NARCOTICS", 
+    "beat": "1653", 
     "date": {
         "$date": 1374519600000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "41", 
+    "_id": {
+        "$oid": "520ba30b733824919a29922e"
+    }, 
+    "iucr": "2093", 
+    "longitude": "-87.89933597591919", 
+    "location_description": "AIRPORT TERMINAL UPPER LEVEL - SECURE AREA", 
+    "x_coordinate": "1102258", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "26", 
-    "type": "quality", 
-    "id": "9260548", 
-    "block": "0000X W CHECKPOINT 9 ST", 
-    "description": "FOUND SUSPECT NARCOTICS"
+    "block": "0000X W CHECKPOINT 9 ST"
 }
