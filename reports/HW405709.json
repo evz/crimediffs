@@ -1,33 +1,38 @@
 {
-    "community_area": "24", 
-    "_id": {
-        "$oid": "520ba2f2733824919a2991de"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1434", 
+    "y_coordinate": "1910758", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW405709", 
+    "id": "9260768", 
+    "primary_type": "THEFT", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.68831781520782, 
-            41.91134186401386
+            -87.6885984495285, 
+            41.91083575716227
         ]
     }, 
-    "case_number": "HW405709", 
+    "community_area": "24", 
+    "latitude": "41.91083575716227", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1434", 
     "date": {
         "$date": 1375434000000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "1", 
+    "_id": {
+        "$oid": "520ba2f2733824919a2991de"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.6885984495285", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1159742", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9260768", 
-    "block": "016XX N ARTESIAN AVE", 
-    "description": "$500 AND UNDER"
+    "block": "016XX N ARTESIAN AVE"
 }
