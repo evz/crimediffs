@@ -1,33 +1,38 @@
 {
-    "community_area": "16", 
-    "_id": {
-        "$oid": "520ba2d0733824919a298c5e"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1723", 
+    "y_coordinate": "1927537", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW406531", 
+    "id": "9261456", 
+    "primary_type": "THEFT", 
+    "district": "017", 
     "arrest": false, 
-    "location_description": "RESIDENCE-GARAGE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72660646652088, 
-            41.9559959987956
+            -87.72634611697866, 
+            41.957086819232124
         ]
     }, 
-    "case_number": "HW406531", 
+    "community_area": "16", 
+    "latitude": "41.957086819232124", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1723", 
     "date": {
         "$date": 1375642800000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "39", 
+    "_id": {
+        "$oid": "520ba2d0733824919a298c5e"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.72634611697866", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1149348", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9261456", 
-    "block": "041XX N HARDING AVE", 
-    "description": "FROM BUILDING"
+    "block": "041XX N HARDING AVE"
 }
