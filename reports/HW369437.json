@@ -6,7 +6,7 @@
     "id": "9223215", 
     "primary_type": "OTHER OFFENSE", 
     "district": "025", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "STREET", 
     "x_coordinate": "1140542", 
     "updated_on": {
-        "$date": 1374367458000
+        "$date": 1376527473000
     }, 
     "fbi_code": "26", 
     "block": "053XX W POTOMAC AVE"
