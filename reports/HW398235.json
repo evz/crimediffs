@@ -1,0 +1,33 @@
+{
+    "community_area": "13", 
+    "_id": {
+        "$oid": "520e45a9733824919a299288"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "1712", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "031A", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71386651031965, 
+            41.98267299532913
+        ]
+    }, 
+    "case_number": "HW398235", 
+    "date": {
+        "$date": 1375927200000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "40", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9254437", 
+    "block": "055XX N KIMBALL AVE", 
+    "description": "ARMED: HANDGUN"
+}
