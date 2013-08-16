@@ -1,33 +1,38 @@
 {
-    "community_area": "57", 
-    "_id": {
-        "$oid": "520ba313733824919a299241"
-    }, 
-    "primary_type": "LIQUOR LAW VIOLATION", 
-    "beat": "0815", 
+    "y_coordinate": "1870307", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2210", 
+    "case_number": "HW368589", 
+    "id": "9260377", 
+    "primary_type": "LIQUOR LAW VIOLATION", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "TAVERN/LIQUOR STORE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72915348094256, 
-            41.80092364652117
+            -87.73325445745414, 
+            41.80006971464725
         ]
     }, 
-    "case_number": "HW368589", 
+    "community_area": "57", 
+    "latitude": "41.80006971464725", 
+    "type": null, 
+    "description": "SELL/GIVE/DEL LIQUOR TO MINOR", 
+    "beat": "0815", 
     "date": {
         "$date": 1374171060000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "23", 
+    "_id": {
+        "$oid": "520ba313733824919a299241"
+    }, 
+    "iucr": "2210", 
+    "longitude": "-87.73325445745414", 
+    "location_description": "TAVERN/LIQUOR STORE", 
+    "x_coordinate": "1147869", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "22", 
-    "type": null, 
-    "id": "9260377", 
-    "block": "051XX S ARCHER AVE", 
-    "description": "SELL/GIVE/DEL LIQUOR TO MINOR"
+    "block": "051XX S ARCHER AVE"
 }
