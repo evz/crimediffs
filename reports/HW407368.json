@@ -1,0 +1,33 @@
+{
+    "community_area": "22", 
+    "_id": {
+        "$oid": "520e45b1733824919a29931f"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "1413", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71041938675341, 
+            41.91819548690063
+        ]
+    }, 
+    "case_number": "HW407368", 
+    "date": {
+        "$date": 1375873200000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "35", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9263075", 
+    "block": "020XX N SPAULDING AVE", 
+    "description": "SIMPLE"
+}
