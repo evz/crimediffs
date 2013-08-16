@@ -1,0 +1,33 @@
+{
+    "community_area": "42", 
+    "_id": {
+        "$oid": "520e45ac733824919a2992b2"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0314", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58869037866114, 
+            41.78277984318849
+        ]
+    }, 
+    "case_number": "HW398128", 
+    "date": {
+        "$date": 1375915200000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "5", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9253709", 
+    "block": "015XX E 62ND ST", 
+    "description": "TO PROPERTY"
+}
