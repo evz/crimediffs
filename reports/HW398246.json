@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "520e45a8733824919a299284"
+    }, 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "beat": "0512", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "281", 
+    "arrest": false, 
+    "location_description": "HOTEL/MOTEL", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62364676272652, 
+            41.70727197629548
+        ]
+    }, 
+    "case_number": "HW398246", 
+    "date": {
+        "$date": 1375929000000
+    }, 
+    "updated_on": {
+        "$date": 1376181721000
+    }, 
+    "ward": "34", 
+    "fbi_code": "02", 
+    "type": "violent", 
+    "id": "9254589", 
+    "block": "0000X W 103RD ST", 
+    "description": "NON-AGGRAVATED"
+}
