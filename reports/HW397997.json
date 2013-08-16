@@ -1,0 +1,33 @@
+{
+    "community_area": "55", 
+    "_id": {
+        "$oid": "520e45ad733824919a2992cf"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "0433", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.52756143037097, 
+            41.65147187618415
+        ]
+    }, 
+    "case_number": "HW397997", 
+    "date": {
+        "$date": 1375907580000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "10", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9254313", 
+    "block": "040XX E 134TH ST", 
+    "description": "SIMPLE"
+}
