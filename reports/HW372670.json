@@ -1,33 +1,38 @@
 {
-    "community_area": "76", 
-    "_id": {
-        "$oid": "520ba30d733824919a299232"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1651", 
+    "y_coordinate": "1935189", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2029", 
+    "case_number": "HW372670", 
+    "id": "9260395", 
+    "primary_type": "NARCOTICS", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.90098446311458, 
-            41.97665321544024
+            -87.90646388837229, 
+            41.97889653100515
         ]
     }, 
-    "case_number": "HW372670", 
+    "community_area": "76", 
+    "latitude": "41.97889653100515", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(BLACK TAR)", 
+    "beat": "1651", 
     "date": {
         "$date": 1374422700000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "41", 
+    "_id": {
+        "$oid": "520ba30d733824919a299232"
+    }, 
+    "iucr": "2029", 
+    "longitude": "-87.90646388837229", 
+    "location_description": "AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA", 
+    "x_coordinate": "1100317", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9260395", 
-    "block": "0000X W TERMINAL ST", 
-    "description": "POSS: HEROIN(BLACK TAR)"
+    "block": "0000X W TERMINAL ST"
 }
