@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "520e45ad733824919a2992d2"
+    }, 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "beat": "1513", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "281", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7663877507068, 
+            41.88104029223678
+        ]
+    }, 
+    "case_number": "HW407720", 
+    "date": {
+        "$date": 1375905600000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "29", 
+    "fbi_code": "02", 
+    "type": "violent", 
+    "id": "9262960", 
+    "block": "0000X N PARKSIDE AVE", 
+    "description": "NON-AGGRAVATED"
+}
