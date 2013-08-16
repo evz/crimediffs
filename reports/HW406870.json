@@ -1,0 +1,33 @@
+{
+    "community_area": "66", 
+    "_id": {
+        "$oid": "520e45c9733824919a299364"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0831", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "HOSPITAL BUILDING/GROUNDS", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69096450447798, 
+            41.76992549367984
+        ]
+    }, 
+    "case_number": "HW406870", 
+    "date": {
+        "$date": 1374564600000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "15", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9261605", 
+    "block": "027XX W 68TH ST", 
+    "description": "FROM BUILDING"
+}
