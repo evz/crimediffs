@@ -1,0 +1,33 @@
+{
+    "community_area": "15", 
+    "_id": {
+        "$oid": "520e45c2733824919a29935f"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "1633", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "MEDICAL/DENTAL OFFICE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76637556726295, 
+            41.93846613297345
+        ]
+    }, 
+    "case_number": "HW407286", 
+    "date": {
+        "$date": 1374850800000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "38", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9262335", 
+    "block": "055XX W BELMONT AVE", 
+    "description": "SIMPLE"
+}
