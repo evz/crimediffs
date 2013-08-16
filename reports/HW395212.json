@@ -1,33 +1,38 @@
 {
-    "community_area": "6", 
-    "_id": {
-        "$oid": "520ba2bd733824919a2988ac"
-    }, 
-    "primary_type": "WEAPONS VIOLATION", 
-    "beat": "1924", 
+    "y_coordinate": "1923176", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "143A", 
+    "case_number": "HW395212", 
+    "id": "9260316", 
+    "primary_type": "WEAPONS VIOLATION", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65437395455909, 
-            41.94365423035648
+            -87.65439944297529, 
+            41.944716391976755
         ]
     }, 
-    "case_number": "HW395212", 
+    "community_area": "6", 
+    "latitude": "41.944716391976755", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
+    "beat": "1924", 
     "date": {
         "$date": 1375750550000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "44", 
+    "_id": {
+        "$oid": "520ba2bd733824919a2988ac"
+    }, 
+    "iucr": "143A", 
+    "longitude": "-87.65439944297529", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1168953", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
     "fbi_code": "15", 
-    "type": null, 
-    "id": "9260316", 
-    "block": "034XX N SHEFFIELD AVE", 
-    "description": "UNLAWFUL POSS OF HANDGUN"
+    "block": "034XX N SHEFFIELD AVE"
 }
