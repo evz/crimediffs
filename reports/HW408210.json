@@ -1,33 +1,38 @@
 {
-    "community_area": "46", 
-    "_id": {
-        "$oid": "520e45e5733824919a299372"
-    }, 
-    "primary_type": "OFFENSE INVOLVING CHILDREN", 
-    "beat": "0424", 
+    "y_coordinate": "1845171", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1750", 
+    "case_number": "HW408210", 
+    "id": "9263270", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.55048655568304, 
-            41.730194883481865
+            -87.54965750503614, 
+            41.72998340900425
         ]
     }, 
-    "case_number": "HW408210", 
+    "community_area": "46", 
+    "latitude": "41.72998340900425", 
+    "type": null, 
+    "description": "CHILD ABUSE", 
+    "beat": "0424", 
     "date": {
         "$date": 1373328000000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "10", 
+    "_id": {
+        "$oid": "520e45e5733824919a299372"
+    }, 
+    "iucr": "1750", 
+    "longitude": "-87.54965750503614", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1198162", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "20", 
-    "type": null, 
-    "id": "9263270", 
-    "block": "030XX E 91ST ST", 
-    "description": "CHILD ABUSE"
+    "block": "030XX E 91ST ST"
 }
