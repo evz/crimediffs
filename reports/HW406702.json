@@ -1,33 +1,38 @@
 {
-    "community_area": "71", 
-    "_id": {
-        "$oid": "520e45be733824919a29935b"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0614", 
+    "y_coordinate": "1848001", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "840", 
+    "case_number": "HW406702", 
+    "id": "9261571", 
+    "primary_type": "THEFT", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65965055586238, 
-            41.73914989383221
+            -87.65963225155113, 
+            41.73844724273074
         ]
     }, 
-    "case_number": "HW406702", 
+    "community_area": "71", 
+    "latitude": "41.73844724273074", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "0614", 
     "date": {
         "$date": 1375088400000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "21", 
+    "_id": {
+        "$oid": "520e45be733824919a29935b"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.65963225155113", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1168119", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9261571", 
-    "block": "085XX S BISHOP ST", 
-    "description": "FINANCIAL ID THEFT: OVER $300"
+    "block": "085XX S BISHOP ST"
 }
