@@ -1,33 +1,38 @@
 {
-    "community_area": "24", 
-    "_id": {
-        "$oid": "520e45b4733824919a29933d"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1213", 
+    "y_coordinate": "1907958", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW408234", 
+    "id": "9263255", 
+    "primary_type": "BATTERY", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66377419999999, 
-            41.9016364
+            -87.66573298838242, 
+            41.90302124404583
         ]
     }, 
-    "case_number": "HW408234", 
+    "community_area": "24", 
+    "latitude": "41.90302124404583", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1213", 
     "date": {
         "$date": 1375704000000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "27", 
+    "_id": {
+        "$oid": "520e45b4733824919a29933d"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.66573298838242", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1165988", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9263255", 
-    "block": "011XX N MILWAUKEE AVE", 
-    "description": "SIMPLE"
+    "block": "011XX N MILWAUKEE AVE"
 }
