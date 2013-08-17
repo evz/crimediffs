@@ -1,0 +1,33 @@
+{
+    "community_area": "71", 
+    "_id": {
+        "$oid": "520f972d733824919a2993be"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0614", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66406172010379, 
+            41.74659354232817
+        ]
+    }, 
+    "case_number": "HW399455", 
+    "date": {
+        "$date": 1376000100000
+    }, 
+    "updated_on": {
+        "$date": 1376268035000
+    }, 
+    "ward": "18", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9256252", 
+    "block": "016XX W 81ST ST", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
