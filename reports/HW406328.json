@@ -1,0 +1,33 @@
+{
+    "community_area": "19", 
+    "_id": {
+        "$oid": "520f972d733824919a2993c8"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "2514", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.76053259025446, 
+            41.936713759859636
+        ]
+    }, 
+    "case_number": "HW406328", 
+    "date": {
+        "$date": 1375998000000
+    }, 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
+    "ward": "30", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9261956", 
+    "block": "053XX W BARRY AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
