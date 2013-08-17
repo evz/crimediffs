@@ -6,7 +6,7 @@
     "id": "9238646", 
     "primary_type": "ROBBERY", 
     "district": "017", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "ALLEY", 
     "x_coordinate": "1152980", 
     "updated_on": {
-        "$date": 1376527473000
+        "$date": 1376613678000
     }, 
     "fbi_code": "03", 
     "block": "034XX W IRVING PARK RD"
