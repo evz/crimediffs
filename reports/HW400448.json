@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "520f972d733824919a2993bb"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0331", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57175668645276, 
+            41.773316302703364
+        ]
+    }, 
+    "case_number": "HW400448", 
+    "date": {
+        "$date": 1376001000000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "5", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9255929", 
+    "block": "067XX S PAXTON AVE", 
+    "description": "TO VEHICLE"
+}
