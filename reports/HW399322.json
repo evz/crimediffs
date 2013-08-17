@@ -1,0 +1,33 @@
+{
+    "community_area": "26", 
+    "_id": {
+        "$oid": "520f972f733824919a2993e9"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "1122", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "GAS STATION", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72516109260148, 
+            41.88175417667612
+        ]
+    }, 
+    "case_number": "HW399322", 
+    "date": {
+        "$date": 1375986600000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "28", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9255718", 
+    "block": "039XX W WASHINGTON BLVD", 
+    "description": "AUTOMOBILE"
+}
