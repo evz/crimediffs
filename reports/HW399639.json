@@ -1,0 +1,33 @@
+{
+    "community_area": "24", 
+    "_id": {
+        "$oid": "520f972a733824919a299394"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1212", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "620", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67729832620158, 
+            41.89928987750234
+        ]
+    }, 
+    "case_number": "HW399639", 
+    "date": {
+        "$date": 1376011800000
+    }, 
+    "updated_on": {
+        "$date": 1376268035000
+    }, 
+    "ward": "32", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9256127", 
+    "block": "009XX N DAMEN AVE", 
+    "description": "UNLAWFUL ENTRY"
+}
