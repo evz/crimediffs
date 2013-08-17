@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "520f9737733824919a29945a"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0632", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62097790149708, 
+            41.741348099382435
+        ]
+    }, 
+    "case_number": "HW409135", 
+    "date": {
+        "$date": 1375610400000
+    }, 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
+    "ward": "6", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9264525", 
+    "block": "084XX S MICHIGAN AVE", 
+    "description": "$500 AND UNDER"
+}
