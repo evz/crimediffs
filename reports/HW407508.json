@@ -1,33 +1,38 @@
 {
-    "community_area": "29", 
-    "_id": {
-        "$oid": "520e45d0733824919a299367"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "1022", 
+    "y_coordinate": "1890177", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "5002", 
+    "case_number": "HW407508", 
+    "id": "9262666", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "010", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.7042763218317, 
-            41.85489618485493
+            -87.70425873606264, 
+            41.85444328570518
         ]
     }, 
-    "case_number": "HW407508", 
+    "community_area": "29", 
+    "latitude": "41.85444328570518", 
+    "type": null, 
+    "description": "OTHER VEHICLE OFFENSE", 
+    "beat": "1022", 
     "date": {
         "$date": 1374217200000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "24", 
+    "_id": {
+        "$oid": "520e45d0733824919a299367"
+    }, 
+    "iucr": "5002", 
+    "longitude": "-87.70425873606264", 
+    "location_description": "STREET", 
+    "x_coordinate": "1155630", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9262666", 
-    "block": "019XX S TROY ST", 
-    "description": "OTHER VEHICLE OFFENSE"
+    "block": "019XX S TROY ST"
 }
