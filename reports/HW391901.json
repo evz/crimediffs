@@ -1,33 +1,38 @@
 {
-    "community_area": "19", 
-    "_id": {
-        "$oid": "520e45b7733824919a299347"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "2521", 
+    "y_coordinate": "1919860", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2014", 
+    "case_number": "HW391901", 
+    "id": "9262083", 
+    "primary_type": "NARCOTICS", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.7497504805232, 
-            41.9361627595487
+            -87.7511692849297, 
+            41.936148008329994
         ]
     }, 
-    "case_number": "HW391901", 
+    "community_area": "19", 
+    "latitude": "41.936148008329994", 
+    "type": "quality", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)", 
+    "beat": "2521", 
     "date": {
         "$date": 1375453800000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "31", 
+    "_id": {
+        "$oid": "520e45b7733824919a299347"
+    }, 
+    "iucr": "2014", 
+    "longitude": "-87.7511692849297", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1142648", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9262083", 
-    "block": "049XX W NELSON ST", 
-    "description": "MANU/DELIVER: HEROIN (WHITE)"
+    "block": "049XX W NELSON ST"
 }
