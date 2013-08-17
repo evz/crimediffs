@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "520e45b9733824919a299354"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1522", 
+    "y_coordinate": "1899180", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1811", 
+    "case_number": "HW387879", 
+    "id": "9262114", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.75915329772107, 
-            41.879434638179106
+            -87.75908717904116, 
+            41.87943705183433
         ]
     }, 
-    "case_number": "HW387879", 
+    "community_area": "25", 
+    "latitude": "41.87943705183433", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS 30GMS OR LESS", 
+    "beat": "1522", 
     "date": {
         "$date": 1375311003000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "29", 
+    "_id": {
+        "$oid": "520e45b9733824919a299354"
+    }, 
+    "iucr": "1811", 
+    "longitude": "-87.75908717904116", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1140632", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9262114", 
-    "block": "053XX W MONROE ST", 
-    "description": "POSS: CANNABIS 30GMS OR LESS"
+    "block": "053XX W MONROE ST"
 }
