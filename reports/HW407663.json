@@ -1,33 +1,38 @@
 {
-    "community_area": "15", 
-    "_id": {
-        "$oid": "520e45c0733824919a29935d"
-    }, 
-    "primary_type": "CRIM SEXUAL ASSAULT", 
-    "beat": "1623", 
+    "y_coordinate": "1929026", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "281", 
+    "case_number": "HW407663", 
+    "id": "9262889", 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.76148852697104, 
-            41.96135336953954
+            -87.76162088442736, 
+            41.961354028722496
         ]
     }, 
-    "case_number": "HW407663", 
+    "community_area": "15", 
+    "latitude": "41.961354028722496", 
+    "type": "violent", 
+    "description": "NON-AGGRAVATED", 
+    "beat": "1623", 
     "date": {
         "$date": 1374973200000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "45", 
+    "_id": {
+        "$oid": "520e45c0733824919a29935d"
+    }, 
+    "iucr": "281", 
+    "longitude": "-87.76162088442736", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1139743", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "02", 
-    "type": "violent", 
-    "id": "9262889", 
-    "block": "053XX W AGATITE AVE", 
-    "description": "NON-AGGRAVATED"
+    "block": "053XX W AGATITE AVE"
 }
