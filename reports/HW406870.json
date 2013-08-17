@@ -1,33 +1,38 @@
 {
-    "community_area": "66", 
-    "_id": {
-        "$oid": "520e45c9733824919a299364"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0831", 
+    "y_coordinate": "1859407", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW406870", 
+    "id": "9261605", 
+    "primary_type": "THEFT", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "HOSPITAL BUILDING/GROUNDS", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69096450447798, 
-            41.76992549367984
+            -87.69096447710064, 
+            41.76992823782567
         ]
     }, 
-    "case_number": "HW406870", 
+    "community_area": "66", 
+    "latitude": "41.76992823782567", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0831", 
     "date": {
         "$date": 1374564600000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "15", 
+    "_id": {
+        "$oid": "520e45c9733824919a299364"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.69096447710064", 
+    "location_description": "HOSPITAL BUILDING/GROUNDS", 
+    "x_coordinate": "1159482", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9261605", 
-    "block": "027XX W 68TH ST", 
-    "description": "FROM BUILDING"
+    "block": "027XX W 68TH ST"
 }
