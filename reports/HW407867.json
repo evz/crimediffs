@@ -1,33 +1,38 @@
 {
-    "community_area": "7", 
-    "_id": {
-        "$oid": "520e45b6733824919a299345"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1813", 
+    "y_coordinate": "1911891", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW407867", 
+    "id": "9263041", 
+    "primary_type": "THEFT", 
+    "district": "018", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64335338985988, 
-            41.913028884977514
+            -87.643372072246, 
+            41.913682123521774
         ]
     }, 
-    "case_number": "HW407867", 
+    "community_area": "7", 
+    "latitude": "41.913682123521774", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1813", 
     "date": {
         "$date": 1375477200000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "43", 
+    "_id": {
+        "$oid": "520e45b6733824919a299345"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.643372072246", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1172044", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9263041", 
-    "block": "017XX N LARRABEE ST", 
-    "description": "FROM BUILDING"
+    "block": "017XX N LARRABEE ST"
 }
