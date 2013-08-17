@@ -1,33 +1,38 @@
 {
-    "community_area": "46", 
-    "_id": {
-        "$oid": "520e45a9733824919a299285"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0422", 
+    "y_coordinate": "1851896", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW398399", 
+    "id": "9261830", 
+    "primary_type": "BURGLARY", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.55756060074287, 
-            41.74969723233956
+            -87.55754212604157, 
+            41.7484923600534
         ]
     }, 
-    "case_number": "HW398399", 
+    "community_area": "46", 
+    "latitude": "41.7484923600534", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0422", 
     "date": {
         "$date": 1375928100000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "7", 
+    "_id": {
+        "$oid": "520e45a9733824919a299285"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.55754212604157", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1195949", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9261830", 
-    "block": "080XX S MANISTEE AVE", 
-    "description": "FORCIBLE ENTRY"
+    "block": "080XX S MANISTEE AVE"
 }
