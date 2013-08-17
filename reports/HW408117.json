@@ -1,33 +1,38 @@
 {
-    "community_area": "71", 
-    "_id": {
-        "$oid": "520e45be733824919a29935c"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0614", 
+    "y_coordinate": "1847415", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "840", 
+    "case_number": "HW408117", 
+    "id": "9263174", 
+    "primary_type": "THEFT", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66690170479329, 
-            41.73737818903422
+            -87.6665954252921, 
+            41.73687969157852
         ]
     }, 
-    "case_number": "HW408117", 
+    "community_area": "71", 
+    "latitude": "41.73687969157852", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "0614", 
     "date": {
         "$date": 1375081200000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "18", 
+    "_id": {
+        "$oid": "520e45be733824919a29935c"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.6665954252921", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1166223", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9263174", 
-    "block": "086XX S HERMITAGE AVE", 
-    "description": "FINANCIAL ID THEFT: OVER $300"
+    "block": "086XX S HERMITAGE AVE"
 }
