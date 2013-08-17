@@ -1,33 +1,38 @@
 {
-    "community_area": "7", 
-    "_id": {
-        "$oid": "520e45b5733824919a299341"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "1935", 
+    "y_coordinate": "1917428", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW407662", 
+    "id": "9262828", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65331535477856, 
-            41.92912282042014
+            -87.65184012436626, 
+            41.92892746684149
         ]
     }, 
-    "case_number": "HW407662", 
+    "community_area": "7", 
+    "latitude": "41.92892746684149", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1935", 
     "date": {
         "$date": 1375534800000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "43", 
+    "_id": {
+        "$oid": "520e45b5733824919a299341"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.65184012436626", 
+    "location_description": "STREET", 
+    "x_coordinate": "1169695", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9262828", 
-    "block": "009XX W WRIGHTWOOD AVE", 
-    "description": "AUTOMOBILE"
+    "block": "009XX W WRIGHTWOOD AVE"
 }
