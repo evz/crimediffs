@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "520e45b7733824919a29934a"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "2532", 
+    "y_coordinate": "1907856", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1821", 
+    "case_number": "HW389955", 
+    "id": "9262573", 
+    "primary_type": "NARCOTICS", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.75727593042076, 
-            41.9032480285615
+            -87.75802537365415, 
+            41.90324080876611
         ]
     }, 
-    "case_number": "HW389955", 
+    "community_area": "25", 
+    "latitude": "41.90324080876611", 
+    "type": "quality", 
+    "description": "MANU/DEL:CANNABIS 10GM OR LESS", 
+    "beat": "2532", 
     "date": {
         "$date": 1375445220000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "37", 
+    "_id": {
+        "$oid": "520e45b7733824919a29934a"
+    }, 
+    "iucr": "1821", 
+    "longitude": "-87.75802537365415", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1140863", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9262573", 
-    "block": "052XX W CRYSTAL ST", 
-    "description": "MANU/DEL:CANNABIS 10GM OR LESS"
+    "block": "052XX W CRYSTAL ST"
 }
