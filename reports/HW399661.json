@@ -1,0 +1,33 @@
+{
+    "community_area": "24", 
+    "_id": {
+        "$oid": "520f972a733824919a299398"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "1214", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "RESIDENCE-GARAGE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65059594354157, 
+            41.89016331029758
+        ]
+    }, 
+    "case_number": "HW399661", 
+    "date": {
+        "$date": 1376010000000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "27", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9257937", 
+    "block": "009XX W HUBBARD ST", 
+    "description": "TO VEHICLE"
+}
