@@ -1,0 +1,33 @@
+{
+    "community_area": "29", 
+    "_id": {
+        "$oid": "520f9743733824919a299478"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1133", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "841", 
+    "arrest": false, 
+    "location_description": "SMALL RETAIL STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7142322844969, 
+            41.86619350580319
+        ]
+    }, 
+    "case_number": "HW408984", 
+    "date": {
+        "$date": 1374926400000
+    }, 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
+    "ward": "24", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9264467", 
+    "block": "035XX W ROOSEVELT RD", 
+    "description": "FINANCIAL ID THEFT:$300 &UNDER"
+}
