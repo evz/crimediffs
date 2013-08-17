@@ -1,0 +1,33 @@
+{
+    "community_area": "32", 
+    "_id": {
+        "$oid": "520f972d733824919a2993c9"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "0113", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "320", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62784145464249, 
+            41.87869205804217
+        ]
+    }, 
+    "case_number": "HW399414", 
+    "date": {
+        "$date": 1375997760000
+    }, 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
+    "ward": "42", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9255605", 
+    "block": "002XX S STATE ST", 
+    "description": "STRONGARM - NO WEAPON"
+}
