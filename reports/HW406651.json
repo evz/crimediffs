@@ -1,15 +1,12 @@
 {
-    "community_area": "68", 
-    "_id": {
-        "$oid": "520e45b7733824919a299348"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0733", 
+    "y_coordinate": "1857025", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1150", 
+    "case_number": "HW406651", 
+    "id": "9261569", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.763143936684045
         ]
     }, 
-    "case_number": "HW406651", 
+    "community_area": "68", 
+    "latitude": "41.763143936684045", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "0733", 
     "date": {
         "$date": 1375452000000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "17", 
+    "_id": {
+        "$oid": "520e45b7733824919a299348"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.64814680929616", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1171182", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9261569", 
-    "block": "072XX S SANGAMON ST", 
-    "description": "CREDIT CARD FRAUD"
+    "block": "072XX S SANGAMON ST"
 }
