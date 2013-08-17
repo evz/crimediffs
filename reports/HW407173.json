@@ -1,33 +1,38 @@
 {
-    "community_area": "69", 
-    "_id": {
-        "$oid": "520e45c1733824919a29935e"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0722", 
+    "y_coordinate": "1859755", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1152", 
+    "case_number": "HW407173", 
+    "id": "9262294", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62843593826257, 
-            41.770019905386974
+            -87.62844516288574, 
+            41.77051667932631
         ]
     }, 
-    "case_number": "HW407173", 
+    "community_area": "69", 
+    "latitude": "41.77051667932631", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "0722", 
     "date": {
         "$date": 1374915600000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "6", 
+    "_id": {
+        "$oid": "520e45c1733824919a29935e"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.62844516288574", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1176535", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9262294", 
-    "block": "068XX S PERRY AVE", 
-    "description": "ILLEGAL USE CASH CARD"
+    "block": "068XX S PERRY AVE"
 }
