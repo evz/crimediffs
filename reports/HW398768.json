@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "520f9732733824919a29941a"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "0631", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60272436218878, 
+            41.74478461278589
+        ]
+    }, 
+    "case_number": "HW398768", 
+    "date": {
+        "$date": 1375966800000
+    }, 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
+    "ward": "8", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9261342", 
+    "block": "082XX S DREXEL AVE", 
+    "description": "STRONGARM - NO WEAPON"
+}
