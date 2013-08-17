@@ -1,33 +1,38 @@
 {
-    "community_area": "57", 
-    "_id": {
-        "$oid": "520e45da733824919a29936c"
-    }, 
-    "primary_type": "OFFENSE INVOLVING CHILDREN", 
-    "beat": "0815", 
+    "y_coordinate": "1875517", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "1750", 
+    "case_number": "HW406863", 
+    "id": "9262841", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72888601236475, 
-            41.814942782060825
+            -87.7285688394557, 
+            41.81434285961427
         ]
     }, 
-    "case_number": "HW406863", 
+    "community_area": "57", 
+    "latitude": "41.81434285961427", 
+    "type": null, 
+    "description": "CHILD ABUSE", 
+    "beat": "0815", 
     "date": {
         "$date": 1373832000000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "14", 
+    "_id": {
+        "$oid": "520e45da733824919a29936c"
+    }, 
+    "iucr": "1750", 
+    "longitude": "-87.7285688394557", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1149110", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "20", 
-    "type": null, 
-    "id": "9262841", 
-    "block": "043XX S KEELER AVE", 
-    "description": "CHILD ABUSE"
+    "block": "043XX S KEELER AVE"
 }
