@@ -1,0 +1,33 @@
+{
+    "community_area": "24", 
+    "_id": {
+        "$oid": "520f9733733824919a299438"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1212", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67586793072027, 
+            41.902303100640935
+        ]
+    }, 
+    "case_number": "HW399555", 
+    "date": {
+        "$date": 1375956000000
+    }, 
+    "updated_on": {
+        "$date": 1376268035000
+    }, 
+    "ward": "1", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9256075", 
+    "block": "011XX N WINCHESTER AVE", 
+    "description": "FORCIBLE ENTRY"
+}
