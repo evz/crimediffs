@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "520f972f733824919a2993ed"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1533", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74780625244382, 
+            41.87867207284682
+        ]
+    }, 
+    "case_number": "HW399193", 
+    "date": {
+        "$date": 1375984800000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "28", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9258974", 
+    "block": "049XX W ADAMS ST", 
+    "description": "FORCIBLE ENTRY"
+}
