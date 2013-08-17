@@ -1,0 +1,33 @@
+{
+    "community_area": "27", 
+    "_id": {
+        "$oid": "520f972f733824919a2993ec"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1124", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70343491124727, 
+            41.877795117056756
+        ]
+    }, 
+    "case_number": "HW399143", 
+    "date": {
+        "$date": 1375984800000
+    }, 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
+    "ward": "28", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9259641", 
+    "block": "002XX S ALBANY AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
