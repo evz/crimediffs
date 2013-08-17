@@ -1,0 +1,33 @@
+{
+    "community_area": "6", 
+    "_id": {
+        "$oid": "520f9734733824919a29944c"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "1924", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2031", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65391191111655, 
+            41.94735892958729
+        ]
+    }, 
+    "case_number": "HW398203", 
+    "date": {
+        "$date": 1375920712000
+    }, 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
+    "ward": "44", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9263709", 
+    "block": "009XX W ADDISON ST", 
+    "description": "POSS: METHAMPHETAMINES"
+}
