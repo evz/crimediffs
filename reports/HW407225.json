@@ -1,33 +1,38 @@
 {
-    "community_area": "69", 
-    "_id": {
-        "$oid": "520e45c3733824919a299360"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0623", 
+    "y_coordinate": "1855240", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1152", 
+    "case_number": "HW407225", 
+    "id": "9262327", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "SMALL RETAIL STORE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62203435564574, 
-            41.758171738914385
+            -87.62417924537355, 
+            41.75809992460724
         ]
     }, 
-    "case_number": "HW407225", 
+    "community_area": "69", 
+    "latitude": "41.75809992460724", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "0623", 
     "date": {
         "$date": 1374840000000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "6", 
+    "_id": {
+        "$oid": "520e45c3733824919a299360"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.62417924537355", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1177736", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9262327", 
-    "block": "0000X E 75TH ST", 
-    "description": "ILLEGAL USE CASH CARD"
+    "block": "0000X E 75TH ST"
 }
