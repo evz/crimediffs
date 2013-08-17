@@ -1,0 +1,33 @@
+{
+    "community_area": "24", 
+    "_id": {
+        "$oid": "520f972f733824919a2993e6"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1212", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "620", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67978762745786, 
+            41.900840844367636
+        ]
+    }, 
+    "case_number": "HW399249", 
+    "date": {
+        "$date": 1375988400000
+    }, 
+    "updated_on": {
+        "$date": 1376354397000
+    }, 
+    "ward": "32", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9256845", 
+    "block": "010XX N HOYNE AVE", 
+    "description": "UNLAWFUL ENTRY"
+}
