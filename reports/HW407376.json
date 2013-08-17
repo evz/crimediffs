@@ -1,33 +1,38 @@
 {
-    "community_area": "8", 
-    "_id": {
-        "$oid": "520e45be733824919a29935a"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "1824", 
+    "y_coordinate": "1908407", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1195", 
+    "case_number": "HW407376", 
+    "id": "9262984", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "018", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62883202447999, 
-            41.90417289592
+            -87.62882254335474, 
+            41.90403288194302
         ]
     }, 
-    "case_number": "HW407376", 
+    "community_area": "8", 
+    "latitude": "41.90403288194302", 
+    "type": null, 
+    "description": "FINAN EXPLOIT-ELDERLY/DISABLED", 
+    "beat": "1824", 
     "date": {
         "$date": 1375110000000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "42", 
+    "_id": {
+        "$oid": "520e45be733824919a29935a"
+    }, 
+    "iucr": "1195", 
+    "longitude": "-87.62882254335474", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1176033", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9262984", 
-    "block": "012XX N STATE PKWY", 
-    "description": "FINAN EXPLOIT-ELDERLY/DISABLED"
+    "block": "012XX N STATE PKWY"
 }
