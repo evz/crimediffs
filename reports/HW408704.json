@@ -1,0 +1,33 @@
+{
+    "community_area": "23", 
+    "_id": {
+        "$oid": "520f9733733824919a299449"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1123", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.71468682635226, 
+            41.889870592194804
+        ]
+    }, 
+    "case_number": "HW408704", 
+    "date": {
+        "$date": 1375938000000
+    }, 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
+    "ward": "27", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9264070", 
+    "block": "035XX W FRANKLIN BLVD", 
+    "description": "FROM BUILDING"
+}
