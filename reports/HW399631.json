@@ -1,0 +1,33 @@
+{
+    "community_area": "38", 
+    "_id": {
+        "$oid": "520f972b733824919a2993a8"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0223", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "650", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61640639949626, 
+            41.808049865473606
+        ]
+    }, 
+    "case_number": "HW399631", 
+    "date": {
+        "$date": 1376004600000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "3", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9258235", 
+    "block": "047XX S DR MARTIN LUTHER KING JR DR", 
+    "description": "HOME INVASION"
+}
