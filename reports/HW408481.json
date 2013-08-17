@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "520f973c733824919a29946d"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1533", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7500446229683, 
+            41.88086239815837
+        ]
+    }, 
+    "case_number": "HW408481", 
+    "date": {
+        "$date": 1375347600000
+    }, 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
+    "ward": "28", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9263666", 
+    "block": "0000X N LAVERGNE AVE", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
