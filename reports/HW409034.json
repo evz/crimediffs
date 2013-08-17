@@ -1,0 +1,33 @@
+{
+    "community_area": "45", 
+    "_id": {
+        "$oid": "520f9734733824919a29944e"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0411", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "RESIDENCE-GARAGE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59617151608136, 
+            41.74486899591552
+        ]
+    }, 
+    "case_number": "HW409034", 
+    "date": {
+        "$date": 1375898400000
+    }, 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
+    "ward": "8", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9264712", 
+    "block": "011XX E 82ND PL", 
+    "description": "FORCIBLE ENTRY"
+}
