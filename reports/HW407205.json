@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "520e45d7733824919a29936b"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0421", 
+    "y_coordinate": "1854710", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1152", 
+    "case_number": "HW407205", 
+    "id": "9262367", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.55292433567071, 
-            41.75669672452614
+            -87.55274365239725, 
+            41.756182313762864
         ]
     }, 
-    "case_number": "HW407205", 
+    "community_area": "43", 
+    "latitude": "41.756182313762864", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "0421", 
     "date": {
         "$date": 1373965200000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "7", 
+    "_id": {
+        "$oid": "520e45d7733824919a29936b"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.55274365239725", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1197233", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9262367", 
-    "block": "077XX S SOUTH SHORE DR", 
-    "description": "ILLEGAL USE CASH CARD"
+    "block": "077XX S SOUTH SHORE DR"
 }
