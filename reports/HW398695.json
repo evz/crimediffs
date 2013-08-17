@@ -1,0 +1,33 @@
+{
+    "community_area": "21", 
+    "_id": {
+        "$oid": "520f9732733824919a29941d"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "2523", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7242219105549, 
+            41.93923816247654
+        ]
+    }, 
+    "case_number": "HW398695", 
+    "date": {
+        "$date": 1375966800000
+    }, 
+    "updated_on": {
+        "$date": 1376268035000
+    }, 
+    "ward": "31", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9255395", 
+    "block": "039XX W BELMONT AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
