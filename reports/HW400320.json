@@ -1,0 +1,33 @@
+{
+    "community_area": "69", 
+    "_id": {
+        "$oid": "520f9730733824919a2993f4"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0323", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60891992124964, 
+            41.759203984194855
+        ]
+    }, 
+    "case_number": "HW400320", 
+    "date": {
+        "$date": 1375983000000
+    }, 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
+    "ward": "6", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9256829", 
+    "block": "074XX S CHAMPLAIN AVE", 
+    "description": "$500 AND UNDER"
+}
