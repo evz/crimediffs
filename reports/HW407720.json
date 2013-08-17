@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "520e45ad733824919a2992d2"
-    }, 
-    "primary_type": "CRIM SEXUAL ASSAULT", 
-    "beat": "1513", 
+    "y_coordinate": "1899824", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "281", 
+    "case_number": "HW407720", 
+    "id": "9262960", 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.7663877507068, 
-            41.88104029223678
+            -87.76668708418529, 
+            41.88124209987426
         ]
     }, 
-    "case_number": "HW407720", 
+    "community_area": "25", 
+    "latitude": "41.88124209987426", 
+    "type": "violent", 
+    "description": "NON-AGGRAVATED", 
+    "beat": "1513", 
     "date": {
         "$date": 1375905600000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "29", 
+    "_id": {
+        "$oid": "520e45ad733824919a2992d2"
+    }, 
+    "iucr": "281", 
+    "longitude": "-87.76668708418529", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1138558", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "02", 
-    "type": "violent", 
-    "id": "9262960", 
-    "block": "0000X N PARKSIDE AVE", 
-    "description": "NON-AGGRAVATED"
+    "block": "0000X N PARKSIDE AVE"
 }
