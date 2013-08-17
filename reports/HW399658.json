@@ -1,0 +1,33 @@
+{
+    "community_area": "31", 
+    "_id": {
+        "$oid": "520f9729733824919a299389"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "1235", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "031A", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65114497154038, 
+            41.859955161436865
+        ]
+    }, 
+    "case_number": "HW399658", 
+    "date": {
+        "$date": 1376016000000
+    }, 
+    "updated_on": {
+        "$date": 1376268035000
+    }, 
+    "ward": "25", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9256131", 
+    "block": "010XX W 16TH ST", 
+    "description": "ARMED: HANDGUN"
+}
