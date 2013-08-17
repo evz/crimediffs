@@ -1,0 +1,33 @@
+{
+    "community_area": "71", 
+    "_id": {
+        "$oid": "520f975a733824919a29948c"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0613", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64964356287767, 
+            41.73919506946623
+        ]
+    }, 
+    "case_number": "HW408124", 
+    "date": {
+        "$date": 1373846460000
+    }, 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
+    "ward": "21", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9264583", 
+    "block": "085XX S CARPENTER ST", 
+    "description": "FORCIBLE ENTRY"
+}
