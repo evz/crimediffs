@@ -1,33 +1,38 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "520e45e0733824919a299370"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0511", 
+    "y_coordinate": "1842004", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW408135", 
+    "id": "9263260", 
+    "primary_type": "THEFT", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "COLLEGE/UNIVERSITY GROUNDS", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61426145450487, 
-            41.72065531260434
+            -87.61398958656613, 
+            41.72171291731352
         ]
     }, 
-    "case_number": "HW408135", 
+    "community_area": "49", 
+    "latitude": "41.72171291731352", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0511", 
     "date": {
         "$date": 1373567400000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "6", 
+    "_id": {
+        "$oid": "520e45e0733824919a299370"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.61398958656613", 
+    "location_description": "COLLEGE/UNIVERSITY GROUNDS", 
+    "x_coordinate": "1180627", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9263260", 
-    "block": "095XX S DR MARTIN LUTHER KING JR DR", 
-    "description": "$500 AND UNDER"
+    "block": "095XX S DR MARTIN LUTHER KING JR DR"
 }
