@@ -1,33 +1,38 @@
 {
-    "community_area": "20", 
-    "_id": {
-        "$oid": "520e45b6733824919a299344"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "2534", 
+    "y_coordinate": "1911904", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2820", 
+    "case_number": "HW407318", 
+    "id": "9262410", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.73245098665362, 
-            41.91499511633357
+            -87.73271911570835, 
+            41.91421990125488
         ]
     }, 
-    "case_number": "HW407318", 
+    "community_area": "20", 
+    "latitude": "41.91421990125488", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "2534", 
     "date": {
         "$date": 1375495200000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "30", 
+    "_id": {
+        "$oid": "520e45b6733824919a299344"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.73271911570835", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1147724", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9262410", 
-    "block": "018XX N TRIPP AVE", 
-    "description": "TELEPHONE THREAT"
+    "block": "018XX N TRIPP AVE"
 }
