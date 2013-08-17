@@ -1,0 +1,33 @@
+{
+    "community_area": "42", 
+    "_id": {
+        "$oid": "520f972f733824919a2993e1"
+    }, 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "beat": "0313", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "1365", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60709641329487, 
+            41.78309800699253
+        ]
+    }, 
+    "case_number": "HW399305", 
+    "date": {
+        "$date": 1375988760000
+    }, 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
+    "ward": "20", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9259003", 
+    "block": "061XX S EVANS AVE", 
+    "description": "TO RESIDENCE"
+}
