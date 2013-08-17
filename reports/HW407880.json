@@ -1,33 +1,38 @@
 {
-    "community_area": "69", 
-    "_id": {
-        "$oid": "520e45b5733824919a299343"
-    }, 
-    "primary_type": "OFFENSE INVOLVING CHILDREN", 
-    "beat": "0624", 
+    "y_coordinate": "1853338", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1750", 
+    "case_number": "HW407880", 
+    "id": "9263133", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.60049567432114, 
-            41.751617455926144
+            -87.60022281858714, 
+            41.752729901563164
         ]
     }, 
-    "case_number": "HW407880", 
+    "community_area": "69", 
+    "latitude": "41.752729901563164", 
+    "type": null, 
+    "description": "CHILD ABUSE", 
+    "beat": "0624", 
     "date": {
         "$date": 1375524000000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "8", 
+    "_id": {
+        "$oid": "520e45b5733824919a299343"
+    }, 
+    "iucr": "1750", 
+    "longitude": "-87.60022281858714", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1184289", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "20", 
-    "type": null, 
-    "id": "9263133", 
-    "block": "078XX S ELLIS AVE", 
-    "description": "CHILD ABUSE"
+    "block": "078XX S ELLIS AVE"
 }
