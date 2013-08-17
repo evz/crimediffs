@@ -1,33 +1,38 @@
 {
-    "community_area": "31", 
-    "_id": {
-        "$oid": "520e45b2733824919a299336"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "1034", 
+    "y_coordinate": "1887548", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1305", 
+    "case_number": "HW407160", 
+    "id": "9262277", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "010", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6853830475677, 
-            41.848029293186954
+            -87.68535548540176, 
+            41.84712353129747
         ]
     }, 
-    "case_number": "HW407160", 
+    "community_area": "31", 
+    "latitude": "41.84712353129747", 
+    "type": "quality", 
+    "description": "CRIMINAL DEFACEMENT", 
+    "beat": "1034", 
     "date": {
         "$date": 1375840800000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "25", 
+    "_id": {
+        "$oid": "520e45b2733824919a299336"
+    }, 
+    "iucr": "1305", 
+    "longitude": "-87.68535548540176", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1160800", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9262277", 
-    "block": "024XX S WESTERN AVE", 
-    "description": "CRIMINAL DEFACEMENT"
+    "block": "024XX S WESTERN AVE"
 }
