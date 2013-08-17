@@ -1,0 +1,33 @@
+{
+    "community_area": "27", 
+    "_id": {
+        "$oid": "520f9731733824919a29940e"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "1122", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72059440038733, 
+            41.88044284925132
+        ]
+    }, 
+    "case_number": "HW399051", 
+    "date": {
+        "$date": 1375971300000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "28", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9255711", 
+    "block": "0000X S HAMLIN BLVD", 
+    "description": "AUTOMOBILE"
+}
