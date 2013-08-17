@@ -1,33 +1,38 @@
 {
-    "community_area": "1", 
-    "_id": {
-        "$oid": "51fde748733824919a2937a9"
-    }, 
-    "primary_type": "SEX OFFENSE", 
-    "beat": "2431", 
+    "y_coordinate": "1946225", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1570", 
+    "case_number": "HW374954", 
+    "id": "9229874", 
+    "primary_type": "SEX OFFENSE", 
+    "district": "024", 
     "arrest": false, 
-    "location_description": "CTA TRAIN", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66512042907091, 
-            42.007813554995856
+            -87.66533155488989, 
+            42.00803157442546
         ]
     }, 
-    "case_number": "HW374954", 
+    "community_area": "1", 
+    "latitude": "42.00803157442546", 
+    "type": null, 
+    "description": "PUBLIC INDECENCY", 
+    "beat": "2431", 
     "date": {
         "$date": 1374545700000
     }, 
-    "updated_on": {
-        "$date": 1374799275000
-    }, 
     "ward": "49", 
+    "_id": {
+        "$oid": "51fde748733824919a2937a9"
+    }, 
+    "iucr": "1570", 
+    "longitude": "-87.66533155488989", 
+    "location_description": "CTA TRAIN", 
+    "x_coordinate": "1165799", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "17", 
-    "type": null, 
-    "id": "9229874", 
-    "block": "013XX W MORSE AVE", 
-    "description": "PUBLIC INDECENCY"
+    "block": "013XX W MORSE AVE"
 }
