@@ -1,33 +1,38 @@
 {
-    "community_area": "6", 
-    "_id": {
-        "$oid": "520e45b4733824919a29933b"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1934", 
+    "y_coordinate": "1919171", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW407894", 
+    "id": "9263057", 
+    "primary_type": "THEFT", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63946611576077, 
-            41.933057500259615
+            -87.63946351509257, 
+            41.933636514623835
         ]
     }, 
-    "case_number": "HW407894", 
+    "community_area": "6", 
+    "latitude": "41.933636514623835", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1934", 
     "date": {
         "$date": 1375711200000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "44", 
+    "_id": {
+        "$oid": "520e45b4733824919a29933b"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.63946351509257", 
+    "location_description": "STREET", 
+    "x_coordinate": "1173049", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9263057", 
-    "block": "028XX N SHERIDAN RD", 
-    "description": "OVER $500"
+    "block": "028XX N SHERIDAN RD"
 }
