@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "520f973a733824919a299468"
+    }, 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "beat": "0631", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1110", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60622701821043, 
+            41.74839912633744
+        ]
+    }, 
+    "case_number": "HW408981", 
+    "date": {
+        "$date": 1375430400000
+    }, 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
+    "ward": "6", 
+    "fbi_code": "11", 
+    "type": null, 
+    "id": "9264580", 
+    "block": "080XX S EVANS AVE", 
+    "description": "BOGUS CHECK"
+}
