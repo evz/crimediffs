@@ -1,33 +1,38 @@
 {
-    "community_area": "22", 
-    "_id": {
-        "$oid": "520e45b0733824919a299317"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "1414", 
+    "y_coordinate": "1914636", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW407490", 
+    "id": "9262772", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70645011113643, 
-            41.92055587614202
+            -87.70627110275653, 
+            41.92157575160177
         ]
     }, 
-    "case_number": "HW407490", 
+    "community_area": "22", 
+    "latitude": "41.92157575160177", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1414", 
     "date": {
         "$date": 1375876800000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "35", 
+    "_id": {
+        "$oid": "520e45b0733824919a299317"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.70627110275653", 
+    "location_description": "STREET", 
+    "x_coordinate": "1154903", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9262772", 
-    "block": "031XX W PALMER BLVD", 
-    "description": "AUTOMOBILE"
+    "block": "031XX W PALMER BLVD"
 }
