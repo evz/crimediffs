@@ -1,33 +1,38 @@
 {
-    "community_area": "44", 
-    "_id": {
-        "$oid": "520e45ce733824919a299365"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0631", 
+    "y_coordinate": "1850153", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1130", 
+    "case_number": "HW407042", 
+    "id": "9262240", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "RESIDENCE PORCH/HALLWAY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61124465445569, 
-            41.74407281407669
+            -87.61094801896063, 
+            41.74405722793401
         ]
     }, 
-    "case_number": "HW407042", 
+    "community_area": "44", 
+    "latitude": "41.74405722793401", 
+    "type": null, 
+    "description": "FRAUD OR CONFIDENCE GAME", 
+    "beat": "0631", 
     "date": {
         "$date": 1374310800000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "6", 
+    "_id": {
+        "$oid": "520e45ce733824919a299365"
+    }, 
+    "iucr": "1130", 
+    "longitude": "-87.61094801896063", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1181389", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9262240", 
-    "block": "082XX S RHODES AVE", 
-    "description": "FRAUD OR CONFIDENCE GAME"
+    "block": "082XX S RHODES AVE"
 }
