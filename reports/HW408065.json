@@ -1,33 +1,38 @@
 {
-    "community_area": "23", 
-    "_id": {
-        "$oid": "520e45ba733824919a299358"
-    }, 
-    "primary_type": "PUBLIC PEACE VIOLATION", 
-    "beat": "2534", 
+    "y_coordinate": "1909804", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2851", 
+    "case_number": "HW408065", 
+    "id": "9263118", 
+    "primary_type": "PUBLIC PEACE VIOLATION", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "RESIDENCE PORCH/HALLWAY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.73032628747816, 
-            41.90925401798656
+            -87.73030084405364, 
+            41.908444334936824
         ]
     }, 
-    "case_number": "HW408065", 
+    "community_area": "23", 
+    "latitude": "41.908444334936824", 
+    "type": null, 
+    "description": "ARSON THREAT", 
+    "beat": "2534", 
     "date": {
         "$date": 1375290000000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "30", 
+    "_id": {
+        "$oid": "520e45ba733824919a299358"
+    }, 
+    "iucr": "2851", 
+    "longitude": "-87.73030084405364", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1148397", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9263118", 
-    "block": "015XX N KEDVALE AVE", 
-    "description": "ARSON THREAT"
+    "block": "015XX N KEDVALE AVE"
 }
