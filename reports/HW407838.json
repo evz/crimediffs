@@ -1,33 +1,38 @@
 {
-    "community_area": "77", 
-    "_id": {
-        "$oid": "520e45b5733824919a299342"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2012", 
+    "y_coordinate": "1934937", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW407838", 
+    "id": "9262997", 
+    "primary_type": "THEFT", 
+    "district": "020", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67428062038358, 
-            41.976588205946385
+            -87.67428998277941, 
+            41.97710691348389
         ]
     }, 
-    "case_number": "HW407838", 
+    "community_area": "77", 
+    "latitude": "41.97710691348389", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "2012", 
     "date": {
         "$date": 1375527600000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "40", 
+    "_id": {
+        "$oid": "520e45b5733824919a299342"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.67428998277941", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1163451", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9262997", 
-    "block": "052XX N RAVENSWOOD AVE", 
-    "description": "OVER $500"
+    "block": "052XX N RAVENSWOOD AVE"
 }
