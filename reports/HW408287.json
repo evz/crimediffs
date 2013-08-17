@@ -1,0 +1,33 @@
+{
+    "community_area": "42", 
+    "_id": {
+        "$oid": "520f9734733824919a29944a"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "0321", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "2825", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58787955216137, 
+            41.77617731738922
+        ]
+    }, 
+    "case_number": "HW408287", 
+    "date": {
+        "$date": 1375932240000
+    }, 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
+    "ward": "5", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9263349", 
+    "block": "015XX E 65TH PL", 
+    "description": "HARASSMENT BY TELEPHONE"
+}
