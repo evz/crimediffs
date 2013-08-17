@@ -1,0 +1,33 @@
+{
+    "community_area": "32", 
+    "_id": {
+        "$oid": "520f9748733824919a29947a"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0122", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "GOVERNMENT BUILDING/PROPERTY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6322771591607, 
+            41.883738441649314
+        ]
+    }, 
+    "case_number": "HW404458", 
+    "date": {
+        "$date": 1374685200000
+    }, 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
+    "ward": "42", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9263590", 
+    "block": "001XX N LA SALLE ST", 
+    "description": "OVER $500"
+}
