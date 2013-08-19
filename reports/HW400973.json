@@ -1,0 +1,33 @@
+{
+    "community_area": "23", 
+    "_id": {
+        "$oid": "52123a27733824919a2994c5"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "2535", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7230272207719, 
+            41.90493719236803
+        ]
+    }, 
+    "case_number": "HW400973", 
+    "date": {
+        "$date": 1376082000000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "27", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9258815", 
+    "block": "038XX W GRAND AVE", 
+    "description": "SIMPLE"
+}
