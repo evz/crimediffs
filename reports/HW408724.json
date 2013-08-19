@@ -1,33 +1,38 @@
 {
-    "community_area": "7", 
-    "_id": {
-        "$oid": "520f9753733824919a299485"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "1935", 
+    "y_coordinate": "1917220", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1130", 
+    "case_number": "HW408724", 
+    "id": "9264172", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65329272146131, 
-            41.9288317989118
+            -87.65263256890307, 
+            41.92836136948292
         ]
     }, 
-    "case_number": "HW408724", 
+    "community_area": "7", 
+    "latitude": "41.92836136948292", 
+    "type": null, 
+    "description": "FRAUD OR CONFIDENCE GAME", 
+    "beat": "1935", 
     "date": {
         "$date": 1374163200000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "43", 
+    "_id": {
+        "$oid": "520f9753733824919a299485"
+    }, 
+    "iucr": "1130", 
+    "longitude": "-87.65263256890307", 
+    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
+    "x_coordinate": "1169481", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9264172", 
-    "block": "025XX N LINCOLN AVE", 
-    "description": "FRAUD OR CONFIDENCE GAME"
+    "block": "025XX N LINCOLN AVE"
 }
