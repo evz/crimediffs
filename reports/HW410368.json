@@ -1,0 +1,33 @@
+{
+    "community_area": "41", 
+    "_id": {
+        "$oid": "52123a3a733824919a299547"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0233", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "843", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6037800993804, 
+            41.79974576976631
+        ]
+    }, 
+    "case_number": "HW410368", 
+    "date": {
+        "$date": 1374915600000
+    }, 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
+    "ward": "4", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9265859", 
+    "block": "052XX S DREXEL AVE", 
+    "description": "ATTEMPT FINANCIAL IDENTITY THEFT"
+}
