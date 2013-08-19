@@ -1,33 +1,38 @@
 {
-    "community_area": "4", 
-    "_id": {
-        "$oid": "520f9735733824919a299452"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2031", 
+    "y_coordinate": "1933807", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "840", 
+    "case_number": "HW408740", 
+    "id": "9263978", 
+    "primary_type": "THEFT", 
+    "district": "020", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69454176978975, 
-            41.97390364875636
+            -87.69481539993421, 
+            41.97412196299164
         ]
     }, 
-    "case_number": "HW408740", 
+    "community_area": "4", 
+    "latitude": "41.97412196299164", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "2031", 
     "date": {
         "$date": 1375862400000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "40", 
+    "_id": {
+        "$oid": "520f9735733824919a299452"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.69481539993421", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1157878", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9263978", 
-    "block": "026XX W CARMEN AVE", 
-    "description": "FINANCIAL ID THEFT: OVER $300"
+    "block": "026XX W CARMEN AVE"
 }
