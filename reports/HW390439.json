@@ -1,33 +1,38 @@
 {
-    "community_area": "23", 
-    "_id": {
-        "$oid": "520f9739733824919a299465"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "1112", 
+    "y_coordinate": "1906104", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "320", 
+    "case_number": "HW390439", 
+    "id": "9263705", 
+    "primary_type": "ROBBERY", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.71652993094443, 
-            41.89756438350044
+            -87.71655302982292, 
+            41.89821763664028
         ]
     }, 
-    "case_number": "HW390439", 
+    "community_area": "23", 
+    "latitude": "41.89821763664028", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "1112", 
     "date": {
         "$date": 1375465500000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "27", 
+    "_id": {
+        "$oid": "520f9739733824919a299465"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.71655302982292", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1152166", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9263705", 
-    "block": "009XX N CENTRAL PARK AVE", 
-    "description": "STRONGARM - NO WEAPON"
+    "block": "009XX N CENTRAL PARK AVE"
 }
