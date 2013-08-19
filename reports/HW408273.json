@@ -1,33 +1,38 @@
 {
-    "community_area": "64", 
-    "_id": {
-        "$oid": "520f9747733824919a299479"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0812", 
+    "y_coordinate": "1863455", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW408273", 
+    "id": "9263470", 
+    "primary_type": "THEFT", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.76292777402776, 
-            41.781112373467685
+            -87.76293607339356, 
+            41.78141703171831
         ]
     }, 
-    "case_number": "HW408273", 
+    "community_area": "64", 
+    "latitude": "41.78141703171831", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0812", 
     "date": {
         "$date": 1374748740000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "13", 
+    "_id": {
+        "$oid": "520f9747733824919a299479"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.76293607339356", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1139821", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9263470", 
-    "block": "061XX S PARKSIDE AVE", 
-    "description": "OVER $500"
+    "block": "061XX S PARKSIDE AVE"
 }
