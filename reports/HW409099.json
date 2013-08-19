@@ -1,33 +1,38 @@
 {
-    "community_area": "53", 
-    "_id": {
-        "$oid": "520f9740733824919a299475"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0523", 
+    "y_coordinate": "1824559", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "840", 
+    "case_number": "HW409099", 
+    "id": "9264543", 
+    "primary_type": "THEFT", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62479987866817, 
-            41.673951923448676
+            -87.62479673019844, 
+            41.67390525025993
         ]
     }, 
-    "case_number": "HW409099", 
+    "community_area": "53", 
+    "latitude": "41.67390525025993", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "0523", 
     "date": {
         "$date": 1375125480000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "9", 
+    "_id": {
+        "$oid": "520f9740733824919a299475"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.62479673019844", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1177820", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9264543", 
-    "block": "121XX S PERRY AVE", 
-    "description": "FINANCIAL ID THEFT: OVER $300"
+    "block": "121XX S PERRY AVE"
 }
