@@ -1,33 +1,38 @@
 {
-    "community_area": "69", 
-    "_id": {
-        "$oid": "520f9741733824919a299476"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0731", 
+    "y_coordinate": "1856261", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1122", 
+    "case_number": "HW408762", 
+    "id": "9264222", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63103633406043, 
-            41.760485676431585
+            -87.63075279403596, 
+            41.76094224088194
         ]
     }, 
-    "case_number": "HW408762", 
+    "community_area": "69", 
+    "latitude": "41.76094224088194", 
+    "type": null, 
+    "description": "COUNTERFEIT CHECK", 
+    "beat": "0731", 
     "date": {
         "$date": 1375056000000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "17", 
+    "_id": {
+        "$oid": "520f9741733824919a299476"
+    }, 
+    "iucr": "1122", 
+    "longitude": "-87.63075279403596", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1175934", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "10", 
-    "type": null, 
-    "id": "9264222", 
-    "block": "073XX S YALE AVE", 
-    "description": "COUNTERFEIT CHECK"
+    "block": "073XX S YALE AVE"
 }
