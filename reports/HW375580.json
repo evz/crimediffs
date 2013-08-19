@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "52123a40733824919a299552"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "0634", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2024", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6278339, 
+            41.723353
+        ]
+    }, 
+    "case_number": "HW375580", 
+    "date": {
+        "$date": 1374589800000
+    }, 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
+    "ward": "21", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9265849", 
+    "block": "094XX S LA SALLE ST", 
+    "description": "POSS: HEROIN(WHITE)"
+}
