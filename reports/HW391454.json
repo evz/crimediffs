@@ -1,33 +1,38 @@
 {
-    "community_area": "28", 
-    "_id": {
-        "$oid": "520f9739733824919a299461"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1225", 
+    "y_coordinate": "1898639", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "841", 
+    "case_number": "HW391454", 
+    "id": "9263977", 
+    "primary_type": "THEFT", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.68072310091193, 
-            41.877506387898215
+            -87.6794560742786, 
+            41.87752662324522
         ]
     }, 
-    "case_number": "HW391454", 
+    "community_area": "28", 
+    "latitude": "41.87752662324522", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT:$300 &UNDER", 
+    "beat": "1225", 
     "date": {
         "$date": 1375520400000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "520f9739733824919a299461"
+    }, 
+    "iucr": "841", 
+    "longitude": "-87.6794560742786", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1162323", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9263977", 
-    "block": "021XX W JACKSON BLVD", 
-    "description": "FINANCIAL ID THEFT:$300 &UNDER"
+    "block": "021XX W JACKSON BLVD"
 }
