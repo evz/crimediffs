@@ -1,0 +1,33 @@
+{
+    "community_area": "3", 
+    "_id": {
+        "$oid": "52123a55733824919a299561"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "1912", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "CLEANING STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66963822660603, 
+            41.96147383050428
+        ]
+    }, 
+    "case_number": "HW409407", 
+    "date": {
+        "$date": 1373634000000
+    }, 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
+    "ward": "47", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9265898", 
+    "block": "016XX W MONTROSE AVE", 
+    "description": "SIMPLE"
+}
