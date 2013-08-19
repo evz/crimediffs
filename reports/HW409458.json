@@ -1,33 +1,38 @@
 {
-    "community_area": "14", 
-    "_id": {
-        "$oid": "520f9759733824919a299489"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "1722", 
+    "y_coordinate": "1931076", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "2826", 
+    "case_number": "HW409458", 
+    "id": "9264835", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "017", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72905381406544, 
-            41.96662625618396
+            -87.72935355552593, 
+            41.96681443962711
         ]
     }, 
-    "case_number": "HW409458", 
+    "community_area": "14", 
+    "latitude": "41.96681443962711", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "1722", 
     "date": {
         "$date": 1373904000000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "39", 
+    "_id": {
+        "$oid": "520f9759733824919a299489"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.72935355552593", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1148505", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9264835", 
-    "block": "047XX N KEYSTONE AVE", 
-    "description": "HARASSMENT BY ELECTRONIC MEANS"
+    "block": "047XX N KEYSTONE AVE"
 }
