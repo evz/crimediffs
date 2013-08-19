@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "520e45d0733824919a299368"
-    }, 
-    "primary_type": "PROSTITUTION", 
-    "beat": "1113", 
+    "y_coordinate": "1900615", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1525", 
-    "arrest": false, 
-    "location_description": "ALLEY", 
+    "case_number": "HW369031", 
+    "id": "9262199", 
+    "primary_type": "PROSTITUTION", 
+    "district": "011", 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.740619, 
-            41.883635
+            -87.74140374811924, 
+            41.88328526482303
         ]
     }, 
-    "case_number": "HW369031", 
+    "community_area": "25", 
+    "latitude": "41.88328526482303", 
+    "type": "quality", 
+    "description": "PATRONIZING A PROSTITUTE", 
+    "beat": "1113", 
     "date": {
         "$date": 1374200640000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "28", 
+    "_id": {
+        "$oid": "520e45d0733824919a299368"
+    }, 
+    "iucr": "1525", 
+    "longitude": "-87.74140374811924", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1145438", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "16", 
-    "type": "quality", 
-    "id": "9262199", 
-    "block": "046XX W WEST END AVE", 
-    "description": "PATRONIZING A PROSTITUTE"
+    "block": "046XX W WEST END AVE"
 }
