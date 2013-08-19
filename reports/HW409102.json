@@ -1,33 +1,38 @@
 {
-    "community_area": "32", 
-    "_id": {
-        "$oid": "520f9741733824919a299477"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0112", 
+    "y_coordinate": "1900482", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1150", 
+    "case_number": "HW409102", 
+    "id": "9264476", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "RESTAURANT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6262084, 
-            41.8821355
+            -87.62636626522777, 
+            41.88226971109375
         ]
     }, 
-    "case_number": "HW409102", 
+    "community_area": "32", 
+    "latitude": "41.88226971109375", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "0112", 
     "date": {
         "$date": 1375030800000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "42", 
+    "_id": {
+        "$oid": "520f9741733824919a299477"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.62636626522777", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1176767", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9264476", 
-    "block": "0000X N WABASH AVE", 
-    "description": "CREDIT CARD FRAUD"
+    "block": "0000X N WABASH AVE"
 }
