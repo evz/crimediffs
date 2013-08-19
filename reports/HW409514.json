@@ -1,33 +1,38 @@
 {
-    "community_area": "1", 
-    "_id": {
-        "$oid": "520f9734733824919a29944d"
-    }, 
-    "primary_type": "CRIMINAL TRESPASS", 
-    "beat": "2422", 
+    "y_coordinate": "1951037", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1365", 
+    "case_number": "HW409514", 
+    "id": "9264845", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "024", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67069699999999, 
-            42.0211645
+            -87.67155972924749, 
+            42.02127265344909
         ]
     }, 
-    "case_number": "HW409514", 
+    "community_area": "1", 
+    "latitude": "42.02127265344909", 
+    "type": null, 
+    "description": "TO RESIDENCE", 
+    "beat": "2422", 
     "date": {
         "$date": 1375912800000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "49", 
+    "_id": {
+        "$oid": "520f9734733824919a29944d"
+    }, 
+    "iucr": "1365", 
+    "longitude": "-87.67155972924749", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1164069", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9264845", 
-    "block": "016XX W JONQUIL TER", 
-    "description": "TO RESIDENCE"
+    "block": "016XX W JONQUIL TER"
 }
