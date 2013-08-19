@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "52123a25733824919a2994b0"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "0324", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "5001", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59013397809441, 
+            41.76317848950069
+        ]
+    }, 
+    "case_number": "HW401123", 
+    "date": {
+        "$date": 1376094000000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "5", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9258348", 
+    "block": "014XX E 72ND PL", 
+    "description": "OTHER CRIME INVOLVING PROPERTY"
+}
