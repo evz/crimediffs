@@ -1,0 +1,33 @@
+{
+    "community_area": "42", 
+    "_id": {
+        "$oid": "52123a29733824919a2994fb"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0321", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60442710294414, 
+            41.77403866882813
+        ]
+    }, 
+    "case_number": "HW408111", 
+    "date": {
+        "$date": 1376058600000
+    }, 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
+    "ward": "5", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9264606", 
+    "block": "066XX S MARYLAND AVE", 
+    "description": "FORCIBLE ENTRY"
+}
