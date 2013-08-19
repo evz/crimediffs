@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "52123a22733824919a299495"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0421", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55913034385365, 
+            41.75843468633965
+        ]
+    }, 
+    "case_number": "HW401294", 
+    "date": {
+        "$date": 1376110800000
+    }, 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
+    "ward": "7", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9260994", 
+    "block": "075XX S EXCHANGE AVE", 
+    "description": "TO VEHICLE"
+}
