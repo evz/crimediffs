@@ -1,33 +1,38 @@
 {
-    "community_area": "15", 
-    "_id": {
-        "$oid": "520cf450733824919a299276"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1633", 
+    "y_coordinate": "1921075", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "840", 
+    "case_number": "HW401843", 
+    "id": "9261242", 
+    "primary_type": "THEFT", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.76825497321678, 
-            41.93957308717879
+            -87.76858580305817, 
+            41.939569226459206
         ]
     }, 
-    "case_number": "HW401843", 
+    "community_area": "15", 
+    "latitude": "41.939569226459206", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "1633", 
     "date": {
         "$date": 1373446800000
     }, 
+    "ward": "38", 
+    "_id": {
+        "$oid": "520cf450733824919a299276"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.76858580305817", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1137901", 
     "updated_on": {
         "$date": 1376613678000
     }, 
-    "ward": "38", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9261242", 
-    "block": "056XX W MELROSE ST", 
-    "description": "FINANCIAL ID THEFT: OVER $300"
+    "block": "056XX W MELROSE ST"
 }
