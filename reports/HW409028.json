@@ -1,33 +1,38 @@
 {
-    "community_area": "28", 
-    "_id": {
-        "$oid": "520f9739733824919a299462"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1232", 
+    "y_coordinate": "1900138", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW409028", 
+    "id": "9264438", 
+    "primary_type": "THEFT", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "VEHICLE-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65454799999999, 
-            41.88189
+            -87.65697115242793, 
+            41.88151002188501
         ]
     }, 
-    "case_number": "HW409028", 
+    "community_area": "28", 
+    "latitude": "41.88151002188501", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1232", 
     "date": {
         "$date": 1375516800000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "520f9739733824919a299462"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.65697115242793", 
+    "location_description": "VEHICLE-COMMERCIAL", 
+    "x_coordinate": "1168435", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9264438", 
-    "block": "011XX W MADISON ST", 
-    "description": "OVER $500"
+    "block": "011XX W MADISON ST"
 }
