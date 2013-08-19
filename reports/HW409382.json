@@ -1,33 +1,38 @@
 {
-    "community_area": "30", 
-    "_id": {
-        "$oid": "520f974f733824919a299480"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1031", 
+    "y_coordinate": "1880122", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW409382", 
+    "id": "9264725", 
+    "primary_type": "THEFT", 
+    "district": "010", 
     "arrest": false, 
-    "location_description": "WAREHOUSE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.73376982337588, 
-            41.82700477704729
+            -87.73376612889044, 
+            41.82700750203725
         ]
     }, 
-    "case_number": "HW409382", 
+    "community_area": "30", 
+    "latitude": "41.82700750203725", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1031", 
     "date": {
         "$date": 1374364860000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "22", 
+    "_id": {
+        "$oid": "520f974f733824919a299480"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.73376612889044", 
+    "location_description": "WAREHOUSE", 
+    "x_coordinate": "1147661", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9264725", 
-    "block": "043XX W 36TH ST", 
-    "description": "OVER $500"
+    "block": "043XX W 36TH ST"
 }
