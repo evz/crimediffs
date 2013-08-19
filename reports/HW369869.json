@@ -1,33 +1,38 @@
 {
-    "community_area": "67", 
-    "_id": {
-        "$oid": "520f9752733824919a299484"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0724", 
+    "y_coordinate": "1862663", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2820", 
+    "case_number": "HW369869", 
+    "id": "9264576", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6558385761319, 
-            41.77865640490918
+            -87.65554523288742, 
+            41.77866016321187
         ]
     }, 
-    "case_number": "HW369869", 
+    "community_area": "67", 
+    "latitude": "41.77866016321187", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "0724", 
     "date": {
         "$date": 1374203100000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "16", 
+    "_id": {
+        "$oid": "520f9752733824919a299484"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.65554523288742", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1169119", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9264576", 
-    "block": "063XX S ELIZABETH ST", 
-    "description": "TELEPHONE THREAT"
+    "block": "063XX S ELIZABETH ST"
 }
