@@ -1,33 +1,38 @@
 {
-    "community_area": "5", 
-    "_id": {
-        "$oid": "520f9737733824919a29945b"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "1911", 
+    "y_coordinate": "1926525", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "560", 
+    "case_number": "HW408866", 
+    "id": "9264766", 
+    "primary_type": "ASSAULT", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69056320134533, 
-            41.95410394205465
+            -87.68944187110301, 
+            41.954108635568815
         ]
     }, 
-    "case_number": "HW408866", 
+    "community_area": "5", 
+    "latitude": "41.954108635568815", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1911", 
     "date": {
         "$date": 1375583400000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "47", 
+    "_id": {
+        "$oid": "520f9737733824919a29945b"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.68944187110301", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1159394", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9264766", 
-    "block": "024XX W IRVING PARK RD", 
-    "description": "SIMPLE"
+    "block": "024XX W IRVING PARK RD"
 }
