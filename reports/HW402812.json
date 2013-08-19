@@ -1,33 +1,38 @@
 {
-    "community_area": "46", 
-    "_id": {
-        "$oid": "520f9730733824919a299404"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0414", 
+    "y_coordinate": "1852691", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "4651", 
+    "case_number": "HW402812", 
+    "id": "9258079", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.57244567745141, 
-            41.75006571374043
+            -87.572162485575, 
+            41.75077186739204
         ]
     }, 
-    "case_number": "HW402812", 
+    "community_area": "46", 
+    "latitude": "41.75077186739204", 
+    "type": null, 
+    "description": "SEX OFFENDER: FAIL REG NEW ADD", 
+    "beat": "0414", 
     "date": {
         "$date": 1375975680000
     }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "520f9730733824919a299404"
+    }, 
+    "iucr": "4651", 
+    "longitude": "-87.572162485575", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1191952", 
     "updated_on": {
         "$date": 1376527473000
     }, 
-    "ward": "8", 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9258079", 
-    "block": "079XX S MERRILL AVE", 
-    "description": "SEX OFFENDER: FAIL REG NEW ADD"
+    "block": "079XX S MERRILL AVE"
 }
