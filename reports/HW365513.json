@@ -6,7 +6,7 @@
     "id": "9260445", 
     "primary_type": "NARCOTICS", 
     "district": "018", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "HOTEL/MOTEL", 
     "x_coordinate": "1179753", 
     "updated_on": {
-        "$date": 1376613678000
+        "$date": 1376700033000
     }, 
     "fbi_code": "18", 
     "block": "006XX N LAKE SHORE DR"
