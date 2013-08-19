@@ -1,33 +1,38 @@
 {
-    "community_area": "56", 
-    "_id": {
-        "$oid": "520e45b1733824919a29932c"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0814", 
+    "y_coordinate": "1869447", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1240", 
+    "case_number": "HW404252", 
+    "id": "9260901", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.74672002516105, 
-            41.79823198545085
+            -87.74960659216822, 
+            41.7977938816422
         ]
     }, 
-    "case_number": "HW404252", 
+    "community_area": "56", 
+    "latitude": "41.7977938816422", 
+    "type": null, 
+    "description": "UNLAWFUL USE OF A COMPUTER", 
+    "beat": "0814", 
     "date": {
         "$date": 1375862400000
     }, 
+    "ward": "23", 
+    "_id": {
+        "$oid": "520e45b1733824919a29932c"
+    }, 
+    "iucr": "1240", 
+    "longitude": "-87.74960659216822", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1143416", 
     "updated_on": {
         "$date": 1376527473000
     }, 
-    "ward": "23", 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9260901", 
-    "block": "055XX S ARCHER AVE", 
-    "description": "UNLAWFUL USE OF A COMPUTER"
+    "block": "055XX S ARCHER AVE"
 }
