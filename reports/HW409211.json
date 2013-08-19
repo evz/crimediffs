@@ -1,33 +1,38 @@
 {
-    "community_area": "30", 
-    "_id": {
-        "$oid": "520f9736733824919a299455"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1031", 
+    "y_coordinate": "1885470", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "840", 
+    "case_number": "HW409211", 
+    "id": "9264570", 
+    "primary_type": "THEFT", 
+    "district": "010", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72338958391592, 
-            41.840967859194244
+            -87.72340532153683, 
+            41.841629311116954
         ]
     }, 
-    "case_number": "HW409211", 
+    "community_area": "30", 
+    "latitude": "41.841629311116954", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "1031", 
     "date": {
         "$date": 1375779600000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "22", 
+    "_id": {
+        "$oid": "520f9736733824919a299455"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.72340532153683", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1150447", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9264570", 
-    "block": "027XX S HARDING AVE", 
-    "description": "FINANCIAL ID THEFT: OVER $300"
+    "block": "027XX S HARDING AVE"
 }
