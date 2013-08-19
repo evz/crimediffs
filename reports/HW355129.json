@@ -6,7 +6,7 @@
     "id": "9216492", 
     "primary_type": "NARCOTICS", 
     "district": "011", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "VEHICLE NON-COMMERCIAL", 
     "x_coordinate": "1150985", 
     "updated_on": {
-        "$date": 1376613678000
+        "$date": 1376700033000
     }, 
     "fbi_code": "18", 
     "block": "006XX N HAMLIN AVE"
