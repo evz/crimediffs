@@ -1,0 +1,33 @@
+{
+    "community_area": "64", 
+    "_id": {
+        "$oid": "52123a30733824919a29953d"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "0812", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2825", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78883261062221, 
+            41.78007997696371
+        ]
+    }, 
+    "case_number": "HW410543", 
+    "date": {
+        "$date": 1375488060000
+    }, 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
+    "ward": "23", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9265987", 
+    "block": "061XX S NORMANDY AVE", 
+    "description": "HARASSMENT BY TELEPHONE"
+}
