@@ -1,33 +1,38 @@
 {
-    "community_area": "6", 
-    "_id": {
-        "$oid": "520f9738733824919a29945f"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1923", 
+    "y_coordinate": "1926065", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW409213", 
+    "id": "9264559", 
+    "primary_type": "THEFT", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66102770790773, 
-            41.9526861701985
+            -87.66125565046002, 
+            41.95268476055416
         ]
     }, 
-    "case_number": "HW409213", 
+    "community_area": "6", 
+    "latitude": "41.95268476055416", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1923", 
     "date": {
         "$date": 1375544100000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "47", 
+    "_id": {
+        "$oid": "520f9738733824919a29945f"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.66125565046002", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1167065", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9264559", 
-    "block": "012XX W BYRON ST", 
-    "description": "$500 AND UNDER"
+    "block": "012XX W BYRON ST"
 }
