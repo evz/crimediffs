@@ -1,33 +1,38 @@
 {
-    "community_area": "63", 
-    "_id": {
-        "$oid": "520f973c733824919a29946e"
-    }, 
-    "primary_type": "OFFENSE INVOLVING CHILDREN", 
-    "beat": "0923", 
+    "y_coordinate": "1868589", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "1752", 
+    "case_number": "HW408301", 
+    "id": "9263370", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69765923260591, 
-            41.79544074911572
+            -87.69765097021117, 
+            41.79516353037883
         ]
     }, 
-    "case_number": "HW408301", 
+    "community_area": "63", 
+    "latitude": "41.79516353037883", 
+    "type": null, 
+    "description": "AGG CRIM SEX ABUSE FAM MEMBER", 
+    "beat": "0923", 
     "date": {
         "$date": 1375336800000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "14", 
+    "_id": {
+        "$oid": "520f973c733824919a29946e"
+    }, 
+    "iucr": "1752", 
+    "longitude": "-87.69765097021117", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1157590", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "20", 
-    "type": null, 
-    "id": "9263370", 
-    "block": "054XX S RICHMOND ST", 
-    "description": "AGG CRIM SEX ABUSE FAM MEMBER"
+    "block": "054XX S RICHMOND ST"
 }
