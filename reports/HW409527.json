@@ -1,33 +1,38 @@
 {
-    "community_area": "68", 
-    "_id": {
-        "$oid": "520f972c733824919a2993af"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "0712", 
+    "y_coordinate": "1865633", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1320", 
-    "arrest": false, 
-    "location_description": "GAS STATION", 
+    "case_number": "HW409527", 
+    "id": "9264852", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "007", 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6498307, 
-            41.7869539
+            -87.64967727831386, 
+            41.78677593578765
         ]
     }, 
-    "case_number": "HW409527", 
+    "community_area": "68", 
+    "latitude": "41.78677593578765", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0712", 
     "date": {
         "$date": 1376002800000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "16", 
+    "_id": {
+        "$oid": "520f972c733824919a2993af"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.64967727831386", 
+    "location_description": "GAS STATION", 
+    "x_coordinate": "1170696", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9264852", 
-    "block": "059XX S MORGAN ST", 
-    "description": "TO VEHICLE"
+    "block": "059XX S MORGAN ST"
 }
