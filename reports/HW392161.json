@@ -1,33 +1,38 @@
 {
-    "community_area": "46", 
-    "_id": {
-        "$oid": "520f9738733824919a29945e"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0414", 
+    "y_coordinate": "1852945", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW392161", 
+    "id": "9263384", 
+    "primary_type": "BURGLARY", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.57244567745141, 
-            41.75006571374043
+            -87.57246939415226, 
+            41.75147095238011
         ]
     }, 
-    "case_number": "HW392161", 
+    "community_area": "46", 
+    "latitude": "41.75147095238011", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0414", 
     "date": {
         "$date": 1375554600000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "8", 
+    "_id": {
+        "$oid": "520f9738733824919a29945e"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.57246939415226", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1191866", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9263384", 
-    "block": "079XX S MERRILL AVE", 
-    "description": "FORCIBLE ENTRY"
+    "block": "079XX S MERRILL AVE"
 }
