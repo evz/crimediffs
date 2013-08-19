@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "52123a29733824919a299511"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0631", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60125130602216, 
+            41.74607329257779
+        ]
+    }, 
+    "case_number": "HW399968", 
+    "date": {
+        "$date": 1376044860000
+    }, 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
+    "ward": "8", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9261947", 
+    "block": "081XX S INGLESIDE AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
