@@ -1,33 +1,38 @@
 {
-    "community_area": "15", 
-    "_id": {
-        "$oid": "520f9737733824919a299458"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "1633", 
+    "y_coordinate": "1921308", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "620", 
+    "case_number": "HW398998", 
+    "id": "9263313", 
+    "primary_type": "BURGLARY", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "RESIDENCE-GARAGE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.77263598614499, 
-            41.94043429724505
+            -87.77186595744934, 
+            41.94022471758547
         ]
     }, 
-    "case_number": "HW398998", 
+    "community_area": "15", 
+    "latitude": "41.94022471758547", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "1633", 
     "date": {
         "$date": 1375689600000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "38", 
+    "_id": {
+        "$oid": "520f9737733824919a299458"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.77186595744934", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1137007", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9263313", 
-    "block": "058XX W SCHOOL ST", 
-    "description": "UNLAWFUL ENTRY"
+    "block": "058XX W SCHOOL ST"
 }
