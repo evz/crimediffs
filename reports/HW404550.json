@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "520cf44a733824919a299267"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0334", 
+    "y_coordinate": "1856067", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW404550", 
+    "id": "9259801", 
+    "primary_type": "THEFT", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.56347592621383, 
-            41.759767427497145
+            -87.56416240766747, 
+            41.75998333613026
         ]
     }, 
-    "case_number": "HW404550", 
+    "community_area": "43", 
+    "latitude": "41.75998333613026", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0334", 
     "date": {
         "$date": 1373673600000
     }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "520cf44a733824919a299267"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.56416240766747", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1194105", 
     "updated_on": {
         "$date": 1376527473000
     }, 
-    "ward": "7", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9259801", 
-    "block": "024XX E 74TH PL", 
-    "description": "$500 AND UNDER"
+    "block": "024XX E 74TH PL"
 }
