@@ -1,33 +1,38 @@
 {
-    "community_area": "48", 
-    "_id": {
-        "$oid": "520f9734733824919a29944b"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0413", 
+    "y_coordinate": "1845930", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1152", 
+    "case_number": "HW408512", 
+    "id": "9264406", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.5866584878842, 
-            41.731612940731644
+            -87.58696543431935, 
+            41.732314733961104
         ]
     }, 
-    "case_number": "HW408512", 
+    "community_area": "48", 
+    "latitude": "41.732314733961104", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "0413", 
     "date": {
         "$date": 1375930680000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "8", 
+    "_id": {
+        "$oid": "520f9734733824919a29944b"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.58696543431935", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1187971", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9264406", 
-    "block": "089XX S HARPER AVE", 
-    "description": "ILLEGAL USE CASH CARD"
+    "block": "089XX S HARPER AVE"
 }
