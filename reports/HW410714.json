@@ -1,0 +1,33 @@
+{
+    "community_area": "22", 
+    "_id": {
+        "$oid": "52123a53733824919a29955f"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1432", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "DEPARTMENT STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.68248799999999, 
+            41.9284954
+        ]
+    }, 
+    "case_number": "HW410714", 
+    "date": {
+        "$date": 1373742780000
+    }, 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
+    "ward": "1", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9266272", 
+    "block": "026XX N ELSTON AVE", 
+    "description": "$500 AND UNDER"
+}
