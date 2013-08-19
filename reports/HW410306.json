@@ -1,0 +1,33 @@
+{
+    "community_area": "1", 
+    "_id": {
+        "$oid": "52123a33733824919a299545"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2422", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66470726067458, 
+            42.019158341784085
+        ]
+    }, 
+    "case_number": "HW410306", 
+    "date": {
+        "$date": 1375315260000
+    }, 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
+    "ward": "49", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9265848", 
+    "block": "013XX W HOWARD ST", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
