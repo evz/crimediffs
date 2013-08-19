@@ -1,33 +1,38 @@
 {
-    "community_area": "32", 
-    "_id": {
-        "$oid": "520ba2f1733824919a2991d3"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "0114", 
+    "y_coordinate": "1901208", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "320", 
+    "case_number": "HW403454", 
+    "id": "9259773", 
+    "primary_type": "ROBBERY", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "PARK PROPERTY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62031033580121, 
-            41.88462250370375
+            -87.6194591678249, 
+            41.88421930084014
         ]
     }, 
-    "case_number": "HW403454", 
+    "community_area": "32", 
+    "latitude": "41.88421930084014", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0114", 
     "date": {
         "$date": 1375455600000
     }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "520ba2f1733824919a2991d3"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.6194591678249", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1178642", 
     "updated_on": {
         "$date": 1376613678000
     }, 
-    "ward": "42", 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9259773", 
-    "block": "003XX E RANDOLPH ST", 
-    "description": "STRONGARM - NO WEAPON"
+    "block": "003XX E RANDOLPH ST"
 }
