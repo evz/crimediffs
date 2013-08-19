@@ -1,33 +1,38 @@
 {
-    "community_area": "8", 
-    "_id": {
-        "$oid": "520f9764733824919a299492"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "1822", 
+    "y_coordinate": "1908232", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1206", 
+    "case_number": "HW408479", 
+    "id": "9263802", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "018", 
     "arrest": false, 
-    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6509997, 
-            41.9035997
+            -87.65225179618827, 
+            41.903693995758246
         ]
     }, 
-    "case_number": "HW408479", 
+    "community_area": "8", 
+    "latitude": "41.903693995758246", 
+    "type": null, 
+    "description": "THEFT BY LESSEE,MOTOR VEH", 
+    "beat": "1822", 
     "date": {
         "$date": 1373400780000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "32", 
+    "_id": {
+        "$oid": "520f9764733824919a299492"
+    }, 
+    "iucr": "1206", 
+    "longitude": "-87.65225179618827", 
+    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
+    "x_coordinate": "1169656", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9263802", 
-    "block": "009XX W DIVISION ST", 
-    "description": "THEFT BY LESSEE,MOTOR VEH"
+    "block": "009XX W DIVISION ST"
 }
