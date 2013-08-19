@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "520f9728733824919a29937f"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "1524", 
+    "y_coordinate": "1906836", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "620", 
+    "case_number": "HW405547", 
+    "id": "9260952", 
+    "primary_type": "BURGLARY", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.76119283571985, 
-            41.90025169084713
+            -87.7621313123621, 
+            41.90046218093198
         ]
     }, 
-    "case_number": "HW405547", 
+    "community_area": "25", 
+    "latitude": "41.90046218093198", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "1524", 
     "date": {
         "$date": 1376017200000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "37", 
+    "_id": {
+        "$oid": "520f9728733824919a29937f"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.7621313123621", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1139752", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9260952", 
-    "block": "054XX W THOMAS ST", 
-    "description": "UNLAWFUL ENTRY"
+    "block": "054XX W THOMAS ST"
 }
