@@ -1,33 +1,38 @@
 {
-    "community_area": "74", 
-    "_id": {
-        "$oid": "520f9755733824919a299487"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2211", 
+    "y_coordinate": "1834418", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW408537", 
+    "id": "9263863", 
+    "primary_type": "THEFT", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "VACANT LOT/LAND", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70624158897269, 
-            41.70195635015472
+            -87.70621003764577, 
+            41.70143475487463
         ]
     }, 
-    "case_number": "HW408537", 
+    "community_area": "74", 
+    "latitude": "41.70143475487463", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "2211", 
     "date": {
         "$date": 1374062400000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "19", 
+    "_id": {
+        "$oid": "520f9755733824919a299487"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.70621003764577", 
+    "location_description": "VACANT LOT/LAND", 
+    "x_coordinate": "1155505", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9263863", 
-    "block": "105XX S HOMAN AVE", 
-    "description": "FROM BUILDING"
+    "block": "105XX S HOMAN AVE"
 }
