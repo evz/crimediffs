@@ -1,33 +1,38 @@
 {
-    "community_area": "14", 
-    "_id": {
-        "$oid": "520f9749733824919a29947d"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "1723", 
+    "y_coordinate": "1929269", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "2826", 
+    "case_number": "HW408671", 
+    "id": "9264013", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "017", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.71575114282169, 
-            41.96158021657544
+            -87.71575653510804, 
+            41.961783317085875
         ]
     }, 
-    "case_number": "HW408671", 
+    "community_area": "14", 
+    "latitude": "41.961783317085875", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "1723", 
     "date": {
         "$date": 1374628800000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "33", 
+    "_id": {
+        "$oid": "520f9749733824919a29947d"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.71575653510804", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1152216", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9264013", 
-    "block": "044XX N ST LOUIS AVE", 
-    "description": "HARASSMENT BY ELECTRONIC MEANS"
+    "block": "044XX N ST LOUIS AVE"
 }
