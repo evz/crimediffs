@@ -1,33 +1,38 @@
 {
-    "community_area": "59", 
-    "_id": {
-        "$oid": "520f9734733824919a299451"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0912", 
+    "y_coordinate": "1881061", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW409417", 
+    "id": "9264736", 
+    "primary_type": "BATTERY", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67906318691925, 
-            41.82926385271183
+            -87.67876577659045, 
+            41.82928411239873
         ]
     }, 
-    "case_number": "HW409417", 
+    "community_area": "59", 
+    "latitude": "41.82928411239873", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0912", 
     "date": {
         "$date": 1375876800000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "11", 
+    "_id": {
+        "$oid": "520f9734733824919a299451"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.67876577659045", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1162645", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9264736", 
-    "block": "035XX S HAMILTON AVE", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "035XX S HAMILTON AVE"
 }
