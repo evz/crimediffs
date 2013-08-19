@@ -1,33 +1,38 @@
 {
-    "community_area": "14", 
-    "_id": {
-        "$oid": "520f973f733824919a299474"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "1712", 
+    "y_coordinate": "1932978", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1110", 
+    "case_number": "HW409045", 
+    "id": "9264500", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "017", 
     "arrest": false, 
-    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72583295925683, 
-            41.97201808882752
+            -87.72605729364959, 
+            41.972016531512054
         ]
     }, 
-    "case_number": "HW409045", 
+    "community_area": "14", 
+    "latitude": "41.972016531512054", 
+    "type": null, 
+    "description": "BOGUS CHECK", 
+    "beat": "1712", 
     "date": {
         "$date": 1375174800000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "39", 
+    "_id": {
+        "$oid": "520f973f733824919a299474"
+    }, 
+    "iucr": "1110", 
+    "longitude": "-87.72605729364959", 
+    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
+    "x_coordinate": "1149388", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9264500", 
-    "block": "039XX W ARGYLE ST", 
-    "description": "BOGUS CHECK"
+    "block": "039XX W ARGYLE ST"
 }
