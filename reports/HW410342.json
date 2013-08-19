@@ -1,0 +1,33 @@
+{
+    "community_area": "41", 
+    "_id": {
+        "$oid": "52123a33733824919a299546"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "0234", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59253377516609, 
+            41.80085657863728
+        ]
+    }, 
+    "case_number": "HW410342", 
+    "date": {
+        "$date": 1375315200000
+    }, 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
+    "ward": "4", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9265847", 
+    "block": "013XX E 52ND ST", 
+    "description": "AUTOMOBILE"
+}
