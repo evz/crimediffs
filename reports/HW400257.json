@@ -1,0 +1,33 @@
+{
+    "community_area": "27", 
+    "_id": {
+        "$oid": "52123a29733824919a299501"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1135", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69666014444618, 
+            41.87298550856111
+        ]
+    }, 
+    "case_number": "HW400257", 
+    "date": {
+        "$date": 1376056800000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "2", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9257555", 
+    "block": "028XX W FLOURNOY ST", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
