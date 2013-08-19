@@ -1,0 +1,33 @@
+{
+    "community_area": "24", 
+    "_id": {
+        "$oid": "52123a3d733824919a29954b"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "1211", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2825", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69944904626279, 
+            41.899150840850886
+        ]
+    }, 
+    "case_number": "HW410356", 
+    "date": {
+        "$date": 1374742800000
+    }, 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
+    "ward": "26", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9265844", 
+    "block": "029XX W AUGUSTA BLVD", 
+    "description": "HARASSMENT BY TELEPHONE"
+}
