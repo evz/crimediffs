@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "520f9749733824919a29947b"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0331", 
+    "y_coordinate": "1859730", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW408739", 
+    "id": "9264102", 
+    "primary_type": "THEFT", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "RESIDENCE PORCH/HALLWAY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.57141161567033, 
-            41.771497294917644
+            -87.57166293203069, 
+            41.770085651780825
         ]
     }, 
-    "case_number": "HW408739", 
+    "community_area": "43", 
+    "latitude": "41.770085651780825", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0331", 
     "date": {
         "$date": 1374660000000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "5", 
+    "_id": {
+        "$oid": "520f9749733824919a29947b"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.57166293203069", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1192026", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9264102", 
-    "block": "068XX S PAXTON AVE", 
-    "description": "OVER $500"
+    "block": "068XX S PAXTON AVE"
 }
