@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "52123a2b733824919a299529"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0411", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58801284342665, 
+            41.75611190564279
+        ]
+    }, 
+    "case_number": "HW410900", 
+    "date": {
+        "$date": 1375992000000
+    }, 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
+    "ward": "5", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9266264", 
+    "block": "015XX E 76TH PL", 
+    "description": "$500 AND UNDER"
+}
