@@ -1,33 +1,38 @@
 {
-    "community_area": "32", 
-    "_id": {
-        "$oid": "520f9735733824919a299453"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0122", 
+    "y_coordinate": "1902082", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2820", 
+    "case_number": "HW408511", 
+    "id": "9263778", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63404793088, 
-            41.88703958269227
+            -87.63417273518328, 
+            41.886708289564616
         ]
     }, 
-    "case_number": "HW408511", 
+    "community_area": "32", 
+    "latitude": "41.886708289564616", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "0122", 
     "date": {
         "$date": 1375807620000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "42", 
+    "_id": {
+        "$oid": "520f9735733824919a299453"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.63417273518328", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1174628", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9263778", 
-    "block": "002XX W LOWER WACKER DR", 
-    "description": "TELEPHONE THREAT"
+    "block": "002XX W LOWER WACKER DR"
 }
