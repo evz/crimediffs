@@ -1,33 +1,38 @@
 {
-    "community_area": "41", 
-    "_id": {
-        "$oid": "520f9733733824919a29943a"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0331", 
+    "y_coordinate": "1867456", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW408543", 
+    "id": "9263946", 
+    "primary_type": "THEFT", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.58010950191509, 
-            41.79134095257074
+            -87.58010946978932, 
+            41.7913436966415
         ]
     }, 
-    "case_number": "HW408543", 
+    "community_area": "41", 
+    "latitude": "41.7913436966415", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0331", 
     "date": {
         "$date": 1375954200000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "5", 
+    "_id": {
+        "$oid": "520f9733733824919a29943a"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.58010946978932", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1189654", 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9263946", 
-    "block": "057XX S LAKE SHORE DR", 
-    "description": "$500 AND UNDER"
+    "block": "057XX S LAKE SHORE DR"
 }
