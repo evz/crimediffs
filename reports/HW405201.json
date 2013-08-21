@@ -1,0 +1,33 @@
+{
+    "community_area": "22", 
+    "_id": {
+        "$oid": "5214dd3c733824919a2999a6"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1431", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "RESTAURANT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69221156023504, 
+            41.91763972539003
+        ]
+    }, 
+    "case_number": "HW405201", 
+    "date": {
+        "$date": 1376342100000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "1", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9267353", 
+    "block": "025XX W ARMITAGE AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
