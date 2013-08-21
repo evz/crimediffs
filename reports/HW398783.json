@@ -1,0 +1,33 @@
+{
+    "community_area": "53", 
+    "_id": {
+        "$oid": "5214dd63733824919a29a89c"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "0524", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66138992666617, 
+            41.683335024268615
+        ]
+    }, 
+    "case_number": "HW398783", 
+    "date": {
+        "$date": 1375957800000
+    }, 
+    "updated_on": {
+        "$date": 1376181721000
+    }, 
+    "ward": "34", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9254475", 
+    "block": "115XX S ASHLAND AVE", 
+    "description": "AUTOMOBILE"
+}
