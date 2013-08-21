@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1912898", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW405986", 
+    "id": "9260932", 
+    "primary_type": "ROBBERY", 
+    "district": "025", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.74626174734688, 
+            41.91701770645931
+        ]
+    }, 
+    "community_area": "19", 
+    "latitude": "41.91701770645931", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "2522", 
+    "date": {
+        "$date": 1376398200000
+    }, 
+    "ward": "31", 
+    "_id": {
+        "$oid": "5214dd34733824919a2997c3"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.74626174734688", 
+    "location_description": "CTA BUS", 
+    "x_coordinate": "1144031", 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "fbi_code": "03", 
+    "block": "020XX N CICERO AVE"
+}
