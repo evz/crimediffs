@@ -1,0 +1,33 @@
+{
+    "community_area": "38", 
+    "_id": {
+        "$oid": "5214dd63733824919a29a8e0"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "0215", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62722560430602, 
+            41.81585024729501
+        ]
+    }, 
+    "case_number": "HW399868", 
+    "date": {
+        "$date": 1375948800000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "3", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9270532", 
+    "block": "043XX S DEARBORN ST", 
+    "description": "AUTOMOBILE"
+}
