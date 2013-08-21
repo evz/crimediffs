@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1901128", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW398800", 
+    "id": "9254042", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64809275674162, 
+            41.88417418856052
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.88417418856052", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1224", 
+    "date": {
+        "$date": 1375964760000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "5214dd62733824919a29a853"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.64809275674162", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1170845", 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "fbi_code": "06", 
+    "block": "008XX W RANDOLPH ST"
+}
