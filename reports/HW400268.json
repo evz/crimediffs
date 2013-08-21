@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "5214dd5b733824919a29a588"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "0334", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "051A", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56656590322483, 
+            41.76098185953642
+        ]
+    }, 
+    "case_number": "HW400268", 
+    "date": {
+        "$date": 1376056200000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "7", 
+    "fbi_code": "04A", 
+    "type": "violent", 
+    "id": "9256341", 
+    "block": "073XX S YATES BLVD", 
+    "description": "AGGRAVATED: HANDGUN"
+}
