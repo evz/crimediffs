@@ -1,15 +1,12 @@
 {
-    "community_area": "24", 
-    "_id": {
-        "$oid": "52123a3d733824919a29954b"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "1211", 
+    "y_coordinate": "1906478", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2825", 
+    "case_number": "HW410356", 
+    "id": "9265844", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.899150840850886
         ]
     }, 
-    "case_number": "HW410356", 
+    "community_area": "24", 
+    "latitude": "41.899150840850886", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "1211", 
     "date": {
         "$date": 1374742800000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "26", 
+    "_id": {
+        "$oid": "52123a3d733824919a29954b"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.69944904626279", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1156820", 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9265844", 
-    "block": "029XX W AUGUSTA BLVD", 
-    "description": "HARASSMENT BY TELEPHONE"
+    "block": "029XX W AUGUSTA BLVD"
 }
