@@ -1,0 +1,33 @@
+{
+    "community_area": "6", 
+    "_id": {
+        "$oid": "5214dd63733824919a29a903"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1934", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6444063, 
+            41.9366794
+        ]
+    }, 
+    "case_number": "HW398278", 
+    "date": {
+        "$date": 1375940340000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "44", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9254603", 
+    "block": "030XX N BROADWAY", 
+    "description": "FORCIBLE ENTRY"
+}
