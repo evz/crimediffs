@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "5214dd61733824919a29a7b2"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "0511", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "ALLEY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63183342064619, 
+            41.71150733697674
+        ]
+    }, 
+    "case_number": "HW415651", 
+    "date": {
+        "$date": 1375981200000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "9", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9270905", 
+    "block": "003XX W 100TH PL", 
+    "description": "AUTOMOBILE"
+}
