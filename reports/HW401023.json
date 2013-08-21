@@ -1,0 +1,33 @@
+{
+    "community_area": "3", 
+    "_id": {
+        "$oid": "5214dd5a733824919a29a50e"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "1914", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "2826", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65747204982753, 
+            41.96806303779857
+        ]
+    }, 
+    "case_number": "HW401023", 
+    "date": {
+        "$date": 1376066940000
+    }, 
+    "updated_on": {
+        "$date": 1376786529000
+    }, 
+    "ward": "46", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9256540", 
+    "block": "047XX N WINTHROP AVE", 
+    "description": "HARASSMENT BY ELECTRONIC MEANS"
+}
