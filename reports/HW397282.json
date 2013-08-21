@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "5214dd6b733824919a29aafc"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "2233", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63725789047042, 
+            41.68804612622992
+        ]
+    }, 
+    "case_number": "HW397282", 
+    "date": {
+        "$date": 1375876800000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "34", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9253111", 
+    "block": "113XX S WALLACE ST", 
+    "description": "SIMPLE"
+}
