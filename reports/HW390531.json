@@ -6,7 +6,7 @@
     "id": "9245180", 
     "primary_type": "BATTERY", 
     "district": "005", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "RESIDENCE", 
     "x_coordinate": "1177000", 
     "updated_on": {
-        "$date": 1376613678000
+        "$date": 1377045742000
     }, 
     "fbi_code": "08B", 
     "block": "095XX S LA SALLE ST"
