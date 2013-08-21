@@ -1,33 +1,38 @@
 {
-    "community_area": "45", 
-    "_id": {
-        "$oid": "52123a2d733824919a299530"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0412", 
+    "y_coordinate": "1848929", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1152", 
+    "case_number": "HW400288", 
+    "id": "9266215", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.58114096546016, 
-            41.74072921930114
+            -87.5813340790419, 
+            41.74050819462653
         ]
     }, 
-    "case_number": "HW400288", 
+    "community_area": "45", 
+    "latitude": "41.74050819462653", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "0412", 
     "date": {
         "$date": 1375833660000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "8", 
+    "_id": {
+        "$oid": "52123a2d733824919a299530"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.5813340790419", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1189482", 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9266215", 
-    "block": "017XX E 85TH ST", 
-    "description": "ILLEGAL USE CASH CARD"
+    "block": "017XX E 85TH ST"
 }
