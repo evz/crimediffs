@@ -1,0 +1,33 @@
+{
+    "community_area": "32", 
+    "_id": {
+        "$oid": "5214dd7f733824919a29abed"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0123", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62425798587078, 
+            41.86835711272653
+        ]
+    }, 
+    "case_number": "HW416011", 
+    "date": {
+        "$date": 1375084800000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "2", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9271454", 
+    "block": "011XX S MICHIGAN AVE", 
+    "description": "OVER $500"
+}
