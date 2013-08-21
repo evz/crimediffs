@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1888118", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW401901", 
+    "id": "9256838", 
+    "primary_type": "ROBBERY", 
+    "district": "010", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69914659063618, 
+            41.84876473845733
+        ]
+    }, 
+    "community_area": "30", 
+    "latitude": "41.84876473845733", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "1033", 
+    "date": {
+        "$date": 1376147700000
+    }, 
+    "ward": "12", 
+    "_id": {
+        "$oid": "5214dd54733824919a29a1d2"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.69914659063618", 
+    "location_description": "STREET", 
+    "x_coordinate": "1157038", 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "fbi_code": "03", 
+    "block": "023XX S MARSHALL BLVD"
+}
