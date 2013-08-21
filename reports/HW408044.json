@@ -1,33 +1,38 @@
 {
-    "community_area": "44", 
-    "_id": {
-        "$oid": "520f9739733824919a299463"
-    }, 
-    "primary_type": "OFFENSE INVOLVING CHILDREN", 
-    "beat": "0624", 
+    "y_coordinate": "1852492", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1780", 
+    "case_number": "HW408044", 
+    "id": "9264607", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.5980554087015, 
-            41.7509349999064
+            -87.59774643825922, 
+            41.75039239475674
         ]
     }, 
-    "case_number": "HW408044", 
+    "community_area": "44", 
+    "latitude": "41.75039239475674", 
+    "type": null, 
+    "description": "OTHER OFFENSE", 
+    "beat": "0624", 
     "date": {
         "$date": 1375496220000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "8", 
+    "_id": {
+        "$oid": "520f9739733824919a299463"
+    }, 
+    "iucr": "1780", 
+    "longitude": "-87.59774643825922", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1184972", 
+    "updated_on": {
+        "$date": 1376786529000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9264607", 
-    "block": "079XX S GREENWOOD AVE", 
-    "description": "OTHER OFFENSE"
+    "block": "079XX S GREENWOOD AVE"
 }
