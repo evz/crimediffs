@@ -1,33 +1,38 @@
 {
-    "community_area": "33", 
-    "_id": {
-        "$oid": "52123a2c733824919a29952c"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0131", 
+    "y_coordinate": "1892241", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW398261", 
+    "id": "9265043", 
+    "primary_type": "BATTERY", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "RESIDENCE PORCH/HALLWAY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62383880556872, 
-            41.86011354100373
+            -87.62411935315423, 
+            41.85964051818002
         ]
     }, 
-    "case_number": "HW398261", 
+    "community_area": "33", 
+    "latitude": "41.85964051818002", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0131", 
     "date": {
         "$date": 1375933800000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "52123a2c733824919a29952c"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.62411935315423", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1177447", 
+    "updated_on": {
+        "$date": 1376959223000
+    }, 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9265043", 
-    "block": "016XX S MICHIGAN AVE", 
-    "description": "SIMPLE"
+    "block": "016XX S MICHIGAN AVE"
 }
