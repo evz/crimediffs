@@ -1,0 +1,33 @@
+{
+    "community_area": "68", 
+    "_id": {
+        "$oid": "5214dd36733824919a29983a"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0712", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64902348478138, 
+            41.78343224338954
+        ]
+    }, 
+    "case_number": "HW415564", 
+    "date": {
+        "$date": 1376388000000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "16", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9270744", 
+    "block": "009XX W 61ST ST", 
+    "description": "FROM BUILDING"
+}
