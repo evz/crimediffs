@@ -1,0 +1,33 @@
+{
+    "community_area": "10", 
+    "_id": {
+        "$oid": "5214dd5a733824919a29a4bc"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "1611", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "4387", 
+    "arrest": false, 
+    "location_description": "ALLEY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.80349295599196, 
+            41.99715548476551
+        ]
+    }, 
+    "case_number": "HW400679", 
+    "date": {
+        "$date": 1376074200000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "41", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9256536", 
+    "block": "070XX W IMLAY ST", 
+    "description": "VIOLATE ORDER OF PROTECTION"
+}
