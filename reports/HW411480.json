@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1840200", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW411480", 
+    "id": "9266928", 
+    "primary_type": "ROBBERY", 
+    "district": "005", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62290076936377, 
+            41.71681760669678
+        ]
+    }, 
+    "community_area": "49", 
+    "latitude": "41.71681760669678", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "0511", 
+    "date": {
+        "$date": 1376407800000
+    }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "5214dd31733824919a299750"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.62290076936377", 
+    "location_description": "STREET", 
+    "x_coordinate": "1178209", 
+    "updated_on": {
+        "$date": 1376959223000
+    }, 
+    "fbi_code": "03", 
+    "block": "098XX S STATE ST"
+}
