@@ -1,33 +1,38 @@
 {
-    "community_area": "6", 
-    "_id": {
-        "$oid": "52123a41733824919a299555"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "1933", 
+    "y_coordinate": "1920516", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW331092", 
+    "id": "9266295", 
+    "primary_type": "BATTERY", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64934014483907, 
-            41.937625496847176
+            -87.64932799537766, 
+            41.93738667758559
         ]
     }, 
-    "case_number": "HW331092", 
+    "community_area": "6", 
+    "latitude": "41.93738667758559", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "1933", 
     "date": {
         "$date": 1374541200000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "44", 
+    "_id": {
+        "$oid": "52123a41733824919a299555"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.64932799537766", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1170354", 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9266295", 
-    "block": "030XX N HALSTED ST", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "030XX N HALSTED ST"
 }
