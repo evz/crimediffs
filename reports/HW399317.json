@@ -1,0 +1,33 @@
+{
+    "community_area": "3", 
+    "_id": {
+        "$oid": "5214dd60733824919a29a748"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1915", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "460", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6517542243911, 
+            41.95977192185045
+        ]
+    }, 
+    "case_number": "HW399317", 
+    "date": {
+        "$date": 1375992000000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "46", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9254698", 
+    "block": "042XX N HAZEL ST", 
+    "description": "SIMPLE"
+}
