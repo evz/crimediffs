@@ -1,33 +1,38 @@
 {
-    "community_area": "14", 
-    "_id": {
-        "$oid": "52123a32733824919a299542"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "1723", 
+    "y_coordinate": "1930310", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW410654", 
+    "id": "9266205", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "017", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72597211343202, 
-            41.964724723161396
+            -87.72780710607316, 
+            41.96470422994009
         ]
     }, 
-    "case_number": "HW410654", 
+    "community_area": "14", 
+    "latitude": "41.96470422994009", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1723", 
     "date": {
         "$date": 1375347600000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "39", 
+    "_id": {
+        "$oid": "52123a32733824919a299542"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.72780710607316", 
+    "location_description": "STREET", 
+    "x_coordinate": "1148931", 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9266205", 
-    "block": "039XX W WILSON AVE", 
-    "description": "AUTOMOBILE"
+    "block": "039XX W WILSON AVE"
 }
