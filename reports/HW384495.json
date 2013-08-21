@@ -6,7 +6,7 @@
     "id": "9253535", 
     "primary_type": "NARCOTICS", 
     "district": "011", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "ALLEY", 
     "x_coordinate": "1150060", 
     "updated_on": {
-        "$date": 1376095237000
+        "$date": 1377045742000
     }, 
     "fbi_code": "18", 
     "block": "039XX W JACKSON BLVD"
