@@ -1,33 +1,38 @@
 {
-    "community_area": "70", 
-    "_id": {
-        "$oid": "52123a2c733824919a29952d"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0835", 
+    "y_coordinate": "1848840", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW410810", 
+    "id": "9266247", 
+    "primary_type": "THEFT", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69441085207652, 
-            41.74105265844485
+            -87.69397587561805, 
+            41.740945954992824
         ]
     }, 
-    "case_number": "HW410810", 
+    "community_area": "70", 
+    "latitude": "41.740945954992824", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0835", 
     "date": {
         "$date": 1375898400000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "18", 
+    "_id": {
+        "$oid": "52123a2c733824919a29952d"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.69397587561805", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1158739", 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9266247", 
-    "block": "028XX W 84TH ST", 
-    "description": "$500 AND UNDER"
+    "block": "028XX W 84TH ST"
 }
