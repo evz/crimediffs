@@ -4,7 +4,7 @@
     "domestic": false, 
     "case_number": "HW394927", 
     "id": "9249101", 
-    "primary_type": "THEFT", 
+    "primary_type": "ROBBERY", 
     "district": "025", 
     "arrest": false, 
     "location": {
@@ -16,8 +16,8 @@
     }, 
     "community_area": "25", 
     "latitude": "41.90898355498332", 
-    "type": "property", 
-    "description": "$500 AND UNDER", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
     "beat": "2533", 
     "date": {
         "$date": 1375733100000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "520ba2c0733824919a29898a"
     }, 
-    "iucr": "820", 
+    "iucr": "320", 
     "longitude": "-87.75456089693817", 
     "location_description": "SIDEWALK", 
     "x_coordinate": "1141792", 
     "updated_on": {
-        "$date": 1375836149000
+        "$date": 1376700033000
     }, 
-    "fbi_code": "06", 
+    "fbi_code": "03", 
     "block": "015XX N LEAMINGTON AVE"
 }
