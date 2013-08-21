@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1898943", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW403681", 
+    "id": "9258189", 
+    "primary_type": "ROBBERY", 
+    "district": "001", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6275253453151, 
+            41.87805345115379
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.87805345115379", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0113", 
+    "date": {
+        "$date": 1376255700000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "5214dd49733824919a299d56"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.6275253453151", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1176464", 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "fbi_code": "03", 
+    "block": "003XX S STATE ST"
+}
