@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1900200", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW405625", 
+    "id": "9260539", 
+    "primary_type": "THEFT", 
+    "district": "015", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75769978531638, 
+            41.8822292411944
+        ]
+    }, 
+    "community_area": "25", 
+    "latitude": "41.8822292411944", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1522", 
+    "date": {
+        "$date": 1376383800000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "5214dd37733824919a299877"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.75769978531638", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1141003", 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "fbi_code": "06", 
+    "block": "053XX W WASHINGTON BLVD"
+}
