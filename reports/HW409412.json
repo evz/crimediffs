@@ -1,0 +1,33 @@
+{
+    "community_area": "35", 
+    "_id": {
+        "$oid": "5214dd3d733824919a2999ea"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0213", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "479", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62679595091089, 
+            41.83090815646026
+        ]
+    }, 
+    "case_number": "HW409412", 
+    "date": {
+        "$date": 1376337600000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "3", 
+    "fbi_code": "04B", 
+    "type": "violent", 
+    "id": "9271590", 
+    "block": "035XX S STATE ST", 
+    "description": "AGG: HANDS/FIST/FEET SERIOUS INJURY"
+}
