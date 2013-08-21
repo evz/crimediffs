@@ -1,0 +1,33 @@
+{
+    "community_area": "13", 
+    "_id": {
+        "$oid": "5214dd64733824919a29a92e"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1712", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "620", 
+    "arrest": false, 
+    "location_description": "RESIDENCE-GARAGE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7099182788213, 
+            41.98247599345444
+        ]
+    }, 
+    "case_number": "HW415683", 
+    "date": {
+        "$date": 1375923600000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "40", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9270946", 
+    "block": "055XX N SAWYER AVE", 
+    "description": "UNLAWFUL ENTRY"
+}
