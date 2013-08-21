@@ -1,0 +1,33 @@
+{
+    "community_area": "1", 
+    "_id": {
+        "$oid": "5214dd53733824919a29a17d"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2423", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66132787018647, 
+            42.010521877583116
+        ]
+    }, 
+    "case_number": "HW404262", 
+    "date": {
+        "$date": 1376154000000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "49", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9268575", 
+    "block": "012XX W GREENLEAF AVE", 
+    "description": "$500 AND UNDER"
+}
