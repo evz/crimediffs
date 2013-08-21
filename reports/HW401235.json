@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1901500", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW401235", 
+    "id": "9256272", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66343512878711, 
+            41.88528557004349
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.88528557004349", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1224", 
+    "date": {
+        "$date": 1376089200000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "5214dd59733824919a29a3f2"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.66343512878711", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1166664", 
+    "updated_on": {
+        "$date": 1376268035000
+    }, 
+    "fbi_code": "06", 
+    "block": "014XX W LAKE ST"
+}
