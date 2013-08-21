@@ -1,0 +1,33 @@
+{
+    "community_area": "72", 
+    "_id": {
+        "$oid": "5214dd8a733824919a29ac05"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2212", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "SMALL RETAIL STORE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65705647121966, 
+            41.706655639873965
+        ]
+    }, 
+    "case_number": "HW416043", 
+    "date": {
+        "$date": 1374656400000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "21", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9271426", 
+    "block": "013XX W 103RD ST", 
+    "description": "$500 AND UNDER"
+}
