@@ -1,0 +1,33 @@
+{
+    "community_area": "67", 
+    "_id": {
+        "$oid": "5214dd6a733824919a29aa6b"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0726", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67106765076485, 
+            41.76910449353306
+        ]
+    }, 
+    "case_number": "HW397577", 
+    "date": {
+        "$date": 1375889400000
+    }, 
+    "updated_on": {
+        "$date": 1376181721000
+    }, 
+    "ward": "17", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9252879", 
+    "block": "068XX S WOLCOTT AVE", 
+    "description": "$500 AND UNDER"
+}
