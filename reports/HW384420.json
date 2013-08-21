@@ -1,21 +1,21 @@
 {
-    "y_coordinate": "1892206", 
+    "y_coordinate": "1891967", 
     "year": "2013", 
     "domestic": false, 
     "case_number": "HW384420", 
     "id": "9238136", 
     "primary_type": "BATTERY", 
     "district": "010", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72392347251541, 
-            41.860117413710555
+            -87.72390033371722, 
+            41.85946141320217
         ]
     }, 
     "community_area": "29", 
-    "latitude": "41.860117413710555", 
+    "latitude": "41.85946141320217", 
     "type": "violent", 
     "description": "AGGRAVATED: OTHER DANG WEAPON", 
     "beat": "1014", 
@@ -27,11 +27,11 @@
         "$oid": "520116d6733824919a2974f1"
     }, 
     "iucr": "430", 
-    "longitude": "-87.72392347251541", 
+    "longitude": "-87.72390033371722", 
     "location_description": "SIDEWALK", 
-    "x_coordinate": "1150258", 
+    "x_coordinate": "1150266", 
     "updated_on": {
-        "$date": 1376700033000
+        "$date": 1377045742000
     }, 
     "fbi_code": "04B", 
     "block": "015XX S HARDING AVE"
