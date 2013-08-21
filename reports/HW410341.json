@@ -1,33 +1,38 @@
 {
-    "community_area": "29", 
-    "_id": {
-        "$oid": "52123a30733824919a29953f"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "1011", 
+    "y_coordinate": "1892904", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW410341", 
+    "id": "9265854", 
+    "primary_type": "BURGLARY", 
+    "district": "010", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.73008174147834, 
-            41.86184862107012
+            -87.7300870455647, 
+            41.862065445280265
         ]
     }, 
-    "case_number": "HW410341", 
+    "community_area": "29", 
+    "latitude": "41.862065445280265", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1011", 
     "date": {
         "$date": 1375459200000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "24", 
+    "_id": {
+        "$oid": "52123a30733824919a29953f"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.7300870455647", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1148574", 
+    "updated_on": {
+        "$date": 1376959223000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9265854", 
-    "block": "014XX S KEELER AVE", 
-    "description": "FORCIBLE ENTRY"
+    "block": "014XX S KEELER AVE"
 }
