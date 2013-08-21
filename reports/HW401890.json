@@ -1,33 +1,38 @@
 {
-    "community_area": "44", 
-    "_id": {
-        "$oid": "520ba2f8733824919a2991fc"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0632", 
+    "y_coordinate": "1849570", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW401890", 
+    "id": "9257133", 
+    "primary_type": "THEFT", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62101969202772, 
-            41.74287144912413
+            -87.62101258220028, 
+            41.742520133723595
         ]
     }, 
-    "case_number": "HW401890", 
+    "community_area": "44", 
+    "latitude": "41.742520133723595", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0632", 
     "date": {
         "$date": 1375272000000
     }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "520ba2f8733824919a2991fc"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.62101258220028", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1178647", 
     "updated_on": {
         "$date": 1376613678000
     }, 
-    "ward": "6", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9257133", 
-    "block": "083XX S MICHIGAN AVE", 
-    "description": "$500 AND UNDER"
+    "block": "083XX S MICHIGAN AVE"
 }
