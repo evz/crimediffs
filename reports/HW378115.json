@@ -6,7 +6,7 @@
     "id": "9232103", 
     "primary_type": "THEFT", 
     "district": "018", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "HOTEL/MOTEL", 
     "x_coordinate": "1177392", 
     "updated_on": {
-        "$date": 1376181721000
+        "$date": 1376872937000
     }, 
     "fbi_code": "06", 
     "block": "001XX E WALTON ST"
