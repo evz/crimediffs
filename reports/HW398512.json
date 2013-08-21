@@ -4,7 +4,7 @@
     "domestic": false, 
     "case_number": "HW398512", 
     "id": "9253967", 
-    "primary_type": "THEFT", 
+    "primary_type": "DECEPTIVE PRACTICE", 
     "district": "009", 
     "arrest": false, 
     "location": {
@@ -16,8 +16,8 @@
     }, 
     "community_area": "61", 
     "latitude": "41.8116586515865", 
-    "type": "property", 
-    "description": "$500 AND UNDER", 
+    "type": null, 
+    "description": "BOGUS CHECK", 
     "beat": "0924", 
     "date": {
         "$date": 1374710700000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "52050b48733824919a29806e"
     }, 
-    "iucr": "820", 
+    "iucr": "1110", 
     "longitude": "-87.66276491746261", 
     "location_description": "RESIDENCE", 
     "x_coordinate": "1167056", 
     "updated_on": {
-        "$date": 1376181721000
+        "$date": 1376700033000
     }, 
-    "fbi_code": "06", 
+    "fbi_code": "11", 
     "block": "045XX S LAFLIN ST"
 }
