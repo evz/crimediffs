@@ -1,0 +1,33 @@
+{
+    "community_area": "21", 
+    "_id": {
+        "$oid": "5214dd3d733824919a2999ec"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2523", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "841", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73075373445793, 
+            41.93528252999327
+        ]
+    }, 
+    "case_number": "HW416479", 
+    "date": {
+        "$date": 1376337600000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "31", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9271714", 
+    "block": "041XX W WELLINGTON AVE", 
+    "description": "FINANCIAL ID THEFT:$300 &UNDER"
+}
