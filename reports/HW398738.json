@@ -1,0 +1,33 @@
+{
+    "community_area": "42", 
+    "_id": {
+        "$oid": "5214dd62733824919a29a847"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "0312", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "031A", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61450920608851, 
+            41.77825979468987
+        ]
+    }, 
+    "case_number": "HW398738", 
+    "date": {
+        "$date": 1375965600000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "20", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9254438", 
+    "block": "064XX S VERNON AVE", 
+    "description": "ARMED: HANDGUN"
+}
