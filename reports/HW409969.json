@@ -1,33 +1,38 @@
 {
-    "community_area": "3", 
-    "_id": {
-        "$oid": "52123a2e733824919a299536"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2024", 
+    "y_coordinate": "1932325", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW409969", 
+    "id": "9265560", 
+    "primary_type": "THEFT", 
+    "district": "020", 
     "arrest": false, 
-    "location_description": "SMALL RETAIL STORE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65468022074512, 
-            41.9691854120998
+            -87.65498597987776, 
+            41.96982661830543
         ]
     }, 
-    "case_number": "HW409969", 
+    "community_area": "3", 
+    "latitude": "41.96982661830543", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "2024", 
     "date": {
         "$date": 1375720200000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "46", 
+    "_id": {
+        "$oid": "52123a2e733824919a299536"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.65498597987776", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1168721", 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9265560", 
-    "block": "048XX N SHERIDAN RD", 
-    "description": "OVER $500"
+    "block": "048XX N SHERIDAN RD"
 }
