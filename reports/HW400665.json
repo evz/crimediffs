@@ -1,0 +1,33 @@
+{
+    "community_area": "15", 
+    "_id": {
+        "$oid": "5214dd5a733824919a29a4e3"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1622", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "460", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77939973193442, 
+            41.962854455729406
+        ]
+    }, 
+    "case_number": "HW400665", 
+    "date": {
+        "$date": 1376071200000
+    }, 
+    "updated_on": {
+        "$date": 1376354397000
+    }, 
+    "ward": "38", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9256569", 
+    "block": "045XX N MEADE AVE", 
+    "description": "SIMPLE"
+}
