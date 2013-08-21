@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "5214dd5d733824919a29a660"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2513", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77758978836307, 
+            41.911740018221145
+        ]
+    }, 
+    "case_number": "HW400017", 
+    "date": {
+        "$date": 1376027700000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "29", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9256345", 
+    "block": "017XX N MEADE AVE", 
+    "description": "OVER $500"
+}
