@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1845508", 
+    "year": "2013", 
+    "domestic": true, 
+    "case_number": "HW398779", 
+    "id": "9253935", 
+    "primary_type": "ROBBERY", 
+    "district": "006", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60548960875829, 
+            41.731275467301344
+        ]
+    }, 
+    "community_area": "44", 
+    "latitude": "41.731275467301344", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0633", 
+    "date": {
+        "$date": 1375968000000
+    }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "5214dd62733824919a29a82a"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.60548960875829", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1182918", 
+    "updated_on": {
+        "$date": 1376181721000
+    }, 
+    "fbi_code": "03", 
+    "block": "007XX E 90TH ST"
+}
