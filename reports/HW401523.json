@@ -1,15 +1,12 @@
 {
-    "community_area": "32", 
-    "_id": {
-        "$oid": "520ba2cb733824919a298b48"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0111", 
+    "y_coordinate": "1901333", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1130", 
+    "case_number": "HW401523", 
+    "id": "9256858", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "BANK", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.884594218182094
         ]
     }, 
-    "case_number": "HW401523", 
+    "community_area": "32", 
+    "latitude": "41.884594218182094", 
+    "type": null, 
+    "description": "FRAUD OR CONFIDENCE GAME", 
+    "beat": "0111", 
     "date": {
         "$date": 1375688220000
     }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "520ba2cb733824919a298b48"
+    }, 
+    "iucr": "1130", 
+    "longitude": "-87.62460729285465", 
+    "location_description": "BANK", 
+    "x_coordinate": "1177239", 
     "updated_on": {
         "$date": 1376527473000
     }, 
-    "ward": "42", 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9256858", 
-    "block": "001XX N MICHIGAN AVE", 
-    "description": "FRAUD OR CONFIDENCE GAME"
+    "block": "001XX N MICHIGAN AVE"
 }
