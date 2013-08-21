@@ -6,7 +6,7 @@
     "id": "9248855", 
     "primary_type": "MOTOR VEHICLE THEFT", 
     "district": "003", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "STREET", 
     "x_coordinate": "1185671", 
     "updated_on": {
-        "$date": 1375922568000
+        "$date": 1377045742000
     }, 
     "fbi_code": "07", 
     "block": "062XX S KIMBARK AVE"
