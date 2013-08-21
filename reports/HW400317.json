@@ -1,0 +1,33 @@
+{
+    "community_area": "2", 
+    "_id": {
+        "$oid": "5214dd5c733824919a29a59c"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2413", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70307999578303, 
+            41.995994981231014
+        ]
+    }, 
+    "case_number": "HW400317", 
+    "date": {
+        "$date": 1376053200000
+    }, 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
+    "ward": "50", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9255913", 
+    "block": "063XX N RICHMOND ST", 
+    "description": "OVER $500"
+}
