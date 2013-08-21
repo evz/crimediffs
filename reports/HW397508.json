@@ -1,0 +1,33 @@
+{
+    "community_area": "68", 
+    "_id": {
+        "$oid": "5214dd6a733824919a29aa8a"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "0732", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "PARK PROPERTY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63775052956426, 
+            41.76359190429437
+        ]
+    }, 
+    "case_number": "HW397508", 
+    "date": {
+        "$date": 1375886700000
+    }, 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "ward": "17", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9252826", 
+    "block": "005XX W 72ND ST", 
+    "description": "SIMPLE"
+}
