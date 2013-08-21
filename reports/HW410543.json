@@ -1,33 +1,38 @@
 {
-    "community_area": "64", 
-    "_id": {
-        "$oid": "52123a30733824919a29953d"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0812", 
+    "y_coordinate": "1862780", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2825", 
+    "case_number": "HW410543", 
+    "id": "9265987", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.78883261062221, 
-            41.78007997696371
+            -87.78852061232193, 
+            41.77968880725793
         ]
     }, 
-    "case_number": "HW410543", 
+    "community_area": "64", 
+    "latitude": "41.77968880725793", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "0812", 
     "date": {
         "$date": 1375488060000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "23", 
+    "_id": {
+        "$oid": "52123a30733824919a29953d"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.78852061232193", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1132847", 
+    "updated_on": {
+        "$date": 1376959223000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9265987", 
-    "block": "061XX S NORMANDY AVE", 
-    "description": "HARASSMENT BY TELEPHONE"
+    "block": "061XX S NORMANDY AVE"
 }
