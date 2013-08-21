@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1894782", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW400136", 
+    "id": "9255538", 
+    "primary_type": "ROBBERY", 
+    "district": "012", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67323125210288, 
+            41.866906442058315
+        ]
+    }, 
+    "community_area": "28", 
+    "latitude": "41.866906442058315", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "1231", 
+    "date": {
+        "$date": 1376051340000
+    }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "5214dd5c733824919a29a5b8"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.67323125210288", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1164048", 
+    "updated_on": {
+        "$date": 1376268035000
+    }, 
+    "fbi_code": "03", 
+    "block": "018XX W ROOSEVELT RD"
+}
