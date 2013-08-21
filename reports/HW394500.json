@@ -4,7 +4,7 @@
     "domestic": false, 
     "case_number": "HW394500", 
     "id": "9250075", 
-    "primary_type": "BURGLARY", 
+    "primary_type": "THEFT", 
     "district": "012", 
     "arrest": false, 
     "location": {
@@ -17,7 +17,7 @@
     "community_area": "24", 
     "latitude": "41.89165197480628", 
     "type": "property", 
-    "description": "UNLAWFUL ENTRY", 
+    "description": "FROM BUILDING", 
     "beat": "1221", 
     "date": {
         "$date": 1375785000000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "520ba2b9733824919a2987e1"
     }, 
-    "iucr": "620", 
+    "iucr": "890", 
     "longitude": "-87.67717815973946", 
     "location_description": "RESIDENCE-GARAGE", 
     "x_coordinate": "1162904", 
     "updated_on": {
-        "$date": 1375922568000
+        "$date": 1376786529000
     }, 
-    "fbi_code": "05", 
+    "fbi_code": "06", 
     "block": "020XX W RACE AVE"
 }
