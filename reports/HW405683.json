@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1891497", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW405683", 
+    "id": "9260811", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66871001776269, 
+            41.857865492606166
+        ]
+    }, 
+    "community_area": "31", 
+    "latitude": "41.857865492606166", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "1234", 
+    "date": {
+        "$date": 1376385960000
+    }, 
+    "ward": "25", 
+    "_id": {
+        "$oid": "5214dd37733824919a299860"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.66871001776269", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1165305", 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
+    "fbi_code": "06", 
+    "block": "017XX W 18TH ST"
+}
