@@ -1,0 +1,33 @@
+{
+    "community_area": "50", 
+    "_id": {
+        "$oid": "5214dd5d733824919a29a617"
+    }, 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "beat": "0531", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1170", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60851851850566, 
+            41.690601817088094
+        ]
+    }, 
+    "case_number": "HW412944", 
+    "date": {
+        "$date": 1376041500000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "9", 
+    "fbi_code": "11", 
+    "type": null, 
+    "id": "9268364", 
+    "block": "112XX S ST LAWRENCE AVE", 
+    "description": "IMPERSONATION"
+}
