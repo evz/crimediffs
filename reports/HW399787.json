@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "5214dd5d733824919a29a635"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "0324", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58258691766152, 
+            41.765692591916746
+        ]
+    }, 
+    "case_number": "HW399787", 
+    "date": {
+        "$date": 1376036100000
+    }, 
+    "updated_on": {
+        "$date": 1376613678000
+    }, 
+    "ward": "5", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9255439", 
+    "block": "071XX S RIDGELAND AVE", 
+    "description": "SIMPLE"
+}
