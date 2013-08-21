@@ -1,0 +1,33 @@
+{
+    "community_area": "4", 
+    "_id": {
+        "$oid": "5214dd78733824919a29abcf"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2032", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67637589894997, 
+            41.96952566316894
+        ]
+    }, 
+    "case_number": "HW416492", 
+    "date": {
+        "$date": 1375380000000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "47", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9271723", 
+    "block": "048XX N WOLCOTT AVE", 
+    "description": "FROM BUILDING"
+}
