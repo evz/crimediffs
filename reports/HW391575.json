@@ -6,7 +6,7 @@
     "id": "9245998", 
     "primary_type": "MOTOR VEHICLE THEFT", 
     "district": "014", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "STREET", 
     "x_coordinate": "1158243", 
     "updated_on": {
-        "$date": 1375836149000
+        "$date": 1376872937000
     }, 
     "fbi_code": "07", 
     "block": "026XX W FLETCHER ST"
