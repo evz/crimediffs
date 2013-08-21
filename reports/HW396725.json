@@ -4,7 +4,7 @@
     "domestic": false, 
     "case_number": "HW396725", 
     "id": "9251184", 
-    "primary_type": "BATTERY", 
+    "primary_type": "ROBBERY", 
     "district": "004", 
     "arrest": false, 
     "location": {
@@ -16,8 +16,8 @@
     }, 
     "community_area": "55", 
     "latitude": "41.65167172491868", 
-    "type": null, 
-    "description": "SIMPLE", 
+    "type": "violent", 
+    "description": "VEHICULAR HIJACKING", 
     "beat": "0433", 
     "date": {
         "$date": 1375835400000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "520ba2a8733824919a29856e"
     }, 
-    "iucr": "460", 
+    "iucr": "325", 
     "longitude": "-87.54730696149984", 
     "location_description": "SIDEWALK", 
     "x_coordinate": "1199064", 
     "updated_on": {
-        "$date": 1376440911000
+        "$date": 1376786529000
     }, 
-    "fbi_code": "08B", 
+    "fbi_code": "03", 
     "block": "134XX S BALTIMORE AVE"
 }
