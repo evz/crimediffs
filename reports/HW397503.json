@@ -1,0 +1,33 @@
+{
+    "community_area": "68", 
+    "_id": {
+        "$oid": "5214dd6a733824919a29aa7f"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0732", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64018066832557, 
+            41.7629150281455
+        ]
+    }, 
+    "case_number": "HW397503", 
+    "date": {
+        "$date": 1375887600000
+    }, 
+    "updated_on": {
+        "$date": 1376181721000
+    }, 
+    "ward": "17", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9252817", 
+    "block": "072XX S LOWE AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
