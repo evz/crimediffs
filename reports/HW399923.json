@@ -1,0 +1,33 @@
+{
+    "community_area": "70", 
+    "_id": {
+        "$oid": "5214dd5d733824919a29a614"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "0835", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "340", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70075857637339, 
+            41.751362479767
+        ]
+    }, 
+    "case_number": "HW399923", 
+    "date": {
+        "$date": 1376041920000
+    }, 
+    "updated_on": {
+        "$date": 1376268035000
+    }, 
+    "ward": "18", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9256316", 
+    "block": "031XX W COLUMBUS AVE", 
+    "description": "ATTEMPT: STRONGARM-NO WEAPON"
+}
