@@ -1,33 +1,38 @@
 {
-    "community_area": "46", 
-    "_id": {
-        "$oid": "520ba2be733824919a2988b3"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0424", 
+    "y_coordinate": "1847130", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW401975", 
+    "id": "9257099", 
+    "primary_type": "BURGLARY", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.54593048579605, 
-            41.73518308885536
+            -87.54593596936134, 
+            41.73533406322351
         ]
     }, 
-    "case_number": "HW401975", 
+    "community_area": "46", 
+    "latitude": "41.73533406322351", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0424", 
     "date": {
         "$date": 1375749000000
     }, 
+    "ward": "7", 
+    "_id": {
+        "$oid": "520ba2be733824919a2988b3"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.54593596936134", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1199160", 
     "updated_on": {
         "$date": 1376354397000
     }, 
-    "ward": "7", 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9257099", 
-    "block": "088XX S BURLEY AVE", 
-    "description": "FORCIBLE ENTRY"
+    "block": "088XX S BURLEY AVE"
 }
