@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1901900", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW397542", 
+    "id": "9252486", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70090995093359, 
+            41.886595759309145
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.886595759309145", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1222", 
+    "date": {
+        "$date": 1375869600000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "5214dd6b733824919a29ab49"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.70090995093359", 
+    "location_description": "STREET", 
+    "x_coordinate": "1156456", 
+    "updated_on": {
+        "$date": 1376095237000
+    }, 
+    "fbi_code": "06", 
+    "block": "029XX W FULTON ST"
+}
