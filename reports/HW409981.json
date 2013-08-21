@@ -1,33 +1,38 @@
 {
-    "community_area": "22", 
-    "_id": {
-        "$oid": "52123a28733824919a2994f0"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "1414", 
+    "y_coordinate": "1914973", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1305", 
+    "case_number": "HW409981", 
+    "id": "9265562", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70274199008718, 
-            41.92248671765197
+            -87.70326379816719, 
+            41.92248409370943
         ]
     }, 
-    "case_number": "HW409981", 
+    "community_area": "22", 
+    "latitude": "41.92248409370943", 
+    "type": "quality", 
+    "description": "CRIMINAL DEFACEMENT", 
+    "beat": "1414", 
     "date": {
         "$date": 1376060400000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "35", 
+    "_id": {
+        "$oid": "52123a28733824919a2994f0"
+    }, 
+    "iucr": "1305", 
+    "longitude": "-87.70326379816719", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1155719", 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9265562", 
-    "block": "030XX W LYNDALE ST", 
-    "description": "CRIMINAL DEFACEMENT"
+    "block": "030XX W LYNDALE ST"
 }
