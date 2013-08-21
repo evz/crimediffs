@@ -1,0 +1,33 @@
+{
+    "community_area": "54", 
+    "_id": {
+        "$oid": "5214dd79733824919a29abd6"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0533", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60958468748433, 
+            41.65197920532421
+        ]
+    }, 
+    "case_number": "HW415277", 
+    "date": {
+        "$date": 1375347600000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "9", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9270207", 
+    "block": "005XX E 134TH ST", 
+    "description": "FROM BUILDING"
+}
