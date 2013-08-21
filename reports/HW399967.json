@@ -1,0 +1,33 @@
+{
+    "community_area": "51", 
+    "_id": {
+        "$oid": "5214dd5c733824919a29a610"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0434", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56413610840393, 
+            41.70138393427925
+        ]
+    }, 
+    "case_number": "HW399967", 
+    "date": {
+        "$date": 1376042400000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "10", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9256683", 
+    "block": "106XX S YATES AVE", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
