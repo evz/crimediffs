@@ -1,0 +1,33 @@
+{
+    "community_area": "9", 
+    "_id": {
+        "$oid": "5214dd60733824919a29a74a"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1612", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "620", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.82082669828915, 
+            42.004141323741656
+        ]
+    }, 
+    "case_number": "HW399617", 
+    "date": {
+        "$date": 1375992000000
+    }, 
+    "updated_on": {
+        "$date": 1376181721000
+    }, 
+    "ward": "41", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9254834", 
+    "block": "068XX N OLMSTED AVE", 
+    "description": "UNLAWFUL ENTRY"
+}
