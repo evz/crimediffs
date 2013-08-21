@@ -1,0 +1,33 @@
+{
+    "community_area": "29", 
+    "_id": {
+        "$oid": "5214dd47733824919a299c2a"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "1134", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1812", 
+    "arrest": false, 
+    "location_description": "POLICE FACILITY/VEH PARKING LOT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70975500271712, 
+            41.8682851027778
+        ]
+    }, 
+    "case_number": "HW404211", 
+    "date": {
+        "$date": 1376287200000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "24", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9271366", 
+    "block": "033XX W FILLMORE ST", 
+    "description": "POSS: CANNABIS MORE THAN 30GMS"
+}
