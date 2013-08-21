@@ -1,33 +1,38 @@
 {
-    "community_area": "61", 
-    "_id": {
-        "$oid": "52123a27733824919a2994cd"
-    }, 
-    "primary_type": "INTIMIDATION", 
-    "beat": "0924", 
+    "y_coordinate": "1873844", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "3960", 
+    "case_number": "HW410055", 
+    "id": "9265504", 
+    "primary_type": "INTIMIDATION", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67123894349852, 
-            41.8101819886881
+            -87.67092386009233, 
+            41.80943372833604
         ]
     }, 
-    "case_number": "HW410055", 
+    "community_area": "61", 
+    "latitude": "41.80943372833604", 
+    "type": null, 
+    "description": "INTIMIDATION", 
+    "beat": "0924", 
     "date": {
         "$date": 1376074800000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "20", 
+    "_id": {
+        "$oid": "52123a27733824919a2994cd"
+    }, 
+    "iucr": "3960", 
+    "longitude": "-87.67092386009233", 
+    "location_description": "STREET", 
+    "x_coordinate": "1164838", 
+    "updated_on": {
+        "$date": 1376959223000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9265504", 
-    "block": "046XX S HONORE ST", 
-    "description": "INTIMIDATION"
+    "block": "046XX S HONORE ST"
 }
