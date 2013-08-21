@@ -4,7 +4,7 @@
     "domestic": false, 
     "case_number": "HW384957", 
     "id": "9238360", 
-    "primary_type": "THEFT", 
+    "primary_type": "BURGLARY", 
     "district": "010", 
     "arrest": false, 
     "location": {
@@ -17,7 +17,7 @@
     "community_area": "29", 
     "latitude": "41.85664315626182", 
     "type": "property", 
-    "description": "OVER $500", 
+    "description": "UNLAWFUL ENTRY", 
     "beat": "1021", 
     "date": {
         "$date": 1375048800000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "520116c5733824919a29704d"
     }, 
-    "iucr": "810", 
+    "iucr": "620", 
     "longitude": "-87.71163007114183", 
     "location_description": "APARTMENT", 
     "x_coordinate": "1153616", 
     "updated_on": {
-        "$date": 1375317661000
+        "$date": 1377045742000
     }, 
-    "fbi_code": "06", 
+    "fbi_code": "05", 
     "block": "018XX S TRUMBULL AVE"
 }
