@@ -1,33 +1,38 @@
 {
-    "community_area": "22", 
-    "_id": {
-        "$oid": "52123a32733824919a299541"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2525", 
+    "y_coordinate": "1913986", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW408843", 
+    "id": "9265255", 
+    "primary_type": "THEFT", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "RESIDENCE-GARAGE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72042830254637, 
-            41.92009621484362
+            -87.72089342959322, 
+            41.91987092558965
         ]
     }, 
-    "case_number": "HW408843", 
+    "community_area": "22", 
+    "latitude": "41.91987092558965", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2525", 
     "date": {
         "$date": 1375351200000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "26", 
+    "_id": {
+        "$oid": "52123a32733824919a299541"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.72089342959322", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1150928", 
+    "updated_on": {
+        "$date": 1376786529000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9265255", 
-    "block": "037XX W SHAKESPEARE AVE", 
-    "description": "$500 AND UNDER"
+    "block": "037XX W SHAKESPEARE AVE"
 }
