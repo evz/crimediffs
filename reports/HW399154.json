@@ -1,0 +1,33 @@
+{
+    "community_area": "10", 
+    "_id": {
+        "$oid": "5214dd61733824919a29a7a0"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1613", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.79005500037924, 
+            41.98062472687211
+        ]
+    }, 
+    "case_number": "HW399154", 
+    "date": {
+        "$date": 1375984320000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "41", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9254819", 
+    "block": "054XX N NEENAH AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
