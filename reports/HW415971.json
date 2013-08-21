@@ -1,0 +1,33 @@
+{
+    "community_area": "53", 
+    "_id": {
+        "$oid": "5214dd33733824919a2997b8"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0532", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.61662030552246, 
+            41.68307278099102
+        ]
+    }, 
+    "case_number": "HW415971", 
+    "date": {
+        "$date": 1376398800000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "9", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9271509", 
+    "block": "115XX S PRAIRIE AVE", 
+    "description": "TO PROPERTY"
+}
