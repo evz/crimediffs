@@ -6,7 +6,7 @@
     "id": "9252764", 
     "primary_type": "THEFT", 
     "district": "019", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "DEPARTMENT STORE", 
     "x_coordinate": "1171640", 
     "updated_on": {
-        "$date": 1376009150000
+        "$date": 1376700033000
     }, 
     "fbi_code": "06", 
     "block": "028XX N BROADWAY"
