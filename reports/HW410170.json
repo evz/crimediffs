@@ -1,33 +1,38 @@
 {
-    "community_area": "72", 
-    "_id": {
-        "$oid": "52123a32733824919a299544"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "2211", 
+    "y_coordinate": "1834022", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2826", 
+    "case_number": "HW410170", 
+    "id": "9265604", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "POOL ROOM", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.68283247693884, 
-            41.699611551077915
+            -87.68284833473643, 
+            41.70021813810539
         ]
     }, 
-    "case_number": "HW410170", 
+    "community_area": "72", 
+    "latitude": "41.70021813810539", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "2211", 
     "date": {
         "$date": 1375315260000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "19", 
+    "_id": {
+        "$oid": "52123a32733824919a299544"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.68284833473643", 
+    "location_description": "POOL ROOM", 
+    "x_coordinate": "1161888", 
+    "updated_on": {
+        "$date": 1376872937000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9265604", 
-    "block": "106XX S ARTESIAN AVE", 
-    "description": "HARASSMENT BY ELECTRONIC MEANS"
+    "block": "106XX S ARTESIAN AVE"
 }
