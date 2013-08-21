@@ -1,0 +1,33 @@
+{
+    "community_area": "68", 
+    "_id": {
+        "$oid": "5214dd34733824919a2997e2"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0732", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63736292787485, 
+            41.76791456973149
+        ]
+    }, 
+    "case_number": "HW414636", 
+    "date": {
+        "$date": 1376395200000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "6", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9270039", 
+    "block": "069XX S NORMAL BLVD", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
