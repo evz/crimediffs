@@ -1,0 +1,33 @@
+{
+    "community_area": "13", 
+    "_id": {
+        "$oid": "5214dd5c733824919a29a5c6"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "1711", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72626846557606, 
+            41.994308784158996
+        ]
+    }, 
+    "case_number": "HW400672", 
+    "date": {
+        "$date": 1376049600000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "39", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9256224", 
+    "block": "062XX N SPRINGFIELD AVE", 
+    "description": "FORCIBLE ENTRY"
+}
