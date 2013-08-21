@@ -1,0 +1,33 @@
+{
+    "community_area": "58", 
+    "_id": {
+        "$oid": "5214dd58733824919a29a3e2"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0911", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "430", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70308548643486, 
+            41.823637946031134
+        ]
+    }, 
+    "case_number": "HW401033", 
+    "date": {
+        "$date": 1376090760000
+    }, 
+    "updated_on": {
+        "$date": 1376440911000
+    }, 
+    "ward": "12", 
+    "fbi_code": "04B", 
+    "type": "violent", 
+    "id": "9257129", 
+    "block": "031XX W 38TH PL", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON"
+}
