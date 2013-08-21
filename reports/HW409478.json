@@ -1,33 +1,38 @@
 {
-    "community_area": "35", 
-    "_id": {
-        "$oid": "52123a2e733824919a299538"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "0212", 
+    "y_coordinate": "1881070", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW409478", 
+    "id": "9265773", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6172329341565, 
-            41.828025084013525
+            -87.61695488948784, 
+            41.82893993521416
         ]
     }, 
-    "case_number": "HW409478", 
+    "community_area": "35", 
+    "latitude": "41.82893993521416", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0212", 
     "date": {
         "$date": 1375705800000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "4", 
+    "_id": {
+        "$oid": "52123a2e733824919a299538"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.61695488948784", 
+    "location_description": "STREET", 
+    "x_coordinate": "1179492", 
+    "updated_on": {
+        "$date": 1376872937000
+    }, 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9265773", 
-    "block": "036XX S DR MARTIN LUTHER KING JR DR", 
-    "description": "AUTOMOBILE"
+    "block": "036XX S DR MARTIN LUTHER KING JR DR"
 }
