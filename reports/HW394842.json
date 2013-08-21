@@ -6,7 +6,7 @@
     "id": "9249048", 
     "primary_type": "ROBBERY", 
     "district": "016", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "HOSPITAL BUILDING/GROUNDS", 
     "x_coordinate": "1137916", 
     "updated_on": {
-        "$date": 1375922568000
+        "$date": 1376959223000
     }, 
     "fbi_code": "03", 
     "block": "056XX W ADDISON ST"
