@@ -1,33 +1,38 @@
 {
-    "community_area": "65", 
-    "_id": {
-        "$oid": "52123a32733824919a299543"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0833", 
+    "y_coordinate": "1857171", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW410151", 
+    "id": "9265655", 
+    "primary_type": "THEFT", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.74170553358252, 
-            41.76245631317243
+            -87.74174940572038, 
+            41.76406470184462
         ]
     }, 
-    "case_number": "HW410151", 
+    "community_area": "65", 
+    "latitude": "41.76406470184462", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0833", 
     "date": {
         "$date": 1375344000000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "13", 
+    "_id": {
+        "$oid": "52123a32733824919a299543"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.74174940572038", 
+    "location_description": "STREET", 
+    "x_coordinate": "1145643", 
+    "updated_on": {
+        "$date": 1376959223000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9265655", 
-    "block": "071XX S CICERO AVE", 
-    "description": "$500 AND UNDER"
+    "block": "071XX S CICERO AVE"
 }
