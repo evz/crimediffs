@@ -1,33 +1,38 @@
 {
-    "community_area": "27", 
-    "_id": {
-        "$oid": "52123a3e733824919a29954e"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "1133", 
+    "y_coordinate": "1897181", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "560", 
+    "case_number": "HW409963", 
+    "id": "9265513", 
+    "primary_type": "ASSAULT", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.71294439759036, 
-            41.87371129728311
+            -87.71294072605377, 
+            41.87371127744929
         ]
     }, 
-    "case_number": "HW409963", 
+    "community_area": "27", 
+    "latitude": "41.87371127744929", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1133", 
     "date": {
         "$date": 1374681600000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "24", 
+    "_id": {
+        "$oid": "52123a3e733824919a29954e"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.71294072605377", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1153214", 
+    "updated_on": {
+        "$date": 1376872937000
+    }, 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9265513", 
-    "block": "035XX W HARRISON ST", 
-    "description": "SIMPLE"
+    "block": "035XX W HARRISON ST"
 }
