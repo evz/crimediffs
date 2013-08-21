@@ -6,7 +6,7 @@
     "id": "9263705", 
     "primary_type": "ROBBERY", 
     "district": "011", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "SIDEWALK", 
     "x_coordinate": "1152166", 
     "updated_on": {
-        "$date": 1376700033000
+        "$date": 1376872937000
     }, 
     "fbi_code": "03", 
     "block": "009XX N CENTRAL PARK AVE"
