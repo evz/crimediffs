@@ -4,7 +4,7 @@
     "domestic": false, 
     "case_number": "HW376960", 
     "id": "9231569", 
-    "primary_type": "OTHER OFFENSE", 
+    "primary_type": "THEFT", 
     "district": "016", 
     "arrest": false, 
     "location": {
@@ -16,8 +16,8 @@
     }, 
     "community_area": "15", 
     "latitude": "41.94963634557134", 
-    "type": null, 
-    "description": "OTHER CRIME AGAINST PERSON", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
     "beat": "1634", 
     "date": {
         "$date": 1374667200000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "51fde73f733824919a293373"
     }, 
-    "iucr": "5000", 
+    "iucr": "840", 
     "longitude": "-87.74910559828164", 
     "location_description": "RESIDENCE", 
     "x_coordinate": "1143176", 
     "updated_on": {
-        "$date": 1374885634000
+        "$date": 1376959223000
     }, 
-    "fbi_code": "26", 
+    "fbi_code": "06", 
     "block": "048XX W GRACE ST"
 }
