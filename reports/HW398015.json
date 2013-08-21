@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "5214dd67733824919a29a994"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "0621", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "460", 
+    "arrest": false, 
+    "location_description": "ALLEY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63683575112789, 
+            41.74920896506286
+        ]
+    }, 
+    "case_number": "HW398015", 
+    "date": {
+        "$date": 1375910400000
+    }, 
+    "updated_on": {
+        "$date": 1376527473000
+    }, 
+    "ward": "17", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9253099", 
+    "block": "079XX S NORMAL AVE", 
+    "description": "SIMPLE"
+}
