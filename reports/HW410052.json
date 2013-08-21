@@ -1,33 +1,38 @@
 {
-    "community_area": "67", 
-    "_id": {
-        "$oid": "52123a2c733824919a29952e"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0726", 
+    "y_coordinate": "1860283", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW410052", 
+    "id": "9265538", 
+    "primary_type": "THEFT", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "CHURCH/SYNAGOGUE/PLACE OF WORSHIP", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67043294644924, 
-            41.77200429963436
+            -87.67088165351731, 
+            41.772218198645476
         ]
     }, 
-    "case_number": "HW410052", 
+    "community_area": "67", 
+    "latitude": "41.772218198645476", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0726", 
     "date": {
         "$date": 1375889400000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "15", 
+    "_id": {
+        "$oid": "52123a2c733824919a29952e"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.67088165351731", 
+    "location_description": "CHURCH/SYNAGOGUE/PLACE OF WORSHIP", 
+    "x_coordinate": "1164954", 
+    "updated_on": {
+        "$date": 1376872937000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9265538", 
-    "block": "018XX W MARQUETTE RD", 
-    "description": "FROM BUILDING"
+    "block": "018XX W MARQUETTE RD"
 }
