@@ -1,33 +1,38 @@
 {
-    "community_area": "60", 
-    "_id": {
-        "$oid": "52123a3c733824919a29954a"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0913", 
+    "y_coordinate": "1883436", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW410323", 
+    "id": "9265864", 
+    "primary_type": "THEFT", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65580930097082, 
-            41.83539420348942
+            -87.65610729101327, 
+            41.83567038743598
         ]
     }, 
-    "case_number": "HW410323", 
+    "community_area": "60", 
+    "latitude": "41.83567038743598", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0913", 
     "date": {
         "$date": 1374771600000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "11", 
+    "_id": {
+        "$oid": "52123a3c733824919a29954a"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.65610729101327", 
+    "location_description": "STREET", 
+    "x_coordinate": "1168802", 
+    "updated_on": {
+        "$date": 1376959223000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9265864", 
-    "block": "032XX S RACINE AVE", 
-    "description": "$500 AND UNDER"
+    "block": "032XX S RACINE AVE"
 }
