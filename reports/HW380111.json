@@ -6,7 +6,7 @@
     "id": "9253656", 
     "primary_type": "NARCOTICS", 
     "district": "003", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "RESIDENCE", 
     "x_coordinate": "1181422", 
     "updated_on": {
-        "$date": 1376095237000
+        "$date": 1377045742000
     }, 
     "fbi_code": "18", 
     "block": "066XX S ST LAWRENCE AVE"
