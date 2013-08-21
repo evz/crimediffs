@@ -1,33 +1,38 @@
 {
-    "community_area": "1", 
-    "_id": {
-        "$oid": "52123a33733824919a299545"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2422", 
+    "y_coordinate": "1950356", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "840", 
+    "case_number": "HW410306", 
+    "id": "9265848", 
+    "primary_type": "THEFT", 
+    "district": "024", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66470726067458, 
-            42.019158341784085
+            -87.66542267905915, 
+            42.01936832043067
         ]
     }, 
-    "case_number": "HW410306", 
+    "community_area": "1", 
+    "latitude": "42.01936832043067", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "2422", 
     "date": {
         "$date": 1375315260000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "49", 
+    "_id": {
+        "$oid": "52123a33733824919a299545"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.66542267905915", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1165742", 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9265848", 
-    "block": "013XX W HOWARD ST", 
-    "description": "FINANCIAL ID THEFT: OVER $300"
+    "block": "013XX W HOWARD ST"
 }
