@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "5214dd5d733824919a29a659"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0332", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.58143104789495, 
+            41.768308577062335
+        ]
+    }, 
+    "case_number": "HW400358", 
+    "date": {
+        "$date": 1376028000000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "5", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9255948", 
+    "block": "069XX S CREGIER AVE", 
+    "description": "FORCIBLE ENTRY"
+}
