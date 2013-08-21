@@ -1,33 +1,38 @@
 {
-    "community_area": "4", 
-    "_id": {
-        "$oid": "52123a2d733824919a299531"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "2011", 
+    "y_coordinate": "1936391", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2825", 
+    "case_number": "HW410316", 
+    "id": "9265819", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "020", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6944834743197, 
-            41.981208386856004
+            -87.6944797691974, 
+            41.9812111104361
         ]
     }, 
-    "case_number": "HW410316", 
+    "community_area": "4", 
+    "latitude": "41.9812111104361", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "2011", 
     "date": {
         "$date": 1375833600000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "40", 
+    "_id": {
+        "$oid": "52123a2d733824919a299531"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.6944797691974", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1157950", 
+    "updated_on": {
+        "$date": 1376959223000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9265819", 
-    "block": "026XX W CATALPA AVE", 
-    "description": "HARASSMENT BY TELEPHONE"
+    "block": "026XX W CATALPA AVE"
 }
