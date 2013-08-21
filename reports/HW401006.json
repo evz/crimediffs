@@ -1,0 +1,33 @@
+{
+    "community_area": "23", 
+    "_id": {
+        "$oid": "5214dd5c733824919a29a60c"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "1421", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "2825", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70696510986687, 
+            41.91260590696356
+        ]
+    }, 
+    "case_number": "HW401006", 
+    "date": {
+        "$date": 1376042400000
+    }, 
+    "updated_on": {
+        "$date": 1376786529000
+    }, 
+    "ward": "26", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9256763", 
+    "block": "017XX N KEDZIE AVE", 
+    "description": "HARASSMENT BY TELEPHONE"
+}
