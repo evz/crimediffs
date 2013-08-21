@@ -6,7 +6,7 @@
     "id": "9247261", 
     "primary_type": "BATTERY", 
     "district": "008", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "APARTMENT", 
     "x_coordinate": "1147843", 
     "updated_on": {
-        "$date": 1375836149000
+        "$date": 1376959223000
     }, 
     "fbi_code": "08B", 
     "block": "063XX S KENNETH AVE"
