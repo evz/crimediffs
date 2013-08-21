@@ -1,0 +1,33 @@
+{
+    "community_area": "55", 
+    "_id": {
+        "$oid": "5214dd5b733824919a29a579"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0433", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1320", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55297470239645, 
+            41.655626523959285
+        ]
+    }, 
+    "case_number": "HW401939", 
+    "date": {
+        "$date": 1376056800000
+    }, 
+    "updated_on": {
+        "$date": 1376959223000
+    }, 
+    "ward": "10", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9267230", 
+    "block": "029XX E 132ND ST", 
+    "description": "TO VEHICLE"
+}
