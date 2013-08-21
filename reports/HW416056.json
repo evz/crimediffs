@@ -1,0 +1,33 @@
+{
+    "community_area": "63", 
+    "_id": {
+        "$oid": "5214dd4d733824919a299edb"
+    }, 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "beat": "0923", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1365", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69009422085973, 
+            41.79722084506943
+        ]
+    }, 
+    "case_number": "HW416056", 
+    "date": {
+        "$date": 1376219700000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "14", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9271702", 
+    "block": "053XX S TALMAN AVE", 
+    "description": "TO RESIDENCE"
+}
