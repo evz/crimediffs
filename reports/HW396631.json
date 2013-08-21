@@ -6,7 +6,7 @@
     "id": "9251109", 
     "primary_type": "CRIMINAL DAMAGE", 
     "district": "025", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "RESIDENCE-GARAGE", 
     "x_coordinate": "1148983", 
     "updated_on": {
-        "$date": 1376009150000
+        "$date": 1376613678000
     }, 
     "fbi_code": "14", 
     "block": "022XX N KEYSTONE AVE"
