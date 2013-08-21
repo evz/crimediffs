@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "52123a28733824919a2994e8"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "1511", 
+    "y_coordinate": "1903735", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "5002", 
+    "case_number": "HW407417", 
+    "id": "9264403", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.77247932849698, 
-            41.892017009565336
+            -87.77334986035174, 
+            41.89200753665192
         ]
     }, 
-    "case_number": "HW407417", 
+    "community_area": "25", 
+    "latitude": "41.89200753665192", 
+    "type": null, 
+    "description": "OTHER VEHICLE OFFENSE", 
+    "beat": "1511", 
     "date": {
         "$date": 1376064000000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "29", 
+    "_id": {
+        "$oid": "52123a28733824919a2994e8"
+    }, 
+    "iucr": "5002", 
+    "longitude": "-87.77334986035174", 
+    "location_description": "STREET", 
+    "x_coordinate": "1136718", 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9264403", 
-    "block": "059XX W ERIE ST", 
-    "description": "OTHER VEHICLE OFFENSE"
+    "block": "059XX W ERIE ST"
 }
