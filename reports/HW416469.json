@@ -1,0 +1,33 @@
+{
+    "community_area": "51", 
+    "_id": {
+        "$oid": "5214dd27733824919a2995d3"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0434", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.5842222, 
+            41.7067962
+        ]
+    }, 
+    "case_number": "HW416469", 
+    "date": {
+        "$date": 1376438400000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "10", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9271715", 
+    "block": "103XX S DOTY AVE E", 
+    "description": "OVER $500"
+}
