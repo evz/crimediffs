@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "5214dd5c733824919a29a5d9"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "1513", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77336661262447, 
+            41.87999604256778
+        ]
+    }, 
+    "case_number": "HW400044", 
+    "date": {
+        "$date": 1376048100000
+    }, 
+    "updated_on": {
+        "$date": 1376354397000
+    }, 
+    "ward": "29", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9256417", 
+    "block": "059XX W MADISON ST", 
+    "description": "SIMPLE"
+}
