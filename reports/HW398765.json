@@ -1,0 +1,33 @@
+{
+    "community_area": "22", 
+    "_id": {
+        "$oid": "5214dd62733824919a29a81b"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1414", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "486", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70238768695741, 
+            41.92264393650442
+        ]
+    }, 
+    "case_number": "HW398765", 
+    "date": {
+        "$date": 1375969200000
+    }, 
+    "updated_on": {
+        "$date": 1376268035000
+    }, 
+    "ward": "35", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9254843", 
+    "block": "022XX N SACRAMENTO AVE", 
+    "description": "DOMESTIC BATTERY SIMPLE"
+}
