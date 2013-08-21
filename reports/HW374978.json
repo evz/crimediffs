@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "51fde747733824919a293781"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "0332", 
+    "y_coordinate": "1859251", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "320", 
+    "case_number": "HW374978", 
+    "id": "9229932", 
+    "primary_type": "ROBBERY", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "ALLEY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.58299298478074, 
-            41.76859321809351
+            -87.58299737375647, 
+            41.76884572164702
         ]
     }, 
-    "case_number": "HW374978", 
+    "community_area": "43", 
+    "latitude": "41.76884572164702", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0332", 
     "date": {
         "$date": 1374557100000
     }, 
-    "updated_on": {
-        "$date": 1374799275000
-    }, 
     "ward": "5", 
+    "_id": {
+        "$oid": "51fde747733824919a293781"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.58299737375647", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1188938", 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9229932", 
-    "block": "069XX S EAST END AVE", 
-    "description": "STRONGARM - NO WEAPON"
+    "block": "069XX S EAST END AVE"
 }
