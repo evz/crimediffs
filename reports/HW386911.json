@@ -6,7 +6,7 @@
     "id": "9241387", 
     "primary_type": "BATTERY", 
     "district": "006", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "RESIDENCE-GARAGE", 
     "x_coordinate": "1183373", 
     "updated_on": {
-        "$date": 1376700033000
+        "$date": 1376872937000
     }, 
     "fbi_code": "04B", 
     "block": "082XX S MARYLAND AVE"
