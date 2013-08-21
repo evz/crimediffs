@@ -1,33 +1,38 @@
 {
-    "community_area": "16", 
-    "_id": {
-        "$oid": "52123a2f733824919a29953c"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1733", 
+    "y_coordinate": "1924974", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW410164", 
+    "id": "9265539", 
+    "primary_type": "THEFT", 
+    "district": "017", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.71048297108052, 
-            41.94905461399263
+            -87.71020941020623, 
+            41.949966953193815
         ]
     }, 
-    "case_number": "HW410164", 
+    "community_area": "16", 
+    "latitude": "41.949966953193815", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1733", 
     "date": {
         "$date": 1375552800000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "33", 
+    "_id": {
+        "$oid": "52123a2f733824919a29953c"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.71020941020623", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1153756", 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9265539", 
-    "block": "037XX N SPAULDING AVE", 
-    "description": "$500 AND UNDER"
+    "block": "037XX N SPAULDING AVE"
 }
