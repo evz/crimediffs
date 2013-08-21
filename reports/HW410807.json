@@ -1,33 +1,38 @@
 {
-    "community_area": "24", 
-    "_id": {
-        "$oid": "52123a2e733824919a299537"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "1215", 
+    "y_coordinate": "1903724", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW410807", 
+    "id": "9266160", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6713842202647, 
-            41.891846494725435
+            -87.67107997832709, 
+            41.891433104558075
         ]
     }, 
-    "case_number": "HW410807", 
+    "community_area": "24", 
+    "latitude": "41.891433104558075", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1215", 
     "date": {
         "$date": 1375714800000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "26", 
+    "_id": {
+        "$oid": "52123a2e733824919a299537"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.67107997832709", 
+    "location_description": "STREET", 
+    "x_coordinate": "1164565", 
+    "updated_on": {
+        "$date": 1376872937000
+    }, 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9266160", 
-    "block": "005XX N HARTLAND CT", 
-    "description": "AUTOMOBILE"
+    "block": "005XX N HARTLAND CT"
 }
