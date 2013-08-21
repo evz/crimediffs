@@ -1,33 +1,38 @@
 {
-    "community_area": "24", 
-    "_id": {
-        "$oid": "52123a2d733824919a29952f"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "1423", 
+    "y_coordinate": "1908587", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2825", 
+    "case_number": "HW410546", 
+    "id": "9265989", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69401280882778, 
-            41.90466680591253
+            -87.69258515568481, 
+            41.90490034123078
         ]
     }, 
-    "case_number": "HW410546", 
+    "community_area": "24", 
+    "latitude": "41.90490034123078", 
+    "type": null, 
+    "description": "HARASSMENT BY TELEPHONE", 
+    "beat": "1423", 
     "date": {
         "$date": 1375876800000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "26", 
+    "_id": {
+        "$oid": "52123a2d733824919a29952f"
+    }, 
+    "iucr": "2825", 
+    "longitude": "-87.69258515568481", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1158673", 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9265989", 
-    "block": "026XX W POTOMAC AVE", 
-    "description": "HARASSMENT BY TELEPHONE"
+    "block": "026XX W POTOMAC AVE"
 }
