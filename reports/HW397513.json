@@ -1,0 +1,33 @@
+{
+    "community_area": "67", 
+    "_id": {
+        "$oid": "5214dd6a733824919a29aa71"
+    }, 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "beat": "0725", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1310", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66428651451807, 
+            41.776463825703004
+        ]
+    }, 
+    "case_number": "HW397513", 
+    "date": {
+        "$date": 1375888800000
+    }, 
+    "updated_on": {
+        "$date": 1376700033000
+    }, 
+    "ward": "17", 
+    "fbi_code": "14", 
+    "type": "quality", 
+    "id": "9252844", 
+    "block": "064XX S ASHLAND AVE", 
+    "description": "TO PROPERTY"
+}
