@@ -1,0 +1,33 @@
+{
+    "community_area": "32", 
+    "_id": {
+        "$oid": "52162ed3733824919a29ac18"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0113", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "841", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63061332612041, 
+            41.87572057079376
+        ]
+    }, 
+    "case_number": "HW415659", 
+    "date": {
+        "$date": 1374235200000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "2", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9270934", 
+    "block": "0000X W CONGRESS PKWY", 
+    "description": "FINANCIAL ID THEFT:$300 &UNDER"
+}
