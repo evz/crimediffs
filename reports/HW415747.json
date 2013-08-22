@@ -1,0 +1,33 @@
+{
+    "community_area": "22", 
+    "_id": {
+        "$oid": "52162ed1733824919a29ac16"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1421", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.7053172132931, 
+            41.913930602743996
+        ]
+    }, 
+    "case_number": "HW415747", 
+    "date": {
+        "$date": 1374310800000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "26", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9271068", 
+    "block": "018XX N ALBANY AVE", 
+    "description": "$500 AND UNDER"
+}
