@@ -1,0 +1,33 @@
+{
+    "community_area": "29", 
+    "_id": {
+        "$oid": "52162ed4733824919a29ac1a"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "1012", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2023", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72986712071803, 
+            41.854610881646195
+        ]
+    }, 
+    "case_number": "HW369202", 
+    "date": {
+        "$date": 1374221520000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "24", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9271107", 
+    "block": "019XX S KEELER AVE", 
+    "description": "POSS: HEROIN(BRN/TAN)"
+}
