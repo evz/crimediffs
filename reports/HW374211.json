@@ -1,15 +1,12 @@
 {
-    "community_area": "76", 
-    "_id": {
-        "$oid": "52123a42733824919a299556"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "1652", 
+    "y_coordinate": "1934276", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "5007", 
+    "case_number": "HW374211", 
+    "id": "9265147", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "AIRPORT TERMINAL UPPER LEVEL - SECURE AREA", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.97638602024398
         ]
     }, 
-    "case_number": "HW374211", 
+    "community_area": "76", 
+    "latitude": "41.97638602024398", 
+    "type": null, 
+    "description": "OTHER WEAPONS VIOLATION", 
+    "beat": "1652", 
     "date": {
         "$date": 1374511200000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "41", 
+    "_id": {
+        "$oid": "52123a42733824919a299556"
+    }, 
+    "iucr": "5007", 
+    "longitude": "-87.90510889675487", 
+    "location_description": "AIRPORT TERMINAL UPPER LEVEL - SECURE AREA", 
+    "x_coordinate": "1100690", 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9265147", 
-    "block": "0000X W CHECKPOINT 5 ST", 
-    "description": "OTHER WEAPONS VIOLATION"
+    "block": "0000X W CHECKPOINT 5 ST"
 }
