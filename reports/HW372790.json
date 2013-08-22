@@ -1,0 +1,33 @@
+{
+    "community_area": "26", 
+    "_id": {
+        "$oid": "52162ecd733824919a29ac12"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "1115", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2014", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.73236998095999, 
+            41.880538005650365
+        ]
+    }, 
+    "case_number": "HW372790", 
+    "date": {
+        "$date": 1374427560000
+    }, 
+    "updated_on": {
+        "$date": 1377045742000
+    }, 
+    "ward": "28", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9271127", 
+    "block": "042XX W MADISON ST", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)"
+}
