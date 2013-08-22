@@ -1,33 +1,38 @@
 {
-    "community_area": "7", 
-    "_id": {
-        "$oid": "52123a4a733824919a299558"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1935", 
+    "y_coordinate": "1917356", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW409897", 
+    "id": "9265256", 
+    "primary_type": "THEFT", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "BAR OR TAVERN", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64895609999999, 
-            41.9276227
+            -87.6490237757018, 
+            41.92871313236282
         ]
     }, 
-    "case_number": "HW409897", 
+    "community_area": "7", 
+    "latitude": "41.92871313236282", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1935", 
     "date": {
         "$date": 1374109200000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "43", 
+    "_id": {
+        "$oid": "52123a4a733824919a299558"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.6490237757018", 
+    "location_description": "BAR OR TAVERN", 
+    "x_coordinate": "1170462", 
+    "updated_on": {
+        "$date": 1376872937000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9265256", 
-    "block": "025XX N HALSTED ST", 
-    "description": "FROM BUILDING"
+    "block": "025XX N HALSTED ST"
 }
