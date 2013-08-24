@@ -1,15 +1,12 @@
 {
-    "community_area": "38", 
-    "_id": {
-        "$oid": "5214dd63733824919a29a8e0"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "0215", 
+    "y_coordinate": "1876277", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW399868", 
+    "id": "9270532", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.81585024729501
         ]
     }, 
-    "case_number": "HW399868", 
+    "community_area": "38", 
+    "latitude": "41.81585024729501", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0215", 
     "date": {
         "$date": 1375948800000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "3", 
+    "_id": {
+        "$oid": "5214dd63733824919a29a8e0"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.62722560430602", 
+    "location_description": "STREET", 
+    "x_coordinate": "1176732", 
+    "updated_on": {
+        "$date": 1377132036000
+    }, 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9270532", 
-    "block": "043XX S DEARBORN ST", 
-    "description": "AUTOMOBILE"
+    "block": "043XX S DEARBORN ST"
 }
