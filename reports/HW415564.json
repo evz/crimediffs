@@ -1,33 +1,38 @@
 {
-    "community_area": "68", 
-    "_id": {
-        "$oid": "5214dd36733824919a29983a"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0712", 
+    "y_coordinate": "1864415", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW415564", 
+    "id": "9270744", 
+    "primary_type": "THEFT", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64902348478138, 
-            41.78343224338954
+            -87.6493204871087, 
+            41.783431267854546
         ]
     }, 
-    "case_number": "HW415564", 
+    "community_area": "68", 
+    "latitude": "41.783431267854546", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "0712", 
     "date": {
         "$date": 1376388000000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "16", 
+    "_id": {
+        "$oid": "5214dd36733824919a29983a"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.6493204871087", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1170803", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9270744", 
-    "block": "009XX W 61ST ST", 
-    "description": "FROM BUILDING"
+    "block": "009XX W 61ST ST"
 }
