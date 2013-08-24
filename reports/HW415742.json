@@ -1,33 +1,38 @@
 {
-    "community_area": "19", 
-    "_id": {
-        "$oid": "5214dd3c733824919a2999b4"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2522", 
+    "y_coordinate": "1913904", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW415742", 
+    "id": "9271169", 
+    "primary_type": "THEFT", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.74999762514702, 
-            41.91871896047559
+            -87.75002454523846, 
+            41.91979758021294
         ]
     }, 
-    "case_number": "HW415742", 
+    "community_area": "19", 
+    "latitude": "41.91979758021294", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "2522", 
     "date": {
         "$date": 1376341200000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "31", 
+    "_id": {
+        "$oid": "5214dd3c733824919a2999b4"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.75002454523846", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1143000", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9271169", 
-    "block": "021XX N LAPORTE AVE", 
-    "description": "OVER $500"
+    "block": "021XX N LAPORTE AVE"
 }
