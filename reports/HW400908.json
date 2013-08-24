@@ -1,33 +1,38 @@
 {
-    "community_area": "42", 
-    "_id": {
-        "$oid": "52123a27733824919a2994c3"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0321", 
+    "y_coordinate": "1860857", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "460", 
+    "case_number": "HW400908", 
+    "id": "9260233", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.60078482717748, 
-            41.77452868449768
+            -87.60105097015564, 
+            41.77336954608853
         ]
     }, 
-    "case_number": "HW400908", 
+    "community_area": "42", 
+    "latitude": "41.77336954608853", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0321", 
     "date": {
         "$date": 1376084400000
     }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "52123a27733824919a2994c3"
+    }, 
+    "iucr": "460", 
+    "longitude": "-87.60105097015564", 
+    "location_description": "STREET", 
+    "x_coordinate": "1183999", 
     "updated_on": {
         "$date": 1376613678000
     }, 
-    "ward": "5", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9260233", 
-    "block": "066XX S ELLIS AVE", 
-    "description": "SIMPLE"
+    "block": "066XX S ELLIS AVE"
 }
