@@ -1,33 +1,38 @@
 {
-    "community_area": "32", 
-    "_id": {
-        "$oid": "520e45af733824919a2992ed"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0123", 
+    "y_coordinate": "1897585", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "620", 
+    "case_number": "HW398343", 
+    "id": "9253997", 
+    "primary_type": "BURGLARY", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "HOTEL/MOTEL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62581886033244, 
-            41.87430254515019
+            -87.62529735514696, 
+            41.87431305232264
         ]
     }, 
-    "case_number": "HW398343", 
+    "community_area": "32", 
+    "latitude": "41.87431305232264", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "0123", 
     "date": {
         "$date": 1375898400000
     }, 
+    "ward": "2", 
+    "_id": {
+        "$oid": "520e45af733824919a2992ed"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.62529735514696", 
+    "location_description": "HOTEL/MOTEL", 
+    "x_coordinate": "1177082", 
     "updated_on": {
         "$date": 1377045742000
     }, 
-    "ward": "2", 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9253997", 
-    "block": "0000X E HARRISON ST", 
-    "description": "UNLAWFUL ENTRY"
+    "block": "0000X E HARRISON ST"
 }
