@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "5214dd5d733824919a29a635"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "0324", 
+    "y_coordinate": "1857788", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "560", 
+    "case_number": "HW399787", 
+    "id": "9255439", 
+    "primary_type": "ASSAULT", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.58258691766152, 
-            41.765692591916746
+            -87.58256034248079, 
+            41.764827965688134
         ]
     }, 
-    "case_number": "HW399787", 
+    "community_area": "43", 
+    "latitude": "41.764827965688134", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0324", 
     "date": {
         "$date": 1376036100000
     }, 
-    "updated_on": {
-        "$date": 1376613678000
-    }, 
     "ward": "5", 
+    "_id": {
+        "$oid": "5214dd5d733824919a29a635"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.58256034248079", 
+    "location_description": "STREET", 
+    "x_coordinate": "1189070", 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9255439", 
-    "block": "071XX S RIDGELAND AVE", 
-    "description": "SIMPLE"
+    "block": "071XX S RIDGELAND AVE"
 }
