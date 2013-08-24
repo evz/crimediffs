@@ -1,33 +1,38 @@
 {
-    "community_area": "13", 
-    "_id": {
-        "$oid": "5214dd79733824919a29abd9"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "1712", 
+    "y_coordinate": "1935740", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "560", 
+    "case_number": "HW416610", 
+    "id": "9271906", 
+    "primary_type": "ASSAULT", 
+    "district": "017", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.71032235569645, 
-            41.97950896264088
+            -87.71032232894828, 
+            41.97951170669648
         ]
     }, 
-    "case_number": "HW416610", 
+    "community_area": "13", 
+    "latitude": "41.97951170669648", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1712", 
     "date": {
         "$date": 1375344000000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "40", 
+    "_id": {
+        "$oid": "5214dd79733824919a29abd9"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.71032232894828", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1153647", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9271906", 
-    "block": "032XX W BALMORAL AVE", 
-    "description": "SIMPLE"
+    "block": "032XX W BALMORAL AVE"
 }
