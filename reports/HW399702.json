@@ -1,33 +1,38 @@
 {
-    "community_area": "35", 
-    "_id": {
-        "$oid": "520f972c733824919a2993b2"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0211", 
+    "y_coordinate": "1884484", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW399702", 
+    "id": "9256271", 
+    "primary_type": "BATTERY", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6087005979792, 
-            41.83825707297023
+            -87.60869692854833, 
+            41.83825704981977
         ]
     }, 
-    "case_number": "HW399702", 
+    "community_area": "35", 
+    "latitude": "41.83825704981977", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0211", 
     "date": {
         "$date": 1376002800000
     }, 
+    "ward": "4", 
+    "_id": {
+        "$oid": "520f972c733824919a2993b2"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.60869692854833", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1181714", 
     "updated_on": {
         "$date": 1376700033000
     }, 
-    "ward": "4", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9256271", 
-    "block": "031XX S LAKE SHORE DR SB", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "031XX S LAKE SHORE DR SB"
 }
