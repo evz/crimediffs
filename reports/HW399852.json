@@ -1,33 +1,38 @@
 {
-    "community_area": "7", 
-    "_id": {
-        "$oid": "5214dd5d733824919a29a65a"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1931", 
+    "y_coordinate": "1917596", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW399852", 
+    "id": "9256430", 
+    "primary_type": "THEFT", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67862471600662, 
-            41.9294510442601
+            -87.6786274366857, 
+            41.92954436334252
         ]
     }, 
-    "case_number": "HW399852", 
+    "community_area": "7", 
+    "latitude": "41.92954436334252", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1931", 
     "date": {
         "$date": 1376028000000
     }, 
+    "ward": "1", 
+    "_id": {
+        "$oid": "5214dd5d733824919a29a65a"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.6786274366857", 
+    "location_description": "STREET", 
+    "x_coordinate": "1162404", 
     "updated_on": {
         "$date": 1376613678000
     }, 
-    "ward": "1", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9256430", 
-    "block": "026XX N HOYNE AVE", 
-    "description": "OVER $500"
+    "block": "026XX N HOYNE AVE"
 }
