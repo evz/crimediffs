@@ -1,33 +1,38 @@
 {
-    "community_area": "22", 
-    "_id": {
-        "$oid": "520ba2b6733824919a298750"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1432", 
+    "y_coordinate": "1913431", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW395927", 
+    "id": "9255831", 
+    "primary_type": "THEFT", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "RESTAURANT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67752483073808, 
-            41.919151179355254
+            -87.67778166889694, 
+            41.91810983945121
         ]
     }, 
-    "case_number": "HW395927", 
+    "community_area": "22", 
+    "latitude": "41.91810983945121", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1432", 
     "date": {
         "$date": 1375797600000
     }, 
+    "ward": "32", 
+    "_id": {
+        "$oid": "520ba2b6733824919a298750"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.67778166889694", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1162666", 
     "updated_on": {
         "$date": 1376613678000
     }, 
-    "ward": "32", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9255831", 
-    "block": "020XX N DAMEN AVE", 
-    "description": "$500 AND UNDER"
+    "block": "020XX N DAMEN AVE"
 }
