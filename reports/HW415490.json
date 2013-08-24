@@ -1,33 +1,38 @@
 {
-    "community_area": "56", 
-    "_id": {
-        "$oid": "5214dd6e733824919a29abaa"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0811", 
+    "y_coordinate": "1869461", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1150", 
+    "case_number": "HW415490", 
+    "id": "9270932", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.78947582054144, 
-            41.79898024027701
+            -87.78944719901816, 
+            41.798027835823895
         ]
     }, 
-    "case_number": "HW415490", 
+    "community_area": "56", 
+    "latitude": "41.798027835823895", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "0811", 
     "date": {
         "$date": 1375779600000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "23", 
+    "_id": {
+        "$oid": "5214dd6e733824919a29abaa"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.78944719901816", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1132552", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9270932", 
-    "block": "051XX S NORMANDY AVE", 
-    "description": "CREDIT CARD FRAUD"
+    "block": "051XX S NORMANDY AVE"
 }
