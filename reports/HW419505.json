@@ -1,0 +1,33 @@
+{
+    "community_area": "57", 
+    "_id": {
+        "$oid": "5218d1b0733824919a29b3f1"
+    }, 
+    "primary_type": "LIQUOR LAW VIOLATION", 
+    "beat": "0815", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2250", 
+    "arrest": false, 
+    "location_description": "BAR OR TAVERN", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72915348094256, 
+            41.80092364652117
+        ]
+    }, 
+    "case_number": "HW419505", 
+    "date": {
+        "$date": 1376694000000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "23", 
+    "fbi_code": "22", 
+    "type": null, 
+    "id": "9276551", 
+    "block": "051XX S ARCHER AVE", 
+    "description": "LIQUOR LICENSE VIOLATION"
+}
