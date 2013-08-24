@@ -1,33 +1,38 @@
 {
-    "community_area": "39", 
-    "_id": {
-        "$oid": "5214dd43733824919a299b2c"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "0223", 
+    "y_coordinate": "1873330", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2024", 
+    "case_number": "HW404528", 
+    "id": "9269182", 
+    "primary_type": "NARCOTICS", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6056054665191, 
-            41.807616958412964
+            -87.60497450139252, 
+            41.80762393648578
         ]
     }, 
-    "case_number": "HW404528", 
+    "community_area": "39", 
+    "latitude": "41.80762393648578", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "0223", 
     "date": {
         "$date": 1376313000000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "4", 
+    "_id": {
+        "$oid": "5214dd43733824919a299b2c"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.60497450139252", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1182823", 
+    "updated_on": {
+        "$date": 1377132036000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9269182", 
-    "block": "008XX E 48TH ST", 
-    "description": "POSS: HEROIN(WHITE)"
+    "block": "008XX E 48TH ST"
 }
