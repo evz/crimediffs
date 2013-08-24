@@ -1,0 +1,33 @@
+{
+    "community_area": "71", 
+    "_id": {
+        "$oid": "5218d1d1733824919a29b6b0"
+    }, 
+    "primary_type": "ROBBERY", 
+    "beat": "0613", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "031A", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64429860743776, 
+            41.739797077056515
+        ]
+    }, 
+    "case_number": "HW402454", 
+    "date": {
+        "$date": 1376170200000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "21", 
+    "fbi_code": "03", 
+    "type": "violent", 
+    "id": "9275208", 
+    "block": "008XX W 85TH ST", 
+    "description": "ARMED: HANDGUN"
+}
