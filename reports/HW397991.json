@@ -1,33 +1,38 @@
 {
-    "community_area": "50", 
-    "_id": {
-        "$oid": "520e45ad733824919a2992ce"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "0511", 
+    "y_coordinate": "1841327", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1310", 
+    "case_number": "HW397991", 
+    "id": "9259498", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.59454773189019, 
-            41.71901265092815
+            -87.59486181191602, 
+            41.71973368070089
         ]
     }, 
-    "case_number": "HW397991", 
+    "community_area": "50", 
+    "latitude": "41.71973368070089", 
+    "type": "quality", 
+    "description": "TO PROPERTY", 
+    "beat": "0511", 
     "date": {
         "$date": 1375907820000
     }, 
+    "ward": "8", 
+    "_id": {
+        "$oid": "520e45ad733824919a2992ce"
+    }, 
+    "iucr": "1310", 
+    "longitude": "-87.59486181191602", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1185855", 
     "updated_on": {
         "$date": 1376613678000
     }, 
-    "ward": "8", 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9259498", 
-    "block": "096XX S WOODLAWN AVE", 
-    "description": "TO PROPERTY"
+    "block": "096XX S WOODLAWN AVE"
 }
