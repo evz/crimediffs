@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "520f973f733824919a299473"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "0331", 
+    "y_coordinate": "1859722", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "560", 
+    "case_number": "HW385607", 
+    "id": "9263618", 
+    "primary_type": "ASSAULT", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "RESIDENCE PORCH/HALLWAY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.57003579224155, 
-            41.77035477032166
+            -87.57002470863569, 
+            41.770052824712955
         ]
     }, 
-    "case_number": "HW385607", 
+    "community_area": "43", 
+    "latitude": "41.770052824712955", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0331", 
     "date": {
         "$date": 1375191000000
     }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "520f973f733824919a299473"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.57002470863569", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1192473", 
     "updated_on": {
         "$date": 1376700033000
     }, 
-    "ward": "5", 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9263618", 
-    "block": "068XX S CRANDON AVE", 
-    "description": "SIMPLE"
+    "block": "068XX S CRANDON AVE"
 }
