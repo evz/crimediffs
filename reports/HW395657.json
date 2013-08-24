@@ -1,33 +1,38 @@
 {
-    "community_area": "19", 
-    "_id": {
-        "$oid": "520ba2b9733824919a2987df"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2511", 
+    "y_coordinate": "1919613", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW395657", 
+    "id": "9251653", 
+    "primary_type": "THEFT", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "SCHOOL, PUBLIC, GROUNDS", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.7835532565411, 
-            41.935627070639775
+            -87.78355323297319, 
+            41.935629814752396
         ]
     }, 
-    "case_number": "HW395657", 
+    "community_area": "19", 
+    "latitude": "41.935629814752396", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2511", 
     "date": {
         "$date": 1375785000000
     }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "520ba2b9733824919a2987df"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.78355323297319", 
+    "location_description": "SCHOOL, PUBLIC, GROUNDS", 
+    "x_coordinate": "1133838", 
     "updated_on": {
         "$date": 1376613678000
     }, 
-    "ward": "36", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9251653", 
-    "block": "030XX N MOBILE AVE", 
-    "description": "$500 AND UNDER"
+    "block": "030XX N MOBILE AVE"
 }
