@@ -1,33 +1,38 @@
 {
-    "community_area": "44", 
-    "_id": {
-        "$oid": "5214dd5b733824919a29a570"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0631", 
+    "y_coordinate": "1851172", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW400293", 
+    "id": "9256067", 
+    "primary_type": "BATTERY", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.60647206591237, 
-            41.746817213485336
+            -87.60617883561488, 
+            41.74682359099267
         ]
     }, 
-    "case_number": "HW400293", 
+    "community_area": "44", 
+    "latitude": "41.74682359099267", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0631", 
     "date": {
         "$date": 1376057700000
     }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "5214dd5b733824919a29a570"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.60617883561488", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1182682", 
     "updated_on": {
         "$date": 1376959223000
     }, 
-    "ward": "6", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9256067", 
-    "block": "081XX S EVANS AVE", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "081XX S EVANS AVE"
 }
