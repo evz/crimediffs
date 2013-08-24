@@ -1,0 +1,33 @@
+{
+    "community_area": "23", 
+    "_id": {
+        "$oid": "5218d1ed733824919a29b6cf"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "1122", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2014", 
+    "arrest": false, 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72020499999999, 
+            41.891903
+        ]
+    }, 
+    "case_number": "HW388821", 
+    "date": {
+        "$date": 1375373700000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "27", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9272347", 
+    "block": "006XX N RIDGEWAY AVE", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)"
+}
