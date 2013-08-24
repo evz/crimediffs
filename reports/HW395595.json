@@ -1,33 +1,38 @@
 {
-    "community_area": "18", 
-    "_id": {
-        "$oid": "520ba2ee733824919a299163"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2511", 
+    "y_coordinate": "1919055", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW395595", 
+    "id": "9250701", 
+    "primary_type": "THEFT", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.80309731849502, 
-            41.933984637784775
+            -87.80309928888639, 
+            41.934190463920494
         ]
     }, 
-    "case_number": "HW395595", 
+    "community_area": "18", 
+    "latitude": "41.934190463920494", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "2511", 
     "date": {
         "$date": 1375524900000
     }, 
+    "ward": "36", 
+    "_id": {
+        "$oid": "520ba2ee733824919a299163"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.80309928888639", 
+    "location_description": "STREET", 
+    "x_coordinate": "1128523", 
     "updated_on": {
         "$date": 1376613678000
     }, 
-    "ward": "36", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9250701", 
-    "block": "029XX N NORDICA AVE", 
-    "description": "OVER $500"
+    "block": "029XX N NORDICA AVE"
 }
