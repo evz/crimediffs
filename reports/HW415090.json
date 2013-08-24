@@ -1,33 +1,38 @@
 {
-    "community_area": "68", 
-    "_id": {
-        "$oid": "5214dd53733824919a29a17c"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0712", 
+    "y_coordinate": "1866719", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW415090", 
+    "id": "9270274", 
+    "primary_type": "BURGLARY", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64977190158162, 
-            41.790294675416526
+            -87.6500489511445, 
+            41.789758443394426
         ]
     }, 
-    "case_number": "HW415090", 
+    "community_area": "68", 
+    "latitude": "41.789758443394426", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0712", 
     "date": {
         "$date": 1376154000000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "16", 
+    "_id": {
+        "$oid": "5214dd53733824919a29a17c"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.6500489511445", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1170586", 
+    "updated_on": {
+        "$date": 1377132036000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9270274", 
-    "block": "057XX S MORGAN ST", 
-    "description": "FORCIBLE ENTRY"
+    "block": "057XX S MORGAN ST"
 }
