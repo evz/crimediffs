@@ -1,33 +1,38 @@
 {
-    "community_area": "31", 
-    "_id": {
-        "$oid": "520f9729733824919a299389"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "1235", 
+    "y_coordinate": "1892212", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "031A", 
+    "case_number": "HW399658", 
+    "id": "9256131", 
+    "primary_type": "ROBBERY", 
+    "district": "012", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65114497154038, 
-            41.859955161436865
+            -87.6517347321584, 
+            41.859728145710385
         ]
     }, 
-    "case_number": "HW399658", 
+    "community_area": "31", 
+    "latitude": "41.859728145710385", 
+    "type": "violent", 
+    "description": "ARMED: HANDGUN", 
+    "beat": "1235", 
     "date": {
         "$date": 1376016000000
     }, 
-    "updated_on": {
-        "$date": 1376268035000
-    }, 
     "ward": "25", 
+    "_id": {
+        "$oid": "520f9729733824919a299389"
+    }, 
+    "iucr": "031A", 
+    "longitude": "-87.6517347321584", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1169924", 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9256131", 
-    "block": "010XX W 16TH ST", 
-    "description": "ARMED: HANDGUN"
+    "block": "010XX W 16TH ST"
 }
