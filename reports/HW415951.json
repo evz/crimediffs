@@ -1,33 +1,38 @@
 {
-    "community_area": "73", 
-    "_id": {
-        "$oid": "5214dd7d733824919a29abea"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "2222", 
+    "y_coordinate": "1843445", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1120", 
+    "case_number": "HW415951", 
+    "id": "9271429", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65168544924421, 
-            41.72523864163117
+            -87.65170046612225, 
+            41.72589736688126
         ]
     }, 
-    "case_number": "HW415951", 
+    "community_area": "73", 
+    "latitude": "41.72589736688126", 
+    "type": null, 
+    "description": "FORGERY", 
+    "beat": "2222", 
     "date": {
         "$date": 1375142400000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "21", 
+    "_id": {
+        "$oid": "5214dd7d733824919a29abea"
+    }, 
+    "iucr": "1120", 
+    "longitude": "-87.65170046612225", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1170320", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "10", 
-    "type": null, 
-    "id": "9271429", 
-    "block": "092XX S MAY ST", 
-    "description": "FORGERY"
+    "block": "092XX S MAY ST"
 }
