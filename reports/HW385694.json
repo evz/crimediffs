@@ -1,0 +1,33 @@
+{
+    "community_area": "67", 
+    "_id": {
+        "$oid": "5218d1f2733824919a29b6de"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "0713", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2027", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66299536300998, 
+            41.7856798642502
+        ]
+    }, 
+    "case_number": "HW385694", 
+    "date": {
+        "$date": 1375190400000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "15", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9272282", 
+    "block": "059XX S JUSTINE ST", 
+    "description": "POSS: CRACK"
+}
