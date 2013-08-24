@@ -1,33 +1,38 @@
 {
-    "community_area": "32", 
-    "_id": {
-        "$oid": "5214dd7f733824919a29abed"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0123", 
+    "y_coordinate": "1895417", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "810", 
+    "case_number": "HW416011", 
+    "id": "9271454", 
+    "primary_type": "THEFT", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62425798587078, 
-            41.86835711272653
+            -87.62425431470663, 
+            41.868357090059895
         ]
     }, 
-    "case_number": "HW416011", 
+    "community_area": "32", 
+    "latitude": "41.868357090059895", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0123", 
     "date": {
         "$date": 1375084800000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "5214dd7f733824919a29abed"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.62425431470663", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1177384", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9271454", 
-    "block": "011XX S MICHIGAN AVE", 
-    "description": "OVER $500"
+    "block": "011XX S MICHIGAN AVE"
 }
