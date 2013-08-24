@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "5218d1cb733824919a29b6a7"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "0623", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1821", 
+    "arrest": false, 
+    "location_description": "GAS STATION", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62596371608787, 
+            41.75079736025879
+        ]
+    }, 
+    "case_number": "HW405979", 
+    "date": {
+        "$date": 1376397000000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "17", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9276158", 
+    "block": "079XX S LAFAYETTE AVE", 
+    "description": "MANU/DEL:CANNABIS 10GM OR LESS"
+}
