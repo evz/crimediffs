@@ -1,33 +1,38 @@
 {
-    "community_area": "38", 
-    "_id": {
-        "$oid": "520ba2d8733824919a298d38"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0215", 
+    "y_coordinate": "1875087", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "430", 
+    "case_number": "HW392976", 
+    "id": "9253577", 
+    "primary_type": "BATTERY", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62277208008572, 
-            41.81220583169447
+            -87.62277920193614, 
+            41.81255714287759
         ]
     }, 
-    "case_number": "HW392976", 
+    "community_area": "38", 
+    "latitude": "41.81255714287759", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "0215", 
     "date": {
         "$date": 1375622400000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "3", 
+    "_id": {
+        "$oid": "520ba2d8733824919a298d38"
+    }, 
+    "iucr": "430", 
+    "longitude": "-87.62277920193614", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1177954", 
+    "updated_on": {
+        "$date": 1377132036000
+    }, 
     "fbi_code": "04B", 
-    "type": "violent", 
-    "id": "9253577", 
-    "block": "045XX S MICHIGAN AVE", 
-    "description": "AGGRAVATED: OTHER DANG WEAPON"
+    "block": "045XX S MICHIGAN AVE"
 }
