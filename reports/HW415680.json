@@ -1,33 +1,38 @@
 {
-    "community_area": "44", 
-    "_id": {
-        "$oid": "5214dd34733824919a2997c9"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0622", 
+    "y_coordinate": "1849642", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1150", 
+    "case_number": "HW415680", 
+    "id": "9270942", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6318849392991, 
-            41.74314137290207
+            -87.63187416594846, 
+            41.74278454711376
         ]
     }, 
-    "case_number": "HW415680", 
+    "community_area": "44", 
+    "latitude": "41.74278454711376", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "0622", 
     "date": {
         "$date": 1376397000000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "21", 
+    "_id": {
+        "$oid": "5214dd34733824919a2997c9"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.63187416594846", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1175682", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9270942", 
-    "block": "083XX S HOLLAND RD", 
-    "description": "CREDIT CARD FRAUD"
+    "block": "083XX S HOLLAND RD"
 }
