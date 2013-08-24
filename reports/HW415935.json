@@ -1,33 +1,38 @@
 {
-    "community_area": "8", 
-    "_id": {
-        "$oid": "5214dd44733824919a299b65"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "1821", 
+    "y_coordinate": "1908610", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1320", 
+    "case_number": "HW415935", 
+    "id": "9271384", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "018", 
     "arrest": false, 
-    "location_description": "RESIDENCE-GARAGE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63468126370256, 
-            41.9054215835352
+            -87.634359347257, 
+            41.904623797331915
         ]
     }, 
-    "case_number": "HW415935", 
+    "community_area": "8", 
+    "latitude": "41.904623797331915", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "1821", 
     "date": {
         "$date": 1376308800000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "43", 
+    "_id": {
+        "$oid": "5214dd44733824919a299b65"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.634359347257", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1174524", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9271384", 
-    "block": "012XX N WELLS ST", 
-    "description": "TO VEHICLE"
+    "block": "012XX N WELLS ST"
 }
