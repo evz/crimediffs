@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "520ba2b7733824919a298764"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "0332", 
+    "y_coordinate": "1860045", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "620", 
+    "case_number": "HW396639", 
+    "id": "9252935", 
+    "primary_type": "BURGLARY", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.58485376893901, 
-            41.770290351335774
+            -87.5848707510556, 
+            41.771036909256686
         ]
     }, 
-    "case_number": "HW396639", 
+    "community_area": "43", 
+    "latitude": "41.771036909256686", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0332", 
     "date": {
         "$date": 1375795800000
     }, 
-    "updated_on": {
-        "$date": 1376095237000
-    }, 
     "ward": "5", 
+    "_id": {
+        "$oid": "520ba2b7733824919a298764"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.5848707510556", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1188420", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9252935", 
-    "block": "068XX S CORNELL AVE", 
-    "description": "UNLAWFUL ENTRY"
+    "block": "068XX S CORNELL AVE"
 }
