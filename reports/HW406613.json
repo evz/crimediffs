@@ -1,15 +1,12 @@
 {
-    "community_area": "21", 
-    "_id": {
-        "$oid": "5214dd2d733824919a29969b"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "1412", 
+    "y_coordinate": "1919318", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "2826", 
+    "case_number": "HW406613", 
+    "id": "9270013", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.934482904432315
         ]
     }, 
-    "case_number": "HW406613", 
+    "community_area": "21", 
+    "latitude": "41.934482904432315", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "1412", 
     "date": {
         "$date": 1376422620000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "35", 
+    "_id": {
+        "$oid": "5214dd2d733824919a29969b"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.7171115197992", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1151919", 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9270013", 
-    "block": "029XX N CENTRAL PARK AVE", 
-    "description": "HARASSMENT BY ELECTRONIC MEANS"
+    "block": "029XX N CENTRAL PARK AVE"
 }
