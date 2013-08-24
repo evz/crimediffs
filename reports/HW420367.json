@@ -1,0 +1,33 @@
+{
+    "community_area": "41", 
+    "_id": {
+        "$oid": "5218d1df733824919a29b6c0"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0233", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "OTHER", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.59904268414621, 
+            41.802229343997375
+        ]
+    }, 
+    "case_number": "HW420367", 
+    "date": {
+        "$date": 1375779600000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "4", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9276246", 
+    "block": "011XX E HYDE PARK BLVD", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
