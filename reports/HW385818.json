@@ -1,0 +1,33 @@
+{
+    "community_area": "46", 
+    "_id": {
+        "$oid": "5218d1f2733824919a29b6dd"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "0422", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2027", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.55756060074287, 
+            41.74969723233956
+        ]
+    }, 
+    "case_number": "HW385818", 
+    "date": {
+        "$date": 1375194600000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "7", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9272290", 
+    "block": "080XX S MANISTEE AVE", 
+    "description": "POSS: CRACK"
+}
