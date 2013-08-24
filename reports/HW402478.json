@@ -1,0 +1,33 @@
+{
+    "community_area": "40", 
+    "_id": {
+        "$oid": "5218d1d1733824919a29b6af"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "0232", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62047394648842, 
+            41.78589864052239
+        ]
+    }, 
+    "case_number": "HW402478", 
+    "date": {
+        "$date": 1376173800000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "20", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9275200", 
+    "block": "059XX S INDIANA AVE", 
+    "description": "SIMPLE"
+}
