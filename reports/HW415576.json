@@ -1,33 +1,38 @@
 {
-    "community_area": "8", 
-    "_id": {
-        "$oid": "5214dd74733824919a29abbe"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1832", 
+    "y_coordinate": "1904221", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "890", 
+    "case_number": "HW415576", 
+    "id": "9270923", 
+    "primary_type": "THEFT", 
+    "district": "018", 
     "arrest": false, 
-    "location_description": "HOTEL/MOTEL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62825997844197, 
-            41.89339552217219
+            -87.62824732890793, 
+            41.892541986874626
         ]
     }, 
-    "case_number": "HW415576", 
+    "community_area": "8", 
+    "latitude": "41.892541986874626", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1832", 
     "date": {
         "$date": 1375531200000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "42", 
+    "_id": {
+        "$oid": "5214dd74733824919a29abbe"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.62824732890793", 
+    "location_description": "HOTEL/MOTEL", 
+    "x_coordinate": "1176224", 
+    "updated_on": {
+        "$date": 1377132036000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9270923", 
-    "block": "006XX N STATE ST", 
-    "description": "FROM BUILDING"
+    "block": "006XX N STATE ST"
 }
