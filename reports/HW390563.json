@@ -6,7 +6,7 @@
     "id": "9245407", 
     "primary_type": "BATTERY", 
     "district": "020", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "SMALL RETAIL STORE", 
     "x_coordinate": "1159378", 
     "updated_on": {
-        "$date": 1377045742000
+        "$date": 1377304792000
     }, 
     "fbi_code": "08B", 
     "block": "051XX N WESTERN AVE"
