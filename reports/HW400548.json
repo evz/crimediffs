@@ -1,15 +1,12 @@
 {
-    "community_area": "73", 
-    "_id": {
-        "$oid": "520f972a733824919a29939c"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "2232", 
+    "y_coordinate": "1839138", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "5002", 
+    "case_number": "HW400548", 
+    "id": "9259471", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.71402649414264
         ]
     }, 
-    "case_number": "HW400548", 
+    "community_area": "73", 
+    "latitude": "41.71402649414264", 
+    "type": null, 
+    "description": "OTHER VEHICLE OFFENSE", 
+    "beat": "2232", 
     "date": {
         "$date": 1376008200000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "34", 
+    "_id": {
+        "$oid": "520f972a733824919a29939c"
+    }, 
+    "iucr": "5002", 
+    "longitude": "-87.64314183353497", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1172691", 
+    "updated_on": {
+        "$date": 1377132036000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9259471", 
-    "block": "099XX S HALSTED ST", 
-    "description": "OTHER VEHICLE OFFENSE"
+    "block": "099XX S HALSTED ST"
 }
