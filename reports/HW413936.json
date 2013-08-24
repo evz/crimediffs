@@ -1,0 +1,33 @@
+{
+    "community_area": "50", 
+    "_id": {
+        "$oid": "5218d1bc733824919a29b503"
+    }, 
+    "primary_type": "BURGLARY", 
+    "beat": "0513", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "610", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60744704701118, 
+            41.69797729960215
+        ]
+    }, 
+    "case_number": "HW413936", 
+    "date": {
+        "$date": 1376672400000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "9", 
+    "fbi_code": "05", 
+    "type": "property", 
+    "id": "9276103", 
+    "block": "108XX S CHAMPLAIN AVE", 
+    "description": "FORCIBLE ENTRY"
+}
