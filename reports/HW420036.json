@@ -1,0 +1,33 @@
+{
+    "community_area": "71", 
+    "_id": {
+        "$oid": "5218d1c0733824919a29b5be"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0612", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.64887370949522, 
+            41.755447760187465
+        ]
+    }, 
+    "case_number": "HW420036", 
+    "date": {
+        "$date": 1376658000000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "17", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9275879", 
+    "block": "076XX S MORGAN ST", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
