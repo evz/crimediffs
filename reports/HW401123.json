@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "52123a25733824919a2994b0"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0324", 
+    "y_coordinate": "1857250", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "5001", 
+    "case_number": "HW401123", 
+    "id": "9258348", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.59013397809441, 
-            41.76317848950069
+            -87.5900031328949, 
+            41.76339993093465
         ]
     }, 
-    "case_number": "HW401123", 
+    "community_area": "43", 
+    "latitude": "41.76339993093465", 
+    "type": null, 
+    "description": "OTHER CRIME INVOLVING PROPERTY", 
+    "beat": "0324", 
     "date": {
         "$date": 1376094000000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "5", 
+    "_id": {
+        "$oid": "52123a25733824919a2994b0"
+    }, 
+    "iucr": "5001", 
+    "longitude": "-87.5900031328949", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1187044", 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9258348", 
-    "block": "014XX E 72ND PL", 
-    "description": "OTHER CRIME INVOLVING PROPERTY"
+    "block": "014XX E 72ND PL"
 }
