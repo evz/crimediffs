@@ -1,33 +1,38 @@
 {
-    "community_area": "7", 
-    "_id": {
-        "$oid": "520e45af733824919a2992fc"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "1811", 
+    "y_coordinate": "1915443", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "320", 
+    "case_number": "HW397807", 
+    "id": "9254045", 
+    "primary_type": "ROBBERY", 
+    "district": "018", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66591585693321, 
-            41.92425715379978
+            -87.66589002316346, 
+            41.923562714837416
         ]
     }, 
-    "case_number": "HW397807", 
+    "community_area": "7", 
+    "latitude": "41.923562714837416", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "1811", 
     "date": {
         "$date": 1375893900000
     }, 
-    "updated_on": {
-        "$date": 1376181721000
-    }, 
     "ward": "32", 
+    "_id": {
+        "$oid": "520e45af733824919a2992fc"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.66589002316346", 
+    "location_description": "STREET", 
+    "x_coordinate": "1165887", 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9254045", 
-    "block": "023XX N GREENVIEW AVE", 
-    "description": "STRONGARM - NO WEAPON"
+    "block": "023XX N GREENVIEW AVE"
 }
