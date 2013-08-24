@@ -1,33 +1,38 @@
 {
-    "community_area": "8", 
-    "_id": {
-        "$oid": "5214dd6d733824919a29aba7"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1823", 
+    "y_coordinate": "1907942", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW415816", 
+    "id": "9271077", 
+    "primary_type": "THEFT", 
+    "district": "018", 
     "arrest": false, 
-    "location_description": "RESIDENCE-GARAGE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63936617730293, 
-            41.90260147923327
+            -87.63946297519105, 
+            41.902821602812146
         ]
     }, 
-    "case_number": "HW415816", 
+    "community_area": "8", 
+    "latitude": "41.902821602812146", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1823", 
     "date": {
         "$date": 1375804800000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "27", 
+    "_id": {
+        "$oid": "5214dd6d733824919a29aba7"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.63946297519105", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1173140", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9271077", 
-    "block": "004XX W ELM ST", 
-    "description": "$500 AND UNDER"
+    "block": "004XX W ELM ST"
 }
