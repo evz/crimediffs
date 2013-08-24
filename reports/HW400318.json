@@ -6,7 +6,7 @@
     "id": "9255596", 
     "primary_type": "CRIMINAL DAMAGE", 
     "district": "006", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
     "x_coordinate": "1174244", 
     "updated_on": {
-        "$date": 1376872937000
+        "$date": 1377218448000
     }, 
     "fbi_code": "14", 
     "block": "076XX S NORMAL AVE"
