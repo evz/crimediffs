@@ -1,33 +1,38 @@
 {
-    "community_area": "7", 
-    "_id": {
-        "$oid": "5214dd38733824919a2998b1"
-    }, 
-    "primary_type": "CRIMINAL TRESPASS", 
-    "beat": "1931", 
+    "y_coordinate": "1918138", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1330", 
+    "case_number": "HW415499", 
+    "id": "9270604", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "019", 
     "arrest": true, 
-    "location_description": "VACANT LOT/LAND", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6682136764335, 
-            41.93121885940502
+            -87.66849552586248, 
+            41.93097351183881
         ]
     }, 
-    "case_number": "HW415499", 
+    "community_area": "7", 
+    "latitude": "41.93097351183881", 
+    "type": null, 
+    "description": "TO LAND", 
+    "beat": "1931", 
     "date": {
         "$date": 1376373600000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "32", 
+    "_id": {
+        "$oid": "5214dd38733824919a2998b1"
+    }, 
+    "iucr": "1330", 
+    "longitude": "-87.66849552586248", 
+    "location_description": "VACANT LOT/LAND", 
+    "x_coordinate": "1165157", 
+    "updated_on": {
+        "$date": 1377132036000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9270604", 
-    "block": "027XX N ASHLAND AVE", 
-    "description": "TO LAND"
+    "block": "027XX N ASHLAND AVE"
 }
