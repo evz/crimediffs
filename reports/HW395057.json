@@ -1,33 +1,38 @@
 {
-    "community_area": "75", 
-    "_id": {
-        "$oid": "520ba2c0733824919a29894e"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "2234", 
+    "y_coordinate": "1832464", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "560", 
+    "case_number": "HW395057", 
+    "id": "9250091", 
+    "primary_type": "ASSAULT", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65333837564891, 
-            41.69597198088766
+            -87.65245443776811, 
+            41.69576641095902
         ]
     }, 
-    "case_number": "HW395057", 
+    "community_area": "75", 
+    "latitude": "41.69576641095902", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "2234", 
     "date": {
         "$date": 1375737600000
     }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "520ba2c0733824919a29894e"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.65245443776811", 
+    "location_description": "STREET", 
+    "x_coordinate": "1170201", 
     "updated_on": {
         "$date": 1376613678000
     }, 
-    "ward": "34", 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9250091", 
-    "block": "012XX W 109TH ST", 
-    "description": "SIMPLE"
+    "block": "012XX W 109TH ST"
 }
