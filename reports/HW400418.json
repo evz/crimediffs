@@ -1,15 +1,12 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "520f972e733824919a2993ce"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0331", 
+    "y_coordinate": "1860960", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW400418", 
+    "id": "9261336", 
+    "primary_type": "THEFT", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.77343518194503
         ]
     }, 
-    "case_number": "HW400418", 
+    "community_area": "43", 
+    "latitude": "41.77343518194503", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0331", 
     "date": {
         "$date": 1375995600000
     }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "520f972e733824919a2993ce"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.5677593504281", 
+    "location_description": "STREET", 
+    "x_coordinate": "1193080", 
     "updated_on": {
         "$date": 1376613678000
     }, 
-    "ward": "5", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9261336", 
-    "block": "023XX E 67TH ST", 
-    "description": "$500 AND UNDER"
+    "block": "023XX E 67TH ST"
 }
