@@ -1,33 +1,38 @@
 {
-    "community_area": "36", 
-    "_id": {
-        "$oid": "5214dd82733824919a29abf0"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0214", 
+    "y_coordinate": "1876748", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW415550", 
+    "id": "9270945", 
+    "primary_type": "THEFT", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.60082824132783, 
-            41.81676893194214
+            -87.60173191267747, 
+            41.816983255707086
         ]
     }, 
-    "case_number": "HW415550", 
+    "community_area": "36", 
+    "latitude": "41.816983255707086", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0214", 
     "date": {
         "$date": 1374964200000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "4", 
+    "_id": {
+        "$oid": "5214dd82733824919a29abf0"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.60173191267747", 
+    "location_description": "STREET", 
+    "x_coordinate": "1183678", 
+    "updated_on": {
+        "$date": 1377132036000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9270945", 
-    "block": "010XX E 43RD ST", 
-    "description": "OVER $500"
+    "block": "010XX E 43RD ST"
 }
