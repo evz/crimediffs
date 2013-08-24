@@ -1,33 +1,38 @@
 {
-    "community_area": "16", 
-    "_id": {
-        "$oid": "520ba2be733824919a2988ad"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "1731", 
+    "y_coordinate": "1922061", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "530", 
+    "case_number": "HW395206", 
+    "id": "9254633", 
+    "primary_type": "ASSAULT", 
+    "district": "017", 
     "arrest": false, 
-    "location_description": "ALLEY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.729564349381, 
-            41.941368453182015
+            -87.72987743597274, 
+            41.94207810785128
         ]
     }, 
-    "case_number": "HW395206", 
+    "community_area": "16", 
+    "latitude": "41.94207810785128", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "1731", 
     "date": {
         "$date": 1375750200000
     }, 
+    "ward": "30", 
+    "_id": {
+        "$oid": "520ba2be733824919a2988ad"
+    }, 
+    "iucr": "530", 
+    "longitude": "-87.72987743597274", 
+    "location_description": "ALLEY", 
+    "x_coordinate": "1148426", 
     "updated_on": {
         "$date": 1376700033000
     }, 
-    "ward": "30", 
     "fbi_code": "04A", 
-    "type": "violent", 
-    "id": "9254633", 
-    "block": "033XX N KARLOV AVE", 
-    "description": "AGGRAVATED: OTHER DANG WEAPON"
+    "block": "033XX N KARLOV AVE"
 }
