@@ -1,33 +1,38 @@
 {
-    "community_area": "24", 
-    "_id": {
-        "$oid": "520ba2e5733824919a298fb8"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "1424", 
+    "y_coordinate": "1908582", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW392886", 
+    "id": "9247938", 
+    "primary_type": "BURGLARY", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.68154343082603, 
-            41.90481624398808
+            -87.68134131580982, 
+            41.90482332928238
         ]
     }, 
-    "case_number": "HW392886", 
+    "community_area": "24", 
+    "latitude": "41.90482332928238", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1424", 
     "date": {
         "$date": 1375559100000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "32", 
+    "_id": {
+        "$oid": "520ba2e5733824919a298fb8"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.68134131580982", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1161734", 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9247938", 
-    "block": "021XX W POTOMAC AVE", 
-    "description": "FORCIBLE ENTRY"
+    "block": "021XX W POTOMAC AVE"
 }
