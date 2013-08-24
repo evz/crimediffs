@@ -1,0 +1,33 @@
+{
+    "community_area": "76", 
+    "_id": {
+        "$oid": "5218d1f9733824919a29b6ef"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1654", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "AIRPORT EXTERIOR - NON-SECURE AREA", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.88989790236039, 
+            41.99816117444585
+        ]
+    }, 
+    "case_number": "HW383059", 
+    "date": {
+        "$date": 1374861600000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "41", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9275302", 
+    "block": "008XX W OHARE ST", 
+    "description": "OVER $500"
+}
