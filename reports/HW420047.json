@@ -1,0 +1,33 @@
+{
+    "community_area": "1", 
+    "_id": {
+        "$oid": "5218d1c4733824919a29b685"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "2422", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "2826", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67216757455523, 
+            42.0226345247102
+        ]
+    }, 
+    "case_number": "HW420047", 
+    "date": {
+        "$date": 1376636400000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "49", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9276242", 
+    "block": "016XX W JUNEWAY TER", 
+    "description": "HARASSMENT BY ELECTRONIC MEANS"
+}
