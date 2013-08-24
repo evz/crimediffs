@@ -1,33 +1,38 @@
 {
-    "community_area": "15", 
-    "_id": {
-        "$oid": "5214dd3f733824919a299aac"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1623", 
+    "y_coordinate": "1930560", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW415633", 
+    "id": "9270972", 
+    "primary_type": "THEFT", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.74998647091701, 
-            41.96551061014389
+            -87.74998284415582, 
+            41.96550510329656
         ]
     }, 
-    "case_number": "HW415633", 
+    "community_area": "15", 
+    "latitude": "41.96550510329656", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1623", 
     "date": {
         "$date": 1376323200000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "45", 
+    "_id": {
+        "$oid": "5214dd3f733824919a299aac"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.74998284415582", 
+    "location_description": "STREET", 
+    "x_coordinate": "1142898", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9270972", 
-    "block": "046XX N LAMON AVE", 
-    "description": "OVER $500"
+    "block": "046XX N LAMON AVE"
 }
