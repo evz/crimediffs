@@ -1,33 +1,38 @@
 {
-    "community_area": "6", 
-    "_id": {
-        "$oid": "520ba2b0733824919a298653"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1925", 
+    "y_coordinate": "1926327", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW396461", 
+    "id": "9251177", 
+    "primary_type": "THEFT", 
+    "district": "019", 
     "arrest": false, 
-    "location_description": "RESIDENCE PORCH/HALLWAY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6480610072128, 
-            41.95376756355653
+            -87.64775327506845, 
+            41.95332390864399
         ]
     }, 
-    "case_number": "HW396461", 
+    "community_area": "6", 
+    "latitude": "41.95332390864399", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1925", 
     "date": {
         "$date": 1375818600000
     }, 
+    "ward": "46", 
+    "_id": {
+        "$oid": "520ba2b0733824919a298653"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.64775327506845", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1170736", 
     "updated_on": {
         "$date": 1376786529000
     }, 
-    "ward": "46", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9251177", 
-    "block": "039XX N PINE GROVE AVE", 
-    "description": "$500 AND UNDER"
+    "block": "039XX N PINE GROVE AVE"
 }
