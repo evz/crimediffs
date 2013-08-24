@@ -1,33 +1,38 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "520f972e733824919a2993d7"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "0512", 
+    "y_coordinate": "1835982", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "320", 
+    "case_number": "HW399356", 
+    "id": "9261553", 
+    "primary_type": "ROBBERY", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "RESIDENCE PORCH/HALLWAY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62360377442067, 
-            41.704853960761426
+            -87.6236141062475, 
+            41.70524646306832
         ]
     }, 
-    "case_number": "HW399356", 
+    "community_area": "49", 
+    "latitude": "41.70524646306832", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0512", 
     "date": {
         "$date": 1375992900000
     }, 
+    "ward": "34", 
+    "_id": {
+        "$oid": "520f972e733824919a2993d7"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.6236141062475", 
+    "location_description": "RESIDENCE PORCH/HALLWAY", 
+    "x_coordinate": "1178049", 
     "updated_on": {
         "$date": 1376613678000
     }, 
-    "ward": "34", 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9261553", 
-    "block": "104XX S STATE ST", 
-    "description": "STRONGARM - NO WEAPON"
+    "block": "104XX S STATE ST"
 }
