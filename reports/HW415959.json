@@ -1,33 +1,38 @@
 {
-    "community_area": "38", 
-    "_id": {
-        "$oid": "5214dd76733824919a29abc8"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0221", 
+    "y_coordinate": "1876583", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "840", 
+    "case_number": "HW415959", 
+    "id": "9271456", 
+    "primary_type": "THEFT", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61383264331049, 
-            41.816796239668776
+            -87.61264993459334, 
+            41.81659947058247
         ]
     }, 
-    "case_number": "HW415959", 
+    "community_area": "38", 
+    "latitude": "41.81659947058247", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "0221", 
     "date": {
         "$date": 1375459200000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "4", 
+    "_id": {
+        "$oid": "5214dd76733824919a29abc8"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.61264993459334", 
+    "location_description": "STREET", 
+    "x_coordinate": "1180703", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9271456", 
-    "block": "005XX E 43RD ST", 
-    "description": "FINANCIAL ID THEFT: OVER $300"
+    "block": "005XX E 43RD ST"
 }
