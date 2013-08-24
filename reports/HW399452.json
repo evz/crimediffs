@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "520f972d733824919a2993c7"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "1524", 
+    "y_coordinate": "1904220", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "4387", 
+    "case_number": "HW399452", 
+    "id": "9255128", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.76340456002035, 
-            41.89442019664227
+            -87.76335584796948, 
+            41.8932893262352
         ]
     }, 
-    "case_number": "HW399452", 
+    "community_area": "25", 
+    "latitude": "41.8932893262352", 
+    "type": null, 
+    "description": "VIOLATE ORDER OF PROTECTION", 
+    "beat": "1524", 
     "date": {
         "$date": 1375998120000
     }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "520f972d733824919a2993c7"
+    }, 
+    "iucr": "4387", 
+    "longitude": "-87.76335584796948", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1139436", 
     "updated_on": {
         "$date": 1376613678000
     }, 
-    "ward": "37", 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9255128", 
-    "block": "007XX N PINE AVE", 
-    "description": "VIOLATE ORDER OF PROTECTION"
+    "block": "007XX N PINE AVE"
 }
