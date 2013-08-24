@@ -6,7 +6,7 @@
     "id": "9256707", 
     "primary_type": "MOTOR VEHICLE THEFT", 
     "district": "008", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "OTHER", 
     "x_coordinate": "1161207", 
     "updated_on": {
-        "$date": 1376354397000
+        "$date": 1377218448000
     }, 
     "fbi_code": "07", 
     "block": "024XX W COLUMBUS AVE"
