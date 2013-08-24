@@ -1,33 +1,38 @@
 {
-    "community_area": "70", 
-    "_id": {
-        "$oid": "5214dd58733824919a29a390"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "0835", 
+    "y_coordinate": "1848235", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1320", 
+    "case_number": "HW415665", 
+    "id": "9270980", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69487481687051, 
-            41.739342786001615
+            -87.69317530393833, 
+            41.73928118803803
         ]
     }, 
-    "case_number": "HW415665", 
+    "community_area": "70", 
+    "latitude": "41.73928118803803", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "0835", 
     "date": {
         "$date": 1376096400000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "18", 
+    "_id": {
+        "$oid": "5214dd58733824919a29a390"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.69317530393833", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1158962", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9270980", 
-    "block": "028XX W 85TH ST", 
-    "description": "TO VEHICLE"
+    "block": "028XX W 85TH ST"
 }
