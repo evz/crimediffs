@@ -1,33 +1,38 @@
 {
-    "community_area": "39", 
-    "_id": {
-        "$oid": "5214dd46733824919a299bf7"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0222", 
+    "y_coordinate": "1874114", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "5000", 
+    "case_number": "HW416220", 
+    "id": "9271570", 
+    "primary_type": "THEFT", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.59815363856349, 
-            41.80973748466504
+            -87.59835176219578, 
+            41.80973326396498
         ]
     }, 
-    "case_number": "HW416220", 
+    "community_area": "39", 
+    "latitude": "41.80973326396498", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT:$300 &UNDER", 
+    "beat": "0222", 
     "date": {
         "$date": 1376298000000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "4", 
-    "fbi_code": "26", 
-    "type": null, 
-    "id": "9271570", 
-    "block": "011XX E 47TH ST", 
-    "description": "OTHER CRIME AGAINST PERSON"
+    "_id": {
+        "$oid": "5214dd46733824919a299bf7"
+    }, 
+    "iucr": "841", 
+    "longitude": "-87.59835176219578", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1184622", 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "fbi_code": "06", 
+    "block": "011XX E 47TH ST"
 }
