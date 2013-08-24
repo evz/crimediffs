@@ -1,0 +1,33 @@
+{
+    "community_area": "32", 
+    "_id": {
+        "$oid": "5218d1e3733824919a29b6c2"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "0114", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2015", 
+    "arrest": false, 
+    "location_description": "PARK PROPERTY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62041976362326, 
+            41.87180482307204
+        ]
+    }, 
+    "case_number": "HW393152", 
+    "date": {
+        "$date": 1375623000000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "2", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9272387", 
+    "block": "008XX S COLUMBUS DR", 
+    "description": "MANU/DELIVER: HALLUCINOGEN"
+}
