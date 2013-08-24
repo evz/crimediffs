@@ -6,7 +6,7 @@
     "id": "9235636", 
     "primary_type": "ASSAULT", 
     "district": "003", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "STREET", 
     "x_coordinate": "1178853", 
     "updated_on": {
-        "$date": 1375144832000
+        "$date": 1377304792000
     }, 
     "fbi_code": "08A", 
     "block": "070XX S INDIANA AVE"
