@@ -4,7 +4,7 @@
     "domestic": false, 
     "case_number": "HW405504", 
     "id": "9260054", 
-    "primary_type": "KIDNAPPING", 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
     "district": "005", 
     "arrest": false, 
     "location": {
@@ -16,8 +16,8 @@
     }, 
     "community_area": "49", 
     "latitude": "41.707836879409626", 
-    "type": null, 
-    "description": "UNLAWFUL RESTRAINT", 
+    "type": "violent", 
+    "description": "AGGRAVATED: KNIFE/CUT INSTR", 
     "beat": "0511", 
     "date": {
         "$date": 1376365200000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "5214dd39733824919a2998ce"
     }, 
-    "iucr": "4230", 
+    "iucr": "263", 
     "longitude": "-87.62848206577073", 
     "location_description": "VEHICLE NON-COMMERCIAL", 
     "x_coordinate": "1176712", 
     "updated_on": {
-        "$date": 1377045742000
+        "$date": 1377218448000
     }, 
-    "fbi_code": "26", 
+    "fbi_code": "02", 
     "block": "102XX S WENTWORTH AVE"
 }
