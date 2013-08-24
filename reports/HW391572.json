@@ -1,33 +1,38 @@
 {
-    "community_area": "71", 
-    "_id": {
-        "$oid": "520ba2ec733824919a2990c0"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "0613", 
+    "y_coordinate": "1849336", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "560", 
+    "case_number": "HW391572", 
+    "id": "9251265", 
+    "primary_type": "ASSAULT", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64882527572021, 
-            41.743103583350134
+            -87.64879985673959, 
+            41.742046872895045
         ]
     }, 
-    "case_number": "HW391572", 
+    "community_area": "71", 
+    "latitude": "41.742046872895045", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0613", 
     "date": {
         "$date": 1375538400000
     }, 
+    "ward": "21", 
+    "_id": {
+        "$oid": "520ba2ec733824919a2990c0"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.64879985673959", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1171065", 
     "updated_on": {
         "$date": 1376613678000
     }, 
-    "ward": "21", 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9251265", 
-    "block": "083XX S MORGAN ST", 
-    "description": "SIMPLE"
+    "block": "083XX S MORGAN ST"
 }
