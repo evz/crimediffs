@@ -1,33 +1,38 @@
 {
-    "community_area": "45", 
-    "_id": {
-        "$oid": "5214dd44733824919a299b64"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0412", 
+    "y_coordinate": "1848405", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2826", 
+    "case_number": "HW416205", 
+    "id": "9271560", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.58587450086821, 
-            41.740458236392634
+            -87.5858426238331, 
+            41.73909959749409
         ]
     }, 
-    "case_number": "HW416205", 
+    "community_area": "45", 
+    "latitude": "41.73909959749409", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "0412", 
     "date": {
         "$date": 1376308800000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "8", 
+    "_id": {
+        "$oid": "5214dd44733824919a299b64"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.5858426238331", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1188256", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9271560", 
-    "block": "085XX S STONY ISLAND AVE", 
-    "description": "HARASSMENT BY ELECTRONIC MEANS"
+    "block": "085XX S STONY ISLAND AVE"
 }
