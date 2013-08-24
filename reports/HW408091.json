@@ -1,33 +1,38 @@
 {
-    "community_area": "24", 
-    "_id": {
-        "$oid": "5214dd3d733824919a2999eb"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "1423", 
+    "y_coordinate": "1908589", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW408091", 
+    "id": "9271703", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69401280882778, 
-            41.90466680591253
+            -87.69224715641063, 
+            41.90490394317868
         ]
     }, 
-    "case_number": "HW408091", 
+    "community_area": "24", 
+    "latitude": "41.90490394317868", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "1423", 
     "date": {
         "$date": 1376337600000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "26", 
+    "_id": {
+        "$oid": "5214dd3d733824919a2999eb"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.69224715641063", 
+    "location_description": "STREET", 
+    "x_coordinate": "1158765", 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9271703", 
-    "block": "026XX W POTOMAC AVE", 
-    "description": "AUTOMOBILE"
+    "block": "026XX W POTOMAC AVE"
 }
