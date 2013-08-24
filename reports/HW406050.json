@@ -1,33 +1,38 @@
 {
-    "community_area": "58", 
-    "_id": {
-        "$oid": "5214dd84733824919a29abf5"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0922", 
+    "y_coordinate": "1873612", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "2826", 
+    "case_number": "HW406050", 
+    "id": "9268660", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69777237216486, 
-            41.80959913566568
+            -87.69803921629767, 
+            41.808950217231605
         ]
     }, 
-    "case_number": "HW406050", 
+    "community_area": "58", 
+    "latitude": "41.808950217231605", 
+    "type": null, 
+    "description": "HARASSMENT BY ELECTRONIC MEANS", 
+    "beat": "0922", 
     "date": {
         "$date": 1374858000000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "14", 
+    "_id": {
+        "$oid": "5214dd84733824919a29abf5"
+    }, 
+    "iucr": "2826", 
+    "longitude": "-87.69803921629767", 
+    "location_description": "STREET", 
+    "x_coordinate": "1157447", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9268660", 
-    "block": "046XX S RICHMOND ST", 
-    "description": "HARASSMENT BY ELECTRONIC MEANS"
+    "block": "046XX S RICHMOND ST"
 }
