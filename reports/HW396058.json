@@ -4,7 +4,7 @@
     "domestic": false, 
     "case_number": "HW396058", 
     "id": "9250726", 
-    "primary_type": "THEFT", 
+    "primary_type": "BURGLARY", 
     "district": "010", 
     "arrest": false, 
     "location": {
@@ -17,7 +17,7 @@
     "community_area": "30", 
     "latitude": "41.850123473191836", 
     "type": "property", 
-    "description": "FROM BUILDING", 
+    "description": "FORCIBLE ENTRY", 
     "beat": "1024", 
     "date": {
         "$date": 1375210800000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "5202682b733824919a297776"
     }, 
-    "iucr": "890", 
+    "iucr": "610", 
     "longitude": "-87.71480568657472", 
     "location_description": "ABANDONED BUILDING", 
     "x_coordinate": "1152768", 
     "updated_on": {
-        "$date": 1376009150000
+        "$date": 1377304792000
     }, 
-    "fbi_code": "06", 
+    "fbi_code": "05", 
     "block": "022XX S CENTRAL PARK AVE"
 }
