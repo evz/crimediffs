@@ -1,0 +1,33 @@
+{
+    "community_area": "36", 
+    "_id": {
+        "$oid": "5218d1de733824919a29b6be"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "0212", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2024", 
+    "arrest": false, 
+    "location_description": "PARK PROPERTY", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60997244631557, 
+            41.83024635277934
+        ]
+    }, 
+    "case_number": "HW396143", 
+    "date": {
+        "$date": 1375806000000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "4", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9275815", 
+    "block": "035XX S COTTAGE GROVE AVE", 
+    "description": "POSS: HEROIN(WHITE)"
+}
