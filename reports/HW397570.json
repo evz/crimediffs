@@ -1,33 +1,38 @@
 {
-    "community_area": "67", 
-    "_id": {
-        "$oid": "5214dd69733824919a29aa5a"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0714", 
+    "y_coordinate": "1862929", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW397570", 
+    "id": "9252805", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67379113266495, 
-            41.78057210569513
+            -87.67405145211464, 
+            41.77949783700718
         ]
     }, 
-    "case_number": "HW397570", 
+    "community_area": "67", 
+    "latitude": "41.77949783700718", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0714", 
     "date": {
         "$date": 1375891200000
     }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "5214dd69733824919a29aa5a"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.67405145211464", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1164069", 
     "updated_on": {
         "$date": 1376613678000
     }, 
-    "ward": "15", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9252805", 
-    "block": "062XX S DAMEN AVE", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "062XX S DAMEN AVE"
 }
