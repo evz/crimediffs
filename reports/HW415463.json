@@ -1,33 +1,38 @@
 {
-    "community_area": "67", 
-    "_id": {
-        "$oid": "5214dd5d733824919a29a625"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0735", 
+    "y_coordinate": "1856716", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "2820", 
+    "case_number": "HW415463", 
+    "id": "9270645", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6733222052573, 
-            41.76229788264521
+            -87.67361759264654, 
+            41.76244502713757
         ]
     }, 
-    "case_number": "HW415463", 
+    "community_area": "67", 
+    "latitude": "41.76244502713757", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "0735", 
     "date": {
         "$date": 1376038800000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "17", 
+    "_id": {
+        "$oid": "5214dd5d733824919a29a625"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.67361759264654", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1164235", 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9270645", 
-    "block": "072XX S DAMEN AVE", 
-    "description": "TELEPHONE THREAT"
+    "block": "072XX S DAMEN AVE"
 }
