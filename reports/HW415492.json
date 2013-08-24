@@ -1,33 +1,38 @@
 {
-    "community_area": "2", 
-    "_id": {
-        "$oid": "5214dd38733824919a2998b0"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "2412", 
+    "y_coordinate": "1943306", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1305", 
+    "case_number": "HW415492", 
+    "id": "9271822", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "024", 
     "arrest": false, 
-    "location_description": "CHURCH/SYNAGOGUE/PLACE OF WORSHIP", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69955927341601, 
-            41.99971867431173
+            -87.6998633632046, 
+            42.00021705129963
         ]
     }, 
-    "case_number": "HW415492", 
+    "community_area": "2", 
+    "latitude": "42.00021705129963", 
+    "type": "quality", 
+    "description": "CRIMINAL DEFACEMENT", 
+    "beat": "2412", 
     "date": {
         "$date": 1376373600000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "50", 
+    "_id": {
+        "$oid": "5214dd38733824919a2998b0"
+    }, 
+    "iucr": "1305", 
+    "longitude": "-87.6998633632046", 
+    "location_description": "CHURCH/SYNAGOGUE/PLACE OF WORSHIP", 
+    "x_coordinate": "1156435", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9271822", 
-    "block": "065XX N CALIFORNIA AVE", 
-    "description": "CRIMINAL DEFACEMENT"
+    "block": "065XX N CALIFORNIA AVE"
 }
