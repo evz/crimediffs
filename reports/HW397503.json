@@ -1,33 +1,38 @@
 {
-    "community_area": "68", 
-    "_id": {
-        "$oid": "5214dd6a733824919a29aa7f"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0732", 
+    "y_coordinate": "1856575", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW397503", 
+    "id": "9252817", 
+    "primary_type": "BATTERY", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.64018066832557, 
-            41.7629150281455
+            -87.64015169310744, 
+            41.76186104243324
         ]
     }, 
-    "case_number": "HW397503", 
+    "community_area": "68", 
+    "latitude": "41.76186104243324", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0732", 
     "date": {
         "$date": 1375887600000
     }, 
-    "updated_on": {
-        "$date": 1376181721000
-    }, 
     "ward": "17", 
+    "_id": {
+        "$oid": "5214dd6a733824919a29aa7f"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.64015169310744", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1173367", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9252817", 
-    "block": "072XX S LOWE AVE", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "072XX S LOWE AVE"
 }
