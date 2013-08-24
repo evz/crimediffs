@@ -1,33 +1,38 @@
 {
-    "community_area": "3", 
-    "_id": {
-        "$oid": "5214dd6d733824919a29aba5"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2032", 
+    "y_coordinate": "1933071", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW398403", 
+    "id": "9270677", 
+    "primary_type": "THEFT", 
+    "district": "020", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67065111546253, 
-            41.971946077613715
+            -87.66968382783068, 
+            41.9719596993805
         ]
     }, 
-    "case_number": "HW398403", 
+    "community_area": "3", 
+    "latitude": "41.9719596993805", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2032", 
     "date": {
         "$date": 1375815600000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "47", 
+    "_id": {
+        "$oid": "5214dd6d733824919a29aba5"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.66968382783068", 
+    "location_description": "STREET", 
+    "x_coordinate": "1164718", 
+    "updated_on": {
+        "$date": 1377132036000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9270677", 
-    "block": "016XX W AINSLIE ST", 
-    "description": "$500 AND UNDER"
+    "block": "016XX W AINSLIE ST"
 }
