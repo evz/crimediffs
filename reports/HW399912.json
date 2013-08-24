@@ -1,33 +1,38 @@
 {
-    "community_area": "20", 
-    "_id": {
-        "$oid": "520e45af733824919a299300"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "2523", 
+    "y_coordinate": "1918291", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1120", 
+    "case_number": "HW399912", 
+    "id": "9258569", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.73696799999999, 
-            41.931907
+            -87.73693884995942, 
+            41.93176928625616
         ]
     }, 
-    "case_number": "HW399912", 
+    "community_area": "20", 
+    "latitude": "41.93176928625616", 
+    "type": null, 
+    "description": "FORGERY", 
+    "beat": "2523", 
     "date": {
         "$date": 1375891560000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "31", 
+    "_id": {
+        "$oid": "520e45af733824919a299300"
+    }, 
+    "iucr": "1120", 
+    "longitude": "-87.73693884995942", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1146531", 
+    "updated_on": {
+        "$date": 1377132036000
+    }, 
     "fbi_code": "10", 
-    "type": null, 
-    "id": "9258569", 
-    "block": "044XX W DIVERSEY AVE", 
-    "description": "FORGERY"
+    "block": "044XX W DIVERSEY AVE"
 }
