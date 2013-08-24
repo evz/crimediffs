@@ -1,15 +1,12 @@
 {
-    "community_area": "24", 
-    "_id": {
-        "$oid": "5214dd7e733824919a29abeb"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "1424", 
+    "y_coordinate": "1908105", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1130", 
+    "case_number": "HW416285", 
+    "id": "9271645", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.903440477958426
         ]
     }, 
-    "case_number": "HW416285", 
+    "community_area": "24", 
+    "latitude": "41.903440477958426", 
+    "type": null, 
+    "description": "FRAUD OR CONFIDENCE GAME", 
+    "beat": "1424", 
     "date": {
         "$date": 1375113600000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "1", 
+    "_id": {
+        "$oid": "5214dd7e733824919a29abeb"
+    }, 
+    "iucr": "1130", 
+    "longitude": "-87.66846165130369", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1165244", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9271645", 
-    "block": "016XX W DIVISION ST", 
-    "description": "FRAUD OR CONFIDENCE GAME"
+    "block": "016XX W DIVISION ST"
 }
