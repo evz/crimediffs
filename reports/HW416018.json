@@ -1,33 +1,38 @@
 {
-    "community_area": "15", 
-    "_id": {
-        "$oid": "5214dd2a733824919a29961d"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1634", 
+    "y_coordinate": "1924833", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW416018", 
+    "id": "9271439", 
+    "primary_type": "THEFT", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.75394022411763, 
-            41.94957303005931
+            -87.75305954044508, 
+            41.949804585047154
         ]
     }, 
-    "case_number": "HW416018", 
+    "community_area": "15", 
+    "latitude": "41.949804585047154", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "1634", 
     "date": {
         "$date": 1376431200000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "45", 
+    "_id": {
+        "$oid": "5214dd2a733824919a29961d"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.75305954044508", 
+    "location_description": "STREET", 
+    "x_coordinate": "1142100", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9271439", 
-    "block": "050XX W GRACE ST", 
-    "description": "$500 AND UNDER"
+    "block": "050XX W GRACE ST"
 }
