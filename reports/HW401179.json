@@ -1,33 +1,38 @@
 {
-    "community_area": "73", 
-    "_id": {
-        "$oid": "5214dd57733824919a29a363"
-    }, 
-    "primary_type": "CRIMINAL DAMAGE", 
-    "beat": "2232", 
+    "y_coordinate": "1838907", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1320", 
+    "case_number": "HW401179", 
+    "id": "9257423", 
+    "primary_type": "CRIMINAL DAMAGE", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63951716460303, 
-            41.713562830471645
+            -87.63921525587809, 
+            41.71336890465983
         ]
     }, 
-    "case_number": "HW401179", 
+    "community_area": "73", 
+    "latitude": "41.71336890465983", 
+    "type": "quality", 
+    "description": "TO VEHICLE", 
+    "beat": "2232", 
     "date": {
         "$date": 1376101200000
     }, 
+    "ward": "9", 
+    "_id": {
+        "$oid": "5214dd57733824919a29a363"
+    }, 
+    "iucr": "1320", 
+    "longitude": "-87.63921525587809", 
+    "location_description": "STREET", 
+    "x_coordinate": "1173765", 
     "updated_on": {
         "$date": 1376700033000
     }, 
-    "ward": "9", 
     "fbi_code": "14", 
-    "type": "quality", 
-    "id": "9257423", 
-    "block": "099XX S LOWE AVE", 
-    "description": "TO VEHICLE"
+    "block": "099XX S LOWE AVE"
 }
