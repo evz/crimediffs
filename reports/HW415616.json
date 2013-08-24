@@ -1,33 +1,38 @@
 {
-    "community_area": "26", 
-    "_id": {
-        "$oid": "5214dd71733824919a29abb8"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "1132", 
+    "y_coordinate": "1896830", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "610", 
+    "case_number": "HW415616", 
+    "id": "9270919", 
+    "primary_type": "BURGLARY", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "ABANDONED BUILDING", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72892613863526, 
-            41.87267960843818
+            -87.72922575368345, 
+            41.87283486300955
         ]
     }, 
-    "case_number": "HW415616", 
+    "community_area": "26", 
+    "latitude": "41.87283486300955", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "1132", 
     "date": {
         "$date": 1375653600000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "24", 
+    "_id": {
+        "$oid": "5214dd71733824919a29abb8"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.72922575368345", 
+    "location_description": "ABANDONED BUILDING", 
+    "x_coordinate": "1148781", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9270919", 
-    "block": "006XX S KEDVALE AVE", 
-    "description": "FORCIBLE ENTRY"
+    "block": "006XX S KEDVALE AVE"
 }
