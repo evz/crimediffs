@@ -1,33 +1,38 @@
 {
-    "community_area": "15", 
-    "_id": {
-        "$oid": "520e45a7733824919a29927c"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "1633", 
+    "y_coordinate": "1923809", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "4387", 
+    "case_number": "HW398264", 
+    "id": "9258812", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.76416919016982, 
-            41.94644364487019
+            -87.76418952632942, 
+            41.94705021812251
         ]
     }, 
-    "case_number": "HW398264", 
+    "community_area": "15", 
+    "latitude": "41.94705021812251", 
+    "type": null, 
+    "description": "VIOLATE ORDER OF PROTECTION", 
+    "beat": "1633", 
     "date": {
         "$date": 1375936200000
     }, 
-    "updated_on": {
-        "$date": 1376527473000
-    }, 
     "ward": "38", 
+    "_id": {
+        "$oid": "520e45a7733824919a29927c"
+    }, 
+    "iucr": "4387", 
+    "longitude": "-87.76418952632942", 
+    "location_description": "RESIDENTIAL YARD (FRONT/BACK)", 
+    "x_coordinate": "1139079", 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9258812", 
-    "block": "036XX N LINDER AVE", 
-    "description": "VIOLATE ORDER OF PROTECTION"
+    "block": "036XX N LINDER AVE"
 }
