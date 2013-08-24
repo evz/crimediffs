@@ -1,33 +1,38 @@
 {
-    "community_area": "15", 
-    "_id": {
-        "$oid": "520f9730733824919a2993fb"
-    }, 
-    "primary_type": "STALKING", 
-    "beat": "1633", 
+    "y_coordinate": "1922775", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "580", 
+    "case_number": "HW399817", 
+    "id": "9255617", 
+    "primary_type": "STALKING", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.76192853161409, 
-            41.9442014647651
+            -87.76192485600342, 
+            41.94420144647241
         ]
     }, 
-    "case_number": "HW399817", 
+    "community_area": "15", 
+    "latitude": "41.94420144647241", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "1633", 
     "date": {
         "$date": 1375980300000
     }, 
-    "updated_on": {
-        "$date": 1376786529000
-    }, 
     "ward": "38", 
+    "_id": {
+        "$oid": "520f9730733824919a2993fb"
+    }, 
+    "iucr": "580", 
+    "longitude": "-87.76192485600342", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1139702", 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9255617", 
-    "block": "035XX N LONG AVE", 
-    "description": "SIMPLE"
+    "block": "035XX N LONG AVE"
 }
