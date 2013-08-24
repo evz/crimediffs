@@ -1,33 +1,38 @@
 {
-    "community_area": "63", 
-    "_id": {
-        "$oid": "5214dd4d733824919a299edb"
-    }, 
-    "primary_type": "CRIMINAL TRESPASS", 
-    "beat": "0923", 
+    "y_coordinate": "1869316", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1365", 
+    "case_number": "HW416056", 
+    "id": "9271702", 
+    "primary_type": "CRIMINAL TRESPASS", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69009422085973, 
-            41.79722084506943
+            -87.69038130096327, 
+            41.797118169322616
         ]
     }, 
-    "case_number": "HW416056", 
+    "community_area": "63", 
+    "latitude": "41.797118169322616", 
+    "type": null, 
+    "description": "TO RESIDENCE", 
+    "beat": "0923", 
     "date": {
         "$date": 1376219700000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "14", 
+    "_id": {
+        "$oid": "5214dd4d733824919a299edb"
+    }, 
+    "iucr": "1365", 
+    "longitude": "-87.69038130096327", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1159567", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9271702", 
-    "block": "053XX S TALMAN AVE", 
-    "description": "TO RESIDENCE"
+    "block": "053XX S TALMAN AVE"
 }
