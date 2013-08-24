@@ -6,7 +6,7 @@
     "id": "9236500", 
     "primary_type": "ROBBERY", 
     "district": "017", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "STREET", 
     "x_coordinate": "1151819", 
     "updated_on": {
-        "$date": 1375749778000
+        "$date": 1377304792000
     }, 
     "fbi_code": "03", 
     "block": "035XX W LAWRENCE AVE"
