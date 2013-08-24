@@ -1,0 +1,33 @@
+{
+    "community_area": "3", 
+    "_id": {
+        "$oid": "5218d1f1733824919a29b6da"
+    }, 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "beat": "2033", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1150", 
+    "arrest": false, 
+    "location_description": "RESTAURANT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.65958344734756, 
+            41.97113523422592
+        ]
+    }, 
+    "case_number": "HW420546", 
+    "date": {
+        "$date": 1375228740000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "48", 
+    "fbi_code": "11", 
+    "type": null, 
+    "id": "9276418", 
+    "block": "048XX N BROADWAY", 
+    "description": "CREDIT CARD FRAUD"
+}
