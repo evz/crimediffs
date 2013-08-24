@@ -1,33 +1,38 @@
 {
-    "community_area": "10", 
-    "_id": {
-        "$oid": "520e45ae733824919a2992db"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1613", 
+    "y_coordinate": "1934545", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW398397", 
+    "id": "9255199", 
+    "primary_type": "THEFT", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.81981009361043, 
-            41.976823746728954
+            -87.82157937708759, 
+            41.976782251582605
         ]
     }, 
-    "case_number": "HW398397", 
+    "community_area": "10", 
+    "latitude": "41.976782251582605", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1613", 
     "date": {
         "$date": 1375902000000
     }, 
+    "ward": "41", 
+    "_id": {
+        "$oid": "520e45ae733824919a2992db"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.82157937708759", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1123402", 
     "updated_on": {
         "$date": 1376613678000
     }, 
-    "ward": "41", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9255199", 
-    "block": "077XX W SUMMERDALE AVE", 
-    "description": "OVER $500"
+    "block": "077XX W SUMMERDALE AVE"
 }
