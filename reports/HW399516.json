@@ -1,33 +1,38 @@
 {
-    "community_area": "58", 
-    "_id": {
-        "$oid": "520f9731733824919a29940b"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0911", 
+    "y_coordinate": "1879430", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2820", 
+    "case_number": "HW399516", 
+    "id": "9255201", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.68828267940836, 
-            41.82462878201062
+            -87.68774470402086, 
+            41.82485902279335
         ]
     }, 
-    "case_number": "HW399516", 
+    "community_area": "58", 
+    "latitude": "41.82485902279335", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "0911", 
     "date": {
         "$date": 1375974000000
     }, 
+    "ward": "12", 
+    "_id": {
+        "$oid": "520f9731733824919a29940b"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.68774470402086", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1160210", 
     "updated_on": {
         "$date": 1376959223000
     }, 
-    "ward": "12", 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9255201", 
-    "block": "025XX W 38TH ST", 
-    "description": "TELEPHONE THREAT"
+    "block": "025XX W 38TH ST"
 }
