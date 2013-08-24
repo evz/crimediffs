@@ -1,33 +1,38 @@
 {
-    "community_area": "21", 
-    "_id": {
-        "$oid": "5214dd3d733824919a2999ec"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2523", 
+    "y_coordinate": "1919655", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "841", 
+    "case_number": "HW416479", 
+    "id": "9271714", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.73075373445793, 
-            41.93528252999327
+            -87.73199773011686, 
+            41.93548663595401
         ]
     }, 
-    "case_number": "HW416479", 
+    "community_area": "21", 
+    "latitude": "41.93548663595401", 
+    "type": null, 
+    "description": "FRAUD OR CONFIDENCE GAME", 
+    "beat": "2523", 
     "date": {
         "$date": 1376337600000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "31", 
-    "fbi_code": "06", 
-    "type": "property", 
-    "id": "9271714", 
-    "block": "041XX W WELLINGTON AVE", 
-    "description": "FINANCIAL ID THEFT:$300 &UNDER"
+    "_id": {
+        "$oid": "5214dd3d733824919a2999ec"
+    }, 
+    "iucr": "1130", 
+    "longitude": "-87.73199773011686", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1147866", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
+    "fbi_code": "11", 
+    "block": "041XX W WELLINGTON AVE"
 }
