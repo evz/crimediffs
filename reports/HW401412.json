@@ -1,0 +1,33 @@
+{
+    "community_area": "35", 
+    "_id": {
+        "$oid": "5218d1d2733824919a29b6b2"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "0212", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2014", 
+    "arrest": false, 
+    "location_description": "RESTAURANT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62141631244467, 
+            41.83095177836174
+        ]
+    }, 
+    "case_number": "HW401412", 
+    "date": {
+        "$date": 1376125380000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "3", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9275573", 
+    "block": "002XX E 35TH ST", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)"
+}
