@@ -1,33 +1,38 @@
 {
-    "community_area": "19", 
-    "_id": {
-        "$oid": "520e45ad733824919a2992d1"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2515", 
+    "y_coordinate": "1914061", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW398146", 
+    "id": "9253904", 
+    "primary_type": "THEFT", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.75707700867622, 
-            41.91883154548102
+            -87.75711556017723, 
+            41.92026422791645
         ]
     }, 
-    "case_number": "HW398146", 
+    "community_area": "19", 
+    "latitude": "41.92026422791645", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "2515", 
     "date": {
         "$date": 1375906500000
     }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "520e45ad733824919a2992d1"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.75711556017723", 
+    "location_description": "STREET", 
+    "x_coordinate": "1141069", 
     "updated_on": {
         "$date": 1376613678000
     }, 
-    "ward": "37", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9253904", 
-    "block": "021XX N LATROBE AVE", 
-    "description": "OVER $500"
+    "block": "021XX N LATROBE AVE"
 }
