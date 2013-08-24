@@ -1,0 +1,33 @@
+{
+    "community_area": "37", 
+    "_id": {
+        "$oid": "5218d1df733824919a29b6bf"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "0925", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "560", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.63213339319839, 
+            41.81321013279872
+        ]
+    }, 
+    "case_number": "HW419656", 
+    "date": {
+        "$date": 1375783200000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "3", 
+    "fbi_code": "08A", 
+    "type": null, 
+    "id": "9275153", 
+    "block": "044XX S WELLS ST", 
+    "description": "SIMPLE"
+}
