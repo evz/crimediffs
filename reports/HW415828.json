@@ -1,33 +1,38 @@
 {
-    "community_area": "77", 
-    "_id": {
-        "$oid": "5214dd70733824919a29abb2"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2012", 
+    "y_coordinate": "1937291", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "840", 
+    "case_number": "HW415828", 
+    "id": "9271418", 
+    "primary_type": "THEFT", 
+    "district": "020", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.67147826215526, 
-            41.98333653257107
+            -87.67189531581823, 
+            41.983552983648195
         ]
     }, 
-    "case_number": "HW415828", 
+    "community_area": "77", 
+    "latitude": "41.983552983648195", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "2012", 
     "date": {
         "$date": 1375704000000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "40", 
+    "_id": {
+        "$oid": "5214dd70733824919a29abb2"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.67189531581823", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1164084", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9271418", 
-    "block": "016XX W BRYN MAWR AVE", 
-    "description": "FINANCIAL ID THEFT: OVER $300"
+    "block": "016XX W BRYN MAWR AVE"
 }
