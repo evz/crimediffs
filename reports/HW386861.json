@@ -1,0 +1,33 @@
+{
+    "community_area": "66", 
+    "_id": {
+        "$oid": "5218d1f0733824919a29b6d9"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "0825", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1821", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69102176692475, 
+            41.77594405820235
+        ]
+    }, 
+    "case_number": "HW386861", 
+    "date": {
+        "$date": 1375266180000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "15", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9272405", 
+    "block": "064XX S WASHTENAW AVE", 
+    "description": "MANU/DEL:CANNABIS 10GM OR LESS"
+}
