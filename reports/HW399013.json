@@ -1,33 +1,38 @@
 {
-    "community_area": "69", 
-    "_id": {
-        "$oid": "520e45a9733824919a299286"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0624", 
+    "y_coordinate": "1854907", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW399013", 
+    "id": "9261339", 
+    "primary_type": "THEFT", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6100867932288, 
-            41.757452239903635
+            -87.61037295778934, 
+            41.757100026301174
         ]
     }, 
-    "case_number": "HW399013", 
+    "community_area": "69", 
+    "latitude": "41.757100026301174", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "0624", 
     "date": {
         "$date": 1375927200000
     }, 
+    "ward": "6", 
+    "_id": {
+        "$oid": "520e45a9733824919a299286"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.61037295778934", 
+    "location_description": "STREET", 
+    "x_coordinate": "1181506", 
     "updated_on": {
         "$date": 1376613678000
     }, 
-    "ward": "6", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9261339", 
-    "block": "075XX S ST LAWRENCE AVE", 
-    "description": "$500 AND UNDER"
+    "block": "075XX S ST LAWRENCE AVE"
 }
