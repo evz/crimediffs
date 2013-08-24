@@ -1,0 +1,33 @@
+{
+    "community_area": "61", 
+    "_id": {
+        "$oid": "5218d1c5733824919a29b6a3"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0931", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67782759546863, 
+            41.80291175603636
+        ]
+    }, 
+    "case_number": "HW420662", 
+    "date": {
+        "$date": 1376611260000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "16", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9276372", 
+    "block": "021XX W 50TH ST", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
