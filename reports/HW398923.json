@@ -1,33 +1,38 @@
 {
-    "community_area": "69", 
-    "_id": {
-        "$oid": "5214dd61733824919a29a7e0"
-    }, 
-    "primary_type": "OTHER OFFENSE", 
-    "beat": "0322", 
+    "y_coordinate": "1860583", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2820", 
+    "case_number": "HW398923", 
+    "id": "9254426", 
+    "primary_type": "OTHER OFFENSE", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62153732333869, 
-            41.77296590719332
+            -87.6215287533587, 
+            41.772746310655016
         ]
     }, 
-    "case_number": "HW398923", 
+    "community_area": "69", 
+    "latitude": "41.772746310655016", 
+    "type": null, 
+    "description": "TELEPHONE THREAT", 
+    "beat": "0322", 
     "date": {
         "$date": 1375975800000
     }, 
-    "updated_on": {
-        "$date": 1376700033000
-    }, 
     "ward": "20", 
+    "_id": {
+        "$oid": "5214dd61733824919a29a7e0"
+    }, 
+    "iucr": "2820", 
+    "longitude": "-87.6215287533587", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1178415", 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
     "fbi_code": "26", 
-    "type": null, 
-    "id": "9254426", 
-    "block": "001XX E MARQUETTE RD", 
-    "description": "TELEPHONE THREAT"
+    "block": "001XX E MARQUETTE RD"
 }
