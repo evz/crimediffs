@@ -1,33 +1,38 @@
 {
-    "community_area": "32", 
-    "_id": {
-        "$oid": "5214dd70733824919a29abb4"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "0112", 
+    "y_coordinate": "1900460", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1150", 
+    "case_number": "HW415540", 
+    "id": "9270737", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "OTHER", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.6267698950927, 
-            41.88196484012248
+            -87.62542690943863, 
+            41.882203551093916
         ]
     }, 
-    "case_number": "HW415540", 
+    "community_area": "32", 
+    "latitude": "41.882203551093916", 
+    "type": null, 
+    "description": "CREDIT CARD FRAUD", 
+    "beat": "0112", 
     "date": {
         "$date": 1375691400000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "42", 
+    "_id": {
+        "$oid": "5214dd70733824919a29abb4"
+    }, 
+    "iucr": "1150", 
+    "longitude": "-87.62542690943863", 
+    "location_description": "OTHER", 
+    "x_coordinate": "1177023", 
+    "updated_on": {
+        "$date": 1377132036000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9270737", 
-    "block": "0000X E MADISON ST", 
-    "description": "CREDIT CARD FRAUD"
+    "block": "0000X E MADISON ST"
 }
