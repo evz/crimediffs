@@ -1,33 +1,38 @@
 {
-    "community_area": "53", 
-    "_id": {
-        "$oid": "5214dd63733824919a29a89c"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "0524", 
+    "y_coordinate": "1827916", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "910", 
+    "case_number": "HW398783", 
+    "id": "9254475", 
+    "primary_type": "BURGLARY", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66138992666617, 
-            41.683335024268615
+            -87.66138623745834, 
+            41.68333774703675
         ]
     }, 
-    "case_number": "HW398783", 
+    "community_area": "53", 
+    "latitude": "41.68333774703675", 
+    "type": "property", 
+    "description": "FORCIBLE ENTRY", 
+    "beat": "0524", 
     "date": {
         "$date": 1375957800000
     }, 
-    "updated_on": {
-        "$date": 1376181721000
-    }, 
     "ward": "34", 
-    "fbi_code": "07", 
-    "type": "property", 
-    "id": "9254475", 
-    "block": "115XX S ASHLAND AVE", 
-    "description": "AUTOMOBILE"
+    "_id": {
+        "$oid": "5214dd63733824919a29a89c"
+    }, 
+    "iucr": "610", 
+    "longitude": "-87.66138623745834", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1167797", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
+    "fbi_code": "05", 
+    "block": "115XX S ASHLAND AVE"
 }
