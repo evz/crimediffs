@@ -1,33 +1,38 @@
 {
-    "community_area": "21", 
-    "_id": {
-        "$oid": "5214dd79733824919a29abdb"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1411", 
+    "y_coordinate": "1920604", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "810", 
+    "case_number": "HW415729", 
+    "id": "9271066", 
+    "primary_type": "THEFT", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "CONSTRUCTION SITE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.69414426815007, 
-            41.937880922281046
+            -87.6935341298652, 
+            41.93788301242353
         ]
     }, 
-    "case_number": "HW415729", 
+    "community_area": "21", 
+    "latitude": "41.93788301242353", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1411", 
     "date": {
         "$date": 1375315260000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "1", 
+    "_id": {
+        "$oid": "5214dd79733824919a29abdb"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.6935341298652", 
+    "location_description": "CONSTRUCTION SITE", 
+    "x_coordinate": "1158325", 
+    "updated_on": {
+        "$date": 1377218448000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9271066", 
-    "block": "026XX W BARRY AVE", 
-    "description": "OVER $500"
+    "block": "026XX W BARRY AVE"
 }
