@@ -1,0 +1,33 @@
+{
+    "community_area": "67", 
+    "_id": {
+        "$oid": "5218d1d2733824919a29b6b1"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "0714", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2014", 
+    "arrest": false, 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67134844299433, 
+            41.779586576627224
+        ]
+    }, 
+    "case_number": "HW401526", 
+    "date": {
+        "$date": 1376128980000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "15", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9275530", 
+    "block": "062XX S WOLCOTT AVE", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)"
+}
