@@ -1,33 +1,38 @@
 {
-    "community_area": "42", 
-    "_id": {
-        "$oid": "520ba2bc733824919a298867"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0313", 
+    "y_coordinate": "1865318", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW395282", 
+    "id": "9257141", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.61294296808462, 
-            41.78585989493878
+            -87.61103102478678, 
+            41.78567499956857
         ]
     }, 
-    "case_number": "HW395282", 
+    "community_area": "42", 
+    "latitude": "41.78567499956857", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0313", 
     "date": {
         "$date": 1375762260000
     }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "520ba2bc733824919a298867"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.61103102478678", 
+    "location_description": "STREET", 
+    "x_coordinate": "1181239", 
     "updated_on": {
         "$date": 1376613678000
     }, 
-    "ward": "20", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9257141", 
-    "block": "005XX E 60TH ST", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "005XX E 60TH ST"
 }
