@@ -1,0 +1,33 @@
+{
+    "community_area": "25", 
+    "_id": {
+        "$oid": "5218d1ee733824919a29b6d3"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "1531", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2014", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.75083810000001, 
+            41.8942626
+        ]
+    }, 
+    "case_number": "HW388094", 
+    "date": {
+        "$date": 1375347120000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "28", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9272340", 
+    "block": "050XX W SUPERIOR ST", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)"
+}
