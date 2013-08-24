@@ -1,33 +1,38 @@
 {
-    "community_area": "63", 
-    "_id": {
-        "$oid": "5214dd30733824919a299701"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "0822", 
+    "y_coordinate": "1867899", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "330", 
+    "case_number": "HW416225", 
+    "id": "9271606", 
+    "primary_type": "ROBBERY", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70462088176812, 
-            41.79306683120005
+            -87.70491921084175, 
+            41.79330996093305
         ]
     }, 
-    "case_number": "HW416225", 
+    "community_area": "63", 
+    "latitude": "41.79330996093305", 
+    "type": "violent", 
+    "description": "AGGRAVATED", 
+    "beat": "0822", 
     "date": {
         "$date": 1376413200000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "14", 
+    "_id": {
+        "$oid": "5214dd30733824919a299701"
+    }, 
+    "iucr": "330", 
+    "longitude": "-87.70491921084175", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1155613", 
+    "updated_on": {
+        "$date": 1377132036000
+    }, 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9271606", 
-    "block": "055XX S SAWYER AVE", 
-    "description": "AGGRAVATED"
+    "block": "055XX S SAWYER AVE"
 }
