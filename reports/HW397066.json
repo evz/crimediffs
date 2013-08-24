@@ -1,0 +1,33 @@
+{
+    "community_area": "67", 
+    "_id": {
+        "$oid": "5218d1dd733824919a29b6bb"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "0713", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2017", 
+    "arrest": false, 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66084753925792, 
+            41.78454489693263
+        ]
+    }, 
+    "case_number": "HW397066", 
+    "date": {
+        "$date": 1375871280000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "16", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9275617", 
+    "block": "060XX S BISHOP ST", 
+    "description": "MANU/DELIVER:CRACK"
+}
