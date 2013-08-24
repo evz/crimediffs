@@ -1,33 +1,38 @@
 {
-    "community_area": "16", 
-    "_id": {
-        "$oid": "5214dd79733824919a29abdc"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1722", 
+    "y_coordinate": "1928469", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "841", 
+    "case_number": "HW415454", 
+    "id": "9270419", 
+    "primary_type": "THEFT", 
+    "district": "017", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.73088868888458, 
-            41.960379101840466
+            -87.73116376633219, 
+            41.959669794275165
         ]
     }, 
-    "case_number": "HW415454", 
+    "community_area": "16", 
+    "latitude": "41.959669794275165", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT:$300 &UNDER", 
+    "beat": "1722", 
     "date": {
         "$date": 1375315200000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "45", 
+    "_id": {
+        "$oid": "5214dd79733824919a29abdc"
+    }, 
+    "iucr": "841", 
+    "longitude": "-87.73116376633219", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1148031", 
+    "updated_on": {
+        "$date": 1377132036000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9270419", 
-    "block": "043XX N KEDVALE AVE", 
-    "description": "FINANCIAL ID THEFT:$300 &UNDER"
+    "block": "043XX N KEDVALE AVE"
 }
