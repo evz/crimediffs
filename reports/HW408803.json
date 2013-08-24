@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "5214dd41733824919a299afe"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2533", 
+    "y_coordinate": "1910241", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW408803", 
+    "id": "9268598", 
+    "primary_type": "THEFT", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "RESTAURANT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.74608099999999, 
-            41.909921
+            -87.7467253099228, 
+            41.90972864553207
         ]
     }, 
-    "case_number": "HW408803", 
+    "community_area": "25", 
+    "latitude": "41.90972864553207", 
+    "type": "property", 
+    "description": "$500 AND UNDER", 
+    "beat": "2533", 
     "date": {
         "$date": 1376316000000
     }, 
+    "ward": "37", 
+    "_id": {
+        "$oid": "5214dd41733824919a299afe"
+    }, 
+    "iucr": "820", 
+    "longitude": "-87.7467253099228", 
+    "location_description": "RESTAURANT", 
+    "x_coordinate": "1143923", 
     "updated_on": {
         "$date": 1377045742000
     }, 
-    "ward": "37", 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9268598", 
-    "block": "048XX W NORTH AVE", 
-    "description": "$500 AND UNDER"
+    "block": "048XX W NORTH AVE"
 }
