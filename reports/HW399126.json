@@ -1,33 +1,38 @@
 {
-    "community_area": "17", 
-    "_id": {
-        "$oid": "520f9731733824919a29940f"
-    }, 
-    "primary_type": "BURGLARY", 
-    "beat": "1631", 
+    "y_coordinate": "1925306", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "620", 
+    "case_number": "HW399126", 
+    "id": "9257970", 
+    "primary_type": "BURGLARY", 
+    "district": "016", 
     "arrest": false, 
-    "location_description": "RESIDENCE-GARAGE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.81075743497425, 
-            41.95186544083317
+            -87.81072831781687, 
+            41.95137958150611
         ]
     }, 
-    "case_number": "HW399126", 
+    "community_area": "17", 
+    "latitude": "41.95137958150611", 
+    "type": "property", 
+    "description": "UNLAWFUL ENTRY", 
+    "beat": "1631", 
     "date": {
         "$date": 1375971300000
     }, 
-    "updated_on": {
-        "$date": 1376440911000
-    }, 
     "ward": "36", 
+    "_id": {
+        "$oid": "520f9731733824919a29940f"
+    }, 
+    "iucr": "620", 
+    "longitude": "-87.81072831781687", 
+    "location_description": "RESIDENCE-GARAGE", 
+    "x_coordinate": "1126409", 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
     "fbi_code": "05", 
-    "type": "property", 
-    "id": "9257970", 
-    "block": "039XX N ODELL AVE", 
-    "description": "UNLAWFUL ENTRY"
+    "block": "039XX N ODELL AVE"
 }
