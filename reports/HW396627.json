@@ -1,33 +1,38 @@
 {
-    "community_area": "42", 
-    "_id": {
-        "$oid": "520ba2bd733824919a298897"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0313", 
+    "y_coordinate": "1863897", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "430", 
+    "case_number": "HW396627", 
+    "id": "9252435", 
+    "primary_type": "BATTERY", 
+    "district": "003", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.60854829810509, 
-            41.781150498943774
+            -87.60826647220549, 
+            41.78175795251844
         ]
     }, 
-    "case_number": "HW396627", 
+    "community_area": "42", 
+    "latitude": "41.78175795251844", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER DANG WEAPON", 
+    "beat": "0313", 
     "date": {
         "$date": 1375752600000
     }, 
+    "ward": "20", 
+    "_id": {
+        "$oid": "520ba2bd733824919a298897"
+    }, 
+    "iucr": "430", 
+    "longitude": "-87.60826647220549", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1182005", 
     "updated_on": {
         "$date": 1376786529000
     }, 
-    "ward": "20", 
     "fbi_code": "04B", 
-    "type": "violent", 
-    "id": "9252435", 
-    "block": "062XX S LANGLEY AVE", 
-    "description": "AGGRAVATED: OTHER DANG WEAPON"
+    "block": "062XX S LANGLEY AVE"
 }
