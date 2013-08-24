@@ -6,7 +6,7 @@
     "id": "9234408", 
     "primary_type": "WEAPONS VIOLATION", 
     "district": "010", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "SIDEWALK", 
     "x_coordinate": "1154795", 
     "updated_on": {
-        "$date": 1377045742000
+        "$date": 1377218448000
     }, 
     "fbi_code": "15", 
     "block": "024XX S SPAULDING AVE"
