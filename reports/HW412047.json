@@ -1,33 +1,38 @@
 {
-    "community_area": "77", 
-    "_id": {
-        "$oid": "5214dd27733824919a2995d4"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "2022", 
+    "y_coordinate": "1938198", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1152", 
+    "case_number": "HW412047", 
+    "id": "9270033", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "020", 
     "arrest": false, 
-    "location_description": "ATM (AUTOMATIC TELLER MACHINE)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66055539999999, 
-            41.9855316
+            -87.6599934608603, 
+            41.98597277569399
         ]
     }, 
-    "case_number": "HW412047", 
+    "community_area": "77", 
+    "latitude": "41.98597277569399", 
+    "type": null, 
+    "description": "ILLEGAL USE CASH CARD", 
+    "beat": "2022", 
     "date": {
         "$date": 1376438400000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "48", 
+    "_id": {
+        "$oid": "5214dd27733824919a2995d4"
+    }, 
+    "iucr": "1152", 
+    "longitude": "-87.6599934608603", 
+    "location_description": "ATM (AUTOMATIC TELLER MACHINE)", 
+    "x_coordinate": "1167313", 
+    "updated_on": {
+        "$date": 1377132036000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9270033", 
-    "block": "057XX N BROADWAY", 
-    "description": "ILLEGAL USE CASH CARD"
+    "block": "057XX N BROADWAY"
 }
