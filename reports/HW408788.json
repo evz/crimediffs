@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1899598", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW408788", 
+    "id": "9264372", 
+    "primary_type": "THEFT", 
+    "district": "001", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62757165940103, 
+            41.87985121516924
+        ]
+    }, 
+    "community_area": "32", 
+    "latitude": "41.87985121516924", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0112", 
+    "date": {
+        "$date": 1376566440000
+    }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "5217803e733824919a29aec8"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.62757165940103", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1176446", 
+    "updated_on": {
+        "$date": 1376786529000
+    }, 
+    "fbi_code": "06", 
+    "block": "001XX S STATE ST"
+}
