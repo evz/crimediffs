@@ -1,33 +1,38 @@
 {
-    "community_area": "52", 
-    "_id": {
-        "$oid": "520ba2bf733824919a2988f3"
-    }, 
-    "primary_type": "BATTERY", 
-    "beat": "0432", 
+    "y_coordinate": "1835084", 
     "year": "2013", 
     "domestic": true, 
-    "iucr": "486", 
+    "case_number": "HW395178", 
+    "id": "9249780", 
+    "primary_type": "BATTERY", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.53543073811295, 
-            41.70255213586095
+            -87.53542772335716, 
+            41.70220358629814
         ]
     }, 
-    "case_number": "HW395178", 
+    "community_area": "52", 
+    "latitude": "41.70220358629814", 
+    "type": null, 
+    "description": "DOMESTIC BATTERY SIMPLE", 
+    "beat": "0432", 
     "date": {
         "$date": 1375743600000
     }, 
+    "ward": "10", 
+    "_id": {
+        "$oid": "520ba2bf733824919a2988f3"
+    }, 
+    "iucr": "486", 
+    "longitude": "-87.53542772335716", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1202140", 
     "updated_on": {
         "$date": 1376613678000
     }, 
-    "ward": "10", 
     "fbi_code": "08B", 
-    "type": null, 
-    "id": "9249780", 
-    "block": "106XX S EWING AVE", 
-    "description": "DOMESTIC BATTERY SIMPLE"
+    "block": "106XX S EWING AVE"
 }
