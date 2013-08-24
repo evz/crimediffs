@@ -1,33 +1,38 @@
 {
-    "community_area": "71", 
-    "_id": {
-        "$oid": "5214dd85733824919a29abf8"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "2221", 
+    "y_coordinate": "1846685", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1130", 
+    "case_number": "HW391412", 
+    "id": "9269560", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "022", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66168278804446, 
-            41.73505629951165
+            -87.66167397015087, 
+            41.73484768013483
         ]
     }, 
-    "case_number": "HW391412", 
+    "community_area": "71", 
+    "latitude": "41.73484768013483", 
+    "type": null, 
+    "description": "FRAUD OR CONFIDENCE GAME", 
+    "beat": "2221", 
     "date": {
         "$date": 1374832800000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "21", 
+    "_id": {
+        "$oid": "5214dd85733824919a29abf8"
+    }, 
+    "iucr": "1130", 
+    "longitude": "-87.66167397015087", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1167572", 
+    "updated_on": {
+        "$date": 1377132036000
+    }, 
     "fbi_code": "11", 
-    "type": null, 
-    "id": "9269560", 
-    "block": "087XX S JUSTINE ST", 
-    "description": "FRAUD OR CONFIDENCE GAME"
+    "block": "087XX S JUSTINE ST"
 }
