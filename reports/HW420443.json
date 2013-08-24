@@ -1,0 +1,33 @@
+{
+    "community_area": "49", 
+    "_id": {
+        "$oid": "5218d1ed733824919a29b6cc"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0513", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.62895102537242, 
+            41.6980891628137
+        ]
+    }, 
+    "case_number": "HW420443", 
+    "date": {
+        "$date": 1375384380000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "34", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9276425", 
+    "block": "002XX W 108TH ST", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
