@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "5218d1d3733824919a29b6b3"
+    }, 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "beat": "0421", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "261", 
+    "arrest": false, 
+    "location_description": "DRIVEWAY - RESIDENTIAL", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.56493537220494, 
+            41.75479355551176
+        ]
+    }, 
+    "case_number": "HW420878", 
+    "date": {
+        "$date": 1376109000000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "7", 
+    "fbi_code": "02", 
+    "type": "violent", 
+    "id": "9276600", 
+    "block": "077XX S PHILLIPS AVE", 
+    "description": "AGGRAVATED: HANDGUN"
+}
