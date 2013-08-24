@@ -1,0 +1,33 @@
+{
+    "community_area": "44", 
+    "_id": {
+        "$oid": "5218d1f0733824919a29b6d8"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "0633", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "2091", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.60619994203962, 
+            41.72578859457845
+        ]
+    }, 
+    "case_number": "HW387058", 
+    "date": {
+        "$date": 1375266180000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "9", 
+    "fbi_code": "26", 
+    "type": "quality", 
+    "id": "9275833", 
+    "block": "007XX E 93RD ST", 
+    "description": "FORFEIT PROPERTY"
+}
