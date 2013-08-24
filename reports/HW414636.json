@@ -1,33 +1,38 @@
 {
-    "community_area": "68", 
-    "_id": {
-        "$oid": "5214dd34733824919a2997e2"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "0732", 
+    "y_coordinate": "1858768", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "840", 
+    "case_number": "HW414636", 
+    "id": "9270039", 
+    "primary_type": "THEFT", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63736292787485, 
-            41.76791456973149
+            -87.63735982596684, 
+            41.76786240930861
         ]
     }, 
-    "case_number": "HW414636", 
+    "community_area": "68", 
+    "latitude": "41.76786240930861", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT: OVER $300", 
+    "beat": "0732", 
     "date": {
         "$date": 1376395200000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "6", 
+    "_id": {
+        "$oid": "5214dd34733824919a2997e2"
+    }, 
+    "iucr": "840", 
+    "longitude": "-87.63735982596684", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1174111", 
+    "updated_on": {
+        "$date": 1377132036000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9270039", 
-    "block": "069XX S NORMAL BLVD", 
-    "description": "FINANCIAL ID THEFT: OVER $300"
+    "block": "069XX S NORMAL BLVD"
 }
