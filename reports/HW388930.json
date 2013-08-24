@@ -1,0 +1,33 @@
+{
+    "community_area": "67", 
+    "_id": {
+        "$oid": "5218d1ed733824919a29b6cd"
+    }, 
+    "primary_type": "NARCOTICS", 
+    "beat": "0734", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "1812", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66157142548458, 
+            41.766126683180325
+        ]
+    }, 
+    "case_number": "HW388930", 
+    "date": {
+        "$date": 1375377667000
+    }, 
+    "updated_on": {
+        "$date": 1377304792000
+    }, 
+    "ward": "17", 
+    "fbi_code": "18", 
+    "type": "quality", 
+    "id": "9272353", 
+    "block": "070XX S LAFLIN ST", 
+    "description": "POSS: CANNABIS MORE THAN 30GMS"
+}
