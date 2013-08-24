@@ -1,33 +1,38 @@
 {
-    "community_area": "32", 
-    "_id": {
-        "$oid": "520f972d733824919a2993c9"
-    }, 
-    "primary_type": "ROBBERY", 
-    "beat": "0113", 
+    "y_coordinate": "1899161", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "320", 
+    "case_number": "HW399414", 
+    "id": "9255605", 
+    "primary_type": "ROBBERY", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62784145464249, 
-            41.87869205804217
+            -87.6275444649531, 
+            41.87865181376786
         ]
     }, 
-    "case_number": "HW399414", 
+    "community_area": "32", 
+    "latitude": "41.87865181376786", 
+    "type": "violent", 
+    "description": "STRONGARM - NO WEAPON", 
+    "beat": "0113", 
     "date": {
         "$date": 1375997760000
     }, 
+    "ward": "42", 
+    "_id": {
+        "$oid": "520f972d733824919a2993c9"
+    }, 
+    "iucr": "320", 
+    "longitude": "-87.6275444649531", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1176457", 
     "updated_on": {
         "$date": 1376613678000
     }, 
-    "ward": "42", 
     "fbi_code": "03", 
-    "type": "violent", 
-    "id": "9255605", 
-    "block": "002XX S STATE ST", 
-    "description": "STRONGARM - NO WEAPON"
+    "block": "002XX S STATE ST"
 }
