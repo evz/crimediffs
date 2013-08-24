@@ -1,33 +1,38 @@
 {
-    "community_area": "50", 
-    "_id": {
-        "$oid": "5214dd4c733824919a299e43"
-    }, 
-    "primary_type": "CRIM SEXUAL ASSAULT", 
-    "beat": "0511", 
+    "y_coordinate": "1842185", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "265", 
+    "case_number": "HW415567", 
+    "id": "9270903", 
+    "primary_type": "CRIM SEXUAL ASSAULT", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.5931606386082, 
-            41.72210480126232
+            -87.59432206164904, 
+            41.722084833481425
         ]
     }, 
-    "case_number": "HW415567", 
+    "community_area": "50", 
+    "latitude": "41.722084833481425", 
+    "type": "violent", 
+    "description": "AGGRAVATED: OTHER", 
+    "beat": "0511", 
     "date": {
         "$date": 1376235000000
     }, 
-    "updated_on": {
-        "$date": 1377045742000
-    }, 
     "ward": "8", 
+    "_id": {
+        "$oid": "5214dd4c733824919a299e43"
+    }, 
+    "iucr": "265", 
+    "longitude": "-87.59432206164904", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1185995", 
+    "updated_on": {
+        "$date": 1377132036000
+    }, 
     "fbi_code": "02", 
-    "type": "violent", 
-    "id": "9270903", 
-    "block": "012XX E 95TH ST", 
-    "description": "AGGRAVATED: OTHER"
+    "block": "012XX E 95TH ST"
 }
