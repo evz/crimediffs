@@ -1,33 +1,38 @@
 {
-    "community_area": "65", 
-    "_id": {
-        "$oid": "520ba2b6733824919a29874f"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "0833", 
+    "y_coordinate": "1857154", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW398943", 
+    "id": "9254826", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.72249974880921, 
-            41.76391731829287
+            -87.72249608353198, 
+            41.763917298805936
         ]
     }, 
-    "case_number": "HW398943", 
+    "community_area": "65", 
+    "latitude": "41.763917298805936", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0833", 
     "date": {
         "$date": 1375797600000
     }, 
+    "ward": "13", 
+    "_id": {
+        "$oid": "520ba2b6733824919a29874f"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.72249608353198", 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "x_coordinate": "1150896", 
     "updated_on": {
         "$date": 1376959223000
     }, 
-    "ward": "13", 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9254826", 
-    "block": "071XX S PULASKI RD", 
-    "description": "AUTOMOBILE"
+    "block": "071XX S PULASKI RD"
 }
