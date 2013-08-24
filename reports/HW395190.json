@@ -6,7 +6,7 @@
     "id": "9249395", 
     "primary_type": "ASSAULT", 
     "district": "007", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "RESIDENCE", 
     "x_coordinate": "1173971", 
     "updated_on": {
-        "$date": 1375922568000
+        "$date": 1377304792000
     }, 
     "fbi_code": "08A", 
     "block": "005XX W ENGLEWOOD AVE"
