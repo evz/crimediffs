@@ -1,0 +1,33 @@
+{
+    "community_area": "77", 
+    "_id": {
+        "$oid": "521b74b7733824919a29bba7"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "2433", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66165759445663, 
+            41.99281831005984
+        ]
+    }, 
+    "case_number": "HW414946", 
+    "date": {
+        "$date": 1376769600000
+    }, 
+    "updated_on": {
+        "$date": 1377391216000
+    }, 
+    "ward": "48", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9276535", 
+    "block": "012XX W GLENLAKE AVE", 
+    "description": "$500 AND UNDER"
+}
