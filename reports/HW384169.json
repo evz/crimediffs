@@ -1,15 +1,12 @@
 {
-    "community_area": "28", 
-    "_id": {
-        "$oid": "5218d1f4733824919a29b6df"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "0121", 
+    "y_coordinate": "1899230", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2091", 
+    "case_number": "HW384169", 
+    "id": "9272344", 
+    "primary_type": "NARCOTICS", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "OTHER RAILROAD PROP / TRAIN DEPOT", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.8789154264838
         ]
     }, 
-    "case_number": "HW384169", 
+    "community_area": "28", 
+    "latitude": "41.8789154264838", 
+    "type": "quality", 
+    "description": "FORFEIT PROPERTY", 
+    "beat": "0121", 
     "date": {
         "$date": 1375105500000
     }, 
-    "updated_on": {
-        "$date": 1377304792000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "5218d1f4733824919a29b6df"
+    }, 
+    "iucr": "2091", 
+    "longitude": "-87.63973267005716", 
+    "location_description": "OTHER RAILROAD PROP / TRAIN DEPOT", 
+    "x_coordinate": "1173137", 
+    "updated_on": {
+        "$date": 1377391216000
+    }, 
     "fbi_code": "26", 
-    "type": "quality", 
-    "id": "9272344", 
-    "block": "002XX S CANAL ST", 
-    "description": "FORFEIT PROPERTY"
+    "block": "002XX S CANAL ST"
 }
