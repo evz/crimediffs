@@ -1,33 +1,38 @@
 {
-    "community_area": "32", 
-    "_id": {
-        "$oid": "5218d1e7733824919a29b6c3"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "0114", 
+    "y_coordinate": "1896681", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2025", 
+    "case_number": "HW391795", 
+    "id": "9275688", 
+    "primary_type": "NARCOTICS", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "PARK PROPERTY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62041976362326, 
-            41.87180482307204
+            -87.62071350278617, 
+            41.87180390190185
         ]
     }, 
-    "case_number": "HW391795", 
+    "community_area": "32", 
+    "latitude": "41.87180390190185", 
+    "type": "quality", 
+    "description": "POSS: HALLUCINOGENS", 
+    "beat": "0114", 
     "date": {
         "$date": 1375542300000
     }, 
-    "updated_on": {
-        "$date": 1377304792000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "5218d1e7733824919a29b6c3"
+    }, 
+    "iucr": "2025", 
+    "longitude": "-87.62071350278617", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1178338", 
+    "updated_on": {
+        "$date": 1377391216000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9275688", 
-    "block": "008XX S COLUMBUS DR", 
-    "description": "POSS: HALLUCINOGENS"
+    "block": "008XX S COLUMBUS DR"
 }
