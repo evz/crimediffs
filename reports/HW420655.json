@@ -1,15 +1,12 @@
 {
-    "community_area": "19", 
-    "_id": {
-        "$oid": "5218d1cf733824919a29b6ad"
-    }, 
-    "primary_type": "DECEPTIVE PRACTICE", 
-    "beat": "2514", 
+    "y_coordinate": "1920677", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1121", 
+    "case_number": "HW420655", 
+    "id": "9276477", 
+    "primary_type": "DECEPTIVE PRACTICE", 
+    "district": "025", 
     "arrest": false, 
-    "location_description": "CURRENCY EXCHANGE", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.93846613297345
         ]
     }, 
-    "case_number": "HW420655", 
+    "community_area": "19", 
+    "latitude": "41.93846613297345", 
+    "type": null, 
+    "description": "COUNTERFEITING DOCUMENT", 
+    "beat": "2514", 
     "date": {
         "$date": 1376251980000
     }, 
-    "updated_on": {
-        "$date": 1377304792000
-    }, 
     "ward": "30", 
+    "_id": {
+        "$oid": "5218d1cf733824919a29b6ad"
+    }, 
+    "iucr": "1121", 
+    "longitude": "-87.76637556726295", 
+    "location_description": "CURRENCY EXCHANGE", 
+    "x_coordinate": "1138505", 
+    "updated_on": {
+        "$date": 1377391216000
+    }, 
     "fbi_code": "10", 
-    "type": null, 
-    "id": "9276477", 
-    "block": "055XX W BELMONT AVE", 
-    "description": "COUNTERFEITING DOCUMENT"
+    "block": "055XX W BELMONT AVE"
 }
