@@ -1,0 +1,33 @@
+{
+    "community_area": "75", 
+    "_id": {
+        "$oid": "521b74e0733824919a29bdbe"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "2234", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "2820", 
+    "arrest": false, 
+    "location_description": "RESIDENCE", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.66755284323652, 
+            41.684594866655544
+        ]
+    }, 
+    "case_number": "HW423330", 
+    "date": {
+        "$date": 1375326000000
+    }, 
+    "updated_on": {
+        "$date": 1377477583000
+    }, 
+    "ward": "34", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9278503", 
+    "block": "018XX W 115TH ST", 
+    "description": "TELEPHONE THREAT"
+}
