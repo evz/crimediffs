@@ -1,33 +1,38 @@
 {
-    "community_area": "32", 
-    "_id": {
-        "$oid": "5218d1eb733824919a29b6c6"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "0114", 
+    "y_coordinate": "1896681", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2028", 
+    "case_number": "HW390477", 
+    "id": "9275784", 
+    "primary_type": "NARCOTICS", 
+    "district": "001", 
     "arrest": false, 
-    "location_description": "PARK PROPERTY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62041976362326, 
-            41.87180482307204
+            -87.62071350278617, 
+            41.87180390190185
         ]
     }, 
-    "case_number": "HW390477", 
+    "community_area": "32", 
+    "latitude": "41.87180390190185", 
+    "type": "quality", 
+    "description": "POSS: SYNTHETIC DRUGS", 
+    "beat": "0114", 
     "date": {
         "$date": 1375460400000
     }, 
-    "updated_on": {
-        "$date": 1377304792000
-    }, 
     "ward": "2", 
+    "_id": {
+        "$oid": "5218d1eb733824919a29b6c6"
+    }, 
+    "iucr": "2028", 
+    "longitude": "-87.62071350278617", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1178338", 
+    "updated_on": {
+        "$date": 1377391216000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9275784", 
-    "block": "008XX S COLUMBUS DR", 
-    "description": "POSS: SYNTHETIC DRUGS"
+    "block": "008XX S COLUMBUS DR"
 }
