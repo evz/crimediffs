@@ -1,0 +1,33 @@
+{
+    "community_area": "17", 
+    "_id": {
+        "$oid": "521b74b4733824919a29bac1"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1633", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "820", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.78483659350475, 
+            41.946700659334546
+        ]
+    }, 
+    "case_number": "HW421778", 
+    "date": {
+        "$date": 1376784060000
+    }, 
+    "updated_on": {
+        "$date": 1377477583000
+    }, 
+    "ward": "38", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9277500", 
+    "block": "063XX W PATTERSON AVE", 
+    "description": "$500 AND UNDER"
+}
