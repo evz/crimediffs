@@ -1,33 +1,38 @@
 {
-    "community_area": "3", 
-    "_id": {
-        "$oid": "5218d1dd733824919a29b6bc"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "2033", 
+    "y_coordinate": "1934248", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "841", 
+    "case_number": "HW420743", 
+    "id": "9276422", 
+    "primary_type": "THEFT", 
+    "district": "020", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65820282439238, 
-            41.975119935406326
+            -87.65820279541109, 
+            41.97512267943569
         ]
     }, 
-    "case_number": "HW420743", 
+    "community_area": "3", 
+    "latitude": "41.97512267943569", 
+    "type": "property", 
+    "description": "FINANCIAL ID THEFT:$300 &UNDER", 
+    "beat": "2033", 
     "date": {
         "$date": 1375866000000
     }, 
-    "updated_on": {
-        "$date": 1377304792000
-    }, 
     "ward": "48", 
+    "_id": {
+        "$oid": "5218d1dd733824919a29b6bc"
+    }, 
+    "iucr": "841", 
+    "longitude": "-87.65820279541109", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1167831", 
+    "updated_on": {
+        "$date": 1377391216000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9276422", 
-    "block": "011XX W WINONA ST", 
-    "description": "FINANCIAL ID THEFT:$300 &UNDER"
+    "block": "011XX W WINONA ST"
 }
