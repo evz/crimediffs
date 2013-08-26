@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1900348", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW412345", 
+    "id": "9267451", 
+    "primary_type": "ASSAULT", 
+    "district": "011", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.72099022871562, 
+            41.88244551720863
+        ]
+    }, 
+    "community_area": "26", 
+    "latitude": "41.88244551720863", 
+    "type": "violent", 
+    "description": "AGGRAVATED: HANDGUN", 
+    "beat": "1122", 
+    "date": {
+        "$date": 1376779080000
+    }, 
+    "ward": "28", 
+    "_id": {
+        "$oid": "521b74b5733824919a29bb15"
+    }, 
+    "iucr": "051A", 
+    "longitude": "-87.72099022871562", 
+    "location_description": "STREET", 
+    "x_coordinate": "1150999", 
+    "updated_on": {
+        "$date": 1376959223000
+    }, 
+    "fbi_code": "04A", 
+    "block": "001XX N HAMLIN BLVD"
+}
