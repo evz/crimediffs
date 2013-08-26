@@ -1,33 +1,38 @@
 {
-    "community_area": "67", 
-    "_id": {
-        "$oid": "5218d1f2733824919a29b6de"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "0713", 
+    "y_coordinate": "1865461", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2027", 
+    "case_number": "HW385694", 
+    "id": "9272282", 
+    "primary_type": "NARCOTICS", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66299536300998, 
-            41.7856798642502
+            -87.6630063776655, 
+            41.78638246663974
         ]
     }, 
-    "case_number": "HW385694", 
+    "community_area": "67", 
+    "latitude": "41.78638246663974", 
+    "type": "quality", 
+    "description": "POSS: CRACK", 
+    "beat": "0713", 
     "date": {
         "$date": 1375190400000
     }, 
-    "updated_on": {
-        "$date": 1377304792000
-    }, 
     "ward": "15", 
+    "_id": {
+        "$oid": "5218d1f2733824919a29b6de"
+    }, 
+    "iucr": "2027", 
+    "longitude": "-87.6630063776655", 
+    "location_description": "STREET", 
+    "x_coordinate": "1167062", 
+    "updated_on": {
+        "$date": 1377391216000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9272282", 
-    "block": "059XX S JUSTINE ST", 
-    "description": "POSS: CRACK"
+    "block": "059XX S JUSTINE ST"
 }
