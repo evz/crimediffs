@@ -1,33 +1,38 @@
 {
-    "community_area": "29", 
-    "_id": {
-        "$oid": "5218d1f0733824919a29b6d7"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1132", 
+    "y_coordinate": "1894466", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2014", 
+    "case_number": "HW386774", 
+    "id": "9272409", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.7250517333937, 
-            41.86656690952445
+            -87.72504300912246, 
+            41.86632536886011
         ]
     }, 
-    "case_number": "HW386774", 
+    "community_area": "29", 
+    "latitude": "41.86632536886011", 
+    "type": "quality", 
+    "description": "MANU/DELIVER: HEROIN (WHITE)", 
+    "beat": "1132", 
     "date": {
         "$date": 1375267680000
     }, 
-    "updated_on": {
-        "$date": 1377304792000
-    }, 
     "ward": "24", 
+    "_id": {
+        "$oid": "5218d1f0733824919a29b6d7"
+    }, 
+    "iucr": "2014", 
+    "longitude": "-87.72504300912246", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1149937", 
+    "updated_on": {
+        "$date": 1377391216000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9272409", 
-    "block": "011XX S PULASKI RD", 
-    "description": "MANU/DELIVER: HEROIN (WHITE)"
+    "block": "011XX S PULASKI RD"
 }
