@@ -1,0 +1,33 @@
+{
+    "community_area": "31", 
+    "_id": {
+        "$oid": "521b74b9733824919a29bc3a"
+    }, 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "beat": "1034", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "910", 
+    "arrest": false, 
+    "location_description": "PARKING LOT/GARAGE(NON.RESID.)", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67512747982155, 
+            41.85026243593799
+        ]
+    }, 
+    "case_number": "HW422542", 
+    "date": {
+        "$date": 1376755200000
+    }, 
+    "updated_on": {
+        "$date": 1377477583000
+    }, 
+    "ward": "25", 
+    "fbi_code": "07", 
+    "type": "property", 
+    "id": "9277935", 
+    "block": "019XX W 23RD ST", 
+    "description": "AUTOMOBILE"
+}
