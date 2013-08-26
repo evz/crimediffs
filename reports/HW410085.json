@@ -1,0 +1,33 @@
+{
+    "community_area": "68", 
+    "_id": {
+        "$oid": "521b74c0733824919a29bd94"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0733", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "890", 
+    "arrest": false, 
+    "location_description": "APARTMENT", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.6505296, 
+            41.7669057
+        ]
+    }, 
+    "case_number": "HW410085", 
+    "date": {
+        "$date": 1376652300000
+    }, 
+    "updated_on": {
+        "$date": 1377477583000
+    }, 
+    "ward": "17", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9278336", 
+    "block": "070XX S CARPENTER ST", 
+    "description": "FROM BUILDING"
+}
