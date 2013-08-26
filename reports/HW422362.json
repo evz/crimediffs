@@ -1,0 +1,33 @@
+{
+    "community_area": "43", 
+    "_id": {
+        "$oid": "521b74d8733824919a29bdb8"
+    }, 
+    "primary_type": "OTHER OFFENSE", 
+    "beat": "0331", 
+    "year": "2013", 
+    "domestic": true, 
+    "iucr": "5002", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.567126, 
+            41.772961
+        ]
+    }, 
+    "case_number": "HW422362", 
+    "date": {
+        "$date": 1375709400000
+    }, 
+    "updated_on": {
+        "$date": 1377477583000
+    }, 
+    "ward": "5", 
+    "fbi_code": "26", 
+    "type": null, 
+    "id": "9277872", 
+    "block": "067XX S SOUTH SHORE DR", 
+    "description": "OTHER VEHICLE OFFENSE"
+}
