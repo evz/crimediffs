@@ -6,7 +6,7 @@
     "id": "9236712", 
     "primary_type": "BURGLARY", 
     "district": "024", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "RESTAURANT", 
     "x_coordinate": "1157219", 
     "updated_on": {
-        "$date": 1377304792000
+        "$date": 1377477583000
     }, 
     "fbi_code": "05", 
     "block": "026XX W DEVON AVE"
