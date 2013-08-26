@@ -1,0 +1,33 @@
+{
+    "community_area": "67", 
+    "_id": {
+        "$oid": "521b74c4733824919a29bd9f"
+    }, 
+    "primary_type": "ASSAULT", 
+    "beat": "0735", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "051A", 
+    "arrest": false, 
+    "location_description": "SIDEWALK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67206941872169, 
+            41.7607950345711
+        ]
+    }, 
+    "case_number": "HW415477", 
+    "date": {
+        "$date": 1376470800000
+    }, 
+    "updated_on": {
+        "$date": 1377477583000
+    }, 
+    "ward": "17", 
+    "fbi_code": "04A", 
+    "type": "violent", 
+    "id": "9278052", 
+    "block": "073XX S WINCHESTER AVE", 
+    "description": "AGGRAVATED: HANDGUN"
+}
