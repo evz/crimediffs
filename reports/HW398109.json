@@ -1,33 +1,38 @@
 {
-    "community_area": "21", 
-    "_id": {
-        "$oid": "520ba2bd733824919a298888"
-    }, 
-    "primary_type": "OFFENSE INVOLVING CHILDREN", 
-    "beat": "1411", 
+    "y_coordinate": "1919440", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1720", 
+    "case_number": "HW398109", 
+    "id": "9255086", 
+    "primary_type": "OFFENSE INVOLVING CHILDREN", 
+    "district": "014", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.70762997282468, 
-            41.93405566758983
+            -87.70735474870686, 
+            41.93476492090992
         ]
     }, 
-    "case_number": "HW398109", 
+    "community_area": "21", 
+    "latitude": "41.93476492090992", 
+    "type": null, 
+    "description": "CONTRIBUTE DELINQUENCY OF A CHILD", 
+    "beat": "1411", 
     "date": {
         "$date": 1375754400000
     }, 
-    "updated_on": {
-        "$date": 1376268035000
-    }, 
     "ward": "35", 
+    "_id": {
+        "$oid": "520ba2bd733824919a298888"
+    }, 
+    "iucr": "1720", 
+    "longitude": "-87.70735474870686", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1154573", 
+    "updated_on": {
+        "$date": 1377477583000
+    }, 
     "fbi_code": "20", 
-    "type": null, 
-    "id": "9255086", 
-    "block": "029XX N KEDZIE AVE", 
-    "description": "CONTRIBUTE DELINQUENCY OF A CHILD"
+    "block": "029XX N KEDZIE AVE"
 }
