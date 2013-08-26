@@ -1,33 +1,38 @@
 {
-    "community_area": "56", 
-    "_id": {
-        "$oid": "5218d1eb733824919a29b6c9"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "0813", 
+    "y_coordinate": "1866346", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2091", 
+    "case_number": "HW390049", 
+    "id": "9275716", 
+    "primary_type": "NARCOTICS", 
+    "district": "008", 
     "arrest": false, 
-    "location_description": "AIRPORT/AIRCRAFT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.7417176, 
-            41.7881161
+            -87.74163897884421, 
+            41.789243073784405
         ]
     }, 
-    "case_number": "HW390049", 
+    "community_area": "56", 
+    "latitude": "41.789243073784405", 
+    "type": "quality", 
+    "description": "FORFEIT PROPERTY", 
+    "beat": "0813", 
     "date": {
         "$date": 1375448400000
     }, 
-    "updated_on": {
-        "$date": 1377304792000
-    }, 
     "ward": "23", 
+    "_id": {
+        "$oid": "5218d1eb733824919a29b6c9"
+    }, 
+    "iucr": "2091", 
+    "longitude": "-87.74163897884421", 
+    "location_description": "AIRPORT/AIRCRAFT", 
+    "x_coordinate": "1145610", 
+    "updated_on": {
+        "$date": 1377391216000
+    }, 
     "fbi_code": "26", 
-    "type": "quality", 
-    "id": "9275716", 
-    "block": "057XX S CICERO AVE", 
-    "description": "FORFEIT PROPERTY"
+    "block": "057XX S CICERO AVE"
 }
