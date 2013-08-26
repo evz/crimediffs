@@ -1,33 +1,38 @@
 {
-    "community_area": "49", 
-    "_id": {
-        "$oid": "5218d1d9733824919a29b6b6"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "0512", 
+    "y_coordinate": "1836254", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2024", 
+    "case_number": "HW398623", 
+    "id": "9275801", 
+    "primary_type": "NARCOTICS", 
+    "district": "005", 
     "arrest": false, 
-    "location_description": "SIDEWALK", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.62366730589088, 
-            41.707069023175244
+            -87.62363519268473, 
+            41.70599304966566
         ]
     }, 
-    "case_number": "HW398623", 
+    "community_area": "49", 
+    "latitude": "41.70599304966566", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "0512", 
     "date": {
         "$date": 1375962300000
     }, 
-    "updated_on": {
-        "$date": 1377304792000
-    }, 
     "ward": "34", 
+    "_id": {
+        "$oid": "5218d1d9733824919a29b6b6"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.62363519268473", 
+    "location_description": "SIDEWALK", 
+    "x_coordinate": "1178041", 
+    "updated_on": {
+        "$date": 1377391216000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9275801", 
-    "block": "103XX S STATE ST", 
-    "description": "POSS: HEROIN(WHITE)"
+    "block": "103XX S STATE ST"
 }
