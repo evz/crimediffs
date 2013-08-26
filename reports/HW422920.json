@@ -1,0 +1,33 @@
+{
+    "community_area": "76", 
+    "_id": {
+        "$oid": "521b74bf733824919a29bd92"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "1651", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "810", 
+    "arrest": false, 
+    "location_description": "AIRPORT TERMINAL LOWER LEVEL - SECURE AREA", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.90098446311458, 
+            41.97665321544024
+        ]
+    }, 
+    "case_number": "HW422920", 
+    "date": {
+        "$date": 1376672400000
+    }, 
+    "updated_on": {
+        "$date": 1377477583000
+    }, 
+    "ward": "41", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9278182", 
+    "block": "0000X W TERMINAL ST", 
+    "description": "OVER $500"
+}
