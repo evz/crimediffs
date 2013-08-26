@@ -1,33 +1,38 @@
 {
-    "community_area": "44", 
-    "_id": {
-        "$oid": "5218d1f0733824919a29b6d8"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "0633", 
+    "y_coordinate": "1843514", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2091", 
+    "case_number": "HW387058", 
+    "id": "9275833", 
+    "primary_type": "NARCOTICS", 
+    "district": "006", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.60619994203962, 
-            41.72578859457845
+            -87.60543415362977, 
+            41.72580295628187
         ]
     }, 
-    "case_number": "HW387058", 
+    "community_area": "44", 
+    "latitude": "41.72580295628187", 
+    "type": "quality", 
+    "description": "FORFEIT PROPERTY", 
+    "beat": "0633", 
     "date": {
         "$date": 1375266180000
     }, 
-    "updated_on": {
-        "$date": 1377304792000
-    }, 
     "ward": "9", 
+    "_id": {
+        "$oid": "5218d1f0733824919a29b6d8"
+    }, 
+    "iucr": "2091", 
+    "longitude": "-87.60543415362977", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1182950", 
+    "updated_on": {
+        "$date": 1377391216000
+    }, 
     "fbi_code": "26", 
-    "type": "quality", 
-    "id": "9275833", 
-    "block": "007XX E 93RD ST", 
-    "description": "FORFEIT PROPERTY"
+    "block": "007XX E 93RD ST"
 }
