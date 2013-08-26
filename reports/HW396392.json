@@ -1,33 +1,38 @@
 {
-    "community_area": "23", 
-    "_id": {
-        "$oid": "5218d1de733824919a29b6bd"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1121", 
+    "y_coordinate": "1905161", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1822", 
+    "case_number": "HW396392", 
+    "id": "9275648", 
+    "primary_type": "NARCOTICS", 
+    "district": "011", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.71164049915349, 
-            41.89724163899067
+            -87.71129278135811, 
+            41.89560144457405
         ]
     }, 
-    "case_number": "HW396392", 
+    "community_area": "23", 
+    "latitude": "41.89560144457405", 
+    "type": "quality", 
+    "description": "MANU/DEL:CANNABIS OVER 10 GMS", 
+    "beat": "1121", 
     "date": {
         "$date": 1375813800000
     }, 
-    "updated_on": {
-        "$date": 1377304792000
-    }, 
     "ward": "27", 
+    "_id": {
+        "$oid": "5218d1de733824919a29b6bd"
+    }, 
+    "iucr": "1822", 
+    "longitude": "-87.71129278135811", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1153605", 
+    "updated_on": {
+        "$date": 1377391216000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9275648", 
-    "block": "008XX N HOMAN AVE", 
-    "description": "MANU/DEL:CANNABIS OVER 10 GMS"
+    "block": "008XX N HOMAN AVE"
 }
