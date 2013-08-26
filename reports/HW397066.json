@@ -1,33 +1,38 @@
 {
-    "community_area": "67", 
-    "_id": {
-        "$oid": "5218d1dd733824919a29b6bb"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "0713", 
+    "y_coordinate": "1864375", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2017", 
+    "case_number": "HW397066", 
+    "id": "9275617", 
+    "primary_type": "NARCOTICS", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.66084753925792, 
-            41.78454489693263
+            -87.66081561520515, 
+            41.783389363810514
         ]
     }, 
-    "case_number": "HW397066", 
+    "community_area": "67", 
+    "latitude": "41.783389363810514", 
+    "type": "quality", 
+    "description": "MANU/DELIVER:CRACK", 
+    "beat": "0713", 
     "date": {
         "$date": 1375871280000
     }, 
-    "updated_on": {
-        "$date": 1377304792000
-    }, 
     "ward": "16", 
+    "_id": {
+        "$oid": "5218d1dd733824919a29b6bb"
+    }, 
+    "iucr": "2017", 
+    "longitude": "-87.66081561520515", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1167668", 
+    "updated_on": {
+        "$date": 1377391216000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9275617", 
-    "block": "060XX S BISHOP ST", 
-    "description": "MANU/DELIVER:CRACK"
+    "block": "060XX S BISHOP ST"
 }
