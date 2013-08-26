@@ -1,33 +1,38 @@
 {
-    "community_area": "68", 
-    "_id": {
-        "$oid": "5218d1dd733824919a29b6ba"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "0724", 
+    "y_coordinate": "1862015", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2017", 
+    "case_number": "HW397196", 
+    "id": "9275598", 
+    "primary_type": "NARCOTICS", 
+    "district": "007", 
     "arrest": false, 
-    "location_description": "VEHICLE NON-COMMERCIAL", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.65093905157568, 
-            41.77705492720978
+            -87.65093017727689, 
+            41.77685454110587
         ]
     }, 
-    "case_number": "HW397196", 
+    "community_area": "68", 
+    "latitude": "41.77685454110587", 
+    "type": "quality", 
+    "description": "MANU/DELIVER:CRACK", 
+    "beat": "0724", 
     "date": {
         "$date": 1375873620000
     }, 
-    "updated_on": {
-        "$date": 1377304792000
-    }, 
     "ward": "16", 
+    "_id": {
+        "$oid": "5218d1dd733824919a29b6ba"
+    }, 
+    "iucr": "2017", 
+    "longitude": "-87.65093017727689", 
+    "location_description": "VEHICLE NON-COMMERCIAL", 
+    "x_coordinate": "1170383", 
+    "updated_on": {
+        "$date": 1377391216000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9275598", 
-    "block": "064XX S CARPENTER ST", 
-    "description": "MANU/DELIVER:CRACK"
+    "block": "064XX S CARPENTER ST"
 }
