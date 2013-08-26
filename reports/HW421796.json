@@ -1,0 +1,33 @@
+{
+    "community_area": "56", 
+    "_id": {
+        "$oid": "521b74cf733824919a29bdb3"
+    }, 
+    "primary_type": "THEFT", 
+    "beat": "0811", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "840", 
+    "arrest": false, 
+    "location_description": "BANK", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.77390822940183, 
+            41.793828545745335
+        ]
+    }, 
+    "case_number": "HW421796", 
+    "date": {
+        "$date": 1376035200000
+    }, 
+    "updated_on": {
+        "$date": 1377477583000
+    }, 
+    "ward": "23", 
+    "fbi_code": "06", 
+    "type": "property", 
+    "id": "9277345", 
+    "block": "061XX S ARCHER AVE", 
+    "description": "FINANCIAL ID THEFT: OVER $300"
+}
