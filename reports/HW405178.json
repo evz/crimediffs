@@ -6,7 +6,7 @@
     "id": "9259722", 
     "primary_type": "OFFENSE INVOLVING CHILDREN", 
     "district": "009", 
-    "arrest": false, 
+    "arrest": true, 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -31,7 +31,7 @@
     "location_description": "MEDICAL/DENTAL OFFICE", 
     "x_coordinate": "1166594", 
     "updated_on": {
-        "$date": 1377304792000
+        "$date": 1377477583000
     }, 
     "fbi_code": "20", 
     "block": "051XX S ASHLAND AVE"
