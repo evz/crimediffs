@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1902213", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW412702", 
+    "id": "9267669", 
+    "primary_type": "THEFT", 
+    "district": "012", 
+    "arrest": false, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.70223085798105, 
+            41.88746197447919
+        ]
+    }, 
+    "community_area": "27", 
+    "latitude": "41.88746197447919", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "1222", 
+    "date": {
+        "$date": 1376755200000
+    }, 
+    "ward": "27", 
+    "_id": {
+        "$oid": "521b74b9733824919a29bc42"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.70223085798105", 
+    "location_description": "CONSTRUCTION SITE", 
+    "x_coordinate": "1156094", 
+    "updated_on": {
+        "$date": 1377132036000
+    }, 
+    "fbi_code": "06", 
+    "block": "030XX W CARROLL AVE"
+}
