@@ -4,7 +4,7 @@
     "domestic": false, 
     "case_number": "HW401115", 
     "id": "9256183", 
-    "primary_type": "ROBBERY", 
+    "primary_type": "BATTERY", 
     "district": "019", 
     "arrest": false, 
     "location": {
@@ -16,8 +16,8 @@
     }, 
     "community_area": "6", 
     "latitude": "41.95128577134067", 
-    "type": "violent", 
-    "description": "ATTEMPT: STRONGARM-NO WEAPON", 
+    "type": null, 
+    "description": "SIMPLE", 
     "beat": "1925", 
     "date": {
         "$date": 1376095080000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "5214dd58733824919a29a3a5"
     }, 
-    "iucr": "340", 
+    "iucr": "460", 
     "longitude": "-87.64742955611564", 
     "location_description": "STREET", 
     "x_coordinate": "1170830", 
     "updated_on": {
-        "$date": 1376440911000
+        "$date": 1377477583000
     }, 
-    "fbi_code": "03", 
+    "fbi_code": "08B", 
     "block": "037XX N PINE GROVE AVE"
 }
