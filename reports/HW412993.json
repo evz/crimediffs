@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1858245", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW412993", 
+    "id": "9267921", 
+    "primary_type": "THEFT", 
+    "district": "003", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.57157185216026, 
+            41.766009774644985
+        ]
+    }, 
+    "community_area": "43", 
+    "latitude": "41.766009774644985", 
+    "type": "property", 
+    "description": "RETAIL THEFT", 
+    "beat": "0333", 
+    "date": {
+        "$date": 1376829900000
+    }, 
+    "ward": "5", 
+    "_id": {
+        "$oid": "521b74b0733824919a29b969"
+    }, 
+    "iucr": "860", 
+    "longitude": "-87.57157185216026", 
+    "location_description": "SMALL RETAIL STORE", 
+    "x_coordinate": "1192064", 
+    "updated_on": {
+        "$date": 1377132036000
+    }, 
+    "fbi_code": "06", 
+    "block": "021XX E 71ST ST"
+}
