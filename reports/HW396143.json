@@ -1,33 +1,38 @@
 {
-    "community_area": "36", 
-    "_id": {
-        "$oid": "5218d1de733824919a29b6be"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "0212", 
+    "y_coordinate": "1881728", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2024", 
+    "case_number": "HW396143", 
+    "id": "9275815", 
+    "primary_type": "NARCOTICS", 
+    "district": "002", 
     "arrest": false, 
-    "location_description": "PARK PROPERTY", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.60997244631557, 
-            41.83024635277934
+            -87.61053601292153, 
+            41.83070544858741
         ]
     }, 
-    "case_number": "HW396143", 
+    "community_area": "36", 
+    "latitude": "41.83070544858741", 
+    "type": "quality", 
+    "description": "POSS: HEROIN(WHITE)", 
+    "beat": "0212", 
     "date": {
         "$date": 1375806000000
     }, 
-    "updated_on": {
-        "$date": 1377304792000
-    }, 
     "ward": "4", 
+    "_id": {
+        "$oid": "5218d1de733824919a29b6be"
+    }, 
+    "iucr": "2024", 
+    "longitude": "-87.61053601292153", 
+    "location_description": "PARK PROPERTY", 
+    "x_coordinate": "1181236", 
+    "updated_on": {
+        "$date": 1377391216000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9275815", 
-    "block": "035XX S COTTAGE GROVE AVE", 
-    "description": "POSS: HEROIN(WHITE)"
+    "block": "035XX S COTTAGE GROVE AVE"
 }
