@@ -1,33 +1,38 @@
 {
-    "community_area": "37", 
-    "_id": {
-        "$oid": "5218d1df733824919a29b6bf"
-    }, 
-    "primary_type": "ASSAULT", 
-    "beat": "0925", 
+    "y_coordinate": "1875266", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "560", 
+    "case_number": "HW419656", 
+    "id": "9275153", 
+    "primary_type": "ASSAULT", 
+    "district": "009", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.63213339319839, 
-            41.81321013279872
+            -87.63242430363196, 
+            41.81310762581797
         ]
     }, 
-    "case_number": "HW419656", 
+    "community_area": "37", 
+    "latitude": "41.81310762581797", 
+    "type": null, 
+    "description": "SIMPLE", 
+    "beat": "0925", 
     "date": {
         "$date": 1375783200000
     }, 
-    "updated_on": {
-        "$date": 1377304792000
-    }, 
     "ward": "3", 
+    "_id": {
+        "$oid": "5218d1df733824919a29b6bf"
+    }, 
+    "iucr": "560", 
+    "longitude": "-87.63242430363196", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1175323", 
+    "updated_on": {
+        "$date": 1377391216000
+    }, 
     "fbi_code": "08A", 
-    "type": null, 
-    "id": "9275153", 
-    "block": "044XX S WELLS ST", 
-    "description": "SIMPLE"
+    "block": "044XX S WELLS ST"
 }
