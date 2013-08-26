@@ -1,33 +1,38 @@
 {
-    "community_area": "43", 
-    "_id": {
-        "$oid": "520ba2cb733824919a298b63"
-    }, 
-    "primary_type": "MOTOR VEHICLE THEFT", 
-    "beat": "0421", 
+    "y_coordinate": "1853418", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "910", 
+    "case_number": "HW393947", 
+    "id": "9248926", 
+    "primary_type": "MOTOR VEHICLE THEFT", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.55389590017103, 
-            41.75212583265033
+            -87.55390794818233, 
+            41.75264458667161
         ]
     }, 
-    "case_number": "HW393947", 
+    "community_area": "43", 
+    "latitude": "41.75264458667161", 
+    "type": "property", 
+    "description": "AUTOMOBILE", 
+    "beat": "0421", 
     "date": {
         "$date": 1375682400000
     }, 
-    "updated_on": {
-        "$date": 1375922568000
-    }, 
     "ward": "7", 
+    "_id": {
+        "$oid": "520ba2cb733824919a298b63"
+    }, 
+    "iucr": "910", 
+    "longitude": "-87.55390794818233", 
+    "location_description": "STREET", 
+    "x_coordinate": "1196927", 
+    "updated_on": {
+        "$date": 1377477583000
+    }, 
     "fbi_code": "07", 
-    "type": "property", 
-    "id": "9248926", 
-    "block": "078XX S ESCANABA AVE", 
-    "description": "AUTOMOBILE"
+    "block": "078XX S ESCANABA AVE"
 }
