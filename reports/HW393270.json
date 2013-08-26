@@ -1,33 +1,38 @@
 {
-    "community_area": "29", 
-    "_id": {
-        "$oid": "5218d1e3733824919a29b6c1"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1014", 
+    "y_coordinate": "1889398", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1812", 
+    "case_number": "HW393270", 
+    "id": "9272392", 
+    "primary_type": "NARCOTICS", 
+    "district": "010", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.71610511486145, 
-            41.852784164859045
+            -87.71638437243547, 
+            41.852371281823885
         ]
     }, 
-    "case_number": "HW393270", 
+    "community_area": "29", 
+    "latitude": "41.852371281823885", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS MORE THAN 30GMS", 
+    "beat": "1014", 
     "date": {
         "$date": 1375634400000
     }, 
-    "updated_on": {
-        "$date": 1377304792000
-    }, 
     "ward": "24", 
+    "_id": {
+        "$oid": "5218d1e3733824919a29b6c1"
+    }, 
+    "iucr": "1812", 
+    "longitude": "-87.71638437243547", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1152332", 
+    "updated_on": {
+        "$date": 1377391216000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9272392", 
-    "block": "021XX S MILLARD AVE", 
-    "description": "POSS: CANNABIS MORE THAN 30GMS"
+    "block": "021XX S MILLARD AVE"
 }
