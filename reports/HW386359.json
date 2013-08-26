@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "5218d1f1733824919a29b6db"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1532", 
+    "y_coordinate": "1901366", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1812", 
+    "case_number": "HW386359", 
+    "id": "9272396", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "APARTMENT", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.75418251479006, 
-            41.88540311823233
+            -87.75388866172277, 
+            41.88540986865623
         ]
     }, 
-    "case_number": "HW386359", 
+    "community_area": "25", 
+    "latitude": "41.88540986865623", 
+    "type": "quality", 
+    "description": "POSS: CANNABIS MORE THAN 30GMS", 
+    "beat": "1532", 
     "date": {
         "$date": 1375218561000
     }, 
-    "updated_on": {
-        "$date": 1377304792000
-    }, 
     "ward": "28", 
+    "_id": {
+        "$oid": "5218d1f1733824919a29b6db"
+    }, 
+    "iucr": "1812", 
+    "longitude": "-87.75388866172277", 
+    "location_description": "APARTMENT", 
+    "x_coordinate": "1142033", 
+    "updated_on": {
+        "$date": 1377391216000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9272396", 
-    "block": "002XX N LEAMINGTON AVE", 
-    "description": "POSS: CANNABIS MORE THAN 30GMS"
+    "block": "002XX N LEAMINGTON AVE"
 }
