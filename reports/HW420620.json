@@ -1,15 +1,12 @@
 {
-    "community_area": "8", 
-    "_id": {
-        "$oid": "5218d1cd733824919a29b6aa"
-    }, 
-    "primary_type": "THEFT", 
-    "beat": "1834", 
+    "y_coordinate": "1903463", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "820", 
+    "case_number": "HW420620", 
+    "id": "9276390", 
+    "primary_type": "THEFT", 
+    "district": "018", 
     "arrest": false, 
-    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
     "location": {
         "type": "Point", 
         "coordinates": [
@@ -17,17 +14,25 @@
             41.8904354885073
         ]
     }, 
-    "case_number": "HW420620", 
+    "community_area": "8", 
+    "latitude": "41.8904354885073", 
+    "type": "property", 
+    "description": "FROM BUILDING", 
+    "beat": "1834", 
     "date": {
         "$date": 1376334120000
     }, 
-    "updated_on": {
-        "$date": 1377304792000
-    }, 
     "ward": "42", 
+    "_id": {
+        "$oid": "5218d1cd733824919a29b6aa"
+    }, 
+    "iucr": "890", 
+    "longitude": "-87.62396611560152", 
+    "location_description": "COMMERCIAL / BUSINESS OFFICE", 
+    "x_coordinate": "1177396", 
+    "updated_on": {
+        "$date": 1377477583000
+    }, 
     "fbi_code": "06", 
-    "type": "property", 
-    "id": "9276390", 
-    "block": "004XX N MICHIGAN AVE", 
-    "description": "$500 AND UNDER"
+    "block": "004XX N MICHIGAN AVE"
 }
