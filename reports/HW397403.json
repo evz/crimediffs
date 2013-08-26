@@ -4,7 +4,7 @@
     "domestic": false, 
     "case_number": "HW397403", 
     "id": "9252546", 
-    "primary_type": "BATTERY", 
+    "primary_type": "WEAPONS VIOLATION", 
     "district": "010", 
     "arrest": false, 
     "location": {
@@ -16,8 +16,8 @@
     }, 
     "community_area": "29", 
     "latitude": "41.86419826456203", 
-    "type": "violent", 
-    "description": "AGGRAVATED: HANDGUN", 
+    "type": null, 
+    "description": "UNLAWFUL POSS OF HANDGUN", 
     "beat": "1021", 
     "date": {
         "$date": 1375885380000
@@ -26,13 +26,13 @@
     "_id": {
         "$oid": "5214dd6a733824919a29aa9a"
     }, 
-    "iucr": "041A", 
+    "iucr": "143A", 
     "longitude": "-87.71471043143382", 
     "location_description": "RESIDENCE PORCH/HALLWAY", 
     "x_coordinate": "1152757", 
     "updated_on": {
-        "$date": 1376095237000
+        "$date": 1377477583000
     }, 
-    "fbi_code": "04B", 
+    "fbi_code": "15", 
     "block": "035XX W 13TH PL"
 }
