@@ -1,33 +1,38 @@
 {
-    "community_area": "46", 
-    "_id": {
-        "$oid": "5218d1f2733824919a29b6dd"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "0422", 
+    "y_coordinate": "1852079", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "2027", 
+    "case_number": "HW385818", 
+    "id": "9272290", 
+    "primary_type": "NARCOTICS", 
+    "district": "004", 
     "arrest": false, 
-    "location_description": "RESIDENCE", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.55756060074287, 
-            41.74969723233956
+            -87.55755073711319, 
+            41.74899462506127
         ]
     }, 
-    "case_number": "HW385818", 
+    "community_area": "46", 
+    "latitude": "41.74899462506127", 
+    "type": "quality", 
+    "description": "POSS: CRACK", 
+    "beat": "0422", 
     "date": {
         "$date": 1375194600000
     }, 
-    "updated_on": {
-        "$date": 1377304792000
-    }, 
     "ward": "7", 
+    "_id": {
+        "$oid": "5218d1f2733824919a29b6dd"
+    }, 
+    "iucr": "2027", 
+    "longitude": "-87.55755073711319", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1195945", 
+    "updated_on": {
+        "$date": 1377391216000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9272290", 
-    "block": "080XX S MANISTEE AVE", 
-    "description": "POSS: CRACK"
+    "block": "080XX S MANISTEE AVE"
 }
