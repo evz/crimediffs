@@ -1,33 +1,38 @@
 {
-    "community_area": "25", 
-    "_id": {
-        "$oid": "5218d1f5733824919a29b6ea"
-    }, 
-    "primary_type": "NARCOTICS", 
-    "beat": "1531", 
+    "y_coordinate": "1905060", 
     "year": "2013", 
     "domestic": false, 
-    "iucr": "1821", 
+    "case_number": "HW383158", 
+    "id": "9272401", 
+    "primary_type": "NARCOTICS", 
+    "district": "015", 
     "arrest": false, 
-    "location_description": "STREET", 
     "location": {
         "type": "Point", 
         "coordinates": [
-            -87.75454269808512, 
-            41.89554217665897
+            -87.75424512574419, 
+            41.89554890917936
         ]
     }, 
-    "case_number": "HW383158", 
+    "community_area": "25", 
+    "latitude": "41.89554890917936", 
+    "type": "quality", 
+    "description": "MANU/DEL:CANNABIS 10GM OR LESS", 
+    "beat": "1531", 
     "date": {
         "$date": 1375034100000
     }, 
-    "updated_on": {
-        "$date": 1377304792000
-    }, 
     "ward": "37", 
+    "_id": {
+        "$oid": "5218d1f5733824919a29b6ea"
+    }, 
+    "iucr": "1821", 
+    "longitude": "-87.75424512574419", 
+    "location_description": "STREET", 
+    "x_coordinate": "1141911", 
+    "updated_on": {
+        "$date": 1377391216000
+    }, 
     "fbi_code": "18", 
-    "type": "quality", 
-    "id": "9272401", 
-    "block": "008XX N LEAMINGTON AVE", 
-    "description": "MANU/DEL:CANNABIS 10GM OR LESS"
+    "block": "008XX N LEAMINGTON AVE"
 }
