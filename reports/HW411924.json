@@ -1,0 +1,38 @@
+{
+    "y_coordinate": "1867803", 
+    "year": "2013", 
+    "domestic": false, 
+    "case_number": "HW411924", 
+    "id": "9267074", 
+    "primary_type": "THEFT", 
+    "district": "007", 
+    "arrest": true, 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.67440943994218, 
+            41.79287556113974
+        ]
+    }, 
+    "community_area": "67", 
+    "latitude": "41.79287556113974", 
+    "type": "property", 
+    "description": "OVER $500", 
+    "beat": "0715", 
+    "date": {
+        "$date": 1376755200000
+    }, 
+    "ward": "15", 
+    "_id": {
+        "$oid": "521b74b9733824919a29bc4d"
+    }, 
+    "iucr": "810", 
+    "longitude": "-87.67440943994218", 
+    "location_description": "RESIDENCE", 
+    "x_coordinate": "1163934", 
+    "updated_on": {
+        "$date": 1376959223000
+    }, 
+    "fbi_code": "06", 
+    "block": "055XX S DAMEN AVE"
+}
