@@ -1,0 +1,33 @@
+{
+    "community_area": "27", 
+    "_id": {
+        "$oid": "521b74c7733824919a29bda3"
+    }, 
+    "primary_type": "BATTERY", 
+    "beat": "1222", 
+    "year": "2013", 
+    "domestic": false, 
+    "iucr": "460", 
+    "arrest": false, 
+    "location_description": "STREET", 
+    "location": {
+        "type": "Point", 
+        "coordinates": [
+            -87.69786785623947, 
+            41.88116731406467
+        ]
+    }, 
+    "case_number": "HW405478", 
+    "date": {
+        "$date": 1376360100000
+    }, 
+    "updated_on": {
+        "$date": 1377477583000
+    }, 
+    "ward": "2", 
+    "fbi_code": "08B", 
+    "type": null, 
+    "id": "9276749", 
+    "block": "028XX W MADISON ST", 
+    "description": "SIMPLE"
+}
